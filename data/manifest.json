@@ -1,0 +1,115 @@
+{
+ "schema": 1,
+ "version": "2026-10",
+ "label": "May/June 2022 to May/June 2026",
+ "sessions": [
+  "2022-MJ",
+  "2022-ON",
+  "2023-MJ",
+  "2023-ON",
+  "2024-MJ",
+  "2024-ON",
+  "2025-MJ",
+  "2025-ON",
+  "2026-MJ"
+ ],
+ "built": "2026-10-20",
+ "packs": [
+  {
+   "code": "4024",
+   "level": "o-level",
+   "name": "Mathematics D",
+   "file": "/data/4024.json",
+   "bytes": 77466,
+   "questions": 355
+  },
+  {
+   "code": "5054",
+   "level": "o-level",
+   "name": "Physics",
+   "file": "/data/5054.json",
+   "bytes": 122351,
+   "questions": 567
+  },
+  {
+   "code": "5070",
+   "level": "o-level",
+   "name": "Chemistry",
+   "file": "/data/5070.json",
+   "bytes": 132043,
+   "questions": 504
+  },
+  {
+   "code": "5090",
+   "level": "o-level",
+   "name": "Biology",
+   "file": "/data/5090.json",
+   "bytes": 131686,
+   "questions": 538
+  },
+  {
+   "code": "0580",
+   "level": "igcse",
+   "name": "Mathematics",
+   "file": "/data/0580.json",
+   "bytes": 106719,
+   "questions": 487
+  },
+  {
+   "code": "0625",
+   "level": "igcse",
+   "name": "Physics",
+   "file": "/data/0625.json",
+   "bytes": 101609,
+   "questions": 502
+  },
+  {
+   "code": "0620",
+   "level": "igcse",
+   "name": "Chemistry",
+   "file": "/data/0620.json",
+   "bytes": 112308,
+   "questions": 459
+  },
+  {
+   "code": "0610",
+   "level": "igcse",
+   "name": "Biology",
+   "file": "/data/0610.json",
+   "bytes": 114311,
+   "questions": 443
+  },
+  {
+   "code": "9709",
+   "level": "a-level",
+   "name": "Mathematics",
+   "file": "/data/9709.json",
+   "bytes": 101321,
+   "questions": 386
+  },
+  {
+   "code": "9702",
+   "level": "a-level",
+   "name": "Physics",
+   "file": "/data/9702.json",
+   "bytes": 132466,
+   "questions": 535
+  },
+  {
+   "code": "9701",
+   "level": "a-level",
+   "name": "Chemistry",
+   "file": "/data/9701.json",
+   "bytes": 166963,
+   "questions": 509
+  },
+  {
+   "code": "9700",
+   "level": "a-level",
+   "name": "Biology",
+   "file": "/data/9700.json",
+   "bytes": 132867,
+   "questions": 529
+  }
+ ]
+}
