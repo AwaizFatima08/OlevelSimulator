@@ -1,0 +1,83 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,1,1,i,Reading comprehension,Reasons and causes,3
+2022-MJ,1,1,1,ii,Reading comprehension,Reasons and causes,3
+2022-MJ,1,1,1,iii,Reading comprehension,"Solutions, measures and advice",4
+2022-MJ,1,1,1,iv,Reading comprehension,"Solutions, measures and advice",3
+2022-MJ,1,1,1,v,Reading comprehension,Views of people in the passage,4
+2022-MJ,1,1,1,vi,Reading comprehension,Reasons and causes,4
+2022-MJ,1,1,1,vii,Reading comprehension,"Solutions, measures and advice",4
+2022-MJ,1,1,2,i,Composition (essay writing),Argumentative essay,6.25
+2022-MJ,1,1,2,ii,Composition (essay writing),Discursive essay,6.25
+2022-MJ,1,1,2,iii,Composition (essay writing),Descriptive essay,6.25
+2022-MJ,1,1,2,iv,Composition (essay writing),Narrative essay (story continuation),6.25
+2022-MJ,2,1,1,,Unseen passage (literary appreciation),Unseen poem,20
+2022-MJ,2,1,2,,Poetry (set texts),Nazm: message and themes,7.5
+2022-MJ,2,1,3,,Poetry (set texts),Ghazal: style and mood,7.5
+2022-MJ,2,1,4,,Prose (set texts),Humorous essay,7.5
+2022-MJ,2,1,5,,Prose (set texts),Short story (afsana),7.5
+2023-MJ,1,1,1,i,Reading comprehension,Reasons and causes,3
+2023-MJ,1,1,1,ii,Reading comprehension,"Facts, details and effects",4
+2023-MJ,1,1,1,iii,Reading comprehension,Views of people in the passage,4
+2023-MJ,1,1,1,iv,Reading comprehension,Views of people in the passage,4
+2023-MJ,1,1,1,v,Reading comprehension,"Facts, details and effects",4
+2023-MJ,1,1,1,vi,Reading comprehension,Views of people in the passage,3
+2023-MJ,1,1,1,vii,Reading comprehension,"Solutions, measures and advice",3
+2023-MJ,1,1,2,i,Composition (essay writing),Argumentative essay,6.25
+2023-MJ,1,1,2,ii,Composition (essay writing),Discursive essay,6.25
+2023-MJ,1,1,2,iii,Composition (essay writing),Descriptive essay,6.25
+2023-MJ,1,1,2,iv,Composition (essay writing),Narrative essay (story continuation),6.25
+2023-MJ,2,1,1,,Unseen passage (literary appreciation),Unseen poem,20
+2023-MJ,2,1,2,,Poetry (set texts),Humorous and satirical poetry,7.5
+2023-MJ,2,1,3,,Poetry (set texts),Ghazal: style and mood,7.5
+2023-MJ,2,1,4,,Prose (set texts),Humorous essay,7.5
+2023-MJ,2,1,5,,Prose (set texts),Serious essay (mazmoon),7.5
+2024-MJ,1,1,1,i,Reading comprehension,Reasons and causes,4
+2024-MJ,1,1,1,ii,Reading comprehension,"Facts, details and effects",3
+2024-MJ,1,1,1,iii,Reading comprehension,Views of people in the passage,4
+2024-MJ,1,1,1,iv,Reading comprehension,"Facts, details and effects",4
+2024-MJ,1,1,1,v,Reading comprehension,"Solutions, measures and advice",4
+2024-MJ,1,1,1,vi,Reading comprehension,Views of people in the passage,4
+2024-MJ,1,1,1,vii,Reading comprehension,Personal evaluation,2
+2024-MJ,1,1,2,i,Composition (essay writing),Argumentative essay,6.25
+2024-MJ,1,1,2,ii,Composition (essay writing),Discursive essay,6.25
+2024-MJ,1,1,2,iii,Composition (essay writing),Descriptive essay,6.25
+2024-MJ,1,1,2,iv,Composition (essay writing),Narrative essay (story continuation),6.25
+2024-MJ,2,1,1,,Unseen passage (literary appreciation),Unseen poem,20
+2024-MJ,2,1,2,,Poetry (set texts),Humorous and satirical poetry,7.5
+2024-MJ,2,1,3,,Poetry (set texts),Ghazal: style and mood,7.5
+2024-MJ,2,1,4,,Prose (set texts),Short story (afsana),7.5
+2024-MJ,2,1,5,,Prose (set texts),Humorous essay,7.5
+2025-MJ,1,1,1,i,Reading comprehension,Reasons and causes,3
+2025-MJ,1,1,1,ii,Reading comprehension,Reasons and causes,4
+2025-MJ,1,1,1,iii,Reading comprehension,Views of people in the passage,4
+2025-MJ,1,1,1,iv,Reading comprehension,Views of people in the passage,2
+2025-MJ,1,1,1,v,Reading comprehension,Views of people in the passage,4
+2025-MJ,1,1,1,vi,Reading comprehension,"Solutions, measures and advice",2
+2025-MJ,1,1,1,vii,Reading comprehension,"Solutions, measures and advice",2
+2025-MJ,1,1,1,viii,Reading comprehension,"Solutions, measures and advice",4
+2025-MJ,1,1,2,i,Composition (essay writing),Argumentative essay,6.25
+2025-MJ,1,1,2,ii,Composition (essay writing),Discursive essay,6.25
+2025-MJ,1,1,2,iii,Composition (essay writing),Descriptive essay,6.25
+2025-MJ,1,1,2,iv,Composition (essay writing),Narrative essay (story continuation),6.25
+2025-MJ,2,1,1,,Unseen passage (literary appreciation),Unseen prose extract,20
+2025-MJ,2,1,2,,Poetry (set texts),Humorous and satirical poetry,7.5
+2025-MJ,2,1,3,,Poetry (set texts),Ghazal: style and mood,7.5
+2025-MJ,2,1,4,,Prose (set texts),Serious essay (mazmoon),7.5
+2025-MJ,2,1,5,,Prose (set texts),Letters (khutoot),7.5
+2026-MJ,1,1,1,i,Reading comprehension,Reasons and causes,3
+2026-MJ,1,1,1,ii,Reading comprehension,"Facts, details and effects",3
+2026-MJ,1,1,1,iii,Reading comprehension,"Facts, details and effects",3
+2026-MJ,1,1,1,iv,Reading comprehension,"Facts, details and effects",3
+2026-MJ,1,1,1,v,Reading comprehension,"Solutions, measures and advice",3
+2026-MJ,1,1,1,vi,Reading comprehension,"Solutions, measures and advice",3
+2026-MJ,1,1,1,vii,Reading comprehension,Views of people in the passage,3
+2026-MJ,1,1,1,viii,Reading comprehension,Reasons and causes,4
+2026-MJ,1,1,2,i,Composition (essay writing),Argumentative essay,6.25
+2026-MJ,1,1,2,ii,Composition (essay writing),Discursive essay,6.25
+2026-MJ,1,1,2,iii,Composition (essay writing),Descriptive essay,6.25
+2026-MJ,1,1,2,iv,Composition (essay writing),Narrative essay (story continuation),6.25
+2026-MJ,2,1,1,,Unseen passage (literary appreciation),Unseen poem,20
+2026-MJ,2,1,2,,Poetry (set texts),Nazm: message and themes,7.5
+2026-MJ,2,1,3,,Poetry (set texts),Ghazal: style and mood,7.5
+2026-MJ,2,1,4,,Prose (set texts),Short story (afsana),7.5
+2026-MJ,2,1,5,,Prose (set texts),Humorous essay,7.5

@@ -1,0 +1,970 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,a,Social approach,Piliavin et al. (subway Samaritans),1
+2022-MJ,1,2,1,b,Social approach,Piliavin et al. (subway Samaritans),1
+2022-MJ,1,2,1,c,Social approach,Piliavin et al. (subway Samaritans),2
+2022-MJ,1,2,2,a,Learning approach,Pepperberg (parrot learning),2
+2022-MJ,1,2,2,b,Learning approach,Pepperberg (parrot learning),2
+2022-MJ,1,2,3,a,Biological approach,Dement and Kleitman (sleep and dreams),3
+2022-MJ,1,2,3,b,Biological approach,Dement and Kleitman (sleep and dreams),2
+2022-MJ,1,2,4,a,Social approach,Milgram (obedience),4
+2022-MJ,1,2,4,b,Issues and debates,Application to everyday life,2
+2022-MJ,1,2,5,a,Biological approach,Canli et al. (brain scans and emotions),2
+2022-MJ,1,2,5,b,Biological approach,Canli et al. (brain scans and emotions),3
+2022-MJ,1,2,6,,Learning approach,Assumptions of the approach,4
+2022-MJ,1,2,7,,Cognitive approach,Laney et al. (false memory),4
+2022-MJ,1,2,8,a,Biological approach,Schachter and Singer (two factors in emotion),2
+2022-MJ,1,2,8,b,Issues and debates,"Validity, reliability and generalisability",4
+2022-MJ,1,2,9,a,Learning approach,Bandura et al. (aggression),4
+2022-MJ,1,2,9,b,Issues and debates,Ethics,8
+2022-MJ,1,2,10,,Social approach,Yamamoto et al. (chimpanzee helping),10
+2022-MJ,2,2,1,,Evaluating research,Reliability,1
+2022-MJ,2,2,2,,Data and descriptive statistics,Quantitative and qualitative data,2
+2022-MJ,2,2,3,a,Hypotheses and variables,Participant and situational variables,2
+2022-MJ,2,2,3,b(i),Hypotheses and variables,Participant and situational variables,2
+2022-MJ,2,2,3,b(ii),Research ethics,Human participants,2
+2022-MJ,2,2,4,a,Evaluating research,Validity,4
+2022-MJ,2,2,4,b,Evaluating research,Validity,2
+2022-MJ,2,2,5,,Sampling,Populations and samples,1
+2022-MJ,2,2,6,,Research methods,Self-reports,6
+2022-MJ,2,2,7,a,Data and descriptive statistics,Normal distribution,3
+2022-MJ,2,2,7,b(i),Research methods,Self-reports,2
+2022-MJ,2,2,7,b(ii),Research ethics,Human participants,3
+2022-MJ,2,2,8,a(i),Research methods,Self-reports,1
+2022-MJ,2,2,8,a(ii),Research methods,Self-reports,2
+2022-MJ,2,2,8,b(i),Evaluating research,Validity,4
+2022-MJ,2,2,8,b(ii),Research ethics,Human participants,1
+2022-MJ,2,2,9,a,Research ethics,Animal research,2
+2022-MJ,2,2,9,b,Data and descriptive statistics,Measures of central tendency,1
+2022-MJ,2,2,9,c,Data and descriptive statistics,Measures of spread,2
+2022-MJ,2,2,9,d,Experimental designs and controls,Experimental designs,3
+2022-MJ,2,2,10,a,Planning a study,Designing an experiment,10
+2022-MJ,2,2,10,b,Planning a study,Evaluating the design,4
+2022-MJ,3,2,1,a,Clinical psychology,Anxiety and fear-related disorders,1
+2022-MJ,3,2,1,b,Clinical psychology,Anxiety and fear-related disorders,2
+2022-MJ,3,2,1,c,Clinical psychology,Anxiety and fear-related disorders,3
+2022-MJ,3,2,2,a,Clinical psychology,Impulse control disorders and non-substance addiction,4
+2022-MJ,3,2,2,b,Clinical psychology,Impulse control disorders and non-substance addiction,5
+2022-MJ,3,2,3,a,Consumer psychology,The physical environment,1
+2022-MJ,3,2,3,b,Consumer psychology,The physical environment,2
+2022-MJ,3,2,3,c,Consumer psychology,The physical environment,3
+2022-MJ,3,2,4,a,Consumer psychology,Consumer decision-making,4
+2022-MJ,3,2,4,b,Consumer psychology,Consumer decision-making,5
+2022-MJ,3,2,5,a,Health psychology,Adherence to medical advice,1
+2022-MJ,3,2,5,b,Health psychology,Adherence to medical advice,2
+2022-MJ,3,2,5,c,Health psychology,Adherence to medical advice,3
+2022-MJ,3,2,6,a,Health psychology,Health promotion,4
+2022-MJ,3,2,6,b,Health psychology,Health promotion,5
+2022-MJ,3,2,7,a,Organisational psychology,Leadership and management,1
+2022-MJ,3,2,7,b,Organisational psychology,Leadership and management,2
+2022-MJ,3,2,7,c,Organisational psychology,Leadership and management,3
+2022-MJ,3,2,8,a,Organisational psychology,Organisational work conditions,4
+2022-MJ,3,2,8,b,Organisational psychology,Organisational work conditions,5
+2022-MJ,4,2,1,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,1
+2022-MJ,4,2,1,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2022-MJ,4,2,1,c,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2022-MJ,4,2,1,d,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2.5
+2022-MJ,4,2,2,a,Consumer psychology,The product,1
+2022-MJ,4,2,2,b,Consumer psychology,The product,2
+2022-MJ,4,2,2,c,Consumer psychology,The product,2
+2022-MJ,4,2,2,d,Consumer psychology,The product,2.5
+2022-MJ,4,2,3,a,Health psychology,Stress,1
+2022-MJ,4,2,3,b,Health psychology,Stress,2
+2022-MJ,4,2,3,c,Health psychology,Stress,2
+2022-MJ,4,2,3,d,Health psychology,Stress,2.5
+2022-MJ,4,2,4,a,Organisational psychology,Satisfaction at work,1
+2022-MJ,4,2,4,b,Organisational psychology,Satisfaction at work,2
+2022-MJ,4,2,4,c(i),Organisational psychology,Satisfaction at work,1
+2022-MJ,4,2,4,c(ii),Organisational psychology,Satisfaction at work,1
+2022-MJ,4,2,4,d,Organisational psychology,Satisfaction at work,2.5
+2022-MJ,4,2,5,a,Clinical psychology,Mood (affective) disorders,2.5
+2022-MJ,4,2,5,b,Clinical psychology,Mood (affective) disorders,2
+2022-MJ,4,2,6,a,Consumer psychology,Advertising,2.5
+2022-MJ,4,2,6,b,Consumer psychology,Advertising,2
+2022-MJ,4,2,7,a,Health psychology,The patient-practitioner relationship,2.5
+2022-MJ,4,2,7,b,Health psychology,The patient-practitioner relationship,2
+2022-MJ,4,2,8,a,Organisational psychology,Satisfaction at work,2.5
+2022-MJ,4,2,8,b,Organisational psychology,Satisfaction at work,2
+2022-MJ,4,2,9,,Clinical psychology,Mood (affective) disorders,3
+2022-MJ,4,2,10,,Consumer psychology,Advertising,3
+2022-MJ,4,2,11,,Health psychology,Stress,3
+2022-MJ,4,2,12,,Organisational psychology,Group behaviour in organisations,3
+2022-ON,1,2,1,a,Learning approach,Pepperberg (parrot learning),1
+2022-ON,1,2,1,b,Learning approach,Pepperberg (parrot learning),3
+2022-ON,1,2,2,a,Biological approach,Dement and Kleitman (sleep and dreams),2
+2022-ON,1,2,2,b,Biological approach,Dement and Kleitman (sleep and dreams),2
+2022-ON,1,2,3,a,Cognitive approach,Baron-Cohen et al. (eyes test),3
+2022-ON,1,2,3,b,Cognitive approach,Baron-Cohen et al. (eyes test),2
+2022-ON,1,2,4,a,Cognitive approach,Laney et al. (false memory),4
+2022-ON,1,2,4,b,Cognitive approach,Laney et al. (false memory),2
+2022-ON,1,2,5,a,Biological approach,Schachter and Singer (two factors in emotion),3
+2022-ON,1,2,5,b,Biological approach,Schachter and Singer (two factors in emotion),2
+2022-ON,1,2,6,,Issues and debates,Individual and situational explanations,4
+2022-ON,1,2,7,,Issues and debates,Application to everyday life,4
+2022-ON,1,2,8,a,Social approach,Piliavin et al. (subway Samaritans),2
+2022-ON,1,2,8,b,Issues and debates,"Validity, reliability and generalisability",4
+2022-ON,1,2,9,a,Cognitive approach,Andrade (doodling),4
+2022-ON,1,2,9,b,Issues and debates,Comparing core studies,8
+2022-ON,1,2,10,,Biological approach,Canli et al. (brain scans and emotions),10
+2022-ON,2,2,1,a,Hypotheses and variables,Aims and hypotheses,1
+2022-ON,2,2,1,b,Hypotheses and variables,Aims and hypotheses,1
+2022-ON,2,2,2,a,Evaluating research,Reliability,2
+2022-ON,2,2,2,b,Evaluating research,Reliability,1
+2022-ON,2,2,3,a,Data and descriptive statistics,Quantitative and qualitative data,1
+2022-ON,2,2,3,b(i),Data and descriptive statistics,Quantitative and qualitative data,1
+2022-ON,2,2,3,b(ii),Data and descriptive statistics,Quantitative and qualitative data,1
+2022-ON,2,2,3,b(iii),Data and descriptive statistics,Quantitative and qualitative data,2
+2022-ON,2,2,4,,Research methods,Physiological measures,4
+2022-ON,2,2,5,,Data and descriptive statistics,Measures of central tendency,2
+2022-ON,2,2,6,,Research ethics,Human participants,6
+2022-ON,2,2,7,a,Research methods,Observations,2
+2022-ON,2,2,7,b(i),Research methods,Observations,2
+2022-ON,2,2,7,b(ii),Research methods,Observations,2
+2022-ON,2,2,8,a(i),Hypotheses and variables,Operationalising variables,2
+2022-ON,2,2,8,a(ii),Research methods,Observations,1
+2022-ON,2,2,8,b,Data and descriptive statistics,Graphs and tables,3
+2022-ON,2,2,8,c(i),Research ethics,Human participants,2
+2022-ON,2,2,8,c(ii),Research ethics,Human participants,2
+2022-ON,2,2,9,a,Experimental designs and controls,Controls and standardisation,2
+2022-ON,2,2,9,b,Experimental designs and controls,Experimental designs,2
+2022-ON,2,2,9,c,Hypotheses and variables,Participant and situational variables,2
+2022-ON,2,2,9,d,Hypotheses and variables,Participant and situational variables,2
+2022-ON,2,2,10,a,Planning a study,Designing a correlational study,10
+2022-ON,2,2,10,b,Planning a study,Evaluating the design,4
+2022-ON,3,2,1,a,Clinical psychology,Impulse control disorders and non-substance addiction,1
+2022-ON,3,2,1,b,Clinical psychology,Impulse control disorders and non-substance addiction,2
+2022-ON,3,2,1,c,Clinical psychology,Impulse control disorders and non-substance addiction,3
+2022-ON,3,2,2,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,4
+2022-ON,3,2,2,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,5
+2022-ON,3,2,3,a,Consumer psychology,Consumer decision-making,1
+2022-ON,3,2,3,b,Consumer psychology,Consumer decision-making,2
+2022-ON,3,2,3,c,Consumer psychology,Consumer decision-making,3
+2022-ON,3,2,4,a,Consumer psychology,The product,4
+2022-ON,3,2,4,b,Consumer psychology,The product,5
+2022-ON,3,2,5,a,Health psychology,Adherence to medical advice,1
+2022-ON,3,2,5,b,Health psychology,Adherence to medical advice,2
+2022-ON,3,2,5,c,Health psychology,Adherence to medical advice,3
+2022-ON,3,2,6,a,Health psychology,Stress,4
+2022-ON,3,2,6,b,Health psychology,Stress,5
+2022-ON,3,2,7,a,Organisational psychology,Satisfaction at work,1
+2022-ON,3,2,7,b,Organisational psychology,Satisfaction at work,2
+2022-ON,3,2,7,c,Organisational psychology,Satisfaction at work,3
+2022-ON,3,2,8,a,Organisational psychology,Motivation to work,4
+2022-ON,3,2,8,b,Organisational psychology,Motivation to work,5
+2022-ON,4,2,1,a,Clinical psychology,Anxiety and fear-related disorders,1
+2022-ON,4,2,1,b,Clinical psychology,Anxiety and fear-related disorders,2
+2022-ON,4,2,1,c(i),Clinical psychology,Anxiety and fear-related disorders,1
+2022-ON,4,2,1,c(ii),Clinical psychology,Anxiety and fear-related disorders,1
+2022-ON,4,2,1,d,Clinical psychology,Anxiety and fear-related disorders,2.5
+2022-ON,4,2,2,a,Consumer psychology,The physical environment,1
+2022-ON,4,2,2,b,Consumer psychology,The physical environment,2
+2022-ON,4,2,2,c(i),Consumer psychology,The physical environment,1
+2022-ON,4,2,2,c(ii),Consumer psychology,The physical environment,1
+2022-ON,4,2,2,d,Consumer psychology,The physical environment,2.5
+2022-ON,4,2,3,a,Health psychology,Pain,1
+2022-ON,4,2,3,b,Health psychology,Pain,2
+2022-ON,4,2,3,c(i),Health psychology,Pain,1
+2022-ON,4,2,3,c(ii),Health psychology,Pain,1
+2022-ON,4,2,3,d,Health psychology,Pain,2.5
+2022-ON,4,2,4,a,Organisational psychology,Leadership and management,1
+2022-ON,4,2,4,b,Organisational psychology,Leadership and management,2
+2022-ON,4,2,4,c,Organisational psychology,Leadership and management,2
+2022-ON,4,2,4,d,Organisational psychology,Leadership and management,2.5
+2022-ON,4,2,5,a,Clinical psychology,Obsessive-compulsive and related disorders,2.5
+2022-ON,4,2,5,b,Clinical psychology,Obsessive-compulsive and related disorders,2
+2022-ON,4,2,6,a,Consumer psychology,The psychological environment,2.5
+2022-ON,4,2,6,b,Consumer psychology,The psychological environment,2
+2022-ON,4,2,7,a,Health psychology,Health promotion,2.5
+2022-ON,4,2,7,b,Health psychology,Health promotion,2
+2022-ON,4,2,8,a,Organisational psychology,Group behaviour in organisations,2.5
+2022-ON,4,2,8,b,Organisational psychology,Group behaviour in organisations,2
+2022-ON,4,2,9,,Clinical psychology,Anxiety and fear-related disorders,3
+2022-ON,4,2,10,,Consumer psychology,The physical environment,3
+2022-ON,4,2,11,,Health psychology,Health promotion,3
+2022-ON,4,2,12,,Organisational psychology,Leadership and management,3
+2023-MJ,1,2,1,a,Biological approach,Schachter and Singer (two factors in emotion),1
+2023-MJ,1,2,1,b,Biological approach,Schachter and Singer (two factors in emotion),2
+2023-MJ,1,2,2,a,Cognitive approach,Baron-Cohen et al. (eyes test),2
+2023-MJ,1,2,2,b,Cognitive approach,Baron-Cohen et al. (eyes test),1
+2023-MJ,1,2,3,a,Biological approach,Canli et al. (brain scans and emotions),3
+2023-MJ,1,2,3,b,Biological approach,Canli et al. (brain scans and emotions),2
+2023-MJ,1,2,4,a,Learning approach,Bandura et al. (aggression),4
+2023-MJ,1,2,4,b,Learning approach,Bandura et al. (aggression),2
+2023-MJ,1,2,5,,Cognitive approach,Laney et al. (false memory),5
+2023-MJ,1,2,6,,Social approach,Assumptions of the approach,6
+2023-MJ,1,2,7,,Issues and debates,Application to everyday life,4
+2023-MJ,1,2,8,,Issues and debates,Ethics,6
+2023-MJ,1,2,9,a,Learning approach,Saavedra and Silverman (button phobia),2
+2023-MJ,1,2,9,b,Learning approach,Saavedra and Silverman (button phobia),2
+2023-MJ,1,2,9,c,Issues and debates,Comparing core studies,8
+2023-MJ,1,2,10,,Cognitive approach,Andrade (doodling),10
+2023-MJ,2,2,1,,Experimental designs and controls,Controls and standardisation,2
+2023-MJ,2,2,2,a,Hypotheses and variables,Aims and hypotheses,1
+2023-MJ,2,2,2,b,Hypotheses and variables,Aims and hypotheses,1
+2023-MJ,2,2,3,a(i),Research ethics,Human participants,2
+2023-MJ,2,2,3,a(ii),Research ethics,Human participants,2
+2023-MJ,2,2,3,b,Research methods,Observations,1
+2023-MJ,2,2,4,a,Data and descriptive statistics,Graphs and tables,4
+2023-MJ,2,2,4,b,Data and descriptive statistics,Graphs and tables,1
+2023-MJ,2,2,5,,Evaluating research,Reliability,2
+2023-MJ,2,2,6,,Experimental designs and controls,Controls and standardisation,6
+2023-MJ,2,2,7,a(i),Hypotheses and variables,Identifying variables,1
+2023-MJ,2,2,7,a(ii),Hypotheses and variables,Identifying variables,1
+2023-MJ,2,2,7,a(iii),Experimental designs and controls,Experimental designs,1
+2023-MJ,2,2,7,b(i),Research methods,Observations,3
+2023-MJ,2,2,7,b(ii),Research methods,Observations,2
+2023-MJ,2,2,7,c(i),Data and descriptive statistics,Measures of central tendency,1
+2023-MJ,2,2,7,c(ii),Data and descriptive statistics,Measures of central tendency,2
+2023-MJ,2,2,8,a(i),Hypotheses and variables,Operationalising variables,4
+2023-MJ,2,2,8,a(ii),Hypotheses and variables,Operationalising variables,1
+2023-MJ,2,2,8,b,Hypotheses and variables,Operationalising variables,1
+2023-MJ,2,2,8,c(i),Research methods,Correlations,1
+2023-MJ,2,2,8,c(ii),Research methods,Correlations,1
+2023-MJ,2,2,9,a,Sampling,Sampling techniques,2
+2023-MJ,2,2,9,b,Sampling,Sampling techniques,2
+2023-MJ,2,2,9,c,Sampling,Sample size,1
+2023-MJ,2,2,10,a,Planning a study,Designing a self-report study,10
+2023-MJ,2,2,10,b,Planning a study,Evaluating the design,4
+2023-MJ,3,2,1,a,Clinical psychology,Anxiety and fear-related disorders,1
+2023-MJ,3,2,1,b,Clinical psychology,Anxiety and fear-related disorders,2
+2023-MJ,3,2,1,c,Clinical psychology,Anxiety and fear-related disorders,3
+2023-MJ,3,2,2,a,Clinical psychology,Obsessive-compulsive and related disorders,4
+2023-MJ,3,2,2,b,Clinical psychology,Obsessive-compulsive and related disorders,5
+2023-MJ,3,2,3,a,Consumer psychology,The physical environment,1
+2023-MJ,3,2,3,b,Consumer psychology,The physical environment,2
+2023-MJ,3,2,3,c,Consumer psychology,The physical environment,3
+2023-MJ,3,2,4,a,Consumer psychology,The product,4
+2023-MJ,3,2,4,b,Consumer psychology,The product,5
+2023-MJ,3,2,5,a,Health psychology,Pain,1
+2023-MJ,3,2,5,b(i),Health psychology,Pain,1
+2023-MJ,3,2,5,b(ii),Health psychology,Pain,1
+2023-MJ,3,2,5,c,Health psychology,Pain,3
+2023-MJ,3,2,6,a,Health psychology,Health promotion,4
+2023-MJ,3,2,6,b,Health psychology,Health promotion,5
+2023-MJ,3,2,7,a,Organisational psychology,Group behaviour in organisations,1
+2023-MJ,3,2,7,b,Organisational psychology,Group behaviour in organisations,2
+2023-MJ,3,2,7,c,Organisational psychology,Group behaviour in organisations,3
+2023-MJ,3,2,8,a,Organisational psychology,Leadership and management,4
+2023-MJ,3,2,8,b,Organisational psychology,Leadership and management,5
+2023-MJ,4,2,1,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,1
+2023-MJ,4,2,1,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2023-MJ,4,2,1,c,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2023-MJ,4,2,1,d,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2.5
+2023-MJ,4,2,2,a,Consumer psychology,The physical environment,1
+2023-MJ,4,2,2,b,Consumer psychology,The physical environment,2
+2023-MJ,4,2,2,c(i),Consumer psychology,The physical environment,1
+2023-MJ,4,2,2,c(ii),Consumer psychology,The physical environment,1
+2023-MJ,4,2,2,d,Consumer psychology,The physical environment,2.5
+2023-MJ,4,2,3,a,Health psychology,Stress,1
+2023-MJ,4,2,3,b,Health psychology,Stress,2
+2023-MJ,4,2,3,c,Health psychology,Stress,2
+2023-MJ,4,2,3,d,Health psychology,Stress,2.5
+2023-MJ,4,2,4,a,Organisational psychology,Satisfaction at work,1
+2023-MJ,4,2,4,b(i),Organisational psychology,Satisfaction at work,1
+2023-MJ,4,2,4,b(ii),Organisational psychology,Satisfaction at work,1
+2023-MJ,4,2,4,c,Organisational psychology,Satisfaction at work,2
+2023-MJ,4,2,4,d,Organisational psychology,Satisfaction at work,2.5
+2023-MJ,4,2,5,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2.5
+2023-MJ,4,2,5,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2023-MJ,4,2,6,a,Consumer psychology,Advertising,2.5
+2023-MJ,4,2,6,b,Consumer psychology,Advertising,2
+2023-MJ,4,2,7,a,Health psychology,Stress,2.5
+2023-MJ,4,2,7,b,Health psychology,Stress,2
+2023-MJ,4,2,8,a,Organisational psychology,Motivation to work,2.5
+2023-MJ,4,2,8,b,Organisational psychology,Motivation to work,2
+2023-MJ,4,2,9,,Clinical psychology,Impulse control disorders and non-substance addiction,3
+2023-MJ,4,2,10,,Consumer psychology,Advertising,3
+2023-MJ,4,2,11,,Health psychology,Adherence to medical advice,3
+2023-MJ,4,2,12,,Organisational psychology,Satisfaction at work,3
+2023-ON,1,2,1,a,Cognitive approach,Baron-Cohen et al. (eyes test),1
+2023-ON,1,2,1,b,Cognitive approach,Baron-Cohen et al. (eyes test),2
+2023-ON,1,2,2,,Learning approach,Saavedra and Silverman (button phobia),4
+2023-ON,1,2,3,,Issues and debates,Using children in research,3
+2023-ON,1,2,4,a,Learning approach,Pepperberg (parrot learning),4
+2023-ON,1,2,4,b,Learning approach,Pepperberg (parrot learning),2
+2023-ON,1,2,5,a,Social approach,Piliavin et al. (subway Samaritans),2
+2023-ON,1,2,5,b,Social approach,Piliavin et al. (subway Samaritans),2
+2023-ON,1,2,5,c,Social approach,Piliavin et al. (subway Samaritans),2
+2023-ON,1,2,6,a,Cognitive approach,Andrade (doodling),4
+2023-ON,1,2,6,b,Cognitive approach,Assumptions of the approach,2
+2023-ON,1,2,7,,Issues and debates,Application to everyday life,4
+2023-ON,1,2,8,,Issues and debates,Nature versus nurture,6
+2023-ON,1,2,9,a,Biological approach,Schachter and Singer (two factors in emotion),4
+2023-ON,1,2,9,b,Issues and debates,Ethics,8
+2023-ON,1,2,10,,Social approach,Milgram (obedience),10
+2023-ON,2,2,1,a,Hypotheses and variables,Aims and hypotheses,1
+2023-ON,2,2,1,b,Experimental designs and controls,Controls and standardisation,2
+2023-ON,2,2,2,,Research ethics,Animal research,3
+2023-ON,2,2,3,a,Research methods,Self-reports,2
+2023-ON,2,2,3,b,Evaluating research,Validity,2
+2023-ON,2,2,4,a,Experimental designs and controls,Experimental designs,2
+2023-ON,2,2,4,b,Experimental designs and controls,Experimental designs,2
+2023-ON,2,2,5,a,Research methods,Correlations,1
+2023-ON,2,2,5,b,Research methods,Correlations,1
+2023-ON,2,2,6,,Research methods,Experiments,6
+2023-ON,2,2,7,a,Research methods,Self-reports,3
+2023-ON,2,2,7,b,Research methods,Self-reports,4
+2023-ON,2,2,7,c(i),Sampling,Sampling techniques,2
+2023-ON,2,2,7,c(ii),Sampling,Sampling techniques,2
+2023-ON,2,2,8,a(i),Evaluating research,Validity,2
+2023-ON,2,2,8,a(ii),Research ethics,Human participants,2
+2023-ON,2,2,8,b(i),Hypotheses and variables,Participant and situational variables,1
+2023-ON,2,2,8,b(ii),Hypotheses and variables,Participant and situational variables,2
+2023-ON,2,2,9,a,Data and descriptive statistics,Measures of central tendency,2
+2023-ON,2,2,9,b,Data and descriptive statistics,Graphs and tables,1
+2023-ON,2,2,9,c,Data and descriptive statistics,Normal distribution,3
+2023-ON,2,2,10,a,Planning a study,Designing an experiment,10
+2023-ON,2,2,10,b,Planning a study,Evaluating the design,4
+2023-ON,3,2,1,a,Clinical psychology,Mood (affective) disorders,1
+2023-ON,3,2,1,b,Clinical psychology,Mood (affective) disorders,2
+2023-ON,3,2,1,c,Clinical psychology,Mood (affective) disorders,3
+2023-ON,3,2,2,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,4
+2023-ON,3,2,2,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,5
+2023-ON,3,2,3,a,Consumer psychology,Consumer decision-making,1
+2023-ON,3,2,3,b,Consumer psychology,Consumer decision-making,2
+2023-ON,3,2,3,c,Consumer psychology,Consumer decision-making,3
+2023-ON,3,2,4,a,Consumer psychology,Advertising,4
+2023-ON,3,2,4,b,Consumer psychology,Advertising,5
+2023-ON,3,2,5,a,Health psychology,Adherence to medical advice,1
+2023-ON,3,2,5,b,Health psychology,Adherence to medical advice,2
+2023-ON,3,2,5,c,Health psychology,Adherence to medical advice,3
+2023-ON,3,2,6,a,Health psychology,Pain,4
+2023-ON,3,2,6,b,Health psychology,Pain,5
+2023-ON,3,2,7,a,Organisational psychology,Motivation to work,1
+2023-ON,3,2,7,b,Organisational psychology,Motivation to work,2
+2023-ON,3,2,7,c,Organisational psychology,Motivation to work,3
+2023-ON,3,2,8,a,Organisational psychology,Organisational work conditions,4
+2023-ON,3,2,8,b,Organisational psychology,Organisational work conditions,5
+2023-ON,4,2,1,a,Clinical psychology,Anxiety and fear-related disorders,1
+2023-ON,4,2,1,b,Clinical psychology,Anxiety and fear-related disorders,2
+2023-ON,4,2,1,c,Clinical psychology,Anxiety and fear-related disorders,2
+2023-ON,4,2,1,d,Clinical psychology,Anxiety and fear-related disorders,2.5
+2023-ON,4,2,2,a,Consumer psychology,The product,1
+2023-ON,4,2,2,b,Consumer psychology,The product,2
+2023-ON,4,2,2,c(i),Consumer psychology,The product,1
+2023-ON,4,2,2,c(ii),Consumer psychology,The product,1
+2023-ON,4,2,2,d,Consumer psychology,The product,2.5
+2023-ON,4,2,3,a,Health psychology,The patient-practitioner relationship,1
+2023-ON,4,2,3,b,Health psychology,The patient-practitioner relationship,2
+2023-ON,4,2,3,c(i),Health psychology,The patient-practitioner relationship,1
+2023-ON,4,2,3,c(ii),Health psychology,The patient-practitioner relationship,1
+2023-ON,4,2,3,d,Health psychology,The patient-practitioner relationship,2.5
+2023-ON,4,2,4,a,Organisational psychology,Satisfaction at work,1
+2023-ON,4,2,4,b,Organisational psychology,Satisfaction at work,2
+2023-ON,4,2,4,c,Organisational psychology,Satisfaction at work,2
+2023-ON,4,2,4,d,Organisational psychology,Satisfaction at work,2.5
+2023-ON,4,2,5,a,Clinical psychology,Impulse control disorders and non-substance addiction,2.5
+2023-ON,4,2,5,b,Clinical psychology,Impulse control disorders and non-substance addiction,2
+2023-ON,4,2,6,a,Consumer psychology,The psychological environment,2.5
+2023-ON,4,2,6,b,Consumer psychology,The psychological environment,2
+2023-ON,4,2,7,a,Health psychology,Health promotion,2.5
+2023-ON,4,2,7,b,Health psychology,Health promotion,2
+2023-ON,4,2,8,a,Organisational psychology,Satisfaction at work,2.5
+2023-ON,4,2,8,b,Organisational psychology,Satisfaction at work,2
+2023-ON,4,2,9,,Clinical psychology,Impulse control disorders and non-substance addiction,3
+2023-ON,4,2,10,,Consumer psychology,The psychological environment,3
+2023-ON,4,2,11,,Health psychology,The patient-practitioner relationship,3
+2023-ON,4,2,12,,Organisational psychology,Leadership and management,3
+2024-MJ,1,2,1,a,Learning approach,Bandura et al. (aggression),1
+2024-MJ,1,2,1,b,Learning approach,Bandura et al. (aggression),2
+2024-MJ,1,2,1,c,Learning approach,Bandura et al. (aggression),2
+2024-MJ,1,2,2,a,Cognitive approach,Andrade (doodling),2
+2024-MJ,1,2,2,b,Cognitive approach,Andrade (doodling),2
+2024-MJ,1,2,3,a,Biological approach,Dement and Kleitman (sleep and dreams),2
+2024-MJ,1,2,3,b,Biological approach,Dement and Kleitman (sleep and dreams),2
+2024-MJ,1,2,3,c,Biological approach,Dement and Kleitman (sleep and dreams),2
+2024-MJ,1,2,4,a,Social approach,Milgram (obedience),2
+2024-MJ,1,2,4,b,Issues and debates,Ethics,3
+2024-MJ,1,2,5,,Issues and debates,Application to everyday life,5
+2024-MJ,1,2,6,,Cognitive approach,Pozzulo et al. (line-ups),5
+2024-MJ,1,2,7,,Issues and debates,Using children in research,4
+2024-MJ,1,2,8,,Issues and debates,"Validity, reliability and generalisability",4
+2024-MJ,1,2,9,a,Learning approach,Fagen et al. (elephant learning),4
+2024-MJ,1,2,9,b,Issues and debates,Comparing core studies,8
+2024-MJ,1,2,10,,Cognitive approach,Baron-Cohen et al. (eyes test),10
+2024-MJ,2,2,1,a(i),Research methods,Case studies,2
+2024-MJ,2,2,1,a(ii),Research methods,Case studies,2
+2024-MJ,2,2,1,b,Evaluating research,Validity,3
+2024-MJ,2,2,2,a(i),Sampling,Sampling techniques,2
+2024-MJ,2,2,2,a(ii),Sampling,Sampling techniques,2
+2024-MJ,2,2,3,a,Hypotheses and variables,Aims and hypotheses,1
+2024-MJ,2,2,3,b,Hypotheses and variables,Aims and hypotheses,2
+2024-MJ,2,2,4,,Research ethics,Animal research,4
+2024-MJ,2,2,5,a,Experimental designs and controls,Controls and standardisation,1
+2024-MJ,2,2,5,b,Experimental designs and controls,Controls and standardisation,1
+2024-MJ,2,2,6,,Research methods,Correlations,6
+2024-MJ,2,2,7,a,Research methods,Self-reports,1
+2024-MJ,2,2,7,b,Research methods,Self-reports,1
+2024-MJ,2,2,7,c(i),Research methods,Self-reports,1
+2024-MJ,2,2,7,c(ii),Research methods,Self-reports,1
+2024-MJ,2,2,7,d,Research methods,Self-reports,2
+2024-MJ,2,2,8,a,Data and descriptive statistics,Graphs and tables,2
+2024-MJ,2,2,8,b,Sampling,Sample size,2
+2024-MJ,2,2,8,c(i),Hypotheses and variables,Participant and situational variables,1
+2024-MJ,2,2,8,c(ii),Hypotheses and variables,Participant and situational variables,1
+2024-MJ,2,2,9,a,Hypotheses and variables,Operationalising variables,2
+2024-MJ,2,2,9,b,Research ethics,Human participants,4
+2024-MJ,2,2,9,c,Evaluating research,Generalisability,2
+2024-MJ,2,2,10,a,Planning a study,Designing an observation,10
+2024-MJ,2,2,10,b(i),Planning a study,Evaluating the design,2
+2024-MJ,2,2,10,b(ii),Planning a study,Evaluating the design,2
+2024-MJ,3,2,1,,Clinical psychology,Anxiety and fear-related disorders,2
+2024-MJ,3,2,2,a,Clinical psychology,Anxiety and fear-related disorders,1
+2024-MJ,3,2,2,b,Clinical psychology,Anxiety and fear-related disorders,1
+2024-MJ,3,2,3,a,Clinical psychology,Mood (affective) disorders,2
+2024-MJ,3,2,3,b,Clinical psychology,Mood (affective) disorders,1
+2024-MJ,3,2,4,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,3
+2024-MJ,3,2,4,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,5
+2024-MJ,3,2,5,,Consumer psychology,The psychological environment,2
+2024-MJ,3,2,6,a,Consumer psychology,The psychological environment,1
+2024-MJ,3,2,6,b,Consumer psychology,The psychological environment,1
+2024-MJ,3,2,7,a,Consumer psychology,Consumer decision-making,1
+2024-MJ,3,2,7,b(i),Consumer psychology,Consumer decision-making,1
+2024-MJ,3,2,7,b(ii),Consumer psychology,Consumer decision-making,1
+2024-MJ,3,2,8,a,Consumer psychology,The physical environment,3
+2024-MJ,3,2,8,b,Consumer psychology,The physical environment,5
+2024-MJ,3,2,9,,Health psychology,Adherence to medical advice,2
+2024-MJ,3,2,10,a,Health psychology,Adherence to medical advice,1
+2024-MJ,3,2,10,b,Health psychology,Adherence to medical advice,1
+2024-MJ,3,2,11,a(i),Health psychology,Health promotion,1
+2024-MJ,3,2,11,a(ii),Health psychology,Health promotion,1
+2024-MJ,3,2,11,b,Health psychology,Health promotion,1
+2024-MJ,3,2,12,a,Health psychology,The patient-practitioner relationship,3
+2024-MJ,3,2,12,b,Health psychology,The patient-practitioner relationship,5
+2024-MJ,3,2,13,,Organisational psychology,Organisational work conditions,2
+2024-MJ,3,2,14,a,Organisational psychology,Satisfaction at work,1
+2024-MJ,3,2,14,b,Organisational psychology,Satisfaction at work,1
+2024-MJ,3,2,15,a,Organisational psychology,Satisfaction at work,2
+2024-MJ,3,2,15,b,Organisational psychology,Satisfaction at work,1
+2024-MJ,3,2,16,a,Organisational psychology,Organisational work conditions,3
+2024-MJ,3,2,16,b,Organisational psychology,Organisational work conditions,5
+2024-MJ,4,2,1,a(i),Clinical psychology,Obsessive-compulsive and related disorders,1
+2024-MJ,4,2,1,a(ii),Clinical psychology,Obsessive-compulsive and related disorders,1
+2024-MJ,4,2,1,b,Clinical psychology,Obsessive-compulsive and related disorders,1
+2024-MJ,4,2,1,c,Clinical psychology,Obsessive-compulsive and related disorders,2
+2024-MJ,4,2,2,a,Clinical psychology,Impulse control disorders and non-substance addiction,1
+2024-MJ,4,2,2,b,Clinical psychology,Impulse control disorders and non-substance addiction,1
+2024-MJ,4,2,2,c,Clinical psychology,Impulse control disorders and non-substance addiction,2
+2024-MJ,4,2,3,a,Consumer psychology,Advertising,2
+2024-MJ,4,2,3,b,Consumer psychology,Advertising,1
+2024-MJ,4,2,3,c,Consumer psychology,Advertising,2
+2024-MJ,4,2,4,a,Consumer psychology,The product,1
+2024-MJ,4,2,4,b,Consumer psychology,The product,1
+2024-MJ,4,2,4,c,Consumer psychology,The product,2
+2024-MJ,4,2,5,a(i),Health psychology,Pain,1
+2024-MJ,4,2,5,a(ii),Health psychology,Pain,1
+2024-MJ,4,2,5,b,Health psychology,Pain,1
+2024-MJ,4,2,5,c,Health psychology,Pain,2
+2024-MJ,4,2,6,a,Health psychology,Stress,1
+2024-MJ,4,2,6,b,Health psychology,Stress,1
+2024-MJ,4,2,6,c,Health psychology,Stress,2
+2024-MJ,4,2,7,a,Organisational psychology,Motivation to work,2
+2024-MJ,4,2,7,b,Organisational psychology,Motivation to work,1
+2024-MJ,4,2,7,c,Organisational psychology,Motivation to work,2
+2024-MJ,4,2,8,a,Organisational psychology,Leadership and management,1
+2024-MJ,4,2,8,b,Organisational psychology,Leadership and management,1
+2024-MJ,4,2,8,c,Organisational psychology,Leadership and management,2
+2024-MJ,4,2,9,a,Clinical psychology,Impulse control disorders and non-substance addiction,2.5
+2024-MJ,4,2,9,b(i),Clinical psychology,Impulse control disorders and non-substance addiction,1
+2024-MJ,4,2,9,b(ii),Clinical psychology,Impulse control disorders and non-substance addiction,1
+2024-MJ,4,2,9,c(i),Clinical psychology,Impulse control disorders and non-substance addiction,0.5
+2024-MJ,4,2,9,c(ii),Clinical psychology,Impulse control disorders and non-substance addiction,0.5
+2024-MJ,4,2,9,c(iii),Clinical psychology,Impulse control disorders and non-substance addiction,0.5
+2024-MJ,4,2,10,a,Consumer psychology,The product,2.5
+2024-MJ,4,2,10,b(i),Consumer psychology,The product,1
+2024-MJ,4,2,10,b(ii),Consumer psychology,The product,1
+2024-MJ,4,2,10,c(i),Consumer psychology,The product,0.5
+2024-MJ,4,2,10,c(ii),Consumer psychology,The product,0.5
+2024-MJ,4,2,10,c(iii),Consumer psychology,The product,0.5
+2024-MJ,4,2,11,a,Health psychology,Stress,2.5
+2024-MJ,4,2,11,b(i),Health psychology,Stress,1
+2024-MJ,4,2,11,b(ii),Health psychology,Stress,1
+2024-MJ,4,2,11,c(i),Health psychology,Stress,0.5
+2024-MJ,4,2,11,c(ii),Health psychology,Stress,0.5
+2024-MJ,4,2,11,c(iii),Health psychology,Stress,0.5
+2024-MJ,4,2,12,a,Organisational psychology,Motivation to work,2.5
+2024-MJ,4,2,12,b(i),Organisational psychology,Motivation to work,1
+2024-MJ,4,2,12,b(ii),Organisational psychology,Motivation to work,1
+2024-MJ,4,2,12,c(i),Organisational psychology,Motivation to work,0.5
+2024-MJ,4,2,12,c(ii),Organisational psychology,Motivation to work,0.5
+2024-MJ,4,2,12,c(iii),Organisational psychology,Motivation to work,0.5
+2024-ON,1,2,1,a,Learning approach,Saavedra and Silverman (button phobia),1
+2024-ON,1,2,1,b,Learning approach,Saavedra and Silverman (button phobia),2
+2024-ON,1,2,1,c,Learning approach,Saavedra and Silverman (button phobia),2
+2024-ON,1,2,2,a,Cognitive approach,Baron-Cohen et al. (eyes test),2
+2024-ON,1,2,2,b,Cognitive approach,Baron-Cohen et al. (eyes test),2
+2024-ON,1,2,3,a,Social approach,Piliavin et al. (subway Samaritans),2
+2024-ON,1,2,3,b,Issues and debates,Individual and situational explanations,2
+2024-ON,1,2,4,,Biological approach,Hölzel et al. (mindfulness and brain scans),5
+2024-ON,1,2,5,a,Social approach,Assumptions of the approach,4
+2024-ON,1,2,5,b,Social approach,Perry et al. (personal space),2
+2024-ON,1,2,6,a,Biological approach,Hassett et al. (monkey toy preferences),4
+2024-ON,1,2,6,b,Biological approach,Hassett et al. (monkey toy preferences),2
+2024-ON,1,2,7,,Issues and debates,Application to everyday life,4
+2024-ON,1,2,8,,Issues and debates,Ethics,4
+2024-ON,1,2,9,a,Social approach,Milgram (obedience),4
+2024-ON,1,2,9,b,Issues and debates,Comparing core studies,8
+2024-ON,1,2,10,,Cognitive approach,Andrade (doodling),10
+2024-ON,2,2,1,,Hypotheses and variables,Operationalising variables,2
+2024-ON,2,2,2,a,Research methods,Correlations,2
+2024-ON,2,2,2,b,Research methods,Correlations,2
+2024-ON,2,2,3,a,Research ethics,Human participants,2
+2024-ON,2,2,3,b,Research ethics,Human participants,2
+2024-ON,2,2,4,a,Experimental designs and controls,Experimental designs,2
+2024-ON,2,2,4,b(i),Experimental designs and controls,Experimental designs,2
+2024-ON,2,2,4,b(ii),Experimental designs and controls,Experimental designs,2
+2024-ON,2,2,5,,Research methods,Self-reports,6
+2024-ON,2,2,6,a,Hypotheses and variables,Identifying variables,2
+2024-ON,2,2,6,b(i),Experimental designs and controls,Controls and standardisation,2
+2024-ON,2,2,6,b(ii),Experimental designs and controls,Controls and standardisation,2
+2024-ON,2,2,6,c,Sampling,Populations and samples,1
+2024-ON,2,2,6,d,Sampling,Populations and samples,2
+2024-ON,2,2,7,a(i),Research methods,Self-reports,1
+2024-ON,2,2,7,a(ii),Research methods,Self-reports,1
+2024-ON,2,2,7,b,Hypotheses and variables,Participant and situational variables,3
+2024-ON,2,2,7,c,Evaluating research,Validity,2
+2024-ON,2,2,8,a,Data and descriptive statistics,Graphs and tables,2
+2024-ON,2,2,8,b,Evaluating research,Reliability,2
+2024-ON,2,2,8,c(i),Hypotheses and variables,Operationalising variables,2
+2024-ON,2,2,8,c(ii),Hypotheses and variables,Operationalising variables,2
+2024-ON,2,2,9,a,Planning a study,Designing an observation,10
+2024-ON,2,2,9,b(i),Planning a study,Evaluating the design,2
+2024-ON,2,2,9,b(ii),Planning a study,Evaluating the design,2
+2024-ON,3,2,1,,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2024-ON,3,2,2,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,1
+2024-ON,3,2,2,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,1
+2024-ON,3,2,3,a,Clinical psychology,Obsessive-compulsive and related disorders,2
+2024-ON,3,2,3,b,Clinical psychology,Obsessive-compulsive and related disorders,1
+2024-ON,3,2,4,a,Clinical psychology,Impulse control disorders and non-substance addiction,3
+2024-ON,3,2,4,b,Clinical psychology,Impulse control disorders and non-substance addiction,5
+2024-ON,3,2,5,,Consumer psychology,Advertising,2
+2024-ON,3,2,6,a,Consumer psychology,The product,1
+2024-ON,3,2,6,b,Consumer psychology,The product,1
+2024-ON,3,2,7,a,Consumer psychology,Consumer decision-making,2
+2024-ON,3,2,7,b,Consumer psychology,Consumer decision-making,1
+2024-ON,3,2,8,a,Consumer psychology,The physical environment,3
+2024-ON,3,2,8,b,Consumer psychology,The physical environment,5
+2024-ON,3,2,9,,Health psychology,Adherence to medical advice,2
+2024-ON,3,2,10,a,Health psychology,The patient-practitioner relationship,1
+2024-ON,3,2,10,b,Health psychology,The patient-practitioner relationship,1
+2024-ON,3,2,11,a,Health psychology,The patient-practitioner relationship,2
+2024-ON,3,2,11,b,Health psychology,The patient-practitioner relationship,1
+2024-ON,3,2,12,a,Health psychology,Stress,3
+2024-ON,3,2,12,b,Health psychology,Stress,5
+2024-ON,3,2,13,,Organisational psychology,Group behaviour in organisations,2
+2024-ON,3,2,14,a,Organisational psychology,Motivation to work,1
+2024-ON,3,2,14,b,Organisational psychology,Motivation to work,1
+2024-ON,3,2,15,a,Organisational psychology,Motivation to work,2
+2024-ON,3,2,15,b,Organisational psychology,Motivation to work,1
+2024-ON,3,2,16,a,Organisational psychology,Group behaviour in organisations,3
+2024-ON,3,2,16,b,Organisational psychology,Group behaviour in organisations,5
+2024-ON,4,2,1,a(i),Clinical psychology,Anxiety and fear-related disorders,1
+2024-ON,4,2,1,a(ii),Clinical psychology,Anxiety and fear-related disorders,1
+2024-ON,4,2,1,b,Clinical psychology,Anxiety and fear-related disorders,1
+2024-ON,4,2,1,c,Clinical psychology,Anxiety and fear-related disorders,2
+2024-ON,4,2,2,a,Clinical psychology,Mood (affective) disorders,1
+2024-ON,4,2,2,b,Clinical psychology,Mood (affective) disorders,1
+2024-ON,4,2,2,c,Clinical psychology,Mood (affective) disorders,2
+2024-ON,4,2,3,a,Consumer psychology,The psychological environment,2
+2024-ON,4,2,3,b,Consumer psychology,The psychological environment,1
+2024-ON,4,2,3,c,Consumer psychology,The psychological environment,2
+2024-ON,4,2,4,a,Consumer psychology,Advertising,1
+2024-ON,4,2,4,b,Consumer psychology,Advertising,1
+2024-ON,4,2,4,c,Consumer psychology,Advertising,2
+2024-ON,4,2,5,a(i),Health psychology,Health promotion,1
+2024-ON,4,2,5,a(ii),Health psychology,Health promotion,1
+2024-ON,4,2,5,b,Health psychology,Health promotion,1
+2024-ON,4,2,5,c,Health psychology,Health promotion,2
+2024-ON,4,2,6,a,Health psychology,The patient-practitioner relationship,1
+2024-ON,4,2,6,b,Health psychology,The patient-practitioner relationship,1
+2024-ON,4,2,6,c,Health psychology,The patient-practitioner relationship,2
+2024-ON,4,2,7,a(i),Organisational psychology,Satisfaction at work,1
+2024-ON,4,2,7,a(ii),Organisational psychology,Satisfaction at work,1
+2024-ON,4,2,7,b,Organisational psychology,Satisfaction at work,1
+2024-ON,4,2,7,c,Organisational psychology,Satisfaction at work,2
+2024-ON,4,2,8,a,Organisational psychology,Organisational work conditions,1
+2024-ON,4,2,8,b,Organisational psychology,Organisational work conditions,1
+2024-ON,4,2,8,c,Organisational psychology,Organisational work conditions,2
+2024-ON,4,2,9,a,Clinical psychology,Anxiety and fear-related disorders,2.5
+2024-ON,4,2,9,b(i),Clinical psychology,Anxiety and fear-related disorders,1
+2024-ON,4,2,9,b(ii),Clinical psychology,Anxiety and fear-related disorders,1
+2024-ON,4,2,9,c(i),Clinical psychology,Anxiety and fear-related disorders,0.5
+2024-ON,4,2,9,c(ii),Clinical psychology,Anxiety and fear-related disorders,0.5
+2024-ON,4,2,9,c(iii),Clinical psychology,Anxiety and fear-related disorders,0.5
+2024-ON,4,2,10,a,Consumer psychology,The physical environment,2.5
+2024-ON,4,2,10,b(i),Consumer psychology,The physical environment,1
+2024-ON,4,2,10,b(ii),Consumer psychology,The physical environment,1
+2024-ON,4,2,10,c(i),Consumer psychology,The physical environment,0.5
+2024-ON,4,2,10,c(ii),Consumer psychology,The physical environment,0.5
+2024-ON,4,2,10,c(iii),Consumer psychology,The physical environment,0.5
+2024-ON,4,2,11,a,Health psychology,Health promotion,2.5
+2024-ON,4,2,11,b(i),Health psychology,Health promotion,1
+2024-ON,4,2,11,b(ii),Health psychology,Health promotion,1
+2024-ON,4,2,11,c(i),Health psychology,Health promotion,0.5
+2024-ON,4,2,11,c(ii),Health psychology,Health promotion,0.5
+2024-ON,4,2,11,c(iii),Health psychology,Health promotion,0.5
+2024-ON,4,2,12,a,Organisational psychology,Organisational work conditions,2.5
+2024-ON,4,2,12,b(i),Organisational psychology,Organisational work conditions,1
+2024-ON,4,2,12,b(ii),Organisational psychology,Organisational work conditions,1
+2024-ON,4,2,12,c(i),Organisational psychology,Organisational work conditions,0.5
+2024-ON,4,2,12,c(ii),Organisational psychology,Organisational work conditions,0.5
+2024-ON,4,2,12,c(iii),Organisational psychology,Organisational work conditions,0.5
+2025-MJ,1,2,1,a,Social approach,Perry et al. (personal space),1
+2025-MJ,1,2,1,b,Social approach,Perry et al. (personal space),2
+2025-MJ,1,2,1,c,Social approach,Perry et al. (personal space),2
+2025-MJ,1,2,2,a,Cognitive approach,Pozzulo et al. (line-ups),2
+2025-MJ,1,2,2,b,Cognitive approach,Pozzulo et al. (line-ups),2
+2025-MJ,1,2,3,a,Social approach,Milgram (obedience),2
+2025-MJ,1,2,3,b,Social approach,Milgram (obedience),2
+2025-MJ,1,2,3,c,Issues and debates,Application to everyday life,2
+2025-MJ,1,2,4,,Biological approach,Hassett et al. (monkey toy preferences),3
+2025-MJ,1,2,5,a,Learning approach,Assumptions of the approach,2
+2025-MJ,1,2,5,b,Learning approach,Saavedra and Silverman (button phobia),2
+2025-MJ,1,2,6,a,Learning approach,Fagen et al. (elephant learning),3
+2025-MJ,1,2,6,b,Issues and debates,Individual and situational explanations,4
+2025-MJ,1,2,7,,Learning approach,Bandura et al. (aggression),5
+2025-MJ,1,2,8,,Issues and debates,Application to everyday life,4
+2025-MJ,1,2,9,a,Social approach,Piliavin et al. (subway Samaritans),4
+2025-MJ,1,2,9,b,Issues and debates,Comparing core studies,8
+2025-MJ,1,2,10,,Cognitive approach,Baron-Cohen et al. (eyes test),10
+2025-MJ,2,2,1,,Hypotheses and variables,Operationalising variables,2
+2025-MJ,2,2,2,a,Data and descriptive statistics,Graphs and tables,1
+2025-MJ,2,2,2,b,Data and descriptive statistics,Graphs and tables,2
+2025-MJ,2,2,3,a(i),Data and descriptive statistics,Quantitative and qualitative data,1
+2025-MJ,2,2,3,a(ii),Data and descriptive statistics,Quantitative and qualitative data,1
+2025-MJ,2,2,3,b(i),Data and descriptive statistics,Quantitative and qualitative data,1
+2025-MJ,2,2,3,b(ii),Data and descriptive statistics,Quantitative and qualitative data,1
+2025-MJ,2,2,3,c,Data and descriptive statistics,Quantitative and qualitative data,4
+2025-MJ,2,2,4,,Hypotheses and variables,Operationalising variables,1
+2025-MJ,2,2,5,,Research methods,Physiological measures,4
+2025-MJ,2,2,6,,Experimental designs and controls,Experimental designs,6
+2025-MJ,2,2,7,a(i),Hypotheses and variables,Participant and situational variables,1
+2025-MJ,2,2,7,a(ii),Hypotheses and variables,Participant and situational variables,2
+2025-MJ,2,2,7,b(i),Hypotheses and variables,Participant and situational variables,1
+2025-MJ,2,2,7,b(ii),Hypotheses and variables,Participant and situational variables,2
+2025-MJ,2,2,7,c(i),Evaluating research,Validity,2
+2025-MJ,2,2,7,c(ii),Evaluating research,Validity,2
+2025-MJ,2,2,8,a(i),Data and descriptive statistics,Measures of central tendency,1
+2025-MJ,2,2,8,a(ii),Data and descriptive statistics,Measures of central tendency,1
+2025-MJ,2,2,8,b(i),Research ethics,Human participants,2
+2025-MJ,2,2,8,b(ii),Research ethics,Human participants,2
+2025-MJ,2,2,8,c,Sampling,Sampling techniques,2
+2025-MJ,2,2,9,a,Research methods,Self-reports,2
+2025-MJ,2,2,9,b,Research methods,Self-reports,2
+2025-MJ,2,2,10,a,Planning a study,Designing a correlational study,10
+2025-MJ,2,2,10,b,Planning a study,Evaluating the design,4
+2025-MJ,3,2,1,,Clinical psychology,Impulse control disorders and non-substance addiction,2
+2025-MJ,3,2,2,a,Clinical psychology,Anxiety and fear-related disorders,1
+2025-MJ,3,2,2,b,Clinical psychology,Anxiety and fear-related disorders,1
+2025-MJ,3,2,3,a,Clinical psychology,Anxiety and fear-related disorders,2
+2025-MJ,3,2,3,b,Clinical psychology,Anxiety and fear-related disorders,1
+2025-MJ,3,2,4,a,Clinical psychology,Mood (affective) disorders,3
+2025-MJ,3,2,4,b,Clinical psychology,Mood (affective) disorders,5
+2025-MJ,3,2,5,,Consumer psychology,The product,2
+2025-MJ,3,2,6,a,Consumer psychology,Consumer decision-making,1
+2025-MJ,3,2,6,b,Consumer psychology,Consumer decision-making,1
+2025-MJ,3,2,7,a(i),Consumer psychology,Consumer decision-making,1
+2025-MJ,3,2,7,a(ii),Consumer psychology,Consumer decision-making,1
+2025-MJ,3,2,7,b,Consumer psychology,Consumer decision-making,1
+2025-MJ,3,2,8,a,Consumer psychology,The product,3
+2025-MJ,3,2,8,b,Consumer psychology,The product,5
+2025-MJ,3,2,9,,Health psychology,Stress,2
+2025-MJ,3,2,10,a,Health psychology,The patient-practitioner relationship,1
+2025-MJ,3,2,10,b,Health psychology,The patient-practitioner relationship,1
+2025-MJ,3,2,11,a,Health psychology,The patient-practitioner relationship,2
+2025-MJ,3,2,11,b,Health psychology,The patient-practitioner relationship,1
+2025-MJ,3,2,12,a,Health psychology,Health promotion,3
+2025-MJ,3,2,12,b,Health psychology,Health promotion,5
+2025-MJ,3,2,13,a,Organisational psychology,Motivation to work,1
+2025-MJ,3,2,13,b,Organisational psychology,Motivation to work,1
+2025-MJ,3,2,14,a,Organisational psychology,Motivation to work,1
+2025-MJ,3,2,14,b,Organisational psychology,Motivation to work,1
+2025-MJ,3,2,15,a,Organisational psychology,Satisfaction at work,2
+2025-MJ,3,2,15,b,Organisational psychology,Satisfaction at work,1
+2025-MJ,3,2,16,a,Organisational psychology,Leadership and management,3
+2025-MJ,3,2,16,b,Organisational psychology,Leadership and management,5
+2025-MJ,4,2,1,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2025-MJ,4,2,1,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,1
+2025-MJ,4,2,1,c,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2025-MJ,4,2,2,a,Clinical psychology,Obsessive-compulsive and related disorders,1
+2025-MJ,4,2,2,b,Clinical psychology,Obsessive-compulsive and related disorders,1
+2025-MJ,4,2,2,c,Clinical psychology,Obsessive-compulsive and related disorders,2
+2025-MJ,4,2,3,a(i),Consumer psychology,The physical environment,1
+2025-MJ,4,2,3,a(ii),Consumer psychology,The physical environment,1
+2025-MJ,4,2,3,b,Consumer psychology,The physical environment,1
+2025-MJ,4,2,3,c,Consumer psychology,The physical environment,2
+2025-MJ,4,2,4,a,Consumer psychology,The physical environment,1
+2025-MJ,4,2,4,b,Consumer psychology,The physical environment,1
+2025-MJ,4,2,4,c,Consumer psychology,The physical environment,2
+2025-MJ,4,2,5,a,Health psychology,Adherence to medical advice,2
+2025-MJ,4,2,5,b,Health psychology,Adherence to medical advice,1
+2025-MJ,4,2,5,c,Health psychology,Adherence to medical advice,2
+2025-MJ,4,2,6,a,Health psychology,Pain,1
+2025-MJ,4,2,6,b,Health psychology,Pain,1
+2025-MJ,4,2,6,c,Health psychology,Pain,2
+2025-MJ,4,2,7,a(i),Organisational psychology,Organisational work conditions,1
+2025-MJ,4,2,7,a(ii),Organisational psychology,Organisational work conditions,1
+2025-MJ,4,2,7,b,Organisational psychology,Organisational work conditions,1
+2025-MJ,4,2,7,c,Organisational psychology,Organisational work conditions,2
+2025-MJ,4,2,8,a,Organisational psychology,Group behaviour in organisations,1
+2025-MJ,4,2,8,b,Organisational psychology,Group behaviour in organisations,1
+2025-MJ,4,2,8,c,Organisational psychology,Group behaviour in organisations,2
+2025-MJ,4,2,9,a,Clinical psychology,Obsessive-compulsive and related disorders,2.5
+2025-MJ,4,2,9,b(i),Clinical psychology,Obsessive-compulsive and related disorders,1
+2025-MJ,4,2,9,b(ii),Clinical psychology,Obsessive-compulsive and related disorders,1
+2025-MJ,4,2,9,c(i),Clinical psychology,Obsessive-compulsive and related disorders,0.5
+2025-MJ,4,2,9,c(ii),Clinical psychology,Obsessive-compulsive and related disorders,0.5
+2025-MJ,4,2,9,c(iii),Clinical psychology,Obsessive-compulsive and related disorders,0.5
+2025-MJ,4,2,10,a,Consumer psychology,The physical environment,2.5
+2025-MJ,4,2,10,b(i),Consumer psychology,The physical environment,1
+2025-MJ,4,2,10,b(ii),Consumer psychology,The physical environment,1
+2025-MJ,4,2,10,c(i),Consumer psychology,The physical environment,0.5
+2025-MJ,4,2,10,c(ii),Consumer psychology,The physical environment,0.5
+2025-MJ,4,2,10,c(iii),Consumer psychology,The physical environment,0.5
+2025-MJ,4,2,11,a,Health psychology,Adherence to medical advice,2.5
+2025-MJ,4,2,11,b(i),Health psychology,Adherence to medical advice,1
+2025-MJ,4,2,11,b(ii),Health psychology,Adherence to medical advice,1
+2025-MJ,4,2,11,c(i),Health psychology,Adherence to medical advice,0.5
+2025-MJ,4,2,11,c(ii),Health psychology,Adherence to medical advice,0.5
+2025-MJ,4,2,11,c(iii),Health psychology,Adherence to medical advice,0.5
+2025-MJ,4,2,12,a,Organisational psychology,Organisational work conditions,2.5
+2025-MJ,4,2,12,b(i),Organisational psychology,Organisational work conditions,1
+2025-MJ,4,2,12,b(ii),Organisational psychology,Organisational work conditions,1
+2025-MJ,4,2,12,c(i),Organisational psychology,Organisational work conditions,0.5
+2025-MJ,4,2,12,c(ii),Organisational psychology,Organisational work conditions,0.5
+2025-MJ,4,2,12,c(iii),Organisational psychology,Organisational work conditions,0.5
+2025-ON,1,2,1,a,Social approach,Milgram (obedience),1
+2025-ON,1,2,1,b,Social approach,Milgram (obedience),2
+2025-ON,1,2,1,c,Social approach,Milgram (obedience),2
+2025-ON,1,2,2,a,Learning approach,Bandura et al. (aggression),2
+2025-ON,1,2,2,b,Learning approach,Bandura et al. (aggression),2
+2025-ON,1,2,3,a,Social approach,Piliavin et al. (subway Samaritans),2
+2025-ON,1,2,3,b,Social approach,Piliavin et al. (subway Samaritans),2
+2025-ON,1,2,4,,Issues and debates,Ethics,4
+2025-ON,1,2,5,a,Biological approach,Hölzel et al. (mindfulness and brain scans),2
+2025-ON,1,2,5,b,Biological approach,Hölzel et al. (mindfulness and brain scans),2
+2025-ON,1,2,6,a,Social approach,Perry et al. (personal space),3
+2025-ON,1,2,6,b,Issues and debates,Ethics,4
+2025-ON,1,2,7,,Issues and debates,Individual and situational explanations,4
+2025-ON,1,2,8,a,Issues and debates,Application to everyday life,4
+2025-ON,1,2,8,b,Issues and debates,Application to everyday life,2
+2025-ON,1,2,9,a,Learning approach,Saavedra and Silverman (button phobia),4
+2025-ON,1,2,9,b,Issues and debates,Comparing core studies,8
+2025-ON,1,2,10,,Cognitive approach,Pozzulo et al. (line-ups),10
+2025-ON,2,2,1,a,Experimental designs and controls,Experimental designs,1
+2025-ON,2,2,1,b,Experimental designs and controls,Experimental designs,1
+2025-ON,2,2,2,a,Data and descriptive statistics,Quantitative and qualitative data,1
+2025-ON,2,2,2,b,Data and descriptive statistics,Quantitative and qualitative data,2
+2025-ON,2,2,3,,Research methods,Observations,2
+2025-ON,2,2,4,a,Sampling,Populations and samples,2
+2025-ON,2,2,4,b(i),Data and descriptive statistics,Measures of spread,2
+2025-ON,2,2,4,b(ii),Data and descriptive statistics,Measures of spread,2
+2025-ON,2,2,5,,Research methods,Self-reports,6
+2025-ON,2,2,6,a(i),Research ethics,Human participants,2
+2025-ON,2,2,6,a(ii),Research ethics,Human participants,2
+2025-ON,2,2,6,b,Research methods,Case studies,2
+2025-ON,2,2,6,c,Research methods,Case studies,4
+2025-ON,2,2,7,a,Hypotheses and variables,Operationalising variables,1
+2025-ON,2,2,7,b(i),Research ethics,Human participants,2
+2025-ON,2,2,7,b(ii),Research ethics,Human participants,2
+2025-ON,2,2,7,c,Research methods,Correlations,2
+2025-ON,2,2,8,a,Research methods,Self-reports,2
+2025-ON,2,2,8,b(i),Evaluating research,Validity,2
+2025-ON,2,2,8,b(ii),Evaluating research,Validity,2
+2025-ON,2,2,8,c,Data and descriptive statistics,Graphs and tables,4
+2025-ON,2,2,9,a,Planning a study,Designing an experiment,10
+2025-ON,2,2,9,b,Planning a study,Evaluating the design,4
+2025-ON,3,2,1,,Clinical psychology,Mood (affective) disorders,2
+2025-ON,3,2,2,a,Clinical psychology,Mood (affective) disorders,1
+2025-ON,3,2,2,b,Clinical psychology,Mood (affective) disorders,1
+2025-ON,3,2,3,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2025-ON,3,2,3,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,1
+2025-ON,3,2,4,a,Clinical psychology,Anxiety and fear-related disorders,3
+2025-ON,3,2,4,b,Clinical psychology,Anxiety and fear-related disorders,5
+2025-ON,3,2,5,,Consumer psychology,The physical environment,2
+2025-ON,3,2,6,a,Consumer psychology,The physical environment,1
+2025-ON,3,2,6,b,Consumer psychology,The physical environment,1
+2025-ON,3,2,7,a,Consumer psychology,The psychological environment,2
+2025-ON,3,2,7,b,Consumer psychology,The psychological environment,1
+2025-ON,3,2,8,a,Consumer psychology,Consumer decision-making,3
+2025-ON,3,2,8,b,Consumer psychology,Consumer decision-making,5
+2025-ON,3,2,9,,Health psychology,Adherence to medical advice,2
+2025-ON,3,2,10,a,Health psychology,Stress,1
+2025-ON,3,2,10,b,Health psychology,Stress,1
+2025-ON,3,2,11,a,Health psychology,Stress,2
+2025-ON,3,2,11,b,Health psychology,Stress,1
+2025-ON,3,2,12,a,Health psychology,Pain,3
+2025-ON,3,2,12,b,Health psychology,Pain,5
+2025-ON,3,2,13,,Organisational psychology,Organisational work conditions,2
+2025-ON,3,2,14,a,Organisational psychology,Organisational work conditions,1
+2025-ON,3,2,14,b,Organisational psychology,Organisational work conditions,1
+2025-ON,3,2,15,a,Organisational psychology,Satisfaction at work,2
+2025-ON,3,2,15,b,Organisational psychology,Satisfaction at work,1
+2025-ON,3,2,16,a,Organisational psychology,Organisational work conditions,3
+2025-ON,3,2,16,b,Organisational psychology,Organisational work conditions,5
+2025-ON,4,2,1,a,Clinical psychology,Obsessive-compulsive and related disorders,2
+2025-ON,4,2,1,b,Clinical psychology,Obsessive-compulsive and related disorders,1
+2025-ON,4,2,1,c,Clinical psychology,Obsessive-compulsive and related disorders,2
+2025-ON,4,2,2,a,Clinical psychology,Impulse control disorders and non-substance addiction,1
+2025-ON,4,2,2,b,Clinical psychology,Impulse control disorders and non-substance addiction,1
+2025-ON,4,2,2,c,Clinical psychology,Impulse control disorders and non-substance addiction,2
+2025-ON,4,2,3,a,Consumer psychology,Advertising,2
+2025-ON,4,2,3,b,Consumer psychology,Advertising,1
+2025-ON,4,2,3,c,Consumer psychology,Advertising,2
+2025-ON,4,2,4,a,Consumer psychology,The product,1
+2025-ON,4,2,4,b,Consumer psychology,The product,1
+2025-ON,4,2,4,c,Consumer psychology,The product,2
+2025-ON,4,2,5,a,Health psychology,The patient-practitioner relationship,2
+2025-ON,4,2,5,b,Health psychology,The patient-practitioner relationship,1
+2025-ON,4,2,5,c,Health psychology,The patient-practitioner relationship,2
+2025-ON,4,2,6,a,Health psychology,Health promotion,1
+2025-ON,4,2,6,b,Health psychology,Health promotion,1
+2025-ON,4,2,6,c,Health psychology,Health promotion,2
+2025-ON,4,2,7,a,Organisational psychology,Motivation to work,2
+2025-ON,4,2,7,b,Organisational psychology,Motivation to work,1
+2025-ON,4,2,7,c,Organisational psychology,Motivation to work,2
+2025-ON,4,2,8,a,Organisational psychology,Leadership and management,1
+2025-ON,4,2,8,b,Organisational psychology,Leadership and management,1
+2025-ON,4,2,8,c,Organisational psychology,Leadership and management,2
+2025-ON,4,2,9,a,Clinical psychology,Impulse control disorders and non-substance addiction,2.5
+2025-ON,4,2,9,b(i),Clinical psychology,Impulse control disorders and non-substance addiction,1
+2025-ON,4,2,9,b(ii),Clinical psychology,Impulse control disorders and non-substance addiction,1
+2025-ON,4,2,9,c(i),Clinical psychology,Impulse control disorders and non-substance addiction,0.5
+2025-ON,4,2,9,c(ii),Clinical psychology,Impulse control disorders and non-substance addiction,0.5
+2025-ON,4,2,9,c(iii),Clinical psychology,Impulse control disorders and non-substance addiction,0.5
+2025-ON,4,2,10,a,Consumer psychology,Advertising,2.5
+2025-ON,4,2,10,b(i),Consumer psychology,Advertising,1
+2025-ON,4,2,10,b(ii),Consumer psychology,Advertising,1
+2025-ON,4,2,10,c(i),Consumer psychology,Advertising,0.5
+2025-ON,4,2,10,c(ii),Consumer psychology,Advertising,0.5
+2025-ON,4,2,10,c(iii),Consumer psychology,Advertising,0.5
+2025-ON,4,2,11,a,Health psychology,Health promotion,2.5
+2025-ON,4,2,11,b(i),Health psychology,Health promotion,1
+2025-ON,4,2,11,b(ii),Health psychology,Health promotion,1
+2025-ON,4,2,11,c(i),Health psychology,Health promotion,0.5
+2025-ON,4,2,11,c(ii),Health psychology,Health promotion,0.5
+2025-ON,4,2,11,c(iii),Health psychology,Health promotion,0.5
+2025-ON,4,2,12,a,Organisational psychology,Motivation to work,2.5
+2025-ON,4,2,12,b(i),Organisational psychology,Motivation to work,1
+2025-ON,4,2,12,b(ii),Organisational psychology,Motivation to work,1
+2025-ON,4,2,12,c(i),Organisational psychology,Motivation to work,0.5
+2025-ON,4,2,12,c(ii),Organisational psychology,Motivation to work,0.5
+2025-ON,4,2,12,c(iii),Organisational psychology,Motivation to work,0.5
+2026-MJ,1,2,1,a,Biological approach,Hassett et al. (monkey toy preferences),1
+2026-MJ,1,2,1,b,Biological approach,Hassett et al. (monkey toy preferences),2
+2026-MJ,1,2,1,c,Biological approach,Hassett et al. (monkey toy preferences),2
+2026-MJ,1,2,2,a,Biological approach,Dement and Kleitman (sleep and dreams),3
+2026-MJ,1,2,2,b,Biological approach,Dement and Kleitman (sleep and dreams),2
+2026-MJ,1,2,3,,Issues and debates,Application to everyday life,4
+2026-MJ,1,2,4,a,Cognitive approach,Assumptions of the approach,3
+2026-MJ,1,2,4,b,Cognitive approach,Baron-Cohen et al. (eyes test),2
+2026-MJ,1,2,5,,Issues and debates,Application to everyday life,4
+2026-MJ,1,2,6,a(i),Issues and debates,Ethics,2
+2026-MJ,1,2,6,a(ii),Issues and debates,Ethics,2
+2026-MJ,1,2,6,b,Issues and debates,Ethics,2
+2026-MJ,1,2,7,,Issues and debates,Individual and situational explanations,4
+2026-MJ,1,2,8,,Cognitive approach,Andrade (doodling),5
+2026-MJ,1,2,9,a,Biological approach,Hölzel et al. (mindfulness and brain scans),4
+2026-MJ,1,2,9,b,Issues and debates,Comparing core studies,8
+2026-MJ,1,2,10,,Social approach,Piliavin et al. (subway Samaritans),10
+2026-MJ,2,2,1,a,Hypotheses and variables,Operationalising variables,2
+2026-MJ,2,2,1,b(i),Sampling,Sampling techniques,1
+2026-MJ,2,2,1,b(ii),Sampling,Sampling techniques,1
+2026-MJ,2,2,1,b(iii),Sampling,Sampling techniques,1
+2026-MJ,2,2,2,a,Hypotheses and variables,Operationalising variables,2
+2026-MJ,2,2,2,b,Hypotheses and variables,Operationalising variables,2
+2026-MJ,2,2,3,a,Data and descriptive statistics,Graphs and tables,1
+2026-MJ,2,2,3,b,Data and descriptive statistics,Graphs and tables,1
+2026-MJ,2,2,3,c,Data and descriptive statistics,Graphs and tables,4
+2026-MJ,2,2,4,a,Evaluating research,Objectivity and subjectivity,1
+2026-MJ,2,2,4,b,Evaluating research,Objectivity and subjectivity,1
+2026-MJ,2,2,5,,Research ethics,Human participants,6
+2026-MJ,2,2,6,a(i),Research methods,Observations,2
+2026-MJ,2,2,6,a(ii),Research methods,Observations,1
+2026-MJ,2,2,6,b,Research ethics,Animal research,4
+2026-MJ,2,2,7,a(i),Research methods,Case studies,2
+2026-MJ,2,2,7,a(ii),Research methods,Case studies,2
+2026-MJ,2,2,7,b,Research methods,Case studies,2
+2026-MJ,2,2,7,c,Research methods,Case studies,4
+2026-MJ,2,2,8,a,Hypotheses and variables,Operationalising variables,2
+2026-MJ,2,2,8,b,Research methods,Experiments,2
+2026-MJ,2,2,8,c,Research methods,Experiments,2
+2026-MJ,2,2,9,a,Planning a study,Designing a longitudinal study,10
+2026-MJ,2,2,9,b(i),Planning a study,Evaluating the design,2
+2026-MJ,2,2,9,b(ii),Planning a study,Evaluating the design,2
+2026-MJ,3,2,1,,Clinical psychology,Mood (affective) disorders,2
+2026-MJ,3,2,2,a,Clinical psychology,Anxiety and fear-related disorders,1
+2026-MJ,3,2,2,b,Clinical psychology,Anxiety and fear-related disorders,1
+2026-MJ,3,2,3,a,Clinical psychology,Mood (affective) disorders,2
+2026-MJ,3,2,3,b,Clinical psychology,Mood (affective) disorders,1
+2026-MJ,3,2,4,a,Clinical psychology,Impulse control disorders and non-substance addiction,3
+2026-MJ,3,2,4,b,Clinical psychology,Impulse control disorders and non-substance addiction,5
+2026-MJ,3,2,5,,Consumer psychology,Advertising,2
+2026-MJ,3,2,6,a,Consumer psychology,Advertising,1
+2026-MJ,3,2,6,b,Consumer psychology,Advertising,1
+2026-MJ,3,2,7,a,Consumer psychology,The psychological environment,2
+2026-MJ,3,2,7,b,Consumer psychology,The psychological environment,1
+2026-MJ,3,2,8,a,Consumer psychology,Consumer decision-making,3
+2026-MJ,3,2,8,b,Consumer psychology,Consumer decision-making,5
+2026-MJ,3,2,9,,Health psychology,The patient-practitioner relationship,2
+2026-MJ,3,2,10,a,Health psychology,The patient-practitioner relationship,1
+2026-MJ,3,2,10,b,Health psychology,The patient-practitioner relationship,1
+2026-MJ,3,2,11,a,Health psychology,Stress,2
+2026-MJ,3,2,11,b,Health psychology,Stress,1
+2026-MJ,3,2,12,a,Health psychology,Adherence to medical advice,3
+2026-MJ,3,2,12,b,Health psychology,Adherence to medical advice,5
+2026-MJ,3,2,13,,Organisational psychology,Satisfaction at work,2
+2026-MJ,3,2,14,a,Organisational psychology,Leadership and management,1
+2026-MJ,3,2,14,b,Organisational psychology,Leadership and management,1
+2026-MJ,3,2,15,a(i),Organisational psychology,Leadership and management,1
+2026-MJ,3,2,15,a(ii),Organisational psychology,Leadership and management,1
+2026-MJ,3,2,15,b,Organisational psychology,Leadership and management,1
+2026-MJ,3,2,16,a,Organisational psychology,Organisational work conditions,3
+2026-MJ,3,2,16,b,Organisational psychology,Organisational work conditions,5
+2026-MJ,4,2,1,a,Clinical psychology,Obsessive-compulsive and related disorders,2
+2026-MJ,4,2,1,b,Clinical psychology,Obsessive-compulsive and related disorders,1
+2026-MJ,4,2,1,c,Clinical psychology,Obsessive-compulsive and related disorders,2
+2026-MJ,4,2,2,a,Clinical psychology,Schizophrenia spectrum and psychotic disorders,1
+2026-MJ,4,2,2,b,Clinical psychology,Schizophrenia spectrum and psychotic disorders,1
+2026-MJ,4,2,2,c,Clinical psychology,Schizophrenia spectrum and psychotic disorders,2
+2026-MJ,4,2,3,a,Consumer psychology,The physical environment,2
+2026-MJ,4,2,3,b,Consumer psychology,The physical environment,1
+2026-MJ,4,2,3,c,Consumer psychology,The physical environment,2
+2026-MJ,4,2,4,a,Consumer psychology,Consumer decision-making,1
+2026-MJ,4,2,4,b,Consumer psychology,Consumer decision-making,1
+2026-MJ,4,2,4,c,Consumer psychology,Consumer decision-making,2
+2026-MJ,4,2,5,a,Health psychology,Health promotion,2
+2026-MJ,4,2,5,b,Health psychology,Health promotion,1
+2026-MJ,4,2,5,c,Health psychology,Health promotion,2
+2026-MJ,4,2,6,a,Health psychology,Pain,1
+2026-MJ,4,2,6,b,Health psychology,Pain,1
+2026-MJ,4,2,6,c,Health psychology,Pain,2
+2026-MJ,4,2,7,a,Organisational psychology,Motivation to work,2
+2026-MJ,4,2,7,b,Organisational psychology,Motivation to work,1
+2026-MJ,4,2,7,c,Organisational psychology,Motivation to work,2
+2026-MJ,4,2,8,a,Organisational psychology,Organisational work conditions,1
+2026-MJ,4,2,8,b,Organisational psychology,Organisational work conditions,1
+2026-MJ,4,2,8,c,Organisational psychology,Organisational work conditions,2
+2026-MJ,4,2,9,a,Clinical psychology,Obsessive-compulsive and related disorders,2.5
+2026-MJ,4,2,9,b(i),Clinical psychology,Obsessive-compulsive and related disorders,1
+2026-MJ,4,2,9,b(ii),Clinical psychology,Obsessive-compulsive and related disorders,1
+2026-MJ,4,2,9,c(i),Clinical psychology,Obsessive-compulsive and related disorders,0.5
+2026-MJ,4,2,9,c(ii),Clinical psychology,Obsessive-compulsive and related disorders,0.5
+2026-MJ,4,2,9,c(iii),Clinical psychology,Obsessive-compulsive and related disorders,0.5
+2026-MJ,4,2,10,a,Consumer psychology,The physical environment,2.5
+2026-MJ,4,2,10,b(i),Consumer psychology,The physical environment,1
+2026-MJ,4,2,10,b(ii),Consumer psychology,The physical environment,1
+2026-MJ,4,2,10,c(i),Consumer psychology,The physical environment,0.5
+2026-MJ,4,2,10,c(ii),Consumer psychology,The physical environment,0.5
+2026-MJ,4,2,10,c(iii),Consumer psychology,The physical environment,0.5
+2026-MJ,4,2,11,a,Health psychology,Pain,2.5
+2026-MJ,4,2,11,b(i),Health psychology,Pain,1
+2026-MJ,4,2,11,b(ii),Health psychology,Pain,1
+2026-MJ,4,2,11,c(i),Health psychology,Pain,0.5
+2026-MJ,4,2,11,c(ii),Health psychology,Pain,0.5
+2026-MJ,4,2,11,c(iii),Health psychology,Pain,0.5
+2026-MJ,4,2,12,a,Organisational psychology,Group behaviour in organisations,2.5
+2026-MJ,4,2,12,b(i),Organisational psychology,Group behaviour in organisations,1
+2026-MJ,4,2,12,b(ii),Organisational psychology,Group behaviour in organisations,1
+2026-MJ,4,2,12,c(i),Organisational psychology,Group behaviour in organisations,0.5
+2026-MJ,4,2,12,c(ii),Organisational psychology,Group behaviour in organisations,0.5
+2026-MJ,4,2,12,c(iii),Organisational psychology,Group behaviour in organisations,0.5

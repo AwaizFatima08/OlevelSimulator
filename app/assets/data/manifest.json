@@ -34,31 +34,6 @@
  ],
  "coming_soon": [
   {
-   "code": "3247",
-   "level": "o-level",
-   "name": "Urdu First Language"
-  },
-  {
-   "code": "3248",
-   "level": "o-level",
-   "name": "Urdu Second Language"
-  },
-  {
-   "code": "0606",
-   "level": "igcse",
-   "name": "Additional Mathematics"
-  },
-  {
-   "code": "0478",
-   "level": "igcse",
-   "name": "Computer Science"
-  },
-  {
-   "code": "0455",
-   "level": "igcse",
-   "name": "Economics"
-  },
-  {
    "code": "0452",
    "level": "igcse",
    "name": "Accounting"
@@ -97,31 +72,6 @@
    "code": "0539",
    "level": "igcse",
    "name": "Urdu as a Second Language"
-  },
-  {
-   "code": "9231",
-   "level": "a-level",
-   "name": "Further Mathematics"
-  },
-  {
-   "code": "9618",
-   "level": "a-level",
-   "name": "Computer Science"
-  },
-  {
-   "code": "9708",
-   "level": "a-level",
-   "name": "Economics"
-  },
-  {
-   "code": "9706",
-   "level": "a-level",
-   "name": "Accounting"
-  },
-  {
-   "code": "9609",
-   "level": "a-level",
-   "name": "Business"
   },
   {
    "code": "9990",
@@ -289,6 +239,86 @@
    "file": "/data/2058.json",
    "bytes": 23160,
    "questions": 90
+  },
+  {
+   "code": "3247",
+   "level": "o-level",
+   "name": "Urdu First Language",
+   "file": "/data/3247.json",
+   "bytes": 9562,
+   "questions": 35
+  },
+  {
+   "code": "3248",
+   "level": "o-level",
+   "name": "Urdu Second Language",
+   "file": "/data/3248.json",
+   "bytes": 56778,
+   "questions": 322
+  },
+  {
+   "code": "0606",
+   "level": "igcse",
+   "name": "Additional Mathematics",
+   "file": "/data/0606.json",
+   "bytes": 48646,
+   "questions": 203
+  },
+  {
+   "code": "0478",
+   "level": "igcse",
+   "name": "Computer Science",
+   "file": "/data/0478.json",
+   "bytes": 47588,
+   "questions": 162
+  },
+  {
+   "code": "0455",
+   "level": "igcse",
+   "name": "Economics",
+   "file": "/data/0455.json",
+   "bytes": 73825,
+   "questions": 315
+  },
+  {
+   "code": "9231",
+   "level": "a-level",
+   "name": "Further Mathematics",
+   "file": "/data/9231.json",
+   "bytes": 65409,
+   "questions": 252
+  },
+  {
+   "code": "9618",
+   "level": "a-level",
+   "name": "Computer Science",
+   "file": "/data/9618.json",
+   "bytes": 69711,
+   "questions": 247
+  },
+  {
+   "code": "9708",
+   "level": "a-level",
+   "name": "Economics",
+   "file": "/data/9708.json",
+   "bytes": 128823,
+   "questions": 632
+  },
+  {
+   "code": "9706",
+   "level": "a-level",
+   "name": "Accounting",
+   "file": "/data/9706.json",
+   "bytes": 86999,
+   "questions": 353
+  },
+  {
+   "code": "9609",
+   "level": "a-level",
+   "name": "Business",
+   "file": "/data/9609.json",
+   "bytes": 43113,
+   "questions": 137
   }
  ]
 }

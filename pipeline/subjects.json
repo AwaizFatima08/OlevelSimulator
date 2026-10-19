@@ -282,7 +282,10 @@
    "name": "Urdu Second Language",
    "slug": "urdu-second-language",
    "guide": "3248-urdu-second-language.md",
-   "papers": {}
+   "papers": {
+    "1": "Paper 1 (Composition and Translation until 2023; Reading and Writing from 2024)",
+    "2": "Paper 2 (Language Usage, Summary and Comprehension until 2023; Grammar, Writing and Translation from 2024)"
+   }
   },
   {
    "code": "0606",
@@ -440,7 +443,8 @@
    "papers": {
     "1": "Paper 1 AS Multiple Choice",
     "2": "Paper 2 AS Structured Questions",
-    "3": "Paper 3 A Level Structured Questions"
+    "3": "Paper 3 Financial Accounting (A Level structured paper in 2022)",
+    "4": "Paper 4 Cost and Management Accounting (from 2023)"
    }
   },
   {

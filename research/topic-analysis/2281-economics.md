@@ -110,7 +110,7 @@ These are each worth about 1 % of marks or less, or turned up in only a few sess
   - quick calculations (PED, PES, average cost, labour force percentage, current account balance, exchange-rate conversions);
   - reading data from tables or charts (growth rates, CPI, budget figures);
   - diagram reading (PPCs, cost curves, tax incidence, shifts on demand/supply diagrams).
-- **Paper 2 command words.** Over nine papers there were about 54 Discuss parts, 52 Explain, 40 Analyse, 30 Identify, 14 Define, 9 Calculate, 5 Draw and 3 State. Discuss parts carry 36 of the 90 Paper 2 marks you actually answer: two in Section A and one in each of your three Section B questions. So evaluation skill matters most.
+- **Paper 2 command words.** Over nine papers there were about 54 Discuss parts, 52 Explain, roughly 45–50 Analyse, 30 Identify, 14 Define, 9 Calculate, 5 Draw and 3 State. Discuss parts carry 36 of the 90 Paper 2 marks you actually answer: two in Section A and one in each of your three Section B questions. So evaluation skill matters most.
 - **What each command word asks for:**
   - **Identify / State:** short points; no explanation needed.
   - **Define:** a precise definition. A diagram does not count as a definition, and an example is not needed unless asked for.

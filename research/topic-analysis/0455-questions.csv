@@ -1,0 +1,487 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,,The basic economic problem,Nature of the economic problem,1
+2022-MJ,1,2,2,,The basic economic problem,Opportunity cost,1
+2022-MJ,1,2,3,,The basic economic problem,Production possibility curve,1
+2022-MJ,1,2,4,,The allocation of resources,Microeconomics and macroeconomics,1
+2022-MJ,1,2,5,,The allocation of resources,Market economic system,1
+2022-MJ,1,2,6,,The allocation of resources,Demand,1
+2022-MJ,1,2,7,,The allocation of resources,Price elasticity of demand,1
+2022-MJ,1,2,8,,The allocation of resources,Price determination,1
+2022-MJ,1,2,9,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2022-MJ,1,2,10,,Microeconomic decision makers,Market structure,1
+2022-MJ,1,2,11,,Microeconomic decision makers,Firms,1
+2022-MJ,1,2,12,,Microeconomic decision makers,Firms and production,1
+2022-MJ,1,2,13,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2022-MJ,1,2,14,,Microeconomic decision makers,Households,1
+2022-MJ,1,2,15,,Microeconomic decision makers,Money and banking,1
+2022-MJ,1,2,16,,The allocation of resources,Market failure,1
+2022-MJ,1,2,17,,The allocation of resources,Mixed economic system and intervention,1
+2022-MJ,1,2,18,,Government and the macroeconomy,Monetary policy,1
+2022-MJ,1,2,19,,Government and the macroeconomy,Supply-side policy,1
+2022-MJ,1,2,20,,Government and the macroeconomy,Economic growth,1
+2022-MJ,1,2,21,,Government and the macroeconomy,Employment and unemployment,1
+2022-MJ,1,2,22,,Government and the macroeconomy,Inflation and deflation,1
+2022-MJ,1,2,23,,Government and the macroeconomy,Fiscal policy,1
+2022-MJ,1,2,24,,Economic development,Living standards,1
+2022-MJ,1,2,25,,Economic development,Population,1
+2022-MJ,1,2,26,,Government and the macroeconomy,Macroeconomic aims,1
+2022-MJ,1,2,27,,International trade and globalisation,Foreign exchange rates,1
+2022-MJ,1,2,28,,International trade and globalisation,"Globalisation, free trade and protection",1
+2022-MJ,1,2,29,,International trade and globalisation,Foreign exchange rates,1
+2022-MJ,1,2,30,,International trade and globalisation,"Globalisation, free trade and protection",1
+2022-MJ,2,2,1,a,Government and the macroeconomy,Economic growth,1
+2022-MJ,2,2,1,b,Economic development,Living standards,2
+2022-MJ,2,2,1,c,Government and the macroeconomy,Fiscal policy,2
+2022-MJ,2,2,1,d,Microeconomic decision makers,Workers,4
+2022-MJ,2,2,1,e,Microeconomic decision makers,Firms and production,4
+2022-MJ,2,2,1,f,Economic development,Population,5
+2022-MJ,2,2,1,g,The basic economic problem,Factors of production,6
+2022-MJ,2,2,1,h,Government and the macroeconomy,Fiscal policy,6
+2022-MJ,2,2,2,a,Microeconomic decision makers,Money and banking,1.5
+2022-MJ,2,2,2,b,Microeconomic decision makers,Money and banking,3
+2022-MJ,2,2,2,c,Government and the macroeconomy,Macroeconomic aims,4.5
+2022-MJ,2,2,2,d,Government and the macroeconomy,Inflation and deflation,6
+2022-MJ,2,2,3,a,The basic economic problem,Production possibility curve,1.5
+2022-MJ,2,2,3,b,The allocation of resources,Price elasticity of demand,3
+2022-MJ,2,2,3,c,The allocation of resources,Price changes,4.5
+2022-MJ,2,2,3,d,The allocation of resources,Mixed economic system and intervention,6
+2022-MJ,2,2,4,a,International trade and globalisation,"Globalisation, free trade and protection",1.5
+2022-MJ,2,2,4,b,International trade and globalisation,Foreign exchange rates,3
+2022-MJ,2,2,4,c,International trade and globalisation,"Globalisation, free trade and protection",4.5
+2022-MJ,2,2,4,d,Economic development,Population,6
+2022-MJ,2,2,5,a,The allocation of resources,Supply,1.5
+2022-MJ,2,2,5,b,The allocation of resources,Mixed economic system and intervention,3
+2022-MJ,2,2,5,c,Microeconomic decision makers,Households,4.5
+2022-MJ,2,2,5,d,Microeconomic decision makers,Firms,6
+2022-ON,1,2,1,,The basic economic problem,Opportunity cost,1
+2022-ON,1,2,2,,The basic economic problem,Factors of production,1
+2022-ON,1,2,3,,The basic economic problem,Production possibility curve,1
+2022-ON,1,2,4,,The allocation of resources,Market economic system,1
+2022-ON,1,2,5,,The allocation of resources,Supply,1
+2022-ON,1,2,6,,The allocation of resources,Price determination,1
+2022-ON,1,2,7,,The allocation of resources,Price elasticity of demand,1
+2022-ON,1,2,8,,The allocation of resources,Market failure,1
+2022-ON,1,2,9,,Microeconomic decision makers,Firms,1
+2022-ON,1,2,10,,Microeconomic decision makers,Money and banking,1
+2022-ON,1,2,11,,Microeconomic decision makers,Households,1
+2022-ON,1,2,12,,Microeconomic decision makers,Workers,1
+2022-ON,1,2,13,,Microeconomic decision makers,Households,1
+2022-ON,1,2,14,,Microeconomic decision makers,Workers,1
+2022-ON,1,2,15,,Microeconomic decision makers,Firms,1
+2022-ON,1,2,16,,Government and the macroeconomy,Fiscal policy,1
+2022-ON,1,2,17,,Government and the macroeconomy,Fiscal policy,1
+2022-ON,1,2,18,,Government and the macroeconomy,Monetary policy,1
+2022-ON,1,2,19,,Government and the macroeconomy,Economic growth,1
+2022-ON,1,2,20,,Government and the macroeconomy,Economic growth,1
+2022-ON,1,2,21,,Government and the macroeconomy,Employment and unemployment,1
+2022-ON,1,2,22,,Government and the macroeconomy,Inflation and deflation,1
+2022-ON,1,2,23,,Government and the macroeconomy,Employment and unemployment,1
+2022-ON,1,2,24,,Government and the macroeconomy,Inflation and deflation,1
+2022-ON,1,2,25,,Economic development,Living standards,1
+2022-ON,1,2,26,,Economic development,Poverty,1
+2022-ON,1,2,27,,International trade and globalisation,Current account of the balance of payments,1
+2022-ON,1,2,28,,International trade and globalisation,Current account of the balance of payments,1
+2022-ON,1,2,29,,International trade and globalisation,"Globalisation, free trade and protection",1
+2022-ON,1,2,30,,International trade and globalisation,"Globalisation, free trade and protection",1
+2022-ON,2,2,1,a,International trade and globalisation,Foreign exchange rates,1
+2022-ON,2,2,1,b,The allocation of resources,Demand,2
+2022-ON,2,2,1,c,Microeconomic decision makers,Firms,2
+2022-ON,2,2,1,d,Microeconomic decision makers,Market structure,4
+2022-ON,2,2,1,e,Government and the macroeconomy,Fiscal policy,4
+2022-ON,2,2,1,f,Economic development,Population,5
+2022-ON,2,2,1,g,International trade and globalisation,Current account of the balance of payments,6
+2022-ON,2,2,1,h,The allocation of resources,Mixed economic system and intervention,6
+2022-ON,2,2,2,a,The basic economic problem,Opportunity cost,1.5
+2022-ON,2,2,2,b,The basic economic problem,Nature of the economic problem,3
+2022-ON,2,2,2,c,Microeconomic decision makers,Workers,4.5
+2022-ON,2,2,2,d,Microeconomic decision makers,Workers,6
+2022-ON,2,2,3,a,Government and the macroeconomy,Employment and unemployment,1.5
+2022-ON,2,2,3,b,Government and the macroeconomy,Fiscal policy,3
+2022-ON,2,2,3,c,Economic development,Poverty,4.5
+2022-ON,2,2,3,d,Government and the macroeconomy,Employment and unemployment,6
+2022-ON,2,2,4,a,The allocation of resources,Price elasticity of supply,1.5
+2022-ON,2,2,4,b,The allocation of resources,Market failure,3
+2022-ON,2,2,4,c,The allocation of resources,Price changes,4.5
+2022-ON,2,2,4,d,Government and the macroeconomy,Economic growth,6
+2022-ON,2,2,5,a,International trade and globalisation,"Globalisation, free trade and protection",1.5
+2022-ON,2,2,5,b,International trade and globalisation,"Globalisation, free trade and protection",3
+2022-ON,2,2,5,c,International trade and globalisation,Foreign exchange rates,4.5
+2022-ON,2,2,5,d,Government and the macroeconomy,Monetary policy,6
+2023-MJ,1,2,1,,The basic economic problem,Nature of the economic problem,1
+2023-MJ,1,2,2,,The basic economic problem,Production possibility curve,1
+2023-MJ,1,2,3,,The basic economic problem,Opportunity cost,1
+2023-MJ,1,2,4,,The allocation of resources,Microeconomics and macroeconomics,1
+2023-MJ,1,2,5,,The allocation of resources,Demand,1
+2023-MJ,1,2,6,,The allocation of resources,Price elasticity of demand,1
+2023-MJ,1,2,7,,The allocation of resources,Supply,1
+2023-MJ,1,2,8,,The allocation of resources,Market failure,1
+2023-MJ,1,2,9,,The allocation of resources,Price changes,1
+2023-MJ,1,2,10,,The allocation of resources,Mixed economic system and intervention,1
+2023-MJ,1,2,11,,Microeconomic decision makers,Money and banking,1
+2023-MJ,1,2,12,,Microeconomic decision makers,Money and banking,1
+2023-MJ,1,2,13,,Microeconomic decision makers,Trade unions,1
+2023-MJ,1,2,14,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2023-MJ,1,2,15,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2023-MJ,1,2,16,,Microeconomic decision makers,Firms,1
+2023-MJ,1,2,17,,Government and the macroeconomy,Fiscal policy,1
+2023-MJ,1,2,18,,The allocation of resources,Mixed economic system and intervention,1
+2023-MJ,1,2,19,,Government and the macroeconomy,Inflation and deflation,1
+2023-MJ,1,2,20,,Government and the macroeconomy,Supply-side policy,1
+2023-MJ,1,2,21,,Government and the macroeconomy,Economic growth,1
+2023-MJ,1,2,22,,Government and the macroeconomy,Employment and unemployment,1
+2023-MJ,1,2,23,,Government and the macroeconomy,Employment and unemployment,1
+2023-MJ,1,2,24,,Economic development,Poverty,1
+2023-MJ,1,2,25,,Economic development,Poverty,1
+2023-MJ,1,2,26,,Microeconomic decision makers,Firms,1
+2023-MJ,1,2,27,,International trade and globalisation,Current account of the balance of payments,1
+2023-MJ,1,2,28,,International trade and globalisation,"Globalisation, free trade and protection",1
+2023-MJ,1,2,29,,International trade and globalisation,Foreign exchange rates,1
+2023-MJ,1,2,30,,International trade and globalisation,Current account of the balance of payments,1
+2023-MJ,2,2,1,a,Economic development,Poverty,1
+2023-MJ,2,2,1,b,The allocation of resources,Supply,2
+2023-MJ,2,2,1,c,Government and the macroeconomy,Economic growth,2
+2023-MJ,2,2,1,d,The basic economic problem,Factors of production,4
+2023-MJ,2,2,1,e,The allocation of resources,Price changes,4
+2023-MJ,2,2,1,f,Economic development,Living standards,5
+2023-MJ,2,2,1,g,Economic development,Living standards,6
+2023-MJ,2,2,1,h,Economic development,Population,6
+2023-MJ,2,2,2,a,Microeconomic decision makers,Money and banking,1.5
+2023-MJ,2,2,2,b,Microeconomic decision makers,Market structure,3
+2023-MJ,2,2,2,c,Microeconomic decision makers,Money and banking,4.5
+2023-MJ,2,2,2,d,The allocation of resources,Market economic system,6
+2023-MJ,2,2,3,a,Microeconomic decision makers,"Firms' costs, revenue and objectives",1.5
+2023-MJ,2,2,3,b,The basic economic problem,Factors of production,3
+2023-MJ,2,2,3,c,Government and the macroeconomy,Employment and unemployment,4.5
+2023-MJ,2,2,3,d,Government and the macroeconomy,Employment and unemployment,6
+2023-MJ,2,2,4,a,Microeconomic decision makers,Workers,1.5
+2023-MJ,2,2,4,b,International trade and globalisation,Foreign exchange rates,3
+2023-MJ,2,2,4,c,The allocation of resources,Price elasticity of demand,4.5
+2023-MJ,2,2,4,d,Microeconomic decision makers,Firms,6
+2023-MJ,2,2,5,a,The basic economic problem,Opportunity cost,1.5
+2023-MJ,2,2,5,b,Microeconomic decision makers,Workers,3
+2023-MJ,2,2,5,c,International trade and globalisation,"Globalisation, free trade and protection",4.5
+2023-MJ,2,2,5,d,International trade and globalisation,Current account of the balance of payments,6
+2023-ON,1,2,1,,The basic economic problem,Nature of the economic problem,1
+2023-ON,1,2,2,,The basic economic problem,Production possibility curve,1
+2023-ON,1,2,3,,The basic economic problem,Factors of production,1
+2023-ON,1,2,4,,The allocation of resources,Market economic system,1
+2023-ON,1,2,5,,The allocation of resources,Demand,1
+2023-ON,1,2,6,,The allocation of resources,Price elasticity of supply,1
+2023-ON,1,2,7,,The allocation of resources,Price elasticity of demand,1
+2023-ON,1,2,8,,The allocation of resources,Price elasticity of demand,1
+2023-ON,1,2,9,,The allocation of resources,Price changes,1
+2023-ON,1,2,10,,The allocation of resources,Price changes,1
+2023-ON,1,2,11,,Microeconomic decision makers,Money and banking,1
+2023-ON,1,2,12,,Microeconomic decision makers,Money and banking,1
+2023-ON,1,2,13,,Microeconomic decision makers,Workers,1
+2023-ON,1,2,14,,Microeconomic decision makers,Firms,1
+2023-ON,1,2,15,,Microeconomic decision makers,Market structure,1
+2023-ON,1,2,16,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2023-ON,1,2,17,,Government and the macroeconomy,Role of government,1
+2023-ON,1,2,18,,International trade and globalisation,Foreign exchange rates,1
+2023-ON,1,2,19,,Government and the macroeconomy,Monetary policy,1
+2023-ON,1,2,20,,Government and the macroeconomy,Supply-side policy,1
+2023-ON,1,2,21,,Economic development,Living standards,1
+2023-ON,1,2,22,,Government and the macroeconomy,Fiscal policy,1
+2023-ON,1,2,23,,Government and the macroeconomy,Inflation and deflation,1
+2023-ON,1,2,24,,Economic development,Living standards,1
+2023-ON,1,2,25,,Economic development,Population,1
+2023-ON,1,2,26,,Economic development,Differences in economic development,1
+2023-ON,1,2,27,,Economic development,Living standards,1
+2023-ON,1,2,28,,International trade and globalisation,"Globalisation, free trade and protection",1
+2023-ON,1,2,29,,International trade and globalisation,Foreign exchange rates,1
+2023-ON,1,2,30,,International trade and globalisation,Current account of the balance of payments,1
+2023-ON,2,2,1,a,Economic development,Living standards,1
+2023-ON,2,2,1,b,International trade and globalisation,"Globalisation, free trade and protection",2
+2023-ON,2,2,1,c,International trade and globalisation,Specialisation and free trade,2
+2023-ON,2,2,1,d,Government and the macroeconomy,Fiscal policy,4
+2023-ON,2,2,1,e,The allocation of resources,Price changes,4
+2023-ON,2,2,1,f,Economic development,Poverty,5
+2023-ON,2,2,1,g,Microeconomic decision makers,"Firms' costs, revenue and objectives",6
+2023-ON,2,2,1,h,Government and the macroeconomy,Inflation and deflation,6
+2023-ON,2,2,2,a,The basic economic problem,Factors of production,1.5
+2023-ON,2,2,2,b,Government and the macroeconomy,Inflation and deflation,3
+2023-ON,2,2,2,c,International trade and globalisation,"Globalisation, free trade and protection",4.5
+2023-ON,2,2,2,d,International trade and globalisation,Specialisation and free trade,6
+2023-ON,2,2,3,a,Microeconomic decision makers,"Firms' costs, revenue and objectives",1.5
+2023-ON,2,2,3,b,Government and the macroeconomy,Employment and unemployment,3
+2023-ON,2,2,3,c,Government and the macroeconomy,Supply-side policy,4.5
+2023-ON,2,2,3,d,Microeconomic decision makers,Market structure,6
+2023-ON,2,2,4,a,The allocation of resources,Price elasticity of supply,1.5
+2023-ON,2,2,4,b,The allocation of resources,Mixed economic system and intervention,3
+2023-ON,2,2,4,c,Microeconomic decision makers,Firms and production,4.5
+2023-ON,2,2,4,d,Economic development,Living standards,6
+2023-ON,2,2,5,a,Economic development,Population,1.5
+2023-ON,2,2,5,b,The allocation of resources,Price determination,3
+2023-ON,2,2,5,c,The basic economic problem,Production possibility curve,4.5
+2023-ON,2,2,5,d,International trade and globalisation,Current account of the balance of payments,6
+2024-MJ,1,2,1,,The basic economic problem,Nature of the economic problem,1
+2024-MJ,1,2,2,,The basic economic problem,Opportunity cost,1
+2024-MJ,1,2,3,,The basic economic problem,Production possibility curve,1
+2024-MJ,1,2,4,,The allocation of resources,Microeconomics and macroeconomics,1
+2024-MJ,1,2,5,,The allocation of resources,Demand,1
+2024-MJ,1,2,6,,The allocation of resources,Price changes,1
+2024-MJ,1,2,7,,The allocation of resources,Price determination,1
+2024-MJ,1,2,8,,The allocation of resources,Price elasticity of supply,1
+2024-MJ,1,2,9,,The allocation of resources,Mixed economic system and intervention,1
+2024-MJ,1,2,10,,Microeconomic decision makers,Workers,1
+2024-MJ,1,2,11,,Microeconomic decision makers,Households,1
+2024-MJ,1,2,12,,Microeconomic decision makers,Firms,1
+2024-MJ,1,2,13,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2024-MJ,1,2,14,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2024-MJ,1,2,15,,Microeconomic decision makers,Money and banking,1
+2024-MJ,1,2,16,,Microeconomic decision makers,Market structure,1
+2024-MJ,1,2,17,,Government and the macroeconomy,Role of government,1
+2024-MJ,1,2,18,,Government and the macroeconomy,Inflation and deflation,1
+2024-MJ,1,2,19,,The allocation of resources,Mixed economic system and intervention,1
+2024-MJ,1,2,20,,Government and the macroeconomy,Supply-side policy,1
+2024-MJ,1,2,21,,Government and the macroeconomy,Economic growth,1
+2024-MJ,1,2,22,,Government and the macroeconomy,Employment and unemployment,1
+2024-MJ,1,2,23,,Government and the macroeconomy,Inflation and deflation,1
+2024-MJ,1,2,24,,Economic development,Living standards,1
+2024-MJ,1,2,25,,Economic development,Differences in economic development,1
+2024-MJ,1,2,26,,Economic development,Population,1
+2024-MJ,1,2,27,,International trade and globalisation,"Globalisation, free trade and protection",1
+2024-MJ,1,2,28,,International trade and globalisation,Foreign exchange rates,1
+2024-MJ,1,2,29,,International trade and globalisation,Foreign exchange rates,1
+2024-MJ,1,2,30,,International trade and globalisation,Current account of the balance of payments,1
+2024-MJ,2,2,1,a,International trade and globalisation,Current account of the balance of payments,1
+2024-MJ,2,2,1,b,Government and the macroeconomy,Fiscal policy,2
+2024-MJ,2,2,1,c,The allocation of resources,Mixed economic system and intervention,2
+2024-MJ,2,2,1,d,Government and the macroeconomy,Employment and unemployment,4
+2024-MJ,2,2,1,e,Government and the macroeconomy,Inflation and deflation,4
+2024-MJ,2,2,1,f,The allocation of resources,Price changes,5
+2024-MJ,2,2,1,g,The allocation of resources,Mixed economic system and intervention,6
+2024-MJ,2,2,1,h,International trade and globalisation,Foreign exchange rates,6
+2024-MJ,2,2,2,a,The basic economic problem,Opportunity cost,1.5
+2024-MJ,2,2,2,b,Economic development,Poverty,3
+2024-MJ,2,2,2,c,Microeconomic decision makers,Market structure,4.5
+2024-MJ,2,2,2,d,The allocation of resources,Market failure,6
+2024-MJ,2,2,3,a,The allocation of resources,Microeconomics and macroeconomics,1.5
+2024-MJ,2,2,3,b,Microeconomic decision makers,Workers,3
+2024-MJ,2,2,3,c,Microeconomic decision makers,Workers,4.5
+2024-MJ,2,2,3,d,Government and the macroeconomy,Inflation and deflation,6
+2024-MJ,2,2,4,a,Government and the macroeconomy,Fiscal policy,1.5
+2024-MJ,2,2,4,b,Microeconomic decision makers,Money and banking,3
+2024-MJ,2,2,4,c,Economic development,Population,4.5
+2024-MJ,2,2,4,d,Microeconomic decision makers,Firms and production,6
+2024-MJ,2,2,5,a,The basic economic problem,Nature of the economic problem,1.5
+2024-MJ,2,2,5,b,Microeconomic decision makers,Firms and production,3
+2024-MJ,2,2,5,c,The allocation of resources,Demand,4.5
+2024-MJ,2,2,5,d,Government and the macroeconomy,Fiscal policy,6
+2024-ON,1,2,1,,The basic economic problem,Nature of the economic problem,1
+2024-ON,1,2,2,,The basic economic problem,Opportunity cost,1
+2024-ON,1,2,3,,The basic economic problem,Production possibility curve,1
+2024-ON,1,2,4,,The allocation of resources,Price changes,1
+2024-ON,1,2,5,,The allocation of resources,Demand,1
+2024-ON,1,2,6,,The allocation of resources,Supply,1
+2024-ON,1,2,7,,The allocation of resources,Price changes,1
+2024-ON,1,2,8,,The allocation of resources,Price elasticity of demand,1
+2024-ON,1,2,9,,The allocation of resources,Market failure,1
+2024-ON,1,2,10,,Microeconomic decision makers,Money and banking,1
+2024-ON,1,2,11,,Microeconomic decision makers,Workers,1
+2024-ON,1,2,12,,Microeconomic decision makers,Firms,1
+2024-ON,1,2,13,,Microeconomic decision makers,Firms,1
+2024-ON,1,2,14,,Microeconomic decision makers,Firms and production,1
+2024-ON,1,2,15,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2024-ON,1,2,16,,Microeconomic decision makers,Market structure,1
+2024-ON,1,2,17,,Government and the macroeconomy,Economic growth,1
+2024-ON,1,2,18,,Government and the macroeconomy,Monetary policy,1
+2024-ON,1,2,19,,Government and the macroeconomy,Supply-side policy,1
+2024-ON,1,2,20,,Government and the macroeconomy,Economic growth,1
+2024-ON,1,2,21,,Government and the macroeconomy,Employment and unemployment,1
+2024-ON,1,2,22,,Government and the macroeconomy,Fiscal policy,1
+2024-ON,1,2,23,,Government and the macroeconomy,Inflation and deflation,1
+2024-ON,1,2,24,,Economic development,Differences in economic development,1
+2024-ON,1,2,25,,Economic development,Population,1
+2024-ON,1,2,26,,Economic development,Differences in economic development,1
+2024-ON,1,2,27,,International trade and globalisation,Specialisation and free trade,1
+2024-ON,1,2,28,,International trade and globalisation,"Globalisation, free trade and protection",1
+2024-ON,1,2,29,,International trade and globalisation,Foreign exchange rates,1
+2024-ON,1,2,30,,International trade and globalisation,Current account of the balance of payments,1
+2024-ON,2,2,1,a,Microeconomic decision makers,Firms,1
+2024-ON,2,2,1,b,International trade and globalisation,Current account of the balance of payments,2
+2024-ON,2,2,1,c,Government and the macroeconomy,Employment and unemployment,2
+2024-ON,2,2,1,d,Microeconomic decision makers,Firms,4
+2024-ON,2,2,1,e,Economic development,Population,4
+2024-ON,2,2,1,f,The allocation of resources,Price changes,5
+2024-ON,2,2,1,g,The allocation of resources,Mixed economic system and intervention,6
+2024-ON,2,2,1,h,Government and the macroeconomy,Monetary policy,6
+2024-ON,2,2,2,a,The basic economic problem,Production possibility curve,1.5
+2024-ON,2,2,2,b,The allocation of resources,Demand,3
+2024-ON,2,2,2,c,Microeconomic decision makers,Workers,4.5
+2024-ON,2,2,2,d,International trade and globalisation,Specialisation and free trade,6
+2024-ON,2,2,3,a,International trade and globalisation,Foreign exchange rates,1.5
+2024-ON,2,2,3,b,Microeconomic decision makers,Firms and production,3
+2024-ON,2,2,3,c,Government and the macroeconomy,Macroeconomic aims,4.5
+2024-ON,2,2,3,d,The allocation of resources,Market economic system,6
+2024-ON,2,2,4,a,The allocation of resources,Demand,1.5
+2024-ON,2,2,4,b,The allocation of resources,Market failure,3
+2024-ON,2,2,4,c,Economic development,Living standards,4.5
+2024-ON,2,2,4,d,Government and the macroeconomy,Employment and unemployment,6
+2024-ON,2,2,5,a,The basic economic problem,Factors of production,1.5
+2024-ON,2,2,5,b,Government and the macroeconomy,Economic growth,3
+2024-ON,2,2,5,c,Microeconomic decision makers,Market structure,4.5
+2024-ON,2,2,5,d,Microeconomic decision makers,Trade unions,6
+2025-MJ,1,2,1,,The basic economic problem,Factors of production,1
+2025-MJ,1,2,2,,The basic economic problem,Factors of production,1
+2025-MJ,1,2,3,,The basic economic problem,Production possibility curve,1
+2025-MJ,1,2,4,,The allocation of resources,Microeconomics and macroeconomics,1
+2025-MJ,1,2,5,,The allocation of resources,Price determination,1
+2025-MJ,1,2,6,,The allocation of resources,Demand,1
+2025-MJ,1,2,7,,The allocation of resources,Price determination,1
+2025-MJ,1,2,8,,The allocation of resources,Price elasticity of supply,1
+2025-MJ,1,2,9,,The allocation of resources,Market failure,1
+2025-MJ,1,2,10,,Microeconomic decision makers,Workers,1
+2025-MJ,1,2,11,,Microeconomic decision makers,Firms,1
+2025-MJ,1,2,12,,Microeconomic decision makers,Firms and production,1
+2025-MJ,1,2,13,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2025-MJ,1,2,14,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2025-MJ,1,2,15,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2025-MJ,1,2,16,,Microeconomic decision makers,Market structure,1
+2025-MJ,1,2,17,,Government and the macroeconomy,Macroeconomic aims,1
+2025-MJ,1,2,18,,Government and the macroeconomy,Fiscal policy,1
+2025-MJ,1,2,19,,Government and the macroeconomy,Fiscal policy,1
+2025-MJ,1,2,20,,Government and the macroeconomy,Supply-side policy,1
+2025-MJ,1,2,21,,Government and the macroeconomy,Inflation and deflation,1
+2025-MJ,1,2,22,,Government and the macroeconomy,Employment and unemployment,1
+2025-MJ,1,2,23,,Government and the macroeconomy,Employment and unemployment,1
+2025-MJ,1,2,24,,Government and the macroeconomy,Inflation and deflation,1
+2025-MJ,1,2,25,,Economic development,Living standards,1
+2025-MJ,1,2,26,,Economic development,Population,1
+2025-MJ,1,2,27,,International trade and globalisation,Foreign exchange rates,1
+2025-MJ,1,2,28,,International trade and globalisation,"Globalisation, free trade and protection",1
+2025-MJ,1,2,29,,International trade and globalisation,Foreign exchange rates,1
+2025-MJ,1,2,30,,International trade and globalisation,Current account of the balance of payments,1
+2025-MJ,2,2,1,a,Government and the macroeconomy,Fiscal policy,1
+2025-MJ,2,2,1,b,The basic economic problem,Factors of production,2
+2025-MJ,2,2,1,c,The allocation of resources,Market failure,2
+2025-MJ,2,2,1,d,International trade and globalisation,"Globalisation, free trade and protection",4
+2025-MJ,2,2,1,e,The allocation of resources,Price changes,4
+2025-MJ,2,2,1,f,Economic development,Living standards,5
+2025-MJ,2,2,1,g,Government and the macroeconomy,Economic growth,6
+2025-MJ,2,2,1,h,Government and the macroeconomy,Inflation and deflation,6
+2025-MJ,2,2,2,a,Microeconomic decision makers,Firms,1.5
+2025-MJ,2,2,2,b,Government and the macroeconomy,Employment and unemployment,3
+2025-MJ,2,2,2,c,The basic economic problem,Factors of production,4.5
+2025-MJ,2,2,2,d,The allocation of resources,Price elasticity of demand,6
+2025-MJ,2,2,3,a,The basic economic problem,Production possibility curve,1.5
+2025-MJ,2,2,3,b,The allocation of resources,Market failure,3
+2025-MJ,2,2,3,c,Microeconomic decision makers,Workers,4.5
+2025-MJ,2,2,3,d,Microeconomic decision makers,Market structure,6
+2025-MJ,2,2,4,a,Government and the macroeconomy,Employment and unemployment,1.5
+2025-MJ,2,2,4,b,Economic development,Living standards,3
+2025-MJ,2,2,4,c,Government and the macroeconomy,Fiscal policy,4.5
+2025-MJ,2,2,4,d,Microeconomic decision makers,Workers,6
+2025-MJ,2,2,5,a,Microeconomic decision makers,Households,1.5
+2025-MJ,2,2,5,b,Microeconomic decision makers,Workers,3
+2025-MJ,2,2,5,c,Government and the macroeconomy,Inflation and deflation,4.5
+2025-MJ,2,2,5,d,International trade and globalisation,Current account of the balance of payments,6
+2025-ON,1,2,1,,The basic economic problem,Nature of the economic problem,1
+2025-ON,1,2,2,,The basic economic problem,Opportunity cost,1
+2025-ON,1,2,3,,The basic economic problem,Production possibility curve,1
+2025-ON,1,2,4,,The allocation of resources,Microeconomics and macroeconomics,1
+2025-ON,1,2,5,,The allocation of resources,Price changes,1
+2025-ON,1,2,6,,The allocation of resources,Demand,1
+2025-ON,1,2,7,,The allocation of resources,Price elasticity of supply,1
+2025-ON,1,2,8,,The allocation of resources,Market economic system,1
+2025-ON,1,2,9,,The allocation of resources,Market failure,1
+2025-ON,1,2,10,,Microeconomic decision makers,Money and banking,1
+2025-ON,1,2,11,,Microeconomic decision makers,Households,1
+2025-ON,1,2,12,,Microeconomic decision makers,Workers,1
+2025-ON,1,2,13,,Microeconomic decision makers,Trade unions,1
+2025-ON,1,2,14,,Microeconomic decision makers,Firms,1
+2025-ON,1,2,15,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2025-ON,1,2,16,,Microeconomic decision makers,Market structure,1
+2025-ON,1,2,17,,International trade and globalisation,"Globalisation, free trade and protection",1
+2025-ON,1,2,18,,Government and the macroeconomy,Fiscal policy,1
+2025-ON,1,2,19,,Government and the macroeconomy,Fiscal policy,1
+2025-ON,1,2,20,,Government and the macroeconomy,Monetary policy,1
+2025-ON,1,2,21,,Government and the macroeconomy,Supply-side policy,1
+2025-ON,1,2,22,,Economic development,Living standards,1
+2025-ON,1,2,23,,Government and the macroeconomy,Employment and unemployment,1
+2025-ON,1,2,24,,Government and the macroeconomy,Inflation and deflation,1
+2025-ON,1,2,25,,Economic development,Poverty,1
+2025-ON,1,2,26,,Economic development,Population,1
+2025-ON,1,2,27,,International trade and globalisation,Specialisation and free trade,1
+2025-ON,1,2,28,,International trade and globalisation,"Globalisation, free trade and protection",1
+2025-ON,1,2,29,,International trade and globalisation,Foreign exchange rates,1
+2025-ON,1,2,30,,International trade and globalisation,Current account of the balance of payments,1
+2025-ON,2,2,1,a,Economic development,Population,1
+2025-ON,2,2,1,b,Economic development,Population,2
+2025-ON,2,2,1,c,Economic development,Population,2
+2025-ON,2,2,1,d,Economic development,Population,4
+2025-ON,2,2,1,e,The allocation of resources,Price changes,4
+2025-ON,2,2,1,f,The allocation of resources,Demand,5
+2025-ON,2,2,1,g,Microeconomic decision makers,Households,6
+2025-ON,2,2,1,h,The basic economic problem,Factors of production,6
+2025-ON,2,2,2,a,The allocation of resources,Price determination,1.5
+2025-ON,2,2,2,b,The basic economic problem,Production possibility curve,3
+2025-ON,2,2,2,c,The allocation of resources,Price elasticity of demand,4.5
+2025-ON,2,2,2,d,Microeconomic decision makers,Firms and production,6
+2025-ON,2,2,3,a,Microeconomic decision makers,"Firms' costs, revenue and objectives",1.5
+2025-ON,2,2,3,b,Microeconomic decision makers,"Firms' costs, revenue and objectives",3
+2025-ON,2,2,3,c,Microeconomic decision makers,Firms,4.5
+2025-ON,2,2,3,d,Government and the macroeconomy,Fiscal policy,6
+2025-ON,2,2,4,a,Government and the macroeconomy,Monetary policy,1.5
+2025-ON,2,2,4,b,Government and the macroeconomy,Employment and unemployment,3
+2025-ON,2,2,4,c,Government and the macroeconomy,Fiscal policy,4.5
+2025-ON,2,2,4,d,Economic development,Living standards,6
+2025-ON,2,2,5,a,International trade and globalisation,"Globalisation, free trade and protection",1.5
+2025-ON,2,2,5,b,Government and the macroeconomy,Supply-side policy,3
+2025-ON,2,2,5,c,International trade and globalisation,"Globalisation, free trade and protection",4.5
+2025-ON,2,2,5,d,International trade and globalisation,Current account of the balance of payments,6
+2026-MJ,1,2,1,,The basic economic problem,Nature of the economic problem,1
+2026-MJ,1,2,2,,The basic economic problem,Factors of production,1
+2026-MJ,1,2,3,,The basic economic problem,Opportunity cost,1
+2026-MJ,1,2,4,,The allocation of resources,Microeconomics and macroeconomics,1
+2026-MJ,1,2,5,,The allocation of resources,Demand,1
+2026-MJ,1,2,6,,The allocation of resources,Supply,1
+2026-MJ,1,2,7,,The allocation of resources,Price elasticity of demand,1
+2026-MJ,1,2,8,,The allocation of resources,Market failure,1
+2026-MJ,1,2,9,,The allocation of resources,Mixed economic system and intervention,1
+2026-MJ,1,2,10,,Microeconomic decision makers,Money and banking,1
+2026-MJ,1,2,11,,Microeconomic decision makers,Households,1
+2026-MJ,1,2,12,,Microeconomic decision makers,Workers,1
+2026-MJ,1,2,13,,Microeconomic decision makers,Firms and production,1
+2026-MJ,1,2,14,,Microeconomic decision makers,Firms,1
+2026-MJ,1,2,15,,Microeconomic decision makers,"Firms' costs, revenue and objectives",1
+2026-MJ,1,2,16,,Microeconomic decision makers,Market structure,1
+2026-MJ,1,2,17,,Government and the macroeconomy,Role of government,1
+2026-MJ,1,2,18,,Government and the macroeconomy,Macroeconomic aims,1
+2026-MJ,1,2,19,,Government and the macroeconomy,Fiscal policy,1
+2026-MJ,1,2,20,,Government and the macroeconomy,Monetary policy,1
+2026-MJ,1,2,21,,Government and the macroeconomy,Supply-side policy,1
+2026-MJ,1,2,22,,Government and the macroeconomy,Economic growth,1
+2026-MJ,1,2,23,,Government and the macroeconomy,Employment and unemployment,1
+2026-MJ,1,2,24,,Government and the macroeconomy,Inflation and deflation,1
+2026-MJ,1,2,25,,Economic development,Poverty,1
+2026-MJ,1,2,26,,Economic development,Differences in economic development,1
+2026-MJ,1,2,27,,International trade and globalisation,Specialisation and free trade,1
+2026-MJ,1,2,28,,International trade and globalisation,"Globalisation, free trade and protection",1
+2026-MJ,1,2,29,,International trade and globalisation,Foreign exchange rates,1
+2026-MJ,1,2,30,,International trade and globalisation,Current account of the balance of payments,1
+2026-MJ,2,2,1,a,International trade and globalisation,Current account of the balance of payments,1
+2026-MJ,2,2,1,b,International trade and globalisation,Current account of the balance of payments,2
+2026-MJ,2,2,1,c,The basic economic problem,Opportunity cost,2
+2026-MJ,2,2,1,d,Economic development,Living standards,4
+2026-MJ,2,2,1,e,The allocation of resources,Mixed economic system and intervention,4
+2026-MJ,2,2,1,f,Government and the macroeconomy,Employment and unemployment,5
+2026-MJ,2,2,1,g,Microeconomic decision makers,Workers,6
+2026-MJ,2,2,1,h,Government and the macroeconomy,Economic growth,6
+2026-MJ,2,2,2,a,Microeconomic decision makers,Workers,1.5
+2026-MJ,2,2,2,b,Government and the macroeconomy,Employment and unemployment,3
+2026-MJ,2,2,2,c,International trade and globalisation,"Globalisation, free trade and protection",4.5
+2026-MJ,2,2,2,d,Economic development,Differences in economic development,6
+2026-MJ,2,2,3,a,Government and the macroeconomy,Inflation and deflation,1.5
+2026-MJ,2,2,3,b,Microeconomic decision makers,Households,3
+2026-MJ,2,2,3,c,International trade and globalisation,Foreign exchange rates,4.5
+2026-MJ,2,2,3,d,Microeconomic decision makers,Money and banking,6
+2026-MJ,2,2,4,a,The basic economic problem,Nature of the economic problem,1.5
+2026-MJ,2,2,4,b,The allocation of resources,Demand,3
+2026-MJ,2,2,4,c,The allocation of resources,Mixed economic system and intervention,4.5
+2026-MJ,2,2,4,d,Microeconomic decision makers,Firms,6
+2026-MJ,2,2,5,a,Economic development,Population,1.5
+2026-MJ,2,2,5,b,Economic development,Population,3
+2026-MJ,2,2,5,c,The allocation of resources,Price elasticity of demand,4.5
+2026-MJ,2,2,5,d,Microeconomic decision makers,Trade unions,6

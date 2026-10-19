@@ -1,0 +1,707 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,a,Information representation,Bitmap & vector graphics,3
+2022-MJ,1,2,1,b(i),Information representation,Bitmap & vector graphics,1
+2022-MJ,1,2,1,b(ii),Information representation,Bitmap & vector graphics,2
+2022-MJ,1,2,1,c,Information representation,Bitmap & vector graphics,2
+2022-MJ,1,2,1,d,Information representation,Compression,2
+2022-MJ,1,2,2,a,Hardware,Computers & embedded systems,2
+2022-MJ,1,2,2,b,Hardware,Memory & storage,2
+2022-MJ,1,2,2,c,Hardware,Input/output devices & sensors,1
+2022-MJ,1,2,3,a,Processor fundamentals,Bit manipulation & shifts,2
+2022-MJ,1,2,3,b,Processor fundamentals,Bit manipulation & shifts,2
+2022-MJ,1,2,3,c,Information representation,Number conversions & units,1
+2022-MJ,1,2,3,d,Processor fundamentals,Bit manipulation & shifts,1
+2022-MJ,1,2,3,e,Information representation,Binary arithmetic & two's complement,3
+2022-MJ,1,2,4,a,"Security, privacy and data integrity",Security threats & protection,2
+2022-MJ,1,2,4,b,"Security, privacy and data integrity",Security threats & protection,6
+2022-MJ,1,2,4,c,"Security, privacy and data integrity",Security threats & protection,2
+2022-MJ,1,2,5,a,Databases,E-R diagrams,2
+2022-MJ,1,2,5,b,Databases,Relational model & keys,2
+2022-MJ,1,2,5,c,Databases,SQL queries (DML),4
+2022-MJ,1,2,5,d,Databases,SQL queries (DML),3
+2022-MJ,1,2,5,e,Databases,DBMS features,6
+2022-MJ,1,2,6,a,System software,Translators,2
+2022-MJ,1,2,6,b,System software,Translators,2
+2022-MJ,1,2,6,c,System software,IDE features,4
+2022-MJ,1,2,7,,Hardware,Logic gates & circuits,2
+2022-MJ,1,2,8,,Ethics and ownership,Artificial Intelligence,3
+2022-MJ,1,2,9,a,Communication,Network devices & media,4
+2022-MJ,1,2,9,b,Communication,Network devices & media,3
+2022-MJ,1,2,9,c,Communication,Ethernet & CSMA/CD,4
+2022-ON,1,2,1,a,System software,Utility software,5
+2022-ON,1,2,1,b(i),System software,Translators,2
+2022-ON,1,2,1,b(ii),System software,Translators,2
+2022-ON,1,2,2,a(i),Information representation,Binary arithmetic & two's complement,1
+2022-ON,1,2,2,a(ii),Information representation,Number conversions & units,1
+2022-ON,1,2,2,a(iii),Information representation,Number conversions & units,2
+2022-ON,1,2,2,b,Information representation,Binary arithmetic & two's complement,1
+2022-ON,1,2,3,a,Hardware,Logic gates & circuits,3
+2022-ON,1,2,3,b,Hardware,Logic gates & circuits,2
+2022-ON,1,2,3,c,Hardware,Memory & storage,2
+2022-ON,1,2,4,a,"Security, privacy and data integrity",Validation & verification,1
+2022-ON,1,2,4,b,"Security, privacy and data integrity",Validation & verification,3
+2022-ON,1,2,4,c,"Security, privacy and data integrity",Validation & verification,2
+2022-ON,1,2,5,a,Databases,Normalisation,3
+2022-ON,1,2,5,b,Databases,SQL queries (DML),3
+2022-ON,1,2,5,c,Databases,Relational model & keys,1
+2022-ON,1,2,5,d(i),Databases,DBMS features,2
+2022-ON,1,2,5,d(ii),Databases,DBMS features,2
+2022-ON,1,2,6,a(i),"Security, privacy and data integrity",Security threats & protection,2
+2022-ON,1,2,6,a(ii),"Security, privacy and data integrity",Security threats & protection,3
+2022-ON,1,2,6,b(i),Information representation,Sound representation,2
+2022-ON,1,2,6,b(ii),Information representation,Sound representation,2
+2022-ON,1,2,7,a,Processor fundamentals,Assembly language & addressing,5
+2022-ON,1,2,7,b(i),Processor fundamentals,Bit manipulation & shifts,1
+2022-ON,1,2,7,b(ii),Processor fundamentals,Bit manipulation & shifts,1
+2022-ON,1,2,7,b(iii),Processor fundamentals,Bit manipulation & shifts,1
+2022-ON,1,2,7,b(iv),Processor fundamentals,Bit manipulation & shifts,1
+2022-ON,1,2,7,c,Processor fundamentals,Fetch-execute cycle & interrupts,3
+2022-ON,1,2,8,a,Information representation,Bitmap & vector graphics,2
+2022-ON,1,2,8,b,Information representation,Bitmap & vector graphics,2
+2022-ON,1,2,8,c(i),Information representation,Compression,2
+2022-ON,1,2,8,c(ii),Information representation,Compression,2
+2022-ON,1,2,9,,Ethics and ownership,Artificial Intelligence,2
+2022-ON,1,2,10,a,Communication,Network devices & media,1
+2022-ON,1,2,10,b(i),Communication,Network devices & media,2
+2022-ON,1,2,10,b(ii),Communication,Network devices & media,3
+2023-MJ,1,2,1,a,Communication,Networks & topologies,2
+2023-MJ,1,2,1,b,Communication,Networks & topologies,2
+2023-MJ,1,2,1,c,Communication,Networks & topologies,2
+2023-MJ,1,2,1,d,Communication,Ethernet & CSMA/CD,3
+2023-MJ,1,2,1,e,Communication,Client-server & cloud,2
+2023-MJ,1,2,2,a,Databases,DBMS features,4
+2023-MJ,1,2,2,b,Databases,Relational model & keys,3
+2023-MJ,1,2,2,c(i),"Security, privacy and data integrity",Validation & verification,2
+2023-MJ,1,2,2,c(ii),Databases,SQL queries (DML),4
+2023-MJ,1,2,2,c(iii),Databases,SQL queries (DML),4
+2023-MJ,1,2,3,a,Processor fundamentals,Assembly language & addressing,3
+2023-MJ,1,2,3,b,Processor fundamentals,Assembly language & addressing,3
+2023-MJ,1,2,4,a,Information representation,Number conversions & units,1
+2023-MJ,1,2,4,b,Information representation,Binary arithmetic & two's complement,2
+2023-MJ,1,2,4,c,Information representation,Number conversions & units,2
+2023-MJ,1,2,4,d,Processor fundamentals,Bit manipulation & shifts,1
+2023-MJ,1,2,5,a,Processor fundamentals,CPU architecture & registers,2
+2023-MJ,1,2,5,b,Processor fundamentals,Performance & ports,4
+2023-MJ,1,2,5,c(i),Processor fundamentals,Performance & ports,1
+2023-MJ,1,2,5,c(ii),Processor fundamentals,Performance & ports,1
+2023-MJ,1,2,5,d(i),System software,Operating system functions,5
+2023-MJ,1,2,5,d(ii),System software,Utility software,2
+2023-MJ,1,2,6,a,Hardware,Logic gates & circuits,2
+2023-MJ,1,2,6,b,Hardware,Logic gates & circuits,2
+2023-MJ,1,2,7,a(i),System software,Program libraries,2
+2023-MJ,1,2,7,a(ii),System software,Program libraries,4
+2023-MJ,1,2,7,b,System software,Translators,3
+2023-MJ,1,2,7,c,System software,IDE features,4
+2023-MJ,1,2,7,d,Ethics and ownership,Artificial Intelligence,3
+2023-ON,1,2,1,a,Hardware,Input/output devices & sensors,1
+2023-ON,1,2,1,b,Hardware,Input/output devices & sensors,2
+2023-ON,1,2,1,c(i),Hardware,Computers & embedded systems,2
+2023-ON,1,2,1,c(ii),Hardware,Computers & embedded systems,1
+2023-ON,1,2,2,a,Databases,Relational model & keys,3
+2023-ON,1,2,2,b,Databases,DBMS features,4
+2023-ON,1,2,2,c,Databases,Normalisation,4
+2023-ON,1,2,3,a,Information representation,Number conversions & units,1
+2023-ON,1,2,3,b(i),Information representation,Binary arithmetic & two's complement,1
+2023-ON,1,2,3,b(ii),Information representation,Number conversions & units,1
+2023-ON,1,2,3,b(iii),Information representation,Number conversions & units,1
+2023-ON,1,2,3,c,Information representation,Number conversions & units,2
+2023-ON,1,2,4,a,Hardware,Logic gates & circuits,3
+2023-ON,1,2,4,b,Hardware,Logic gates & circuits,2
+2023-ON,1,2,5,a,"Security, privacy and data integrity",Privacy & integrity,1
+2023-ON,1,2,5,b,"Security, privacy and data integrity",Privacy & integrity,1
+2023-ON,1,2,5,c,"Security, privacy and data integrity",Security threats & protection,4
+2023-ON,1,2,6,a,Information representation,Compression,3
+2023-ON,1,2,6,b,Information representation,Sound representation,3
+2023-ON,1,2,6,c,Information representation,Bitmap & vector graphics,2
+2023-ON,1,2,7,a,Communication,"Internet, IP addressing & DNS",2
+2023-ON,1,2,7,b(i),Communication,Networks & topologies,2
+2023-ON,1,2,7,b(ii),Communication,Networks & topologies,2
+2023-ON,1,2,7,b(iii),Communication,"Internet, IP addressing & DNS",4
+2023-ON,1,2,7,c,Communication,Ethernet & CSMA/CD,3
+2023-ON,1,2,7,d,Communication,"Internet, IP addressing & DNS",4
+2023-ON,1,2,8,a,System software,Operating system functions,1
+2023-ON,1,2,8,b,System software,Utility software,3
+2023-ON,1,2,8,c(i),Processor fundamentals,Performance & ports,1
+2023-ON,1,2,8,c(ii),Processor fundamentals,CPU architecture & registers,3
+2023-ON,1,2,9,a,Processor fundamentals,Assembly language & addressing,4
+2023-ON,1,2,9,b,Processor fundamentals,Assembly language & addressing,4
+2024-MJ,1,2,1,a,Hardware,Logic gates & circuits,4
+2024-MJ,1,2,1,b,Hardware,Logic gates & circuits,2
+2024-MJ,1,2,2,a,Hardware,Input/output devices & sensors,4
+2024-MJ,1,2,2,b,Hardware,Memory & storage,3
+2024-MJ,1,2,2,c,Hardware,Memory & storage,3
+2024-MJ,1,2,2,d(i),Information representation,Bitmap & vector graphics,3
+2024-MJ,1,2,2,d(ii),Information representation,Bitmap & vector graphics,2
+2024-MJ,1,2,2,d(iii),Information representation,Compression,2
+2024-MJ,1,2,3,a(i),"Security, privacy and data integrity",Security threats & protection,3
+2024-MJ,1,2,3,a(ii),"Security, privacy and data integrity",Security threats & protection,3
+2024-MJ,1,2,3,b,Communication,Client-server & cloud,4
+2024-MJ,1,2,3,c(i),Communication,"Internet, IP addressing & DNS",2
+2024-MJ,1,2,3,c(ii),Communication,"Internet, IP addressing & DNS",2
+2024-MJ,1,2,4,a,Databases,E-R diagrams,1
+2024-MJ,1,2,4,b,Databases,SQL definition (DDL),3
+2024-MJ,1,2,4,c,Databases,SQL definition (DDL),2
+2024-MJ,1,2,4,d,Databases,Normalisation,5
+2024-MJ,1,2,5,a,Processor fundamentals,Assembly language & addressing,4
+2024-MJ,1,2,5,b,Processor fundamentals,Bit manipulation & shifts,3
+2024-MJ,1,2,6,,System software,Operating system functions,4
+2024-MJ,1,2,7,a,Information representation,Number conversions & units,1
+2024-MJ,1,2,7,b,Information representation,Binary arithmetic & two's complement,3
+2024-MJ,1,2,7,c,Information representation,Number conversions & units,2
+2024-MJ,1,2,8,a,System software,Translators,2
+2024-MJ,1,2,8,b,System software,IDE features,6
+2024-MJ,1,2,8,c,System software,Program libraries,2
+2024-ON,1,2,1,a,Hardware,Logic gates & circuits,2
+2024-ON,1,2,1,b,Hardware,Logic gates & circuits,2
+2024-ON,1,2,2,a,Hardware,Computers & embedded systems,3
+2024-ON,1,2,2,b,Hardware,Memory & storage,1
+2024-ON,1,2,2,c,Hardware,Memory & storage,2
+2024-ON,1,2,3,a,Processor fundamentals,CPU architecture & registers,4
+2024-ON,1,2,3,b,Processor fundamentals,Performance & ports,4
+2024-ON,1,2,3,c,System software,Operating system functions,4
+2024-ON,1,2,4,a,System software,IDE features,4
+2024-ON,1,2,4,b,System software,Program libraries,3
+2024-ON,1,2,4,c,"Security, privacy and data integrity",Security threats & protection,3
+2024-ON,1,2,5,a,Ethics and ownership,Professional ethics,4
+2024-ON,1,2,5,b(i),Ethics and ownership,Copyright & licensing,3
+2024-ON,1,2,5,b(ii),Ethics and ownership,Copyright & licensing,2
+2024-ON,1,2,6,a,Databases,Relational model & keys,3
+2024-ON,1,2,6,b(i),Databases,E-R diagrams,6
+2024-ON,1,2,6,b(ii),Databases,E-R diagrams,3
+2024-ON,1,2,7,a(i),Information representation,Bitmap & vector graphics,2
+2024-ON,1,2,7,a(ii),Information representation,Bitmap & vector graphics,2
+2024-ON,1,2,7,a(iii),Information representation,Compression,1
+2024-ON,1,2,7,b,Information representation,Bitmap & vector graphics,2
+2024-ON,1,2,8,a,Processor fundamentals,Assembly language & addressing,5
+2024-ON,1,2,8,b(i),Processor fundamentals,Bit manipulation & shifts,3
+2024-ON,1,2,8,b(ii),Processor fundamentals,Bit manipulation & shifts,3
+2024-ON,1,2,9,a,Hardware,Input/output devices & sensors,2
+2024-ON,1,2,9,b,Hardware,Input/output devices & sensors,2
+2025-MJ,1,2,1,a,Processor fundamentals,CPU architecture & registers,3
+2025-MJ,1,2,1,b,Processor fundamentals,Fetch-execute cycle & interrupts,2
+2025-MJ,1,2,1,c,Processor fundamentals,Fetch-execute cycle & interrupts,4
+2025-MJ,1,2,2,a,Information representation,Number conversions & units,2
+2025-MJ,1,2,2,b(i),Information representation,Binary arithmetic & two's complement,1
+2025-MJ,1,2,2,b(ii),Information representation,Binary arithmetic & two's complement,2
+2025-MJ,1,2,2,c,Information representation,Number conversions & units,2
+2025-MJ,1,2,3,a,Ethics and ownership,Artificial Intelligence,4
+2025-MJ,1,2,3,b,Ethics and ownership,Artificial Intelligence,2
+2025-MJ,1,2,3,c(i),Ethics and ownership,Copyright & licensing,3
+2025-MJ,1,2,3,c(ii),Ethics and ownership,Copyright & licensing,3
+2025-MJ,1,2,4,a,Hardware,Logic gates & circuits,2
+2025-MJ,1,2,4,b,Hardware,Logic gates & circuits,2
+2025-MJ,1,2,5,a,Databases,Relational model & keys,2
+2025-MJ,1,2,5,b,Databases,Relational model & keys,2
+2025-MJ,1,2,5,c(i),Databases,DBMS features,4
+2025-MJ,1,2,5,c(ii),Databases,DBMS features,2
+2025-MJ,1,2,5,d(i),Databases,SQL queries (DML),3
+2025-MJ,1,2,5,d(ii),Databases,SQL queries (DML),3
+2025-MJ,1,2,6,a,Communication,Networks & topologies,2
+2025-MJ,1,2,6,b,Communication,Wireless & cellular networks,4
+2025-MJ,1,2,6,c,Communication,"Internet, IP addressing & DNS",6
+2025-MJ,1,2,6,d,Communication,Network devices & media,4
+2025-MJ,1,2,6,e,Communication,Network devices & media,3
+2025-MJ,1,2,7,a(i),Processor fundamentals,Assembly language & addressing,3
+2025-MJ,1,2,7,a(ii),Processor fundamentals,Assembly language & addressing,1
+2025-MJ,1,2,7,a(iii),Processor fundamentals,Assembly language & addressing,2
+2025-MJ,1,2,7,b(i),Processor fundamentals,Bit manipulation & shifts,1
+2025-MJ,1,2,7,b(ii),Processor fundamentals,Bit manipulation & shifts,1
+2025-ON,1,2,1,,"Security, privacy and data integrity",Validation & verification,2
+2025-ON,1,2,2,a,Ethics and ownership,Copyright & licensing,4
+2025-ON,1,2,2,b,Ethics and ownership,Professional ethics,2
+2025-ON,1,2,3,a(i),Processor fundamentals,Assembly language & addressing,1
+2025-ON,1,2,3,a(ii),Processor fundamentals,CPU architecture & registers,2
+2025-ON,1,2,3,b,Processor fundamentals,Assembly language & addressing,3
+2025-ON,1,2,3,c,Processor fundamentals,Performance & ports,4
+2025-ON,1,2,4,a,Databases,Relational model & keys,2
+2025-ON,1,2,4,b,Databases,SQL definition (DDL),2
+2025-ON,1,2,4,c,Databases,SQL queries (DML),4
+2025-ON,1,2,4,d,Databases,DBMS features,2
+2025-ON,1,2,5,a,Communication,Networks & topologies,2
+2025-ON,1,2,5,b,Communication,Networks & topologies,2
+2025-ON,1,2,5,c,Communication,Networks & topologies,3
+2025-ON,1,2,5,d,Communication,Networks & topologies,3
+2025-ON,1,2,5,e,"Security, privacy and data integrity",Security threats & protection,3
+2025-ON,1,2,6,a,Information representation,Compression,1
+2025-ON,1,2,6,b,Information representation,Compression,1
+2025-ON,1,2,6,c(i),"Security, privacy and data integrity",Validation & verification,1
+2025-ON,1,2,6,c(ii),"Security, privacy and data integrity",Validation & verification,1
+2025-ON,1,2,6,d,Information representation,Bitmap & vector graphics,2
+2025-ON,1,2,7,a,Information representation,Binary arithmetic & two's complement,1
+2025-ON,1,2,7,b,Information representation,Character sets,1
+2025-ON,1,2,7,c(i),Information representation,Character sets,1
+2025-ON,1,2,7,c(ii),Information representation,Character sets,1
+2025-ON,1,2,8,a(i),Communication,Client-server & cloud,2
+2025-ON,1,2,8,a(ii),Communication,Client-server & cloud,2
+2025-ON,1,2,8,b(i),Hardware,Input/output devices & sensors,4
+2025-ON,1,2,8,b(ii),"Security, privacy and data integrity",Privacy & integrity,2
+2025-ON,1,2,9,a,Hardware,Logic gates & circuits,2
+2025-ON,1,2,9,b,Hardware,Logic gates & circuits,2
+2025-ON,1,2,10,a,System software,Translators,4
+2025-ON,1,2,10,b,Ethics and ownership,Copyright & licensing,2
+2025-ON,1,2,10,c,"Security, privacy and data integrity",Security threats & protection,1
+2025-ON,1,2,11,,Hardware,Input/output devices & sensors,3
+2026-MJ,1,2,1,a,Information representation,Bitmap & vector graphics,1
+2026-MJ,1,2,1,b,Information representation,Bitmap & vector graphics,2
+2026-MJ,1,2,1,c,Information representation,Bitmap & vector graphics,1
+2026-MJ,1,2,1,d(i),Information representation,Bitmap & vector graphics,1
+2026-MJ,1,2,1,d(ii),Information representation,Compression,3
+2026-MJ,1,2,2,a,"Security, privacy and data integrity",Validation & verification,4
+2026-MJ,1,2,2,b,"Security, privacy and data integrity",Validation & verification,3
+2026-MJ,1,2,2,c(i),"Security, privacy and data integrity",Security threats & protection,3
+2026-MJ,1,2,2,c(ii),"Security, privacy and data integrity",Security threats & protection,3
+2026-MJ,1,2,3,a,Databases,E-R diagrams,2
+2026-MJ,1,2,3,b(i),Databases,SQL definition (DDL),4
+2026-MJ,1,2,3,b(ii),Databases,SQL queries (DML),5
+2026-MJ,1,2,3,c,Databases,Relational model & keys,5
+2026-MJ,1,2,4,a,Information representation,Sound representation,1
+2026-MJ,1,2,4,b,Information representation,Sound representation,3
+2026-MJ,1,2,5,a,Information representation,Number conversions & units,4
+2026-MJ,1,2,5,b,Processor fundamentals,Bit manipulation & shifts,3
+2026-MJ,1,2,6,a,Hardware,Computers & embedded systems,3
+2026-MJ,1,2,6,b,Hardware,Input/output devices & sensors,2
+2026-MJ,1,2,6,c,Hardware,Memory & storage,2
+2026-MJ,1,2,6,d,Communication,Client-server & cloud,4
+2026-MJ,1,2,7,a(i),System software,Operating system functions,2
+2026-MJ,1,2,7,a(ii),System software,Operating system functions,2
+2026-MJ,1,2,7,a(iii),System software,Utility software,3
+2026-MJ,1,2,7,b(i),System software,IDE features,4
+2026-MJ,1,2,7,b(ii),System software,Translators,2
+2026-MJ,1,2,8,a,Hardware,Logic gates & circuits,2
+2026-MJ,1,2,8,b,Hardware,Logic gates & circuits,1
+2022-MJ,2,2,1,a,Software development,"Errors, debugging & IDE use",1
+2022-MJ,2,2,1,b,Software development,Development life cycle,4
+2022-MJ,2,2,1,c,Algorithm design and problem-solving,Identifier tables & stepwise refinement,2
+2022-MJ,2,2,1,d,Programming,Constructs & expressions,4
+2022-MJ,2,2,2,,Algorithm design and problem-solving,Writing pseudocode algorithms,4
+2022-MJ,2,2,3,a(i),Software development,Structure charts & state-transition diagrams,3
+2022-MJ,2,2,3,a(ii),Programming,"Procedures, functions & parameters",3
+2022-MJ,2,2,3,b,Algorithm design and problem-solving,Computational thinking & abstraction,3
+2022-MJ,2,2,4,a,Data types and structures,Text files,6
+2022-MJ,2,2,4,b,Data types and structures,Text files,3
+2022-MJ,2,2,5,a,Programming,Constructs & expressions,2
+2022-MJ,2,2,5,b,Algorithm design and problem-solving,Dry runs & trace tables,6
+2022-MJ,2,2,5,c,Software development,Testing & maintenance,2
+2022-MJ,2,2,6,,Programming,String & built-in functions,7
+2022-MJ,2,2,7,a,Programming,String & built-in functions,4
+2022-MJ,2,2,7,b,"Security, privacy and data integrity",Validation & verification,2
+2022-MJ,2,2,8,a,Algorithm design and problem-solving,Writing pseudocode algorithms,5
+2022-MJ,2,2,8,b,Algorithm design and problem-solving,Searching & sorting,8
+2022-MJ,2,2,8,c,Programming,String & built-in functions,6
+2022-ON,2,2,1,a(i),Programming,"Procedures, functions & parameters",2
+2022-ON,2,2,1,a(ii),Programming,"Procedures, functions & parameters",2
+2022-ON,2,2,1,b,Software development,Testing & maintenance,4
+2022-ON,2,2,1,c,Programming,String & built-in functions,3
+2022-ON,2,2,2,a(i),Data types and structures,Text files,5
+2022-ON,2,2,2,a(ii),Data types and structures,Text files,1
+2022-ON,2,2,2,a(iii),Data types and structures,Text files,1
+2022-ON,2,2,2,b,Software development,Structure charts & state-transition diagrams,4
+2022-ON,2,2,3,a,Data types and structures,"Stacks, queues & linked lists",3
+2022-ON,2,2,3,b,Data types and structures,"Stacks, queues & linked lists",5
+2022-ON,2,2,3,c,Data types and structures,"Stacks, queues & linked lists",5
+2022-ON,2,2,4,a,Algorithm design and problem-solving,Flowcharts,6
+2022-ON,2,2,4,b,Programming,Constructs & expressions,1
+2022-ON,2,2,5,,Programming,Constructs & expressions,4
+2022-ON,2,2,6,a,Algorithm design and problem-solving,Writing pseudocode algorithms,7
+2022-ON,2,2,6,b,Algorithm design and problem-solving,Writing pseudocode algorithms,4
+2022-ON,2,2,7,a,Algorithm design and problem-solving,Writing pseudocode algorithms,6
+2022-ON,2,2,7,b,Algorithm design and problem-solving,Searching & sorting,8
+2022-ON,2,2,7,c(i),Data types and structures,Data types & records,1
+2022-ON,2,2,7,c(ii),Data types and structures,Data types & records,2
+2022-ON,2,2,7,c(iii),Data types and structures,Data types & records,1
+2023-MJ,2,2,1,a(i),Data types and structures,Arrays,1
+2023-MJ,2,2,1,a(ii),Data types and structures,Arrays,3
+2023-MJ,2,2,1,b,Software development,Testing & maintenance,3
+2023-MJ,2,2,1,c,Data types and structures,Data types & records,3
+2023-MJ,2,2,2,a,Programming,String & built-in functions,1
+2023-MJ,2,2,2,b,Programming,String & built-in functions,2
+2023-MJ,2,2,2,c,Algorithm design and problem-solving,Writing pseudocode algorithms,6
+2023-MJ,2,2,3,a(i),Data types and structures,"Stacks, queues & linked lists",4
+2023-MJ,2,2,3,a(ii),Data types and structures,"Stacks, queues & linked lists",1
+2023-MJ,2,2,3,b,Data types and structures,"Stacks, queues & linked lists",5
+2023-MJ,2,2,4,,Programming,String & built-in functions,6
+2023-MJ,2,2,5,a,Software development,"Errors, debugging & IDE use",3
+2023-MJ,2,2,5,b,Software development,"Errors, debugging & IDE use",1
+2023-MJ,2,2,5,c,Software development,"Errors, debugging & IDE use",3
+2023-MJ,2,2,5,d,Software development,"Errors, debugging & IDE use",1
+2023-MJ,2,2,6,,Algorithm design and problem-solving,Writing pseudocode algorithms,6
+2023-MJ,2,2,7,a(i),Algorithm design and problem-solving,Computational thinking & abstraction,3
+2023-MJ,2,2,7,a(ii),Algorithm design and problem-solving,Computational thinking & abstraction,2
+2023-MJ,2,2,7,b,Software development,Structure charts & state-transition diagrams,4
+2023-MJ,2,2,8,a,Programming,String & built-in functions,7
+2023-MJ,2,2,8,b,Data types and structures,Text files,7
+2023-MJ,2,2,8,c,Software development,Testing & maintenance,3
+2023-ON,2,2,1,a,Algorithm design and problem-solving,Identifier tables & stepwise refinement,4
+2023-ON,2,2,1,b,Programming,String & built-in functions,4
+2023-ON,2,2,1,c,Data types and structures,Data types & records,3
+2023-ON,2,2,2,a,Algorithm design and problem-solving,Flowcharts,5
+2023-ON,2,2,2,b,Programming,Constructs & expressions,2
+2023-ON,2,2,3,a,Data types and structures,"Stacks, queues & linked lists",5
+2023-ON,2,2,3,b,Data types and structures,"Stacks, queues & linked lists",4
+2023-ON,2,2,4,a,Algorithm design and problem-solving,Writing pseudocode algorithms,6
+2023-ON,2,2,4,b,Software development,Testing & maintenance,3
+2023-ON,2,2,5,,Algorithm design and problem-solving,Dry runs & trace tables,6
+2023-ON,2,2,6,a,Data types and structures,Text files,6
+2023-ON,2,2,6,b(i),Programming,"Procedures, functions & parameters",1
+2023-ON,2,2,6,b(ii),Programming,"Procedures, functions & parameters",1
+2023-ON,2,2,6,b(iii),Data types and structures,Text files,1
+2023-ON,2,2,7,a,Software development,Structure charts & state-transition diagrams,4
+2023-ON,2,2,7,b,Software development,Structure charts & state-transition diagrams,2
+2023-ON,2,2,8,a,Programming,String & built-in functions,7
+2023-ON,2,2,8,b,Algorithm design and problem-solving,Writing pseudocode algorithms,7
+2023-ON,2,2,8,c(i),Data types and structures,"Stacks, queues & linked lists",3
+2023-ON,2,2,8,c(ii),Data types and structures,"Stacks, queues & linked lists",1
+2024-MJ,2,2,1,a,Programming,Constructs & expressions,4
+2024-MJ,2,2,1,b,Data types and structures,Data types & records,4
+2024-MJ,2,2,1,c,Software development,Development life cycle,2
+2024-MJ,2,2,2,a,Algorithm design and problem-solving,Writing pseudocode algorithms,5
+2024-MJ,2,2,2,b,Algorithm design and problem-solving,Flowcharts,5
+2024-MJ,2,2,3,a(i),Data types and structures,Data types & records,4
+2024-MJ,2,2,3,a(ii),Data types and structures,Arrays,2
+2024-MJ,2,2,3,b,Data types and structures,Arrays,3
+2024-MJ,2,2,4,,Algorithm design and problem-solving,Writing pseudocode algorithms,5
+2024-MJ,2,2,5,a(i),Software development,"Errors, debugging & IDE use",3
+2024-MJ,2,2,5,a(ii),Software development,"Errors, debugging & IDE use",2
+2024-MJ,2,2,5,b,Software development,"Errors, debugging & IDE use",1
+2024-MJ,2,2,6,a,Programming,String & built-in functions,7
+2024-MJ,2,2,6,b(i),Data types and structures,Data types & records,1
+2024-MJ,2,2,6,b(ii),Data types and structures,Data types & records,1
+2024-MJ,2,2,6,b(iii),Data types and structures,Data types & records,1
+2024-MJ,2,2,7,a,Algorithm design and problem-solving,Computational thinking & abstraction,3
+2024-MJ,2,2,7,b(i),Software development,Structure charts & state-transition diagrams,5
+2024-MJ,2,2,7,b(ii),Software development,Structure charts & state-transition diagrams,1
+2024-MJ,2,2,8,a,Software development,Development life cycle,2
+2024-MJ,2,2,8,b,Programming,String & built-in functions,6
+2024-MJ,2,2,8,c,Data types and structures,Text files,8
+2024-ON,2,2,1,a,Software development,Testing & maintenance,1
+2024-ON,2,2,1,b,Software development,"Errors, debugging & IDE use",3
+2024-ON,2,2,1,c,Software development,"Errors, debugging & IDE use",2
+2024-ON,2,2,1,d,Data types and structures,Data types & records,3
+2024-ON,2,2,2,a,Programming,String & built-in functions,6
+2024-ON,2,2,2,b(i),Data types and structures,Arrays,2
+2024-ON,2,2,2,b(ii),Programming,"Procedures, functions & parameters",1
+2024-ON,2,2,3,a(i),Data types and structures,"Stacks, queues & linked lists",1
+2024-ON,2,2,3,a(ii),Data types and structures,"Stacks, queues & linked lists",2
+2024-ON,2,2,3,b,Data types and structures,"Stacks, queues & linked lists",4
+2024-ON,2,2,4,,Algorithm design and problem-solving,Writing pseudocode algorithms,6
+2024-ON,2,2,5,a,Software development,"Errors, debugging & IDE use",3
+2024-ON,2,2,5,b,Software development,"Errors, debugging & IDE use",2
+2024-ON,2,2,5,c,Programming,Constructs & expressions,2
+2024-ON,2,2,6,a,Algorithm design and problem-solving,Writing pseudocode algorithms,7
+2024-ON,2,2,6,b,Algorithm design and problem-solving,Computational thinking & abstraction,2
+2024-ON,2,2,7,a,Algorithm design and problem-solving,Computational thinking & abstraction,3
+2024-ON,2,2,7,b,Algorithm design and problem-solving,Computational thinking & abstraction,1
+2024-ON,2,2,7,c,Software development,Development life cycle,3
+2024-ON,2,2,7,d,Programming,"Procedures, functions & parameters",3
+2024-ON,2,2,8,a,Algorithm design and problem-solving,Writing pseudocode algorithms,7
+2024-ON,2,2,8,b,Data types and structures,Text files,7
+2024-ON,2,2,8,c,Data types and structures,Data types & records,2
+2024-ON,2,2,8,d,Data types and structures,Text files,2
+2025-MJ,2,2,1,a(i),Software development,Development life cycle,1
+2025-MJ,2,2,1,a(ii),Software development,Development life cycle,1
+2025-MJ,2,2,1,b(i),Software development,Testing & maintenance,3
+2025-MJ,2,2,1,b(ii),Software development,Testing & maintenance,1
+2025-MJ,2,2,1,c,Data types and structures,Data types & records,4
+2025-MJ,2,2,1,d(i),Data types and structures,Arrays,1
+2025-MJ,2,2,1,d(ii),Data types and structures,Arrays,1
+2025-MJ,2,2,1,d(iii),Data types and structures,Arrays,2
+2025-MJ,2,2,2,a,Algorithm design and problem-solving,Identifier tables & stepwise refinement,2
+2025-MJ,2,2,2,b(i),Software development,Testing & maintenance,2
+2025-MJ,2,2,2,b(ii),Software development,Testing & maintenance,2
+2025-MJ,2,2,2,b(iii),Software development,Testing & maintenance,2
+2025-MJ,2,2,3,,Algorithm design and problem-solving,Writing pseudocode algorithms,8
+2025-MJ,2,2,4,,Data types and structures,Arrays,6
+2025-MJ,2,2,5,a,Software development,Structure charts & state-transition diagrams,4
+2025-MJ,2,2,5,b,Programming,String & built-in functions,8
+2025-MJ,2,2,6,a(i),Algorithm design and problem-solving,Dry runs & trace tables,4
+2025-MJ,2,2,6,a(ii),Data types and structures,"Stacks, queues & linked lists",3
+2025-MJ,2,2,6,b,Data types and structures,"Stacks, queues & linked lists",2
+2025-MJ,2,2,7,a,Algorithm design and problem-solving,Searching & sorting,8
+2025-MJ,2,2,7,b,Algorithm design and problem-solving,Writing pseudocode algorithms,7
+2025-MJ,2,2,7,c(i),Data types and structures,Arrays,1
+2025-MJ,2,2,7,c(ii),Data types and structures,Arrays,2
+2025-ON,2,2,1,a,Programming,Constructs & expressions,4
+2025-ON,2,2,1,b,Data types and structures,Data types & records,3
+2025-ON,2,2,1,c,Programming,String & built-in functions,4
+2025-ON,2,2,2,,Data types and structures,Arrays,5
+2025-ON,2,2,3,a,Data types and structures,Text files,6
+2025-ON,2,2,3,b,Data types and structures,Text files,1
+2025-ON,2,2,3,c,Data types and structures,Text files,3
+2025-ON,2,2,4,a,Data types and structures,Arrays,4
+2025-ON,2,2,4,b,Algorithm design and problem-solving,Writing pseudocode algorithms,5
+2025-ON,2,2,4,c,Algorithm design and problem-solving,Writing pseudocode algorithms,4
+2025-ON,2,2,5,a,Software development,Development life cycle,4
+2025-ON,2,2,5,b,Software development,Testing & maintenance,1
+2025-ON,2,2,6,,Programming,String & built-in functions,7
+2025-ON,2,2,7,a,Software development,Structure charts & state-transition diagrams,2
+2025-ON,2,2,7,b,Programming,"Procedures, functions & parameters",4
+2025-ON,2,2,8,a,Algorithm design and problem-solving,Writing pseudocode algorithms,7
+2025-ON,2,2,8,b,Algorithm design and problem-solving,Writing pseudocode algorithms,7
+2025-ON,2,2,8,c,Data types and structures,Text files,2
+2025-ON,2,2,8,d,Data types and structures,Data types & records,2
+2026-MJ,2,2,1,a(i),Data types and structures,Data types & records,1
+2026-MJ,2,2,1,a(ii),Programming,String & built-in functions,2
+2026-MJ,2,2,1,a(iii),Programming,String & built-in functions,7
+2026-MJ,2,2,1,b(i),Software development,Structure charts & state-transition diagrams,2
+2026-MJ,2,2,1,b(ii),Software development,Structure charts & state-transition diagrams,3
+2026-MJ,2,2,1,c,Software development,Testing & maintenance,3
+2026-MJ,2,2,1,d,Software development,Development life cycle,3
+2026-MJ,2,2,1,e,Software development,Development life cycle,2
+2026-MJ,2,2,1,f(i),Software development,Testing & maintenance,1
+2026-MJ,2,2,1,f(ii),Software development,Testing & maintenance,3
+2026-MJ,2,2,2,a,Algorithm design and problem-solving,Computational thinking & abstraction,1
+2026-MJ,2,2,2,b,Algorithm design and problem-solving,Computational thinking & abstraction,2
+2026-MJ,2,2,2,c,Algorithm design and problem-solving,Computational thinking & abstraction,2
+2026-MJ,2,2,3,,Data types and structures,Text files,6
+2026-MJ,2,2,4,a,Data types and structures,"Stacks, queues & linked lists",6
+2026-MJ,2,2,4,b,Data types and structures,"Stacks, queues & linked lists",3
+2026-MJ,2,2,5,a,Algorithm design and problem-solving,Searching & sorting,1
+2026-MJ,2,2,5,b(i),Algorithm design and problem-solving,Searching & sorting,4
+2026-MJ,2,2,5,b(ii),Algorithm design and problem-solving,Searching & sorting,1
+2026-MJ,2,2,5,c(i),Programming,"Procedures, functions & parameters",2
+2026-MJ,2,2,5,c(ii),Programming,"Procedures, functions & parameters",2
+2026-MJ,2,2,6,a,Programming,String & built-in functions,8
+2026-MJ,2,2,6,b(i),Data types and structures,Arrays,2
+2026-MJ,2,2,6,b(ii),Data types and structures,Arrays,8
+2022-MJ,3,2,1,a,Data representation,User-defined data types,2
+2022-MJ,3,2,1,b(i),Data representation,User-defined data types,2
+2022-MJ,3,2,1,b(ii),Data representation,User-defined data types,1
+2022-MJ,3,2,1,b(iii),Data representation,User-defined data types,1
+2022-MJ,3,2,1,c(i),Further programming,Object-oriented programming,1
+2022-MJ,3,2,1,c(ii),Further programming,Object-oriented programming,2
+2022-MJ,3,2,2,a,Further programming,Declarative programming (Prolog),2
+2022-MJ,3,2,2,b,Further programming,Declarative programming (Prolog),1
+2022-MJ,3,2,2,c,Further programming,Declarative programming (Prolog),4
+2022-MJ,3,2,3,a,Communication and internet technologies,Protocols & TCP/IP suite,4
+2022-MJ,3,2,3,b,Communication and internet technologies,Protocols & TCP/IP suite,4
+2022-MJ,3,2,4,a,System software (A Level),BNF & syntax diagrams,2
+2022-MJ,3,2,4,b,System software (A Level),BNF & syntax diagrams,5
+2022-MJ,3,2,4,c(i),System software (A Level),BNF & syntax diagrams,3
+2022-MJ,3,2,4,c(ii),System software (A Level),BNF & syntax diagrams,3
+2022-MJ,3,2,5,,Hardware and virtual machines,Parallel processing architectures,6
+2022-MJ,3,2,6,a,Hardware and virtual machines,"Logic circuits, adders & flip-flops",2
+2022-MJ,3,2,6,b(i),Hardware and virtual machines,"Logic circuits, adders & flip-flops",1
+2022-MJ,3,2,6,b(ii),Hardware and virtual machines,"Logic circuits, adders & flip-flops",2
+2022-MJ,3,2,7,a,Security,Digital certificates & signatures,3
+2022-MJ,3,2,7,b(i),Security,Digital certificates & signatures,3
+2022-MJ,3,2,7,b(ii),Security,Digital certificates & signatures,4
+2022-MJ,3,2,8,a,Computational thinking and problem-solving,Searching & Big O,4
+2022-MJ,3,2,8,b(i),Computational thinking and problem-solving,Searching & Big O,1
+2022-MJ,3,2,8,b(ii),Computational thinking and problem-solving,Searching & Big O,4
+2022-MJ,3,2,8,b(iii),Computational thinking and problem-solving,Searching & Big O,1
+2022-MJ,3,2,8,c,Computational thinking and problem-solving,Searching & Big O,3
+2022-MJ,3,2,9,,Further programming,File processing & exception handling,4
+2022-ON,3,2,1,a,Data representation,Floating-point representation,1
+2022-ON,3,2,1,b,Data representation,Floating-point representation,3
+2022-ON,3,2,1,c,Data representation,Floating-point representation,2
+2022-ON,3,2,2,a,System software (A Level),Compilation stages,2
+2022-ON,3,2,2,b,System software (A Level),Compilation stages,2
+2022-ON,3,2,3,a,Communication and internet technologies,Protocols & TCP/IP suite,2
+2022-ON,3,2,3,b,Communication and internet technologies,Protocols & TCP/IP suite,2
+2022-ON,3,2,3,c,Communication and internet technologies,Protocols & TCP/IP suite,2
+2022-ON,3,2,4,a,Data representation,User-defined data types,2
+2022-ON,3,2,4,b,Data representation,User-defined data types,4
+2022-ON,3,2,4,c(i),Data representation,User-defined data types,1
+2022-ON,3,2,4,c(ii),Data representation,User-defined data types,3
+2022-ON,3,2,5,,Hardware and virtual machines,Virtual machines,6
+2022-ON,3,2,6,a,Security,Encryption & keys,2
+2022-ON,3,2,6,b,Security,Digital certificates & signatures,4
+2022-ON,3,2,7,,Artificial intelligence,Machine learning & neural networks,4
+2022-ON,3,2,8,a,Hardware and virtual machines,"Logic circuits, adders & flip-flops",4
+2022-ON,3,2,8,b,Hardware and virtual machines,"Logic circuits, adders & flip-flops",1
+2022-ON,3,2,8,c,Hardware and virtual machines,Boolean algebra & Karnaugh maps,3
+2022-ON,3,2,9,a,System software (A Level),Process scheduling & interrupts,3
+2022-ON,3,2,9,b,System software (A Level),Process scheduling & interrupts,6
+2022-ON,3,2,10,a,Further programming,Object-oriented programming,3
+2022-ON,3,2,10,b,Further programming,Object-oriented programming,3
+2022-ON,3,2,11,a,Computational thinking and problem-solving,Abstract data types,3
+2022-ON,3,2,11,b,Computational thinking and problem-solving,Abstract data types,5
+2022-ON,3,2,11,c,Computational thinking and problem-solving,Abstract data types,2
+2023-MJ,3,2,1,a,Data representation,Floating-point representation,2
+2023-MJ,3,2,1,b,Data representation,Floating-point representation,3
+2023-MJ,3,2,2,a,Data representation,File organisation & access,3
+2023-MJ,3,2,2,b,Data representation,File organisation & access,2
+2023-MJ,3,2,3,a,System software (A Level),BNF & syntax diagrams,2
+2023-MJ,3,2,3,b,System software (A Level),BNF & syntax diagrams,3
+2023-MJ,3,2,3,c(i),System software (A Level),BNF & syntax diagrams,1
+2023-MJ,3,2,3,c(ii),System software (A Level),BNF & syntax diagrams,3
+2023-MJ,3,2,4,,Further programming,Object-oriented programming,4
+2023-MJ,3,2,5,a,Security,Quantum cryptography,2
+2023-MJ,3,2,5,b,Security,Encryption & keys,3
+2023-MJ,3,2,6,a,Data representation,User-defined data types,4
+2023-MJ,3,2,6,b,Further programming,File processing & exception handling,5
+2023-MJ,3,2,7,a,Communication and internet technologies,Circuit & packet switching,2
+2023-MJ,3,2,7,b,Communication and internet technologies,Circuit & packet switching,4
+2023-MJ,3,2,8,a,Hardware and virtual machines,RISC/CISC & pipelining,2
+2023-MJ,3,2,8,b,Hardware and virtual machines,RISC/CISC & pipelining,4
+2023-MJ,3,2,9,a,Hardware and virtual machines,Boolean algebra & Karnaugh maps,3
+2023-MJ,3,2,9,b,Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2023-MJ,3,2,9,c,Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2023-MJ,3,2,9,d,Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2023-MJ,3,2,9,e,Hardware and virtual machines,Boolean algebra & Karnaugh maps,1
+2023-MJ,3,2,10,a,Artificial intelligence,Machine learning & neural networks,1
+2023-MJ,3,2,10,b,Artificial intelligence,"Graphs, Dijkstra & A*",5
+2023-MJ,3,2,11,a(i),Computational thinking and problem-solving,Abstract data types,2
+2023-MJ,3,2,11,a(ii),Computational thinking and problem-solving,Abstract data types,5
+2023-MJ,3,2,11,b,Computational thinking and problem-solving,Abstract data types,3
+2023-ON,3,2,1,a,Data representation,Floating-point representation,3
+2023-ON,3,2,1,b,Data representation,Floating-point representation,3
+2023-ON,3,2,2,,Data representation,User-defined data types,4
+2023-ON,3,2,3,a,Data representation,File organisation & access,2
+2023-ON,3,2,3,b,Data representation,File organisation & access,3
+2023-ON,3,2,4,,Communication and internet technologies,Protocols & TCP/IP suite,3
+2023-ON,3,2,5,a,System software (A Level),Memory management & virtual memory,2
+2023-ON,3,2,5,b,System software (A Level),Memory management & virtual memory,3
+2023-ON,3,2,6,a,System software (A Level),Reverse Polish notation,4
+2023-ON,3,2,6,b,System software (A Level),Reverse Polish notation,3
+2023-ON,3,2,7,a,Hardware and virtual machines,"Logic circuits, adders & flip-flops",1
+2023-ON,3,2,7,b,Hardware and virtual machines,Boolean algebra & Karnaugh maps,1
+2023-ON,3,2,7,c,Hardware and virtual machines,Boolean algebra & Karnaugh maps,3
+2023-ON,3,2,8,,Artificial intelligence,"Graphs, Dijkstra & A*",5
+2023-ON,3,2,9,a(i),Computational thinking and problem-solving,Abstract data types,2
+2023-ON,3,2,9,a(ii),Computational thinking and problem-solving,Abstract data types,5
+2023-ON,3,2,9,b,Computational thinking and problem-solving,Abstract data types,2
+2023-ON,3,2,9,c,Computational thinking and problem-solving,Recursion,4
+2023-ON,3,2,10,,Hardware and virtual machines,Parallel processing architectures,4
+2023-ON,3,2,11,a,Further programming,Declarative programming (Prolog),4
+2023-ON,3,2,11,b,Further programming,Declarative programming (Prolog),1
+2023-ON,3,2,11,c,Further programming,Declarative programming (Prolog),4
+2023-ON,3,2,12,a,Further programming,File processing & exception handling,2
+2023-ON,3,2,12,b,Further programming,File processing & exception handling,7
+2024-MJ,3,2,1,a,Data representation,Floating-point representation,2
+2024-MJ,3,2,1,b,Data representation,Floating-point representation,3
+2024-MJ,3,2,2,a,Communication and internet technologies,Protocols & TCP/IP suite,2
+2024-MJ,3,2,2,b,Communication and internet technologies,Protocols & TCP/IP suite,2
+2024-MJ,3,2,2,c,Communication and internet technologies,Protocols & TCP/IP suite,3
+2024-MJ,3,2,3,a,Data representation,User-defined data types,3
+2024-MJ,3,2,3,b,Data representation,User-defined data types,4
+2024-MJ,3,2,4,,Security,Encryption & keys,4
+2024-MJ,3,2,5,a,System software (A Level),Reverse Polish notation,2
+2024-MJ,3,2,5,b,System software (A Level),Reverse Polish notation,4
+2024-MJ,3,2,5,c,System software (A Level),Reverse Polish notation,3
+2024-MJ,3,2,6,a,Hardware and virtual machines,"Logic circuits, adders & flip-flops",3
+2024-MJ,3,2,6,b,Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2024-MJ,3,2,6,c(i),Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2024-MJ,3,2,6,c(ii),Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2024-MJ,3,2,6,c(iii),Hardware and virtual machines,Boolean algebra & Karnaugh maps,1
+2024-MJ,3,2,7,a,Data representation,File organisation & access,2
+2024-MJ,3,2,7,b(i),Data representation,File organisation & access,2
+2024-MJ,3,2,7,b(ii),Data representation,File organisation & access,2
+2024-MJ,3,2,8,a,Computational thinking and problem-solving,Searching & Big O,4
+2024-MJ,3,2,8,b,Computational thinking and problem-solving,Searching & Big O,4
+2024-MJ,3,2,9,a,Hardware and virtual machines,Virtual machines,4
+2024-MJ,3,2,9,b,Hardware and virtual machines,Virtual machines,3
+2024-MJ,3,2,10,a,Further programming,Declarative programming (Prolog),4
+2024-MJ,3,2,10,b,Further programming,Declarative programming (Prolog),1
+2024-MJ,3,2,10,c,Further programming,Declarative programming (Prolog),4
+2024-MJ,3,2,11,,Artificial intelligence,Machine learning & neural networks,3
+2024-ON,3,2,1,a,Communication and internet technologies,Circuit & packet switching,3
+2024-ON,3,2,1,b,Communication and internet technologies,Circuit & packet switching,4
+2024-ON,3,2,2,a,Data representation,File organisation & access,2
+2024-ON,3,2,2,b,Data representation,File organisation & access,1
+2024-ON,3,2,3,a,Data representation,User-defined data types,3
+2024-ON,3,2,3,b,Data representation,User-defined data types,4
+2024-ON,3,2,4,a,Data representation,Floating-point representation,2
+2024-ON,3,2,4,b,Data representation,Floating-point representation,4
+2024-ON,3,2,5,a,Communication and internet technologies,Protocols & TCP/IP suite,4
+2024-ON,3,2,5,b,Communication and internet technologies,Protocols & TCP/IP suite,3
+2024-ON,3,2,6,a,Hardware and virtual machines,Boolean algebra & Karnaugh maps,3
+2024-ON,3,2,6,b,Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2024-ON,3,2,6,c,Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2024-ON,3,2,6,d,Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2024-ON,3,2,7,a,System software (A Level),BNF & syntax diagrams,2
+2024-ON,3,2,7,b,System software (A Level),BNF & syntax diagrams,2
+2024-ON,3,2,7,c(i),System software (A Level),BNF & syntax diagrams,3
+2024-ON,3,2,7,c(ii),System software (A Level),BNF & syntax diagrams,2
+2024-ON,3,2,8,,Hardware and virtual machines,RISC/CISC & pipelining,4
+2024-ON,3,2,9,a,System software (A Level),Process scheduling & interrupts,2
+2024-ON,3,2,9,b(i),System software (A Level),Process scheduling & interrupts,1
+2024-ON,3,2,9,b(ii),System software (A Level),Process scheduling & interrupts,2
+2024-ON,3,2,10,a,Further programming,Object-oriented programming,3
+2024-ON,3,2,10,b,Further programming,Object-oriented programming,3
+2024-ON,3,2,11,a,Computational thinking and problem-solving,Abstract data types,4
+2024-ON,3,2,11,b,Computational thinking and problem-solving,Abstract data types,4
+2024-ON,3,2,11,c,Computational thinking and problem-solving,Abstract data types,4
+2025-MJ,3,2,1,a,Data representation,User-defined data types,3
+2025-MJ,3,2,1,b(i),Data representation,User-defined data types,2
+2025-MJ,3,2,1,b(ii),Data representation,User-defined data types,1
+2025-MJ,3,2,2,a,Data representation,Floating-point representation,3
+2025-MJ,3,2,2,b,Data representation,Floating-point representation,3
+2025-MJ,3,2,3,a,Communication and internet technologies,Protocols & TCP/IP suite,1
+2025-MJ,3,2,3,b,Communication and internet technologies,Protocols & TCP/IP suite,4
+2025-MJ,3,2,4,,Communication and internet technologies,Circuit & packet switching,4
+2025-MJ,3,2,5,a,System software (A Level),Process scheduling & interrupts,3
+2025-MJ,3,2,5,b,System software (A Level),Process scheduling & interrupts,4
+2025-MJ,3,2,6,a,Artificial intelligence,"Graphs, Dijkstra & A*",2
+2025-MJ,3,2,6,b,Artificial intelligence,Machine learning & neural networks,4
+2025-MJ,3,2,7,a,Hardware and virtual machines,"Logic circuits, adders & flip-flops",3
+2025-MJ,3,2,7,b,Hardware and virtual machines,Boolean algebra & Karnaugh maps,1
+2025-MJ,3,2,7,c,Hardware and virtual machines,Boolean algebra & Karnaugh maps,4
+2025-MJ,3,2,8,,System software (A Level),Compilation stages,4
+2025-MJ,3,2,9,a,System software (A Level),BNF & syntax diagrams,1
+2025-MJ,3,2,9,b,System software (A Level),BNF & syntax diagrams,1
+2025-MJ,3,2,9,c,System software (A Level),BNF & syntax diagrams,3
+2025-MJ,3,2,9,d,System software (A Level),BNF & syntax diagrams,1
+2025-MJ,3,2,10,,Security,SSL/TLS protocols,4
+2025-MJ,3,2,11,a,Computational thinking and problem-solving,Abstract data types,4
+2025-MJ,3,2,11,b,Computational thinking and problem-solving,Recursion,2
+2025-MJ,3,2,12,a,Further programming,Object-oriented programming,5
+2025-MJ,3,2,12,b(i),Further programming,Object-oriented programming,1
+2025-MJ,3,2,12,b(ii),Further programming,Object-oriented programming,2
+2025-MJ,3,2,13,,Further programming,File processing & exception handling,5
+2025-ON,3,2,1,a(i),Data representation,User-defined data types,1
+2025-ON,3,2,1,a(ii),Data representation,User-defined data types,2
+2025-ON,3,2,1,b(i),Data representation,User-defined data types,2
+2025-ON,3,2,1,b(ii),Data representation,User-defined data types,1
+2025-ON,3,2,2,a,Data representation,Floating-point representation,3
+2025-ON,3,2,2,b,Data representation,Floating-point representation,3
+2025-ON,3,2,3,a,Communication and internet technologies,Protocols & TCP/IP suite,2
+2025-ON,3,2,3,b,Communication and internet technologies,Protocols & TCP/IP suite,4
+2025-ON,3,2,4,a,Communication and internet technologies,Circuit & packet switching,2
+2025-ON,3,2,4,b,Communication and internet technologies,Circuit & packet switching,2
+2025-ON,3,2,5,a,System software (A Level),Process scheduling & interrupts,2
+2025-ON,3,2,5,b,System software (A Level),Process scheduling & interrupts,3
+2025-ON,3,2,6,a,Hardware and virtual machines,"Logic circuits, adders & flip-flops",3
+2025-ON,3,2,6,b(i),Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2025-ON,3,2,6,b(ii),Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2025-ON,3,2,6,b(iii),Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2025-ON,3,2,7,a,Security,Encryption & keys,1
+2025-ON,3,2,7,b,Security,Encryption & keys,4
+2025-ON,3,2,8,a,System software (A Level),Compilation stages,1
+2025-ON,3,2,8,b,System software (A Level),Reverse Polish notation,3
+2025-ON,3,2,8,c,System software (A Level),Reverse Polish notation,4
+2025-ON,3,2,9,a(i),Artificial intelligence,Machine learning & neural networks,1
+2025-ON,3,2,9,a(ii),Artificial intelligence,Machine learning & neural networks,1
+2025-ON,3,2,9,b,Artificial intelligence,Machine learning & neural networks,4
+2025-ON,3,2,10,a,Further programming,File processing & exception handling,2
+2025-ON,3,2,10,b,Further programming,File processing & exception handling,2
+2025-ON,3,2,11,,Further programming,Programming paradigms & low-level programming,7
+2025-ON,3,2,12,a(i),Computational thinking and problem-solving,Abstract data types,4
+2025-ON,3,2,12,a(ii),Computational thinking and problem-solving,Abstract data types,2
+2025-ON,3,2,12,b,Computational thinking and problem-solving,Recursion,3
+2026-MJ,3,2,1,a,Data representation,User-defined data types,2
+2026-MJ,3,2,1,b(i),Data representation,User-defined data types,1
+2026-MJ,3,2,1,b(ii),Data representation,User-defined data types,2
+2026-MJ,3,2,2,,Communication and internet technologies,Protocols & TCP/IP suite,4
+2026-MJ,3,2,3,a,Data representation,Floating-point representation,3
+2026-MJ,3,2,3,b,Data representation,Floating-point representation,2
+2026-MJ,3,2,4,a,Data representation,File organisation & access,1
+2026-MJ,3,2,4,b,Data representation,File organisation & access,2
+2026-MJ,3,2,4,c,Data representation,File organisation & access,3
+2026-MJ,3,2,5,,Hardware and virtual machines,Virtual machines,4
+2026-MJ,3,2,6,a,System software (A Level),Reverse Polish notation,2
+2026-MJ,3,2,6,b,System software (A Level),Reverse Polish notation,3
+2026-MJ,3,2,6,c,System software (A Level),Reverse Polish notation,4
+2026-MJ,3,2,7,a(i),Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2026-MJ,3,2,7,a(ii),Hardware and virtual machines,Boolean algebra & Karnaugh maps,2
+2026-MJ,3,2,7,a(iii),Hardware and virtual machines,Boolean algebra & Karnaugh maps,1
+2026-MJ,3,2,7,b,Hardware and virtual machines,Boolean algebra & Karnaugh maps,3
+2026-MJ,3,2,8,a,Security,Encryption & keys,3
+2026-MJ,3,2,8,b,Security,Digital certificates & signatures,4
+2026-MJ,3,2,9,a,Artificial intelligence,Machine learning & neural networks,1
+2026-MJ,3,2,9,b(i),Artificial intelligence,"Graphs, Dijkstra & A*",3
+2026-MJ,3,2,9,b(ii),Artificial intelligence,"Graphs, Dijkstra & A*",5
+2026-MJ,3,2,10,a,Computational thinking and problem-solving,Searching & Big O,3
+2026-MJ,3,2,10,b,Further programming,File processing & exception handling,6
+2026-MJ,3,2,11,a,Further programming,Object-oriented programming,5
+2026-MJ,3,2,11,b,Further programming,Object-oriented programming,4

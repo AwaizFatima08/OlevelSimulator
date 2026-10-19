@@ -1,0 +1,445 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,a,Data representation,Number systems and conversions,3
+2022-MJ,1,2,1,b,Data representation,Number systems and conversions,2
+2022-MJ,1,2,2,a,Data representation,Number systems and conversions,6
+2022-MJ,1,2,2,b,Data representation,Number systems and conversions,2
+2022-MJ,1,2,2,c,The internet and its uses,HTML structure and presentation (old syllabus),4
+2022-MJ,1,2,2,d,The internet and its uses,HTML structure and presentation (old syllabus),2
+2022-MJ,1,2,3,a,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",5
+2022-MJ,1,2,3,b,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",1
+2022-MJ,1,2,3,c,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",4
+2022-MJ,1,2,4,a,Software,"Programming languages, translators and IDEs",3
+2022-MJ,1,2,4,b(i),Software,Ethics and software licensing (old syllabus),2
+2022-MJ,1,2,4,b(ii),Software,Ethics and software licensing (old syllabus),2
+2022-MJ,1,2,5,a,Boolean logic,"Logic circuits, expressions and problem statements",5
+2022-MJ,1,2,5,b,Boolean logic,Logic gate symbols and truth tables,4
+2022-MJ,1,2,6,a,The internet and its uses,Cyber security threats,6
+2022-MJ,1,2,6,b,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",2
+2022-MJ,1,2,6,c,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",6
+2022-MJ,1,2,7,a,Hardware,"Primary, secondary, virtual and cloud storage",3
+2022-MJ,1,2,7,b,Hardware,"Primary, secondary, virtual and cloud storage",6
+2022-MJ,1,2,8,a,Software,Ethics and software licensing (old syllabus),4
+2022-MJ,1,2,8,b,Software,Ethics and software licensing (old syllabus),3
+2022-MJ,2,2,1,a(i),Programming,Pre-release material tasks (old syllabus),3
+2022-MJ,2,2,1,a(ii),Programming,Pre-release material tasks (old syllabus),3
+2022-MJ,2,2,1,b,Programming,Pre-release material tasks (old syllabus),3
+2022-MJ,2,2,1,c,Programming,Pre-release material tasks (old syllabus),2
+2022-MJ,2,2,1,d,Programming,Pre-release material tasks (old syllabus),6
+2022-MJ,2,2,1,e,Programming,Pre-release material tasks (old syllabus),3
+2022-MJ,2,2,2,a,Algorithm design and problem-solving,Finding and correcting errors in algorithms,3
+2022-MJ,2,2,2,b,Algorithm design and problem-solving,Validation and verification,4
+2022-MJ,2,2,2,c,Algorithm design and problem-solving,Test data,4
+2022-MJ,2,2,3,a,Programming,Arrays,3
+2022-MJ,2,2,3,b,Programming,Arrays,2
+2022-MJ,2,2,4,a,Algorithm design and problem-solving,Trace tables,7
+2022-MJ,2,2,4,b,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",1
+2022-MJ,2,2,4,c,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",1
+2022-MJ,2,2,5,a,Databases,"Queries (SQL, query-by-example in 2022)",4
+2022-MJ,2,2,5,b,Databases,"Tables, fields, records, primary keys and data types",1
+2022-ON,1,2,1,a,Hardware,Input and output devices,2
+2022-ON,1,2,1,b,Hardware,Input and output devices,1
+2022-ON,1,2,1,c(i),Hardware,Input and output devices,4
+2022-ON,1,2,1,c(ii),Hardware,Input and output devices,2
+2022-ON,1,2,1,c(iii),Hardware,Input and output devices,2
+2022-ON,1,2,1,c(iv),Hardware,Input and output devices,1
+2022-ON,1,2,1,d,Hardware,CPU components and the fetch-decode-execute cycle,2
+2022-ON,1,2,1,e,Software,"System and application software, operating system functions",3
+2022-ON,1,2,1,f(i),Data representation,Number systems and conversions,3
+2022-ON,1,2,1,f(ii),Data representation,Number systems and conversions,3
+2022-ON,1,2,1,f(iii),Data representation,Number systems and conversions,4
+2022-ON,1,2,2,a,Hardware,Sensors and microprocessor control,6
+2022-ON,1,2,2,b,Hardware,Sensors and microprocessor control,3
+2022-ON,1,2,3,,Hardware,"Primary, secondary, virtual and cloud storage",5
+2022-ON,1,2,4,,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",4
+2022-ON,1,2,5,,Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",4
+2022-ON,1,2,6,a,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",2
+2022-ON,1,2,6,b,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",1
+2022-ON,1,2,6,c,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",4
+2022-ON,1,2,6,d(i),The internet and its uses,Cyber security threats,1
+2022-ON,1,2,6,d(ii),The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",6
+2022-ON,1,2,6,e,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",6
+2022-ON,1,2,7,a,Boolean logic,Logic gate symbols and truth tables,4
+2022-ON,1,2,7,b,Boolean logic,Logic gate symbols and truth tables,2
+2022-ON,2,2,1,a(i),Programming,Pre-release material tasks (old syllabus),2
+2022-ON,2,2,1,a(ii),Programming,Pre-release material tasks (old syllabus),2
+2022-ON,2,2,1,b,Programming,Pre-release material tasks (old syllabus),3
+2022-ON,2,2,1,c,Programming,Pre-release material tasks (old syllabus),6
+2022-ON,2,2,1,d,Programming,Pre-release material tasks (old syllabus),3
+2022-ON,2,2,1,e,Programming,Pre-release material tasks (old syllabus),4
+2022-ON,2,2,2,,Programming,"Data types, variables, constants, selection and iteration",4
+2022-ON,2,2,3,,Algorithm design and problem-solving,Validation and verification,3
+2022-ON,2,2,4,,Algorithm design and problem-solving,Test data,2
+2022-ON,2,2,5,a,Algorithm design and problem-solving,Finding and correcting errors in algorithms,4
+2022-ON,2,2,5,b,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",4
+2022-ON,2,2,6,,Algorithm design and problem-solving,Trace tables,5
+2022-ON,2,2,7,a(i),Databases,"Tables, fields, records, primary keys and data types",1
+2022-ON,2,2,7,a(ii),Databases,"Tables, fields, records, primary keys and data types",1
+2022-ON,2,2,7,b,Databases,"Queries (SQL, query-by-example in 2022)",3
+2022-ON,2,2,7,c,Databases,"Queries (SQL, query-by-example in 2022)",3
+2023-MJ,1,2,1,,Hardware,Input and output devices,3
+2023-MJ,1,2,2,a,Data representation,Number systems and conversions,4
+2023-MJ,1,2,2,b(i),Data representation,"Binary addition, overflow, shifts and two's complement",1
+2023-MJ,1,2,2,b(ii),Data representation,"Binary addition, overflow, shifts and two's complement",1
+2023-MJ,1,2,2,c,Data representation,Number systems and conversions,2
+2023-MJ,1,2,2,d,Data representation,Number systems and conversions,2
+2023-MJ,1,2,3,a,Data representation,"Representing text, sound and images",3
+2023-MJ,1,2,3,b(i),Data representation,Lossy and lossless compression,1
+2023-MJ,1,2,3,b(ii),Data representation,Lossy and lossless compression,4
+2023-MJ,1,2,3,b(iii),Data representation,Lossy and lossless compression,2
+2023-MJ,1,2,4,a(i),Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",2
+2023-MJ,1,2,4,a(ii),Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",2
+2023-MJ,1,2,4,a(iii),Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",1
+2023-MJ,1,2,4,b(i),Hardware,"Network hardware and addressing (NIC, MAC, IP, router)",1
+2023-MJ,1,2,4,b(ii),Hardware,"Primary, secondary, virtual and cloud storage",2
+2023-MJ,1,2,4,b(iii),Hardware,"Primary, secondary, virtual and cloud storage",1
+2023-MJ,1,2,5,a,Software,"Programming languages, translators and IDEs",1
+2023-MJ,1,2,5,b(i),Software,"Programming languages, translators and IDEs",3
+2023-MJ,1,2,5,b(ii),Software,"Programming languages, translators and IDEs",2
+2023-MJ,1,2,5,c,Software,"Programming languages, translators and IDEs",3
+2023-MJ,1,2,6,a,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",6
+2023-MJ,1,2,6,b,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",3
+2023-MJ,1,2,7,a,The internet and its uses,Cyber security threats,6
+2023-MJ,1,2,7,b,The internet and its uses,Cyber security threats,2
+2023-MJ,1,2,7,c,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",2
+2023-MJ,1,2,8,a,Hardware,"Network hardware and addressing (NIC, MAC, IP, router)",1
+2023-MJ,1,2,8,b,Hardware,"Network hardware and addressing (NIC, MAC, IP, router)",4
+2023-MJ,1,2,9,a,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",3
+2023-MJ,1,2,9,b,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",2
+2023-MJ,1,2,10,a,Software,"System and application software, operating system functions",4
+2023-MJ,1,2,10,b,Hardware,"Primary, secondary, virtual and cloud storage",1
+2023-MJ,2,2,1,,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",1
+2023-MJ,2,2,2,,Boolean logic,Logic gate symbols and truth tables,4
+2023-MJ,2,2,3,,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",3
+2023-MJ,2,2,4,a,Algorithm design and problem-solving,Validation and verification,3
+2023-MJ,2,2,4,b(i),Algorithm design and problem-solving,Validation and verification,1
+2023-MJ,2,2,4,b(ii),Algorithm design and problem-solving,Validation and verification,3
+2023-MJ,2,2,5,,Programming,File handling,5
+2023-MJ,2,2,6,,Programming,Maintainable programs,6
+2023-MJ,2,2,7,a,Programming,"Data types, variables, constants, selection and iteration",3
+2023-MJ,2,2,7,b,Algorithm design and problem-solving,Finding and correcting errors in algorithms,3
+2023-MJ,2,2,7,c,Algorithm design and problem-solving,Validation and verification,4
+2023-MJ,2,2,8,,Boolean logic,"Logic circuits, expressions and problem statements",4
+2023-MJ,2,2,9,a,Algorithm design and problem-solving,Trace tables,5
+2023-MJ,2,2,9,b,Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",2
+2023-MJ,2,2,10,a,Databases,"Tables, fields, records, primary keys and data types",1
+2023-MJ,2,2,10,b,Databases,"Tables, fields, records, primary keys and data types",2
+2023-MJ,2,2,10,c,Databases,"Queries (SQL, query-by-example in 2022)",3
+2023-MJ,2,2,11,a,Programming,"Data types, variables, constants, selection and iteration",2
+2023-MJ,2,2,11,b,Programming,String handling and operators,4
+2023-MJ,2,2,11,c,Programming,String handling and operators,1
+2023-MJ,2,2,12,,Programming,Extended programming task (15-mark scenario),15
+2023-ON,1,2,1,a,The internet and its uses,Cyber security threats,1
+2023-ON,1,2,1,b,The internet and its uses,Cyber security threats,1
+2023-ON,1,2,1,c,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",1
+2023-ON,1,2,2,a,Data representation,Number systems and conversions,1
+2023-ON,1,2,2,b,Data representation,Number systems and conversions,2
+2023-ON,1,2,2,c,Data representation,"Binary addition, overflow, shifts and two's complement",1
+2023-ON,1,2,2,d,Data representation,"Binary addition, overflow, shifts and two's complement",2
+2023-ON,1,2,2,e,Data representation,"Binary addition, overflow, shifts and two's complement",4
+2023-ON,1,2,3,a(i),Hardware,"CPU performance, cores, cache and embedded systems",1
+2023-ON,1,2,3,a(ii),Hardware,"CPU performance, cores, cache and embedded systems",2
+2023-ON,1,2,3,b,Hardware,CPU components and the fetch-decode-execute cycle,2
+2023-ON,1,2,3,c,Hardware,CPU components and the fetch-decode-execute cycle,1
+2023-ON,1,2,4,a,Hardware,"CPU performance, cores, cache and embedded systems",2
+2023-ON,1,2,4,b,Hardware,"CPU performance, cores, cache and embedded systems",3
+2023-ON,1,2,5,a,Data representation,"Representing text, sound and images",1
+2023-ON,1,2,5,b,Data representation,"Representing text, sound and images",1
+2023-ON,1,2,5,c,Data representation,"Representing text, sound and images",2
+2023-ON,1,2,5,d,Data representation,Lossy and lossless compression,1
+2023-ON,1,2,6,,Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",4
+2023-ON,1,2,7,a,Hardware,Input and output devices,2
+2023-ON,1,2,7,b,Hardware,Sensors and microprocessor control,6
+2023-ON,1,2,8,a,The internet and its uses,Cyber security threats,4
+2023-ON,1,2,8,b,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",2
+2023-ON,1,2,9,,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",6
+2023-ON,1,2,10,a,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",1
+2023-ON,1,2,10,b,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",6
+2023-ON,1,2,11,a,Hardware,Sensors and microprocessor control,1
+2023-ON,1,2,11,b,Automated and emerging technologies,Automated systems,2
+2023-ON,1,2,11,c,Automated and emerging technologies,Automated systems,2
+2023-ON,1,2,12,a,The internet and its uses,Digital currency and blockchain,2
+2023-ON,1,2,12,b,The internet and its uses,Digital currency and blockchain,1
+2023-ON,1,2,13,a(i),Hardware,"Primary, secondary, virtual and cloud storage",1
+2023-ON,1,2,13,a(ii),Hardware,"Primary, secondary, virtual and cloud storage",1
+2023-ON,1,2,13,b,Hardware,"Primary, secondary, virtual and cloud storage",5
+2023-ON,2,2,1,,Algorithm design and problem-solving,Validation and verification,1
+2023-ON,2,2,2,a,Algorithm design and problem-solving,Validation and verification,1
+2023-ON,2,2,2,b,Algorithm design and problem-solving,Test data,4
+2023-ON,2,2,2,c,Algorithm design and problem-solving,Validation and verification,2
+2023-ON,2,2,3,a,Programming,"Data types, variables, constants, selection and iteration",4
+2023-ON,2,2,3,b,Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",4
+2023-ON,2,2,4,a,Algorithm design and problem-solving,Finding and correcting errors in algorithms,4
+2023-ON,2,2,4,b,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",5
+2023-ON,2,2,5,,Programming,"Data types, variables, constants, selection and iteration",3
+2023-ON,2,2,6,a,Algorithm design and problem-solving,Trace tables,5
+2023-ON,2,2,6,b,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",2
+2023-ON,2,2,7,,Programming,String handling and operators,5
+2023-ON,2,2,8,,Programming,"Procedures, functions and library routines",4
+2023-ON,2,2,9,a,Boolean logic,"Logic circuits, expressions and problem statements",4
+2023-ON,2,2,9,b,Boolean logic,"Logic circuits, expressions and problem statements",4
+2023-ON,2,2,10,a,Databases,"Tables, fields, records, primary keys and data types",1
+2023-ON,2,2,10,b,Databases,"Tables, fields, records, primary keys and data types",2
+2023-ON,2,2,10,c,Databases,"Tables, fields, records, primary keys and data types",2
+2023-ON,2,2,10,d,Databases,"Queries (SQL, query-by-example in 2022)",3
+2023-ON,2,2,11,,Programming,Extended programming task (15-mark scenario),15
+2024-MJ,1,2,1,a,Data representation,Data storage units and file size calculations,1
+2024-MJ,1,2,1,b,Data representation,Data storage units and file size calculations,1
+2024-MJ,1,2,1,c,Data representation,Data storage units and file size calculations,1
+2024-MJ,1,2,1,d,Data representation,Data storage units and file size calculations,3
+2024-MJ,1,2,2,a,Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",1
+2024-MJ,1,2,2,b,Data transmission,Packets and packet switching,1
+2024-MJ,1,2,2,c(i),Data transmission,Symmetric and asymmetric encryption,4
+2024-MJ,1,2,2,c(ii),Data transmission,Symmetric and asymmetric encryption,1
+2024-MJ,1,2,3,a,Data representation,Number systems and conversions,1
+2024-MJ,1,2,3,b(i),Data representation,Number systems and conversions,3
+2024-MJ,1,2,3,b(ii),Data representation,Number systems and conversions,2
+2024-MJ,1,2,3,c,Data representation,"Binary addition, overflow, shifts and two's complement",3
+2024-MJ,1,2,3,d,Data representation,"Binary addition, overflow, shifts and two's complement",2
+2024-MJ,1,2,4,a,Software,"System and application software, operating system functions",1
+2024-MJ,1,2,4,b,Software,"System and application software, operating system functions",2
+2024-MJ,1,2,4,c,Software,"System and application software, operating system functions",2
+2024-MJ,1,2,5,a,Hardware,CPU components and the fetch-decode-execute cycle,7
+2024-MJ,1,2,5,b,Hardware,CPU components and the fetch-decode-execute cycle,1
+2024-MJ,1,2,6,,Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",5
+2024-MJ,1,2,7,a,Hardware,"Network hardware and addressing (NIC, MAC, IP, router)",1
+2024-MJ,1,2,7,b(i),Hardware,"Network hardware and addressing (NIC, MAC, IP, router)",1
+2024-MJ,1,2,7,b(ii),Hardware,"Network hardware and addressing (NIC, MAC, IP, router)",2
+2024-MJ,1,2,8,a,The internet and its uses,Cyber security threats,5
+2024-MJ,1,2,8,b,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",1
+2024-MJ,1,2,9,a,Hardware,"Primary, secondary, virtual and cloud storage",2
+2024-MJ,1,2,9,b,Hardware,"Primary, secondary, virtual and cloud storage",6
+2024-MJ,1,2,10,a,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",2
+2024-MJ,1,2,10,b,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",5
+2024-MJ,1,2,11,a,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",2
+2024-MJ,1,2,11,b,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",3
+2024-MJ,1,2,11,c,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",3
+2024-MJ,2,2,1,,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",1
+2024-MJ,2,2,2,,Boolean logic,Logic gate symbols and truth tables,4
+2024-MJ,2,2,3,,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",3
+2024-MJ,2,2,4,a,Algorithm design and problem-solving,Validation and verification,6
+2024-MJ,2,2,4,b(i),Algorithm design and problem-solving,Validation and verification,2
+2024-MJ,2,2,4,b(ii),Algorithm design and problem-solving,Validation and verification,2
+2024-MJ,2,2,5,,Programming,String handling and operators,6
+2024-MJ,2,2,6,a,Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",4
+2024-MJ,2,2,6,b,Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",4
+2024-MJ,2,2,7,a,Programming,"Data types, variables, constants, selection and iteration",3
+2024-MJ,2,2,7,b,Algorithm design and problem-solving,Finding and correcting errors in algorithms,3
+2024-MJ,2,2,8,a,Boolean logic,"Logic circuits, expressions and problem statements",3
+2024-MJ,2,2,8,b,Boolean logic,"Logic circuits, expressions and problem statements",4
+2024-MJ,2,2,9,a,Algorithm design and problem-solving,Trace tables,5
+2024-MJ,2,2,9,b,Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",2
+2024-MJ,2,2,10,a,Databases,"Tables, fields, records, primary keys and data types",1
+2024-MJ,2,2,10,b,Databases,"Tables, fields, records, primary keys and data types",2
+2024-MJ,2,2,10,c,Databases,"Queries (SQL, query-by-example in 2022)",3
+2024-MJ,2,2,10,d,Databases,"Queries (SQL, query-by-example in 2022)",2
+2024-MJ,2,2,11,,Programming,Extended programming task (15-mark scenario),15
+2024-ON,1,2,1,a,Software,"System and application software, operating system functions",1
+2024-ON,1,2,1,b,Software,"System and application software, operating system functions",1
+2024-ON,1,2,1,c,Software,"System and application software, operating system functions",1
+2024-ON,1,2,2,a,Data representation,Data storage units and file size calculations,1
+2024-ON,1,2,2,b,Data representation,Data storage units and file size calculations,1
+2024-ON,1,2,2,c,Data representation,Data storage units and file size calculations,3
+2024-ON,1,2,2,d(i),Data representation,Lossy and lossless compression,1
+2024-ON,1,2,2,d(ii),Data representation,Lossy and lossless compression,1
+2024-ON,1,2,3,a(i),Data representation,Number systems and conversions,1
+2024-ON,1,2,3,a(ii),Data representation,Number systems and conversions,2
+2024-ON,1,2,3,b,Data representation,Number systems and conversions,3
+2024-ON,1,2,3,c,Data representation,Number systems and conversions,3
+2024-ON,1,2,3,d(i),Data representation,"Binary addition, overflow, shifts and two's complement",2
+2024-ON,1,2,3,d(ii),Data representation,"Binary addition, overflow, shifts and two's complement",1
+2024-ON,1,2,3,e,Data representation,"Binary addition, overflow, shifts and two's complement",1
+2024-ON,1,2,4,a,Hardware,Input and output devices,2
+2024-ON,1,2,4,b,Hardware,Input and output devices,1
+2024-ON,1,2,4,c,Hardware,"Primary, secondary, virtual and cloud storage",2
+2024-ON,1,2,4,d(i),Hardware,"Primary, secondary, virtual and cloud storage",2
+2024-ON,1,2,4,d(ii),Hardware,"Primary, secondary, virtual and cloud storage",4
+2024-ON,1,2,4,e,Hardware,"CPU performance, cores, cache and embedded systems",2
+2024-ON,1,2,5,a,Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",4
+2024-ON,1,2,5,b(i),Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",3
+2024-ON,1,2,5,b(ii),Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",3
+2024-ON,1,2,5,b(iii),Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",2
+2024-ON,1,2,6,,Hardware,CPU components and the fetch-decode-execute cycle,6
+2024-ON,1,2,7,a,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",1
+2024-ON,1,2,7,b,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",2
+2024-ON,1,2,7,c,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",1
+2024-ON,1,2,7,d,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",5
+2024-ON,1,2,7,e,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",5
+2024-ON,1,2,8,a,Hardware,Sensors and microprocessor control,1
+2024-ON,1,2,8,b,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",3
+2024-ON,1,2,8,c,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",3
+2024-ON,2,2,1,,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",1
+2024-ON,2,2,2,,Programming,"Data types, variables, constants, selection and iteration",1
+2024-ON,2,2,3,a,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",4
+2024-ON,2,2,3,b,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",6
+2024-ON,2,2,4,a,Algorithm design and problem-solving,Finding and correcting errors in algorithms,5
+2024-ON,2,2,4,b,Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",3
+2024-ON,2,2,5,a,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",1
+2024-ON,2,2,5,b,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",3
+2024-ON,2,2,6,,Algorithm design and problem-solving,Validation and verification,2
+2024-ON,2,2,7,a,Algorithm design and problem-solving,Trace tables,5
+2024-ON,2,2,7,b,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",1
+2024-ON,2,2,7,c,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",2
+2024-ON,2,2,8,,Algorithm design and problem-solving,Test data,4
+2024-ON,2,2,9,a,Boolean logic,"Logic circuits, expressions and problem statements",4
+2024-ON,2,2,9,b,Boolean logic,"Logic circuits, expressions and problem statements",4
+2024-ON,2,2,10,,Programming,File handling,6
+2024-ON,2,2,11,a,Databases,"Tables, fields, records, primary keys and data types",2
+2024-ON,2,2,11,b,Databases,"Tables, fields, records, primary keys and data types",1
+2024-ON,2,2,11,c,Databases,"Tables, fields, records, primary keys and data types",2
+2024-ON,2,2,11,d,Databases,"Queries (SQL, query-by-example in 2022)",3
+2024-ON,2,2,12,,Programming,Extended programming task (15-mark scenario),15
+2025-MJ,1,2,1,a,Hardware,"Primary, secondary, virtual and cloud storage",1
+2025-MJ,1,2,1,b,Hardware,"Primary, secondary, virtual and cloud storage",1
+2025-MJ,1,2,1,c,Data representation,Number systems and conversions,2
+2025-MJ,1,2,1,d,Data representation,Number systems and conversions,2
+2025-MJ,1,2,1,e,Data representation,"Binary addition, overflow, shifts and two's complement",3
+2025-MJ,1,2,1,f,Data representation,"Binary addition, overflow, shifts and two's complement",2
+2025-MJ,1,2,1,g,Data representation,"Binary addition, overflow, shifts and two's complement",2
+2025-MJ,1,2,2,a,Hardware,Input and output devices,1
+2025-MJ,1,2,2,b(i),Data representation,Data storage units and file size calculations,1
+2025-MJ,1,2,2,b(ii),Data representation,Data storage units and file size calculations,1
+2025-MJ,1,2,2,c(i),Data representation,"Representing text, sound and images",1
+2025-MJ,1,2,2,c(ii),Data representation,"Representing text, sound and images",2
+2025-MJ,1,2,2,d,Data representation,Lossy and lossless compression,3
+2025-MJ,1,2,3,a,Software,"Programming languages, translators and IDEs",2
+2025-MJ,1,2,3,b(i),Software,"Programming languages, translators and IDEs",5
+2025-MJ,1,2,3,b(ii),Software,"Programming languages, translators and IDEs",4
+2025-MJ,1,2,3,c(i),Hardware,Input and output devices,1
+2025-MJ,1,2,3,c(ii),Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",6
+2025-MJ,1,2,3,c(iii),Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",4
+2025-MJ,1,2,4,a,Hardware,CPU components and the fetch-decode-execute cycle,6
+2025-MJ,1,2,4,b,Hardware,"CPU performance, cores, cache and embedded systems",2
+2025-MJ,1,2,5,a,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",3
+2025-MJ,1,2,5,b(i),Automated and emerging technologies,Robotics,2
+2025-MJ,1,2,5,b(ii),Automated and emerging technologies,Robotics,4
+2025-MJ,1,2,5,b(iii),Automated and emerging technologies,Robotics,2
+2025-MJ,1,2,5,c(i),The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",6
+2025-MJ,1,2,5,c(ii),The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",6
+2025-MJ,2,2,1,,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",1
+2025-MJ,2,2,2,,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",3
+2025-MJ,2,2,3,,Algorithm design and problem-solving,Test data,4
+2025-MJ,2,2,4,a,Algorithm design and problem-solving,Validation and verification,1
+2025-MJ,2,2,4,b,Algorithm design and problem-solving,Validation and verification,6
+2025-MJ,2,2,5,a,Algorithm design and problem-solving,Finding and correcting errors in algorithms,5
+2025-MJ,2,2,5,b,Programming,"Procedures, functions and library routines",2
+2025-MJ,2,2,5,c,Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",4
+2025-MJ,2,2,6,a,Algorithm design and problem-solving,Trace tables,6
+2025-MJ,2,2,6,b,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",1
+2025-MJ,2,2,6,c,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",3
+2025-MJ,2,2,7,a,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",6
+2025-MJ,2,2,7,b,Programming,Arrays,4
+2025-MJ,2,2,8,a,Boolean logic,Logic gate symbols and truth tables,2
+2025-MJ,2,2,8,b(i),Boolean logic,"Logic circuits, expressions and problem statements",2
+2025-MJ,2,2,8,b(ii),Boolean logic,"Logic circuits, expressions and problem statements",4
+2025-MJ,2,2,9,a,Databases,"Tables, fields, records, primary keys and data types",2
+2025-MJ,2,2,9,b,Databases,"Queries (SQL, query-by-example in 2022)",4
+2025-MJ,2,2,10,,Programming,Extended programming task (15-mark scenario),15
+2025-ON,1,2,1,a,Data representation,Number systems and conversions,1
+2025-ON,1,2,1,b,Data representation,Number systems and conversions,1
+2025-ON,1,2,1,c,Data representation,Number systems and conversions,2
+2025-ON,1,2,1,d,Data representation,Number systems and conversions,2
+2025-ON,1,2,1,e(i),Hardware,CPU components and the fetch-decode-execute cycle,1
+2025-ON,1,2,1,e(ii),Hardware,Input and output devices,1
+2025-ON,1,2,1,e(iii),Hardware,Sensors and microprocessor control,1
+2025-ON,1,2,1,e(iv),Hardware,"Primary, secondary, virtual and cloud storage",4
+2025-ON,1,2,2,a,Data representation,"Binary addition, overflow, shifts and two's complement",4
+2025-ON,1,2,2,b,Data representation,"Binary addition, overflow, shifts and two's complement",3
+2025-ON,1,2,3,a,Software,"Programming languages, translators and IDEs",2
+2025-ON,1,2,3,b,Software,"Programming languages, translators and IDEs",1
+2025-ON,1,2,3,c,Software,"Programming languages, translators and IDEs",1
+2025-ON,1,2,4,a,Hardware,CPU components and the fetch-decode-execute cycle,5
+2025-ON,1,2,4,b,Hardware,"CPU performance, cores, cache and embedded systems",2
+2025-ON,1,2,4,c,Hardware,"CPU performance, cores, cache and embedded systems",4
+2025-ON,1,2,5,a,Software,Interrupts,1
+2025-ON,1,2,5,b,Software,Interrupts,4
+2025-ON,1,2,5,c(i),Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",2
+2025-ON,1,2,5,c(ii),Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",2
+2025-ON,1,2,5,c(iii),Data transmission,"Transmission methods (serial/parallel, simplex/duplex, USB)",1
+2025-ON,1,2,6,a,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",3
+2025-ON,1,2,6,b,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",3
+2025-ON,1,2,6,c,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",5
+2025-ON,1,2,6,d,The internet and its uses,"Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",3
+2025-ON,1,2,7,a,Automated and emerging technologies,Robotics,3
+2025-ON,1,2,7,b,Hardware,Input and output devices,1
+2025-ON,1,2,7,c,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",4
+2025-ON,1,2,7,d,Hardware,"CPU performance, cores, cache and embedded systems",2
+2025-ON,1,2,7,e,Hardware,"Primary, secondary, virtual and cloud storage",2
+2025-ON,1,2,7,f(i),Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",2
+2025-ON,1,2,7,f(ii),Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",2
+2025-ON,2,2,1,,Programming,String handling and operators,1
+2025-ON,2,2,2,a,Algorithm design and problem-solving,Finding and correcting errors in algorithms,5
+2025-ON,2,2,2,b(i),Programming,"Procedures, functions and library routines",4
+2025-ON,2,2,2,b(ii),Programming,"Procedures, functions and library routines",2
+2025-ON,2,2,2,c(i),Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",2
+2025-ON,2,2,2,c(ii),Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",2
+2025-ON,2,2,3,,Algorithm design and problem-solving,Test data,6
+2025-ON,2,2,4,a,Algorithm design and problem-solving,Validation and verification,1
+2025-ON,2,2,4,b,Programming,String handling and operators,6
+2025-ON,2,2,5,a,Algorithm design and problem-solving,Trace tables,6
+2025-ON,2,2,5,b,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",3
+2025-ON,2,2,5,c,Programming,Arrays,4
+2025-ON,2,2,6,a,Boolean logic,"Logic circuits, expressions and problem statements",4
+2025-ON,2,2,6,b,Boolean logic,"Logic circuits, expressions and problem statements",4
+2025-ON,2,2,7,a,Databases,"Tables, fields, records, primary keys and data types",1
+2025-ON,2,2,7,b,Databases,"Tables, fields, records, primary keys and data types",2
+2025-ON,2,2,7,c,Databases,"Queries (SQL, query-by-example in 2022)",3
+2025-ON,2,2,7,d,Databases,"Queries (SQL, query-by-example in 2022)",4
+2025-ON,2,2,8,,Programming,Extended programming task (15-mark scenario),15
+2026-MJ,1,2,1,a,Hardware,Input and output devices,1
+2026-MJ,1,2,1,b,Data representation,Data storage units and file size calculations,1
+2026-MJ,1,2,1,c(i),Data representation,"Binary addition, overflow, shifts and two's complement",1
+2026-MJ,1,2,1,c(ii),Data representation,"Binary addition, overflow, shifts and two's complement",1
+2026-MJ,1,2,1,c(iii),Data representation,"Binary addition, overflow, shifts and two's complement",1
+2026-MJ,1,2,1,d,Hardware,Sensors and microprocessor control,1
+2026-MJ,1,2,2,a,Hardware,CPU components and the fetch-decode-execute cycle,1
+2026-MJ,1,2,2,b,Hardware,CPU components and the fetch-decode-execute cycle,2
+2026-MJ,1,2,2,c,Hardware,CPU components and the fetch-decode-execute cycle,3
+2026-MJ,1,2,2,d,Hardware,"CPU performance, cores, cache and embedded systems",2
+2026-MJ,1,2,3,a,Data representation,Number systems and conversions,1
+2026-MJ,1,2,3,b,Data representation,Number systems and conversions,2
+2026-MJ,1,2,3,c,Data representation,Number systems and conversions,2
+2026-MJ,1,2,3,d,Data representation,Number systems and conversions,2
+2026-MJ,1,2,3,e(i),Data transmission,Packets and packet switching,2
+2026-MJ,1,2,3,e(ii),Data transmission,Packets and packet switching,3
+2026-MJ,1,2,3,f(i),Hardware,"Primary, secondary, virtual and cloud storage",2
+2026-MJ,1,2,3,f(ii),Hardware,"Primary, secondary, virtual and cloud storage",1
+2026-MJ,1,2,3,g(i),Data representation,Lossy and lossless compression,2
+2026-MJ,1,2,3,g(ii),Data representation,Lossy and lossless compression,1
+2026-MJ,1,2,3,g(iii),Data representation,Lossy and lossless compression,4
+2026-MJ,1,2,4,a,Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",3
+2026-MJ,1,2,4,b(i),Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",2
+2026-MJ,1,2,4,b(ii),Data transmission,"Error detection (parity, checksum, echo check, check digit, ARQ)",2
+2026-MJ,1,2,4,c(i),Data transmission,Symmetric and asymmetric encryption,1
+2026-MJ,1,2,4,c(ii),Data transmission,Symmetric and asymmetric encryption,1
+2026-MJ,1,2,4,c(iii),Data transmission,Symmetric and asymmetric encryption,1
+2026-MJ,1,2,5,a,The internet and its uses,Cyber security threats,5
+2026-MJ,1,2,5,b,The internet and its uses,"Security solutions (SSL, firewalls, proxy servers, backups)",5
+2026-MJ,1,2,6,a,Data representation,"Representing text, sound and images",3
+2026-MJ,1,2,6,b,Automated and emerging technologies,"Artificial intelligence, expert systems and machine learning",4
+2026-MJ,1,2,6,c(i),Hardware,"Primary, secondary, virtual and cloud storage",1
+2026-MJ,1,2,6,c(ii),Hardware,"Primary, secondary, virtual and cloud storage",2
+2026-MJ,1,2,7,a,Software,"Programming languages, translators and IDEs",1
+2026-MJ,1,2,7,b,Software,"Programming languages, translators and IDEs",2
+2026-MJ,1,2,7,c,Software,"Programming languages, translators and IDEs",1
+2026-MJ,1,2,7,d,Software,"Programming languages, translators and IDEs",2
+2026-MJ,1,2,7,e,Software,"Programming languages, translators and IDEs",3
+2026-MJ,2,2,1,,Programming,"Data types, variables, constants, selection and iteration",1
+2026-MJ,2,2,2,,Programming,"Data types, variables, constants, selection and iteration",1
+2026-MJ,2,2,3,a(i),Algorithm design and problem-solving,Validation and verification,1
+2026-MJ,2,2,3,a(ii),Algorithm design and problem-solving,Validation and verification,1
+2026-MJ,2,2,3,b,Algorithm design and problem-solving,Validation and verification,3
+2026-MJ,2,2,3,c,Algorithm design and problem-solving,Validation and verification,6
+2026-MJ,2,2,4,,Algorithm design and problem-solving,"Program development life cycle, decomposition and design methods",6
+2026-MJ,2,2,5,a,Algorithm design and problem-solving,Finding and correcting errors in algorithms,4
+2026-MJ,2,2,5,b,Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",1
+2026-MJ,2,2,5,c,Algorithm design and problem-solving,"Standard methods (totalling, counting, max/min, linear search, bubble sort)",5
+2026-MJ,2,2,6,a,Algorithm design and problem-solving,Trace tables,6
+2026-MJ,2,2,6,b,Algorithm design and problem-solving,"Writing, completing and explaining algorithms and flowcharts",1
+2026-MJ,2,2,7,a,Programming,File handling,1
+2026-MJ,2,2,7,b,Programming,File handling,4
+2026-MJ,2,2,8,a,Boolean logic,"Logic circuits, expressions and problem statements",5
+2026-MJ,2,2,8,b,Boolean logic,"Logic circuits, expressions and problem statements",4
+2026-MJ,2,2,9,a,Databases,"Tables, fields, records, primary keys and data types",4
+2026-MJ,2,2,9,b,Databases,"Queries (SQL, query-by-example in 2022)",4
+2026-MJ,2,2,9,c,Databases,"Tables, fields, records, primary keys and data types",2
+2026-MJ,2,2,10,,Programming,Extended programming task (15-mark scenario),15

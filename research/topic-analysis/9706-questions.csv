@@ -1,0 +1,701 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,,Accounting concepts and principles,Accounting concepts,1
+2022-MJ,1,2,2,,Accounting for non-current assets,Depreciation methods and calculation,1
+2022-MJ,1,2,3,,Accounting for non-current assets,Depreciation methods and calculation,1
+2022-MJ,1,2,4,,Accounting for non-current assets,Disposals and part-exchange,1
+2022-MJ,1,2,5,,Reconciliation and verification,Control accounts,1
+2022-MJ,1,2,6,,Reconciliation and verification,Bank reconciliation,1
+2022-MJ,1,2,7,,Reconciliation and verification,Control accounts,1
+2022-MJ,1,2,8,,Financial statements of sole traders,Inventory valuation (NRV),1
+2022-MJ,1,2,9,,Financial statements of sole traders,Accruals and prepayments,1
+2022-MJ,1,2,10,,Financial statements of sole traders,Adjustments to draft statements,1
+2022-MJ,1,2,11,,Financial statements of sole traders,Statement of profit or loss and SOFP,1
+2022-MJ,1,2,12,,Incomplete records,Mark-up and margin,1
+2022-MJ,1,2,13,,Incomplete records,Missing figures and statements from incomplete records,1
+2022-MJ,1,2,14,,Partnership accounts,Partnership Act and agreements,1
+2022-MJ,1,2,15,,Partnership accounts,"Admission, retirement and goodwill",1
+2022-MJ,1,2,16,,Partnership accounts,Appropriation and current accounts,1
+2022-MJ,1,2,17,,Limited company accounts,Statement of changes in equity,1
+2022-MJ,1,2,18,,Limited company accounts,Reserves and equity,1
+2022-MJ,1,2,19,,Limited company accounts,Share issues (bonus and rights),1
+2022-MJ,1,2,20,,Incomplete records,Mark-up and margin,1
+2022-MJ,1,2,21,,Analysis and communication of accounting information,Liquidity ratios,1
+2022-MJ,1,2,22,,Costing for materials and labour,Inventory valuation (FIFO and AVCO),1
+2022-MJ,1,2,23,,Costing for materials and labour,Cost classification and behaviour,1
+2022-MJ,1,2,24,,Absorption costing,Purpose and features of absorption costing,1
+2022-MJ,1,2,25,,Marginal costing and CVP analysis,Marginal versus absorption profit,1
+2022-MJ,1,2,26,,Marginal costing and CVP analysis,Break-even and margin of safety,1
+2022-MJ,1,2,27,,Marginal costing and CVP analysis,Contribution and target profit,1
+2022-MJ,1,2,28,,Marginal costing and CVP analysis,Marginal costing decisions,1
+2022-MJ,1,2,29,,Marginal costing and CVP analysis,Break-even and margin of safety,1
+2022-MJ,1,2,30,,Budgeting and budgetary control,Purpose of budgeting,1
+2022-MJ,2,2,1,a,Partnership accounts,Partnership statement of profit or loss,9
+2022-MJ,2,2,1,b,Partnership accounts,Appropriation and current accounts,4
+2022-MJ,2,2,1,c,Partnership accounts,Appropriation and current accounts,6
+2022-MJ,2,2,1,d,The accounting cycle,Types of business organisation,2
+2022-MJ,2,2,1,e,The accounting cycle,Types of business organisation,4
+2022-MJ,2,2,1,f,Analysis and communication of accounting information,Performance evaluation and advice,5
+2022-MJ,2,2,2,a,Accounting for non-current assets,Depreciation methods and calculation,2
+2022-MJ,2,2,2,b,Accounting concepts and principles,Accounting concepts,2
+2022-MJ,2,2,2,c,Accounting for non-current assets,Revaluation,3
+2022-MJ,2,2,2,d,Accounting for non-current assets,Depreciation methods and calculation,4
+2022-MJ,2,2,2,e,Accounting for non-current assets,Disposals and part-exchange,4
+2022-MJ,2,2,3,a(i),Analysis and communication of accounting information,Efficiency ratios,3
+2022-MJ,2,2,3,a(ii),Analysis and communication of accounting information,Efficiency ratios,3
+2022-MJ,2,2,3,a(iii),Analysis and communication of accounting information,Profitability ratios,3
+2022-MJ,2,2,3,a(iv),Analysis and communication of accounting information,Efficiency ratios,2
+2022-MJ,2,2,3,b,Analysis and communication of accounting information,Efficiency ratios,2
+2022-MJ,2,2,3,c,Analysis and communication of accounting information,Users of accounting information,2
+2022-MJ,2,2,4,a(i),Absorption costing,Overhead allocation and apportionment,2
+2022-MJ,2,2,4,a(ii),Absorption costing,Overhead allocation and apportionment,2
+2022-MJ,2,2,4,b,Absorption costing,Purpose and features of absorption costing,1
+2022-MJ,2,2,4,c,Absorption costing,Purpose and features of absorption costing,1
+2022-MJ,2,2,4,d,Absorption costing,Overhead allocation and apportionment,3
+2022-MJ,2,2,4,e(i),Absorption costing,Overhead absorption rates,2
+2022-MJ,2,2,4,e(ii),Absorption costing,Overhead absorption rates,2
+2022-MJ,2,2,4,f,Absorption costing,Under- and over-absorption,3
+2022-MJ,2,2,4,g(i),Absorption costing,Pricing and decisions,4
+2022-MJ,2,2,4,g(ii),Absorption costing,Pricing and decisions,3
+2022-MJ,2,2,4,h,Absorption costing,Pricing and decisions,7
+2022-MJ,3,2,1,a,Clubs and societies,Club accounts principles and decisions,2
+2022-MJ,3,2,1,b,Clubs and societies,Income and expenditure account,4
+2022-MJ,3,2,1,c,Clubs and societies,Income and expenditure account,12
+2022-MJ,3,2,1,d,Clubs and societies,Club accounts principles and decisions,7
+2022-MJ,3,2,2,a,Company financial statements and IAS adjustments,Corrections and draft profit adjustments,8
+2022-MJ,3,2,2,b(i),Company financial statements and IAS adjustments,Corrections and draft profit adjustments,3
+2022-MJ,3,2,2,b(ii),Company financial statements and IAS adjustments,Corrections and draft profit adjustments,3
+2022-MJ,3,2,2,c,Limited company accounts,Share issues (bonus and rights),2
+2022-MJ,3,2,2,d,Limited company accounts,Statement of changes in equity,9
+2022-MJ,3,2,3,a,Analysis and communication of accounting information,Users of accounting information,4
+2022-MJ,3,2,3,b(i),Analysis and communication of accounting information,Investment and gearing ratios,2
+2022-MJ,3,2,3,b(ii),Analysis and communication of accounting information,Investment and gearing ratios,2
+2022-MJ,3,2,3,b(iii),Analysis and communication of accounting information,Investment and gearing ratios,2
+2022-MJ,3,2,3,b(iv),Analysis and communication of accounting information,Investment and gearing ratios,4
+2022-MJ,3,2,3,b(v),Analysis and communication of accounting information,Profitability ratios,2
+2022-MJ,3,2,3,c,Analysis and communication of accounting information,Performance evaluation and advice,4
+2022-MJ,3,2,3,d,Analysis and communication of accounting information,Performance evaluation and advice,5
+2022-MJ,3,2,4,a,Business purchase and merger,Partnership or sole trader acquired by a company,6
+2022-MJ,3,2,4,b,Business purchase and merger,Partnership or sole trader acquired by a company,5
+2022-MJ,3,2,4,c,Business purchase and merger,Partnership or sole trader acquired by a company,3
+2022-MJ,3,2,4,d,Business purchase and merger,Goodwill and purchase consideration,2
+2022-MJ,3,2,4,e,Business purchase and merger,Goodwill and purchase consideration,6
+2022-MJ,3,2,4,f,Business purchase and merger,Goodwill and purchase consideration,3
+2022-MJ,3,2,5,a,Budgeting and budgetary control,Purpose of budgeting,2
+2022-MJ,3,2,5,b,Budgeting and budgetary control,Cash budgets,11
+2022-MJ,3,2,5,c,Budgeting and budgetary control,Functional and master budgets,5
+2022-MJ,3,2,5,d,Budgeting and budgetary control,Cash budgets,5
+2022-MJ,3,2,5,e,Budgeting and budgetary control,Cash budgets,2
+2022-MJ,3,2,6,a,Investment appraisal,Net cash flows,4
+2022-MJ,3,2,6,b(i),Investment appraisal,Net present value,4
+2022-MJ,3,2,6,b(ii),Investment appraisal,Internal rate of return,4
+2022-MJ,3,2,6,c,Investment appraisal,Investment decision and sensitivity,3
+2022-MJ,3,2,6,d,Investment appraisal,Investment decision and sensitivity,3
+2022-MJ,3,2,6,e,Investment appraisal,Investment decision and sensitivity,7
+2022-ON,1,2,1,,The accounting cycle,Double entry and books of prime entry,1
+2022-ON,1,2,2,,The accounting cycle,Capital and revenue expenditure,1
+2022-ON,1,2,3,,Accounting for non-current assets,Disposals and part-exchange,1
+2022-ON,1,2,4,,Accounting for non-current assets,Depreciation methods and calculation,1
+2022-ON,1,2,5,,Reconciliation and verification,Correction of errors and suspense account,1
+2022-ON,1,2,6,,Reconciliation and verification,Control accounts,1
+2022-ON,1,2,7,,Reconciliation and verification,Correction of errors and suspense account,1
+2022-ON,1,2,8,,Financial statements of sole traders,Adjustments to draft statements,1
+2022-ON,1,2,9,,Financial statements of sole traders,Inventory valuation (NRV),1
+2022-ON,1,2,10,,Financial statements of sole traders,Accruals and prepayments,1
+2022-ON,1,2,11,,Financial statements of sole traders,Accruals and prepayments,1
+2022-ON,1,2,12,,Incomplete records,Missing figures and statements from incomplete records,1
+2022-ON,1,2,13,,Incomplete records,Missing figures and statements from incomplete records,1
+2022-ON,1,2,14,,Partnership accounts,Appropriation and current accounts,1
+2022-ON,1,2,15,,Partnership accounts,"Admission, retirement and goodwill",1
+2022-ON,1,2,16,,Partnership accounts,Question withdrawn (marks credited),1
+2022-ON,1,2,17,,Limited company accounts,Statement of profit or loss and SOFP,1
+2022-ON,1,2,18,,Limited company accounts,Statement of profit or loss and SOFP,1
+2022-ON,1,2,19,,Limited company accounts,Statement of changes in equity,1
+2022-ON,1,2,20,,Analysis and communication of accounting information,Profitability ratios,1
+2022-ON,1,2,21,,Analysis and communication of accounting information,Efficiency ratios,1
+2022-ON,1,2,22,,Costing for materials and labour,Labour remuneration,1
+2022-ON,1,2,23,,Costing for materials and labour,Inventory valuation (FIFO and AVCO),1
+2022-ON,1,2,24,,Absorption costing,Overhead allocation and apportionment,1
+2022-ON,1,2,25,,Absorption costing,Purpose and features of absorption costing,1
+2022-ON,1,2,26,,Marginal costing and CVP analysis,Break-even and margin of safety,1
+2022-ON,1,2,27,,Marginal costing and CVP analysis,Contribution and target profit,1
+2022-ON,1,2,28,,Marginal costing and CVP analysis,Contribution and target profit,1
+2022-ON,1,2,29,,Marginal costing and CVP analysis,Break-even and margin of safety,1
+2022-ON,1,2,30,,Budgeting and budgetary control,Purpose of budgeting,1
+2022-ON,2,2,1,a,Limited company accounts,Share issues (bonus and rights),3
+2022-ON,2,2,1,b,Accounting for non-current assets,Depreciation methods and calculation,4
+2022-ON,2,2,1,c,Limited company accounts,Corrections to profit and reserves,4
+2022-ON,2,2,1,d,Limited company accounts,Corrections to profit and reserves,5
+2022-ON,2,2,1,e,Limited company accounts,Statement of profit or loss and SOFP,8
+2022-ON,2,2,1,f,Limited company accounts,Reserves and equity,4
+2022-ON,2,2,1,g,Accounting concepts and principles,Accounting concepts,2
+2022-ON,2,2,2,a,Reconciliation and verification,Control accounts,9
+2022-ON,2,2,2,b,Reconciliation and verification,Control accounts,3
+2022-ON,2,2,2,c,Reconciliation and verification,Control accounts,1
+2022-ON,2,2,2,d,Reconciliation and verification,Control accounts,2
+2022-ON,2,2,3,a,Analysis and communication of accounting information,Efficiency ratios,4
+2022-ON,2,2,3,b,Analysis and communication of accounting information,Liquidity ratios,4
+2022-ON,2,2,3,c,Analysis and communication of accounting information,Performance evaluation and advice,5
+2022-ON,2,2,3,d,Analysis and communication of accounting information,Limitations of ratios,2
+2022-ON,2,2,4,a(i),Marginal costing and CVP analysis,Contribution and target profit,2
+2022-ON,2,2,4,a(ii),Marginal costing and CVP analysis,Contribution and target profit,2
+2022-ON,2,2,4,a(iii),Marginal costing and CVP analysis,Break-even and margin of safety,2
+2022-ON,2,2,4,b,Marginal costing and CVP analysis,Break-even and margin of safety,1
+2022-ON,2,2,4,c,Marginal costing and CVP analysis,Contribution and target profit,2
+2022-ON,2,2,4,d,Marginal costing and CVP analysis,Marginal costing decisions,10
+2022-ON,2,2,4,e,Marginal costing and CVP analysis,Marginal costing decisions,7
+2022-ON,2,2,4,f,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",2
+2022-ON,2,2,4,g,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",2
+2022-ON,3,2,1,a(i),Consignment and joint ventures,Joint ventures,3
+2022-ON,3,2,1,a(ii),Consignment and joint ventures,Joint ventures,5
+2022-ON,3,2,1,b,Consignment and joint ventures,Joint ventures,6
+2022-ON,3,2,1,c,Consignment and joint ventures,Joint ventures,3
+2022-ON,3,2,1,d,Consignment and joint ventures,Joint ventures,4
+2022-ON,3,2,1,e,Auditing and stewardship,Auditing and stewardship,2
+2022-ON,3,2,1,f,Auditing and stewardship,Auditing and stewardship,2
+2022-ON,3,2,2,a(i),Business purchase and merger,Partnership or sole trader acquired by a company,3
+2022-ON,3,2,2,a(ii),Business purchase and merger,Partnership or sole trader acquired by a company,4
+2022-ON,3,2,2,a(iii),Business purchase and merger,Partnership or sole trader acquired by a company,4
+2022-ON,3,2,2,b,Business purchase and merger,Partnership or sole trader acquired by a company,7
+2022-ON,3,2,2,c,Business purchase and merger,Partnership or sole trader acquired by a company,5
+2022-ON,3,2,2,d,Auditing and stewardship,Auditing and stewardship,2
+2022-ON,3,2,3,a,Company financial statements and IAS adjustments,Corrections and draft profit adjustments,4
+2022-ON,3,2,3,b,Company financial statements and IAS adjustments,"Provisions, contingencies and events after the reporting period",6
+2022-ON,3,2,3,c,Company financial statements and IAS adjustments,"Provisions, contingencies and events after the reporting period",2
+2022-ON,3,2,3,d,Company financial statements and IAS adjustments,Corrections and draft profit adjustments,7
+2022-ON,3,2,3,e,Company financial statements and IAS adjustments,"Impairment, revaluation, IAS 16 and IAS 2",3
+2022-ON,3,2,3,f,Company financial statements and IAS adjustments,Corrections and draft profit adjustments,3
+2022-ON,3,2,4,a,Manufacturing accounts,Factory profit and unrealised profit,8
+2022-ON,3,2,4,b,Manufacturing accounts,Factory profit and unrealised profit,9
+2022-ON,3,2,4,c,Manufacturing accounts,Manufacturing account,2
+2022-ON,3,2,4,d,Manufacturing accounts,Factory profit and unrealised profit,6
+2022-ON,3,2,5,a,Budgeting and budgetary control,Functional and master budgets,4
+2022-ON,3,2,5,b,Budgeting and budgetary control,Cash budgets,13
+2022-ON,3,2,5,c,Budgeting and budgetary control,Purpose of budgeting,2
+2022-ON,3,2,5,d,Budgeting and budgetary control,Cash budgets,4
+2022-ON,3,2,5,e,Budgeting and budgetary control,Functional and master budgets,2
+2022-ON,3,2,6,a,Activity based costing,ABC versus absorption costing,2
+2022-ON,3,2,6,b,Activity based costing,Cost drivers and ABC pricing,12
+2022-ON,3,2,6,c,Activity based costing,Cost drivers and ABC pricing,4
+2022-ON,3,2,6,d,Activity based costing,Cost drivers and ABC pricing,7
+2023-MJ,1,2,1,,The accounting cycle,Types of business organisation,1
+2023-MJ,1,2,2,,The accounting cycle,Accounting equation,1
+2023-MJ,1,2,3,,The accounting cycle,Capital and revenue expenditure,1
+2023-MJ,1,2,4,,Accounting for non-current assets,Depreciation methods and calculation,1
+2023-MJ,1,2,5,,Accounting for non-current assets,Disposals and part-exchange,1
+2023-MJ,1,2,6,,Reconciliation and verification,Correction of errors and suspense account,1
+2023-MJ,1,2,7,,Reconciliation and verification,Correction of errors and suspense account,1
+2023-MJ,1,2,8,,Reconciliation and verification,Bank reconciliation,1
+2023-MJ,1,2,9,,Reconciliation and verification,Control accounts,1
+2023-MJ,1,2,10,,Reconciliation and verification,Control accounts,1
+2023-MJ,1,2,11,,Financial statements of sole traders,Accruals and prepayments,1
+2023-MJ,1,2,12,,Financial statements of sole traders,Accruals and prepayments,1
+2023-MJ,1,2,13,,Financial statements of sole traders,Adjustments to draft statements,1
+2023-MJ,1,2,14,,Incomplete records,Mark-up and margin,1
+2023-MJ,1,2,15,,Partnership accounts,Appropriation and current accounts,1
+2023-MJ,1,2,16,,Partnership accounts,Appropriation and current accounts,1
+2023-MJ,1,2,17,,Limited company accounts,Share issues (bonus and rights),1
+2023-MJ,1,2,18,,Limited company accounts,Reserves and equity,1
+2023-MJ,1,2,19,,Analysis and communication of accounting information,Users of accounting information,1
+2023-MJ,1,2,20,,Analysis and communication of accounting information,Liquidity ratios,1
+2023-MJ,1,2,21,,Analysis and communication of accounting information,Efficiency ratios,1
+2023-MJ,1,2,22,,Analysis and communication of accounting information,Profitability ratios,1
+2023-MJ,1,2,23,,Costing for materials and labour,Cost classification and behaviour,1
+2023-MJ,1,2,24,,Absorption costing,"Job, batch and unit costing",1
+2023-MJ,1,2,25,,Absorption costing,Under- and over-absorption,1
+2023-MJ,1,2,26,,Absorption costing,Purpose and features of absorption costing,1
+2023-MJ,1,2,27,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2023-MJ,1,2,28,,Marginal costing and CVP analysis,Break-even and margin of safety,1
+2023-MJ,1,2,29,,Marginal costing and CVP analysis,Marginal costing decisions,1
+2023-MJ,1,2,30,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2023-MJ,2,2,1,a,Limited company accounts,Statement of profit or loss and SOFP,11
+2023-MJ,2,2,1,b,Limited company accounts,Share issues (bonus and rights),6
+2023-MJ,2,2,1,c,Limited company accounts,Share issues (bonus and rights),1
+2023-MJ,2,2,1,d,Limited company accounts,Dividends,2
+2023-MJ,2,2,1,e,Limited company accounts,Dividends,3
+2023-MJ,2,2,1,f,Limited company accounts,Sources of finance,7
+2023-MJ,2,2,2,a,Reconciliation and verification,Bank reconciliation,3
+2023-MJ,2,2,2,b,Reconciliation and verification,Bank reconciliation,6
+2023-MJ,2,2,2,c,Reconciliation and verification,Bank reconciliation,4
+2023-MJ,2,2,2,d(i),Reconciliation and verification,Bank reconciliation,1
+2023-MJ,2,2,2,d(ii),Reconciliation and verification,Bank reconciliation,1
+2023-MJ,2,2,3,a,Incomplete records,Missing figures and statements from incomplete records,7
+2023-MJ,2,2,3,b,Incomplete records,Missing figures and statements from incomplete records,4
+2023-MJ,2,2,3,c,Incomplete records,Full versus incomplete records,2
+2023-MJ,2,2,3,d,Incomplete records,Full versus incomplete records,2
+2023-MJ,2,2,4,a(i),Absorption costing,Overhead allocation and apportionment,1
+2023-MJ,2,2,4,a(ii),Absorption costing,Overhead allocation and apportionment,1
+2023-MJ,2,2,4,a(iii),Absorption costing,Overhead allocation and apportionment,1
+2023-MJ,2,2,4,b,Absorption costing,Overhead allocation and apportionment,2
+2023-MJ,2,2,4,c(i),Absorption costing,Overhead absorption rates,1
+2023-MJ,2,2,4,c(ii),Absorption costing,Overhead absorption rates,1
+2023-MJ,2,2,4,d(i),Absorption costing,Under- and over-absorption,3
+2023-MJ,2,2,4,d(ii),Absorption costing,Under- and over-absorption,3
+2023-MJ,2,2,4,e,Marginal costing and CVP analysis,Contribution and target profit,1
+2023-MJ,2,2,4,f(i),Marginal costing and CVP analysis,Marginal costing decisions,3
+2023-MJ,2,2,4,f(ii),Marginal costing and CVP analysis,Marginal costing decisions,6
+2023-MJ,2,2,4,g,Marginal costing and CVP analysis,Marginal costing decisions,7
+2023-MJ,3,2,1,a,Clubs and societies,"Trading activities (cafe, bar, events)",8
+2023-MJ,3,2,1,b,Clubs and societies,Income and expenditure account,9
+2023-MJ,3,2,1,c,Clubs and societies,Accumulated fund and membership fees,3
+2023-MJ,3,2,1,d,Clubs and societies,Club accounts principles and decisions,5
+2023-MJ,3,2,2,a,Company financial statements and IAS adjustments,Prior period adjustments,4
+2023-MJ,3,2,2,b,Company financial statements and IAS adjustments,Corrections and draft profit adjustments,4
+2023-MJ,3,2,2,c,Statements of cash flows,Statement of cash flows (IAS 7),17
+2023-MJ,3,2,3,a,Business purchase and merger,Partnership or sole trader acquired by a company,2
+2023-MJ,3,2,3,b,Business purchase and merger,Partnership or sole trader acquired by a company,4
+2023-MJ,3,2,3,c,Business purchase and merger,Partnership or sole trader acquired by a company,10
+2023-MJ,3,2,3,d,Business purchase and merger,Partnership or sole trader acquired by a company,4
+2023-MJ,3,2,3,e,Business purchase and merger,Partnership or sole trader acquired by a company,5
+2023-MJ,4,2,1,a(i),Investment appraisal,Net cash flows,4
+2023-MJ,4,2,1,a(ii),Investment appraisal,Accounting rate of return,3
+2023-MJ,4,2,1,b,Investment appraisal,Net present value,4
+2023-MJ,4,2,1,c,Investment appraisal,Net present value,7
+2023-MJ,4,2,1,d,Investment appraisal,Investment decision and sensitivity,7
+2023-MJ,4,2,2,a,Standard costing and variances,Variance calculation and reconciliation,15
+2023-MJ,4,2,2,b,Standard costing and variances,Reasons for variances and decisions,2
+2023-MJ,4,2,2,c,Standard costing and variances,Reasons for variances and decisions,2
+2023-MJ,4,2,2,d,Standard costing and variances,Reasons for variances and decisions,6
+2023-ON,1,2,1,,Limited company accounts,Sources of finance,1
+2023-ON,1,2,2,,Incomplete records,Full versus incomplete records,1
+2023-ON,1,2,3,,The accounting cycle,Double entry and books of prime entry,1
+2023-ON,1,2,4,,The accounting cycle,Capital and revenue expenditure,1
+2023-ON,1,2,5,,Accounting for non-current assets,Disposals and part-exchange,1
+2023-ON,1,2,6,,Accounting for non-current assets,Depreciation methods and calculation,1
+2023-ON,1,2,7,,Reconciliation and verification,Correction of errors and suspense account,1
+2023-ON,1,2,8,,Reconciliation and verification,Correction of errors and suspense account,1
+2023-ON,1,2,9,,Reconciliation and verification,Bank reconciliation,1
+2023-ON,1,2,10,,Reconciliation and verification,Bank reconciliation,1
+2023-ON,1,2,11,,Reconciliation and verification,Control accounts,1
+2023-ON,1,2,12,,Incomplete records,Missing figures and statements from incomplete records,1
+2023-ON,1,2,13,,Financial statements of sole traders,Accruals and prepayments,1
+2023-ON,1,2,14,,Accounting for non-current assets,Disposals and part-exchange,1
+2023-ON,1,2,15,,Financial statements of sole traders,Adjustments to draft statements,1
+2023-ON,1,2,16,,The accounting cycle,Accounting equation,1
+2023-ON,1,2,17,,Partnership accounts,Appropriation and current accounts,1
+2023-ON,1,2,18,,Partnership accounts,Appropriation and current accounts,1
+2023-ON,1,2,19,,Limited company accounts,Reserves and equity,1
+2023-ON,1,2,20,,Limited company accounts,Reserves and equity,1
+2023-ON,1,2,21,,Analysis and communication of accounting information,Efficiency ratios,1
+2023-ON,1,2,22,,Analysis and communication of accounting information,Efficiency ratios,1
+2023-ON,1,2,23,,Costing for materials and labour,Inventory valuation (FIFO and AVCO),1
+2023-ON,1,2,24,,Absorption costing,"Job, batch and unit costing",1
+2023-ON,1,2,25,,Absorption costing,Overhead absorption rates,1
+2023-ON,1,2,26,,Absorption costing,Under- and over-absorption,1
+2023-ON,1,2,27,,Absorption costing,Overhead absorption rates,1
+2023-ON,1,2,28,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2023-ON,1,2,29,,Marginal costing and CVP analysis,Marginal versus absorption profit,1
+2023-ON,1,2,30,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2023-ON,2,2,1,a,Limited company accounts,Statement of profit or loss and SOFP,15
+2023-ON,2,2,1,b,Limited company accounts,Statement of changes in equity,6
+2023-ON,2,2,1,c,Limited company accounts,Reserves and equity,2
+2023-ON,2,2,1,d,Limited company accounts,Share issues (bonus and rights),7
+2023-ON,2,2,2,a,Accounting for non-current assets,Depreciation methods and calculation,2
+2023-ON,2,2,2,b,Accounting for non-current assets,Depreciation methods and calculation,8
+2023-ON,2,2,2,c,Accounting for non-current assets,Disposals and part-exchange,2
+2023-ON,2,2,2,d,Accounting for non-current assets,Depreciation methods and calculation,3
+2023-ON,2,2,3,a,Reconciliation and verification,Control accounts,9
+2023-ON,2,2,3,b,Reconciliation and verification,Control accounts,4
+2023-ON,2,2,3,c,Reconciliation and verification,Control accounts,2
+2023-ON,2,2,4,a,Absorption costing,Overhead allocation and apportionment,6
+2023-ON,2,2,4,b,Absorption costing,Overhead absorption rates,4
+2023-ON,2,2,4,c,Absorption costing,Under- and over-absorption,4
+2023-ON,2,2,4,d,Absorption costing,"Job, batch and unit costing",4
+2023-ON,2,2,4,e,Absorption costing,Pricing and decisions,5
+2023-ON,2,2,4,f,Absorption costing,Pricing and decisions,7
+2023-ON,3,2,1,a,Manufacturing accounts,Factory profit and unrealised profit,3
+2023-ON,3,2,1,b,Company financial statements and IAS adjustments,Corrections and draft profit adjustments,13
+2023-ON,3,2,1,c,Accounting concepts and principles,Accounting concepts,1
+2023-ON,3,2,1,d,Company financial statements and IAS adjustments,"Provisions, contingencies and events after the reporting period",3
+2023-ON,3,2,1,e,Manufacturing accounts,Factory profit and unrealised profit,5
+2023-ON,3,2,2,a,Clubs and societies,Accumulated fund and membership fees,2
+2023-ON,3,2,2,b,Clubs and societies,Accumulated fund and membership fees,3
+2023-ON,3,2,2,c,Clubs and societies,"Trading activities (cafe, bar, events)",7
+2023-ON,3,2,2,d,Clubs and societies,Income and expenditure account,10
+2023-ON,3,2,2,e,Clubs and societies,Club accounts principles and decisions,3
+2023-ON,3,2,3,a,Statements of cash flows,Statement of cash flows (IAS 7),15
+2023-ON,3,2,3,b(i),Analysis and communication of accounting information,Investment and gearing ratios,3
+2023-ON,3,2,3,b(ii),Analysis and communication of accounting information,Investment and gearing ratios,2
+2023-ON,3,2,3,b(iii),Analysis and communication of accounting information,Investment and gearing ratios,2
+2023-ON,3,2,3,c,Limited company accounts,Share issues (bonus and rights),3
+2023-ON,4,2,1,a,Activity based costing,ABC versus absorption costing,3
+2023-ON,4,2,1,b,Absorption costing,Overhead absorption rates,1
+2023-ON,4,2,1,c,Absorption costing,Pricing and decisions,7
+2023-ON,4,2,1,d,Activity based costing,Cost drivers and ABC pricing,7
+2023-ON,4,2,1,e,Activity based costing,Cost drivers and ABC pricing,7
+2023-ON,4,2,2,a,Budgeting and budgetary control,Purpose of budgeting,3
+2023-ON,4,2,2,b(i),Budgeting and budgetary control,Functional and master budgets,7
+2023-ON,4,2,2,b(ii),Budgeting and budgetary control,Functional and master budgets,4
+2023-ON,4,2,2,b(iii),Budgeting and budgetary control,Functional and master budgets,4
+2023-ON,4,2,2,c,Budgeting and budgetary control,Functional and master budgets,7
+2024-MJ,1,2,1,,The accounting cycle,Types of business organisation,1
+2024-MJ,1,2,2,,Accounting concepts and principles,Accounting concepts,1
+2024-MJ,1,2,3,,The accounting cycle,Double entry and books of prime entry,1
+2024-MJ,1,2,4,,Reconciliation and verification,Correction of errors and suspense account,1
+2024-MJ,1,2,5,,Accounting for non-current assets,Depreciation methods and calculation,1
+2024-MJ,1,2,6,,Reconciliation and verification,Purpose and limitations of verification,1
+2024-MJ,1,2,7,,Reconciliation and verification,Correction of errors and suspense account,1
+2024-MJ,1,2,8,,Reconciliation and verification,Bank reconciliation,1
+2024-MJ,1,2,9,,Reconciliation and verification,Control accounts,1
+2024-MJ,1,2,10,,Reconciliation and verification,Control accounts,1
+2024-MJ,1,2,11,,Reconciliation and verification,Correction of errors and suspense account,1
+2024-MJ,1,2,12,,Financial statements of sole traders,Irrecoverable debts and credit control,1
+2024-MJ,1,2,13,,Incomplete records,Missing figures and statements from incomplete records,1
+2024-MJ,1,2,14,,Incomplete records,Mark-up and margin,1
+2024-MJ,1,2,15,,Partnership accounts,Appropriation and current accounts,1
+2024-MJ,1,2,16,,Partnership accounts,Partnership Act and agreements,1
+2024-MJ,1,2,17,,Limited company accounts,Reserves and equity,1
+2024-MJ,1,2,18,,Limited company accounts,Share issues (bonus and rights),1
+2024-MJ,1,2,19,,Analysis and communication of accounting information,Users of accounting information,1
+2024-MJ,1,2,20,,Analysis and communication of accounting information,Liquidity ratios,1
+2024-MJ,1,2,21,,Analysis and communication of accounting information,Profitability ratios,1
+2024-MJ,1,2,22,,Analysis and communication of accounting information,Liquidity ratios,1
+2024-MJ,1,2,23,,Costing for materials and labour,Labour remuneration,1
+2024-MJ,1,2,24,,Absorption costing,"Job, batch and unit costing",1
+2024-MJ,1,2,25,,Absorption costing,"Job, batch and unit costing",1
+2024-MJ,1,2,26,,Absorption costing,Under- and over-absorption,1
+2024-MJ,1,2,27,,Marginal costing and CVP analysis,Break-even and margin of safety,1
+2024-MJ,1,2,28,,Marginal costing and CVP analysis,Marginal costing decisions,1
+2024-MJ,1,2,29,,Marginal costing and CVP analysis,Break-even and margin of safety,1
+2024-MJ,1,2,30,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2024-MJ,2,2,1,a,Incomplete records,Mark-up and margin,1
+2024-MJ,2,2,1,b(i),Incomplete records,Missing figures and statements from incomplete records,3
+2024-MJ,2,2,1,b(ii),Incomplete records,Missing figures and statements from incomplete records,4
+2024-MJ,2,2,1,c,Financial statements of sole traders,Statement of profit or loss and SOFP,12
+2024-MJ,2,2,1,d,Accounting concepts and principles,Accounting concepts,3
+2024-MJ,2,2,1,e,Analysis and communication of accounting information,Performance evaluation and advice,7
+2024-MJ,2,2,2,a,Limited company accounts,Corrections to profit and reserves,5
+2024-MJ,2,2,2,b,Limited company accounts,Statement of profit or loss and SOFP,10
+2024-MJ,2,2,3,a(i),Analysis and communication of accounting information,Efficiency ratios,2
+2024-MJ,2,2,3,a(ii),Analysis and communication of accounting information,Efficiency ratios,2
+2024-MJ,2,2,3,b,Analysis and communication of accounting information,Performance evaluation and advice,6
+2024-MJ,2,2,3,c,Analysis and communication of accounting information,Efficiency ratios,3
+2024-MJ,2,2,3,d,Analysis and communication of accounting information,Efficiency ratios,2
+2024-MJ,2,2,4,a,Absorption costing,Purpose and features of absorption costing,4
+2024-MJ,2,2,4,b,Marginal costing and CVP analysis,Break-even and margin of safety,2
+2024-MJ,2,2,4,c,Marginal costing and CVP analysis,Contribution and target profit,2
+2024-MJ,2,2,4,d,Marginal costing and CVP analysis,Contribution and target profit,2
+2024-MJ,2,2,4,e,Marginal costing and CVP analysis,Marginal costing decisions,6
+2024-MJ,2,2,4,f,Marginal costing and CVP analysis,Marginal costing decisions,7
+2024-MJ,2,2,4,g,Marginal costing and CVP analysis,Marginal costing decisions,7
+2024-MJ,3,2,1,a,Clubs and societies,Club accounts principles and decisions,4
+2024-MJ,3,2,1,b,Clubs and societies,"Trading activities (cafe, bar, events)",10
+2024-MJ,3,2,1,c,Clubs and societies,Income and expenditure account,6
+2024-MJ,3,2,1,d,Clubs and societies,Club accounts principles and decisions,5
+2024-MJ,3,2,2,a(i),Company financial statements and IAS adjustments,"Impairment, revaluation, IAS 16 and IAS 2",6
+2024-MJ,3,2,2,a(ii),Company financial statements and IAS adjustments,"Impairment, revaluation, IAS 16 and IAS 2",8
+2024-MJ,3,2,2,b,Limited company accounts,Statement of changes in equity,5
+2024-MJ,3,2,2,c,Limited company accounts,Statement of profit or loss and SOFP,6
+2024-MJ,3,2,3,a,Business purchase and merger,Merger of businesses,6
+2024-MJ,3,2,3,b,Business purchase and merger,Merger of businesses,10
+2024-MJ,3,2,3,c,Business purchase and merger,Merger of businesses,4
+2024-MJ,3,2,3,d,Business purchase and merger,Merger of businesses,5
+2024-MJ,4,2,1,a,Budgeting and budgetary control,Functional and master budgets,4
+2024-MJ,4,2,1,b,Budgeting and budgetary control,Cash budgets,7
+2024-MJ,4,2,1,c,Budgeting and budgetary control,Cash budgets,7
+2024-MJ,4,2,1,d,Budgeting and budgetary control,Cash budgets,7
+2024-MJ,4,2,2,a,Activity based costing,Cost drivers and ABC pricing,1
+2024-MJ,4,2,2,b,Activity based costing,Cost drivers and ABC pricing,9
+2024-MJ,4,2,2,c,Activity based costing,Cost drivers and ABC pricing,5
+2024-MJ,4,2,2,d,Activity based costing,ABC versus absorption costing,3
+2024-MJ,4,2,2,e,Marginal costing and CVP analysis,Marginal costing decisions,7
+2024-ON,1,2,1,,Accounting concepts and principles,Accounting concepts,1
+2024-ON,1,2,2,,Computerised accounting systems,Computerised systems and data security,1
+2024-ON,1,2,3,,The accounting cycle,Double entry and books of prime entry,1
+2024-ON,1,2,4,,The accounting cycle,Capital and revenue expenditure,1
+2024-ON,1,2,5,,The accounting cycle,Capital and revenue expenditure,1
+2024-ON,1,2,6,,Accounting for non-current assets,Depreciation methods and calculation,1
+2024-ON,1,2,7,,Accounting for non-current assets,Depreciation methods and calculation,1
+2024-ON,1,2,8,,Reconciliation and verification,Correction of errors and suspense account,1
+2024-ON,1,2,9,,Reconciliation and verification,Correction of errors and suspense account,1
+2024-ON,1,2,10,,Reconciliation and verification,Bank reconciliation,1
+2024-ON,1,2,11,,Reconciliation and verification,Bank reconciliation,1
+2024-ON,1,2,12,,Reconciliation and verification,Control accounts,1
+2024-ON,1,2,13,,Reconciliation and verification,Control accounts,1
+2024-ON,1,2,14,,Financial statements of sole traders,Accruals and prepayments,1
+2024-ON,1,2,15,,Financial statements of sole traders,Irrecoverable debts and credit control,1
+2024-ON,1,2,16,,Incomplete records,Missing figures and statements from incomplete records,1
+2024-ON,1,2,17,,Partnership accounts,Appropriation and current accounts,1
+2024-ON,1,2,18,,Limited company accounts,Statement of changes in equity,1
+2024-ON,1,2,19,,Limited company accounts,Share issues (bonus and rights),1
+2024-ON,1,2,20,,Analysis and communication of accounting information,Efficiency ratios,1
+2024-ON,1,2,21,,Analysis and communication of accounting information,Profitability ratios,1
+2024-ON,1,2,22,,Incomplete records,Mark-up and margin,1
+2024-ON,1,2,23,,Costing for materials and labour,Cost classification and behaviour,1
+2024-ON,1,2,24,,Costing for materials and labour,Inventory valuation (FIFO and AVCO),1
+2024-ON,1,2,25,,Absorption costing,"Job, batch and unit costing",1
+2024-ON,1,2,26,,Absorption costing,Under- and over-absorption,1
+2024-ON,1,2,27,,Absorption costing,Under- and over-absorption,1
+2024-ON,1,2,28,,Marginal costing and CVP analysis,Contribution and target profit,1
+2024-ON,1,2,29,,Marginal costing and CVP analysis,Contribution and target profit,1
+2024-ON,1,2,30,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2024-ON,2,2,1,a,Incomplete records,Missing figures and statements from incomplete records,17
+2024-ON,2,2,1,b,Accounting concepts and principles,Accounting concepts,6
+2024-ON,2,2,1,c,Analysis and communication of accounting information,Performance evaluation and advice,7
+2024-ON,2,2,2,a,Analysis and communication of accounting information,Efficiency ratios,2
+2024-ON,2,2,2,b,Analysis and communication of accounting information,Profitability ratios,2
+2024-ON,2,2,2,c(i),Analysis and communication of accounting information,Efficiency ratios,1
+2024-ON,2,2,2,c(ii),Analysis and communication of accounting information,Efficiency ratios,3
+2024-ON,2,2,2,d,Analysis and communication of accounting information,Profitability ratios,4
+2024-ON,2,2,2,e,Analysis and communication of accounting information,Limitations of ratios,3
+2024-ON,2,2,3,a,Limited company accounts,Corrections to profit and reserves,4
+2024-ON,2,2,3,b,Limited company accounts,Share issues (bonus and rights),3
+2024-ON,2,2,3,c,Limited company accounts,Statement of changes in equity,8
+2024-ON,2,2,4,a(i),Marginal costing and CVP analysis,Contribution and target profit,3
+2024-ON,2,2,4,a(ii),Marginal costing and CVP analysis,Contribution and target profit,3
+2024-ON,2,2,4,a(iii),Marginal costing and CVP analysis,Break-even and margin of safety,2
+2024-ON,2,2,4,b,Marginal costing and CVP analysis,Marginal costing decisions,9
+2024-ON,2,2,4,c,Marginal costing and CVP analysis,Marginal costing decisions,7
+2024-ON,2,2,4,d,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",2
+2024-ON,2,2,4,e,Marginal costing and CVP analysis,Marginal costing decisions,2
+2024-ON,2,2,4,f,Marginal costing and CVP analysis,Marginal versus absorption profit,2
+2024-ON,3,2,1,a(i),Manufacturing accounts,Manufacturing account,6
+2024-ON,3,2,1,a(ii),Manufacturing accounts,Factory profit and unrealised profit,9
+2024-ON,3,2,1,b,Manufacturing accounts,Manufacturing account,2
+2024-ON,3,2,1,c,Manufacturing accounts,Factory profit and unrealised profit,3
+2024-ON,3,2,1,d,Manufacturing accounts,Factory profit and unrealised profit,5
+2024-ON,3,2,2,a,Partnership accounts,"Admission, retirement and goodwill",3
+2024-ON,3,2,2,b(i),Partnership accounts,"Admission, retirement and goodwill",4
+2024-ON,3,2,2,b(ii),Partnership accounts,Appropriation and current accounts,13
+2024-ON,3,2,2,c,Partnership accounts,"Admission, retirement and goodwill",5
+2024-ON,3,2,3,a,Analysis and communication of accounting information,Investment and gearing ratios,14
+2024-ON,3,2,3,b,Analysis and communication of accounting information,Performance evaluation and advice,8
+2024-ON,3,2,3,c,Analysis and communication of accounting information,Investment and gearing ratios,3
+2024-ON,4,2,1,a,Standard costing and variances,Reasons for variances and decisions,4
+2024-ON,4,2,1,b,Standard costing and variances,Variance calculation and reconciliation,2
+2024-ON,4,2,1,c,Budgeting and budgetary control,Flexible budgets,5
+2024-ON,4,2,1,d,Standard costing and variances,Variance calculation and reconciliation,3
+2024-ON,4,2,1,e,Standard costing and variances,Reasons for variances and decisions,4
+2024-ON,4,2,1,f,Standard costing and variances,Reasons for variances and decisions,7
+2024-ON,4,2,2,a(i),Investment appraisal,Net present value,4
+2024-ON,4,2,2,a(ii),Investment appraisal,Internal rate of return,5
+2024-ON,4,2,2,a(iii),Investment appraisal,Accounting rate of return,3
+2024-ON,4,2,2,b,Investment appraisal,Investment decision and sensitivity,6
+2024-ON,4,2,2,c,Investment appraisal,Investment decision and sensitivity,7
+2025-MJ,1,2,1,,The accounting cycle,Types of business organisation,1
+2025-MJ,1,2,2,,The accounting cycle,Double entry and books of prime entry,1
+2025-MJ,1,2,3,,Accounting concepts and principles,Accounting concepts,1
+2025-MJ,1,2,4,,The accounting cycle,Trial balance,1
+2025-MJ,1,2,5,,The accounting cycle,Capital and revenue expenditure,1
+2025-MJ,1,2,6,,Accounting for non-current assets,Depreciation methods and calculation,1
+2025-MJ,1,2,7,,Accounting for non-current assets,Depreciation methods and calculation,1
+2025-MJ,1,2,8,,Reconciliation and verification,Correction of errors and suspense account,1
+2025-MJ,1,2,9,,Reconciliation and verification,Correction of errors and suspense account,1
+2025-MJ,1,2,10,,Reconciliation and verification,Bank reconciliation,1
+2025-MJ,1,2,11,,Reconciliation and verification,Bank reconciliation,1
+2025-MJ,1,2,12,,Reconciliation and verification,Control accounts,1
+2025-MJ,1,2,13,,Reconciliation and verification,Control accounts,1
+2025-MJ,1,2,14,,Financial statements of sole traders,Accruals and prepayments,1
+2025-MJ,1,2,15,,Financial statements of sole traders,Irrecoverable debts and credit control,1
+2025-MJ,1,2,16,,Financial statements of sole traders,Adjustments to draft statements,1
+2025-MJ,1,2,17,,Partnership accounts,Appropriation and current accounts,1
+2025-MJ,1,2,18,,Partnership accounts,Appropriation and current accounts,1
+2025-MJ,1,2,19,,Limited company accounts,Statement of changes in equity,1
+2025-MJ,1,2,20,,Limited company accounts,Share issues (bonus and rights),1
+2025-MJ,1,2,21,,Analysis and communication of accounting information,Liquidity ratios,1
+2025-MJ,1,2,22,,Analysis and communication of accounting information,Profitability ratios,1
+2025-MJ,1,2,23,,Costing for materials and labour,Cost classification and behaviour,1
+2025-MJ,1,2,24,,Costing for materials and labour,Cost classification and behaviour,1
+2025-MJ,1,2,25,,Absorption costing,Under- and over-absorption,1
+2025-MJ,1,2,26,,Absorption costing,Overhead allocation and apportionment,1
+2025-MJ,1,2,27,,Absorption costing,Overhead absorption rates,1
+2025-MJ,1,2,28,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2025-MJ,1,2,29,,Marginal costing and CVP analysis,Contribution and target profit,1
+2025-MJ,1,2,30,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2025-MJ,2,2,1,a(i),Accounting for non-current assets,Depreciation methods and calculation,1
+2025-MJ,2,2,1,a(ii),Accounting for non-current assets,Depreciation methods and calculation,2
+2025-MJ,2,2,1,b,Accounting for non-current assets,Disposals and part-exchange,2
+2025-MJ,2,2,1,c,Limited company accounts,Statement of profit or loss and SOFP,12
+2025-MJ,2,2,1,d,Limited company accounts,Statement of changes in equity,6
+2025-MJ,2,2,1,e,Limited company accounts,Sources of finance,7
+2025-MJ,2,2,2,a,Reconciliation and verification,Correction of errors and suspense account,8
+2025-MJ,2,2,2,b,Reconciliation and verification,Correction of errors and suspense account,5
+2025-MJ,2,2,2,c,Reconciliation and verification,Correction of errors and suspense account,2
+2025-MJ,2,2,3,a,Incomplete records,Missing figures and statements from incomplete records,4
+2025-MJ,2,2,3,b,Incomplete records,Missing figures and statements from incomplete records,4
+2025-MJ,2,2,3,c,Financial statements of sole traders,Irrecoverable debts and credit control,2
+2025-MJ,2,2,3,d,Financial statements of sole traders,Irrecoverable debts and credit control,2
+2025-MJ,2,2,3,e,Computerised accounting systems,Computerised systems and data security,3
+2025-MJ,2,2,4,a(i),Marginal costing and CVP analysis,Contribution and target profit,1
+2025-MJ,2,2,4,a(ii),Costing for materials and labour,Cost classification and behaviour,1
+2025-MJ,2,2,4,a(iii),Marginal costing and CVP analysis,Break-even and margin of safety,1
+2025-MJ,2,2,4,b(i),Marginal costing and CVP analysis,Break-even and margin of safety,3
+2025-MJ,2,2,4,b(ii),Marginal costing and CVP analysis,Break-even and margin of safety,1
+2025-MJ,2,2,4,c,Marginal costing and CVP analysis,Contribution and target profit,2
+2025-MJ,2,2,4,d,Marginal costing and CVP analysis,Marginal costing decisions,6
+2025-MJ,2,2,4,e,Marginal costing and CVP analysis,Marginal costing decisions,8
+2025-MJ,2,2,4,f,Marginal costing and CVP analysis,Marginal costing decisions,7
+2025-MJ,3,2,1,a,Manufacturing accounts,Manufacturing account,8
+2025-MJ,3,2,1,b,Manufacturing accounts,Factory profit and unrealised profit,7
+2025-MJ,3,2,1,c(i),Manufacturing accounts,Factory profit and unrealised profit,2
+2025-MJ,3,2,1,c(ii),Manufacturing accounts,Factory profit and unrealised profit,3
+2025-MJ,3,2,1,d,The accounting cycle,Types of business organisation,5
+2025-MJ,3,2,2,a,Company financial statements and IAS adjustments,"Provisions, contingencies and events after the reporting period",3
+2025-MJ,3,2,2,b,Company financial statements and IAS adjustments,Corrections and draft profit adjustments,14
+2025-MJ,3,2,2,c,Company financial statements and IAS adjustments,"Impairment, revaluation, IAS 16 and IAS 2",3
+2025-MJ,3,2,2,d,Company financial statements and IAS adjustments,Dividend decisions,5
+2025-MJ,3,2,3,a(i),Partnership accounts,"Admission, retirement and goodwill",2
+2025-MJ,3,2,3,a(ii),Partnership accounts,"Admission, retirement and goodwill",1
+2025-MJ,3,2,3,b,Partnership accounts,"Admission, retirement and goodwill",3
+2025-MJ,3,2,3,c,Partnership accounts,"Admission, retirement and goodwill",5
+2025-MJ,3,2,3,d,Partnership accounts,"Admission, retirement and goodwill",6
+2025-MJ,3,2,3,e,Partnership accounts,"Admission, retirement and goodwill",8
+2025-MJ,4,2,1,a,Investment appraisal,Net cash flows,4
+2025-MJ,4,2,1,b(i),Investment appraisal,Net present value,4
+2025-MJ,4,2,1,b(ii),Investment appraisal,Net present value,4
+2025-MJ,4,2,1,c,Investment appraisal,Payback period,1
+2025-MJ,4,2,1,d,Investment appraisal,Payback period,4
+2025-MJ,4,2,1,e,Investment appraisal,Investment decision and sensitivity,7
+2025-MJ,4,2,1,f,Investment appraisal,Investment decision and sensitivity,1
+2025-MJ,4,2,2,a,Standard costing and variances,Variance calculation and reconciliation,14
+2025-MJ,4,2,2,b,Standard costing and variances,Reasons for variances and decisions,4
+2025-MJ,4,2,2,c,Standard costing and variances,Reasons for variances and decisions,7
+2025-ON,1,2,1,,Limited company accounts,Sources of finance,1
+2025-ON,1,2,2,,The accounting cycle,Trial balance,1
+2025-ON,1,2,3,,Accounting concepts and principles,Accounting concepts,1
+2025-ON,1,2,4,,The accounting cycle,Capital and revenue expenditure,1
+2025-ON,1,2,5,,Accounting for non-current assets,Cost of non-current assets,1
+2025-ON,1,2,6,,Accounting for non-current assets,Revaluation,1
+2025-ON,1,2,7,,Accounting for non-current assets,Revaluation,1
+2025-ON,1,2,8,,Reconciliation and verification,Correction of errors and suspense account,1
+2025-ON,1,2,9,,Reconciliation and verification,Correction of errors and suspense account,1
+2025-ON,1,2,10,,Reconciliation and verification,Bank reconciliation,1
+2025-ON,1,2,11,,Reconciliation and verification,Control accounts,1
+2025-ON,1,2,12,,Reconciliation and verification,Control accounts,1
+2025-ON,1,2,13,,Financial statements of sole traders,Irrecoverable debts and credit control,1
+2025-ON,1,2,14,,Financial statements of sole traders,Accruals and prepayments,1
+2025-ON,1,2,15,,Financial statements of sole traders,Statement of profit or loss and SOFP,1
+2025-ON,1,2,16,,Partnership accounts,Appropriation and current accounts,1
+2025-ON,1,2,17,,Partnership accounts,Appropriation and current accounts,1
+2025-ON,1,2,18,,Limited company accounts,Reserves and equity,1
+2025-ON,1,2,19,,Analysis and communication of accounting information,Users of accounting information,1
+2025-ON,1,2,20,,Analysis and communication of accounting information,Efficiency ratios,1
+2025-ON,1,2,21,,Analysis and communication of accounting information,Profitability ratios,1
+2025-ON,1,2,22,,Costing for materials and labour,Cost classification and behaviour,1
+2025-ON,1,2,23,,Marginal costing and CVP analysis,Marginal versus absorption profit,1
+2025-ON,1,2,24,,Absorption costing,"Job, batch and unit costing",1
+2025-ON,1,2,25,,Absorption costing,Under- and over-absorption,1
+2025-ON,1,2,26,,Absorption costing,Overhead absorption rates,1
+2025-ON,1,2,27,,Marginal costing and CVP analysis,Break-even and margin of safety,1
+2025-ON,1,2,28,,Marginal costing and CVP analysis,Contribution and target profit,1
+2025-ON,1,2,29,,Marginal costing and CVP analysis,Marginal versus absorption profit,1
+2025-ON,1,2,30,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2025-ON,2,2,1,a,Limited company accounts,Statement of profit or loss and SOFP,15
+2025-ON,2,2,1,b,Limited company accounts,Statement of changes in equity,8
+2025-ON,2,2,1,c,Limited company accounts,Sources of finance,7
+2025-ON,2,2,2,a,Reconciliation and verification,Bank reconciliation,2
+2025-ON,2,2,2,b,Reconciliation and verification,Bank reconciliation,7
+2025-ON,2,2,2,c,Reconciliation and verification,Bank reconciliation,4
+2025-ON,2,2,2,d,Reconciliation and verification,Bank reconciliation,2
+2025-ON,2,2,3,a(i),Accounting for non-current assets,Depreciation methods and calculation,2
+2025-ON,2,2,3,a(ii),Accounting for non-current assets,Depreciation methods and calculation,2
+2025-ON,2,2,3,b,Accounting for non-current assets,Revaluation,4
+2025-ON,2,2,3,c,Accounting for non-current assets,Disposals and part-exchange,4
+2025-ON,2,2,3,d,Accounting concepts and principles,Accounting concepts,3
+2025-ON,2,2,4,a,Absorption costing,Purpose and features of absorption costing,2
+2025-ON,2,2,4,b,Marginal costing and CVP analysis,Marginal versus absorption profit,6
+2025-ON,2,2,4,c,Marginal costing and CVP analysis,Marginal versus absorption profit,2
+2025-ON,2,2,4,d,Marginal costing and CVP analysis,Marginal costing decisions,6
+2025-ON,2,2,4,e,Marginal costing and CVP analysis,Marginal costing decisions,7
+2025-ON,2,2,4,f,Marginal costing and CVP analysis,Marginal costing decisions,7
+2025-ON,3,2,1,a,Business purchase and merger,Partnership or sole trader acquired by a company,1
+2025-ON,3,2,1,b,Business purchase and merger,Partnership or sole trader acquired by a company,5
+2025-ON,3,2,1,c,Business purchase and merger,Partnership or sole trader acquired by a company,6
+2025-ON,3,2,1,d,Business purchase and merger,Partnership or sole trader acquired by a company,3
+2025-ON,3,2,1,e,Business purchase and merger,Goodwill and purchase consideration,5
+2025-ON,3,2,1,f,Business purchase and merger,Goodwill and purchase consideration,5
+2025-ON,3,2,2,a(i),Analysis and communication of accounting information,Investment and gearing ratios,1
+2025-ON,3,2,2,a(ii),Analysis and communication of accounting information,Investment and gearing ratios,1
+2025-ON,3,2,2,b,Analysis and communication of accounting information,Investment and gearing ratios,4
+2025-ON,3,2,2,c,Analysis and communication of accounting information,Investment and gearing ratios,4
+2025-ON,3,2,2,d,Analysis and communication of accounting information,Investment and gearing ratios,2
+2025-ON,3,2,2,e,Analysis and communication of accounting information,Performance evaluation and advice,5
+2025-ON,3,2,2,f,Auditing and stewardship,Auditing and stewardship,4
+2025-ON,3,2,2,g,Auditing and stewardship,Auditing and stewardship,4
+2025-ON,3,2,3,a,Company financial statements and IAS adjustments,Research and development and intangibles,1
+2025-ON,3,2,3,b,Company financial statements and IAS adjustments,Research and development and intangibles,2
+2025-ON,3,2,3,c,Statements of cash flows,Statement of cash flows (IAS 7),22
+2025-ON,4,2,1,a(i),Budgeting and budgetary control,Purpose of budgeting,2
+2025-ON,4,2,1,a(ii),Budgeting and budgetary control,Purpose of budgeting,2
+2025-ON,4,2,1,b,Budgeting and budgetary control,Functional and master budgets,4
+2025-ON,4,2,1,c,Budgeting and budgetary control,Functional and master budgets,4
+2025-ON,4,2,1,d,Budgeting and budgetary control,Cash budgets,6
+2025-ON,4,2,1,e,Budgeting and budgetary control,Cash budgets,7
+2025-ON,4,2,2,a,Budgeting and budgetary control,Flexible budgets,3
+2025-ON,4,2,2,b,Budgeting and budgetary control,Flexible budgets,2
+2025-ON,4,2,2,c(i),Standard costing and variances,Variance calculation and reconciliation,2
+2025-ON,4,2,2,c(ii),Standard costing and variances,Variance calculation and reconciliation,3
+2025-ON,4,2,2,d(i),Standard costing and variances,Variance calculation and reconciliation,4
+2025-ON,4,2,2,d(ii),Standard costing and variances,Variance calculation and reconciliation,4
+2025-ON,4,2,2,e,Standard costing and variances,Reasons for variances and decisions,7
+2026-MJ,1,2,1,,The accounting cycle,Types of business organisation,1
+2026-MJ,1,2,2,,Accounting concepts and principles,Accounting concepts,1
+2026-MJ,1,2,3,,The accounting cycle,Trial balance,1
+2026-MJ,1,2,4,,Accounting for non-current assets,Cost of non-current assets,1
+2026-MJ,1,2,5,,Accounting for non-current assets,Disposals and part-exchange,1
+2026-MJ,1,2,6,,Accounting for non-current assets,Depreciation methods and calculation,1
+2026-MJ,1,2,7,,Reconciliation and verification,Purpose and limitations of verification,1
+2026-MJ,1,2,8,,Reconciliation and verification,Correction of errors and suspense account,1
+2026-MJ,1,2,9,,Reconciliation and verification,Bank reconciliation,1
+2026-MJ,1,2,10,,Reconciliation and verification,Control accounts,1
+2026-MJ,1,2,11,,Reconciliation and verification,Control accounts,1
+2026-MJ,1,2,12,,Financial statements of sole traders,Irrecoverable debts and credit control,1
+2026-MJ,1,2,13,,Reconciliation and verification,Correction of errors and suspense account,1
+2026-MJ,1,2,14,,Financial statements of sole traders,Statement of profit or loss and SOFP,1
+2026-MJ,1,2,15,,Reconciliation and verification,Correction of errors and suspense account,1
+2026-MJ,1,2,16,,Financial statements of sole traders,Statement of profit or loss and SOFP,1
+2026-MJ,1,2,17,,Partnership accounts,Partnership Act and agreements,1
+2026-MJ,1,2,18,,Partnership accounts,Partnership Act and agreements,1
+2026-MJ,1,2,19,,Limited company accounts,Reserves and equity,1
+2026-MJ,1,2,20,,Limited company accounts,Share issues (bonus and rights),1
+2026-MJ,1,2,21,,Analysis and communication of accounting information,Users of accounting information,1
+2026-MJ,1,2,22,,Analysis and communication of accounting information,Efficiency ratios,1
+2026-MJ,1,2,23,,Costing for materials and labour,Labour remuneration,1
+2026-MJ,1,2,24,,Absorption costing,"Job, batch and unit costing",1
+2026-MJ,1,2,25,,Absorption costing,"Job, batch and unit costing",1
+2026-MJ,1,2,26,,Absorption costing,Under- and over-absorption,1
+2026-MJ,1,2,27,,Marginal costing and CVP analysis,Marginal versus absorption profit,1
+2026-MJ,1,2,28,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2026-MJ,1,2,29,,Marginal costing and CVP analysis,Marginal versus absorption profit,1
+2026-MJ,1,2,30,,Marginal costing and CVP analysis,"CVP uses, assumptions and limitations",1
+2026-MJ,2,2,1,a,Incomplete records,Missing figures and statements from incomplete records,7
+2026-MJ,2,2,1,b,Incomplete records,Missing figures and statements from incomplete records,3
+2026-MJ,2,2,1,c,Accounting for non-current assets,Disposals and part-exchange,3
+2026-MJ,2,2,1,d,Financial statements of sole traders,Statement of profit or loss and SOFP,12
+2026-MJ,2,2,1,e,Computerised accounting systems,Computerised systems and data security,5
+2026-MJ,2,2,2,a(i),Incomplete records,Mark-up and margin,1
+2026-MJ,2,2,2,a(ii),Incomplete records,Mark-up and margin,2
+2026-MJ,2,2,2,b,Analysis and communication of accounting information,Efficiency ratios,2
+2026-MJ,2,2,2,c,Financial statements of sole traders,Statement of profit or loss and SOFP,5
+2026-MJ,2,2,2,d,Analysis and communication of accounting information,Performance evaluation and advice,5
+2026-MJ,2,2,3,a,Limited company accounts,Corrections to profit and reserves,4
+2026-MJ,2,2,3,b,Limited company accounts,Reserves and equity,3
+2026-MJ,2,2,3,c,Limited company accounts,Statement of profit or loss and SOFP,8
+2026-MJ,2,2,4,a,Absorption costing,Overhead allocation and apportionment,7
+2026-MJ,2,2,4,b,Absorption costing,Overhead absorption rates,4
+2026-MJ,2,2,4,c,Absorption costing,Under- and over-absorption,2
+2026-MJ,2,2,4,d,Absorption costing,Pricing and decisions,6
+2026-MJ,2,2,4,e,Absorption costing,Pricing and decisions,5
+2026-MJ,2,2,4,f,Costing for materials and labour,Inventory valuation (FIFO and AVCO),2
+2026-MJ,2,2,4,g,Costing for materials and labour,Just-in-time inventory management,4
+2026-MJ,3,2,1,a,Clubs and societies,Club accounts principles and decisions,2
+2026-MJ,3,2,1,b,Clubs and societies,Accumulated fund and membership fees,5
+2026-MJ,3,2,1,c,Clubs and societies,"Trading activities (cafe, bar, events)",5
+2026-MJ,3,2,1,d,Clubs and societies,Income and expenditure account,8
+2026-MJ,3,2,1,e,Clubs and societies,Accumulated fund and membership fees,5
+2026-MJ,3,2,2,a,Statements of cash flows,Uses of cash flow statements,2
+2026-MJ,3,2,2,b,Statements of cash flows,Statement of cash flows (IAS 7),18
+2026-MJ,3,2,2,c,Analysis and communication of accounting information,Performance evaluation and advice,5
+2026-MJ,3,2,3,a,Business purchase and merger,Goodwill and purchase consideration,4
+2026-MJ,3,2,3,b(i),Business purchase and merger,Partnership or sole trader acquired by a company,3
+2026-MJ,3,2,3,b(ii),Business purchase and merger,Partnership or sole trader acquired by a company,4
+2026-MJ,3,2,3,b(iii),Business purchase and merger,Partnership or sole trader acquired by a company,5
+2026-MJ,3,2,3,c,Business purchase and merger,Partnership or sole trader acquired by a company,4
+2026-MJ,3,2,3,d,Business purchase and merger,Partnership or sole trader acquired by a company,5
+2026-MJ,4,2,1,a,Costing for materials and labour,Just-in-time inventory management,2
+2026-MJ,4,2,1,b,Budgeting and budgetary control,Functional and master budgets,4
+2026-MJ,4,2,1,c,Budgeting and budgetary control,Cash budgets,12
+2026-MJ,4,2,1,d,Budgeting and budgetary control,Cash budgets,7
+2026-MJ,4,2,2,a,Absorption costing,Overhead absorption rates,6
+2026-MJ,4,2,2,b,Activity based costing,ABC versus absorption costing,4
+2026-MJ,4,2,2,c,Activity based costing,Cost drivers and ABC pricing,8
+2026-MJ,4,2,2,d,Activity based costing,Cost drivers and ABC pricing,7
