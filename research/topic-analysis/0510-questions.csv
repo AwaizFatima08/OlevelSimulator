@@ -1,0 +1,575 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,,Reading for detail,Single-detail retrieval,1
+2022-MJ,1,2,2,,Reading for detail,Single-detail retrieval,1
+2022-MJ,1,2,3,,Reading for detail,Multiple-detail retrieval,2
+2022-MJ,1,2,4,,Reading for detail,Single-detail retrieval,1
+2022-MJ,1,2,5,,Reading for detail,Single-detail retrieval,1
+2022-MJ,1,2,6,,Reading for detail,Single-detail retrieval,1
+2022-MJ,1,2,7,,Reading for detail,Single-detail retrieval,1
+2022-MJ,1,2,8,,Reading for detail,Single-detail retrieval,1
+2022-MJ,1,2,9,a,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,1,2,9,b,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,1,2,9,c,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,1,2,9,d,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,1,2,9,e,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,1,2,9,f,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,1,2,9,g,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,1,2,9,h,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,1,2,10,,Note-making,Notes under headings,4
+2022-MJ,1,2,11,,Note-making,Notes under headings,3
+2022-MJ,1,2,12,,Summary writing,Summary of one aspect,12
+2022-MJ,1,2,13,,Email/informal writing,Recounting a recent experience,12
+2022-MJ,1,2,14,,"Article, report, review or essay writing",Article,12
+2022-MJ,2,2,1,,Reading for detail,Single-detail retrieval,1
+2022-MJ,2,2,2,,Reading for detail,Single-detail retrieval,1
+2022-MJ,2,2,3,,Reading for detail,Multiple-detail retrieval,2
+2022-MJ,2,2,4,,Reading for detail,Single-detail retrieval,1
+2022-MJ,2,2,5,,Reading for detail,Single-detail retrieval,1
+2022-MJ,2,2,6,,Reading for detail,Single-detail retrieval,1
+2022-MJ,2,2,7,,Reading for detail,Single-detail retrieval,1
+2022-MJ,2,2,8,,Reading for detail,Single-detail retrieval,1
+2022-MJ,2,2,9,,Reading for detail,Multiple-detail retrieval,4
+2022-MJ,2,2,10,a,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,10,b,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,10,c,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,10,d,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,10,e,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,10,f,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,10,g,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,10,h,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,10,i,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,10,j,Multiple matching (reading),Matching to sections of one article,1
+2022-MJ,2,2,11,,Note-making,Notes under headings,5
+2022-MJ,2,2,12,,Note-making,Notes under headings,4
+2022-MJ,2,2,13,,Summary writing,Summary of two aspects,16
+2022-MJ,2,2,14,,Email/informal writing,Recounting a recent experience,16
+2022-MJ,2,2,15,,"Article, report, review or essay writing",Article,16
+2022-MJ,3,2,1,a,Listening: short extracts,Short-answer questions,1
+2022-MJ,3,2,1,b,Listening: short extracts,Short-answer questions,1
+2022-MJ,3,2,2,a,Listening: short extracts,Short-answer questions,1
+2022-MJ,3,2,2,b,Listening: short extracts,Short-answer questions,1
+2022-MJ,3,2,3,a,Listening: short extracts,Short-answer questions,1
+2022-MJ,3,2,3,b,Listening: short extracts,Short-answer questions,1
+2022-MJ,3,2,4,a,Listening: short extracts,Short-answer questions,1
+2022-MJ,3,2,4,b,Listening: short extracts,Short-answer questions,1
+2022-MJ,3,2,5,,Listening: talk,Gap-fill notes,8
+2022-MJ,3,2,6,,Listening: speaker matching,Six speakers matched to opinions,6
+2022-MJ,3,2,7,a,Listening: interview,Multiple choice (A–C),1
+2022-MJ,3,2,7,b,Listening: interview,Multiple choice (A–C),1
+2022-MJ,3,2,7,c,Listening: interview,Multiple choice (A–C),1
+2022-MJ,3,2,7,d,Listening: interview,Multiple choice (A–C),1
+2022-MJ,3,2,7,e,Listening: interview,Multiple choice (A–C),1
+2022-MJ,3,2,7,f,Listening: interview,Multiple choice (A–C),1
+2022-MJ,3,2,7,g,Listening: interview,Multiple choice (A–C),1
+2022-MJ,3,2,7,h,Listening: interview,Multiple choice (A–C),1
+2022-MJ,4,2,1,a,Listening: short extracts,Short-answer questions,1
+2022-MJ,4,2,1,b,Listening: short extracts,Short-answer questions,1
+2022-MJ,4,2,2,a,Listening: short extracts,Short-answer questions,1
+2022-MJ,4,2,2,b,Listening: short extracts,Short-answer questions,1
+2022-MJ,4,2,3,a,Listening: short extracts,Short-answer questions,1
+2022-MJ,4,2,3,b,Listening: short extracts,Short-answer questions,1
+2022-MJ,4,2,4,a,Listening: short extracts,Short-answer questions,1
+2022-MJ,4,2,4,b,Listening: short extracts,Short-answer questions,1
+2022-MJ,4,2,5,,Listening: talk,Gap-fill notes,8
+2022-MJ,4,2,6,,Listening: speaker matching,Six speakers matched to opinions,6
+2022-MJ,4,2,7,a,Listening: interview,Multiple choice (A–C),1
+2022-MJ,4,2,7,b,Listening: interview,Multiple choice (A–C),1
+2022-MJ,4,2,7,c,Listening: interview,Multiple choice (A–C),1
+2022-MJ,4,2,7,d,Listening: interview,Multiple choice (A–C),1
+2022-MJ,4,2,7,e,Listening: interview,Multiple choice (A–C),1
+2022-MJ,4,2,7,f,Listening: interview,Multiple choice (A–C),1
+2022-MJ,4,2,7,g,Listening: interview,Multiple choice (A–C),1
+2022-MJ,4,2,7,h,Listening: interview,Multiple choice (A–C),1
+2022-MJ,4,2,8,a,Listening: talk and discussion notes,Talk: gap-fill notes,5
+2022-MJ,4,2,8,b,Listening: talk and discussion notes,Discussion: gap-fill notes,5
+2023-MJ,1,2,1,,Reading for detail,Single-detail retrieval,1
+2023-MJ,1,2,2,,Reading for detail,Single-detail retrieval,1
+2023-MJ,1,2,3,,Reading for detail,Single-detail retrieval,1
+2023-MJ,1,2,4,,Reading for detail,Single-detail retrieval,1
+2023-MJ,1,2,5,,Reading for detail,Single-detail retrieval,1
+2023-MJ,1,2,6,,Reading for detail,Single-detail retrieval,1
+2023-MJ,1,2,7,,Reading for detail,Single-detail retrieval,1
+2023-MJ,1,2,8,,Reading for detail,Multiple-detail retrieval,2
+2023-MJ,1,2,9,a,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,1,2,9,b,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,1,2,9,c,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,1,2,9,d,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,1,2,9,e,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,1,2,9,f,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,1,2,9,g,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,1,2,9,h,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,1,2,10,,Note-making,Notes under headings,5
+2023-MJ,1,2,11,,Note-making,Notes under headings,2
+2023-MJ,1,2,12,,Summary writing,Summary of one aspect,12
+2023-MJ,1,2,13,,Email/informal writing,Planning a visit or future event,12
+2023-MJ,1,2,14,,"Article, report, review or essay writing",Report,12
+2023-MJ,2,2,1,,Reading for detail,Single-detail retrieval,1
+2023-MJ,2,2,2,,Reading for detail,Single-detail retrieval,1
+2023-MJ,2,2,3,,Reading for detail,Single-detail retrieval,1
+2023-MJ,2,2,4,,Reading for detail,Single-detail retrieval,1
+2023-MJ,2,2,5,,Reading for detail,Single-detail retrieval,1
+2023-MJ,2,2,6,,Reading for detail,Single-detail retrieval,1
+2023-MJ,2,2,7,,Reading for detail,Single-detail retrieval,1
+2023-MJ,2,2,8,,Reading for detail,Multiple-detail retrieval,2
+2023-MJ,2,2,9,,Reading for detail,Multiple-detail retrieval,4
+2023-MJ,2,2,10,a,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,10,b,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,10,c,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,10,d,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,10,e,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,10,f,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,10,g,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,10,h,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,10,i,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,10,j,Multiple matching (reading),Matching to sections of one article,1
+2023-MJ,2,2,11,,Note-making,Notes under headings,6
+2023-MJ,2,2,12,,Note-making,Notes under headings,3
+2023-MJ,2,2,13,,Summary writing,Summary of one aspect,16
+2023-MJ,2,2,14,,Email/informal writing,Planning a visit or future event,16
+2023-MJ,2,2,15,,"Article, report, review or essay writing",Report,16
+2023-MJ,3,2,1,a,Listening: short extracts,Short-answer questions,1
+2023-MJ,3,2,1,b,Listening: short extracts,Short-answer questions,1
+2023-MJ,3,2,2,a,Listening: short extracts,Short-answer questions,1
+2023-MJ,3,2,2,b,Listening: short extracts,Short-answer questions,1
+2023-MJ,3,2,3,a,Listening: short extracts,Short-answer questions,1
+2023-MJ,3,2,3,b,Listening: short extracts,Short-answer questions,1
+2023-MJ,3,2,4,a,Listening: short extracts,Short-answer questions,1
+2023-MJ,3,2,4,b,Listening: short extracts,Short-answer questions,1
+2023-MJ,3,2,5,,Listening: talk,Gap-fill notes,8
+2023-MJ,3,2,6,,Listening: speaker matching,Six speakers matched to opinions,6
+2023-MJ,3,2,7,a,Listening: interview,Multiple choice (A–C),1
+2023-MJ,3,2,7,b,Listening: interview,Multiple choice (A–C),1
+2023-MJ,3,2,7,c,Listening: interview,Multiple choice (A–C),1
+2023-MJ,3,2,7,d,Listening: interview,Multiple choice (A–C),1
+2023-MJ,3,2,7,e,Listening: interview,Multiple choice (A–C),1
+2023-MJ,3,2,7,f,Listening: interview,Multiple choice (A–C),1
+2023-MJ,3,2,7,g,Listening: interview,Multiple choice (A–C),1
+2023-MJ,3,2,7,h,Listening: interview,Multiple choice (A–C),1
+2023-MJ,4,2,1,a,Listening: short extracts,Short-answer questions,1
+2023-MJ,4,2,1,b,Listening: short extracts,Short-answer questions,1
+2023-MJ,4,2,2,a,Listening: short extracts,Short-answer questions,1
+2023-MJ,4,2,2,b,Listening: short extracts,Short-answer questions,1
+2023-MJ,4,2,3,a,Listening: short extracts,Short-answer questions,1
+2023-MJ,4,2,3,b,Listening: short extracts,Short-answer questions,1
+2023-MJ,4,2,4,a,Listening: short extracts,Short-answer questions,1
+2023-MJ,4,2,4,b,Listening: short extracts,Short-answer questions,1
+2023-MJ,4,2,5,,Listening: talk,Gap-fill notes,8
+2023-MJ,4,2,6,,Listening: speaker matching,Six speakers matched to opinions,6
+2023-MJ,4,2,7,a,Listening: interview,Multiple choice (A–C),1
+2023-MJ,4,2,7,b,Listening: interview,Multiple choice (A–C),1
+2023-MJ,4,2,7,c,Listening: interview,Multiple choice (A–C),1
+2023-MJ,4,2,7,d,Listening: interview,Multiple choice (A–C),1
+2023-MJ,4,2,7,e,Listening: interview,Multiple choice (A–C),1
+2023-MJ,4,2,7,f,Listening: interview,Multiple choice (A–C),1
+2023-MJ,4,2,7,g,Listening: interview,Multiple choice (A–C),1
+2023-MJ,4,2,7,h,Listening: interview,Multiple choice (A–C),1
+2023-MJ,4,2,8,a,Listening: talk and discussion notes,Talk: gap-fill notes,5
+2023-MJ,4,2,8,b,Listening: talk and discussion notes,Discussion: gap-fill notes,5
+2023-ON,1,2,1,,Reading for detail,Single-detail retrieval,1
+2023-ON,1,2,2,,Reading for detail,Single-detail retrieval,1
+2023-ON,1,2,3,,Reading for detail,Multiple-detail retrieval,2
+2023-ON,1,2,4,,Reading for detail,Single-detail retrieval,1
+2023-ON,1,2,5,,Reading for detail,Single-detail retrieval,1
+2023-ON,1,2,6,,Reading for detail,Single-detail retrieval,1
+2023-ON,1,2,7,,Reading for detail,Multiple-detail retrieval,2
+2023-ON,1,2,8,a,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,1,2,8,b,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,1,2,8,c,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,1,2,8,d,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,1,2,8,e,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,1,2,8,f,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,1,2,8,g,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,1,2,8,h,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,1,2,9,,Note-making,Notes under headings,3
+2023-ON,1,2,10,,Note-making,Notes under headings,2
+2023-ON,1,2,11,,Note-making,Notes under headings,2
+2023-ON,1,2,12,,Summary writing,Summary of two aspects,12
+2023-ON,1,2,13,,Email/informal writing,Recounting a recent experience,12
+2023-ON,1,2,14,,"Article, report, review or essay writing",Review,12
+2023-ON,2,2,1,,Reading for detail,Single-detail retrieval,1
+2023-ON,2,2,2,,Reading for detail,Single-detail retrieval,1
+2023-ON,2,2,3,,Reading for detail,Multiple-detail retrieval,2
+2023-ON,2,2,4,,Reading for detail,Single-detail retrieval,1
+2023-ON,2,2,5,,Reading for detail,Single-detail retrieval,1
+2023-ON,2,2,6,,Reading for detail,Single-detail retrieval,1
+2023-ON,2,2,7,,Reading for detail,Multiple-detail retrieval,2
+2023-ON,2,2,8,,Reading for detail,Multiple-detail retrieval,4
+2023-ON,2,2,9,a,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,9,b,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,9,c,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,9,d,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,9,e,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,9,f,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,9,g,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,9,h,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,9,i,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,9,j,Multiple matching (reading),Matching to sections of one article,1
+2023-ON,2,2,10,,Note-making,Notes under headings,3
+2023-ON,2,2,11,,Note-making,Notes under headings,3
+2023-ON,2,2,12,,Note-making,Notes under headings,3
+2023-ON,2,2,13,,Summary writing,Summary of two aspects,16
+2023-ON,2,2,14,,Email/informal writing,Recounting a recent experience,16
+2023-ON,2,2,15,,"Article, report, review or essay writing",Review,16
+2023-ON,3,2,1,a,Listening: short extracts,Short-answer questions,1
+2023-ON,3,2,1,b,Listening: short extracts,Short-answer questions,1
+2023-ON,3,2,2,a,Listening: short extracts,Short-answer questions,1
+2023-ON,3,2,2,b,Listening: short extracts,Short-answer questions,1
+2023-ON,3,2,3,a,Listening: short extracts,Short-answer questions,1
+2023-ON,3,2,3,b,Listening: short extracts,Short-answer questions,1
+2023-ON,3,2,4,a,Listening: short extracts,Short-answer questions,1
+2023-ON,3,2,4,b,Listening: short extracts,Short-answer questions,1
+2023-ON,3,2,5,,Listening: talk,Gap-fill notes,8
+2023-ON,3,2,6,,Listening: speaker matching,Six speakers matched to opinions,6
+2023-ON,3,2,7,a,Listening: interview,Multiple choice (A–C),1
+2023-ON,3,2,7,b,Listening: interview,Multiple choice (A–C),1
+2023-ON,3,2,7,c,Listening: interview,Multiple choice (A–C),1
+2023-ON,3,2,7,d,Listening: interview,Multiple choice (A–C),1
+2023-ON,3,2,7,e,Listening: interview,Multiple choice (A–C),1
+2023-ON,3,2,7,f,Listening: interview,Multiple choice (A–C),1
+2023-ON,3,2,7,g,Listening: interview,Multiple choice (A–C),1
+2023-ON,3,2,7,h,Listening: interview,Multiple choice (A–C),1
+2023-ON,4,2,1,a,Listening: short extracts,Short-answer questions,1
+2023-ON,4,2,1,b,Listening: short extracts,Short-answer questions,1
+2023-ON,4,2,2,a,Listening: short extracts,Short-answer questions,1
+2023-ON,4,2,2,b,Listening: short extracts,Short-answer questions,1
+2023-ON,4,2,3,a,Listening: short extracts,Short-answer questions,1
+2023-ON,4,2,3,b,Listening: short extracts,Short-answer questions,1
+2023-ON,4,2,4,a,Listening: short extracts,Short-answer questions,1
+2023-ON,4,2,4,b,Listening: short extracts,Short-answer questions,1
+2023-ON,4,2,5,,Listening: talk,Gap-fill notes,8
+2023-ON,4,2,6,,Listening: speaker matching,Six speakers matched to opinions,6
+2023-ON,4,2,7,a,Listening: interview,Multiple choice (A–C),1
+2023-ON,4,2,7,b,Listening: interview,Multiple choice (A–C),1
+2023-ON,4,2,7,c,Listening: interview,Multiple choice (A–C),1
+2023-ON,4,2,7,d,Listening: interview,Multiple choice (A–C),1
+2023-ON,4,2,7,e,Listening: interview,Multiple choice (A–C),1
+2023-ON,4,2,7,f,Listening: interview,Multiple choice (A–C),1
+2023-ON,4,2,7,g,Listening: interview,Multiple choice (A–C),1
+2023-ON,4,2,7,h,Listening: interview,Multiple choice (A–C),1
+2023-ON,4,2,8,a,Listening: talk and discussion notes,Talk: gap-fill notes,5
+2023-ON,4,2,8,b,Listening: talk and discussion notes,Discussion: gap-fill notes,5
+2024-MJ,1,2,1,,Reading for detail,Single-detail retrieval,1
+2024-MJ,1,2,2,,Reading for detail,Single-detail retrieval,1
+2024-MJ,1,2,3,,Reading for detail,Single-detail retrieval,1
+2024-MJ,1,2,4,,Reading for detail,Single-detail retrieval,1
+2024-MJ,1,2,5,,Reading for detail,Single-detail retrieval,1
+2024-MJ,1,2,6,,Reading for detail,Multiple-detail retrieval,3
+2024-MJ,1,2,7,a,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-MJ,1,2,7,b,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-MJ,1,2,7,c,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-MJ,1,2,7,d,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-MJ,1,2,7,e,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-MJ,1,2,7,f,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-MJ,1,2,7,g,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-MJ,1,2,7,h,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-MJ,1,2,7,i,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-MJ,1,2,8,,Note-making,Notes under headings,4
+2024-MJ,1,2,9,,Note-making,Notes under headings,3
+2024-MJ,1,2,10,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-MJ,1,2,11,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-MJ,1,2,12,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-MJ,1,2,13,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-MJ,1,2,14,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-MJ,1,2,15,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-MJ,1,2,16,,Email/informal writing,Recounting a recent experience,15
+2024-MJ,1,2,17,,"Article, report, review or essay writing",Article,15
+2024-MJ,2,2,1,,Listening: short extracts,Multiple choice (A–D),1
+2024-MJ,2,2,2,,Listening: short extracts,Multiple choice (A–D),1
+2024-MJ,2,2,3,,Listening: short extracts,Multiple choice (A–D),1
+2024-MJ,2,2,4,,Listening: short extracts,Multiple choice (A–D),1
+2024-MJ,2,2,5,,Listening: short extracts,Multiple choice (A–D),1
+2024-MJ,2,2,6,,Listening: short extracts,Multiple choice (A–D),1
+2024-MJ,2,2,7,,Listening: short extracts,Multiple choice (A–D),1
+2024-MJ,2,2,8,,Listening: short extracts,Multiple choice (A–D),1
+2024-MJ,2,2,9,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,10,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,11,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,12,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,13,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,14,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,15,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,16,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,17,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,18,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-MJ,2,2,19,,Listening: talk,Multiple-choice sentence completion,1
+2024-MJ,2,2,20,,Listening: talk,Multiple-choice sentence completion,1
+2024-MJ,2,2,21,,Listening: talk,Multiple-choice sentence completion,1
+2024-MJ,2,2,22,,Listening: talk,Multiple-choice sentence completion,1
+2024-MJ,2,2,23,,Listening: talk,Multiple-choice sentence completion,1
+2024-MJ,2,2,24,,Listening: talk,Multiple-choice sentence completion,1
+2024-MJ,2,2,25,,Listening: talk,Multiple-choice sentence completion,1
+2024-MJ,2,2,26,,Listening: talk,Multiple-choice sentence completion,1
+2024-MJ,2,2,27,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-MJ,2,2,28,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-MJ,2,2,29,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-MJ,2,2,30,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-MJ,2,2,31,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-MJ,2,2,32,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-MJ,2,2,33,,Listening: interview,Multiple choice (A–C),1
+2024-MJ,2,2,34,,Listening: interview,Multiple choice (A–C),1
+2024-MJ,2,2,35,,Listening: interview,Multiple choice (A–C),1
+2024-MJ,2,2,36,,Listening: interview,Multiple choice (A–C),1
+2024-MJ,2,2,37,,Listening: interview,Multiple choice (A–C),1
+2024-MJ,2,2,38,,Listening: interview,Multiple choice (A–C),1
+2024-MJ,2,2,39,,Listening: interview,Multiple choice (A–C),1
+2024-MJ,2,2,40,,Listening: interview,Multiple choice (A–C),1
+2024-ON,1,2,1,,Reading for detail,Single-detail retrieval,1
+2024-ON,1,2,2,,Reading for detail,Single-detail retrieval,1
+2024-ON,1,2,3,,Reading for detail,Single-detail retrieval,1
+2024-ON,1,2,4,,Reading for detail,Single-detail retrieval,1
+2024-ON,1,2,5,,Reading for detail,Single-detail retrieval,1
+2024-ON,1,2,6,,Reading for detail,Multiple-detail retrieval,3
+2024-ON,1,2,7,a,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-ON,1,2,7,b,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-ON,1,2,7,c,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-ON,1,2,7,d,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-ON,1,2,7,e,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-ON,1,2,7,f,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-ON,1,2,7,g,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-ON,1,2,7,h,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-ON,1,2,7,i,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2024-ON,1,2,8,,Note-making,Notes under headings,3
+2024-ON,1,2,9,,Note-making,Notes under headings,4
+2024-ON,1,2,10,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-ON,1,2,11,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-ON,1,2,12,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-ON,1,2,13,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-ON,1,2,14,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-ON,1,2,15,,Multiple-choice reading,Multiple-choice questions on an article,1
+2024-ON,1,2,16,,Email/informal writing,Recounting a recent experience,15
+2024-ON,1,2,17,,"Article, report, review or essay writing",Report,15
+2024-ON,2,2,1,,Listening: short extracts,Multiple choice (A–D),1
+2024-ON,2,2,2,,Listening: short extracts,Multiple choice (A–D),1
+2024-ON,2,2,3,,Listening: short extracts,Multiple choice (A–D),1
+2024-ON,2,2,4,,Listening: short extracts,Multiple choice (A–D),1
+2024-ON,2,2,5,,Listening: short extracts,Multiple choice (A–D),1
+2024-ON,2,2,6,,Listening: short extracts,Multiple choice (A–D),1
+2024-ON,2,2,7,,Listening: short extracts,Multiple choice (A–D),1
+2024-ON,2,2,8,,Listening: short extracts,Multiple choice (A–D),1
+2024-ON,2,2,9,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,10,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,11,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,12,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,13,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,14,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,15,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,16,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,17,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,18,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2024-ON,2,2,19,,Listening: talk,Multiple-choice sentence completion,1
+2024-ON,2,2,20,,Listening: talk,Multiple-choice sentence completion,1
+2024-ON,2,2,21,,Listening: talk,Multiple-choice sentence completion,1
+2024-ON,2,2,22,,Listening: talk,Multiple-choice sentence completion,1
+2024-ON,2,2,23,,Listening: talk,Multiple-choice sentence completion,1
+2024-ON,2,2,24,,Listening: talk,Multiple-choice sentence completion,1
+2024-ON,2,2,25,,Listening: talk,Multiple-choice sentence completion,1
+2024-ON,2,2,26,,Listening: talk,Multiple-choice sentence completion,1
+2024-ON,2,2,27,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-ON,2,2,28,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-ON,2,2,29,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-ON,2,2,30,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-ON,2,2,31,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-ON,2,2,32,,Listening: speaker matching,Six speakers matched to ideas,1
+2024-ON,2,2,33,,Listening: interview,Multiple choice (A–C),1
+2024-ON,2,2,34,,Listening: interview,Multiple choice (A–C),1
+2024-ON,2,2,35,,Listening: interview,Multiple choice (A–C),1
+2024-ON,2,2,36,,Listening: interview,Multiple choice (A–C),1
+2024-ON,2,2,37,,Listening: interview,Multiple choice (A–C),1
+2024-ON,2,2,38,,Listening: interview,Multiple choice (A–C),1
+2024-ON,2,2,39,,Listening: interview,Multiple choice (A–C),1
+2024-ON,2,2,40,,Listening: interview,Multiple choice (A–C),1
+2025-MJ,1,2,1,,Reading for detail,Single-detail retrieval,1
+2025-MJ,1,2,2,,Reading for detail,Single-detail retrieval,1
+2025-MJ,1,2,3,,Reading for detail,Single-detail retrieval,1
+2025-MJ,1,2,4,,Reading for detail,Single-detail retrieval,1
+2025-MJ,1,2,5,,Reading for detail,Single-detail retrieval,1
+2025-MJ,1,2,6,,Reading for detail,Multiple-detail retrieval,3
+2025-MJ,1,2,7,a,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-MJ,1,2,7,b,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-MJ,1,2,7,c,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-MJ,1,2,7,d,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-MJ,1,2,7,e,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-MJ,1,2,7,f,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-MJ,1,2,7,g,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-MJ,1,2,7,h,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-MJ,1,2,7,i,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-MJ,1,2,8,,Note-making,Notes under headings,4
+2025-MJ,1,2,9,,Note-making,Notes under headings,3
+2025-MJ,1,2,10,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-MJ,1,2,11,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-MJ,1,2,12,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-MJ,1,2,13,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-MJ,1,2,14,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-MJ,1,2,15,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-MJ,1,2,16,,Email/informal writing,Describing a problem and its effects,15
+2025-MJ,1,2,17,,"Article, report, review or essay writing",Review,15
+2025-MJ,2,2,1,,Listening: short extracts,Multiple choice (A–D),1
+2025-MJ,2,2,2,,Listening: short extracts,Multiple choice (A–D),1
+2025-MJ,2,2,3,,Listening: short extracts,Multiple choice (A–D),1
+2025-MJ,2,2,4,,Listening: short extracts,Multiple choice (A–D),1
+2025-MJ,2,2,5,,Listening: short extracts,Multiple choice (A–D),1
+2025-MJ,2,2,6,,Listening: short extracts,Multiple choice (A–D),1
+2025-MJ,2,2,7,,Listening: short extracts,Multiple choice (A–D),1
+2025-MJ,2,2,8,,Listening: short extracts,Multiple choice (A–D),1
+2025-MJ,2,2,9,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,10,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,11,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,12,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,13,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,14,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,15,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,16,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,17,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,18,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-MJ,2,2,19,,Listening: talk,Multiple-choice sentence completion,1
+2025-MJ,2,2,20,,Listening: talk,Multiple-choice sentence completion,1
+2025-MJ,2,2,21,,Listening: talk,Multiple-choice sentence completion,1
+2025-MJ,2,2,22,,Listening: talk,Multiple-choice sentence completion,1
+2025-MJ,2,2,23,,Listening: talk,Multiple-choice sentence completion,1
+2025-MJ,2,2,24,,Listening: talk,Multiple-choice sentence completion,1
+2025-MJ,2,2,25,,Listening: talk,Multiple-choice sentence completion,1
+2025-MJ,2,2,26,,Listening: talk,Multiple-choice sentence completion,1
+2025-MJ,2,2,27,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-MJ,2,2,28,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-MJ,2,2,29,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-MJ,2,2,30,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-MJ,2,2,31,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-MJ,2,2,32,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-MJ,2,2,33,,Listening: interview,Multiple choice (A–C),1
+2025-MJ,2,2,34,,Listening: interview,Multiple choice (A–C),1
+2025-MJ,2,2,35,,Listening: interview,Multiple choice (A–C),1
+2025-MJ,2,2,36,,Listening: interview,Multiple choice (A–C),1
+2025-MJ,2,2,37,,Listening: interview,Multiple choice (A–C),1
+2025-MJ,2,2,38,,Listening: interview,Multiple choice (A–C),1
+2025-MJ,2,2,39,,Listening: interview,Multiple choice (A–C),1
+2025-MJ,2,2,40,,Listening: interview,Multiple choice (A–C),1
+2025-ON,1,2,1,,Reading for detail,Single-detail retrieval,1
+2025-ON,1,2,2,,Reading for detail,Single-detail retrieval,1
+2025-ON,1,2,3,,Reading for detail,Single-detail retrieval,1
+2025-ON,1,2,4,,Reading for detail,Single-detail retrieval,1
+2025-ON,1,2,5,,Reading for detail,Single-detail retrieval,1
+2025-ON,1,2,6,,Reading for detail,Multiple-detail retrieval,3
+2025-ON,1,2,7,a,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-ON,1,2,7,b,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-ON,1,2,7,c,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-ON,1,2,7,d,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-ON,1,2,7,e,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-ON,1,2,7,f,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-ON,1,2,7,g,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-ON,1,2,7,h,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-ON,1,2,7,i,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2025-ON,1,2,8,,Note-making,Notes under headings,4
+2025-ON,1,2,9,,Note-making,Notes under headings,3
+2025-ON,1,2,10,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-ON,1,2,11,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-ON,1,2,12,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-ON,1,2,13,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-ON,1,2,14,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-ON,1,2,15,,Multiple-choice reading,Multiple-choice questions on an article,1
+2025-ON,1,2,16,,Email/informal writing,Planning a visit or future event,15
+2025-ON,1,2,17,,"Article, report, review or essay writing",Review,15
+2025-ON,2,2,1,,Listening: short extracts,Multiple choice (A–D),1
+2025-ON,2,2,2,,Listening: short extracts,Multiple choice (A–D),1
+2025-ON,2,2,3,,Listening: short extracts,Multiple choice (A–D),1
+2025-ON,2,2,4,,Listening: short extracts,Multiple choice (A–D),1
+2025-ON,2,2,5,,Listening: short extracts,Multiple choice (A–D),1
+2025-ON,2,2,6,,Listening: short extracts,Multiple choice (A–D),1
+2025-ON,2,2,7,,Listening: short extracts,Multiple choice (A–D),1
+2025-ON,2,2,8,,Listening: short extracts,Multiple choice (A–D),1
+2025-ON,2,2,9,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,10,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,11,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,12,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,13,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,14,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,15,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,16,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,17,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,18,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2025-ON,2,2,19,,Listening: talk,Multiple-choice sentence completion,1
+2025-ON,2,2,20,,Listening: talk,Multiple-choice sentence completion,1
+2025-ON,2,2,21,,Listening: talk,Multiple-choice sentence completion,1
+2025-ON,2,2,22,,Listening: talk,Multiple-choice sentence completion,1
+2025-ON,2,2,23,,Listening: talk,Multiple-choice sentence completion,1
+2025-ON,2,2,24,,Listening: talk,Multiple-choice sentence completion,1
+2025-ON,2,2,25,,Listening: talk,Multiple-choice sentence completion,1
+2025-ON,2,2,26,,Listening: talk,Multiple-choice sentence completion,1
+2025-ON,2,2,27,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-ON,2,2,28,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-ON,2,2,29,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-ON,2,2,30,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-ON,2,2,31,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-ON,2,2,32,,Listening: speaker matching,Six speakers matched to ideas,1
+2025-ON,2,2,33,,Listening: interview,Multiple choice (A–C),1
+2025-ON,2,2,34,,Listening: interview,Multiple choice (A–C),1
+2025-ON,2,2,35,,Listening: interview,Multiple choice (A–C),1
+2025-ON,2,2,36,,Listening: interview,Multiple choice (A–C),1
+2025-ON,2,2,37,,Listening: interview,Multiple choice (A–C),1
+2025-ON,2,2,38,,Listening: interview,Multiple choice (A–C),1
+2025-ON,2,2,39,,Listening: interview,Multiple choice (A–C),1
+2025-ON,2,2,40,,Listening: interview,Multiple choice (A–C),1
+2026-MJ,1,2,1,,Reading for detail,Single-detail retrieval,1
+2026-MJ,1,2,2,,Reading for detail,Single-detail retrieval,1
+2026-MJ,1,2,3,,Reading for detail,Single-detail retrieval,1
+2026-MJ,1,2,4,,Reading for detail,Single-detail retrieval,1
+2026-MJ,1,2,5,,Reading for detail,Single-detail retrieval,1
+2026-MJ,1,2,6,,Reading for detail,Multiple-detail retrieval,3
+2026-MJ,1,2,7,a,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2026-MJ,1,2,7,b,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2026-MJ,1,2,7,c,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2026-MJ,1,2,7,d,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2026-MJ,1,2,7,e,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2026-MJ,1,2,7,f,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2026-MJ,1,2,7,g,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2026-MJ,1,2,7,h,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2026-MJ,1,2,7,i,Multiple matching (reading),Matching to four texts or sections (A–D),1
+2026-MJ,1,2,8,,Note-making,Notes under headings,4
+2026-MJ,1,2,9,,Note-making,Notes under headings,3
+2026-MJ,1,2,10,,Multiple-choice reading,Multiple-choice questions on an article,1
+2026-MJ,1,2,11,,Multiple-choice reading,Multiple-choice questions on an article,1
+2026-MJ,1,2,12,,Multiple-choice reading,Multiple-choice questions on an article,1
+2026-MJ,1,2,13,,Multiple-choice reading,Multiple-choice questions on an article,1
+2026-MJ,1,2,14,,Multiple-choice reading,Multiple-choice questions on an article,1
+2026-MJ,1,2,15,,Multiple-choice reading,Multiple-choice questions on an article,1
+2026-MJ,1,2,16,,Email/informal writing,Recounting a recent experience,15
+2026-MJ,1,2,17,,"Article, report, review or essay writing",Essay,15
+2026-MJ,2,2,1,,Listening: short extracts,Multiple choice (A–D),1
+2026-MJ,2,2,2,,Listening: short extracts,Multiple choice (A–D),1
+2026-MJ,2,2,3,,Listening: short extracts,Multiple choice (A–D),1
+2026-MJ,2,2,4,,Listening: short extracts,Multiple choice (A–D),1
+2026-MJ,2,2,5,,Listening: short extracts,Multiple choice (A–D),1
+2026-MJ,2,2,6,,Listening: short extracts,Multiple choice (A–D),1
+2026-MJ,2,2,7,,Listening: short extracts,Multiple choice (A–D),1
+2026-MJ,2,2,8,,Listening: short extracts,Multiple choice (A–D),1
+2026-MJ,2,2,9,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,10,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,11,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,12,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,13,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,14,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,15,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,16,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,17,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,18,,Listening: short conversations,"Multiple choice (A–C), two questions per recording",1
+2026-MJ,2,2,19,,Listening: talk,Multiple-choice sentence completion,1
+2026-MJ,2,2,20,,Listening: talk,Multiple-choice sentence completion,1
+2026-MJ,2,2,21,,Listening: talk,Multiple-choice sentence completion,1
+2026-MJ,2,2,22,,Listening: talk,Multiple-choice sentence completion,1
+2026-MJ,2,2,23,,Listening: talk,Multiple-choice sentence completion,1
+2026-MJ,2,2,24,,Listening: talk,Multiple-choice sentence completion,1
+2026-MJ,2,2,25,,Listening: talk,Multiple-choice sentence completion,1
+2026-MJ,2,2,26,,Listening: talk,Multiple-choice sentence completion,1
+2026-MJ,2,2,27,,Listening: speaker matching,Six speakers matched to ideas,1
+2026-MJ,2,2,28,,Listening: speaker matching,Six speakers matched to ideas,1
+2026-MJ,2,2,29,,Listening: speaker matching,Six speakers matched to ideas,1
+2026-MJ,2,2,30,,Listening: speaker matching,Six speakers matched to ideas,1
+2026-MJ,2,2,31,,Listening: speaker matching,Six speakers matched to ideas,1
+2026-MJ,2,2,32,,Listening: speaker matching,Six speakers matched to ideas,1
+2026-MJ,2,2,33,,Listening: interview,Multiple choice (A–C),1
+2026-MJ,2,2,34,,Listening: interview,Multiple choice (A–C),1
+2026-MJ,2,2,35,,Listening: interview,Multiple choice (A–C),1
+2026-MJ,2,2,36,,Listening: interview,Multiple choice (A–C),1
+2026-MJ,2,2,37,,Listening: interview,Multiple choice (A–C),1
+2026-MJ,2,2,38,,Listening: interview,Multiple choice (A–C),1
+2026-MJ,2,2,39,,Listening: interview,Multiple choice (A–C),1
+2026-MJ,2,2,40,,Listening: interview,Multiple choice (A–C),1

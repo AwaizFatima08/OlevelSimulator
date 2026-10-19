@@ -4,7 +4,8 @@ Free, non-profit study aid by [HomiLabs](https://homilabs.org): Cambridge O Leve
 questions sorted by topic, listed year by year, with similar questions grouped by subtopic.
 
 - Website: https://cambridgesimulator.homilabs.org (static HTML on Hostinger)
-- Android app: planned; reads the same data packs (`site/data/*.json`)
+- Android app: `app/` (Flutter, `com.homilabs.questionsimulator`); reads the same data packs (`site/data/*.json`).
+  See [app/README.md](app/README.md) and [docs/app-testing.md](docs/app-testing.md).
 - No complete papers, mark schemes or examiner reports are published. See [docs/architecture.md](docs/architecture.md).
 
 ## Layout

@@ -1,0 +1,259 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,,Input and output devices,Input devices,2
+2022-MJ,1,2,2,,Input and output devices,Output devices,2
+2022-MJ,1,2,3,a,Networks and the effects of using them,Network devices,1
+2022-MJ,1,2,3,b,Networks and the effects of using them,Network devices,1
+2022-MJ,1,2,3,c,Networks and the effects of using them,Network devices,1
+2022-MJ,1,2,3,d,Networks and the effects of using them,Network devices,1
+2022-MJ,1,2,4,a,Document production,Page and text formatting,4
+2022-MJ,1,2,4,b,Images,Editing images,4
+2022-MJ,1,2,5,,Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",4
+2022-MJ,1,2,6,,Storage devices and media,"Magnetic, optical and solid-state storage",2
+2022-MJ,1,2,7,a,Safety and security,eSafety and data protection,4
+2022-MJ,1,2,7,b,Safety and security,eSafety and data protection,3
+2022-MJ,1,2,7,c,Safety and security,eSafety and data protection,4
+2022-MJ,1,2,8,a,Communication,"Internet, WWW, URLs and search engines",1
+2022-MJ,1,2,8,b,Communication,"Internet, WWW, URLs and search engines",1
+2022-MJ,1,2,8,c,Communication,"Internet, WWW, URLs and search engines",1
+2022-MJ,1,2,8,d,Communication,"Internet, WWW, URLs and search engines",1
+2022-MJ,1,2,9,a,Spreadsheets,Formulas and functions,4
+2022-MJ,1,2,9,b,The systems life cycle,Testing and test data,3
+2022-MJ,1,2,9,c,Spreadsheets,Formulas and functions,6
+2022-MJ,1,2,9,d,Databases,Databases vs other methods,2
+2022-MJ,1,2,10,,The effects of using IT,Health problems,8
+2022-MJ,1,2,11,,ICT applications,Robotics and computer control,6
+2022-MJ,1,2,12,,The systems life cycle,Analysis,6
+2022-MJ,1,2,13,a,Proofing,Verification and proofreading,4
+2022-MJ,1,2,13,b,Proofing,Validation and verification together,4
+2022-MJ,1,2,14,a,Communication,Email and spam,2
+2022-MJ,1,2,14,b,Communication,Email and spam,6
+2022-MJ,1,2,15,a,Networks and the effects of using them,Cloud computing and file sharing,6
+2022-MJ,1,2,15,b,Networks and the effects of using them,Cloud computing and file sharing,2
+2022-MJ,1,2,16,a,Styles,Corporate house style,2
+2022-MJ,1,2,16,b,Layout,Headers and footers,2
+2022-ON,1,2,1,a,Document production,Page and text formatting,1
+2022-ON,1,2,1,b,Document production,Page and text formatting,1
+2022-ON,1,2,1,c,Document production,Page and text formatting,1
+2022-ON,1,2,1,d,Document production,Page and text formatting,1
+2022-ON,1,2,2,,Types and components of computer systems,Hardware and software,4
+2022-ON,1,2,3,a,Types and components of computer systems,Operating systems and user interfaces,3
+2022-ON,1,2,3,b,Types and components of computer systems,Types of computer,3
+2022-ON,1,2,4,a,Networks and the effects of using them,Passwords and authentication,2
+2022-ON,1,2,4,b,Safety and security,Security threats and prevention,2
+2022-ON,1,2,5,a,The systems life cycle,Testing and test data,4
+2022-ON,1,2,5,b,The systems life cycle,Implementation methods,3
+2022-ON,1,2,6,,ICT applications,Computer modelling,4
+2022-ON,1,2,7,a,Databases,Databases vs other methods,6
+2022-ON,1,2,7,b,The systems life cycle,Design: data capture forms and file structures,5
+2022-ON,1,2,8,,ICT applications,"Monitoring, measurement and control",8
+2022-ON,1,2,9,a,Networks and the effects of using them,Cloud computing and file sharing,3
+2022-ON,1,2,9,b,Networks and the effects of using them,Cloud computing and file sharing,6
+2022-ON,1,2,9,c,Networks and the effects of using them,Passwords and authentication,8
+2022-ON,1,2,10,,ICT applications,Banking applications,6
+2022-ON,1,2,11,a,Communication,Email and spam,3
+2022-ON,1,2,11,b,Input and output devices,"Sensors, actuators and ADC/DAC",3
+2022-ON,1,2,11,c,ICT applications,"Monitoring, measurement and control",6
+2022-ON,1,2,12,,Types and components of computer systems,Operating systems and user interfaces,4
+2022-ON,1,2,13,,The effects of using IT,Effects on work and employment,6
+2022-ON,1,2,14,a,File management,Generic file formats,2
+2022-ON,1,2,14,b,File management,Generic file formats,3
+2022-ON,1,2,15,,Proofing,Verification and proofreading,2
+2023-MJ,1,2,1,,The systems life cycle,Design: validation routines,1
+2023-MJ,1,2,2,a,Types and components of computer systems,Internal components and memory,1
+2023-MJ,1,2,2,b,Types and components of computer systems,Internal components and memory,1
+2023-MJ,1,2,2,c,Types and components of computer systems,Internal components and memory,1
+2023-MJ,1,2,3,,Input and output devices,Input devices,4
+2023-MJ,1,2,4,a,Networks and the effects of using them,"Internet, intranet and extranet",2
+2023-MJ,1,2,4,b,Networks and the effects of using them,"Internet, intranet and extranet",2
+2023-MJ,1,2,5,a,The effects of using IT,Health problems,1
+2023-MJ,1,2,5,b,The effects of using IT,Health problems,1
+2023-MJ,1,2,5,c,The effects of using IT,Health problems,1
+2023-MJ,1,2,6,a,Networks and the effects of using them,Passwords and authentication,6
+2023-MJ,1,2,6,b,Safety and security,"SSL, encryption and digital certificates",1
+2023-MJ,1,2,6,c,Safety and security,"SSL, encryption and digital certificates",3
+2023-MJ,1,2,7,a,The systems life cycle,Testing and test data,3
+2023-MJ,1,2,7,b,The systems life cycle,Testing and test data,3
+2023-MJ,1,2,8,a,Networks and the effects of using them,Electronic conferencing,3
+2023-MJ,1,2,8,b,Networks and the effects of using them,Electronic conferencing,6
+2023-MJ,1,2,9,a,Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",6
+2023-MJ,1,2,9,b,Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",2
+2023-MJ,1,2,10,a,Website authoring,Web development layers and HTML,3
+2023-MJ,1,2,10,b,Website authoring,Web development layers and HTML,1
+2023-MJ,1,2,11,a,Types and components of computer systems,Operating systems and user interfaces,2
+2023-MJ,1,2,11,b,Types and components of computer systems,Operating systems and user interfaces,4
+2023-MJ,1,2,12,a,Storage devices and media,"Magnetic, optical and solid-state storage",4
+2023-MJ,1,2,12,b(i),Storage devices and media,Backing storage vs internal memory,2
+2023-MJ,1,2,12,b(ii),Storage devices and media,"Magnetic, optical and solid-state storage",2
+2023-MJ,1,2,13,a,ICT applications,Computer modelling,4
+2023-MJ,1,2,13,b,Input and output devices,"Sensors, actuators and ADC/DAC",2
+2023-MJ,1,2,13,c,Input and output devices,Output devices,2
+2023-MJ,1,2,14,a,ICT applications,Communication media and ePublications,4
+2023-MJ,1,2,14,b,Audience,Software copyright,2
+2023-ON,1,2,1,,Types and components of computer systems,Internal components and memory,1
+2023-ON,1,2,2,a(i),Input and output devices,"Sensors, actuators and ADC/DAC",1
+2023-ON,1,2,2,a(ii),Input and output devices,"Sensors, actuators and ADC/DAC",1
+2023-ON,1,2,2,b,Input and output devices,"Sensors, actuators and ADC/DAC",1
+2023-ON,1,2,2,c(i),Input and output devices,"Sensors, actuators and ADC/DAC",1
+2023-ON,1,2,2,c(ii),Input and output devices,"Sensors, actuators and ADC/DAC",1
+2023-ON,1,2,2,c(iii),Input and output devices,"Sensors, actuators and ADC/DAC",1
+2023-ON,1,2,3,,Networks and the effects of using them,Network devices,6
+2023-ON,1,2,4,,The systems life cycle,Design: validation routines,6
+2023-ON,1,2,5,a,Types and components of computer systems,Types of computer,2
+2023-ON,1,2,5,b,Types and components of computer systems,Types of computer,6
+2023-ON,1,2,6,a,The effects of using IT,Health problems,2
+2023-ON,1,2,6,b,Safety and security,Physical safety,2
+2023-ON,1,2,7,,Types and components of computer systems,Emerging technologies,4
+2023-ON,1,2,8,a,Storage devices and media,"Magnetic, optical and solid-state storage",1
+2023-ON,1,2,8,b,Types and components of computer systems,Internal components and memory,1
+2023-ON,1,2,8,c,Storage devices and media,"Magnetic, optical and solid-state storage",1
+2023-ON,1,2,8,d,Storage devices and media,"Magnetic, optical and solid-state storage",1
+2023-ON,1,2,9,,Proofing,Validation and verification together,6
+2023-ON,1,2,10,a,The systems life cycle,Analysis,3
+2023-ON,1,2,10,b,The systems life cycle,Implementation methods,6
+2023-ON,1,2,10,c,ICT applications,Online booking systems,5
+2023-ON,1,2,10,d,Networks and the effects of using them,"Network types (LAN, WLAN, WAN)",4
+2023-ON,1,2,11,a,ICT applications,Retail and internet shopping,6
+2023-ON,1,2,11,b,ICT applications,Retail and internet shopping,5
+2023-ON,1,2,12,a,The systems life cycle,Design: data capture forms and file structures,4
+2023-ON,1,2,12,b,The systems life cycle,Design: data capture forms and file structures,2
+2024-MJ,1,2,1,,Types and components of computer systems,Internal components and memory,2
+2024-MJ,1,2,2,a,Safety and security,Physical safety,1
+2024-MJ,1,2,2,b,The effects of using IT,Health problems,1
+2024-MJ,1,2,2,c,The effects of using IT,Health problems,1
+2024-MJ,1,2,2,d,Safety and security,Physical safety,1
+2024-MJ,1,2,3,a,Networks and the effects of using them,Passwords and authentication,2
+2024-MJ,1,2,3,b,Networks and the effects of using them,Passwords and authentication,2
+2024-MJ,1,2,4,,The effects of using IT,Microprocessor-controlled devices,6
+2024-MJ,1,2,5,a,Types and components of computer systems,Operating systems and user interfaces,2
+2024-MJ,1,2,5,b,Types and components of computer systems,Operating systems and user interfaces,2
+2024-MJ,1,2,6,a,Networks and the effects of using them,Electronic conferencing,2
+2024-MJ,1,2,6,b,Networks and the effects of using them,Electronic conferencing,4
+2024-MJ,1,2,7,a,Types and components of computer systems,Types of computer,4
+2024-MJ,1,2,7,b,The systems life cycle,Design: data capture forms and file structures,4
+2024-MJ,1,2,8,a,Types and components of computer systems,Emerging technologies,2
+2024-MJ,1,2,8,b,Types and components of computer systems,Emerging technologies,6
+2024-MJ,1,2,9,a,ICT applications,Expert systems,3
+2024-MJ,1,2,9,b,ICT applications,Expert systems,3
+2024-MJ,1,2,10,,ICT applications,"Monitoring, measurement and control",4
+2024-MJ,1,2,11,a,The systems life cycle,Implementation methods,5
+2024-MJ,1,2,11,b,The systems life cycle,Documentation,3
+2024-MJ,1,2,12,a,Safety and security,Security threats and prevention,2
+2024-MJ,1,2,12,b,Safety and security,Security threats and prevention,2
+2024-MJ,1,2,13,a,Proofing,Verification and proofreading,1
+2024-MJ,1,2,13,b,Input and output devices,Input devices,4
+2024-MJ,1,2,13,c(i),Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",1
+2024-MJ,1,2,13,c(ii),Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",1
+2024-MJ,1,2,13,c(iii),Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",1
+2024-MJ,1,2,13,c(iv),Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",1
+2024-MJ,1,2,14,,Storage devices and media,"Magnetic, optical and solid-state storage",3
+2024-MJ,1,2,15,,Safety and security,eSafety and data protection,4
+2024-ON,1,2,1,,Audience,Software copyright,2
+2024-ON,1,2,2,a,Communication,Email and spam,1
+2024-ON,1,2,2,b,Communication,Email and spam,1
+2024-ON,1,2,2,c,Communication,Email and spam,1
+2024-ON,1,2,2,d,Communication,Email and spam,1
+2024-ON,1,2,3,a,File management,Generic file formats,2
+2024-ON,1,2,3,b,File management,Generic file formats,2
+2024-ON,1,2,3,c,File management,Generic file formats,2
+2024-ON,1,2,4,a,Input and output devices,Input devices,4
+2024-ON,1,2,4,b,Input and output devices,Input devices,3
+2024-ON,1,2,4,c,Input and output devices,Output devices,3
+2024-ON,1,2,5,a,Types and components of computer systems,Internal components and memory,4
+2024-ON,1,2,5,b,Storage devices and media,Backing storage vs internal memory,4
+2024-ON,1,2,6,,Types and components of computer systems,Operating systems and user interfaces,6
+2024-ON,1,2,7,a,ICT applications,Expert systems,3
+2024-ON,1,2,7,b,ICT applications,Expert systems,3
+2024-ON,1,2,8,,Types and components of computer systems,Types of computer,6
+2024-ON,1,2,9,a,Networks and the effects of using them,Network devices,2
+2024-ON,1,2,9,b,Networks and the effects of using them,Network devices,4
+2024-ON,1,2,10,a,Networks and the effects of using them,Passwords and authentication,4
+2024-ON,1,2,10,b(i),Safety and security,Security threats and prevention,3
+2024-ON,1,2,10,b(ii),Safety and security,Security threats and prevention,3
+2024-ON,1,2,11,a,ICT applications,Communication media and ePublications,4
+2024-ON,1,2,11,b,ICT applications,Communication media and ePublications,2
+2024-ON,1,2,12,a,The systems life cycle,Analysis,4
+2024-ON,1,2,12,b,The systems life cycle,Analysis,3
+2024-ON,1,2,12,c,The systems life cycle,Design: data capture forms and file structures,3
+2025-MJ,1,2,1,,Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",2
+2025-MJ,1,2,2,a(i),Types and components of computer systems,Hardware and software,2
+2025-MJ,1,2,2,a(ii),Types and components of computer systems,Hardware and software,2
+2025-MJ,1,2,2,a(iii),Types and components of computer systems,Hardware and software,2
+2025-MJ,1,2,2,b,Types and components of computer systems,Hardware and software,1
+2025-MJ,1,2,3,,ICT applications,Recognition systems,6
+2025-MJ,1,2,4,a(i),The systems life cycle,Testing and test data,1
+2025-MJ,1,2,4,a(ii),The systems life cycle,Testing and test data,1
+2025-MJ,1,2,4,a(iii),The systems life cycle,Testing and test data,1
+2025-MJ,1,2,4,b,The systems life cycle,Testing and test data,1
+2025-MJ,1,2,4,c,The systems life cycle,Documentation,2
+2025-MJ,1,2,4,d,The systems life cycle,Documentation,3
+2025-MJ,1,2,5,a,Safety and security,Physical safety,3
+2025-MJ,1,2,5,b,Safety and security,Physical safety,3
+2025-MJ,1,2,6,a,Safety and security,Security threats and prevention,6
+2025-MJ,1,2,6,b(i),Safety and security,Security threats and prevention,2
+2025-MJ,1,2,6,b(ii),Safety and security,Security threats and prevention,2
+2025-MJ,1,2,7,,ICT applications,Satellite systems,6
+2025-MJ,1,2,8,a(i),The systems life cycle,Design: validation routines,1
+2025-MJ,1,2,8,a(ii),The systems life cycle,Design: validation routines,1
+2025-MJ,1,2,8,a(iii),The systems life cycle,Design: validation routines,1
+2025-MJ,1,2,8,b,Proofing,Validation and verification together,4
+2025-MJ,1,2,8,c,Proofing,Verification and proofreading,1
+2025-MJ,1,2,9,a,Networks and the effects of using them,Network devices,3
+2025-MJ,1,2,9,b,Networks and the effects of using them,Wi-fi and Bluetooth,4
+2025-MJ,1,2,9,c,Networks and the effects of using them,"Network types (LAN, WLAN, WAN)",1
+2025-MJ,1,2,10,a,Safety and security,"SSL, encryption and digital certificates",3
+2025-MJ,1,2,10,b,Safety and security,"SSL, encryption and digital certificates",1
+2025-MJ,1,2,10,c,Communication,"Internet, WWW, URLs and search engines",5
+2025-MJ,1,2,11,a,Networks and the effects of using them,Cloud computing and file sharing,3
+2025-MJ,1,2,11,b,Networks and the effects of using them,Cloud computing and file sharing,3
+2025-MJ,1,2,12,,ICT applications,Banking applications,3
+2025-ON,1,2,1,,Website authoring,Web development layers and HTML,2
+2025-ON,1,2,2,a(i),Input and output devices,"Sensors, actuators and ADC/DAC",1
+2025-ON,1,2,2,a(ii),Input and output devices,"Sensors, actuators and ADC/DAC",1
+2025-ON,1,2,2,b,Input and output devices,"Sensors, actuators and ADC/DAC",1
+2025-ON,1,2,2,c,Input and output devices,"Sensors, actuators and ADC/DAC",1
+2025-ON,1,2,3,,Input and output devices,Input devices,6
+2025-ON,1,2,4,,Storage devices and media,Backing storage vs internal memory,4
+2025-ON,1,2,5,a(i),The systems life cycle,Design: data capture forms and file structures,2
+2025-ON,1,2,5,a(ii),The systems life cycle,Design: data capture forms and file structures,2
+2025-ON,1,2,5,a(iii),The systems life cycle,Design: data capture forms and file structures,2
+2025-ON,1,2,5,b,ICT applications,Robotics and computer control,2
+2025-ON,1,2,5,c,ICT applications,Robotics and computer control,6
+2025-ON,1,2,6,,Types and components of computer systems,Types of computer,2
+2025-ON,1,2,7,a,Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",6
+2025-ON,1,2,7,b,ICT applications,Online booking systems,4
+2025-ON,1,2,8,a,Safety and security,Security threats and prevention,4
+2025-ON,1,2,8,b,Safety and security,Security threats and prevention,2
+2025-ON,1,2,9,,Website authoring,Web development layers and HTML,3
+2025-ON,1,2,10,a,Storage devices and media,"Magnetic, optical and solid-state storage",4
+2025-ON,1,2,10,b,Networks and the effects of using them,Wi-fi and Bluetooth,4
+2025-ON,1,2,11,a,Safety and security,"SSL, encryption and digital certificates",4
+2025-ON,1,2,11,b,Safety and security,"SSL, encryption and digital certificates",2
+2025-ON,1,2,12,a,The effects of using IT,Microprocessor-controlled devices,5
+2025-ON,1,2,12,b,The effects of using IT,Microprocessor-controlled devices,2
+2025-ON,1,2,13,a,ICT applications,Medical applications,2
+2025-ON,1,2,13,b,ICT applications,Medical applications,4
+2025-ON,1,2,14,,Input and output devices,Output devices,2
+2026-MJ,1,2,1,,The effects of using IT,Health problems,4
+2026-MJ,1,2,2,,Spreadsheets,Formulas and functions,2
+2026-MJ,1,2,3,a,ICT applications,Online booking systems,6
+2026-MJ,1,2,3,b,Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",1
+2026-MJ,1,2,4,a,Safety and security,Security threats and prevention,3
+2026-MJ,1,2,4,b,Safety and security,Security threats and prevention,1
+2026-MJ,1,2,4,c,Safety and security,Security threats and prevention,4
+2026-MJ,1,2,5,a,Website authoring,Web development layers and HTML,3
+2026-MJ,1,2,5,b,Website authoring,Web development layers and HTML,3
+2026-MJ,1,2,6,,Safety and security,eSafety and data protection,6
+2026-MJ,1,2,7,a,Input and output devices,"Sensors, actuators and ADC/DAC",3
+2026-MJ,1,2,7,b,Input and output devices,Output devices,6
+2026-MJ,1,2,8,a,Communication,"Internet, WWW, URLs and search engines",6
+2026-MJ,1,2,8,b,Communication,"Internet, WWW, URLs and search engines",2
+2026-MJ,1,2,9,a,Input and output devices,"Direct data entry devices (bar codes, RFID, QR)",3
+2026-MJ,1,2,9,b,ICT applications,Recognition systems,3
+2026-MJ,1,2,10,a,Types and components of computer systems,Internal components and memory,1
+2026-MJ,1,2,10,b,Types and components of computer systems,Internal components and memory,3
+2026-MJ,1,2,11,,Types and components of computer systems,Operating systems and user interfaces,6
+2026-MJ,1,2,12,a,Safety and security,eSafety and data protection,3
+2026-MJ,1,2,12,b,Safety and security,eSafety and data protection,3
+2026-MJ,1,2,13,a,Networks and the effects of using them,"Network types (LAN, WLAN, WAN)",2
+2026-MJ,1,2,13,b,Networks and the effects of using them,"Network types (LAN, WLAN, WAN)",4
+2026-MJ,1,2,13,c,Networks and the effects of using them,"Network types (LAN, WLAN, WAN)",2

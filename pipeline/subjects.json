@@ -348,7 +348,10 @@
    "name": "English (First Language)",
    "slug": "english-first-language",
    "guide": "0500-igcse-english-first-language.md",
-   "papers": {}
+   "papers": {
+    "1": "Paper 1 Reading",
+    "2": "Paper 2 Directed Writing and Composition"
+   }
   },
   {
    "code": "0510",
@@ -356,7 +359,12 @@
    "name": "English as a Second Language",
    "slug": "english-second-language-oral-endorsement",
    "guide": "0510-igcse-english-second-language.md",
-   "papers": {}
+   "papers": {
+    "1": "Paper 1 Reading and Writing (Core until 2023)",
+    "2": "Paper 2 (Reading and Writing Extended until 2023; Listening from 2024)",
+    "3": "Paper 3 Listening Core (until 2023)",
+    "4": "Paper 4 Listening Extended (until 2023)"
+   }
   },
   {
    "code": "0417",
@@ -385,7 +393,10 @@
    "name": "Islamiyat",
    "slug": "islamiyat",
    "guide": "0493-igcse-islamiyat.md",
-   "papers": {}
+   "papers": {
+    "1": "Paper 1",
+    "2": "Paper 2"
+   }
   },
   {
    "code": "0539",
@@ -393,7 +404,10 @@
    "name": "Urdu as a Second Language",
    "slug": "urdu-as-a-second-language",
    "guide": "0539-igcse-urdu-second-language.md",
-   "papers": {}
+   "papers": {
+    "1": "Paper 1 Reading and Writing",
+    "2": "Paper 2 Listening"
+   }
   },
   {
    "code": "9231",

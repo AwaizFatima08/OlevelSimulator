@@ -32,53 +32,7 @@
    "short": "AS & A Level"
   }
  ],
- "coming_soon": [
-  {
-   "code": "0452",
-   "level": "igcse",
-   "name": "Accounting"
-  },
-  {
-   "code": "0450",
-   "level": "igcse",
-   "name": "Business Studies"
-  },
-  {
-   "code": "0500",
-   "level": "igcse",
-   "name": "English (First Language)"
-  },
-  {
-   "code": "0510",
-   "level": "igcse",
-   "name": "English as a Second Language"
-  },
-  {
-   "code": "0417",
-   "level": "igcse",
-   "name": "ICT"
-  },
-  {
-   "code": "0448",
-   "level": "igcse",
-   "name": "Pakistan Studies"
-  },
-  {
-   "code": "0493",
-   "level": "igcse",
-   "name": "Islamiyat"
-  },
-  {
-   "code": "0539",
-   "level": "igcse",
-   "name": "Urdu as a Second Language"
-  },
-  {
-   "code": "9990",
-   "level": "a-level",
-   "name": "Psychology"
-  }
- ],
+ "coming_soon": [],
  "packs": [
   {
    "code": "4024",
@@ -281,6 +235,70 @@
    "questions": 315
   },
   {
+   "code": "0452",
+   "level": "igcse",
+   "name": "Accounting",
+   "file": "/data/0452.json",
+   "bytes": 73575,
+   "questions": 360
+  },
+  {
+   "code": "0450",
+   "level": "igcse",
+   "name": "Business Studies",
+   "file": "/data/0450.json",
+   "bytes": 33183,
+   "questions": 72
+  },
+  {
+   "code": "0500",
+   "level": "igcse",
+   "name": "English (First Language)",
+   "file": "/data/0500.json",
+   "bytes": 20060,
+   "questions": 72
+  },
+  {
+   "code": "0510",
+   "level": "igcse",
+   "name": "English as a Second Language",
+   "file": "/data/0510.json",
+   "bytes": 76375,
+   "questions": 417
+  },
+  {
+   "code": "0417",
+   "level": "igcse",
+   "name": "ICT",
+   "file": "/data/0417.json",
+   "bytes": 33575,
+   "questions": 123
+  },
+  {
+   "code": "0448",
+   "level": "igcse",
+   "name": "Pakistan Studies",
+   "file": "/data/0448.json",
+   "bytes": 26675,
+   "questions": 50
+  },
+  {
+   "code": "0493",
+   "level": "igcse",
+   "name": "Islamiyat",
+   "file": "/data/0493.json",
+   "bytes": 23152,
+   "questions": 90
+  },
+  {
+   "code": "0539",
+   "level": "igcse",
+   "name": "Urdu as a Second Language",
+   "file": "/data/0539.json",
+   "bytes": 36790,
+   "questions": 200
+  },
+  {
    "code": "9231",
    "level": "a-level",
    "name": "Further Mathematics",
@@ -319,6 +337,14 @@
    "file": "/data/9609.json",
    "bytes": 43113,
    "questions": 137
+  },
+  {
+   "code": "9990",
+   "level": "a-level",
+   "name": "Psychology",
+   "file": "/data/9990.json",
+   "bytes": 89060,
+   "questions": 397
   }
  ]
 }

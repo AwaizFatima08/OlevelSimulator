@@ -11,3 +11,10 @@ Live URL: https://cambridgesimulator.homilabs.org. See README.md, docs/architect
 - Every site page keeps the "not affiliated with Cambridge University Press & Assessment" notice in the footer.
 - Release every six months via docs/release-checklist.md; bump `pipeline/release.json`.
 - Publishing (push to `deploy`, hPanel changes) only with Homi's OK in chat.
+
+## Status (20 Oct 2026, overnight)
+- Website live (release 2026-10, first upload: 12 subjects). The rebuilt site with 30+ subjects is in `site/` but NOT
+  yet published — publish only after Homi's OK (`bash scripts/publish.sh`, then flush CDN).
+- Question CSVs: the 12 original syllabuses cover every variant; the other subjects use variant 2 of each written paper.
+- Android app v0.1.0 debug APK: `releases/debug/` (gitignored). Testing checklist: docs/app-testing.md.
+- Several IGCSE papers are identical to their O Level twins (0606=4037, 0478=2210, 0455=2281, 0452=7707, 0450=7115).
