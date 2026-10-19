@@ -1,0 +1,1493 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,,Atomic structure,Ionisation energies,1
+2022-MJ,1,2,2,,Atomic structure,Electronic configuration,1
+2022-MJ,1,2,3,,"Atoms, molecules & stoichiometry",Mole calculations,1
+2022-MJ,1,2,4,,"Atoms, molecules & stoichiometry",Empirical & molecular formula,1
+2022-MJ,1,2,5,,Chemical bonding,Sigma & pi bonds / hybridisation,1
+2022-MJ,1,2,6,,Chemical bonding,Hydrogen bonding,1
+2022-MJ,1,2,7,,States of matter,Ideal & real gases,1
+2022-MJ,1,2,8,,States of matter,Ideal gas equation,1
+2022-MJ,1,2,9,,Chemical energetics,Hess's law cycles,1
+2022-MJ,1,2,10,,Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",1
+2022-MJ,1,2,11,,Electrochemistry & redox,Oxidation numbers & redox,1
+2022-MJ,1,2,12,,Electrochemistry & redox,Oxidation numbers & redox,1
+2022-MJ,1,2,13,,"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,1
+2022-MJ,1,2,14,,"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2022-MJ,1,2,15,,Reaction kinetics,Catalysis,1
+2022-MJ,1,2,16,,Reaction kinetics,Temperature & Boltzmann distribution,1
+2022-MJ,1,2,17,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2022-MJ,1,2,18,,Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",1
+2022-MJ,1,2,19,,Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",1
+2022-MJ,1,2,20,,Group 2,Group 2 compounds & uses,1
+2022-MJ,1,2,21,,Group 2,Group 2 compounds & uses,1
+2022-MJ,1,2,22,,Group 17,"Halogen trends (volatility, bond strength, oxidising power)",1
+2022-MJ,1,2,23,,Group 17,Chlorine with water / NaOH (disproportionation),1
+2022-MJ,1,2,24,,Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",1
+2022-MJ,1,2,25,,Nitrogen & sulfur,Ammonia & ammonium ion,1
+2022-MJ,1,2,26,,Organic introduction & isomerism,Stereoisomerism,1
+2022-MJ,1,2,27,,Organic introduction & isomerism,Reaction types & mechanism terms,1
+2022-MJ,1,2,28,,Halogen compounds,Elimination,1
+2022-MJ,1,2,29,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2022-MJ,1,2,30,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,1
+2022-MJ,1,2,31,,Halogen compounds,SN1/SN2 & reactivity,1
+2022-MJ,1,2,32,,Nitrogen compounds,Amines & nitriles,1
+2022-MJ,1,2,33,,"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2022-MJ,1,2,34,,Carbonyl compounds,Tri-iodomethane test,1
+2022-MJ,1,2,35,,Carboxylic acids & derivatives,Reduction with LiAlH4/NaBH4,1
+2022-MJ,1,2,36,,Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2022-MJ,1,2,37,,Carboxylic acids & derivatives,Carboxylic acids: reactions,1
+2022-MJ,1,2,38,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2022-MJ,1,2,39,,Polymerisation,Addition polymers,1
+2022-MJ,1,2,40,,Analytical techniques,Mass spectrometry,1
+2022-MJ,2,2,1,(a),Chemical bonding,Metallic bonding & properties,2
+2022-MJ,2,2,1,(b)(i),Electrochemistry & redox,Oxidation numbers & redox,1
+2022-MJ,2,2,1,(b)(ii),Electrochemistry & redox,Oxidation numbers & redox,1
+2022-MJ,2,2,1,(b)(iii),Chemical energetics,Standard enthalpy changes (definitions),2
+2022-MJ,2,2,1,(b)(iv),Chemical energetics,Enthalpy calculations from experimental data,3
+2022-MJ,2,2,2,(a),Chemical bonding,Bonding types & properties,1
+2022-MJ,2,2,2,(b),Chemical bonding,Dot-and-cross diagrams,1
+2022-MJ,2,2,2,(c)(i),Group 2,Group 2 reactions with water & oxygen,1
+2022-MJ,2,2,2,(c)(ii),Group 2,Group 2 reactions with water & oxygen,1
+2022-MJ,2,2,2,(c)(iii),Group 2,Group 2 reactions with water & oxygen,2
+2022-MJ,2,2,2,(c)(iv),Group 2,Group 2 reactions with water & oxygen,2
+2022-MJ,2,2,2,(d),Group 17,Halide ions: tests & reactions with H2SO4,3
+2022-MJ,2,2,3,(a)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Dynamic equilibrium,2
+2022-MJ,2,2,3,(a)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Dynamic equilibrium,1
+2022-MJ,2,2,3,(a)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2022-MJ,2,2,3,(a)(iv),"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,2
+2022-MJ,2,2,3,(b),Chemical energetics,Bond energies,2
+2022-MJ,2,2,3,(c),"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2022-MJ,2,2,3,(d)(i),Group 17,Halide ions: tests & reactions with H2SO4,1
+2022-MJ,2,2,3,(d)(ii),Group 17,Halide ions: tests & reactions with H2SO4,1
+2022-MJ,2,2,3,(d)(iii),Group 17,Halide ions: tests & reactions with H2SO4,1
+2022-MJ,2,2,4,(a)(i),Organic introduction & isomerism,Structural isomerism & nomenclature,2
+2022-MJ,2,2,4,(a)(ii),Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2022-MJ,2,2,4,(b)(i),Organic introduction & isomerism,Stereoisomerism,1
+2022-MJ,2,2,4,(b)(ii),Organic introduction & isomerism,Reaction types & mechanism terms,1
+2022-MJ,2,2,4,(b)(iii),Atomic structure,Electronic configuration,1
+2022-MJ,2,2,4,(c)(i),Polymerisation,Addition polymers,1
+2022-MJ,2,2,4,(c)(ii),Polymerisation,Addition polymers,1
+2022-MJ,2,2,5,(a),Halogen compounds,Reactions of halogenoalkanes (reagents & conditions),6
+2022-MJ,2,2,5,(b),Halogen compounds,SN1/SN2 & reactivity,2
+2022-MJ,2,2,5,(c)(i),Halogen compounds,Nucleophilic substitution mechanism,2
+2022-MJ,2,2,5,(c)(ii),Nitrogen compounds,Amines & nitriles,1
+2022-MJ,2,2,5,(c)(iii),Carboxylic acids & derivatives,Reduction with LiAlH4/NaBH4,1
+2022-MJ,2,2,5,(c)(iv),Carboxylic acids & derivatives,Reduction with LiAlH4/NaBH4,1
+2022-MJ,2,2,6,(a),Organic synthesis,Functional group identification,2
+2022-MJ,2,2,6,(b),"Atoms, molecules & stoichiometry",Empirical & molecular formula,1
+2022-MJ,2,2,6,(c)(i),Analytical techniques,Mass spectrometry,1
+2022-MJ,2,2,6,(c)(ii),Analytical techniques,Mass spectrometry,2
+2022-MJ,2,2,6,(c)(iii),Organic synthesis,Deducing structures from data,1
+2022-MJ,4,2,1,(a),Group 2,Group 2 solubility & thermal stability trends (A Level),3
+2022-MJ,4,2,1,(b)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,2
+2022-MJ,4,2,1,(b)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,2
+2022-MJ,4,2,1,(c)(i),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2022-MJ,4,2,1,(c)(ii),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2022-MJ,4,2,1,(d)(i),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2022-MJ,4,2,1,(d)(ii),Transition element complexes,"Complex ions: ligands, shapes & coordination number",2
+2022-MJ,4,2,1,(e)(i),Transition element complexes,Ligand exchange & stability constants,1
+2022-MJ,4,2,1,(e)(ii),Transition element complexes,Ligand exchange & stability constants,2
+2022-MJ,4,2,1,(e)(iii),Transition element complexes,Ligand exchange & stability constants,1
+2022-MJ,4,2,2,(a),Transition elements,"Transition element properties (variable oxidation states, catalysis)",1
+2022-MJ,4,2,2,(b),Transition elements,d-orbitals & electronic configuration of ions,1
+2022-MJ,4,2,2,(c),Transition element complexes,Colour & d-orbital splitting,3
+2022-MJ,4,2,2,(d)(i),Transition element complexes,Ligand exchange & stability constants,1
+2022-MJ,4,2,2,(d)(ii),Transition element complexes,Ligand exchange & stability constants,1
+2022-MJ,4,2,2,(e),Transition element complexes,Isomerism in complexes,2
+2022-MJ,4,2,3,(a)(i),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Electron affinity & ionisation energy (A Level),2
+2022-MJ,4,2,3,(a)(ii),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Electron affinity & ionisation energy (A Level),1
+2022-MJ,4,2,3,(a)(iii),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Electron affinity & ionisation energy (A Level),2
+2022-MJ,4,2,3,(b),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,3
+2022-MJ,4,2,3,(c),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,1
+2022-MJ,4,2,4,(a)(i),Entropy & Gibbs free energy,Gibbs free energy & feasibility,2
+2022-MJ,4,2,4,(a)(ii),Entropy & Gibbs free energy,Gibbs free energy & feasibility,2
+2022-MJ,4,2,4,(b)(i),Group 2,Group 2 solubility & thermal stability trends (A Level),1
+2022-MJ,4,2,4,(b)(ii),Group 2,Group 2 solubility & thermal stability trends (A Level),2
+2022-MJ,4,2,4,(c)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,2
+2022-MJ,4,2,4,(c)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,2
+2022-MJ,4,2,4,(c)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,3
+2022-MJ,4,2,5,(a),Electrochemistry & redox,Electrolysis & Faraday's laws,3
+2022-MJ,4,2,5,(b)(i),Electrochemistry & redox,Electrolysis & Faraday's laws,1
+2022-MJ,4,2,5,(b)(ii),Electrochemistry & redox,Electrolysis & Faraday's laws,4
+2022-MJ,4,2,6,(a)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,3
+2022-MJ,4,2,6,(a)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2022-MJ,4,2,6,(b),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,2
+2022-MJ,4,2,6,(c),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,4
+2022-MJ,4,2,6,(d)(i),Nitrogen compounds,Phenylamine & azo dyes,3
+2022-MJ,4,2,6,(d)(ii),Nitrogen compounds,Phenylamine & azo dyes,3
+2022-MJ,4,2,7,(a),Analytical techniques,Proton (1H) NMR,1
+2022-MJ,4,2,7,(b)(i),Analytical techniques,Proton (1H) NMR,2
+2022-MJ,4,2,7,(b)(ii),Analytical techniques,Proton (1H) NMR,2
+2022-MJ,4,2,7,(c)(i),Organic introduction & isomerism,Optical isomerism,1
+2022-MJ,4,2,7,(c)(ii),Carbonyl compounds,Carbonyl structure & reactions,1
+2022-MJ,4,2,7,(c)(iii),Organic introduction & isomerism,Optical isomerism,1
+2022-MJ,4,2,8,(a),Carboxylic acids & derivatives,"Relative acidity (acids, phenols, alcohols)",4
+2022-MJ,4,2,8,(b),Carboxylic acids & derivatives,Carboxylic acids: reactions,2
+2022-MJ,4,2,8,(c),Polymerisation,Condensation polymers (polyesters/polyamides),2
+2022-MJ,4,2,8,(d),Polymerisation,Condensation polymers (polyesters/polyamides),2
+2022-MJ,4,2,8,(e),Polymerisation,Polymer properties & degradability,1
+2022-MJ,4,2,9,(a),Nitrogen compounds,Amines: basicity & preparation,3
+2022-MJ,4,2,9,(b)(i),Nitrogen compounds,Amides,1
+2022-MJ,4,2,9,(b)(ii),Nitrogen compounds,Amides,4
+2022-MJ,4,2,9,(b)(iii),Nitrogen compounds,Amides,1
+2022-MJ,5,2,1,(a),Practical skills,Planning: method & apparatus,2
+2022-MJ,5,2,1,(b)(i),Practical skills,Planning: method & apparatus,1
+2022-MJ,5,2,1,(b)(ii),Practical skills,Planning: method & apparatus,1
+2022-MJ,5,2,1,(c)(i),"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,2
+2022-MJ,5,2,1,(c)(ii),Practical skills,Planning: method & apparatus,1
+2022-MJ,5,2,1,(d),Practical skills,"Evaluation: errors, reliability & improvements",1
+2022-MJ,5,2,1,(e)(i),Practical skills,Percentage error & uncertainty,1
+2022-MJ,5,2,1,(e)(ii),"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,1
+2022-MJ,5,2,1,(f),Practical skills,"Evaluation: errors, reliability & improvements",2
+2022-MJ,5,2,2,(a),Practical skills,Planning: variables & hypothesis,1
+2022-MJ,5,2,2,(b),Practical skills,Planning: variables & hypothesis,2
+2022-MJ,5,2,2,(c)(i),Practical skills,Planning: preparing standard solutions & dilutions,3
+2022-MJ,5,2,2,(c)(ii),Practical skills,Planning: safety,1
+2022-MJ,5,2,2,(d)(i),Practical skills,"Data processing (tables, sig. figs)",2
+2022-MJ,5,2,2,(d)(ii),Practical skills,Graph plotting & line of best fit,2
+2022-MJ,5,2,2,(d)(iii),Practical skills,Anomalous results,2
+2022-MJ,5,2,2,(d)(iv),Practical skills,"Gradient, intercept & tangents",2
+2022-MJ,5,2,2,(d)(v),Reaction kinetics,Rate constant & temperature,2
+2022-MJ,5,2,2,(e),Practical skills,"Evaluation: errors, reliability & improvements",1
+2022-ON,1,2,1,,Atomic structure,Ionisation energies,1
+2022-ON,1,2,2,,"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,1
+2022-ON,1,2,3,,Atomic structure,"Particles, isotopes & ions",1
+2022-ON,1,2,4,,"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,1
+2022-ON,1,2,5,,Electrochemistry & redox,Oxidation numbers & redox,1
+2022-ON,1,2,6,,Electrochemistry & redox,Oxidation numbers & redox,1
+2022-ON,1,2,7,,Reaction kinetics,Catalysis,1
+2022-ON,1,2,8,,"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2022-ON,1,2,9,,Chemical energetics,Reaction pathway diagrams & activation energy,1
+2022-ON,1,2,10,,Chemical energetics,Standard enthalpy changes (definitions),1
+2022-ON,1,2,11,,Reaction kinetics,Catalysis,1
+2022-ON,1,2,12,,Chemical bonding,Dative bonds & electron pairs,1
+2022-ON,1,2,13,,Chemical bonding,Shapes & bond angles (VSEPR),1
+2022-ON,1,2,14,,States of matter,Ideal & real gases,1
+2022-ON,1,2,15,,States of matter,Ideal gas equation,1
+2022-ON,1,2,16,,Chemical energetics,Bond energies,1
+2022-ON,1,2,17,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2022-ON,1,2,18,,Periodicity (Period 3),Structure & melting points across Period 3,1
+2022-ON,1,2,19,,Group 2,Thermal decomposition of nitrates & carbonates,1
+2022-ON,1,2,20,,Group 2,Group 2 hydroxide & sulfate solubility,1
+2022-ON,1,2,21,,Group 17,Chlorine in water treatment,1
+2022-ON,1,2,22,,Group 17,Halide ions: tests & reactions with H2SO4,1
+2022-ON,1,2,23,,Nitrogen & sulfur,Ammonia & ammonium ion,1
+2022-ON,1,2,24,,Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",1
+2022-ON,1,2,25,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2022-ON,1,2,26,,Organic introduction & isomerism,Stereoisomerism,1
+2022-ON,1,2,27,,Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2022-ON,1,2,28,,Organic introduction & isomerism,Stereoisomerism,1
+2022-ON,1,2,29,,"Hydroxy compounds (alcohols, phenol)",Alcohols: substitution & dehydration,1
+2022-ON,1,2,30,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: oxidation with KMnO4,1
+2022-ON,1,2,31,,Halogen compounds,Nucleophilic substitution (reactions & products),1
+2022-ON,1,2,32,,Halogen compounds,SN1/SN2 & reactivity,1
+2022-ON,1,2,33,,"Hydroxy compounds (alcohols, phenol)",Alcohols: reactions,1
+2022-ON,1,2,34,,"Hydroxy compounds (alcohols, phenol)",Alcohols: substitution & dehydration,1
+2022-ON,1,2,35,,Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2022-ON,1,2,36,,Carbonyl compounds,Nucleophilic addition (HCN),1
+2022-ON,1,2,37,,Organic synthesis,Multi-step synthesis routes,1
+2022-ON,1,2,38,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2022-ON,1,2,39,,Polymerisation,Addition polymers,1
+2022-ON,1,2,40,,Analytical techniques,Infrared spectroscopy,1
+2022-ON,2,2,1,(a),Chemical bonding,Bonding types & properties,2
+2022-ON,2,2,1,(b),Atomic structure,"Particles, isotopes & ions",3
+2022-ON,2,2,1,(c)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2022-ON,2,2,1,(c)(ii),Nitrogen & sulfur,Ammonia & ammonium ion,1
+2022-ON,2,2,1,(c)(iii),Chemical bonding,Sigma & pi bonds / hybridisation,2
+2022-ON,2,2,1,(d)(i),"Atoms, molecules & stoichiometry",Formulae of ions & compounds,1
+2022-ON,2,2,1,(d)(ii),"Atoms, molecules & stoichiometry",Water of crystallisation & formulae,2
+2022-ON,2,2,1,(e)(i),Halogen compounds,Nucleophilic substitution mechanism,3
+2022-ON,2,2,1,(e)(ii),Halogen compounds,Classifying halogenoalkanes,1
+2022-ON,2,2,1,(e)(iii),Halogen compounds,Elimination,1
+2022-ON,2,2,2,(a),Periodicity (Period 3),Period 3 oxides & chlorides,4
+2022-ON,2,2,2,(b),Periodicity (Period 3),Period 3 oxides & chlorides,3
+2022-ON,2,2,2,(c)(i),Chemical bonding,Dot-and-cross diagrams,2
+2022-ON,2,2,2,(c)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,1
+2022-ON,2,2,2,(d),States of matter,Ideal gas equation,3
+2022-ON,2,2,2,(e)(i),Group 17,Halogen displacement reactions,2
+2022-ON,2,2,2,(e)(ii),Chemical bonding,Intermolecular forces & boiling points,2
+2022-ON,2,2,2,(f)(i),Chemical bonding,Metallic bonding & properties,2
+2022-ON,2,2,2,(f)(ii),Chemical bonding,Bonding types & properties,2
+2022-ON,2,2,3,(a)(i),Organic synthesis,Distinguishing tests for functional groups,8
+2022-ON,2,2,3,(a)(ii),Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2022-ON,2,2,3,(a)(iii),Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2022-ON,2,2,3,(a)(iv),Organic introduction & isomerism,Formulae & skeletal structures,1
+2022-ON,2,2,3,(b)(i),Polymerisation,Condensation polymers (polyesters/polyamides),1
+2022-ON,2,2,3,(b)(ii),Polymerisation,Condensation polymers (polyesters/polyamides),2
+2022-ON,2,2,3,(c)(i),Analytical techniques,Infrared spectroscopy,1
+2022-ON,2,2,3,(c)(ii),Analytical techniques,Infrared spectroscopy,1
+2022-ON,2,2,3,(c)(iii),Analytical techniques,Mass spectrometry,1
+2022-ON,2,2,3,(c)(iv),Organic synthesis,Deducing structures from data,1
+2022-ON,2,2,3,(c)(v),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: oxidation with KMnO4,1
+2022-ON,2,2,3,(d),Organic synthesis,Multi-step synthesis routes,3
+2022-ON,4,2,1,(a),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,1
+2022-ON,4,2,1,(b),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,2
+2022-ON,4,2,1,(c),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Electron affinity & ionisation energy (A Level),1
+2022-ON,4,2,1,(d)(i),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Enthalpies of solution & hydration,2
+2022-ON,4,2,1,(d)(ii),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Enthalpies of solution & hydration,2
+2022-ON,4,2,1,(e)(i),Entropy & Gibbs free energy,Gibbs free energy & feasibility,1
+2022-ON,4,2,1,(e)(ii),Entropy & Gibbs free energy,Gibbs free energy & feasibility,2
+2022-ON,4,2,2,(a)(i),Reaction kinetics,Rate equations & orders,1
+2022-ON,4,2,2,(a)(ii),Reaction kinetics,Rate equations & orders,2
+2022-ON,4,2,2,(a)(iii),Reaction kinetics,Half-life & first-order kinetics,1
+2022-ON,4,2,2,(b)(i),Reaction kinetics,Rate equations & orders,1
+2022-ON,4,2,2,(b)(ii),Reaction kinetics,Rate equations & orders,1
+2022-ON,4,2,2,(b)(iii),Reaction kinetics,Homogeneous & heterogeneous catalysis,3
+2022-ON,4,2,2,(b)(iv),Reaction kinetics,Homogeneous & heterogeneous catalysis,1
+2022-ON,4,2,3,(a)(i),Electrochemistry & redox,Standard electrode potentials & cells,2
+2022-ON,4,2,3,(a)(ii),Electrochemistry & redox,Standard electrode potentials & cells,3
+2022-ON,4,2,3,(a)(iii),Electrochemistry & redox,Standard electrode potentials & cells,1
+2022-ON,4,2,3,(a)(iv),Electrochemistry & redox,Standard electrode potentials & cells,1
+2022-ON,4,2,3,(a)(v),Electrochemistry & redox,Standard electrode potentials & cells,1
+2022-ON,4,2,3,(a)(vi),Electrochemistry & redox,Nernst equation & effect of concentration,1
+2022-ON,4,2,3,(b),Electrochemistry & redox,Electrolysis & Faraday's laws,2
+2022-ON,4,2,4,(a)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2022-ON,4,2,4,(a)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,2
+2022-ON,4,2,4,(a)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2022-ON,4,2,4,(b)(i),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",1
+2022-ON,4,2,4,(b)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2022-ON,4,2,4,(b)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",2
+2022-ON,4,2,4,(b)(iv),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,1
+2022-ON,4,2,5,(a),Transition elements,"Transition element properties (variable oxidation states, catalysis)",1
+2022-ON,4,2,5,(b)(i),Transition element complexes,Ligand exchange & stability constants,3
+2022-ON,4,2,5,(b)(ii),Transition element complexes,Colour & d-orbital splitting,1
+2022-ON,4,2,5,(b)(iii),Transition element complexes,Colour & d-orbital splitting,1
+2022-ON,4,2,5,(c)(i),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2022-ON,4,2,5,(c)(ii),Transition element complexes,Isomerism in complexes,2
+2022-ON,4,2,5,(c)(iii),Transition element complexes,Isomerism in complexes,2
+2022-ON,4,2,5,(d),Transition elements,Redox titrations with transition-metal ions,3
+2022-ON,4,2,5,(e),Group 2,Group 2 solubility & thermal stability trends (A Level),2
+2022-ON,4,2,6,(a)(i),Transition element complexes,Ligand exchange & stability constants,2
+2022-ON,4,2,6,(a)(ii),Transition element complexes,Ligand exchange & stability constants,1
+2022-ON,4,2,6,(a)(iii),Transition element complexes,Ligand exchange & stability constants,1
+2022-ON,4,2,6,(b)(i),Transition element complexes,Ligand exchange & stability constants,1
+2022-ON,4,2,6,(b)(ii),Transition element complexes,Ligand exchange & stability constants,1
+2022-ON,4,2,6,(b)(iii),Transition element complexes,Ligand exchange & stability constants,1
+2022-ON,4,2,6,(b)(iv),Transition element complexes,Ligand exchange & stability constants,1
+2022-ON,4,2,7,(a),Carboxylic acids & derivatives,"Relative acidity (acids, phenols, alcohols)",3
+2022-ON,4,2,7,(b)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2022-ON,4,2,7,(b)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2022-ON,4,2,7,(b)(iii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,3
+2022-ON,4,2,7,(b)(iv),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: side-chain oxidation & other reactions,2
+2022-ON,4,2,7,(b)(v),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2022-ON,4,2,7,(c)(i),Nitrogen compounds,Phenylamine & azo dyes,1
+2022-ON,4,2,7,(c)(ii),Nitrogen compounds,Phenylamine & azo dyes,1
+2022-ON,4,2,7,(c)(iii),Nitrogen compounds,Phenylamine & azo dyes,2
+2022-ON,4,2,8,(a),Analytical techniques,Proton (1H) NMR,1
+2022-ON,4,2,8,(b)(i),Analytical techniques,Proton (1H) NMR,2
+2022-ON,4,2,8,(b)(ii),Analytical techniques,Proton (1H) NMR,1
+2022-ON,4,2,8,(c)(i),Analytical techniques,Proton (1H) NMR,1
+2022-ON,4,2,8,(c)(ii),Analytical techniques,Proton (1H) NMR,1
+2022-ON,4,2,8,(d),Analytical techniques,Proton (1H) NMR,1
+2022-ON,4,2,8,(e),Analytical techniques,Proton (1H) NMR,1
+2022-ON,4,2,8,(f),Analytical techniques,Carbon-13 NMR,2
+2022-ON,4,2,9,(a),Nitrogen compounds,"Amino acids, peptides & electrophoresis",2
+2022-ON,4,2,9,(b),Carboxylic acids & derivatives,Acyl chlorides,3
+2022-ON,4,2,9,(c),Nitrogen compounds,"Amino acids, peptides & electrophoresis",3
+2022-ON,4,2,9,(d)(i),Analytical techniques,"Chromatography (TLC, GC)",1
+2022-ON,4,2,9,(d)(ii),Analytical techniques,"Chromatography (TLC, GC)",1
+2022-ON,5,2,1,(a)(i),Practical skills,Planning: method & apparatus,1
+2022-ON,5,2,1,(a)(ii),Practical skills,Planning: method & apparatus,1
+2022-ON,5,2,1,(a)(iii),Practical skills,Planning: method & apparatus,1
+2022-ON,5,2,1,(b)(i),Practical skills,"Data processing (tables, sig. figs)",2
+2022-ON,5,2,1,(b)(ii),"Atoms, molecules & stoichiometry",Titration calculations,2
+2022-ON,5,2,1,(b)(iii),"Atoms, molecules & stoichiometry",Titration calculations,3
+2022-ON,5,2,1,(c),Practical skills,Planning: method & apparatus,1
+2022-ON,5,2,1,(d),Practical skills,Percentage error & uncertainty,1
+2022-ON,5,2,1,(e),Practical skills,"Evaluation: errors, reliability & improvements",1
+2022-ON,5,2,1,(f),Practical skills,"Evaluation: errors, reliability & improvements",1
+2022-ON,5,2,2,(a),Practical skills,Graph plotting & line of best fit,2
+2022-ON,5,2,2,(b)(i),Practical skills,Anomalous results,1
+2022-ON,5,2,2,(b)(ii),Practical skills,Anomalous results,1
+2022-ON,5,2,2,(c),Practical skills,"Gradient, intercept & tangents",3
+2022-ON,5,2,2,(d),Practical skills,"Data processing (tables, sig. figs)",1
+2022-ON,5,2,2,(e),Practical skills,Planning: variables & hypothesis,1
+2022-ON,5,2,2,(f),Practical skills,"Evaluation: errors, reliability & improvements",1
+2022-ON,5,2,2,(g)(i),States of matter,Kinetic theory & diffusion,2
+2022-ON,5,2,2,(g)(ii),Practical skills,Planning: variables & hypothesis,1
+2022-ON,5,2,2,(h)(i),Practical skills,Planning: safety,1
+2022-ON,5,2,2,(h)(ii),Practical skills,"Evaluation: errors, reliability & improvements",2
+2023-MJ,1,2,1,,Atomic structure,"Particles, isotopes & ions",1
+2023-MJ,1,2,2,,Atomic structure,Electronic configuration,1
+2023-MJ,1,2,3,,Atomic structure,Ionisation energies,1
+2023-MJ,1,2,4,,"Atoms, molecules & stoichiometry",Equations & mole ratios,1
+2023-MJ,1,2,5,,"Atoms, molecules & stoichiometry",Mole calculations,1
+2023-MJ,1,2,6,,Chemical bonding,Sigma & pi bonds / hybridisation,1
+2023-MJ,1,2,7,,Chemical bonding,Shapes & bond angles (VSEPR),1
+2023-MJ,1,2,8,,States of matter,Ideal gas equation,1
+2023-MJ,1,2,9,,Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",1
+2023-MJ,1,2,10,,Chemical energetics,Hess's law cycles,1
+2023-MJ,1,2,11,,Electrochemistry & redox,Oxidation numbers & redox,1
+2023-MJ,1,2,12,,Electrochemistry & redox,Oxidation numbers & redox,1
+2023-MJ,1,2,13,,"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,1
+2023-MJ,1,2,14,,"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2023-MJ,1,2,15,,Reaction kinetics,Activation energy & rate,1
+2023-MJ,1,2,16,,Reaction kinetics,Temperature & Boltzmann distribution,1
+2023-MJ,1,2,17,,Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",1
+2023-MJ,1,2,18,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-MJ,1,2,19,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-MJ,1,2,20,,Group 2,Group 2 reactivity & carbonate stability,1
+2023-MJ,1,2,21,,Group 2,Group 2 hydroxide & sulfate solubility,1
+2023-MJ,1,2,22,,Nitrogen & sulfur,Ammonia & ammonium ion,1
+2023-MJ,1,2,23,,Nitrogen & sulfur,Ammonia & ammonium ion,1
+2023-MJ,1,2,24,,Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",1
+2023-MJ,1,2,25,,Organic introduction & isomerism,Formulae & skeletal structures,1
+2023-MJ,1,2,26,,Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2023-MJ,1,2,27,,Organic introduction & isomerism,Stereoisomerism,1
+2023-MJ,1,2,28,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2023-MJ,1,2,29,,Halogen compounds,Elimination,1
+2023-MJ,1,2,30,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: addition reactions,1
+2023-MJ,1,2,31,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,1
+2023-MJ,1,2,32,,Halogen compounds,SN1/SN2 & reactivity,1
+2023-MJ,1,2,33,,"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2023-MJ,1,2,34,,Carbonyl compounds,Tri-iodomethane test,1
+2023-MJ,1,2,35,,Carbonyl compounds,Nucleophilic addition (HCN),1
+2023-MJ,1,2,36,,Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2023-MJ,1,2,37,,Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2023-MJ,1,2,38,,Carboxylic acids & derivatives,Carboxylic acids: preparation,1
+2023-MJ,1,2,39,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2023-MJ,1,2,40,,Analytical techniques,Mass spectrometry,1
+2023-MJ,2,2,1,(a)(i),Chemical bonding,Bonding types & properties,1
+2023-MJ,2,2,1,(a)(ii),Chemical bonding,Bonding types & properties,1
+2023-MJ,2,2,1,(a)(iii),Chemical bonding,Bonding types & properties,2
+2023-MJ,2,2,1,(b)(i),Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",1
+2023-MJ,2,2,1,(b)(ii),Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",2
+2023-MJ,2,2,1,(b)(iii),Chemical bonding,Hydrogen bonding,1
+2023-MJ,2,2,1,(b)(iv),Chemical bonding,Hydrogen bonding,2
+2023-MJ,2,2,1,(b)(v),Chemical bonding,Hydrogen bonding,2
+2023-MJ,2,2,2,(a)(i),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-MJ,2,2,2,(a)(ii),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-MJ,2,2,2,(b)(i),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-MJ,2,2,2,(b)(ii),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-MJ,2,2,2,(c)(i),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-MJ,2,2,2,(c)(ii),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-MJ,2,2,2,(d)(i),Group 17,Chlorine with water / NaOH (disproportionation),1
+2023-MJ,2,2,2,(d)(ii),Group 17,Chlorine with water / NaOH (disproportionation),1
+2023-MJ,2,2,2,(e)(i),Group 17,Chlorine in water treatment,1
+2023-MJ,2,2,2,(e)(ii),Electrochemistry & redox,Balancing redox equations,1
+2023-MJ,2,2,2,(e)(iii),"Atoms, molecules & stoichiometry",Titration calculations,3
+2023-MJ,2,2,3,(a)(i),Halogen compounds,Reactions of halogenoalkanes (reagents & conditions),1
+2023-MJ,2,2,3,(a)(ii),Nitrogen compounds,Amines & nitriles,1
+2023-MJ,2,2,3,(a)(iii),Nitrogen compounds,Amines & nitriles,1
+2023-MJ,2,2,3,(a)(iv),Carboxylic acids & derivatives,Carboxylic acids: reactions,2
+2023-MJ,2,2,3,(b),"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2023-MJ,2,2,3,(c),Chemical bonding,Sigma & pi bonds / hybridisation,2
+2023-MJ,2,2,4,(a),Chemical energetics,Bond energies,2
+2023-MJ,2,2,4,(b),"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,2
+2023-MJ,2,2,4,(c)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,1
+2023-MJ,2,2,4,(c)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,1
+2023-MJ,2,2,4,(c)(iii),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,2
+2023-MJ,2,2,4,(c)(iv),Reaction kinetics,Catalysis,2
+2023-MJ,2,2,4,(c)(v),Reaction kinetics,Catalysis,1
+2023-MJ,2,2,4,(c)(vi),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,2
+2023-MJ,2,2,4,(d),Chemical bonding,Sigma & pi bonds / hybridisation,2
+2023-MJ,2,2,5,(a),Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2023-MJ,2,2,5,(b)(i),Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2023-MJ,2,2,5,(b)(ii),Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",2
+2023-MJ,2,2,5,(c)(i),Organic synthesis,Distinguishing tests for functional groups,2
+2023-MJ,2,2,5,(c)(ii),Organic introduction & isomerism,Stereoisomerism,1
+2023-MJ,2,2,5,(d)(i),Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2023-MJ,2,2,5,(d)(ii),Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2023-MJ,2,2,5,(d)(iii),Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2023-MJ,2,2,5,(d)(iv),Analytical techniques,Infrared spectroscopy,2
+2023-MJ,3,3,1,(a),Practical skills,"Titration: recording, accuracy & mean titre",7
+2023-MJ,3,3,1,(b),Practical skills,"Titration: recording, accuracy & mean titre",1
+2023-MJ,3,3,1,(c)(i),Transition elements,Redox titrations with transition-metal ions,1
+2023-MJ,3,3,1,(c)(ii),Transition elements,Redox titrations with transition-metal ions,1
+2023-MJ,3,3,1,(c)(iii),Transition elements,Redox titrations with transition-metal ions,2
+2023-MJ,3,3,1,(c)(iv),"Atoms, molecules & stoichiometry",Equations & mole ratios,1
+2023-MJ,3,3,2,(a),Practical skills,Rates experiment: recording & processing,4
+2023-MJ,3,3,2,(b)(i),Practical skills,Rates experiment: recording & processing,2
+2023-MJ,3,3,2,(b)(ii),Reaction kinetics,Rate equations & orders,2
+2023-MJ,3,3,2,(c),Practical skills,Percentage error & uncertainty,1
+2023-MJ,3,3,2,(d),Practical skills,"Evaluation: errors, reliability & improvements",3
+2023-MJ,3,3,3,(a)(i),Practical skills,"Qualitative analysis: cations, anions & gases",2
+2023-MJ,3,3,3,(a)(ii),Practical skills,"Qualitative analysis: cations, anions & gases",2
+2023-MJ,3,3,3,(a)(iii),Practical skills,"Qualitative analysis: cations, anions & gases",1
+2023-MJ,3,3,3,(b)(i),Practical skills,"Qualitative analysis: cations, anions & gases",2
+2023-MJ,3,3,3,(b)(ii),Practical skills,"Qualitative analysis: cations, anions & gases",1
+2023-MJ,3,3,3,(b)(iii),Practical skills,"Qualitative analysis: cations, anions & gases",2
+2023-MJ,3,3,3,(b)(iv),Practical skills,"Qualitative analysis: cations, anions & gases",1
+2023-MJ,3,3,3,(b)(v),Practical skills,"Qualitative analysis: cations, anions & gases",1
+2023-MJ,3,3,3,(c),Practical skills,"Qualitative analysis: cations, anions & gases",3
+2023-MJ,4,2,1,(a)(i),Group 2,Group 2 solubility & thermal stability trends (A Level),1
+2023-MJ,4,2,1,(a)(ii),Group 2,Group 2 solubility & thermal stability trends (A Level),3
+2023-MJ,4,2,1,(b)(i),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,2
+2023-MJ,4,2,1,(b)(ii),Group 2,Group 2 solubility & thermal stability trends (A Level),2
+2023-MJ,4,2,1,(c)(i),Transition elements,Redox titrations with transition-metal ions,1
+2023-MJ,4,2,1,(c)(ii),Transition elements,Redox titrations with transition-metal ions,3
+2023-MJ,4,2,1,(d),Chemical bonding,Shapes & bond angles (VSEPR),1
+2023-MJ,4,2,2,(a),Transition elements,"Transition element properties (variable oxidation states, catalysis)",1
+2023-MJ,4,2,2,(b)(i),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2023-MJ,4,2,2,(b)(ii),Transition element complexes,Ligand exchange & stability constants,4
+2023-MJ,4,2,2,(c)(i),Transition element complexes,"Complex ions: ligands, shapes & coordination number",2
+2023-MJ,4,2,2,(c)(ii),Transition element complexes,Isomerism in complexes,3
+2023-MJ,4,2,2,(c)(iii),Transition element complexes,Isomerism in complexes,1
+2023-MJ,4,2,3,(a),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,1
+2023-MJ,4,2,3,(b),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,2
+2023-MJ,4,2,3,(c),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,3
+2023-MJ,4,2,3,(d),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,2
+2023-MJ,4,2,3,(e)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2023-MJ,4,2,3,(e)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2023-MJ,4,2,3,(f),Entropy & Gibbs free energy,Gibbs free energy & feasibility,2
+2023-MJ,4,2,4,(a)(i),Reaction kinetics,Rate equations & orders,1
+2023-MJ,4,2,4,(a)(ii),Reaction kinetics,Rate equations & orders,2
+2023-MJ,4,2,4,(a)(iii),Reaction kinetics,Rate equations & orders,1
+2023-MJ,4,2,4,(a)(iv),Reaction kinetics,Rate equations & orders,2
+2023-MJ,4,2,4,(a)(v),Reaction kinetics,Rate constant & temperature,1
+2023-MJ,4,2,4,(b)(i),Reaction kinetics,Mechanisms & rate-determining step,1
+2023-MJ,4,2,4,(b)(ii),Electrochemistry & redox,Oxidation numbers & redox,1
+2023-MJ,4,2,4,(b)(iii),Reaction kinetics,Homogeneous & heterogeneous catalysis,1
+2023-MJ,4,2,5,(a)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,3
+2023-MJ,4,2,5,(a)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,2
+2023-MJ,4,2,5,(b),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2023-MJ,4,2,5,(c)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,3
+2023-MJ,4,2,5,(c)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2023-MJ,4,2,5,(d)(i),Carboxylic acids & derivatives,Acyl chlorides,1
+2023-MJ,4,2,5,(d)(ii),Carboxylic acids & derivatives,Acyl chlorides,3
+2023-MJ,4,2,6,(a)(i),Organic introduction & isomerism,Optical isomerism,1
+2023-MJ,4,2,6,(a)(ii),Organic introduction & isomerism,Optical isomerism,2
+2023-MJ,4,2,6,(b)(i),Organic introduction & isomerism,Functional groups & classification,2
+2023-MJ,4,2,6,(b)(ii),Nitrogen compounds,Amides,3
+2023-MJ,4,2,7,(a),"Hydroxy compounds (alcohols, phenol)",Phenol: acidity & reactions,3
+2023-MJ,4,2,7,(b),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2023-MJ,4,2,7,(c)(i),"Hydroxy compounds (alcohols, phenol)",Phenol: acidity & reactions,1
+2023-MJ,4,2,7,(c)(ii),"Hydroxy compounds (alcohols, phenol)",Phenol: acidity & reactions,1
+2023-MJ,4,2,7,(c)(iii),Nitrogen compounds,Phenylamine & azo dyes,2
+2023-MJ,4,2,8,(a),Halogen compounds,Halogenoarenes vs halogenoalkanes,2
+2023-MJ,4,2,8,(b)(i),Organic synthesis,Multi-step synthesis routes,1
+2023-MJ,4,2,8,(b)(ii),Organic synthesis,Multi-step synthesis routes,4
+2023-MJ,4,2,8,(b)(iii),Organic synthesis,Multi-step synthesis routes,2
+2023-MJ,4,2,8,(c)(i),Analytical techniques,Proton (1H) NMR,1
+2023-MJ,4,2,8,(c)(ii),Analytical techniques,Proton (1H) NMR,4
+2023-MJ,4,2,8,(c)(iii),Analytical techniques,Proton (1H) NMR,1
+2023-MJ,4,2,9,(a),Electrochemistry & redox,Standard electrode potentials & cells,1
+2023-MJ,4,2,9,(b),Electrochemistry & redox,Standard electrode potentials & cells,3
+2023-MJ,4,2,9,(c),Electrochemistry & redox,ΔG and E°cell,2
+2023-MJ,4,2,9,(d)(i),Electrochemistry & redox,Nernst equation & effect of concentration,1
+2023-MJ,4,2,9,(d)(ii),Electrochemistry & redox,Nernst equation & effect of concentration,1
+2023-MJ,5,2,1,(a)(i),"Atoms, molecules & stoichiometry",Mole calculations,1
+2023-MJ,5,2,1,(a)(ii),Practical skills,Planning: method & apparatus,1
+2023-MJ,5,2,1,(a)(iii),"Atoms, molecules & stoichiometry",Mole calculations,1
+2023-MJ,5,2,1,(b),Practical skills,Planning: preparing standard solutions & dilutions,3
+2023-MJ,5,2,1,(c),"Atoms, molecules & stoichiometry",Mole calculations,2
+2023-MJ,5,2,1,(d)(i),Practical skills,"Organic practical techniques (reflux, filtration, purity)",1
+2023-MJ,5,2,1,(d)(ii),Practical skills,"Organic practical techniques (reflux, filtration, purity)",1
+2023-MJ,5,2,1,(d)(iii),Practical skills,"Organic practical techniques (reflux, filtration, purity)",1
+2023-MJ,5,2,1,(e)(i),Practical skills,"Organic practical techniques (reflux, filtration, purity)",1
+2023-MJ,5,2,1,(e)(ii),Carboxylic acids & derivatives,Carboxylic acids: reactions,1
+2023-MJ,5,2,1,(f),Practical skills,"Organic practical techniques (reflux, filtration, purity)",1
+2023-MJ,5,2,1,(g),Practical skills,"Organic practical techniques (reflux, filtration, purity)",1
+2023-MJ,5,2,1,(h)(i),"Atoms, molecules & stoichiometry",Percentage yield & atom economy,1
+2023-MJ,5,2,1,(h)(ii),"Atoms, molecules & stoichiometry",Percentage yield & atom economy,1
+2023-MJ,5,2,2,(a)(i),Practical skills,"Data processing (tables, sig. figs)",1
+2023-MJ,5,2,2,(a)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",1
+2023-MJ,5,2,2,(a)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",1
+2023-MJ,5,2,2,(b)(i),Practical skills,"Data processing (tables, sig. figs)",2
+2023-MJ,5,2,2,(b)(ii),Practical skills,Graph plotting & line of best fit,2
+2023-MJ,5,2,2,(b)(iii),Practical skills,Anomalous results,1
+2023-MJ,5,2,2,(b)(iv),Practical skills,Anomalous results,1
+2023-MJ,5,2,2,(b)(v),Practical skills,"Gradient, intercept & tangents",2
+2023-MJ,5,2,2,(b)(vi),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",2
+2023-ON,1,2,1,,Atomic structure,"Particles, isotopes & ions",1
+2023-ON,1,2,2,,Atomic structure,Ionisation energies,1
+2023-ON,1,2,3,,"Atoms, molecules & stoichiometry",Equations & mole ratios,1
+2023-ON,1,2,4,,"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,1
+2023-ON,1,2,5,,Chemical bonding,Shapes & bond angles (VSEPR),1
+2023-ON,1,2,6,,Chemical bonding,Sigma & pi bonds / hybridisation,1
+2023-ON,1,2,7,,Chemical bonding,Shapes & bond angles (VSEPR),1
+2023-ON,1,2,8,,"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,1
+2023-ON,1,2,9,,States of matter,Ideal gas equation,1
+2023-ON,1,2,10,,States of matter,Giant structures (lattices),1
+2023-ON,1,2,11,,Chemical energetics,Hess's law cycles,1
+2023-ON,1,2,12,,Electrochemistry & redox,Oxidation numbers & redox,1
+2023-ON,1,2,13,,Electrochemistry & redox,Oxidation numbers & redox,1
+2023-ON,1,2,14,,States of matter,Ideal gas equation,1
+2023-ON,1,2,15,,"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2023-ON,1,2,16,,Reaction kinetics,Rate measurement & graphs,1
+2023-ON,1,2,17,,"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,1
+2023-ON,1,2,18,,Periodicity (Period 3),Structure & melting points across Period 3,1
+2023-ON,1,2,19,,Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",1
+2023-ON,1,2,20,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-ON,1,2,21,,Group 2,Group 2 reactions with water & oxygen,1
+2023-ON,1,2,22,,Group 2,Group 2 hydroxide & sulfate solubility,1
+2023-ON,1,2,23,,Group 2,Thermal decomposition of nitrates & carbonates,1
+2023-ON,1,2,24,,Group 17,"Halogen trends (volatility, bond strength, oxidising power)",1
+2023-ON,1,2,25,,Group 17,Halide ions: tests & reactions with H2SO4,1
+2023-ON,1,2,26,,"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2023-ON,1,2,27,,Organic introduction & isomerism,Stereoisomerism,1
+2023-ON,1,2,28,,Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2023-ON,1,2,29,,Organic introduction & isomerism,Stereoisomerism,1
+2023-ON,1,2,30,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,1
+2023-ON,1,2,31,,Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2023-ON,1,2,32,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2023-ON,1,2,33,,Organic synthesis,Multi-step synthesis routes,1
+2023-ON,1,2,34,,Carbonyl compounds,Tri-iodomethane test,1
+2023-ON,1,2,35,,"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2023-ON,1,2,36,,Carbonyl compounds,Nucleophilic addition (HCN),1
+2023-ON,1,2,37,,Carboxylic acids & derivatives,Carboxylic acids: reactions,1
+2023-ON,1,2,38,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2023-ON,1,2,39,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2023-ON,1,2,40,,Analytical techniques,Mass spectrometry,1
+2023-ON,2,2,1,(a)(i),Chemical bonding,Bonding types & properties,1
+2023-ON,2,2,1,(a)(ii),Chemical bonding,Bonding types & properties,3
+2023-ON,2,2,1,(b)(i),Atomic structure,Electronic configuration,2
+2023-ON,2,2,1,(b)(ii),Atomic structure,Ionisation energies,1
+2023-ON,2,2,1,(b)(iii),Atomic structure,Ionisation energies,4
+2023-ON,2,2,1,(b)(iv),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2023-ON,2,2,1,(b)(v),Chemical bonding,Shapes & bond angles (VSEPR),1
+2023-ON,2,2,2,(a),Reaction kinetics,Rate & equilibrium (rate of forward/back reactions),1
+2023-ON,2,2,2,(b),"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,2
+2023-ON,2,2,2,(c),"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,3
+2023-ON,2,2,2,(d),Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",2
+2023-ON,2,2,2,(e)(i),Organic introduction & isomerism,Reaction types & mechanism terms,1
+2023-ON,2,2,2,(e)(ii),Nitrogen & sulfur,Sulfur dioxide & acid rain,2
+2023-ON,2,2,2,(e)(iii),Nitrogen & sulfur,Sulfur dioxide & acid rain,1
+2023-ON,2,2,2,(f)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2023-ON,2,2,2,(f)(ii),Group 2,Thermal decomposition of nitrates & carbonates,1
+2023-ON,2,2,2,(f)(iii),Group 2,Thermal decomposition of nitrates & carbonates,1
+2023-ON,2,2,3,(a)(i),Periodicity (Period 3),Period 3 elements: reactions with oxygen & chlorine,2
+2023-ON,2,2,3,(a)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,2
+2023-ON,2,2,3,(b)(i),Chemical energetics,Standard enthalpy changes (definitions),2
+2023-ON,2,2,3,(b)(ii),Chemical energetics,Hess's law cycles,2
+2023-ON,2,2,3,(b)(iii),Electrochemistry & redox,Oxidation numbers & redox,2
+2023-ON,2,2,3,(c)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: addition reactions,1
+2023-ON,2,2,3,(c)(ii),Halogen compounds,Preparation of halogenoalkanes,1
+2023-ON,2,2,3,(c)(iii),Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2023-ON,2,2,3,(c)(iv),Analytical techniques,Infrared spectroscopy,2
+2023-ON,2,2,3,(d)(i),Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2023-ON,2,2,3,(d)(ii),Analytical techniques,Mass spectrometry,3
+2023-ON,2,2,4,(a)(i),Organic introduction & isomerism,Stereoisomerism,1
+2023-ON,2,2,4,(a)(ii),Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2023-ON,2,2,4,(a)(iii),Chemical bonding,Hydrogen bonding,3
+2023-ON,2,2,4,(b)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,3
+2023-ON,2,2,4,(b)(ii),"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2023-ON,2,2,4,(b)(iii),Organic synthesis,Multi-step synthesis routes,4
+2023-ON,4,2,1,(a),Reaction kinetics,Rate equations & orders,2
+2023-ON,4,2,1,(b)(i),Reaction kinetics,Rate equations & orders,1
+2023-ON,4,2,1,(b)(ii),Reaction kinetics,Rate equations & orders,1
+2023-ON,4,2,1,(c),Reaction kinetics,Rate equations & orders,1
+2023-ON,4,2,1,(d)(i),Reaction kinetics,Half-life & first-order kinetics,1
+2023-ON,4,2,1,(d)(ii),Reaction kinetics,Half-life & first-order kinetics,1
+2023-ON,4,2,1,(e)(i),Reaction kinetics,Mechanisms & rate-determining step,1
+2023-ON,4,2,1,(e)(ii),Reaction kinetics,Mechanisms & rate-determining step,1
+2023-ON,4,2,1,(e)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2023-ON,4,2,2,(a),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,1
+2023-ON,4,2,2,(b)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,1
+2023-ON,4,2,2,(b)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,1
+2023-ON,4,2,2,(c),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,3
+2023-ON,4,2,2,(d),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,2
+2023-ON,4,2,2,(e)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,2
+2023-ON,4,2,2,(e)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2023-ON,4,2,3,(a)(i),Electrochemistry & redox,Standard electrode potentials & cells,1
+2023-ON,4,2,3,(a)(ii),Electrochemistry & redox,Standard electrode potentials & cells,1
+2023-ON,4,2,3,(b)(i),Electrochemistry & redox,Standard electrode potentials & cells,1
+2023-ON,4,2,3,(b)(ii),Electrochemistry & redox,Standard electrode potentials & cells,1
+2023-ON,4,2,3,(b)(iii),Electrochemistry & redox,Standard electrode potentials & cells,1
+2023-ON,4,2,3,(c)(i),Electrochemistry & redox,Nernst equation & effect of concentration,2
+2023-ON,4,2,3,(c)(ii),Electrochemistry & redox,Nernst equation & effect of concentration,1
+2023-ON,4,2,3,(d),Electrochemistry & redox,ΔG and E°cell,3
+2023-ON,4,2,3,(e),Electrochemistry & redox,Electrolysis & Faraday's laws,3
+2023-ON,4,2,3,(f)(i),Entropy & Gibbs free energy,Gibbs free energy & feasibility,3
+2023-ON,4,2,3,(f)(ii),Entropy & Gibbs free energy,Gibbs free energy & feasibility,1
+2023-ON,4,2,4,(a),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2023-ON,4,2,4,(b),Transition elements,"Transition element properties (variable oxidation states, catalysis)",1
+2023-ON,4,2,4,(c),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2023-ON,4,2,4,(d),Transition element complexes,Ligand exchange & stability constants,1
+2023-ON,4,2,4,(e),Transition element complexes,Ligand exchange & stability constants,2
+2023-ON,4,2,4,(f),Transition element complexes,Colour & d-orbital splitting,2
+2023-ON,4,2,5,(a),Group 2,Group 2 solubility & thermal stability trends (A Level),1
+2023-ON,4,2,5,(b),Group 2,Group 2 solubility & thermal stability trends (A Level),2
+2023-ON,4,2,5,(c),Transition elements,Redox titrations with transition-metal ions,3
+2023-ON,4,2,6,(a)(i),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2023-ON,4,2,6,(a)(ii),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2023-ON,4,2,6,(a)(iii),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2023-ON,4,2,6,(b)(i),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2023-ON,4,2,6,(b)(ii),Transition element complexes,Ligand exchange & stability constants,1
+2023-ON,4,2,6,(b)(iii),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2023-ON,4,2,6,(b)(iv),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2023-ON,4,2,6,(b)(v),Transition element complexes,Isomerism in complexes,1
+2023-ON,4,2,6,(b)(vi),Transition element complexes,Isomerism in complexes,2
+2023-ON,4,2,7,(a),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,2
+2023-ON,4,2,7,(b),Analytical techniques,Carbon-13 NMR,2
+2023-ON,4,2,7,(c)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,4
+2023-ON,4,2,7,(c)(ii),Carboxylic acids & derivatives,Acyl chlorides,3
+2023-ON,4,2,8,(a)(i),Polymerisation,Condensation polymers (polyesters/polyamides),2
+2023-ON,4,2,8,(a)(ii),Polymerisation,Condensation polymers (polyesters/polyamides),1
+2023-ON,4,2,8,(a)(iii),Polymerisation,Polymer properties & degradability,1
+2023-ON,4,2,8,(b)(i),Analytical techniques,Proton (1H) NMR,3
+2023-ON,4,2,8,(b)(ii),Analytical techniques,Proton (1H) NMR,1
+2023-ON,4,2,8,(b)(iii),Analytical techniques,Proton (1H) NMR,1
+2023-ON,4,2,8,(c)(i),Analytical techniques,"Chromatography (TLC, GC)",1
+2023-ON,4,2,8,(c)(ii),Analytical techniques,"Chromatography (TLC, GC)",1
+2023-ON,4,2,8,(c)(iii),Analytical techniques,"Chromatography (TLC, GC)",1
+2023-ON,4,2,9,(a),Nitrogen compounds,Amines: basicity & preparation,4
+2023-ON,4,2,9,(b),Nitrogen compounds,Amines: basicity & preparation,3
+2023-ON,4,2,9,(c),Nitrogen compounds,Phenylamine & azo dyes,2
+2023-ON,4,2,9,(d)(i),Nitrogen compounds,Amides,4
+2023-ON,4,2,9,(d)(ii),Nitrogen compounds,Amides,1
+2023-ON,5,2,1,(a)(i),Practical skills,Graph plotting & line of best fit,2
+2023-ON,5,2,1,(a)(ii),Practical skills,"Data processing (tables, sig. figs)",1
+2023-ON,5,2,1,(a)(iii),Practical skills,"Data processing (tables, sig. figs)",1
+2023-ON,5,2,1,(a)(iv),"Atoms, molecules & stoichiometry",Titration calculations,2
+2023-ON,5,2,1,(a)(v),Practical skills,"Evaluation: errors, reliability & improvements",1
+2023-ON,5,2,1,(b),Practical skills,Planning: method & apparatus,1
+2023-ON,5,2,1,(c),Practical skills,Percentage error & uncertainty,1
+2023-ON,5,2,1,(d),Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",2
+2023-ON,5,2,1,(e),Practical skills,"Evaluation: errors, reliability & improvements",1
+2023-ON,5,2,1,(f),Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",2
+2023-ON,5,2,2,(a),Practical skills,Planning: method & apparatus,3
+2023-ON,5,2,2,(b),Practical skills,Planning: preparing standard solutions & dilutions,3
+2023-ON,5,2,2,(c)(i),Practical skills,Planning: safety,1
+2023-ON,5,2,2,(c)(ii),Practical skills,"Data processing (tables, sig. figs)",1
+2023-ON,5,2,2,(c)(iii),Practical skills,Graph plotting & line of best fit,1
+2023-ON,5,2,2,(c)(iv),Reaction kinetics,"Collision theory (concentration, pressure, surface area)",1
+2023-ON,5,2,2,(c)(v),Reaction kinetics,Rate equations & orders,1
+2023-ON,5,2,2,(d)(i),Practical skills,"Evaluation: errors, reliability & improvements",2
+2023-ON,5,2,2,(d)(ii),Practical skills,"Evaluation: errors, reliability & improvements",1
+2023-ON,5,2,2,(e)(i),Practical skills,Planning: method & apparatus,1
+2023-ON,5,2,2,(e)(ii),Reaction kinetics,"Collision theory (concentration, pressure, surface area)",1
+2024-MJ,1,2,1,,"Atoms, molecules & stoichiometry",Formulae of ions & compounds,1
+2024-MJ,1,2,2,,"Atoms, molecules & stoichiometry",Mole calculations,1
+2024-MJ,1,2,3,,Atomic structure,Ionisation energies,1
+2024-MJ,1,2,4,,Atomic structure,"Particles, isotopes & ions",1
+2024-MJ,1,2,5,,Chemical bonding,Shapes & bond angles (VSEPR),1
+2024-MJ,1,2,6,,Chemical bonding,Dative bonds & electron pairs,1
+2024-MJ,1,2,7,,States of matter,Ideal gas equation,1
+2024-MJ,1,2,8,,Chemical bonding,Intermolecular forces & boiling points,1
+2024-MJ,1,2,9,,Chemical energetics,Bond energies,1
+2024-MJ,1,2,10,,Chemical energetics,Standard enthalpy changes (definitions),1
+2024-MJ,1,2,11,,Electrochemistry & redox,Oxidation numbers & redox,1
+2024-MJ,1,2,12,,Electrochemistry & redox,Balancing redox equations,1
+2024-MJ,1,2,13,,"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,1
+2024-MJ,1,2,14,,"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2024-MJ,1,2,15,,Reaction kinetics,Catalysis,1
+2024-MJ,1,2,16,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2024-MJ,1,2,17,,Group 2,Thermal decomposition of nitrates & carbonates,1
+2024-MJ,1,2,18,,Group 2,Group 2 hydroxide & sulfate solubility,1
+2024-MJ,1,2,19,,Group 17,Chlorine with water / NaOH (disproportionation),1
+2024-MJ,1,2,20,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2024-MJ,1,2,21,,Group 17,"Halogen trends (volatility, bond strength, oxidising power)",1
+2024-MJ,1,2,22,,Nitrogen & sulfur,Ammonia & ammonium ion,1
+2024-MJ,1,2,23,,Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",1
+2024-MJ,1,2,24,,Organic introduction & isomerism,Homologous series & general formulae,1
+2024-MJ,1,2,25,,Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",1
+2024-MJ,1,2,26,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: oxidation with KMnO4,1
+2024-MJ,1,2,27,,"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2024-MJ,1,2,28,,Halogen compounds,Nucleophilic substitution (reactions & products),1
+2024-MJ,1,2,29,,Organic introduction & isomerism,Reaction types & mechanism terms,1
+2024-MJ,1,2,30,,Carboxylic acids & derivatives,Carboxylic acids: reactions,1
+2024-MJ,1,2,31,,"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2024-MJ,1,2,32,,Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2024-MJ,1,2,33,,Carbonyl compounds,Carbonyl structure & reactions,1
+2024-MJ,1,2,34,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: addition reactions,1
+2024-MJ,1,2,35,,Halogen compounds,Elimination,1
+2024-MJ,1,2,36,,Organic introduction & isomerism,Stereoisomerism,1
+2024-MJ,1,2,37,,Organic introduction & isomerism,Stereoisomerism,1
+2024-MJ,1,2,38,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2024-MJ,1,2,39,,Polymerisation,Addition polymers,1
+2024-MJ,1,2,40,,Analytical techniques,Infrared spectroscopy,1
+2024-MJ,2,2,1,(a),Atomic structure,"Particles, isotopes & ions",2
+2024-MJ,2,2,1,(b),Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",3
+2024-MJ,2,2,1,(c),Chemical bonding,Metallic bonding & properties,1
+2024-MJ,2,2,1,(d)(i),Periodicity (Period 3),Structure & melting points across Period 3,1
+2024-MJ,2,2,1,(d)(ii),Periodicity (Period 3),Structure & melting points across Period 3,2
+2024-MJ,2,2,1,(e)(i),Periodicity (Period 3),Period 3 oxides & chlorides,2
+2024-MJ,2,2,1,(e)(ii),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2024-MJ,2,2,1,(e)(iii),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2024-MJ,2,2,1,(f)(i),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2024-MJ,2,2,1,(f)(ii),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2024-MJ,2,2,2,(a),Chemical energetics,Reaction pathway diagrams & activation energy,2
+2024-MJ,2,2,2,(b)(i),Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",1
+2024-MJ,2,2,2,(b)(ii),Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",3
+2024-MJ,2,2,2,(b)(iii),Chemical energetics,Hess's law cycles,2
+2024-MJ,2,2,2,(c),Group 2,Thermal decomposition of nitrates & carbonates,2
+2024-MJ,2,2,3,(a),"Equilibria (incl. acids, pH, buffers, Ksp)",Dynamic equilibrium,2
+2024-MJ,2,2,3,(b)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,3
+2024-MJ,2,2,3,(b)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,4
+2024-MJ,2,2,3,(c),Atomic structure,Electronic configuration,1
+2024-MJ,2,2,3,(d),Chemical bonding,Dot-and-cross diagrams,2
+2024-MJ,2,2,4,(a),Organic introduction & isomerism,Stereoisomerism,2
+2024-MJ,2,2,4,(b),Halogen compounds,Nucleophilic substitution mechanism,3
+2024-MJ,2,2,4,(c),Organic synthesis,Distinguishing tests for functional groups,3
+2024-MJ,2,2,4,(d)(i),Halogen compounds,Elimination,1
+2024-MJ,2,2,4,(d)(ii),Halogen compounds,Elimination,1
+2024-MJ,2,2,4,(e)(i),Chemical bonding,Sigma & pi bonds / hybridisation,2
+2024-MJ,2,2,4,(e)(ii),Organic introduction & isomerism,Stereoisomerism,3
+2024-MJ,2,2,5,(a)(i),Analytical techniques,Mass spectrometry,1
+2024-MJ,2,2,5,(a)(ii),Analytical techniques,Mass spectrometry,2
+2024-MJ,2,2,5,(b)(i),Analytical techniques,Infrared spectroscopy,1
+2024-MJ,2,2,5,(b)(ii),Organic synthesis,Deducing structures from data,1
+2024-MJ,2,2,5,(c)(i),"Hydroxy compounds (alcohols, phenol)",Alcohols: reactions,1
+2024-MJ,2,2,5,(c)(ii),"Hydroxy compounds (alcohols, phenol)",Alcohols: reactions,1
+2024-MJ,2,2,5,(c)(iii),"Hydroxy compounds (alcohols, phenol)",Alcohols: reactions,1
+2024-MJ,4,2,1,(a),Group 2,Group 2 solubility & thermal stability trends (A Level),4
+2024-MJ,4,2,1,(b),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,2
+2024-MJ,4,2,1,(c),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,2
+2024-MJ,4,2,1,(d)(i),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,3
+2024-MJ,4,2,1,(d)(ii),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,2
+2024-MJ,4,2,2,(a)(i),Group 2,Group 2 solubility & thermal stability trends (A Level),1
+2024-MJ,4,2,2,(a)(ii),Group 2,Group 2 solubility & thermal stability trends (A Level),2
+2024-MJ,4,2,2,(b),Transition elements,Redox titrations with transition-metal ions,3
+2024-MJ,4,2,2,(c)(i),Electrochemistry & redox,Standard electrode potentials & cells,2
+2024-MJ,4,2,2,(c)(ii),Electrochemistry & redox,Standard electrode potentials & cells,1
+2024-MJ,4,2,3,(a),Entropy & Gibbs free energy,Gibbs free energy & feasibility,3
+2024-MJ,4,2,3,(b),Entropy & Gibbs free energy,Gibbs free energy & feasibility,2
+2024-MJ,4,2,4,(a)(i),Transition elements,"Transition element properties (variable oxidation states, catalysis)",1
+2024-MJ,4,2,4,(a)(ii),Transition elements,d-orbitals & electronic configuration of ions,1
+2024-MJ,4,2,4,(b),Transition element complexes,Ligand exchange & stability constants,3
+2024-MJ,4,2,4,(c),Transition element complexes,Colour & d-orbital splitting,2
+2024-MJ,4,2,4,(d),Transition element complexes,"Complex ions: ligands, shapes & coordination number",2
+2024-MJ,4,2,4,(e)(i),Transition element complexes,Isomerism in complexes,3
+2024-MJ,4,2,4,(e)(ii),Transition element complexes,Isomerism in complexes,1
+2024-MJ,4,2,4,(e)(iii),Transition element complexes,Isomerism in complexes,1
+2024-MJ,4,2,5,(a)(i),Reaction kinetics,Rate equations & orders,3
+2024-MJ,4,2,5,(a)(ii),Reaction kinetics,Rate equations & orders,2
+2024-MJ,4,2,5,(b),Reaction kinetics,Homogeneous & heterogeneous catalysis,2
+2024-MJ,4,2,5,(c),Reaction kinetics,Mechanisms & rate-determining step,2
+2024-MJ,4,2,6,(a)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2024-MJ,4,2,6,(a)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2024-MJ,4,2,6,(b)(i),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",1
+2024-MJ,4,2,6,(b)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",2
+2024-MJ,4,2,6,(c)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,2
+2024-MJ,4,2,6,(c)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,3
+2024-MJ,4,2,6,(d)(i),Electrochemistry & redox,Electrolysis & Faraday's laws,1
+2024-MJ,4,2,6,(d)(ii),Electrochemistry & redox,Electrolysis & Faraday's laws,2
+2024-MJ,4,2,7,(a)(i),Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2024-MJ,4,2,7,(a)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: side-chain oxidation & other reactions,1
+2024-MJ,4,2,7,(a)(iii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2024-MJ,4,2,7,(b)(i),Nitrogen compounds,Phenylamine & azo dyes,3
+2024-MJ,4,2,7,(b)(ii),Nitrogen compounds,Phenylamine & azo dyes,3
+2024-MJ,4,2,8,(a),Nitrogen compounds,Amines: basicity & preparation,3
+2024-MJ,4,2,8,(b)(i),Nitrogen compounds,Phenylamine & azo dyes,2
+2024-MJ,4,2,8,(b)(ii),Nitrogen compounds,Phenylamine & azo dyes,2
+2024-MJ,4,2,8,(c),Nitrogen compounds,Amides,1
+2024-MJ,4,2,8,(d),Nitrogen compounds,Amides,4
+2024-MJ,4,2,8,(e)(i),Nitrogen compounds,"Amino acids, peptides & electrophoresis",1
+2024-MJ,4,2,8,(e)(ii),Nitrogen compounds,"Amino acids, peptides & electrophoresis",1
+2024-MJ,4,2,8,(f),Nitrogen compounds,"Amino acids, peptides & electrophoresis",2
+2024-MJ,4,2,9,(a),Carboxylic acids & derivatives,"Relative acidity (acids, phenols, alcohols)",1
+2024-MJ,4,2,9,(b)(i),Carboxylic acids & derivatives,Acyl chlorides,1
+2024-MJ,4,2,9,(b)(ii),Carboxylic acids & derivatives,Acyl chlorides,2
+2024-MJ,4,2,9,(b)(iii),Polymerisation,Condensation polymers (polyesters/polyamides),2
+2024-MJ,4,2,9,(c)(i),Analytical techniques,Proton (1H) NMR,1
+2024-MJ,4,2,9,(c)(ii),Analytical techniques,Proton (1H) NMR,4
+2024-MJ,4,2,9,(c)(iii),Analytical techniques,Proton (1H) NMR,1
+2024-MJ,5,2,1,(a),Practical skills,Planning: method & apparatus,1
+2024-MJ,5,2,1,(b)(i),"Atoms, molecules & stoichiometry",Mole calculations,1
+2024-MJ,5,2,1,(b)(ii),Practical skills,Planning: method & apparatus,2
+2024-MJ,5,2,1,(c),Practical skills,Planning: method & apparatus,1
+2024-MJ,5,2,1,(d),Practical skills,"Evaluation: errors, reliability & improvements",1
+2024-MJ,5,2,1,(e)(i),Practical skills,Graph plotting & line of best fit,2
+2024-MJ,5,2,1,(e)(ii),Practical skills,Graph plotting & line of best fit,1
+2024-MJ,5,2,1,(f),Practical skills,"Evaluation: errors, reliability & improvements",1
+2024-MJ,5,2,1,(g),Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",2
+2024-MJ,5,2,1,(h),Chemical energetics,Hess's law cycles,1
+2024-MJ,5,2,1,(h)(i),Practical skills,"Evaluation: errors, reliability & improvements",2
+2024-MJ,5,2,2,(a),Practical skills,Planning: preparing standard solutions & dilutions,3
+2024-MJ,5,2,2,(b),Practical skills,Planning: method & apparatus,1
+2024-MJ,5,2,2,(c)(i),Practical skills,Planning: method & apparatus,1
+2024-MJ,5,2,2,(c)(ii),Practical skills,Planning: method & apparatus,1
+2024-MJ,5,2,2,(d)(i),Practical skills,"Data processing (tables, sig. figs)",1
+2024-MJ,5,2,2,(d)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2024-MJ,5,2,2,(e)(i),Practical skills,Graph plotting & line of best fit,1
+2024-MJ,5,2,2,(e)(ii),Practical skills,Anomalous results,2
+2024-MJ,5,2,2,(e)(iii),Practical skills,"Gradient, intercept & tangents",2
+2024-MJ,5,2,2,(e)(iv),"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,2
+2024-ON,1,2,1,,Atomic structure,"Particles, isotopes & ions",1
+2024-ON,1,2,2,,Atomic structure,Ionisation energies,1
+2024-ON,1,2,3,,"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,1
+2024-ON,1,2,4,,Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",1
+2024-ON,1,2,5,,Chemical bonding,Shapes & bond angles (VSEPR),1
+2024-ON,1,2,6,,Chemical bonding,Intermolecular forces & boiling points,1
+2024-ON,1,2,7,,States of matter,Ideal gas equation,1
+2024-ON,1,2,8,,Chemical bonding,Bonding types & properties,1
+2024-ON,1,2,9,,Chemical energetics,Standard enthalpy changes (definitions),1
+2024-ON,1,2,10,,Chemical energetics,Hess's law cycles,1
+2024-ON,1,2,11,,Electrochemistry & redox,Oxidation numbers & redox,1
+2024-ON,1,2,12,,Electrochemistry & redox,Balancing redox equations,1
+2024-ON,1,2,13,,"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,1
+2024-ON,1,2,14,,"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2024-ON,1,2,15,,Reaction kinetics,"Collision theory (concentration, pressure, surface area)",1
+2024-ON,1,2,16,,Reaction kinetics,Temperature & Boltzmann distribution,1
+2024-ON,1,2,17,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2024-ON,1,2,18,,Periodicity (Period 3),Period 3 elements: reactions with oxygen & chlorine,1
+2024-ON,1,2,19,,Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",1
+2024-ON,1,2,20,,Group 2,Thermal decomposition of nitrates & carbonates,1
+2024-ON,1,2,21,,Group 2,Group 2 reactivity & carbonate stability,1
+2024-ON,1,2,22,,Group 17,Halide ions: tests & reactions with H2SO4,1
+2024-ON,1,2,23,,Group 17,Halogen compounds & oxidation states,1
+2024-ON,1,2,24,,Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",1
+2024-ON,1,2,25,,Chemical bonding,Sigma & pi bonds / hybridisation,1
+2024-ON,1,2,26,,Organic introduction & isomerism,Stereoisomerism,1
+2024-ON,1,2,27,,Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2024-ON,1,2,28,,Organic introduction & isomerism,Reaction types & mechanism terms,1
+2024-ON,1,2,29,,Organic synthesis,Multi-step synthesis routes,1
+2024-ON,1,2,30,,Nitrogen compounds,Amines & nitriles,1
+2024-ON,1,2,31,,Halogen compounds,Preparation of halogenoalkanes,1
+2024-ON,1,2,32,,"Hydroxy compounds (alcohols, phenol)",Alcohols: substitution & dehydration,1
+2024-ON,1,2,33,,"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2024-ON,1,2,34,,Carbonyl compounds,Tri-iodomethane test,1
+2024-ON,1,2,35,,Carbonyl compounds,Nucleophilic addition (HCN),1
+2024-ON,1,2,36,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2024-ON,1,2,37,,Carboxylic acids & derivatives,Carboxylic acids: reactions,1
+2024-ON,1,2,38,,Organic synthesis,Functional group identification,1
+2024-ON,1,2,39,,Polymerisation,Addition polymers,1
+2024-ON,1,2,40,,Analytical techniques,Mass spectrometry,1
+2024-ON,2,2,1,(a)(i),Atomic structure,Electronic configuration,1
+2024-ON,2,2,1,(a)(ii),Atomic structure,Electronic configuration,1
+2024-ON,2,2,1,(a)(iii),Atomic structure,Electronic configuration,1
+2024-ON,2,2,1,(b)(i),Atomic structure,"Particles, isotopes & ions",2
+2024-ON,2,2,1,(b)(ii),"Atoms, molecules & stoichiometry","Relative masses (Ar, Mr, isotopic mass)",2
+2024-ON,2,2,1,(b)(iii),"Atoms, molecules & stoichiometry","Relative masses (Ar, Mr, isotopic mass)",2
+2024-ON,2,2,2,(a)(i),Periodicity (Period 3),Period 3 elements: reactions with oxygen & chlorine,2
+2024-ON,2,2,2,(a)(ii),Chemical bonding,Dot-and-cross diagrams,1
+2024-ON,2,2,2,(a)(iii),Periodicity (Period 3),Period 3 oxides & chlorides,2
+2024-ON,2,2,2,(b)(i),Periodicity (Period 3),Period 3 oxides & chlorides,2
+2024-ON,2,2,2,(b)(ii),Nitrogen compounds,Amines & nitriles,1
+2024-ON,2,2,2,(b)(iii),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: addition reactions,2
+2024-ON,2,2,2,(b)(iv),"Hydroxy compounds (alcohols, phenol)",Alcohols: reactions,2
+2024-ON,2,2,2,(c)(i),Chemical bonding,Intermolecular forces & boiling points,2
+2024-ON,2,2,2,(c)(ii),Chemical bonding,Intermolecular forces & boiling points,1
+2024-ON,2,2,3,(a)(i),Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",2
+2024-ON,2,2,3,(a)(ii),Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",1
+2024-ON,2,2,3,(a)(iii),Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",1
+2024-ON,2,2,3,(a)(iv),Nitrogen & sulfur,Nitric acid & nitrates,1
+2024-ON,2,2,3,(a)(v),Group 2,Thermal decomposition of nitrates & carbonates,1
+2024-ON,2,2,3,(b)(i),Electrochemistry & redox,Oxidation numbers & redox,1
+2024-ON,2,2,3,(b)(ii),Electrochemistry & redox,Oxidation numbers & redox,1
+2024-ON,2,2,3,(b)(iii),Nitrogen & sulfur,Ammonia & ammonium ion,1
+2024-ON,2,2,3,(b)(iv),Chemical bonding,Shapes & bond angles (VSEPR),1
+2024-ON,2,2,3,(c)(i),Atomic structure,Ionisation energies,1
+2024-ON,2,2,3,(c)(ii),Atomic structure,Ionisation energies,2
+2024-ON,2,2,3,(d),Chemical bonding,Bonding types & properties,2
+2024-ON,2,2,3,(e),Chemical bonding,Bonding types & properties,1
+2024-ON,2,2,3,(f)(i),Chemical bonding,Sigma & pi bonds / hybridisation,2
+2024-ON,2,2,3,(f)(ii),Nitrogen & sulfur,Nitrogen: unreactivity,1
+2024-ON,2,2,4,(a),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,3
+2024-ON,2,2,4,(b),Chemical energetics,Hess's law cycles,1
+2024-ON,2,2,4,(c)(i),Halogen compounds,Reactions of halogenoalkanes (reagents & conditions),2
+2024-ON,2,2,4,(c)(ii),Polymerisation,Addition polymers,1
+2024-ON,2,2,4,(c)(iii),Halogen compounds,Elimination,1
+2024-ON,2,2,4,(d)(i),Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2024-ON,2,2,4,(d)(ii),Carbonyl compounds,Carbonyl structure & reactions,1
+2024-ON,2,2,4,(d)(iii),Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",3
+2024-ON,2,2,4,(e)(i),Organic synthesis,Deducing structures from data,3
+2024-ON,2,2,4,(e)(ii),Organic synthesis,Deducing structures from data,1
+2024-ON,4,2,1,(a)(i),Reaction kinetics,Half-life & first-order kinetics,2
+2024-ON,4,2,1,(a)(ii),Reaction kinetics,Rate equations & orders,1
+2024-ON,4,2,1,(a)(iii),Reaction kinetics,Half-life & first-order kinetics,1
+2024-ON,4,2,1,(a)(iv),Reaction kinetics,Rate equations & orders,2
+2024-ON,4,2,1,(b)(i),Reaction kinetics,Homogeneous & heterogeneous catalysis,1
+2024-ON,4,2,1,(b)(ii),Reaction kinetics,Homogeneous & heterogeneous catalysis,1
+2024-ON,4,2,1,(b)(iii),Reaction kinetics,Homogeneous & heterogeneous catalysis,2
+2024-ON,4,2,1,(b)(iv),Reaction kinetics,Homogeneous & heterogeneous catalysis,1
+2024-ON,4,2,1,(c),Electrochemistry & redox,Standard electrode potentials & cells,3
+2024-ON,4,2,2,(a),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Enthalpies of solution & hydration,3
+2024-ON,4,2,2,(b)(i),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Enthalpies of solution & hydration,1
+2024-ON,4,2,2,(b)(ii),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Enthalpies of solution & hydration,2
+2024-ON,4,2,2,(b)(iii),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Enthalpies of solution & hydration,3
+2024-ON,4,2,2,(c),Entropy & Gibbs free energy,Entropy changes,1
+2024-ON,4,2,2,(d),Entropy & Gibbs free energy,Gibbs free energy & feasibility,2
+2024-ON,4,2,2,(e)(i),Entropy & Gibbs free energy,Gibbs free energy & feasibility,1
+2024-ON,4,2,2,(e)(ii),Entropy & Gibbs free energy,Gibbs free energy & feasibility,1
+2024-ON,4,2,3,(a)(i),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",2
+2024-ON,4,2,3,(a)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,3
+2024-ON,4,2,3,(a)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,3
+2024-ON,4,2,3,(a)(iv),Group 2,Group 2 solubility & thermal stability trends (A Level),3
+2024-ON,4,2,3,(b)(i),Carboxylic acids & derivatives,Carboxylic acids: reactions,1
+2024-ON,4,2,3,(b)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,2
+2024-ON,4,2,3,(b)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",1
+2024-ON,4,2,3,(b)(iv),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,2
+2024-ON,4,2,3,(b)(v),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,2
+2024-ON,4,2,4,(a)(i),Transition element complexes,Ligand exchange & stability constants,1
+2024-ON,4,2,4,(a)(ii),Transition element complexes,Ligand exchange & stability constants,1
+2024-ON,4,2,4,(a)(iii),Transition element complexes,Ligand exchange & stability constants,1
+2024-ON,4,2,4,(b)(i),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2024-ON,4,2,4,(b)(ii),Transition elements,"Transition element properties (variable oxidation states, catalysis)",1
+2024-ON,4,2,4,(b)(iii),Transition element complexes,Colour & d-orbital splitting,1
+2024-ON,4,2,4,(b)(iv),Transition element complexes,Colour & d-orbital splitting,1
+2024-ON,4,2,4,(c)(i),Transition elements,Redox titrations with transition-metal ions,1
+2024-ON,4,2,4,(c)(ii),Transition elements,Redox titrations with transition-metal ions,2
+2024-ON,4,2,4,(c)(iii),Transition elements,Redox titrations with transition-metal ions,2
+2024-ON,4,2,5,(a),Transition element complexes,Ligand exchange & stability constants,1
+2024-ON,4,2,5,(b)(i),Transition element complexes,Ligand exchange & stability constants,1
+2024-ON,4,2,5,(b)(ii),Transition element complexes,Ligand exchange & stability constants,1
+2024-ON,4,2,5,(c),Transition element complexes,Isomerism in complexes,3
+2024-ON,4,2,6,(a)(i),Carboxylic acids & derivatives,Acyl chlorides,1
+2024-ON,4,2,6,(a)(ii),Carboxylic acids & derivatives,Acyl chlorides,1
+2024-ON,4,2,6,(b),Carboxylic acids & derivatives,Carboxylic acids: reactions,2
+2024-ON,4,2,6,(c),Carboxylic acids & derivatives,"Relative acidity (acids, phenols, alcohols)",2
+2024-ON,4,2,6,(d)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: side-chain oxidation & other reactions,1
+2024-ON,4,2,6,(d)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: side-chain oxidation & other reactions,2
+2024-ON,4,2,6,(d)(iii),Polymerisation,Condensation polymers (polyesters/polyamides),2
+2024-ON,4,2,6,(d)(iv),Polymerisation,Condensation polymers (polyesters/polyamides),1
+2024-ON,4,2,7,(a),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2024-ON,4,2,7,(b)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,2
+2024-ON,4,2,7,(b)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,2
+2024-ON,4,2,7,(c),Chemical bonding,Sigma & pi bonds / hybridisation,1
+2024-ON,4,2,7,(d),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2024-ON,4,2,7,(e),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2024-ON,4,2,7,(f)(i),Halogen compounds,Halogenoarenes vs halogenoalkanes,1
+2024-ON,4,2,7,(f)(ii),Halogen compounds,Halogenoarenes vs halogenoalkanes,2
+2024-ON,4,2,8,(a),Organic introduction & isomerism,Optical isomerism,1
+2024-ON,4,2,8,(b),Organic introduction & isomerism,Optical isomerism,1
+2024-ON,4,2,8,(c),Organic introduction & isomerism,Optical isomerism,1
+2024-ON,4,2,8,(d),Organic introduction & isomerism,Optical isomerism,1
+2024-ON,4,2,8,(e),Organic introduction & isomerism,Optical isomerism,1
+2024-ON,4,2,8,(f),Analytical techniques,Proton (1H) NMR,3
+2024-ON,4,2,8,(g),Analytical techniques,Carbon-13 NMR,1
+2024-ON,4,2,8,(h),Nitrogen compounds,"Amino acids, peptides & electrophoresis",3
+2024-ON,5,2,1,(a)(i),"Atoms, molecules & stoichiometry",Mole calculations,1
+2024-ON,5,2,1,(a)(ii),Practical skills,Planning: preparing standard solutions & dilutions,3
+2024-ON,5,2,1,(b)(i),Practical skills,Planning: method & apparatus,1
+2024-ON,5,2,1,(b)(ii),Practical skills,Planning: method & apparatus,1
+2024-ON,5,2,1,(b)(iii),Practical skills,Planning: method & apparatus,1
+2024-ON,5,2,1,(b)(iv),Practical skills,Planning: method & apparatus,1
+2024-ON,5,2,1,(c)(i),Practical skills,"Data processing (tables, sig. figs)",2
+2024-ON,5,2,1,(c)(ii),Practical skills,Percentage error & uncertainty,1
+2024-ON,5,2,1,(d),"Atoms, molecules & stoichiometry",Titration calculations,3
+2024-ON,5,2,1,(e),Practical skills,"Evaluation: errors, reliability & improvements",2
+2024-ON,5,2,2,(a)(i),Practical skills,Planning: method & apparatus,1
+2024-ON,5,2,2,(a)(ii),Practical skills,Planning: method & apparatus,1
+2024-ON,5,2,2,(a)(iii),Practical skills,Planning: method & apparatus,1
+2024-ON,5,2,2,(b),Practical skills,"Data processing (tables, sig. figs)",1
+2024-ON,5,2,2,(c),Practical skills,Planning: variables & hypothesis,1
+2024-ON,5,2,2,(d)(i),Practical skills,Graph plotting & line of best fit,2
+2024-ON,5,2,2,(d)(ii),Practical skills,Anomalous results,2
+2024-ON,5,2,2,(e),Practical skills,"Gradient, intercept & tangents",2
+2024-ON,5,2,2,(f),Practical skills,"Evaluation: errors, reliability & improvements",1
+2024-ON,5,2,2,(g)(i),"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,1
+2024-ON,5,2,2,(g)(ii),"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,1
+2025-MJ,1,2,1,,Chemical bonding,Intermolecular forces & boiling points,1
+2025-MJ,1,2,2,,Atomic structure,"Particles, isotopes & ions",1
+2025-MJ,1,2,3,,Reaction kinetics,Temperature & Boltzmann distribution,1
+2025-MJ,1,2,4,,"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2025-MJ,1,2,5,,Electrochemistry & redox,Oxidation numbers & redox,1
+2025-MJ,1,2,6,,Chemical energetics,Hess's law cycles,1
+2025-MJ,1,2,7,,Chemical bonding,Shapes & bond angles (VSEPR),1
+2025-MJ,1,2,8,,"Equilibria (incl. acids, pH, buffers, Ksp)","Industrial equilibria (Haber, Contact)",1
+2025-MJ,1,2,9,,Reaction kinetics,Rate measurement & graphs,1
+2025-MJ,1,2,10,,Chemical energetics,Standard enthalpy changes (definitions),1
+2025-MJ,1,2,11,,"Atoms, molecules & stoichiometry",Water of crystallisation & formulae,1
+2025-MJ,1,2,12,,States of matter,Ideal gas equation,1
+2025-MJ,1,2,13,,Chemical energetics,Reaction pathway diagrams & activation energy,1
+2025-MJ,1,2,14,,Atomic structure,"Particles, isotopes & ions",1
+2025-MJ,1,2,15,,"Atoms, molecules & stoichiometry",Empirical & molecular formula,1
+2025-MJ,1,2,16,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2025-MJ,1,2,17,,Group 17,"Halogen trends (volatility, bond strength, oxidising power)",1
+2025-MJ,1,2,18,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2025-MJ,1,2,19,,Group 2,Group 2 hydroxide & sulfate solubility,1
+2025-MJ,1,2,20,,Group 17,Halide ions: tests & reactions with H2SO4,1
+2025-MJ,1,2,21,,Nitrogen & sulfur,Ammonia & ammonium ion,1
+2025-MJ,1,2,22,,Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",1
+2025-MJ,1,2,23,,Group 2,Thermal decomposition of nitrates & carbonates,1
+2025-MJ,1,2,24,,Nitrogen & sulfur,Sulfur dioxide & acid rain,1
+2025-MJ,1,2,25,,Halogen compounds,SN1/SN2 & reactivity,1
+2025-MJ,1,2,26,,Polymerisation,Addition polymers,1
+2025-MJ,1,2,27,,Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2025-MJ,1,2,28,,Nitrogen compounds,Amines & nitriles,1
+2025-MJ,1,2,29,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2025-MJ,1,2,30,,"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2025-MJ,1,2,31,,Carbonyl compounds,Tri-iodomethane test,1
+2025-MJ,1,2,32,,"Hydroxy compounds (alcohols, phenol)",Alcohols: substitution & dehydration,1
+2025-MJ,1,2,33,,Halogen compounds,SN1/SN2 & reactivity,1
+2025-MJ,1,2,34,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2025-MJ,1,2,35,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2025-MJ,1,2,36,,"Hydroxy compounds (alcohols, phenol)",Alcohols: substitution & dehydration,1
+2025-MJ,1,2,37,,Halogen compounds,Elimination,1
+2025-MJ,1,2,38,,Organic introduction & isomerism,Stereoisomerism,1
+2025-MJ,1,2,39,,Organic introduction & isomerism,Stereoisomerism,1
+2025-MJ,1,2,40,,Analytical techniques,Mass spectrometry,1
+2025-MJ,2,2,1,(a)(i),Chemical bonding,"Giant covalent structures (graphite, diamond)",1
+2025-MJ,2,2,1,(a)(ii),Chemical bonding,"Giant covalent structures (graphite, diamond)",1
+2025-MJ,2,2,1,(a)(iii),Chemical bonding,"Giant covalent structures (graphite, diamond)",1
+2025-MJ,2,2,1,(b)(i),Periodicity (Period 3),Period 3 oxides & chlorides,2
+2025-MJ,2,2,1,(b)(ii),Periodicity (Period 3),Period 3 oxides & chlorides,2
+2025-MJ,2,2,1,(b)(iii),Periodicity (Period 3),Period 3 oxides & chlorides,2
+2025-MJ,2,2,1,(c)(i),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2025-MJ,2,2,1,(c)(ii),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2025-MJ,2,2,1,(d)(i),Chemical bonding,Intermolecular forces & boiling points,3
+2025-MJ,2,2,1,(d)(ii),Chemical bonding,Intermolecular forces & boiling points,2
+2025-MJ,2,2,2,(a)(i),"Atoms, molecules & stoichiometry","Relative masses (Ar, Mr, isotopic mass)",2
+2025-MJ,2,2,2,(a)(ii),"Atoms, molecules & stoichiometry","Relative masses (Ar, Mr, isotopic mass)",2
+2025-MJ,2,2,2,(b),Atomic structure,Electronic configuration,1
+2025-MJ,2,2,2,(c),Atomic structure,Orbitals & sub-shells,1
+2025-MJ,2,2,2,(d),Atomic structure,"Particles, isotopes & ions",2
+2025-MJ,2,2,2,(e),Atomic structure,Atomic & ionic radius,2
+2025-MJ,2,2,3,(a)(i),Organic introduction & isomerism,Reaction types & mechanism terms,1
+2025-MJ,2,2,3,(a)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,4
+2025-MJ,2,2,3,(a)(iii),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,2
+2025-MJ,2,2,3,(b)(i),Reaction kinetics,Rate measurement & graphs,1
+2025-MJ,2,2,3,(b)(ii),Reaction kinetics,Rate measurement & graphs,1
+2025-MJ,2,2,3,(c),Chemical energetics,Bond energies,2
+2025-MJ,2,2,3,(d)(i),Reaction kinetics,Catalysis,1
+2025-MJ,2,2,3,(d)(ii),Reaction kinetics,Catalysis,2
+2025-MJ,2,2,3,(e),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: oxidation with KMnO4,2
+2025-MJ,2,2,4,(a)(i),Carboxylic acids & derivatives,Reduction with LiAlH4/NaBH4,1
+2025-MJ,2,2,4,(a)(ii),Carboxylic acids & derivatives,Reduction with LiAlH4/NaBH4,1
+2025-MJ,2,2,4,(b)(i),Halogen compounds,Preparation of halogenoalkanes,1
+2025-MJ,2,2,4,(b)(ii),Halogen compounds,Reactions of halogenoalkanes (reagents & conditions),1
+2025-MJ,2,2,4,(b)(iii),Nitrogen compounds,Amines & nitriles,2
+2025-MJ,2,2,4,(b)(iv),Nitrogen compounds,Amines & nitriles,1
+2025-MJ,2,2,4,(c)(i),Chemical bonding,Sigma & pi bonds / hybridisation,1
+2025-MJ,2,2,4,(c)(ii),"Hydroxy compounds (alcohols, phenol)",Alcohols: reactions,1
+2025-MJ,2,2,4,(c)(iii),"Hydroxy compounds (alcohols, phenol)",Alcohols: reactions,1
+2025-MJ,2,2,4,(d)(i),"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2025-MJ,2,2,4,(d)(ii),"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2025-MJ,2,2,4,(d)(iii),"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2025-MJ,2,2,5,(a),"Atoms, molecules & stoichiometry",Empirical & molecular formula,1
+2025-MJ,2,2,5,(b)(i),"Atoms, molecules & stoichiometry",Titration calculations,1
+2025-MJ,2,2,5,(b)(ii),"Atoms, molecules & stoichiometry",Titration calculations,2
+2025-MJ,2,2,5,(b)(iii),Analytical techniques,Infrared spectroscopy,1
+2025-MJ,3,3,1,(a),Practical skills,"Titration: recording, accuracy & mean titre",7
+2025-MJ,3,3,1,(b),Practical skills,"Titration: recording, accuracy & mean titre",1
+2025-MJ,3,3,1,(c)(i),Practical skills,"Data processing (tables, sig. figs)",1
+2025-MJ,3,3,1,(c)(ii),Transition elements,Redox titrations with transition-metal ions,1
+2025-MJ,3,3,1,(c)(iii),Transition elements,Redox titrations with transition-metal ions,1
+2025-MJ,3,3,1,(c)(iv),Transition elements,Redox titrations with transition-metal ions,1
+2025-MJ,3,3,1,(d),Practical skills,"Evaluation: errors, reliability & improvements",2
+2025-MJ,3,3,2,(a),Practical skills,Thermochemistry experiment: recording & processing,5
+2025-MJ,3,3,2,(b)(i),Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",1
+2025-MJ,3,3,2,(b)(ii),Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",2
+2025-MJ,3,3,2,(c)(i),Practical skills,"Evaluation: errors, reliability & improvements",1
+2025-MJ,3,3,2,(c)(ii),Practical skills,"Evaluation: errors, reliability & improvements",1
+2025-MJ,3,3,3,(a)(i),Practical skills,"Qualitative analysis: cations, anions & gases",2
+2025-MJ,3,3,3,(a)(ii),Practical skills,"Qualitative analysis: cations, anions & gases",2
+2025-MJ,3,3,3,(a)(iii),Practical skills,"Qualitative analysis: cations, anions & gases",1
+2025-MJ,3,3,3,(a)(iv),Practical skills,"Qualitative analysis: cations, anions & gases",1
+2025-MJ,3,3,3,(b)(i),Practical skills,"Qualitative analysis: cations, anions & gases",6
+2025-MJ,3,3,3,(b)(ii),Practical skills,"Qualitative analysis: cations, anions & gases",1
+2025-MJ,3,3,3,(b)(iii),Practical skills,"Qualitative analysis: cations, anions & gases",3
+2025-MJ,4,2,1,(a)(i),Group 2,Group 2 solubility & thermal stability trends (A Level),1
+2025-MJ,4,2,1,(a)(ii),Group 2,Group 2 solubility & thermal stability trends (A Level),3
+2025-MJ,4,2,1,(b),"Atoms, molecules & stoichiometry",Titration calculations,4
+2025-MJ,4,2,2,(a)(i),Transition element complexes,Ligand exchange & stability constants,4
+2025-MJ,4,2,2,(a)(ii),Transition element complexes,Ligand exchange & stability constants,1
+2025-MJ,4,2,2,(b)(i),Transition element complexes,Colour & d-orbital splitting,2
+2025-MJ,4,2,2,(b)(ii),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2025-MJ,4,2,2,(c),Electrochemistry & redox,Standard electrode potentials & cells,4
+2025-MJ,4,2,2,(d)(i),Transition elements,Redox titrations with transition-metal ions,1
+2025-MJ,4,2,2,(d)(ii),Transition elements,Redox titrations with transition-metal ions,4
+2025-MJ,4,2,3,(a),Entropy & Gibbs free energy,Entropy changes,1
+2025-MJ,4,2,3,(b)(i),Entropy & Gibbs free energy,Entropy changes,1
+2025-MJ,4,2,3,(b)(ii),Entropy & Gibbs free energy,Entropy changes,1
+2025-MJ,4,2,3,(c),Entropy & Gibbs free energy,Gibbs free energy & feasibility,3
+2025-MJ,4,2,3,(d),Entropy & Gibbs free energy,Gibbs free energy & feasibility,2
+2025-MJ,4,2,4,(a)(i),Reaction kinetics,Rate equations & orders,1
+2025-MJ,4,2,4,(a)(ii),Reaction kinetics,Rate equations & orders,2
+2025-MJ,4,2,4,(a)(iii),Reaction kinetics,Rate equations & orders,1
+2025-MJ,4,2,4,(b)(i),Reaction kinetics,Rate equations & orders,1
+2025-MJ,4,2,4,(b)(ii),Reaction kinetics,Mechanisms & rate-determining step,1
+2025-MJ,4,2,4,(b)(iii),Reaction kinetics,Mechanisms & rate-determining step,2
+2025-MJ,4,2,4,(c)(i),Reaction kinetics,Half-life & first-order kinetics,1
+2025-MJ,4,2,4,(c)(ii),Reaction kinetics,Half-life & first-order kinetics,1
+2025-MJ,4,2,5,(a)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2025-MJ,4,2,5,(a)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",2
+2025-MJ,4,2,5,(a)(iii),Group 17,Chlorine with water / NaOH (disproportionation),1
+2025-MJ,4,2,5,(b)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,1
+2025-MJ,4,2,5,(b)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,1
+2025-MJ,4,2,5,(c),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,2
+2025-MJ,4,2,5,(d)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,3
+2025-MJ,4,2,5,(d)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2025-MJ,4,2,6,(a)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2025-MJ,4,2,6,(a)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,3
+2025-MJ,4,2,6,(b),"Hydroxy compounds (alcohols, phenol)",Phenol: acidity & reactions,2
+2025-MJ,4,2,6,(c),"Hydroxy compounds (alcohols, phenol)",Phenol: acidity & reactions,1
+2025-MJ,4,2,6,(d)(i),Nitrogen compounds,Phenylamine & azo dyes,1
+2025-MJ,4,2,6,(d)(ii),Nitrogen compounds,Phenylamine & azo dyes,1
+2025-MJ,4,2,6,(d)(iii),Nitrogen compounds,Amides,1
+2025-MJ,4,2,6,(d)(iv),Nitrogen compounds,Amides,1
+2025-MJ,4,2,6,(e),Carboxylic acids & derivatives,"Relative acidity (acids, phenols, alcohols)",4
+2025-MJ,4,2,6,(f)(i),Organic introduction & isomerism,Functional groups & classification,2
+2025-MJ,4,2,6,(f)(ii),"Hydroxy compounds (alcohols, phenol)",Phenol: acidity & reactions,1
+2025-MJ,4,2,6,(f)(iii),"Hydroxy compounds (alcohols, phenol)",Alcohols: substitution & dehydration,1
+2025-MJ,4,2,7,(a),Organic introduction & isomerism,Optical isomerism,1
+2025-MJ,4,2,7,(b)(i),Nitrogen compounds,Amines: basicity & preparation,2
+2025-MJ,4,2,7,(b)(ii),Nitrogen compounds,Amines: basicity & preparation,2
+2025-MJ,4,2,7,(b)(iii),Nitrogen compounds,Amines: basicity & preparation,1
+2025-MJ,4,2,7,(b)(iv),Nitrogen compounds,Amides,1
+2025-MJ,4,2,7,(c)(i),Polymerisation,Condensation polymers (polyesters/polyamides),1
+2025-MJ,4,2,7,(c)(ii),Polymerisation,Condensation polymers (polyesters/polyamides),2
+2025-MJ,4,2,7,(c)(iii),Polymerisation,Polymer properties & degradability,1
+2025-MJ,4,2,8,(a),Analytical techniques,Proton (1H) NMR,1
+2025-MJ,4,2,8,(b),Analytical techniques,Carbon-13 NMR,1
+2025-MJ,4,2,8,(c),Analytical techniques,Proton (1H) NMR,4
+2025-MJ,4,2,9,(a),Nitrogen compounds,"Amino acids, peptides & electrophoresis",2
+2025-MJ,4,2,9,(b)(i),Nitrogen compounds,"Amino acids, peptides & electrophoresis",1
+2025-MJ,4,2,9,(b)(ii),Nitrogen compounds,"Amino acids, peptides & electrophoresis",3
+2025-MJ,4,2,9,(c)(i),Organic synthesis,Multi-step synthesis routes,1
+2025-MJ,4,2,9,(c)(ii),Organic synthesis,Multi-step synthesis routes,2
+2025-MJ,5,2,1,(a)(i),"Atoms, molecules & stoichiometry",Mole calculations,1
+2025-MJ,5,2,1,(a)(ii),Practical skills,Planning: preparing standard solutions & dilutions,3
+2025-MJ,5,2,1,(b),Practical skills,Planning: safety,1
+2025-MJ,5,2,1,(c),Practical skills,Planning: method & apparatus,1
+2025-MJ,5,2,1,(d),Practical skills,Planning: preparing standard solutions & dilutions,1
+2025-MJ,5,2,1,(e),Practical skills,Planning: method & apparatus,1
+2025-MJ,5,2,1,(f),Practical skills,Planning: method & apparatus,1
+2025-MJ,5,2,1,(g)(i),Practical skills,"Data processing (tables, sig. figs)",1
+2025-MJ,5,2,1,(g)(ii),Practical skills,Graph plotting & line of best fit,2
+2025-MJ,5,2,1,(g)(iii),Practical skills,Planning: variables & hypothesis,1
+2025-MJ,5,2,1,(g)(iv),Practical skills,Planning: variables & hypothesis,1
+2025-MJ,5,2,1,(g)(v),Practical skills,Anomalous results,1
+2025-MJ,5,2,1,(h)(i),Practical skills,"Gradient, intercept & tangents",3
+2025-MJ,5,2,1,(h)(ii),Practical skills,"Gradient, intercept & tangents",1
+2025-MJ,5,2,1,(i),Practical skills,"Evaluation: errors, reliability & improvements",1
+2025-MJ,5,2,2,(a),Practical skills,"Data processing (tables, sig. figs)",2
+2025-MJ,5,2,2,(b),Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",1
+2025-MJ,5,2,2,(c),Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",2
+2025-MJ,5,2,2,(d),Practical skills,"Evaluation: errors, reliability & improvements",1
+2025-MJ,5,2,2,(e),Practical skills,Percentage error & uncertainty,1
+2025-MJ,5,2,2,(f),Practical skills,"Evaluation: errors, reliability & improvements",1
+2025-MJ,5,2,2,(g)(i),Practical skills,"Evaluation: errors, reliability & improvements",1
+2025-MJ,5,2,2,(g)(ii),Practical skills,"Evaluation: errors, reliability & improvements",1
+2025-ON,1,2,1,,Atomic structure,Electronic configuration,1
+2025-ON,1,2,2,,Atomic structure,Ionisation energies,1
+2025-ON,1,2,3,,Electrochemistry & redox,Balancing redox equations,1
+2025-ON,1,2,4,,"Atoms, molecules & stoichiometry","Relative masses (Ar, Mr, isotopic mass)",1
+2025-ON,1,2,5,,Chemical bonding,Sigma & pi bonds / hybridisation,1
+2025-ON,1,2,6,,Chemical bonding,Shapes & bond angles (VSEPR),1
+2025-ON,1,2,7,,Periodicity (Period 3),Structure & melting points across Period 3,1
+2025-ON,1,2,8,,States of matter,Ideal gas equation,1
+2025-ON,1,2,9,,Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",1
+2025-ON,1,2,10,,Chemical energetics,Exothermic & endothermic reactions,1
+2025-ON,1,2,11,,Electrochemistry & redox,Oxidation numbers & redox,1
+2025-ON,1,2,12,,"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,1
+2025-ON,1,2,13,,"Equilibria (incl. acids, pH, buffers, Ksp)","Industrial equilibria (Haber, Contact)",1
+2025-ON,1,2,14,,Reaction kinetics,Rate measurement & graphs,1
+2025-ON,1,2,15,,Chemical energetics,Reaction pathway diagrams & activation energy,1
+2025-ON,1,2,16,,Nitrogen & sulfur,"Nitrogen oxides, pollution & catalytic converters",1
+2025-ON,1,2,17,,Periodicity (Period 3),"Periodic trends (radius, IE, electronegativity)",1
+2025-ON,1,2,18,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2025-ON,1,2,19,,Group 2,Thermal decomposition of nitrates & carbonates,1
+2025-ON,1,2,20,,Group 2,Group 2 hydroxide & sulfate solubility,1
+2025-ON,1,2,21,,Group 17,Chlorine with water / NaOH (disproportionation),1
+2025-ON,1,2,22,,Group 17,Halide ions: tests & reactions with H2SO4,1
+2025-ON,1,2,23,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2025-ON,1,2,24,,Nitrogen & sulfur,Ammonia & ammonium ion,1
+2025-ON,1,2,25,,Chemical bonding,Sigma & pi bonds / hybridisation,1
+2025-ON,1,2,26,,Organic introduction & isomerism,Stereoisomerism,1
+2025-ON,1,2,27,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,1
+2025-ON,1,2,28,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: oxidation with KMnO4,1
+2025-ON,1,2,29,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: addition reactions,1
+2025-ON,1,2,30,,Nitrogen compounds,Amines & nitriles,1
+2025-ON,1,2,31,,Halogen compounds,SN1/SN2 & reactivity,1
+2025-ON,1,2,32,,"Hydroxy compounds (alcohols, phenol)",Alcohols: preparation,1
+2025-ON,1,2,33,,"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2025-ON,1,2,34,,Carbonyl compounds,Nucleophilic addition (HCN),1
+2025-ON,1,2,35,,Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2025-ON,1,2,36,,Carboxylic acids & derivatives,Carboxylic acids: preparation,1
+2025-ON,1,2,37,,Carboxylic acids & derivatives,Carboxylic acids: reactions,1
+2025-ON,1,2,38,,Nitrogen compounds,Amines & nitriles,1
+2025-ON,1,2,39,,Polymerisation,Addition polymers,1
+2025-ON,1,2,40,,Analytical techniques,Infrared spectroscopy,1
+2025-ON,2,2,1,(a)(i),Atomic structure,"Particles, isotopes & ions",1
+2025-ON,2,2,1,(a)(ii),Atomic structure,"Particles, isotopes & ions",1
+2025-ON,2,2,1,(a)(iii),Atomic structure,"Particles, isotopes & ions",2
+2025-ON,2,2,1,(b)(i),Atomic structure,Electronic configuration,1
+2025-ON,2,2,1,(b)(ii),Atomic structure,Electronic configuration,1
+2025-ON,2,2,1,(c)(i),Electrochemistry & redox,Balancing redox equations,1
+2025-ON,2,2,1,(c)(ii),Electrochemistry & redox,Balancing redox equations,1
+2025-ON,2,2,1,(c)(iii),Electrochemistry & redox,Balancing redox equations,2
+2025-ON,2,2,2,(a)(i),Chemical bonding,Metallic bonding & properties,1
+2025-ON,2,2,2,(a)(ii),Chemical bonding,Metallic bonding & properties,1
+2025-ON,2,2,2,(b),Periodicity (Period 3),Structure & melting points across Period 3,2
+2025-ON,2,2,2,(c),Periodicity (Period 3),Period 3 oxides & chlorides,4
+2025-ON,2,2,2,(d)(i),Periodicity (Period 3),Period 3 elements: reactions with oxygen & chlorine,1
+2025-ON,2,2,2,(d)(ii),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2025-ON,2,2,2,(e)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Dynamic equilibrium,1
+2025-ON,2,2,2,(e)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Dynamic equilibrium,1
+2025-ON,2,2,2,(e)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,4
+2025-ON,2,2,2,(f)(i),Group 2,Thermal decomposition of nitrates & carbonates,2
+2025-ON,2,2,2,(f)(ii),Group 2,Thermal decomposition of nitrates & carbonates,1
+2025-ON,2,2,2,(f)(iii),Group 2,Thermal decomposition of nitrates & carbonates,1
+2025-ON,2,2,3,(a),Organic introduction & isomerism,Homologous series & general formulae,2
+2025-ON,2,2,3,(b),"Hydrocarbons (alkanes, alkenes, arenes)","Alkanes: properties, combustion & cracking",2
+2025-ON,2,2,3,(c),"Hydrocarbons (alkanes, alkenes, arenes)","Alkanes: properties, combustion & cracking",1
+2025-ON,2,2,3,(d)(i),Organic introduction & isomerism,Structural isomerism & nomenclature,2
+2025-ON,2,2,3,(d)(ii),Chemical bonding,Intermolecular forces & boiling points,3
+2025-ON,2,2,3,(e)(i),"Hydrocarbons (alkanes, alkenes, arenes)","Alkanes: properties, combustion & cracking",1
+2025-ON,2,2,3,(e)(ii),Chemical energetics,Hess's law cycles,2
+2025-ON,2,2,3,(e)(iii),"Hydrocarbons (alkanes, alkenes, arenes)","Alkanes: properties, combustion & cracking",1
+2025-ON,2,2,4,(a)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2025-ON,2,2,4,(a)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,3
+2025-ON,2,2,4,(a)(iii),"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2025-ON,2,2,4,(a)(iv),Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2025-ON,2,2,4,(a)(v),Organic introduction & isomerism,Stereoisomerism,2
+2025-ON,2,2,4,(b),Halogen compounds,Reactions of halogenoalkanes (reagents & conditions),1
+2025-ON,2,2,4,(c)(i),"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2025-ON,2,2,4,(c)(ii),"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2025-ON,2,2,4,(d)(i),Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2025-ON,2,2,4,(d)(ii),Analytical techniques,Infrared spectroscopy,3
+2025-ON,2,2,4,(d)(iii),Analytical techniques,Mass spectrometry,1
+2025-ON,4,2,1,(a),Group 2,Group 2 solubility & thermal stability trends (A Level),1
+2025-ON,4,2,1,(b),Group 2,Group 2 solubility & thermal stability trends (A Level),2
+2025-ON,4,2,1,(c)(i),Group 2,Group 2 reactions with water & oxygen,1
+2025-ON,4,2,1,(c)(ii),Group 2,Group 2 solubility & thermal stability trends (A Level),3
+2025-ON,4,2,2,(a)(i),Organic introduction & isomerism,Reaction types & mechanism terms,1
+2025-ON,4,2,2,(a)(ii),Organic introduction & isomerism,Reaction types & mechanism terms,1
+2025-ON,4,2,2,(a)(iii),Chemical bonding,Shapes & bond angles (VSEPR),1
+2025-ON,4,2,2,(b),Reaction kinetics,Rate equations & orders,2
+2025-ON,4,2,2,(c),Reaction kinetics,Half-life & first-order kinetics,1
+2025-ON,4,2,2,(d),Reaction kinetics,Half-life & first-order kinetics,1
+2025-ON,4,2,2,(e),Reaction kinetics,Homogeneous & heterogeneous catalysis,2
+2025-ON,4,2,3,(a)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2025-ON,4,2,3,(a)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,1
+2025-ON,4,2,3,(b)(i),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",2
+2025-ON,4,2,3,(b)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",1
+2025-ON,4,2,3,(b)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)","pH, Ka, Kw & strong/weak acids",1
+2025-ON,4,2,3,(b)(iv),Carboxylic acids & derivatives,"Relative acidity (acids, phenols, alcohols)",3
+2025-ON,4,2,3,(c)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,1
+2025-ON,4,2,3,(c)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Buffers,1
+2025-ON,4,2,3,(d)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2025-ON,4,2,3,(d)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,2
+2025-ON,4,2,3,(d)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2025-ON,4,2,4,(a),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Lattice energy & Born–Haber cycles,1
+2025-ON,4,2,4,(b),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Electron affinity & ionisation energy (A Level),1
+2025-ON,4,2,4,(c),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Electron affinity & ionisation energy (A Level),2
+2025-ON,4,2,4,(d),"Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",Electron affinity & ionisation energy (A Level),2
+2025-ON,4,2,5,(a)(i),Transition elements,"Transition element properties (variable oxidation states, catalysis)",1
+2025-ON,4,2,5,(a)(ii),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2025-ON,4,2,5,(a)(iii),Transition element complexes,Ligand exchange & stability constants,2
+2025-ON,4,2,5,(a)(iv),Transition element complexes,Ligand exchange & stability constants,1
+2025-ON,4,2,5,(a)(v),Transition element complexes,Ligand exchange & stability constants,1
+2025-ON,4,2,5,(a)(vi),Transition element complexes,Ligand exchange & stability constants,1
+2025-ON,4,2,5,(b)(i),Electrochemistry & redox,Nernst equation & effect of concentration,2
+2025-ON,4,2,5,(b)(ii),Electrochemistry & redox,Standard electrode potentials & cells,1
+2025-ON,4,2,5,(b)(iii),Electrochemistry & redox,Standard electrode potentials & cells,1
+2025-ON,4,2,5,(b)(iv),Electrochemistry & redox,Standard electrode potentials & cells,1
+2025-ON,4,2,5,(c),Electrochemistry & redox,Electrolysis & Faraday's laws,3
+2025-ON,4,2,6,(a)(i),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2025-ON,4,2,6,(a)(ii),Transition element complexes,"Complex ions: ligands, shapes & coordination number",2
+2025-ON,4,2,6,(a)(iii),Transition element complexes,Isomerism in complexes,1
+2025-ON,4,2,6,(b)(i),Transition element complexes,Ligand exchange & stability constants,1
+2025-ON,4,2,6,(b)(ii),Transition element complexes,Ligand exchange & stability constants,1
+2025-ON,4,2,6,(b)(iii),Transition element complexes,Ligand exchange & stability constants,1
+2025-ON,4,2,7,(a),Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",2
+2025-ON,4,2,7,(b)(i),Carbonyl compounds,Tri-iodomethane test,1
+2025-ON,4,2,7,(b)(ii),Carbonyl compounds,Tri-iodomethane test,2
+2025-ON,4,2,7,(c)(i),Analytical techniques,Proton (1H) NMR,1
+2025-ON,4,2,7,(c)(ii),Analytical techniques,Proton (1H) NMR,1
+2025-ON,4,2,7,(c)(iii),Analytical techniques,Proton (1H) NMR,1
+2025-ON,4,2,7,(c)(iv),Analytical techniques,Proton (1H) NMR,1
+2025-ON,4,2,7,(d),Analytical techniques,Carbon-13 NMR,2
+2025-ON,4,2,8,(a),Nitrogen compounds,"Amino acids, peptides & electrophoresis",1
+2025-ON,4,2,8,(b),Nitrogen compounds,"Amino acids, peptides & electrophoresis",2
+2025-ON,4,2,8,(c),Carboxylic acids & derivatives,Reduction with LiAlH4/NaBH4,2
+2025-ON,4,2,8,(d)(i),Carboxylic acids & derivatives,Acyl chlorides,1
+2025-ON,4,2,8,(d)(ii),Nitrogen compounds,Amides,2
+2025-ON,4,2,8,(e),Nitrogen compounds,Amides,2
+2025-ON,4,2,8,(f),Polymerisation,Condensation polymers (polyesters/polyamides),3
+2025-ON,4,2,8,(g)(i),Organic introduction & isomerism,Optical isomerism,2
+2025-ON,4,2,8,(g)(ii),Organic introduction & isomerism,Optical isomerism,1
+2025-ON,4,2,9,(a),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: structure & bonding,3
+2025-ON,4,2,9,(b),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,1
+2025-ON,4,2,9,(c),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,3
+2025-ON,4,2,9,(d),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: electrophilic substitution,2
+2025-ON,4,2,9,(e),"Hydrocarbons (alkanes, alkenes, arenes)",Arenes: side-chain oxidation & other reactions,1
+2025-ON,4,2,9,(f),Organic introduction & isomerism,Structural isomerism & nomenclature,1
+2025-ON,4,2,9,(g),Nitrogen compounds,Phenylamine & azo dyes,1
+2025-ON,4,2,9,(h),Organic synthesis,Multi-step synthesis routes,2
+2025-ON,5,2,1,(a),"Atoms, molecules & stoichiometry",Mole calculations,1
+2025-ON,5,2,1,(b),Practical skills,Planning: preparing standard solutions & dilutions,3
+2025-ON,5,2,1,(c)(i),Practical skills,Planning: method & apparatus,1
+2025-ON,5,2,1,(c)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Dynamic equilibrium,1
+2025-ON,5,2,1,(c)(iii),Practical skills,Planning: method & apparatus,1
+2025-ON,5,2,1,(d)(i),Practical skills,"Data processing (tables, sig. figs)",1
+2025-ON,5,2,1,(d)(ii),Practical skills,Percentage error & uncertainty,1
+2025-ON,5,2,1,(d)(iii),Practical skills,"Evaluation: errors, reliability & improvements",1
+2025-ON,5,2,1,(e)(i),"Atoms, molecules & stoichiometry",Titration calculations,1
+2025-ON,5,2,1,(e)(ii),"Atoms, molecules & stoichiometry",Titration calculations,1
+2025-ON,5,2,1,(e)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,2
+2025-ON,5,2,1,(f)(i),Practical skills,Graph interpretation & conclusions,1
+2025-ON,5,2,1,(f)(ii),Practical skills,"Evaluation: errors, reliability & improvements",1
+2025-ON,5,2,1,(f)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,1
+2025-ON,5,2,2,(a)(i),Practical skills,Planning: method & apparatus,1
+2025-ON,5,2,2,(a)(ii),Practical skills,Planning: safety,1
+2025-ON,5,2,2,(b)(i),Practical skills,"Data processing (tables, sig. figs)",2
+2025-ON,5,2,2,(b)(ii),Practical skills,Planning: variables & hypothesis,1
+2025-ON,5,2,2,(c),Practical skills,Graph plotting & line of best fit,2
+2025-ON,5,2,2,(d)(i),Practical skills,Graph interpretation & conclusions,1
+2025-ON,5,2,2,(d)(ii),"Atoms, molecules & stoichiometry",Titration calculations,1
+2025-ON,5,2,2,(e)(i),Practical skills,Planning: method & apparatus,1
+2025-ON,5,2,2,(e)(ii),Practical skills,Planning: method & apparatus,1
+2025-ON,5,2,2,(e)(iii),Practical skills,Planning: method & apparatus,1
+2025-ON,5,2,2,(e)(iv),Practical skills,"Evaluation: errors, reliability & improvements",1
+2026-MJ,1,2,1,,"Atoms, molecules & stoichiometry",Mole calculations,1
+2026-MJ,1,2,2,,"Atoms, molecules & stoichiometry",Empirical & molecular formula,1
+2026-MJ,1,2,3,,Atomic structure,"Particles, isotopes & ions",1
+2026-MJ,1,2,4,,Atomic structure,Ionisation energies,1
+2026-MJ,1,2,5,,Chemical bonding,Intermolecular forces & boiling points,1
+2026-MJ,1,2,6,,Chemical bonding,Sigma & pi bonds / hybridisation,1
+2026-MJ,1,2,7,,Chemical bonding,Bonding types & properties,1
+2026-MJ,1,2,8,,States of matter,Ideal gas equation,1
+2026-MJ,1,2,9,,Chemical energetics,Hess's law cycles,1
+2026-MJ,1,2,10,,Chemical energetics,"Calorimetry (q = mcΔT), neutralisation & combustion",1
+2026-MJ,1,2,11,,Electrochemistry & redox,Oxidation numbers & redox,1
+2026-MJ,1,2,12,,Electrochemistry & redox,Oxidation numbers & redox,1
+2026-MJ,1,2,13,,"Equilibria (incl. acids, pH, buffers, Ksp)",Kc & Kp calculations,1
+2026-MJ,1,2,14,,"Equilibria (incl. acids, pH, buffers, Ksp)",Le Chatelier's principle,1
+2026-MJ,1,2,15,,Reaction kinetics,Catalysis,1
+2026-MJ,1,2,16,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2026-MJ,1,2,17,,Periodicity (Period 3),Structure & melting points across Period 3,1
+2026-MJ,1,2,18,,Nitrogen & sulfur,Sulfur dioxide & acid rain,1
+2026-MJ,1,2,19,,Periodicity (Period 3),Period 3 oxides & chlorides,1
+2026-MJ,1,2,20,,Group 2,Thermal decomposition of nitrates & carbonates,1
+2026-MJ,1,2,21,,Group 2,Group 2 hydroxide & sulfate solubility,1
+2026-MJ,1,2,22,,Group 17,"Halogen trends (volatility, bond strength, oxidising power)",1
+2026-MJ,1,2,23,,Group 17,"Halogen trends (volatility, bond strength, oxidising power)",1
+2026-MJ,1,2,24,,Nitrogen & sulfur,Ammonia & ammonium ion,1
+2026-MJ,1,2,25,,Organic introduction & isomerism,Stereoisomerism,1
+2026-MJ,1,2,26,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2026-MJ,1,2,27,,Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2026-MJ,1,2,28,,"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: electrophilic addition,1
+2026-MJ,1,2,29,,Halogen compounds,SN1/SN2 & reactivity,1
+2026-MJ,1,2,30,,Nitrogen compounds,Amines & nitriles,1
+2026-MJ,1,2,31,,Organic synthesis,Functional group identification,1
+2026-MJ,1,2,32,,"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2026-MJ,1,2,33,,Carbonyl compounds,Tri-iodomethane test,1
+2026-MJ,1,2,34,,Carboxylic acids & derivatives,Carboxylic acids: reactions,1
+2026-MJ,1,2,35,,Carboxylic acids & derivatives,Esters: formation & hydrolysis,1
+2026-MJ,1,2,36,,Nitrogen compounds,Amines & nitriles,1
+2026-MJ,1,2,37,,Polymerisation,Addition polymers,1
+2026-MJ,1,2,38,,Carbonyl compounds,"Tests: 2,4-DNPH, Fehling's, Tollens'",1
+2026-MJ,1,2,39,,Organic introduction & isomerism,Stereoisomerism,1
+2026-MJ,1,2,40,,Analytical techniques,Mass spectrometry,1
+2026-MJ,2,2,1,(a)(i),Atomic structure,Orbitals & sub-shells,1
+2026-MJ,2,2,1,(a)(ii),Atomic structure,Orbitals & sub-shells,1
+2026-MJ,2,2,1,(b),Chemical bonding,Dot-and-cross diagrams,2
+2026-MJ,2,2,1,(c)(i),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2026-MJ,2,2,1,(c)(ii),Periodicity (Period 3),Period 3 oxides & chlorides,1
+2026-MJ,2,2,1,(c)(iii),Periodicity (Period 3),Period 3 oxides & chlorides,2
+2026-MJ,2,2,1,(d),Group 2,Thermal decomposition of nitrates & carbonates,1
+2026-MJ,2,2,1,(e)(i),"Equilibria (incl. acids, pH, buffers, Ksp)","Industrial equilibria (Haber, Contact)",2
+2026-MJ,2,2,1,(e)(ii),Reaction kinetics,Temperature & Boltzmann distribution,3
+2026-MJ,2,2,2,(a)(i),Atomic structure,"Particles, isotopes & ions",1
+2026-MJ,2,2,2,(a)(ii),Atomic structure,"Particles, isotopes & ions",1
+2026-MJ,2,2,2,(b)(i),Atomic structure,Atomic & ionic radius,1
+2026-MJ,2,2,2,(b)(ii),Atomic structure,Atomic & ionic radius,1
+2026-MJ,2,2,2,(b)(iii),Atomic structure,Atomic & ionic radius,2
+2026-MJ,2,2,3,(a)(i),Group 17,Halide ions: tests & reactions with H2SO4,1
+2026-MJ,2,2,3,(a)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Brønsted–Lowry acids & bases,2
+2026-MJ,2,2,3,(b),Group 17,Halide ions: tests & reactions with H2SO4,3
+2026-MJ,2,2,3,(c),Group 17,Halide ions: tests & reactions with H2SO4,1
+2026-MJ,2,2,3,(d),Group 17,Halide ions: tests & reactions with H2SO4,1
+2026-MJ,2,2,4,(a)(i),Halogen compounds,Preparation of halogenoalkanes,1
+2026-MJ,2,2,4,(a)(ii),"Hydroxy compounds (alcohols, phenol)",Alcohols: substitution & dehydration,1
+2026-MJ,2,2,4,(a)(iii),"Hydroxy compounds (alcohols, phenol)",Alcohols: substitution & dehydration,1
+2026-MJ,2,2,4,(b)(i),"Hydroxy compounds (alcohols, phenol)",Alcohols: oxidation,1
+2026-MJ,2,2,4,(b)(ii),"Atoms, molecules & stoichiometry",Titration calculations,1
+2026-MJ,2,2,4,(b)(iii),"Atoms, molecules & stoichiometry",Titration calculations,1
+2026-MJ,2,2,4,(c)(i),Electrochemistry & redox,Balancing redox equations,2
+2026-MJ,2,2,4,(c)(ii),Organic synthesis,Deducing structures from data,2
+2026-MJ,2,2,5,(a),Organic introduction & isomerism,Structural isomerism & nomenclature,2
+2026-MJ,2,2,5,(b)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2026-MJ,2,2,5,(b)(ii),"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2026-MJ,2,2,5,(b)(iii),"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,2
+2026-MJ,2,2,5,(b)(iv),"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,2
+2026-MJ,2,2,5,(c),"Hydrocarbons (alkanes, alkenes, arenes)",Alkanes: free-radical substitution,1
+2026-MJ,2,2,6,(a)(i),Organic introduction & isomerism,Stereoisomerism,1
+2026-MJ,2,2,6,(a)(ii),Organic introduction & isomerism,Stereoisomerism,2
+2026-MJ,2,2,6,(b)(i),"Hydrocarbons (alkanes, alkenes, arenes)",Alkenes: addition reactions,2
+2026-MJ,2,2,6,(b)(ii),Organic introduction & isomerism,Stereoisomerism,2
+2026-MJ,2,2,6,(c)(i),Analytical techniques,Mass spectrometry,2
+2026-MJ,2,2,6,(c)(ii),Analytical techniques,Mass spectrometry,2
+2026-MJ,2,2,6,(c)(iii),Organic synthesis,Distinguishing tests for functional groups,2
+2026-MJ,3,3,1,(a),Practical skills,Gas collection experiment: recording & processing,3
+2026-MJ,3,3,1,(b)(i),"Atoms, molecules & stoichiometry",Mole calculations,1
+2026-MJ,3,3,1,(b)(ii),Carboxylic acids & derivatives,Carboxylic acids: reactions,1
+2026-MJ,3,3,1,(b)(iii),"Atoms, molecules & stoichiometry",Reacting masses & gas volumes,1
+2026-MJ,3,3,1,(c),Practical skills,"Evaluation: errors, reliability & improvements",2
+2026-MJ,3,3,1,(d),Practical skills,Percentage error & uncertainty,1
+2026-MJ,3,3,2,(a),Practical skills,"Titration: recording, accuracy & mean titre",7
+2026-MJ,3,3,2,(b),Practical skills,"Titration: recording, accuracy & mean titre",1
+2026-MJ,3,3,2,(c)(i),Practical skills,"Data processing (tables, sig. figs)",1
+2026-MJ,3,3,2,(c)(ii),"Atoms, molecules & stoichiometry",Titration calculations,1
+2026-MJ,3,3,2,(c)(iii),"Atoms, molecules & stoichiometry",Titration calculations,1
+2026-MJ,3,3,2,(c)(iv),"Atoms, molecules & stoichiometry",Titration calculations,1
+2026-MJ,3,3,2,(d)(i),Practical skills,Qualitative analysis: organic functional groups,2
+2026-MJ,3,3,2,(d)(ii),Practical skills,Qualitative analysis: organic functional groups,1
+2026-MJ,3,3,2,(e),"Atoms, molecules & stoichiometry","Relative masses (Ar, Mr, isotopic mass)",2
+2026-MJ,3,3,2,(f),Practical skills,"Evaluation: errors, reliability & improvements",1
+2026-MJ,3,3,3,(a),Practical skills,Qualitative analysis: organic functional groups,2
+2026-MJ,3,3,3,(b)(i),Practical skills,"Qualitative analysis: cations, anions & gases",7
+2026-MJ,3,3,3,(b)(ii),Practical skills,"Qualitative analysis: cations, anions & gases",1
+2026-MJ,3,3,3,(b)(iii),Practical skills,"Qualitative analysis: cations, anions & gases",2
+2026-MJ,3,3,3,(b)(iv),Practical skills,"Qualitative analysis: cations, anions & gases",1
+2026-MJ,4,2,1,(a)(i),Transition elements,"Transition element properties (variable oxidation states, catalysis)",1
+2026-MJ,4,2,1,(a)(ii),Transition elements,"Transition element properties (variable oxidation states, catalysis)",1
+2026-MJ,4,2,1,(b)(i),Transition elements,d-orbitals & electronic configuration of ions,1
+2026-MJ,4,2,1,(b)(ii),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2026-MJ,4,2,1,(c),Transition element complexes,"Complex ions: ligands, shapes & coordination number",1
+2026-MJ,4,2,1,(d)(i),Transition element complexes,Ligand exchange & stability constants,1
+2026-MJ,4,2,1,(d)(ii),Transition element complexes,Ligand exchange & stability constants,2
+2026-MJ,4,2,1,(e),Transition element complexes,Isomerism in complexes,2
+2026-MJ,4,2,1,(f)(i),Transition element complexes,Ligand exchange & stability constants,2
+2026-MJ,4,2,1,(f)(ii),Transition element complexes,Ligand exchange & stability constants,1
+2026-MJ,4,2,1,(g),Transition element complexes,Colour & d-orbital splitting,2
+2026-MJ,4,2,1,(h),"Atoms, molecules & stoichiometry",Titration calculations,5
+2026-MJ,4,2,2,(a),Group 2,Group 2 solubility & thermal stability trends (A Level),1
+2026-MJ,4,2,2,(b),Group 2,Group 2 solubility & thermal stability trends (A Level),2
+2026-MJ,4,2,2,(c),Group 2,Group 2 solubility & thermal stability trends (A Level),3
+2026-MJ,4,2,2,(d)(i),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,2
+2026-MJ,4,2,2,(d)(ii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2026-MJ,4,2,2,(d)(iii),"Equilibria (incl. acids, pH, buffers, Ksp)",Solubility product (Ksp) & common ion effect,1
+2026-MJ,4,2,3,(a)(i),Reaction kinetics,Rate equations & orders,4
+2026-MJ,4,2,3,(a)(ii),Reaction kinetics,Rate equations & orders,1
+2026-MJ,4,2,3,(a)(iii),Reaction kinetics,Rate equations & orders,1
+2026-MJ,4,2,3,(b),Reaction kinetics,Mechanisms & rate-determining step,2
+2026-MJ,4,2,3,(c),Reaction kinetics,Homogeneous & heterogeneous catalysis,2
+2026-MJ,4,2,4,(a),"Equilibria (incl. acids, pH, buffers, Ksp)",Partition coefficients,1
+2026-MJ,4,2,4,(b),"Equilibria (incl. acids, pH, buffers, Ksp)",Partition coefficients,3
+2026-MJ,4,2,4,(c),"Equilibria (incl. acids, pH, buffers, Ksp)",Partition coefficients,2
+2026-MJ,4,2,5,(a),Electrochemistry & redox,Standard electrode potentials & cells,2
+2026-MJ,4,2,5,(b)(i),Electrochemistry & redox,Standard electrode potentials & cells,3
+2026-MJ,4,2,5,(b)(ii),Electrochemistry & redox,Standard electrode potentials & cells,1
+2026-MJ,4,2,5,(b)(iii),Electrochemistry & redox,Standard electrode potentials & cells,3
+2026-MJ,4,2,5,(c),Electrochemistry & redox,ΔG and E°cell,2
+2026-MJ,4,2,6,(a)(i),"Hydroxy compounds (alcohols, phenol)",Phenol: acidity & reactions,1
+2026-MJ,4,2,6,(a)(ii),"Hydroxy compounds (alcohols, phenol)",Phenol: acidity & reactions,1
+2026-MJ,4,2,6,(b),Carboxylic acids & derivatives,"Relative acidity (acids, phenols, alcohols)",2
+2026-MJ,4,2,6,(c)(i),Polymerisation,Addition polymers,1
+2026-MJ,4,2,6,(c)(ii),Polymerisation,Condensation polymers (polyesters/polyamides),2
+2026-MJ,4,2,6,(d),Carboxylic acids & derivatives,Reduction with LiAlH4/NaBH4,2
+2026-MJ,4,2,6,(e)(i),Organic synthesis,Multi-step synthesis routes,2
+2026-MJ,4,2,6,(e)(ii),Organic synthesis,Multi-step synthesis routes,3
+2026-MJ,4,2,7,(a)(i),Organic introduction & isomerism,Optical isomerism,1
+2026-MJ,4,2,7,(a)(ii),Organic introduction & isomerism,Optical isomerism,1
+2026-MJ,4,2,7,(b)(i),Nitrogen compounds,"Amino acids, peptides & electrophoresis",1
+2026-MJ,4,2,7,(b)(ii),Nitrogen compounds,"Amino acids, peptides & electrophoresis",1
+2026-MJ,4,2,7,(c),Nitrogen compounds,"Amino acids, peptides & electrophoresis",2
+2026-MJ,4,2,7,(d)(i),Organic synthesis,Multi-step synthesis routes,2
+2026-MJ,4,2,7,(d)(ii),Organic synthesis,Multi-step synthesis routes,3
+2026-MJ,4,2,8,(a),Analytical techniques,Proton (1H) NMR,1
+2026-MJ,4,2,8,(b)(i),Analytical techniques,Carbon-13 NMR,1
+2026-MJ,4,2,8,(b)(ii),Analytical techniques,Proton (1H) NMR,2
+2026-MJ,4,2,8,(b)(iii),Analytical techniques,Proton (1H) NMR,2
+2026-MJ,4,2,8,(c),Nitrogen compounds,Amides,2
+2026-MJ,4,2,9,(a),Nitrogen compounds,Amines: basicity & preparation,4
+2026-MJ,4,2,9,(b)(i),Nitrogen compounds,Phenylamine & azo dyes,2
+2026-MJ,4,2,9,(b)(ii),Nitrogen compounds,Phenylamine & azo dyes,1
+2026-MJ,4,2,9,(c)(i),Nitrogen compounds,Phenylamine & azo dyes,1
+2026-MJ,4,2,9,(c)(ii),Nitrogen compounds,Phenylamine & azo dyes,2
+2026-MJ,5,2,1,(a)(i),"Atoms, molecules & stoichiometry",Mole calculations,1
+2026-MJ,5,2,1,(a)(ii),Practical skills,Planning: preparing standard solutions & dilutions,3
+2026-MJ,5,2,1,(b)(i),Practical skills,Planning: method & apparatus,1
+2026-MJ,5,2,1,(b)(ii),Practical skills,Planning: method & apparatus,1
+2026-MJ,5,2,1,(b)(iii),Practical skills,Planning: method & apparatus,1
+2026-MJ,5,2,1,(b)(iv),Practical skills,Planning: method & apparatus,2
+2026-MJ,5,2,1,(c)(i),Practical skills,"Data processing (tables, sig. figs)",1
+2026-MJ,5,2,1,(c)(ii),Practical skills,Percentage error & uncertainty,1
+2026-MJ,5,2,1,(c)(iii),Practical skills,"Data processing (tables, sig. figs)",1
+2026-MJ,5,2,1,(c)(iv),"Atoms, molecules & stoichiometry",Titration calculations,3
+2026-MJ,5,2,1,(c)(v),"Atoms, molecules & stoichiometry",Mole calculations,1
+2026-MJ,5,2,2,(a),Practical skills,Planning: method & apparatus,2
+2026-MJ,5,2,2,(b),Practical skills,Planning: variables & hypothesis,1
+2026-MJ,5,2,2,(c),Practical skills,Anomalous results,1
+2026-MJ,5,2,2,(d),Reaction kinetics,Temperature & Boltzmann distribution,1
+2026-MJ,5,2,2,(e)(i),Practical skills,"Data processing (tables, sig. figs)",2
+2026-MJ,5,2,2,(e)(ii),Practical skills,Graph plotting & line of best fit,2
+2026-MJ,5,2,2,(e)(iii),Practical skills,"Gradient, intercept & tangents",2
+2026-MJ,5,2,2,(e)(iv),Reaction kinetics,Rate equations & orders,1
+2026-MJ,5,2,2,(e)(v),Practical skills,Percentage error & uncertainty,1
+2026-MJ,5,2,2,(e)(vi),Practical skills,"Evaluation: errors, reliability & improvements",1

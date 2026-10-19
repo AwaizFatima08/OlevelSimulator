@@ -1,0 +1,13 @@
+# Cambridge past papers: private study copies, never published (public repo)
+papers/
+*.pdf
+
+# Logs and local scratch
+*.log
+*.part
+scripts/backup.log
+
+# Packaged upload
+*.zip
+__pycache__/
+.claude/

@@ -1,0 +1,1047 @@
+session,paper,variant,question,part,topic,subtopic,marks,style
+2022-MJ,1,1,1,,Biological molecules,Food tests,1,food-test/chemical-test
+2022-MJ,1,1,2,,Cells,Specialised cells & levels of organisation,1,recall
+2022-MJ,1,1,3,,Movement into & out of cells,Diffusion,1,diagram-labelling
+2022-MJ,1,1,4,,Movement into & out of cells,Active transport,1,data-interpretation
+2022-MJ,1,1,5,,Enzymes,Effect of pH,1,data-interpretation
+2022-MJ,1,1,6,,Enzymes,Effect of temperature,1,data-interpretation
+2022-MJ,1,1,7,,Plant nutrition,Starch test on leaves,1,food-test/chemical-test
+2022-MJ,1,1,8,,Plant nutrition,Mineral ions,1,recall
+2022-MJ,1,1,9,,Human nutrition,Balanced diet & deficiencies,1,recall
+2022-MJ,1,1,10,,Biological molecules,Food tests,1,food-test/chemical-test
+2022-MJ,1,1,11,,Human nutrition,Assimilation & liver,1,recall
+2022-MJ,1,1,12,,Transport in plants,Transpiration & factors,1,data-interpretation
+2022-MJ,1,1,13,,Transport in plants,Transpiration & factors,1,recall
+2022-MJ,1,1,14,,Transport in humans,Blood vessels,1,recall
+2022-MJ,1,1,15,,Transport in humans,Heart structure & function,1,diagram-labelling
+2022-MJ,1,1,16,,Transport in humans,Coronary heart disease & exercise,1,recall
+2022-MJ,1,1,17,,Respiration,Aerobic respiration,1,recall
+2022-MJ,1,1,18,,Respiration,Anaerobic respiration (yeast/muscle),1,data-interpretation
+2022-MJ,1,1,19,,Gas exchange,Breathing mechanism,1,recall
+2022-MJ,1,1,20,,Excretion,Dialysis & transplants,1,data-interpretation
+2022-MJ,1,1,21,,Coordination & response,Homeostasis: temperature & skin,1,diagram-labelling
+2022-MJ,1,1,22,,Coordination & response,Homeostasis: temperature & skin,1,data-interpretation
+2022-MJ,1,1,23,,Coordination & response,Nervous system & reflex arc,1,diagram-labelling
+2022-MJ,1,1,24,,Coordination & response,Eye & sense organs,1,diagram-labelling
+2022-MJ,1,1,25,,Coordination & response,Homeostasis: blood glucose,1,data-interpretation
+2022-MJ,1,1,26,,Coordination & response,Nervous system & reflex arc,1,recall
+2022-MJ,1,1,27,,Drugs,Medicinal drugs & antibiotics,1,data-interpretation
+2022-MJ,1,1,28,,Characteristics & classification,Classification & keys,1,recall
+2022-MJ,1,1,29,,Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,data-interpretation
+2022-MJ,1,1,30,,Organisms & environment,Nitrogen cycle,1,diagram-labelling
+2022-MJ,1,1,31,,Disease & immunity,Pathogens & transmission,1,recall
+2022-MJ,1,1,32,,Human influences on ecosystems,Habitat destruction & deforestation,1,recall
+2022-MJ,1,1,33,,Reproduction,"Fertilisation, seeds & germination",1,diagram-labelling
+2022-MJ,1,1,34,,Reproduction,Menstrual cycle & hormones,1,recall
+2022-MJ,1,1,35,,Reproduction,Human reproductive organs & gametes,1,diagram-labelling
+2022-MJ,1,1,36,,Reproduction,"Pregnancy, placenta & birth",1,diagram-labelling
+2022-MJ,1,1,37,,Variation & selection,Continuous & discontinuous variation,1,recall
+2022-MJ,1,1,38,,Inheritance,Monohybrid crosses & pedigrees,1,genetic-cross
+2022-MJ,1,1,39,,Variation & selection,Adaptive features,1,data-interpretation
+2022-MJ,1,1,40,,Biotechnology & genetic modification,Genetic modification,1,recall
+2022-MJ,2,1,1,a(i),Coordination & response,Homeostasis: temperature & skin,2,diagram-labelling
+2022-MJ,2,1,1,a(ii),Coordination & response,Homeostasis: temperature & skin,3,explain
+2022-MJ,2,1,1,b,Coordination & response,Eye & sense organs,3,explain
+2022-MJ,2,1,1,c,Human nutrition,Balanced diet & deficiencies,2,explain
+2022-MJ,2,1,2,a(i),Gas exchange,Gas exchange surfaces & alveoli,4,recall
+2022-MJ,2,1,2,a(ii),Transport in humans,Coronary heart disease & exercise,2,explain
+2022-MJ,2,1,2,b(i),Respiration,Aerobic respiration,2,recall
+2022-MJ,2,1,2,b(ii),Respiration,Aerobic respiration,1,data-interpretation
+2022-MJ,2,1,2,b(iii),Respiration,Anaerobic respiration (yeast/muscle),3,explain
+2022-MJ,2,1,2,b(iv),Respiration,Aerobic respiration,2,prediction/hypothesis
+2022-MJ,2,1,3,a(i),Transport in plants,Transpiration & factors,3,explain
+2022-MJ,2,1,3,a(ii),Reproduction,Asexual vs sexual,2,recall
+2022-MJ,2,1,3,b,Transport in plants,Xylem & phloem structure,4,explain
+2022-MJ,2,1,3,c,Variation & selection,Selective breeding,5,explain
+2022-MJ,2,1,4,a,Human nutrition,Absorption & villi,2,recall
+2022-MJ,2,1,4,b,Enzymes,Enzyme action & specificity,3,explain
+2022-MJ,2,1,5,a(i),Plant nutrition,Leaf structure,1,explain
+2022-MJ,2,1,5,a(ii),Plant nutrition,Leaf structure,2,diagram-labelling
+2022-MJ,2,1,5,a(iii),Variation & selection,Adaptive features,3,explain
+2022-MJ,2,1,5,b,Organisms & environment,Food chains & webs,1,recall
+2022-MJ,2,1,6,a,Characteristics & classification,Classification & keys,4,recall
+2022-MJ,2,1,6,b(i),Reproduction,Contraception & STIs,3,recall
+2022-MJ,2,1,6,b(ii),Reproduction,Contraception & STIs,3,data-interpretation
+2022-MJ,2,1,7,a(i),Human nutrition,Physical & chemical digestion,1,recall
+2022-MJ,2,1,7,a(ii),Transport in humans,Lymph & tissue fluid,4,explain
+2022-MJ,2,1,7,b,Human nutrition,Physical & chemical digestion,5,explain
+2022-MJ,2,1,8,a,Coordination & response,Hormones (option),4,recall
+2022-MJ,2,1,8,b,Coordination & response,Hormones (option),6,explain
+2022-MJ,2,1,9,a,Organisms & environment,Nitrogen cycle (option),5,explain
+2022-MJ,2,1,9,b,Human influences on ecosystems,Food production & agriculture (option),5,evaluation/improvement
+2022-MJ,3,1,1,a(i),Practical skills (generic),Graphs & tables,1,table-construction
+2022-MJ,3,1,1,a(ii),Enzymes,Enzyme investigations,4,table-construction
+2022-MJ,3,1,1,b,Enzymes,Enzyme investigations,3,data-interpretation
+2022-MJ,3,1,1,c(i),Practical skills (generic),"Apparatus, measurement & safety",1,planning/method
+2022-MJ,3,1,1,c(ii),Practical skills (generic),"Variables, controls & planning",1,planning/method
+2022-MJ,3,1,1,d,Enzymes,Enzyme investigations,2,planning/method
+2022-MJ,3,1,1,e(i),Practical skills (generic),Graphs & tables,4,graph-plotting
+2022-MJ,3,1,1,e(ii),Practical skills (generic),Graphs & tables,3,data-interpretation
+2022-MJ,3,1,1,f,Enzymes,Enzyme investigations,6,planning/method
+2022-MJ,3,1,1,g,Biological molecules,Food tests,3,food-test/chemical-test
+2022-MJ,3,1,2,a,Transport in humans,Blood components,4,biological-drawing
+2022-MJ,3,1,2,b,Transport in humans,Blood components,3,data-interpretation
+2022-MJ,3,1,2,c(i),Cells,Microscopy & magnification,1,calculation
+2022-MJ,3,1,2,c(ii),Cells,Microscopy & magnification,2,calculation
+2022-MJ,3,1,2,c(iii),Cells,Microscopy & magnification,2,calculation
+2022-MJ,6,1,1,a(i),Practical skills (generic),"Apparatus, measurement & safety",2,table-construction
+2022-MJ,6,1,1,a(ii),Plant nutrition,Limiting factors & rate investigations,2,table-construction
+2022-MJ,6,1,1,b(i),Practical skills (generic),Graphs & tables,4,graph-plotting
+2022-MJ,6,1,1,b(ii),Practical skills (generic),Graphs & tables,2,data-interpretation
+2022-MJ,6,1,1,c,Plant nutrition,Limiting factors & rate investigations,3,data-interpretation
+2022-MJ,6,1,1,d(i),Plant nutrition,Limiting factors & rate investigations,3,evaluation/improvement
+2022-MJ,6,1,1,d(ii),Practical skills (generic),"Apparatus, measurement & safety",1,evaluation/improvement
+2022-MJ,6,1,1,e(i),Plant nutrition,Limiting factors & rate investigations,6,planning/method
+2022-MJ,6,1,1,e(ii),Plant nutrition,Limiting factors & rate investigations,1,prediction/hypothesis
+2022-MJ,6,1,1,f,Plant nutrition,Starch test on leaves,3,food-test/chemical-test
+2022-MJ,6,1,2,a,Transport in plants,Water uptake & root hairs,5,biological-drawing
+2022-MJ,6,1,2,b,Transport in plants,Water uptake & root hairs,3,data-interpretation
+2022-MJ,6,1,2,c(i),Cells,Microscopy & magnification,2,calculation
+2022-MJ,6,1,2,c(ii),Cells,Microscopy & magnification,3,calculation
+2022-ON,1,1,1,,Cells,Cell structure & organelles,1,diagram-labelling
+2022-ON,1,1,2,,Transport in plants,Xylem & phloem structure,1,recall
+2022-ON,1,1,3,,Movement into & out of cells,Osmosis,1,diagram-labelling
+2022-ON,1,1,4,,Movement into & out of cells,Active transport,1,recall
+2022-ON,1,1,5,,Enzymes,Enzyme action & specificity,1,recall
+2022-ON,1,1,6,,Enzymes,Effect of temperature,1,data-interpretation
+2022-ON,1,1,7,,Plant nutrition,Limiting factors & rate investigations,1,explain
+2022-ON,1,1,8,,Plant nutrition,Mineral ions,1,recall
+2022-ON,1,1,9,,Human nutrition,Balanced diet & deficiencies,1,recall
+2022-ON,1,1,10,,Human nutrition,Physical & chemical digestion,1,data-interpretation
+2022-ON,1,1,11,,Human nutrition,Assimilation & liver,1,recall
+2022-ON,1,1,12,,Transport in plants,Water uptake & root hairs,1,recall
+2022-ON,1,1,13,,Transport in plants,Transpiration & factors,1,data-interpretation
+2022-ON,1,1,14,,Transport in humans,Heart structure & function,1,recall
+2022-ON,1,1,15,,Disease & immunity,Body defences,1,recall
+2022-ON,1,1,16,,Transport in humans,Lymph & tissue fluid,1,recall
+2022-ON,1,1,17,,Respiration,Respiration investigations & respirometers,1,data-interpretation
+2022-ON,1,1,18,,Respiration,Anaerobic respiration (yeast/muscle),1,recall
+2022-ON,1,1,19,,Gas exchange,Breathing mechanism,1,data-interpretation
+2022-ON,1,1,20,,Excretion,Kidney & nephron,1,recall
+2022-ON,1,1,21,,Coordination & response,Homeostasis: temperature & skin,1,recall
+2022-ON,1,1,22,,Coordination & response,Homeostasis: temperature & skin,1,diagram-labelling
+2022-ON,1,1,23,,Coordination & response,Eye & sense organs,1,data-interpretation
+2022-ON,1,1,24,,Coordination & response,Nervous system & reflex arc,1,diagram-labelling
+2022-ON,1,1,25,,Coordination & response,Homeostasis: blood glucose,1,recall
+2022-ON,1,1,26,,Cells,Specialised cells & levels of organisation,1,diagram-labelling
+2022-ON,1,1,27,,Drugs,"Misused drugs (alcohol, heroin, nicotine, steroids)",1,recall
+2022-ON,1,1,28,,Characteristics & classification,Classification & keys,1,data-interpretation
+2022-ON,1,1,29,,Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,recall
+2022-ON,1,1,30,,Organisms & environment,Nitrogen cycle,1,recall
+2022-ON,1,1,31,,Disease & immunity,Specific diseases (cholera etc.),1,recall
+2022-ON,1,1,32,,Human influences on ecosystems,Water pollution & eutrophication,1,data-interpretation
+2022-ON,1,1,33,,Reproduction,Flower structure & pollination,1,data-interpretation
+2022-ON,1,1,34,,Reproduction,"Fertilisation, seeds & germination",1,diagram-labelling
+2022-ON,1,1,35,,Reproduction,Human reproductive organs & gametes,1,recall
+2022-ON,1,1,36,,Reproduction,Menstrual cycle & hormones,1,diagram-labelling
+2022-ON,1,1,37,,Inheritance,Monohybrid crosses & pedigrees,1,genetic-cross
+2022-ON,1,1,38,,Inheritance,Codominance & blood groups,1,genetic-cross
+2022-ON,1,1,39,,Variation & selection,Natural selection & resistance,1,data-interpretation
+2022-ON,1,1,40,,Biotechnology & genetic modification,Genetic modification,1,recall
+2022-ON,2,1,1,a,Excretion,Urea & deamination,2,recall
+2022-ON,2,1,1,b,Excretion,Kidney & nephron,3,explain
+2022-ON,2,1,2,a,Plant nutrition,Photosynthesis equation & products,5,explain
+2022-ON,2,1,2,b(i),Variation & selection,Mutation,2,recall
+2022-ON,2,1,2,b(ii),Reproduction,Asexual vs sexual,3,explain
+2022-ON,2,1,2,c,Human influences on ecosystems,Food production & agriculture,3,explain
+2022-ON,2,1,2,d(i),Cells,Cell structure & organelles,2,recall
+2022-ON,2,1,2,d(ii),Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,explain
+2022-ON,2,1,2,d(iii),Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,2,recall
+2022-ON,2,1,3,a(i),Inheritance,"Chromosomes, genes & DNA",2,recall
+2022-ON,2,1,3,a(ii),Inheritance,Monohybrid crosses & pedigrees,4,genetic-cross
+2022-ON,2,1,3,b,Reproduction,"Pregnancy, placenta & birth",4,explain
+2022-ON,2,1,4,a(i),Enzymes,Enzyme action & specificity,2,recall
+2022-ON,2,1,4,a(ii),Enzymes,Enzyme action & specificity,2,recall
+2022-ON,2,1,4,a(iii),Human nutrition,Physical & chemical digestion,2,recall
+2022-ON,2,1,4,b(i),Enzymes,Effect of pH,4,data-interpretation
+2022-ON,2,1,4,b(ii),Human influences on ecosystems,Air pollution & climate change,2,explain
+2022-ON,2,1,5,a,Cells,Specialised cells & levels of organisation,2,diagram-labelling
+2022-ON,2,1,5,b(i),Respiration,Anaerobic respiration (yeast/muscle),1,recall
+2022-ON,2,1,5,b(ii),Respiration,Anaerobic respiration (yeast/muscle),2,explain
+2022-ON,2,1,6,a(i),Plant nutrition,Leaf structure,1,diagram-labelling
+2022-ON,2,1,6,a(ii),Transport in plants,Transpiration & factors,6,explain
+2022-ON,2,1,6,b,Transport in plants,Transpiration & factors,3,explain
+2022-ON,2,1,7,a,Coordination & response,Nervous system & reflex arc,5,recall
+2022-ON,2,1,7,b,Coordination & response,Eye & sense organs,5,explain
+2022-ON,2,1,8,a,Human nutrition,Balanced diet & deficiencies (option),4,recall
+2022-ON,2,1,8,b,Human nutrition,Balanced diet & deficiencies (option),6,explain
+2022-ON,2,1,9,a,Transport in humans,Blood components (option),5,recall
+2022-ON,2,1,9,b,Transport in humans,Blood components (option),5,explain
+2022-ON,3,1,1,a(i),Practical skills (generic),"Apparatus, measurement & safety",1,explain
+2022-ON,3,1,1,a(ii),Practical skills (generic),"Variables, controls & planning",1,explain
+2022-ON,3,1,1,b(i),Biological molecules,Food tests,7,food-test/chemical-test
+2022-ON,3,1,1,b(ii),Biological molecules,Food tests,6,food-test/chemical-test
+2022-ON,3,1,1,c,Biological molecules,Food tests,4,evaluation/improvement
+2022-ON,3,1,2,a,Transport in humans,Blood vessels,4,biological-drawing
+2022-ON,3,1,2,b,Cells,Microscopy & magnification,3,calculation
+2022-ON,3,1,2,c,Transport in humans,Coronary heart disease & exercise,3,planning/method
+2022-ON,3,1,3,a,Reproduction,"Fertilisation, seeds & germination",5,graph-plotting
+2022-ON,3,1,3,b(i),Reproduction,"Fertilisation, seeds & germination",1,data-interpretation
+2022-ON,3,1,3,b(ii),Reproduction,"Fertilisation, seeds & germination",2,data-interpretation
+2022-ON,3,1,3,c,Reproduction,"Fertilisation, seeds & germination",1,prediction/hypothesis
+2022-ON,3,1,3,d,Reproduction,"Fertilisation, seeds & germination",2,prediction/hypothesis
+2022-ON,6,1,1,a(i),Practical skills (generic),"Apparatus, measurement & safety",1,recall
+2022-ON,6,1,1,a(ii),Practical skills (generic),"Variables, controls & planning",1,planning/method
+2022-ON,6,1,1,a(iii),Practical skills (generic),"Apparatus, measurement & safety",1,explain
+2022-ON,6,1,1,a(iv),Practical skills (generic),"Apparatus, measurement & safety",1,data-interpretation
+2022-ON,6,1,1,b(i),Biological molecules,Food tests,5,table-construction
+2022-ON,6,1,1,b(ii),Biological molecules,Food tests,6,food-test/chemical-test
+2022-ON,6,1,1,c(i),Biological molecules,Food tests,3,evaluation/improvement
+2022-ON,6,1,1,c(ii),Biological molecules,Food tests,1,evaluation/improvement
+2022-ON,6,1,2,a,Transport in humans,Blood vessels,4,biological-drawing
+2022-ON,6,1,2,b,Cells,Microscopy & magnification,3,calculation
+2022-ON,6,1,2,c,Transport in humans,Coronary heart disease & exercise,3,planning/method
+2022-ON,6,1,3,a,Reproduction,"Fertilisation, seeds & germination",5,graph-plotting
+2022-ON,6,1,3,b(i),Reproduction,"Fertilisation, seeds & germination",1,data-interpretation
+2022-ON,6,1,3,b(ii),Reproduction,"Fertilisation, seeds & germination",2,data-interpretation
+2022-ON,6,1,3,c,Reproduction,"Fertilisation, seeds & germination",1,prediction/hypothesis
+2022-ON,6,1,3,d,Reproduction,"Fertilisation, seeds & germination",2,prediction/hypothesis
+2023-MJ,1,1,1,,Cells,Cell structure & organelles,1,recall
+2023-MJ,1,1,2,,Characteristics & classification,Classification & keys,1,recall
+2023-MJ,1,1,3,,Movement into & out of cells,Diffusion,1,recall
+2023-MJ,1,1,4,,Movement into & out of cells,Active transport,1,data-interpretation
+2023-MJ,1,1,5,,Biological molecules,Food tests,1,food-test/chemical-test
+2023-MJ,1,1,6,,Enzymes,Enzyme action & specificity,1,data-interpretation
+2023-MJ,1,1,7,,Plant nutrition,Limiting factors & rate investigations,1,data-interpretation
+2023-MJ,1,1,8,,Plant nutrition,Leaf structure,1,diagram-labelling
+2023-MJ,1,1,9,,Transport in plants,Water uptake & root hairs,1,recall
+2023-MJ,1,1,10,,Transport in plants,Transpiration & factors,1,data-interpretation
+2023-MJ,1,1,11,,Human nutrition,Balanced diet & deficiencies,1,recall
+2023-MJ,1,1,12,,Human nutrition,Physical & chemical digestion,1,recall
+2023-MJ,1,1,13,,Human nutrition,Physical & chemical digestion,1,food-test/chemical-test
+2023-MJ,1,1,14,,Gas exchange,Inspired vs expired air,1,diagram-labelling
+2023-MJ,1,1,15,,Respiration,Aerobic respiration,1,calculation
+2023-MJ,1,1,16,,Respiration,Anaerobic respiration (yeast/muscle),1,recall
+2023-MJ,1,1,17,,Transport in humans,Blood vessels,1,data-interpretation
+2023-MJ,1,1,18,,Transport in humans,Blood components,1,recall
+2023-MJ,1,1,19,,Disease & immunity,Pathogens & transmission,1,recall
+2023-MJ,1,1,20,,Gas exchange,Smoking & lungs,1,data-interpretation
+2023-MJ,1,1,21,,Drugs,Medicinal drugs & antibiotics,1,recall
+2023-MJ,1,1,22,,Disease & immunity,"Antibodies, immunity & vaccination",1,recall
+2023-MJ,1,1,23,,Excretion,Kidney & nephron,1,recall
+2023-MJ,1,1,24,,Coordination & response,Nervous system & reflex arc,1,diagram-labelling
+2023-MJ,1,1,25,,Coordination & response,Eye & sense organs,1,data-interpretation
+2023-MJ,1,1,26,,Coordination & response,Homeostasis: temperature & skin,1,recall
+2023-MJ,1,1,27,,Coordination & response,Homeostasis: blood glucose,1,recall
+2023-MJ,1,1,28,,Coordination & response,Tropisms & plant hormones,1,recall
+2023-MJ,1,1,29,,Inheritance,Mitosis & meiosis,1,recall
+2023-MJ,1,1,30,,Reproduction,Asexual vs sexual,1,recall
+2023-MJ,1,1,31,,Reproduction,Flower structure & pollination,1,diagram-labelling
+2023-MJ,1,1,32,,Reproduction,Menstrual cycle & hormones,1,diagram-labelling
+2023-MJ,1,1,33,,Reproduction,"Pregnancy, placenta & birth",1,diagram-labelling
+2023-MJ,1,1,34,,Variation & selection,Natural selection & resistance,1,recall
+2023-MJ,1,1,35,,Inheritance,"Chromosomes, genes & DNA",1,recall
+2023-MJ,1,1,36,,Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,recall
+2023-MJ,1,1,37,,Organisms & environment,Energy flow & pyramids,1,calculation
+2023-MJ,1,1,38,,Organisms & environment,Carbon cycle,1,diagram-labelling
+2023-MJ,1,1,39,,Human influences on ecosystems,Air pollution & climate change,1,recall
+2023-MJ,1,1,40,,Human influences on ecosystems,Water pollution & eutrophication,1,recall
+2023-MJ,2,1,1,a,Coordination & response,Hormones,3,recall
+2023-MJ,2,1,1,b,Coordination & response,Hormones,4,recall
+2023-MJ,2,1,2,a(i),Characteristics & classification,Classification & keys,6,recall
+2023-MJ,2,1,2,a(ii),Organisms & environment,Food chains & webs,4,prediction/hypothesis
+2023-MJ,2,1,2,a(iii),Variation & selection,Adaptive features,2,explain
+2023-MJ,2,1,2,b,Variation & selection,Adaptive features,3,explain
+2023-MJ,2,1,3,a,Cells,Specialised cells & levels of organisation,2,data-interpretation
+2023-MJ,2,1,3,b,Movement into & out of cells,Osmosis,3,explain
+2023-MJ,2,1,3,c,Coordination & response,Tropisms & plant hormones,5,explain
+2023-MJ,2,1,3,d,Inheritance,Mitosis & meiosis,2,explain
+2023-MJ,2,1,4,a(i),Human nutrition,Balanced diet & deficiencies,4,data-interpretation
+2023-MJ,2,1,4,a(ii),Human nutrition,Balanced diet & deficiencies,2,calculation
+2023-MJ,2,1,4,b,Human nutrition,Physical & chemical digestion,5,recall
+2023-MJ,2,1,5,a(i),Coordination & response,Eye & sense organs,4,explain
+2023-MJ,2,1,5,a(ii),Coordination & response,Eye & sense organs,1,explain
+2023-MJ,2,1,5,b(i),Variation & selection,Continuous & discontinuous variation,3,data-interpretation
+2023-MJ,2,1,5,b(ii),Variation & selection,Continuous & discontinuous variation,2,prediction/hypothesis
+2023-MJ,2,1,5,c,Inheritance,Monohybrid crosses & pedigrees,3,explain
+2023-MJ,2,1,6,a(i),Transport in humans,Heart structure & function,1,recall
+2023-MJ,2,1,6,a(ii),Transport in humans,Heart structure & function,1,recall
+2023-MJ,2,1,6,a(iii),Transport in humans,Blood vessels,1,recall
+2023-MJ,2,1,6,a(iv),Transport in humans,Blood components,1,recall
+2023-MJ,2,1,6,b,Drugs,Medicinal drugs & antibiotics,3,explain
+2023-MJ,2,1,6,c,Variation & selection,Natural selection & resistance,5,explain
+2023-MJ,2,1,7,a,Organisms & environment,Carbon cycle,5,recall
+2023-MJ,2,1,7,b,Human influences on ecosystems,Habitat destruction & deforestation,5,evaluation/improvement
+2023-MJ,2,2,1,a,Gas exchange,Inspired vs expired air,3,recall
+2023-MJ,2,2,1,b(i),Organisms & environment,Carbon cycle,1,prediction/hypothesis
+2023-MJ,2,2,1,b(ii),Respiration,Aerobic respiration,3,explain
+2023-MJ,2,2,1,b(iii),Human influences on ecosystems,Food production & agriculture,2,explain
+2023-MJ,2,2,2,a,Human nutrition,Physical & chemical digestion,4,explain
+2023-MJ,2,2,2,b(i),Disease & immunity,Body defences,1,recall
+2023-MJ,2,2,2,b(ii),Disease & immunity,Pathogens & transmission,2,recall
+2023-MJ,2,2,2,c,Disease & immunity,"Antibodies, immunity & vaccination",3,explain
+2023-MJ,2,2,3,a,Coordination & response,Nervous system & reflex arc,4,diagram-labelling
+2023-MJ,2,2,3,b(i),Coordination & response,Synapses,1,recall
+2023-MJ,2,2,3,b(ii),Coordination & response,Synapses,1,diagram-labelling
+2023-MJ,2,2,3,b(iii),Cells,Microscopy & magnification,1,calculation
+2023-MJ,2,2,3,c,Drugs,"Misused drugs (alcohol, heroin, nicotine, steroids)",3,explain
+2023-MJ,2,2,4,a,Human influences on ecosystems,Water pollution & eutrophication,5,explain
+2023-MJ,2,2,4,b,Human influences on ecosystems,Water pollution & eutrophication,2,calculation
+2023-MJ,2,2,4,c(i),Variation & selection,Natural selection & resistance,4,data-interpretation
+2023-MJ,2,2,4,c(ii),Variation & selection,Natural selection & resistance,5,explain
+2023-MJ,2,2,5,a(i),Transport in plants,Xylem & phloem structure,2,diagram-labelling
+2023-MJ,2,2,5,a(ii),Cells,Specialised cells & levels of organisation,1,recall
+2023-MJ,2,2,5,a(iii),Transport in plants,Xylem & phloem structure,2,recall
+2023-MJ,2,2,5,a(iv),Transport in plants,Translocation,4,recall
+2023-MJ,2,2,5,b(i),Coordination & response,Tropisms & plant hormones,2,recall
+2023-MJ,2,2,5,b(ii),Plant nutrition,Mineral ions,4,explain
+2023-MJ,2,2,6,a,Plant nutrition,Limiting factors & rate investigations,2,data-interpretation
+2023-MJ,2,2,6,b(i),Plant nutrition,Limiting factors & rate investigations,2,prediction/hypothesis
+2023-MJ,2,2,6,b(ii),Plant nutrition,Photosynthesis equation & products,1,recall
+2023-MJ,2,2,6,b(iii),Biological molecules,"Structure of carbohydrates, proteins & fats",5,recall
+2023-MJ,2,2,7,a,Inheritance,"Chromosomes, genes & DNA",5,recall
+2023-MJ,2,2,7,b,Biotechnology & genetic modification,Genetic modification,5,explain
+2023-MJ,3,1,1,a(i),Practical skills (generic),Graphs & tables,3,table-construction
+2023-MJ,3,1,1,a(ii),Movement into & out of cells,Osmosis,4,data-interpretation
+2023-MJ,3,1,1,a(iii),Movement into & out of cells,Osmosis,2,calculation
+2023-MJ,3,1,1,a(iv),Movement into & out of cells,Osmosis,2,explain
+2023-MJ,3,1,1,a(v),Practical skills (generic),"Variables, controls & planning",1,evaluation/improvement
+2023-MJ,3,1,1,b(i),Movement into & out of cells,Osmosis,5,graph-plotting
+2023-MJ,3,1,1,b(ii),Movement into & out of cells,Osmosis,2,data-interpretation
+2023-MJ,3,1,1,c(i),Practical skills (generic),"Apparatus, measurement & safety",2,calculation
+2023-MJ,3,1,1,c(ii),Practical skills (generic),"Errors, reliability & improvements",2,evaluation/improvement
+2023-MJ,3,1,1,d(i),Movement into & out of cells,Osmosis,6,planning/method
+2023-MJ,3,1,1,d(ii),Practical skills (generic),"Variables, controls & planning",1,planning/method
+2023-MJ,3,1,2,a,Practical skills (generic),Biological drawing,3,biological-drawing
+2023-MJ,3,1,2,b(i),Practical skills (generic),"Apparatus, measurement & safety",1,calculation
+2023-MJ,3,1,2,b(ii),Practical skills (generic),Biological drawing,2,biological-drawing
+2023-MJ,3,1,2,b(iii),Cells,Microscopy & magnification,2,calculation
+2023-MJ,3,1,2,c,Characteristics & classification,Classification & keys,2,data-interpretation
+2023-MJ,4,1,1,a(i),Practical skills (generic),Graphs & tables,1,table-construction
+2023-MJ,4,1,1,a(ii),Practical skills (generic),"Apparatus, measurement & safety",2,data-interpretation
+2023-MJ,4,1,1,a(iii),Transport in plants,Transpiration & factors,1,calculation
+2023-MJ,4,1,1,a(iv),Transport in plants,Transpiration & factors,2,calculation
+2023-MJ,4,1,1,a(v),Practical skills (generic),"Errors, reliability & improvements",2,evaluation/improvement
+2023-MJ,4,1,1,a(vi),Practical skills (generic),"Errors, reliability & improvements",2,evaluation/improvement
+2023-MJ,4,1,1,a(vii),Practical skills (generic),"Errors, reliability & improvements",1,evaluation/improvement
+2023-MJ,4,1,1,a(viii),Transport in plants,Transpiration & factors,1,explain
+2023-MJ,4,1,1,b(i),Transport in plants,Transpiration & factors,4,graph-plotting
+2023-MJ,4,1,1,b(ii),Transport in plants,Transpiration & factors,2,data-interpretation
+2023-MJ,4,1,1,b(iii),Transport in plants,Transpiration & factors,2,explain
+2023-MJ,4,1,1,c(i),Transport in plants,Transpiration & factors,6,planning/method
+2023-MJ,4,1,1,c(ii),Practical skills (generic),"Variables, controls & planning",1,planning/method
+2023-MJ,4,1,1,d,Biological molecules,Food tests,3,food-test/chemical-test
+2023-MJ,4,1,2,a,Practical skills (generic),Biological drawing,5,biological-drawing
+2023-MJ,4,1,2,b(i),Practical skills (generic),"Apparatus, measurement & safety",1,calculation
+2023-MJ,4,1,2,b(ii),Practical skills (generic),Biological drawing,2,biological-drawing
+2023-MJ,4,1,2,b(iii),Cells,Microscopy & magnification,2,calculation
+2023-ON,1,1,1,,Characteristics & classification,Classification & keys,1,recall
+2023-ON,1,1,2,,Characteristics & classification,Classification & keys,1,data-interpretation
+2023-ON,1,1,3,,Movement into & out of cells,Osmosis,1,recall
+2023-ON,1,1,4,,Movement into & out of cells,Active transport,1,recall
+2023-ON,1,1,5,,Biological molecules,Food tests,1,food-test/chemical-test
+2023-ON,1,1,6,,Enzymes,Enzyme action & specificity,1,recall
+2023-ON,1,1,7,,Plant nutrition,Photosynthesis equation & products,1,diagram-labelling
+2023-ON,1,1,8,,Plant nutrition,Photosynthesis equation & products,1,recall
+2023-ON,1,1,9,,Transport in plants,Water uptake & root hairs,1,recall
+2023-ON,1,1,10,,Transport in plants,Transpiration & factors,1,data-interpretation
+2023-ON,1,1,11,,Human nutrition,Balanced diet & deficiencies,1,recall
+2023-ON,1,1,12,,Human nutrition,Digestive system & organs,1,diagram-labelling
+2023-ON,1,1,13,,Enzymes,Effect of pH,1,data-interpretation
+2023-ON,1,1,14,,Gas exchange,Breathing mechanism,1,data-interpretation
+2023-ON,1,1,15,,Respiration,Anaerobic respiration (yeast/muscle),1,recall
+2023-ON,1,1,16,,Respiration,Anaerobic respiration (yeast/muscle),1,diagram-labelling
+2023-ON,1,1,17,,Transport in humans,Coronary heart disease & exercise,1,data-interpretation
+2023-ON,1,1,18,,Transport in humans,Blood vessels,1,recall
+2023-ON,1,1,19,,Disease & immunity,Specific diseases (cholera etc.),1,recall
+2023-ON,1,1,20,,Drugs,"Misused drugs (alcohol, heroin, nicotine, steroids)",1,calculation
+2023-ON,1,1,21,,Drugs,Medicinal drugs & antibiotics,1,recall
+2023-ON,1,1,22,,Disease & immunity,Pathogens & transmission,1,data-interpretation
+2023-ON,1,1,23,,Excretion,Dialysis & transplants,1,recall
+2023-ON,1,1,24,,Coordination & response,Eye & sense organs,1,recall
+2023-ON,1,1,25,,Coordination & response,Eye & sense organs,1,data-interpretation
+2023-ON,1,1,26,,Coordination & response,Homeostasis: blood glucose,1,data-interpretation
+2023-ON,1,1,27,,Coordination & response,Homeostasis: temperature & skin,1,recall
+2023-ON,1,1,28,,Coordination & response,Tropisms & plant hormones,1,prediction/hypothesis
+2023-ON,1,1,29,,Reproduction,Asexual vs sexual,1,recall
+2023-ON,1,1,30,,Reproduction,Asexual vs sexual,1,recall
+2023-ON,1,1,31,,Reproduction,"Fertilisation, seeds & germination",1,recall
+2023-ON,1,1,32,,Reproduction,Menstrual cycle & hormones,1,recall
+2023-ON,1,1,33,,Reproduction,"Pregnancy, placenta & birth",1,diagram-labelling
+2023-ON,1,1,34,,Inheritance,"Chromosomes, genes & DNA",1,recall
+2023-ON,1,1,35,,Inheritance,Codominance & blood groups,1,genetic-cross
+2023-ON,1,1,36,,Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,data-interpretation
+2023-ON,1,1,37,,Organisms & environment,Energy flow & pyramids,1,recall
+2023-ON,1,1,38,,Organisms & environment,Nitrogen cycle,1,recall
+2023-ON,1,1,39,,Organisms & environment,Populations & sampling,1,recall
+2023-ON,1,1,40,,Human influences on ecosystems,Water pollution & eutrophication,1,recall
+2023-ON,2,1,1,a,Transport in humans,Blood components,3,recall
+2023-ON,2,1,1,b(i),Transport in humans,Blood components,3,explain
+2023-ON,2,1,1,b(ii),Transport in humans,Blood components,2,prediction/hypothesis
+2023-ON,2,1,2,a(i),Reproduction,"Fertilisation, seeds & germination",2,diagram-labelling
+2023-ON,2,1,2,a(ii),Reproduction,Flower structure & pollination,2,explain
+2023-ON,2,1,2,a(iii),Reproduction,"Fertilisation, seeds & germination",3,recall
+2023-ON,2,1,2,b(i),Variation & selection,Adaptive features,1,prediction/hypothesis
+2023-ON,2,1,2,b(ii),Variation & selection,Adaptive features,2,explain
+2023-ON,2,1,2,c(i),Drugs,"Misused drugs (alcohol, heroin, nicotine, steroids)",3,explain
+2023-ON,2,1,2,c(ii),Coordination & response,Hormones,2,prediction/hypothesis
+2023-ON,2,1,3,a(i),Biological molecules,Water & elements,2,calculation
+2023-ON,2,1,3,a(ii),Biological molecules,"Structure of carbohydrates, proteins & fats",2,recall
+2023-ON,2,1,3,b(i),Biological molecules,Water & elements,3,explain
+2023-ON,2,1,3,b(ii),Movement into & out of cells,Osmosis,3,explain
+2023-ON,2,1,3,c,Biological molecules,"Structure of carbohydrates, proteins & fats",2,explain
+2023-ON,2,1,4,a(i),Coordination & response,Nervous system & reflex arc,4,explain
+2023-ON,2,1,4,a(ii),Disease & immunity,Pathogens & transmission,2,explain
+2023-ON,2,1,4,b(i),Variation & selection,Continuous & discontinuous variation,2,data-interpretation
+2023-ON,2,1,4,b(ii),Inheritance,Monohybrid crosses & pedigrees,2,recall
+2023-ON,2,1,5,a(i),Human nutrition,Physical & chemical digestion,1,diagram-labelling
+2023-ON,2,1,5,a(ii),Human nutrition,Physical & chemical digestion,1,recall
+2023-ON,2,1,5,a(iii),Human nutrition,Physical & chemical digestion,4,explain
+2023-ON,2,1,5,b(i),Human nutrition,Physical & chemical digestion,4,explain
+2023-ON,2,1,5,b(ii),Coordination & response,Hormones,1,recall
+2023-ON,2,1,6,a(i),Inheritance,"Chromosomes, genes & DNA",1,diagram-labelling
+2023-ON,2,1,6,a(ii),Inheritance,"Chromosomes, genes & DNA",3,recall
+2023-ON,2,1,6,b,Cells,Cell structure & organelles,2,recall
+2023-ON,2,1,6,c,Inheritance,Protein synthesis,3,explain
+2023-ON,2,1,7,a(i),Respiration,Aerobic respiration,1,recall
+2023-ON,2,1,7,a(ii),Respiration,Aerobic respiration,2,recall
+2023-ON,2,1,7,b,Respiration,Anaerobic respiration (yeast/muscle),2,explain
+2023-ON,2,1,8,a,Human influences on ecosystems,Habitat destruction & deforestation,6,data-interpretation
+2023-ON,2,1,8,b,Human influences on ecosystems,Conservation & sustainability,4,explain
+2023-ON,3,1,1,a(i),Enzymes,Enzyme investigations,5,table-construction
+2023-ON,3,1,1,a(ii),Enzymes,Enzyme investigations,1,table-construction
+2023-ON,3,1,1,a(iii),Enzymes,Enzyme investigations,3,explain
+2023-ON,3,1,1,a(iv),Enzymes,Enzyme investigations,4,evaluation/improvement
+2023-ON,3,1,1,b(i),Practical skills (generic),"Apparatus, measurement & safety",1,recall
+2023-ON,3,1,1,b(ii),Enzymes,Effect of temperature,6,planning/method
+2023-ON,3,1,2,a(i),Drugs,Medicinal drugs & antibiotics,1,data-interpretation
+2023-ON,3,1,2,a(ii),Drugs,Medicinal drugs & antibiotics,2,calculation
+2023-ON,3,1,2,b(i),Drugs,Medicinal drugs & antibiotics,4,graph-plotting
+2023-ON,3,1,2,b(ii),Drugs,Medicinal drugs & antibiotics,1,data-interpretation
+2023-ON,3,1,2,c,Drugs,Medicinal drugs & antibiotics,2,evaluation/improvement
+2023-ON,3,1,3,a(i),Cells,Microscopy & magnification,3,calculation
+2023-ON,3,1,3,a(ii),Excretion,Kidney & nephron,5,biological-drawing
+2023-ON,3,1,3,b,Biological molecules,Food tests,2,food-test/chemical-test
+2023-ON,4,1,1,a(i),Practical skills (generic),"Apparatus, measurement & safety",1,recall
+2023-ON,4,1,1,a(ii),Enzymes,Enzyme investigations,2,table-construction
+2023-ON,4,1,1,a(iii),Enzymes,Enzyme investigations,3,table-construction
+2023-ON,4,1,1,a(iv),Enzymes,Enzyme investigations,3,explain
+2023-ON,4,1,1,a(v),Enzymes,Enzyme investigations,1,evaluation/improvement
+2023-ON,4,1,1,a(vi),Enzymes,Enzyme investigations,2,evaluation/improvement
+2023-ON,4,1,1,a(vii),Enzymes,Enzyme investigations,1,planning/method
+2023-ON,4,1,1,b(i),Practical skills (generic),"Apparatus, measurement & safety",1,recall
+2023-ON,4,1,1,b(ii),Enzymes,Effect of temperature,6,planning/method
+2023-ON,4,1,2,a(i),Drugs,Medicinal drugs & antibiotics,1,data-interpretation
+2023-ON,4,1,2,a(ii),Drugs,Medicinal drugs & antibiotics,2,calculation
+2023-ON,4,1,2,b(i),Drugs,Medicinal drugs & antibiotics,4,graph-plotting
+2023-ON,4,1,2,b(ii),Drugs,Medicinal drugs & antibiotics,1,data-interpretation
+2023-ON,4,1,2,c,Drugs,Medicinal drugs & antibiotics,2,evaluation/improvement
+2023-ON,4,1,3,a(i),Cells,Microscopy & magnification,3,calculation
+2023-ON,4,1,3,a(ii),Excretion,Kidney & nephron,5,biological-drawing
+2023-ON,4,1,3,b,Biological molecules,Food tests,2,food-test/chemical-test
+2024-MJ,1,1,1,,Cells,Cell structure & organelles,1,diagram-labelling
+2024-MJ,1,1,2,,Characteristics & classification,Classification & keys,1,recall
+2024-MJ,1,1,3,,Movement into & out of cells,Osmosis,1,explain
+2024-MJ,1,1,4,,Movement into & out of cells,Active transport,1,data-interpretation
+2024-MJ,1,1,5,,Biological molecules,"Structure of carbohydrates, proteins & fats",1,recall
+2024-MJ,1,1,6,,Enzymes,Enzyme action & specificity,1,recall
+2024-MJ,1,1,7,,Plant nutrition,Limiting factors & rate investigations,1,data-interpretation
+2024-MJ,1,1,8,,Plant nutrition,Leaf structure,1,diagram-labelling
+2024-MJ,1,1,9,,Transport in plants,Water uptake & root hairs,1,recall
+2024-MJ,1,1,10,,Transport in plants,Transpiration & factors,1,calculation
+2024-MJ,1,1,11,,Human nutrition,Assimilation & liver,1,recall
+2024-MJ,1,1,12,,Enzymes,Effect of pH,1,data-interpretation
+2024-MJ,1,1,13,,Human nutrition,Absorption & villi,1,recall
+2024-MJ,1,1,14,,Gas exchange,Gas exchange surfaces & alveoli,1,recall
+2024-MJ,1,1,15,,Respiration,Anaerobic respiration (yeast/muscle),1,recall
+2024-MJ,1,1,16,,Transport in humans,Heart structure & function,1,diagram-labelling
+2024-MJ,1,1,17,,Transport in humans,Blood components,1,recall
+2024-MJ,1,1,18,,Disease & immunity,Specific diseases (cholera etc.),1,recall
+2024-MJ,1,1,19,,Gas exchange,Smoking & lungs,1,data-interpretation
+2024-MJ,1,1,20,,Drugs,Medicinal drugs & antibiotics,1,recall
+2024-MJ,1,1,21,,Disease & immunity,"Antibodies, immunity & vaccination",1,recall
+2024-MJ,1,1,22,,Excretion,Kidney & nephron,1,recall
+2024-MJ,1,1,23,,Coordination & response,Nervous system & reflex arc,1,recall
+2024-MJ,1,1,24,,Coordination & response,Eye & sense organs,1,diagram-labelling
+2024-MJ,1,1,25,,Coordination & response,Homeostasis: temperature & skin,1,data-interpretation
+2024-MJ,1,1,26,,Coordination & response,Hormones,1,recall
+2024-MJ,1,1,27,,Coordination & response,Tropisms & plant hormones,1,recall
+2024-MJ,1,1,28,,Inheritance,Mitosis & meiosis,1,recall
+2024-MJ,1,1,29,,Reproduction,Asexual vs sexual,1,recall
+2024-MJ,1,1,30,,Reproduction,Flower structure & pollination,1,data-interpretation
+2024-MJ,1,1,31,,Reproduction,Human reproductive organs & gametes,1,recall
+2024-MJ,1,1,32,,Reproduction,Human reproductive organs & gametes,1,diagram-labelling
+2024-MJ,1,1,33,,Variation & selection,Continuous & discontinuous variation,1,data-interpretation
+2024-MJ,1,1,34,,Inheritance,Monohybrid crosses & pedigrees,1,recall
+2024-MJ,1,1,35,,Variation & selection,Natural selection & resistance,1,recall
+2024-MJ,1,1,36,,Biotechnology & genetic modification,Genetic modification,1,recall
+2024-MJ,1,1,37,,Organisms & environment,Food chains & webs,1,recall
+2024-MJ,1,1,38,,Organisms & environment,Carbon cycle,1,data-interpretation
+2024-MJ,1,1,39,,Human influences on ecosystems,Habitat destruction & deforestation,1,calculation
+2024-MJ,1,1,40,,Human influences on ecosystems,Water pollution & eutrophication,1,data-interpretation
+2024-MJ,2,1,1,a(i),Gas exchange,Gas exchange surfaces & alveoli,4,recall
+2024-MJ,2,1,1,a(ii),Gas exchange,Gas exchange surfaces & alveoli,2,recall
+2024-MJ,2,1,1,b,Gas exchange,Inspired vs expired air,4,data-interpretation
+2024-MJ,2,1,2,a(i),Human nutrition,Physical & chemical digestion,4,recall
+2024-MJ,2,1,2,a(ii),Human nutrition,Balanced diet & deficiencies,2,recall
+2024-MJ,2,1,2,b,Movement into & out of cells,Active transport,2,recall
+2024-MJ,2,1,2,c(i),Coordination & response,Homeostasis: blood glucose,1,data-interpretation
+2024-MJ,2,1,2,c(ii),Coordination & response,Homeostasis: blood glucose,2,explain
+2024-MJ,2,1,2,c(iii),Coordination & response,Homeostasis: blood glucose,2,data-interpretation
+2024-MJ,2,1,2,d,Variation & selection,Selective breeding,4,explain
+2024-MJ,2,1,3,a(i),Cells,Microscopy & magnification,3,calculation
+2024-MJ,2,1,3,a(ii),Transport in humans,Blood components,2,explain
+2024-MJ,2,1,3,a(iii),Transport in humans,Lymph & tissue fluid,3,explain
+2024-MJ,2,1,3,b(i),Disease & immunity,Pathogens & transmission,3,recall
+2024-MJ,2,1,3,b(ii),Inheritance,Mitosis & meiosis,1,recall
+2024-MJ,2,1,3,b(iii),Transport in humans,Blood components,1,explain
+2024-MJ,2,1,3,b(iv),Human nutrition,Balanced diet & deficiencies,1,recall
+2024-MJ,2,1,4,a(i),Plant nutrition,Photosynthesis equation & products,4,explain
+2024-MJ,2,1,4,a(ii),Movement into & out of cells,Osmosis,4,explain
+2024-MJ,2,1,4,b(i),Characteristics & classification,Classification & keys,2,recall
+2024-MJ,2,1,4,b(ii),Characteristics & classification,Classification & keys,2,recall
+2024-MJ,2,1,5,a(i),Inheritance,Protein synthesis,4,diagram-labelling
+2024-MJ,2,1,5,a(ii),Cells,Cell structure & organelles,1,explain
+2024-MJ,2,1,5,a(iii),Biotechnology & genetic modification,Genetic modification,2,explain
+2024-MJ,2,1,5,b(i),Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,recall
+2024-MJ,2,1,5,b(ii),Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,data-interpretation
+2024-MJ,2,1,5,b(iii),Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,2,calculation
+2024-MJ,2,1,5,b(iv),Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,2,data-interpretation
+2024-MJ,2,1,5,b(v),Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,prediction/hypothesis
+2024-MJ,2,1,5,c,Human nutrition,Physical & chemical digestion,3,explain
+2024-MJ,2,1,6,a,Coordination & response,Tropisms & plant hormones,6,explain
+2024-MJ,2,1,6,b,Coordination & response,Synapses,4,recall
+2024-MJ,3,1,1,a(i),Reproduction,Flower structure & pollination,5,biological-drawing
+2024-MJ,3,1,1,a(ii),Reproduction,Flower structure & pollination,1,diagram-labelling
+2024-MJ,3,1,1,b(i),Biological molecules,Food tests,4,table-construction
+2024-MJ,3,1,1,b(ii),Practical skills (generic),"Apparatus, measurement & safety",1,recall
+2024-MJ,3,1,1,b(iii),Biological molecules,Food tests,3,food-test/chemical-test
+2024-MJ,3,1,1,b(iv),Biological molecules,Food tests,2,food-test/chemical-test
+2024-MJ,3,1,1,c(i),Cells,Microscopy & magnification,1,calculation
+2024-MJ,3,1,1,c(ii),Cells,Microscopy & magnification,3,calculation
+2024-MJ,3,1,1,c(iii),Reproduction,Flower structure & pollination,2,data-interpretation
+2024-MJ,3,1,2,a,Organisms & environment,Populations & sampling,1,planning/method
+2024-MJ,3,1,2,b,Organisms & environment,Populations & sampling,1,data-interpretation
+2024-MJ,3,1,2,c,Organisms & environment,Populations & sampling,2,calculation
+2024-MJ,3,1,2,d,Organisms & environment,Populations & sampling,1,explain
+2024-MJ,3,1,2,e,Organisms & environment,Populations & sampling,2,evaluation/improvement
+2024-MJ,3,1,2,f,Organisms & environment,Populations & sampling,4,graph-plotting
+2024-MJ,3,1,3,a,Plant nutrition,Mineral ions,6,planning/method
+2024-MJ,3,1,3,b,Practical skills (generic),"Variables, controls & planning",1,recall
+2024-MJ,4,1,1,a(i),Respiration,Respiration investigations & respirometers,1,explain
+2024-MJ,4,1,1,a(ii),Respiration,Respiration investigations & respirometers,2,explain
+2024-MJ,4,1,1,b(i),Respiration,Respiration investigations & respirometers,2,data-interpretation
+2024-MJ,4,1,1,b(ii),Respiration,Respiration investigations & respirometers,4,graph-plotting
+2024-MJ,4,1,1,b(iii),Respiration,Respiration investigations & respirometers,3,data-interpretation
+2024-MJ,4,1,1,c(i),Respiration,Respiration investigations & respirometers,1,calculation
+2024-MJ,4,1,1,c(ii),Respiration,Respiration investigations & respirometers,2,calculation
+2024-MJ,4,1,1,d(i),Practical skills (generic),"Errors, reliability & improvements",2,evaluation/improvement
+2024-MJ,4,1,1,d(ii),Respiration,Respiration investigations & respirometers,1,planning/method
+2024-MJ,4,1,2,a(i),Characteristics & classification,Classification & keys,3,data-interpretation
+2024-MJ,4,1,2,a(ii),Characteristics & classification,Classification & keys,1,data-interpretation
+2024-MJ,4,1,2,b(i),Practical skills (generic),Biological drawing,5,biological-drawing
+2024-MJ,4,1,2,b(ii),Cells,Microscopy & magnification,1,calculation
+2024-MJ,4,1,2,b(iii),Cells,Microscopy & magnification,1,calculation
+2024-MJ,4,1,3,a(i),Transport in humans,Coronary heart disease & exercise,2,calculation
+2024-MJ,4,1,3,a(ii),Transport in humans,Coronary heart disease & exercise,2,data-interpretation
+2024-MJ,4,1,3,b(i),Transport in humans,Coronary heart disease & exercise,6,planning/method
+2024-MJ,4,1,3,b(ii),Practical skills (generic),"Variables, controls & planning",1,recall
+2024-ON,1,1,1,,Cells,Cell structure & organelles,1,recall
+2024-ON,1,1,2,,Characteristics & classification,Classification & keys,1,recall
+2024-ON,1,1,3,,Movement into & out of cells,Osmosis,1,explain
+2024-ON,1,1,4,,Movement into & out of cells,Active transport,1,recall
+2024-ON,1,1,5,,Biological molecules,"Structure of carbohydrates, proteins & fats",1,recall
+2024-ON,1,1,6,,Enzymes,Effect of temperature,1,data-interpretation
+2024-ON,1,1,7,,Plant nutrition,Limiting factors & rate investigations,1,data-interpretation
+2024-ON,1,1,8,,Plant nutrition,Leaf structure,1,diagram-labelling
+2024-ON,1,1,9,,Transport in plants,Xylem & phloem structure,1,diagram-labelling
+2024-ON,1,1,10,,Transport in plants,Transpiration & factors,1,recall
+2024-ON,1,1,11,,Human nutrition,Digestive system & organs,1,diagram-labelling
+2024-ON,1,1,12,,Enzymes,Effect of pH,1,data-interpretation
+2024-ON,1,1,13,,Human nutrition,Absorption & villi,1,diagram-labelling
+2024-ON,1,1,14,,Gas exchange,Breathing mechanism,1,recall
+2024-ON,1,1,15,,Transport in plants,Water uptake & root hairs,1,data-interpretation
+2024-ON,1,1,16,,Transport in humans,Blood vessels,1,explain
+2024-ON,1,1,17,,Transport in humans,Blood components,1,diagram-labelling
+2024-ON,1,1,18,,Disease & immunity,Pathogens & transmission,1,recall
+2024-ON,1,1,19,,Disease & immunity,Pathogens & transmission,1,recall
+2024-ON,1,1,20,,Disease & immunity,"Antibodies, immunity & vaccination",1,recall
+2024-ON,1,1,21,,Drugs,Medicinal drugs & antibiotics,1,recall
+2024-ON,1,1,22,,Excretion,Kidney & nephron,1,diagram-labelling
+2024-ON,1,1,23,,Coordination & response,Nervous system & reflex arc,1,recall
+2024-ON,1,1,24,,Coordination & response,Eye & sense organs,1,calculation
+2024-ON,1,1,25,,Coordination & response,Hormones,1,recall
+2024-ON,1,1,26,,Coordination & response,Homeostasis: temperature & skin,1,explain
+2024-ON,1,1,27,,Coordination & response,Tropisms & plant hormones,1,recall
+2024-ON,1,1,28,,Inheritance,Mitosis & meiosis,1,data-interpretation
+2024-ON,1,1,29,,Inheritance,Mitosis & meiosis,1,calculation
+2024-ON,1,1,30,,Reproduction,Flower structure & pollination,1,recall
+2024-ON,1,1,31,,Reproduction,Human reproductive organs & gametes,1,recall
+2024-ON,1,1,32,,Reproduction,Menstrual cycle & hormones,1,data-interpretation
+2024-ON,1,1,33,,Variation & selection,Continuous & discontinuous variation,1,recall
+2024-ON,1,1,34,,Inheritance,Monohybrid crosses & pedigrees,1,genetic-cross
+2024-ON,1,1,35,,Variation & selection,Natural selection & resistance,1,recall
+2024-ON,1,1,36,,Biotechnology & genetic modification,Genetic modification,1,recall
+2024-ON,1,1,37,,Organisms & environment,Food chains & webs,1,recall
+2024-ON,1,1,38,,Organisms & environment,Carbon cycle,1,data-interpretation
+2024-ON,1,1,39,,Organisms & environment,Populations & sampling,1,recall
+2024-ON,1,1,40,,Human influences on ecosystems,Habitat destruction & deforestation,1,recall
+2024-ON,1,2,1,,Cells,Specialised cells & levels of organisation,1,diagram-labelling
+2024-ON,1,2,2,,Characteristics & classification,Classification & keys,1,recall
+2024-ON,1,2,3,,Movement into & out of cells,Osmosis,1,data-interpretation
+2024-ON,1,2,4,,Movement into & out of cells,Active transport,1,recall
+2024-ON,1,2,5,,Biological molecules,Water & elements,1,recall
+2024-ON,1,2,6,,Enzymes,Effect of temperature,1,data-interpretation
+2024-ON,1,2,7,,Plant nutrition,Limiting factors & rate investigations,1,data-interpretation
+2024-ON,1,2,8,,Plant nutrition,Leaf structure,1,diagram-labelling
+2024-ON,1,2,9,,Transport in plants,Water uptake & root hairs,1,recall
+2024-ON,1,2,10,,Transport in plants,Transpiration & factors,1,prediction/hypothesis
+2024-ON,1,2,11,,Enzymes,Enzyme investigations,1,data-interpretation
+2024-ON,1,2,12,,Human nutrition,Absorption & villi,1,diagram-labelling
+2024-ON,1,2,13,,Human nutrition,Assimilation & liver,1,diagram-labelling
+2024-ON,1,2,14,,Gas exchange,Breathing mechanism,1,recall
+2024-ON,1,2,15,,Respiration,Respiration investigations & respirometers,1,explain
+2024-ON,1,2,16,,Transport in humans,Heart structure & function,1,explain
+2024-ON,1,2,17,,Transport in humans,Blood components,1,recall
+2024-ON,1,2,18,,Disease & immunity,Pathogens & transmission,1,recall
+2024-ON,1,2,19,,Transport in humans,Blood components,1,explain
+2024-ON,1,2,20,,Drugs,Medicinal drugs & antibiotics,1,recall
+2024-ON,1,2,21,,Disease & immunity,"Antibodies, immunity & vaccination",1,data-interpretation
+2024-ON,1,2,22,,Excretion,Kidney & nephron,1,diagram-labelling
+2024-ON,1,2,23,,Coordination & response,Nervous system & reflex arc,1,explain
+2024-ON,1,2,24,,Coordination & response,Eye & sense organs,1,diagram-labelling
+2024-ON,1,2,25,,Coordination & response,Hormones,1,diagram-labelling
+2024-ON,1,2,26,,Coordination & response,Homeostasis: temperature & skin,1,recall
+2024-ON,1,2,27,,Coordination & response,Tropisms & plant hormones,1,prediction/hypothesis
+2024-ON,1,2,28,,Inheritance,Mitosis & meiosis,1,recall
+2024-ON,1,2,29,,Reproduction,Asexual vs sexual,1,recall
+2024-ON,1,2,30,,Reproduction,"Fertilisation, seeds & germination",1,planning/method
+2024-ON,1,2,31,,Reproduction,Menstrual cycle & hormones,1,data-interpretation
+2024-ON,1,2,32,,Reproduction,"Pregnancy, placenta & birth",1,recall
+2024-ON,1,2,33,,Inheritance,"Chromosomes, genes & DNA",1,recall
+2024-ON,1,2,34,,Inheritance,Codominance & blood groups,1,genetic-cross
+2024-ON,1,2,35,,Variation & selection,Selective breeding,1,recall
+2024-ON,1,2,36,,Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,explain
+2024-ON,1,2,37,,Organisms & environment,Energy flow & pyramids,1,calculation
+2024-ON,1,2,38,,Organisms & environment,Carbon cycle,1,recall
+2024-ON,1,2,39,,Organisms & environment,Populations & sampling,1,explain
+2024-ON,1,2,40,,Human influences on ecosystems,Water pollution & eutrophication,1,recall
+2024-ON,2,1,1,a(i),Transport in plants,Transpiration & factors,1,recall
+2024-ON,2,1,1,a(ii),Transport in plants,Transpiration & factors,1,explain
+2024-ON,2,1,1,a(iii),Transport in plants,Transpiration & factors,2,planning/method
+2024-ON,2,1,1,b,Transport in plants,Transpiration & factors,3,recall
+2024-ON,2,1,1,c(i),Transport in plants,Transpiration & factors,1,prediction/hypothesis
+2024-ON,2,1,1,c(ii),Transport in plants,Transpiration & factors,3,explain
+2024-ON,2,1,2,a,Enzymes,Enzyme action & specificity,4,recall
+2024-ON,2,1,2,b,Enzymes,Enzyme action & specificity,2,explain
+2024-ON,2,1,3,a,Coordination & response,Nervous system & reflex arc,2,diagram-labelling
+2024-ON,2,1,3,b(i),Coordination & response,Nervous system & reflex arc,2,diagram-labelling
+2024-ON,2,1,3,b(ii),Coordination & response,Nervous system & reflex arc,4,recall
+2024-ON,2,1,3,c(i),Coordination & response,Hormones,1,diagram-labelling
+2024-ON,2,1,3,c(ii),Coordination & response,Hormones,2,explain
+2024-ON,2,1,4,a(i),Excretion,Urea & deamination,2,recall
+2024-ON,2,1,4,a(ii),Respiration,Aerobic respiration,2,recall
+2024-ON,2,1,4,b,Respiration,Aerobic respiration,4,explain
+2024-ON,2,1,4,c,Human influences on ecosystems,Air pollution & climate change,2,explain
+2024-ON,2,1,5,a(i),Reproduction,"Fertilisation, seeds & germination",4,recall
+2024-ON,2,1,5,a(ii),Biological molecules,Food tests,2,food-test/chemical-test
+2024-ON,2,1,5,b(i),Reproduction,"Fertilisation, seeds & germination",2,explain
+2024-ON,2,1,5,b(ii),Reproduction,"Fertilisation, seeds & germination",3,data-interpretation
+2024-ON,2,1,5,b(iii),Human nutrition,Physical & chemical digestion,1,recall
+2024-ON,2,1,5,c(i),Characteristics & classification,Classification & keys,1,recall
+2024-ON,2,1,5,c(ii),Characteristics & classification,Classification & keys,2,recall
+2024-ON,2,1,6,a,Organisms & environment,Food chains & webs,2,data-interpretation
+2024-ON,2,1,6,b,Organisms & environment,Energy flow & pyramids,2,explain
+2024-ON,2,1,6,c(i),Organisms & environment,Food chains & webs,3,prediction/hypothesis
+2024-ON,2,1,6,c(ii),Human influences on ecosystems,Conservation & sustainability,5,explain
+2024-ON,2,1,6,d,Transport in humans,Circulatory system & double circulation,5,explain
+2024-ON,2,1,7,a,Disease & immunity,"Antibodies, immunity & vaccination",7,explain
+2024-ON,2,1,7,b,Disease & immunity,Body defences,3,prediction/hypothesis
+2024-ON,3,1,1,a(i),Practical skills (generic),"Apparatus, measurement & safety",1,planning/method
+2024-ON,3,1,1,a(ii),Practical skills (generic),"Variables, controls & planning",1,explain
+2024-ON,3,1,1,a(iii),Respiration,Anaerobic respiration (yeast/muscle),5,table-construction
+2024-ON,3,1,1,a(iv),Respiration,Anaerobic respiration (yeast/muscle),1,explain
+2024-ON,3,1,1,a(v),Respiration,Anaerobic respiration (yeast/muscle),1,data-interpretation
+2024-ON,3,1,1,a(vi),Respiration,Anaerobic respiration (yeast/muscle),2,evaluation/improvement
+2024-ON,3,1,1,b(i),Respiration,Anaerobic respiration (yeast/muscle),4,calculation
+2024-ON,3,1,1,b(ii),Respiration,Anaerobic respiration (yeast/muscle),2,evaluation/improvement
+2024-ON,3,1,2,a(i),Respiration,Respiration investigations & respirometers,4,graph-plotting
+2024-ON,3,1,2,a(ii),Respiration,Respiration investigations & respirometers,2,prediction/hypothesis
+2024-ON,3,1,2,a(iii),Respiration,Respiration investigations & respirometers,2,calculation
+2024-ON,3,1,2,b,Respiration,Respiration investigations & respirometers,6,planning/method
+2024-ON,3,1,3,a(i),Reproduction,Flower structure & pollination,4,biological-drawing
+2024-ON,3,1,3,a(ii),Cells,Microscopy & magnification,3,calculation
+2024-ON,3,1,3,b,Reproduction,Flower structure & pollination,2,explain
+2024-ON,4,1,1,a(i),Practical skills (generic),"Apparatus, measurement & safety",1,planning/method
+2024-ON,4,1,1,a(ii),Practical skills (generic),"Variables, controls & planning",1,explain
+2024-ON,4,1,1,b(i),Respiration,Anaerobic respiration (yeast/muscle),5,table-construction
+2024-ON,4,1,1,b(ii),Respiration,Anaerobic respiration (yeast/muscle),1,explain
+2024-ON,4,1,1,b(iii),Respiration,Anaerobic respiration (yeast/muscle),1,data-interpretation
+2024-ON,4,1,1,b(iv),Practical skills (generic),"Errors, reliability & improvements",1,evaluation/improvement
+2024-ON,4,1,1,b(v),Practical skills (generic),"Errors, reliability & improvements",1,explain
+2024-ON,4,1,1,c(i),Respiration,Anaerobic respiration (yeast/muscle),4,calculation
+2024-ON,4,1,1,c(ii),Respiration,Anaerobic respiration (yeast/muscle),2,evaluation/improvement
+2024-ON,4,1,2,a(i),Respiration,Respiration investigations & respirometers,4,graph-plotting
+2024-ON,4,1,2,a(ii),Respiration,Respiration investigations & respirometers,2,prediction/hypothesis
+2024-ON,4,1,2,a(iii),Respiration,Respiration investigations & respirometers,2,calculation
+2024-ON,4,1,2,b,Respiration,Respiration investigations & respirometers,6,planning/method
+2024-ON,4,1,3,a(i),Reproduction,Flower structure & pollination,4,biological-drawing
+2024-ON,4,1,3,a(ii),Cells,Microscopy & magnification,3,calculation
+2024-ON,4,1,3,b,Reproduction,Flower structure & pollination,2,explain
+2025-MJ,1,1,1,,Cells,Specialised cells & levels of organisation,1,recall
+2025-MJ,1,1,2,,Cells,Cell structure & organelles,1,diagram-labelling
+2025-MJ,1,1,3,,Cells,Specialised cells & levels of organisation,1,diagram-labelling
+2025-MJ,1,1,4,,Cells,Specialised cells & levels of organisation,1,recall
+2025-MJ,1,1,5,,Characteristics & classification,Classification & keys,1,data-interpretation
+2025-MJ,1,1,6,,Movement into & out of cells,Active transport,1,recall
+2025-MJ,1,1,7,,Movement into & out of cells,Osmosis,1,explain
+2025-MJ,1,1,8,,Enzymes,Enzyme action & specificity,1,diagram-labelling
+2025-MJ,1,1,9,,Enzymes,Effect of pH,1,data-interpretation
+2025-MJ,1,1,10,,Enzymes,Enzyme action & specificity,1,recall
+2025-MJ,1,1,11,,Plant nutrition,Leaf structure,1,diagram-labelling
+2025-MJ,1,1,12,,Transport in plants,Xylem & phloem structure,1,diagram-labelling
+2025-MJ,1,1,13,,Transport in plants,Transpiration & factors,1,data-interpretation
+2025-MJ,1,1,14,,Gas exchange,Inspired vs expired air,1,data-interpretation
+2025-MJ,1,1,15,,Respiration,Aerobic respiration,1,recall
+2025-MJ,1,1,16,,Transport in humans,Blood components,1,data-interpretation
+2025-MJ,1,1,17,,Transport in humans,Circulatory system & double circulation,1,calculation
+2025-MJ,1,1,18,,Transport in humans,Blood vessels,1,data-interpretation
+2025-MJ,1,1,19,,Transport in humans,Blood vessels,1,calculation
+2025-MJ,1,1,20,,Gas exchange,Smoking & lungs,1,data-interpretation
+2025-MJ,1,1,21,,Disease & immunity,Pathogens & transmission,1,recall
+2025-MJ,1,1,22,,Drugs,Medicinal drugs & antibiotics,1,recall
+2025-MJ,1,1,23,,Excretion,Kidney & nephron,1,diagram-labelling
+2025-MJ,1,1,24,,Excretion,Kidney & nephron,1,calculation
+2025-MJ,1,1,25,,Coordination & response,Eye & sense organs,1,recall
+2025-MJ,1,1,26,,Coordination & response,Homeostasis: temperature & skin,1,data-interpretation
+2025-MJ,1,1,27,,Coordination & response,Synapses,1,recall
+2025-MJ,1,1,28,,Coordination & response,Homeostasis: temperature & skin,1,recall
+2025-MJ,1,1,29,,Coordination & response,Homeostasis: blood glucose,1,recall
+2025-MJ,1,1,30,,Coordination & response,Tropisms & plant hormones,1,recall
+2025-MJ,1,1,31,,Inheritance,Mitosis & meiosis,1,recall
+2025-MJ,1,1,32,,Inheritance,Mitosis & meiosis,1,recall
+2025-MJ,1,1,33,,Reproduction,"Pregnancy, placenta & birth",1,recall
+2025-MJ,1,1,34,,Reproduction,Human reproductive organs & gametes,1,recall
+2025-MJ,1,1,35,,Reproduction,Menstrual cycle & hormones,1,data-interpretation
+2025-MJ,1,1,36,,Variation & selection,Continuous & discontinuous variation,1,recall
+2025-MJ,1,1,37,,Coordination & response,Eye & sense organs,1,recall
+2025-MJ,1,1,38,,Organisms & environment,Energy flow & pyramids,1,recall
+2025-MJ,1,1,39,,Human influences on ecosystems,Water pollution & eutrophication,1,recall
+2025-MJ,1,1,40,,Human influences on ecosystems,Water pollution & eutrophication,1,data-interpretation
+2025-MJ,2,1,1,a,Biological molecules,"Structure of carbohydrates, proteins & fats",3,recall
+2025-MJ,2,1,1,b,Inheritance,"Chromosomes, genes & DNA",2,recall
+2025-MJ,2,1,1,c,Inheritance,Protein synthesis,3,explain
+2025-MJ,2,1,2,a(i),Organisms & environment,Food chains & webs,1,recall
+2025-MJ,2,1,2,a(ii),Organisms & environment,Food chains & webs,2,data-interpretation
+2025-MJ,2,1,2,a(iii),Organisms & environment,Food chains & webs,2,explain
+2025-MJ,2,1,2,b(i),Respiration,Aerobic respiration,2,explain
+2025-MJ,2,1,2,b(ii),Variation & selection,Natural selection & resistance,4,explain
+2025-MJ,2,1,3,a(i),Human nutrition,Digestive system & organs,2,diagram-labelling
+2025-MJ,2,1,3,a(ii),Human nutrition,Physical & chemical digestion,3,recall
+2025-MJ,2,1,3,b(i),Human nutrition,Absorption & villi,3,explain
+2025-MJ,2,1,3,b(ii),Enzymes,Effect of pH,3,explain
+2025-MJ,2,1,4,a,Disease & immunity,Pathogens & transmission,2,recall
+2025-MJ,2,1,4,b(i),Disease & immunity,Specific diseases (cholera etc.),3,recall
+2025-MJ,2,1,4,b(ii),Disease & immunity,Specific diseases (cholera etc.),2,calculation
+2025-MJ,2,1,4,b(iii),Disease & immunity,"Antibodies, immunity & vaccination",4,explain
+2025-MJ,2,1,4,b(iv),Disease & immunity,"Antibodies, immunity & vaccination",3,evaluation/improvement
+2025-MJ,2,1,5,a,Human influences on ecosystems,Air pollution & climate change,3,explain
+2025-MJ,2,1,5,b(i),Plant nutrition,Photosynthesis equation & products,2,recall
+2025-MJ,2,1,5,b(ii),Plant nutrition,Photosynthesis equation & products,2,calculation
+2025-MJ,2,1,5,c(i),Plant nutrition,Mineral ions,2,recall
+2025-MJ,2,1,5,c(ii),Organisms & environment,Carbon cycle,2,explain
+2025-MJ,2,1,6,a(i),Reproduction,Flower structure & pollination,2,explain
+2025-MJ,2,1,6,a(ii),Reproduction,Flower structure & pollination,1,recall
+2025-MJ,2,1,6,b,Reproduction,"Fertilisation, seeds & germination",3,recall
+2025-MJ,2,1,6,c,Reproduction,"Fertilisation, seeds & germination",3,explain
+2025-MJ,2,1,7,a(i),Inheritance,Codominance & blood groups,1,recall
+2025-MJ,2,1,7,a(ii),Inheritance,Codominance & blood groups,1,recall
+2025-MJ,2,1,7,b(i),Inheritance,Codominance & blood groups,2,genetic-cross
+2025-MJ,2,1,7,b(ii),Inheritance,Codominance & blood groups,1,genetic-cross
+2025-MJ,2,1,7,b(iii),Inheritance,Monohybrid crosses & pedigrees,1,data-interpretation
+2025-MJ,2,1,8,a,Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,6,explain
+2025-MJ,2,1,8,b,Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,4,data-interpretation
+2025-MJ,3,1,1,a(i),Enzymes,Enzyme investigations,5,table-construction
+2025-MJ,3,1,1,a(ii),Enzymes,Enzyme investigations,3,data-interpretation
+2025-MJ,3,1,1,b(i),Enzymes,Enzyme investigations,1,explain
+2025-MJ,3,1,1,b(ii),Enzymes,Enzyme investigations,2,explain
+2025-MJ,3,1,1,b(iii),Enzymes,Enzyme investigations,1,planning/method
+2025-MJ,3,1,1,b(iv),Enzymes,Enzyme investigations,1,evaluation/improvement
+2025-MJ,3,1,1,b(v),Enzymes,Enzyme investigations,1,evaluation/improvement
+2025-MJ,3,1,1,c(i),Enzymes,Enzyme investigations,4,graph-plotting
+2025-MJ,3,1,1,c(ii),Enzymes,Enzyme investigations,3,data-interpretation
+2025-MJ,3,1,1,c(iii),Enzymes,Enzyme investigations,3,explain
+2025-MJ,3,1,2,a,Practical skills (generic),Biological drawing,5,biological-drawing
+2025-MJ,3,1,2,b(i),Cells,Microscopy & magnification,1,calculation
+2025-MJ,3,1,2,b(ii),Cells,Microscopy & magnification,1,calculation
+2025-MJ,3,1,2,b(iii),Cells,Microscopy & magnification,3,calculation
+2025-MJ,3,1,3,,Plant nutrition,Limiting factors & rate investigations,6,planning/method
+2025-MJ,4,1,1,a(i),Coordination & response,Tropisms & plant hormones,4,table-construction
+2025-MJ,4,1,1,a(ii),Coordination & response,Tropisms & plant hormones,2,data-interpretation
+2025-MJ,4,1,1,a(iii),Coordination & response,Tropisms & plant hormones,1,table-construction
+2025-MJ,4,1,1,a(iv),Coordination & response,Tropisms & plant hormones,2,calculation
+2025-MJ,4,1,1,a(v),Coordination & response,Tropisms & plant hormones,3,data-interpretation
+2025-MJ,4,1,1,b,Practical skills (generic),"Errors, reliability & improvements",2,evaluation/improvement
+2025-MJ,4,1,1,c,Coordination & response,Tropisms & plant hormones,2,explain
+2025-MJ,4,1,1,d(i),Reproduction,"Fertilisation, seeds & germination",4,graph-plotting
+2025-MJ,4,1,1,d(ii),Reproduction,"Fertilisation, seeds & germination",3,data-interpretation
+2025-MJ,4,1,2,a(i),Practical skills (generic),Biological drawing,5,biological-drawing
+2025-MJ,4,1,2,a(ii),Plant nutrition,Starch test on leaves,3,food-test/chemical-test
+2025-MJ,4,1,3,a(i),Excretion,Kidney & nephron,1,data-interpretation
+2025-MJ,4,1,3,a(ii),Coordination & response,Homeostasis: blood glucose,2,data-interpretation
+2025-MJ,4,1,3,b,Excretion,Kidney & nephron,6,planning/method
+2025-MJ,4,2,1,a(i),Enzymes,Enzyme investigations,7,table-construction
+2025-MJ,4,2,1,a(ii),Enzymes,Enzyme investigations,1,data-interpretation
+2025-MJ,4,2,1,b(i),Enzymes,Enzyme investigations,1,explain
+2025-MJ,4,2,1,b(ii),Enzymes,Enzyme investigations,2,explain
+2025-MJ,4,2,1,b(iii),Enzymes,Enzyme investigations,1,planning/method
+2025-MJ,4,2,1,b(iv),Enzymes,Enzyme investigations,2,evaluation/improvement
+2025-MJ,4,2,1,c(i),Enzymes,Enzyme investigations,4,graph-plotting
+2025-MJ,4,2,1,c(ii),Enzymes,Enzyme investigations,3,data-interpretation
+2025-MJ,4,2,1,c(iii),Enzymes,Enzyme investigations,3,explain
+2025-MJ,4,2,2,a,Practical skills (generic),Biological drawing,5,biological-drawing
+2025-MJ,4,2,2,b(i),Cells,Microscopy & magnification,1,calculation
+2025-MJ,4,2,2,b(ii),Cells,Microscopy & magnification,1,calculation
+2025-MJ,4,2,2,b(iii),Cells,Microscopy & magnification,3,calculation
+2025-MJ,4,2,3,,Plant nutrition,Limiting factors & rate investigations,6,planning/method
+2025-ON,1,1,1,,Cells,Cell structure & organelles,1,recall
+2025-ON,1,1,2,,Characteristics & classification,Classification & keys,1,recall
+2025-ON,1,1,3,,Characteristics & classification,Classification & keys,1,data-interpretation
+2025-ON,1,1,4,,Movement into & out of cells,Osmosis,1,explain
+2025-ON,1,1,5,,Movement into & out of cells,Active transport,1,recall
+2025-ON,1,1,6,,Enzymes,Enzyme action & specificity,1,recall
+2025-ON,1,1,7,,Plant nutrition,Photosynthesis equation & products,1,recall
+2025-ON,1,1,8,,Plant nutrition,Photosynthesis equation & products,1,recall
+2025-ON,1,1,9,,Plant nutrition,Limiting factors & rate investigations,1,data-interpretation
+2025-ON,1,1,10,,Plant nutrition,Limiting factors & rate investigations,1,data-interpretation
+2025-ON,1,1,11,,Transport in plants,Xylem & phloem structure,1,diagram-labelling
+2025-ON,1,1,12,,Human nutrition,Balanced diet & deficiencies,1,recall
+2025-ON,1,1,13,,Gas exchange,Breathing mechanism,1,recall
+2025-ON,1,1,14,,Respiration,Aerobic respiration,1,recall
+2025-ON,1,1,15,,Respiration,Anaerobic respiration (yeast/muscle),1,recall
+2025-ON,1,1,16,,Transport in humans,Blood vessels,1,data-interpretation
+2025-ON,1,1,17,,Transport in humans,Blood components,1,recall
+2025-ON,1,1,18,,Gas exchange,Smoking & lungs,1,recall
+2025-ON,1,1,19,,Disease & immunity,Body defences,1,recall
+2025-ON,1,1,20,,Drugs,Medicinal drugs & antibiotics,1,data-interpretation
+2025-ON,1,1,21,,Excretion,Kidney & nephron,1,data-interpretation
+2025-ON,1,1,22,,Coordination & response,Homeostasis: blood glucose,1,data-interpretation
+2025-ON,1,1,23,,Coordination & response,Homeostasis: blood glucose,1,recall
+2025-ON,1,1,24,,Coordination & response,Homeostasis: temperature & skin,1,recall
+2025-ON,1,1,25,,Reproduction,Menstrual cycle & hormones,1,recall
+2025-ON,1,1,26,,Coordination & response,Tropisms & plant hormones,1,recall
+2025-ON,1,1,27,,Coordination & response,Tropisms & plant hormones,1,data-interpretation
+2025-ON,1,1,28,,Reproduction,"Fertilisation, seeds & germination",1,recall
+2025-ON,1,1,29,,Inheritance,"Chromosomes, genes & DNA",1,recall
+2025-ON,1,1,30,,Variation & selection,Mutation,1,recall
+2025-ON,1,1,31,,Variation & selection,Natural selection & resistance,1,recall
+2025-ON,1,1,32,,Variation & selection,Continuous & discontinuous variation,1,recall
+2025-ON,1,1,33,,Organisms & environment,Populations & sampling,1,calculation
+2025-ON,1,1,34,,Biotechnology & genetic modification,Genetic modification,1,recall
+2025-ON,1,1,35,,Enzymes,Enzyme investigations,1,calculation
+2025-ON,1,1,36,,Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,1,recall
+2025-ON,1,1,37,,Organisms & environment,Food chains & webs,1,data-interpretation
+2025-ON,1,1,38,,Organisms & environment,Energy flow & pyramids,1,recall
+2025-ON,1,1,39,,Organisms & environment,Nitrogen cycle,1,diagram-labelling
+2025-ON,1,1,40,,Human influences on ecosystems,Conservation & sustainability,1,recall
+2025-ON,2,1,1,a,Reproduction,Human reproductive organs & gametes,3,diagram-labelling
+2025-ON,2,1,1,b,Reproduction,Human reproductive organs & gametes,2,explain
+2025-ON,2,1,1,c(i),Reproduction,Menstrual cycle & hormones,1,recall
+2025-ON,2,1,1,c(ii),Reproduction,Menstrual cycle & hormones,2,explain
+2025-ON,2,1,1,c(iii),Reproduction,Contraception & STIs,3,calculation
+2025-ON,2,1,2,a(i),Coordination & response,Eye & sense organs,2,diagram-labelling
+2025-ON,2,1,2,a(ii),Coordination & response,Eye & sense organs,2,diagram-labelling
+2025-ON,2,1,2,a(iii),Coordination & response,Eye & sense organs,3,explain
+2025-ON,2,1,2,b(i),Coordination & response,Eye & sense organs,2,explain
+2025-ON,2,1,2,b(ii),Inheritance,Monohybrid crosses & pedigrees,2,genetic-cross
+2025-ON,2,1,3,a(i),Human nutrition,Physical & chemical digestion,2,recall
+2025-ON,2,1,3,a(ii),Human nutrition,Assimilation & liver,1,recall
+2025-ON,2,1,3,a(iii),Excretion,Kidney & nephron,1,recall
+2025-ON,2,1,3,b(i),Excretion,Urea & deamination,2,calculation
+2025-ON,2,1,3,b(ii),Excretion,Urea & deamination,3,data-interpretation
+2025-ON,2,1,3,b(iii),Excretion,Kidney & nephron,2,evaluation/improvement
+2025-ON,2,1,4,a,Plant nutrition,Photosynthesis equation & products,5,recall
+2025-ON,2,1,4,b,Transport in plants,Translocation,4,explain
+2025-ON,2,1,5,a(i),Transport in humans,Circulatory system & double circulation,1,recall
+2025-ON,2,1,5,a(ii),Transport in humans,Circulatory system & double circulation,2,recall
+2025-ON,2,1,5,a(iii),Transport in humans,Heart structure & function,3,explain
+2025-ON,2,1,5,b,Transport in humans,Heart structure & function,4,explain
+2025-ON,2,1,6,a,Human influences on ecosystems,Conservation & sustainability,2,recall
+2025-ON,2,1,6,b,Biotechnology & genetic modification,Microorganisms in biotechnology & fermenters,2,recall
+2025-ON,2,1,6,c,Human influences on ecosystems,Habitat destruction & deforestation,4,data-interpretation
+2025-ON,2,1,7,a(i),Disease & immunity,Pathogens & transmission,2,recall
+2025-ON,2,1,7,a(ii),Disease & immunity,Specific diseases (cholera etc.),3,explain
+2025-ON,2,1,7,a(iii),Drugs,Medicinal drugs & antibiotics,2,explain
+2025-ON,2,1,7,b,Variation & selection,Natural selection & resistance,3,data-interpretation
+2025-ON,2,1,8,a,Coordination & response,Synapses,6,explain
+2025-ON,2,1,8,b,Coordination & response,Synapses,4,explain
+2025-ON,3,1,1,a(i),Enzymes,Enzyme investigations,1,data-interpretation
+2025-ON,3,1,1,a(ii),Practical skills (generic),"Apparatus, measurement & safety",1,data-interpretation
+2025-ON,3,1,1,a(iii),Enzymes,Enzyme investigations,4,table-construction
+2025-ON,3,1,1,a(iv),Enzymes,Enzyme investigations,1,data-interpretation
+2025-ON,3,1,1,a(v),Enzymes,Enzyme investigations,2,data-interpretation
+2025-ON,3,1,1,a(vi),Enzymes,Enzyme investigations,2,evaluation/improvement
+2025-ON,3,1,1,b(i),Enzymes,Effect of pH,2,food-test/chemical-test
+2025-ON,3,1,1,b(ii),Enzymes,Enzyme action & specificity,2,explain
+2025-ON,3,1,2,a(i),Practical skills (generic),"Apparatus, measurement & safety",1,data-interpretation
+2025-ON,3,1,2,a(ii),Respiration,Anaerobic respiration (yeast/muscle),2,calculation
+2025-ON,3,1,2,a(iii),Practical skills (generic),Graphs & tables,4,graph-plotting
+2025-ON,3,1,2,a(iv),Respiration,Anaerobic respiration (yeast/muscle),3,data-interpretation
+2025-ON,3,1,2,b,Biological molecules,Food tests,2,food-test/chemical-test
+2025-ON,3,1,2,c,Respiration,Respiration investigations & respirometers,6,planning/method
+2025-ON,3,1,3,a(i),Variation & selection,Continuous & discontinuous variation,2,data-interpretation
+2025-ON,3,1,3,a(ii),Practical skills (generic),"Errors, reliability & improvements",2,evaluation/improvement
+2025-ON,3,1,3,b,Practical skills (generic),Biological drawing,3,biological-drawing
+2025-ON,4,1,1,a(i),Practical skills (generic),"Apparatus, measurement & safety",2,planning/method
+2025-ON,4,1,1,a(ii),Practical skills (generic),"Variables, controls & planning",1,explain
+2025-ON,4,1,1,a(iii),Enzymes,Enzyme investigations,3,table-construction
+2025-ON,4,1,1,a(iv),Enzymes,Enzyme investigations,1,data-interpretation
+2025-ON,4,1,1,a(v),Enzymes,Enzyme investigations,2,data-interpretation
+2025-ON,4,1,1,a(vi),Enzymes,Enzyme investigations,2,evaluation/improvement
+2025-ON,4,1,1,b(i),Enzymes,Effect of pH,2,food-test/chemical-test
+2025-ON,4,1,1,b(ii),Enzymes,Enzyme action & specificity,2,explain
+2025-ON,4,1,2,a(i),Practical skills (generic),"Apparatus, measurement & safety",1,data-interpretation
+2025-ON,4,1,2,a(ii),Respiration,Anaerobic respiration (yeast/muscle),2,calculation
+2025-ON,4,1,2,a(iii),Practical skills (generic),Graphs & tables,4,graph-plotting
+2025-ON,4,1,2,a(iv),Respiration,Anaerobic respiration (yeast/muscle),3,data-interpretation
+2025-ON,4,1,2,b,Biological molecules,Food tests,2,food-test/chemical-test
+2025-ON,4,1,2,c,Respiration,Respiration investigations & respirometers,6,planning/method
+2025-ON,4,1,3,a(i),Variation & selection,Continuous & discontinuous variation,2,data-interpretation
+2025-ON,4,1,3,a(ii),Practical skills (generic),"Errors, reliability & improvements",2,evaluation/improvement
+2025-ON,4,1,3,b,Practical skills (generic),Biological drawing,3,biological-drawing
+2026-MJ,1,1,1,,Cells,Cell structure & organelles,1,diagram-labelling
+2026-MJ,1,1,2,,Cells,Microscopy & magnification,1,calculation
+2026-MJ,1,1,3,,Characteristics & classification,Classification & keys,1,recall
+2026-MJ,1,1,4,,Characteristics & classification,Classification & keys,1,data-interpretation
+2026-MJ,1,1,5,,Characteristics & classification,Classification & keys,1,data-interpretation
+2026-MJ,1,1,6,,Movement into & out of cells,Diffusion,1,recall
+2026-MJ,1,1,7,,Movement into & out of cells,Active transport,1,data-interpretation
+2026-MJ,1,1,8,,Cells,Specialised cells & levels of organisation,1,recall
+2026-MJ,1,1,9,,Biological molecules,Food tests,1,recall
+2026-MJ,1,1,10,,Plant nutrition,Limiting factors & rate investigations,1,data-interpretation
+2026-MJ,1,1,11,,Plant nutrition,Mineral ions,1,recall
+2026-MJ,1,1,12,,Plant nutrition,Leaf structure,1,diagram-labelling
+2026-MJ,1,1,13,,Transport in plants,Xylem & phloem structure,1,calculation
+2026-MJ,1,1,14,,Transport in plants,Transpiration & factors,1,data-interpretation
+2026-MJ,1,1,15,,Enzymes,Enzyme action & specificity,1,recall
+2026-MJ,1,1,16,,Human nutrition,Absorption & villi,1,recall
+2026-MJ,1,1,17,,Respiration,Anaerobic respiration (yeast/muscle),1,recall
+2026-MJ,1,1,18,,Transport in humans,Heart structure & function,1,diagram-labelling
+2026-MJ,1,1,19,,Transport in humans,Blood vessels,1,data-interpretation
+2026-MJ,1,1,20,,Transport in humans,Circulatory system & double circulation,1,diagram-labelling
+2026-MJ,1,1,21,,Disease & immunity,Specific diseases (cholera etc.),1,recall
+2026-MJ,1,1,22,,Drugs,"Misused drugs (alcohol, heroin, nicotine, steroids)",1,data-interpretation
+2026-MJ,1,1,23,,Drugs,Medicinal drugs & antibiotics,1,recall
+2026-MJ,1,1,24,,Disease & immunity,"Antibodies, immunity & vaccination",1,calculation
+2026-MJ,1,1,25,,Disease & immunity,"Antibodies, immunity & vaccination",1,recall
+2026-MJ,1,1,26,,Coordination & response,Eye & sense organs,1,recall
+2026-MJ,1,1,27,,Coordination & response,Tropisms & plant hormones,1,explain
+2026-MJ,1,1,28,,Coordination & response,Nervous system & reflex arc,1,diagram-labelling
+2026-MJ,1,1,29,,Coordination & response,Synapses,1,diagram-labelling
+2026-MJ,1,1,30,,Coordination & response,Hormones,1,recall
+2026-MJ,1,1,31,,Coordination & response,Homeostasis: temperature & skin,1,recall
+2026-MJ,1,1,32,,Reproduction,Menstrual cycle & hormones,1,recall
+2026-MJ,1,1,33,,Coordination & response,Tropisms & plant hormones,1,recall
+2026-MJ,1,1,34,,Inheritance,Mitosis & meiosis,1,recall
+2026-MJ,1,1,35,,Reproduction,Asexual vs sexual,1,calculation
+2026-MJ,1,1,36,,Variation & selection,Continuous & discontinuous variation,1,recall
+2026-MJ,1,1,37,,Inheritance,"Chromosomes, genes & DNA",1,recall
+2026-MJ,1,1,38,,Human influences on ecosystems,Conservation & sustainability,1,recall
+2026-MJ,1,1,39,,Human influences on ecosystems,Habitat destruction & deforestation,1,recall
+2026-MJ,1,1,40,,Biotechnology & genetic modification,Genetic modification,1,data-interpretation
+2026-MJ,2,1,1,a,Reproduction,"Fertilisation, seeds & germination",4,recall
+2026-MJ,2,1,1,b,Reproduction,"Fertilisation, seeds & germination",2,explain
+2026-MJ,2,1,2,a,Gas exchange,Gas exchange surfaces & alveoli,1,diagram-labelling
+2026-MJ,2,1,2,b(i),Gas exchange,Breathing mechanism,3,recall
+2026-MJ,2,1,2,b(ii),Gas exchange,Breathing mechanism,2,explain
+2026-MJ,2,1,2,c(i),Disease & immunity,Body defences,2,explain
+2026-MJ,2,1,2,c(ii),Gas exchange,Smoking & lungs,3,recall
+2026-MJ,2,1,3,a,Biological molecules,"Structure of carbohydrates, proteins & fats",4,recall
+2026-MJ,2,1,3,b,Coordination & response,Homeostasis: blood glucose,2,recall
+2026-MJ,2,1,3,c,Enzymes,Enzyme action & specificity,3,explain
+2026-MJ,2,1,4,a(i),Organisms & environment,Food chains & webs,1,data-interpretation
+2026-MJ,2,1,4,a(ii),Organisms & environment,Food chains & webs,1,data-interpretation
+2026-MJ,2,1,4,a(iii),Organisms & environment,Food chains & webs,2,prediction/hypothesis
+2026-MJ,2,1,4,b(i),Inheritance,Monohybrid crosses & pedigrees,3,genetic-cross
+2026-MJ,2,1,4,b(ii),Variation & selection,Natural selection & resistance,4,explain
+2026-MJ,2,1,5,a,Transport in humans,Coronary heart disease & exercise,3,explain
+2026-MJ,2,1,5,b(i),Transport in humans,Coronary heart disease & exercise,1,recall
+2026-MJ,2,1,5,b(ii),Transport in humans,Coronary heart disease & exercise,1,explain
+2026-MJ,2,1,5,b(iii),Transport in humans,Coronary heart disease & exercise,2,data-interpretation
+2026-MJ,2,1,6,a(i),Disease & immunity,Pathogens & transmission,1,diagram-labelling
+2026-MJ,2,1,6,a(ii),Disease & immunity,Pathogens & transmission,2,explain
+2026-MJ,2,1,6,b,Disease & immunity,Body defences,2,explain
+2026-MJ,2,1,6,c(i),Disease & immunity,"Antibodies, immunity & vaccination",2,explain
+2026-MJ,2,1,6,c(ii),Disease & immunity,Pathogens & transmission,3,calculation
+2026-MJ,2,1,7,a,Excretion,Kidney & nephron,3,recall
+2026-MJ,2,1,7,b(i),Excretion,Kidney & nephron,1,diagram-labelling
+2026-MJ,2,1,7,b(ii),Excretion,Kidney & nephron,2,explain
+2026-MJ,2,1,7,b(iii),Excretion,Kidney & nephron,2,data-interpretation
+2026-MJ,2,1,8,a,Respiration,Aerobic respiration,2,recall
+2026-MJ,2,1,8,b(i),Respiration,Aerobic respiration,1,data-interpretation
+2026-MJ,2,1,8,b(ii),Respiration,Aerobic respiration,2,recall
+2026-MJ,2,1,8,b(iii),Respiration,Aerobic respiration,3,calculation
+2026-MJ,2,1,9,a,Characteristics & classification,Classification & keys,3,recall
+2026-MJ,2,1,9,b,Human influences on ecosystems,Air pollution & climate change,7,evaluation/improvement
+2026-MJ,3,1,1,a(i),Biological molecules,Food tests,4,table-construction
+2026-MJ,3,1,1,a(ii),Biological molecules,Food tests,1,food-test/chemical-test
+2026-MJ,3,1,1,a(iii),Biological molecules,Food tests,2,data-interpretation
+2026-MJ,3,1,1,b(i),Biological molecules,Food tests,1,evaluation/improvement
+2026-MJ,3,1,1,b(ii),Biological molecules,Food tests,1,planning/method
+2026-MJ,3,1,1,c(i),Biological molecules,Food tests,4,graph-plotting
+2026-MJ,3,1,1,c(ii),Biological molecules,Food tests,2,data-interpretation
+2026-MJ,3,1,1,c(iii),Biological molecules,Food tests,2,evaluation/improvement
+2026-MJ,3,1,1,c(iv),Human nutrition,Balanced diet & deficiencies,1,data-interpretation
+2026-MJ,3,1,1,d(i),Biological molecules,Food tests,6,planning/method
+2026-MJ,3,1,1,d(ii),Practical skills (generic),"Variables, controls & planning",1,planning/method
+2026-MJ,3,1,2,a(i),Cells,Cell structure & organelles,1,diagram-labelling
+2026-MJ,3,1,2,a(ii),Cells,Cell structure & organelles,5,biological-drawing
+2026-MJ,3,1,2,b(i),Cells,Microscopy & magnification,1,biological-drawing
+2026-MJ,3,1,2,b(ii),Cells,Microscopy & magnification,2,calculation
+2026-MJ,3,1,2,b(iii),Cells,Microscopy & magnification,3,calculation
+2026-MJ,3,1,2,c,Cells,Cell structure & organelles,3,data-interpretation
+2026-MJ,4,1,1,a,Biological molecules,Food tests,4,food-test/chemical-test
+2026-MJ,4,1,1,b,Practical skills (generic),"Apparatus, measurement & safety",1,planning/method
+2026-MJ,4,1,1,c(i),Enzymes,Enzyme investigations,3,prediction/hypothesis
+2026-MJ,4,1,1,c(ii),Enzymes,Enzyme investigations,1,planning/method
+2026-MJ,4,1,1,d,Enzymes,Enzyme investigations,3,prediction/hypothesis
+2026-MJ,4,1,1,e,Biological molecules,Food tests,1,evaluation/improvement
+2026-MJ,4,1,1,f(i),Enzymes,Effect of temperature,6,planning/method
+2026-MJ,4,1,1,f(ii),Practical skills (generic),"Variables, controls & planning",1,planning/method
+2026-MJ,4,1,1,g(i),Practical skills (generic),Graphs & tables,3,table-construction
+2026-MJ,4,1,1,g(ii),Practical skills (generic),Graphs & tables,4,graph-plotting
+2026-MJ,4,1,2,a(i),Excretion,Kidney & nephron,1,diagram-labelling
+2026-MJ,4,1,2,a(ii),Excretion,Kidney & nephron,1,diagram-labelling
+2026-MJ,4,1,2,a(iii),Excretion,Kidney & nephron,5,biological-drawing
+2026-MJ,4,1,2,b(i),Cells,Microscopy & magnification,1,biological-drawing
+2026-MJ,4,1,2,b(ii),Cells,Microscopy & magnification,2,calculation
+2026-MJ,4,1,2,b(iii),Cells,Microscopy & magnification,3,calculation
+2026-MJ,2,2,1,a(i),Characteristics & classification,Classification & keys,1,recall
+2026-MJ,2,2,1,a(ii),Characteristics & classification,Classification & keys,2,recall
+2026-MJ,2,2,1,b,Characteristics & classification,Classification & keys,1,recall
+2026-MJ,2,2,2,a(i),Cells,Cell structure & organelles,3,diagram-labelling
+2026-MJ,2,2,2,a(ii),Cells,Cell structure & organelles,2,recall
+2026-MJ,2,2,2,b,Cells,Microscopy & magnification,3,calculation
+2026-MJ,2,2,3,a,Plant nutrition,Leaf structure,2,diagram-labelling
+2026-MJ,2,2,3,b,Plant nutrition,Leaf structure,2,explain
+2026-MJ,2,2,3,c,Transport in plants,Transpiration & factors,3,explain
+2026-MJ,2,2,3,d(i),Human nutrition,Balanced diet & deficiencies,1,recall
+2026-MJ,2,2,3,d(ii),Human nutrition,Balanced diet & deficiencies,1,recall
+2026-MJ,2,2,4,a(i),Human nutrition,Absorption & villi,1,recall
+2026-MJ,2,2,4,a(ii),Human nutrition,Absorption & villi,1,recall
+2026-MJ,2,2,4,a(iii),Human nutrition,Assimilation & liver,1,recall
+2026-MJ,2,2,4,b,Human nutrition,Absorption & villi,3,explain
+2026-MJ,2,2,4,c(i),Disease & immunity,Specific diseases (cholera etc.),1,recall
+2026-MJ,2,2,4,c(ii),Disease & immunity,Pathogens & transmission,2,recall
+2026-MJ,2,2,4,c(iii),Disease & immunity,Specific diseases (cholera etc.),3,explain
+2026-MJ,2,2,5,a(i),Organisms & environment,Energy flow & pyramids,2,diagram-labelling
+2026-MJ,2,2,5,a(ii),Organisms & environment,Food chains & webs,1,recall
+2026-MJ,2,2,5,a(iii),Organisms & environment,Energy flow & pyramids,1,recall
+2026-MJ,2,2,5,a(iv),Organisms & environment,Energy flow & pyramids,2,explain
+2026-MJ,2,2,5,b(i),Organisms & environment,Carbon cycle,2,recall
+2026-MJ,2,2,5,b(ii),Organisms & environment,Carbon cycle,2,recall
+2026-MJ,2,2,6,a,Coordination & response,Homeostasis: temperature & skin,2,diagram-labelling
+2026-MJ,2,2,6,b(i),Coordination & response,Homeostasis: temperature & skin,1,recall
+2026-MJ,2,2,6,b(ii),Coordination & response,Homeostasis: temperature & skin,3,explain
+2026-MJ,2,2,6,c,Coordination & response,Homeostasis: temperature & skin,2,explain
+2026-MJ,2,2,7,a,Variation & selection,Mutation,4,explain
+2026-MJ,2,2,7,b,Inheritance,"Chromosomes, genes & DNA",1,recall
+2026-MJ,2,2,7,c(i),Inheritance,Monohybrid crosses & pedigrees,3,genetic-cross
+2026-MJ,2,2,7,c(ii),Inheritance,Monohybrid crosses & pedigrees,2,explain
+2026-MJ,2,2,8,a(i),Biotechnology & genetic modification,Genetic modification,1,diagram-labelling
+2026-MJ,2,2,8,a(ii),Biotechnology & genetic modification,Genetic modification,3,recall
+2026-MJ,2,2,8,b(i),Biotechnology & genetic modification,Genetic modification,2,explain
+2026-MJ,2,2,8,b(ii),Biotechnology & genetic modification,Genetic modification,2,evaluation/improvement
+2026-MJ,2,2,9,a,Coordination & response,Nervous system & reflex arc,2,recall
+2026-MJ,2,2,9,b,Coordination & response,Nervous system & reflex arc,6,explain
+2026-MJ,2,2,9,c,Coordination & response,Synapses,3,explain

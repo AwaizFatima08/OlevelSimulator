@@ -1,0 +1,1014 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,2,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-MJ,2,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2022-MJ,2,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2022-MJ,2,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2022-MJ,2,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2022-MJ,2,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-MJ,2,2,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-MJ,2,2,8,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-MJ,2,2,9,-,"Motion, forces & energy",Momentum & impulse,1
+2022-MJ,2,2,10,-,"Motion, forces & energy",Momentum & impulse,1
+2022-MJ,2,2,11,-,"Motion, forces & energy","Energy, work & power",1
+2022-MJ,2,2,12,-,"Motion, forces & energy","Energy, work & power",1
+2022-MJ,2,2,13,-,"Motion, forces & energy",Pressure,1
+2022-MJ,2,2,14,-,Thermal physics,Kinetic particle model & gases,1
+2022-MJ,2,2,15,-,Thermal physics,Kinetic particle model & gases,1
+2022-MJ,2,2,16,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,2,2,17,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,2,2,18,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,2,2,19,-,Thermal physics,Thermal energy transfer,1
+2022-MJ,2,2,20,-,Thermal physics,Thermal energy transfer,1
+2022-MJ,2,2,21,-,Waves,General wave properties,1
+2022-MJ,2,2,22,-,Waves,General wave properties,1
+2022-MJ,2,2,23,-,Waves,Light: reflection & refraction,1
+2022-MJ,2,2,24,-,Waves,Lenses & dispersion,1
+2022-MJ,2,2,25,-,Waves,Light: reflection & refraction,1
+2022-MJ,2,2,26,-,Waves,Electromagnetic spectrum,1
+2022-MJ,2,2,27,-,Waves,Electromagnetic spectrum,1
+2022-MJ,2,2,28,-,Electricity & magnetism,Magnetism,1
+2022-MJ,2,2,29,-,Electricity & magnetism,Electric charge & static,1
+2022-MJ,2,2,30,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,2,2,31,-,Electricity & magnetism,Electrical energy & power,1
+2022-MJ,2,2,32,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,2,2,33,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,2,2,34,-,Electricity & magnetism,"Digital electronics (logic gates, 2022 only)",1
+2022-MJ,2,2,35,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,2,2,36,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,2,2,37,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,2,2,38,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-MJ,2,2,39,-,Nuclear physics,Radioactivity,1
+2022-MJ,2,2,40,-,Nuclear physics,Radioactivity,1
+2022-MJ,4,2,1,(a)(i),"Motion, forces & energy","Energy, work & power",3
+2022-MJ,4,2,1,(a)(ii),"Motion, forces & energy","Energy, work & power",1
+2022-MJ,4,2,1,(b),"Motion, forces & energy","Energy, work & power",2
+2022-MJ,4,2,1,(c),"Motion, forces & energy",Energy resources,2
+2022-MJ,4,2,2,(a),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2022-MJ,4,2,2,(b),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),3
+2022-MJ,4,2,2,(c)(i),"Motion, forces & energy",Motion (kinematics),2
+2022-MJ,4,2,2,(c)(ii),"Motion, forces & energy",Motion (kinematics),2
+2022-MJ,4,2,3,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),4
+2022-MJ,4,2,3,(b),"Motion, forces & energy","Energy, work & power",2
+2022-MJ,4,2,4,(a),Thermal physics,Thermal properties & temperature,4
+2022-MJ,4,2,4,(b),Thermal physics,Thermal properties & temperature,2
+2022-MJ,4,2,4,(c),Thermal physics,Thermal properties & temperature,3
+2022-MJ,4,2,5,(a)(i),Waves,Sound,2
+2022-MJ,4,2,5,(a)(ii),Waves,General wave properties,3
+2022-MJ,4,2,5,(b),Waves,Electromagnetic spectrum,2
+2022-MJ,4,2,6,(a),Waves,Lenses & dispersion,1
+2022-MJ,4,2,6,(b),Waves,Lenses & dispersion,3
+2022-MJ,4,2,6,(c),Waves,Lenses & dispersion,1
+2022-MJ,4,2,7,(a),Electricity & magnetism,Magnetism,1
+2022-MJ,4,2,7,(b),Electricity & magnetism,Electromagnetic effects,2
+2022-MJ,4,2,7,(c),Electricity & magnetism,Electromagnetic effects,2
+2022-MJ,4,2,8,(a),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,4,2,8,(b)(i),Electricity & magnetism,Circuits & components,1
+2022-MJ,4,2,8,(b)(ii),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2022-MJ,4,2,8,(c),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",2
+2022-MJ,4,2,8,(d),Electricity & magnetism,Electrical energy & power,2
+2022-MJ,4,2,9,(a)(i),Electricity & magnetism,Circuits & components,1
+2022-MJ,4,2,9,(a)(ii),Electricity & magnetism,Circuits & components,2
+2022-MJ,4,2,9,(a)(iii),Electricity & magnetism,Circuits & components,2
+2022-MJ,4,2,9,(b),Electricity & magnetism,Circuits & components,3
+2022-MJ,4,2,10,(a),Electricity & magnetism,"Digital electronics (logic gates, 2022 only)",3
+2022-MJ,4,2,10,(b),Electricity & magnetism,"Digital electronics (logic gates, 2022 only)",1
+2022-MJ,4,2,10,(c),Electricity & magnetism,Electromagnetic effects,3
+2022-MJ,4,2,11,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),3
+2022-MJ,4,2,11,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-MJ,4,2,11,(b),Nuclear physics,Atom & nucleus (incl. fission/fusion),3
+2022-MJ,6,2,1,(a),"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-MJ,6,2,1,(b),Practical skills,Measurement technique & recording,2
+2022-MJ,6,2,1,(c),Practical skills,Graph & data analysis,4
+2022-MJ,6,2,1,(d),Practical skills,Graph & data analysis,2
+2022-MJ,6,2,1,(e),Practical skills,Graph & data analysis,2
+2022-MJ,6,2,2,(a),Electricity & magnetism,Circuits & components,1
+2022-MJ,6,2,2,(b)(i),Practical skills,Measurement technique & recording,1
+2022-MJ,6,2,2,(b)(ii),Practical skills,Measurement technique & recording,1
+2022-MJ,6,2,2,(c),Practical skills,Graph & data analysis,1
+2022-MJ,6,2,2,(d)(i),Electricity & magnetism,Circuits & components,2
+2022-MJ,6,2,2,(d)(ii),Practical skills,Graph & data analysis,1
+2022-MJ,6,2,2,(e),Practical skills,Graph & data analysis,1
+2022-MJ,6,2,2,(f)(i),Practical skills,Experimental planning & evaluation,2
+2022-MJ,6,2,2,(f)(ii),Practical skills,Graph & data analysis,1
+2022-MJ,6,2,3,(a)(i),Practical skills,Measurement technique & recording,2
+2022-MJ,6,2,3,(a)(ii),Practical skills,Graph & data analysis,1
+2022-MJ,6,2,3,(a)(iii),Practical skills,Graph & data analysis,1
+2022-MJ,6,2,3,(b),Practical skills,Graph & data analysis,2
+2022-MJ,6,2,3,(c),Practical skills,Measurement technique & recording,2
+2022-MJ,6,2,3,(d)(i),Practical skills,Experimental planning & evaluation,1
+2022-MJ,6,2,3,(d)(ii),Practical skills,Experimental planning & evaluation,2
+2022-MJ,6,2,4,-,Practical skills,Experimental planning & evaluation,7
+2022-ON,2,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-ON,2,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2022-ON,2,2,3,-,"Motion, forces & energy","Mass, weight & density",1
+2022-ON,2,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2022-ON,2,2,5,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-ON,2,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-ON,2,2,7,-,"Motion, forces & energy",Momentum & impulse,1
+2022-ON,2,2,8,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,2,2,9,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,2,2,10,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,2,2,11,-,"Motion, forces & energy",Pressure,1
+2022-ON,2,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2022-ON,2,2,13,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,2,2,14,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,2,2,15,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,2,2,16,-,Waves,Electromagnetic spectrum,1
+2022-ON,2,2,17,-,Waves,Sound,1
+2022-ON,2,2,18,-,Waves,General wave properties,1
+2022-ON,2,2,19,-,Waves,Light: reflection & refraction,1
+2022-ON,2,2,20,-,Waves,Light: reflection & refraction,1
+2022-ON,2,2,21,-,Waves,Light: reflection & refraction,1
+2022-ON,2,2,22,-,Waves,Sound,1
+2022-ON,2,2,23,-,Waves,Light: reflection & refraction,1
+2022-ON,2,2,24,-,Waves,Sound,1
+2022-ON,2,2,25,-,Electricity & magnetism,Magnetism,1
+2022-ON,2,2,26,-,Electricity & magnetism,Circuits & components,1
+2022-ON,2,2,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,2,2,28,-,Electricity & magnetism,Electric charge & static,1
+2022-ON,2,2,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,2,2,30,-,Electricity & magnetism,Circuits & components,1
+2022-ON,2,2,31,-,Electricity & magnetism,Circuits & components,1
+2022-ON,2,2,32,-,Electricity & magnetism,Electrical safety,1
+2022-ON,2,2,33,-,Electricity & magnetism,"Digital electronics (logic gates, 2022 only)",1
+2022-ON,2,2,34,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,2,2,35,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,2,2,36,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,2,2,37,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,2,2,38,-,Nuclear physics,Radioactivity,1
+2022-ON,2,2,39,-,Nuclear physics,Radioactivity,1
+2022-ON,2,2,40,-,Nuclear physics,Radioactivity,1
+2022-ON,4,2,1,(a),"Motion, forces & energy","Mass, weight & density",3
+2022-ON,4,2,1,(b),"Motion, forces & energy","Energy, work & power",3
+2022-ON,4,2,1,(c),"Motion, forces & energy",Pressure,3
+2022-ON,4,2,2,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),3
+2022-ON,4,2,2,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),3
+2022-ON,4,2,3,(a)(i),"Motion, forces & energy",Energy resources,1
+2022-ON,4,2,3,(a)(ii),"Motion, forces & energy",Energy resources,1
+2022-ON,4,2,3,(b)(i),"Motion, forces & energy",Energy resources,2
+2022-ON,4,2,3,(b)(ii),"Motion, forces & energy","Energy, work & power",4
+2022-ON,4,2,4,(a),Thermal physics,Kinetic particle model & gases,3
+2022-ON,4,2,4,(b),Thermal physics,Kinetic particle model & gases,2
+2022-ON,4,2,4,(c),Thermal physics,Kinetic particle model & gases,3
+2022-ON,4,2,5,(a),Thermal physics,Thermal properties & temperature,3
+2022-ON,4,2,5,(b),Thermal physics,Thermal energy transfer,3
+2022-ON,4,2,5,(c),Thermal physics,Thermal energy transfer,3
+2022-ON,4,2,6,(a)(i),Waves,Lenses & dispersion,4
+2022-ON,4,2,6,(a)(ii),Waves,Lenses & dispersion,2
+2022-ON,4,2,6,(b),Waves,Lenses & dispersion,3
+2022-ON,4,2,7,(a),Electricity & magnetism,Magnetism,3
+2022-ON,4,2,7,(b),Electricity & magnetism,Magnetism,1
+2022-ON,4,2,7,(c)(i),Electricity & magnetism,Magnetism,1
+2022-ON,4,2,7,(c)(ii),Electricity & magnetism,Magnetism,1
+2022-ON,4,2,8,(a),Electricity & magnetism,Circuits & components,3
+2022-ON,4,2,8,(b)(i),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2022-ON,4,2,8,(b)(ii),Electricity & magnetism,Electrical energy & power,2
+2022-ON,4,2,9,(a)(i),Electricity & magnetism,Circuits & components,1
+2022-ON,4,2,9,(a)(ii),Electricity & magnetism,"Digital electronics (logic gates, 2022 only)",1
+2022-ON,4,2,9,(b)(i),Electricity & magnetism,"Digital electronics (logic gates, 2022 only)",2
+2022-ON,4,2,9,(b)(ii),Electricity & magnetism,"Digital electronics (logic gates, 2022 only)",1
+2022-ON,4,2,9,(c),Electricity & magnetism,"Digital electronics (logic gates, 2022 only)",4
+2022-ON,4,2,10,(a)(i),Nuclear physics,Radioactivity,2
+2022-ON,4,2,10,(a)(ii),Nuclear physics,Radioactivity,1
+2022-ON,4,2,10,(b),Nuclear physics,Radioactivity,3
+2022-ON,4,2,10,(c),Nuclear physics,Radioactivity,2
+2022-ON,6,2,1,(a),Practical skills,Measurement technique & recording,1
+2022-ON,6,2,1,(b)(i),Practical skills,Measurement technique & recording,2
+2022-ON,6,2,1,(b)(ii),Practical skills,Graph & data analysis,2
+2022-ON,6,2,1,(c),Practical skills,Graph & data analysis,2
+2022-ON,6,2,1,(d),Practical skills,Graph & data analysis,2
+2022-ON,6,2,1,(e),Practical skills,Measurement technique & recording,2
+2022-ON,6,2,2,(a),Waves,Light: reflection & refraction,1
+2022-ON,6,2,2,(b),Practical skills,Measurement technique & recording,1
+2022-ON,6,2,2,(c)(i),Practical skills,Measurement technique & recording,1
+2022-ON,6,2,2,(c)(ii),Practical skills,Measurement technique & recording,1
+2022-ON,6,2,2,(d)(i),Practical skills,Measurement technique & recording,1
+2022-ON,6,2,2,(d)(ii),Practical skills,Measurement technique & recording,1
+2022-ON,6,2,2,(e),Practical skills,Graph & data analysis,1
+2022-ON,6,2,2,(f),Practical skills,Graph & data analysis,1
+2022-ON,6,2,2,(g),Practical skills,Experimental planning & evaluation,2
+2022-ON,6,2,2,(h),Practical skills,Experimental planning & evaluation,1
+2022-ON,6,2,3,(a),Practical skills,Measurement technique & recording,1
+2022-ON,6,2,3,(b),Practical skills,Measurement technique & recording,1
+2022-ON,6,2,3,(c),Practical skills,Graph & data analysis,1
+2022-ON,6,2,3,(d),Practical skills,Graph & data analysis,4
+2022-ON,6,2,3,(e),Practical skills,Graph & data analysis,3
+2022-ON,6,2,3,(f),Practical skills,Graph & data analysis,1
+2022-ON,6,2,4,-,Practical skills,Experimental planning & evaluation,7
+2023-MJ,2,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2023-MJ,2,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,2,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,2,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,2,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,2,2,6,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,2,2,7,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-MJ,2,2,8,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,2,2,9,-,"Motion, forces & energy",Momentum & impulse,1
+2023-MJ,2,2,10,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,2,2,11,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,2,2,12,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,2,2,13,-,"Motion, forces & energy",Pressure,1
+2023-MJ,2,2,14,-,Thermal physics,Kinetic particle model & gases,1
+2023-MJ,2,2,15,-,Thermal physics,Thermal properties & temperature,1
+2023-MJ,2,2,16,-,Thermal physics,Thermal energy transfer,1
+2023-MJ,2,2,17,-,Waves,General wave properties,1
+2023-MJ,2,2,18,-,Waves,Light: reflection & refraction,1
+2023-MJ,2,2,19,-,Waves,Lenses & dispersion,1
+2023-MJ,2,2,20,-,Waves,Lenses & dispersion,1
+2023-MJ,2,2,21,-,Waves,Electromagnetic spectrum,1
+2023-MJ,2,2,22,-,Waves,Sound,1
+2023-MJ,2,2,23,-,Electricity & magnetism,Magnetism,1
+2023-MJ,2,2,24,-,Electricity & magnetism,Electric charge & static,1
+2023-MJ,2,2,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-MJ,2,2,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-MJ,2,2,27,-,Electricity & magnetism,Electrical energy & power,1
+2023-MJ,2,2,28,-,Electricity & magnetism,Circuits & components,1
+2023-MJ,2,2,29,-,Electricity & magnetism,Circuits & components,1
+2023-MJ,2,2,30,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,2,2,31,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,2,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,2,2,33,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,2,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,2,2,35,-,Nuclear physics,Radioactivity,1
+2023-MJ,2,2,36,-,Nuclear physics,Radioactivity,1
+2023-MJ,2,2,37,-,Space physics,Earth & Solar System,1
+2023-MJ,2,2,38,-,Space physics,Earth & Solar System,1
+2023-MJ,2,2,39,-,Space physics,Stars & the Universe,1
+2023-MJ,2,2,40,-,Space physics,Stars & the Universe,1
+2023-MJ,4,2,1,(a)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2023-MJ,4,2,1,(a)(ii),"Motion, forces & energy","Energy, work & power",2
+2023-MJ,4,2,1,(b)(i),"Motion, forces & energy",Motion (kinematics),3
+2023-MJ,4,2,1,(b)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),4
+2023-MJ,4,2,2,(a),"Motion, forces & energy","Energy, work & power",3
+2023-MJ,4,2,2,(b),"Motion, forces & energy",Momentum & impulse,2
+2023-MJ,4,2,2,(c),"Motion, forces & energy",Momentum & impulse,1
+2023-MJ,4,2,3,(a),"Motion, forces & energy",Pressure,3
+2023-MJ,4,2,3,(b),"Motion, forces & energy",Pressure,4
+2023-MJ,4,2,4,(a),Thermal physics,Kinetic particle model & gases,3
+2023-MJ,4,2,4,(b)(i),Thermal physics,Kinetic particle model & gases,1
+2023-MJ,4,2,4,(b)(ii),Thermal physics,Kinetic particle model & gases,2
+2023-MJ,4,2,4,(c),Thermal physics,Kinetic particle model & gases,3
+2023-MJ,4,2,5,(a)(i),"Motion, forces & energy","Mass, weight & density",2
+2023-MJ,4,2,5,(a)(ii),Thermal physics,Thermal properties & temperature,4
+2023-MJ,4,2,5,(a)(iii),Thermal physics,Thermal properties & temperature,1
+2023-MJ,4,2,5,(b),Thermal physics,Thermal energy transfer,1
+2023-MJ,4,2,6,(a),Waves,General wave properties,2
+2023-MJ,4,2,6,(b),Waves,General wave properties,3
+2023-MJ,4,2,7,(a),Waves,Light: reflection & refraction,1
+2023-MJ,4,2,7,(b),Waves,Light: reflection & refraction,3
+2023-MJ,4,2,7,(c),Waves,Light: reflection & refraction,1
+2023-MJ,4,2,7,(d),Waves,Light: reflection & refraction,2
+2023-MJ,4,2,8,(a)(i),Electricity & magnetism,Magnetism,1
+2023-MJ,4,2,8,(a)(ii),Electricity & magnetism,Magnetism,1
+2023-MJ,4,2,8,(b),Electricity & magnetism,Electric charge & static,2
+2023-MJ,4,2,8,(c)(i),Electricity & magnetism,Circuits & components,1
+2023-MJ,4,2,8,(c)(ii),Electricity & magnetism,Circuits & components,1
+2023-MJ,4,2,8,(c)(iii)-1,Electricity & magnetism,Circuits & components,1
+2023-MJ,4,2,8,(c)(iii)-2,Electricity & magnetism,Circuits & components,1
+2023-MJ,4,2,9,(a),Nuclear physics,Radioactivity,3
+2023-MJ,4,2,9,(b),Nuclear physics,Radioactivity,1
+2023-MJ,4,2,9,(c),Nuclear physics,Radioactivity,4
+2023-MJ,4,2,9,(d),Nuclear physics,Radioactivity,2
+2023-MJ,4,2,10,(a),Space physics,Earth & Solar System,2
+2023-MJ,4,2,10,(b),Space physics,Earth & Solar System,1
+2023-MJ,4,2,10,(c),Space physics,Stars & the Universe,4
+2023-MJ,4,2,10,(d),Space physics,Stars & the Universe,2
+2023-MJ,5,2,1,(a)(i),Practical skills,Measurement technique & recording,1
+2023-MJ,5,2,1,(a)(ii),Practical skills,Measurement technique & recording,1
+2023-MJ,5,2,1,(b),Practical skills,Measurement technique & recording,3
+2023-MJ,5,2,1,(c),Practical skills,Graph & data analysis,4
+2023-MJ,5,2,1,(d),Practical skills,Graph & data analysis,2
+2023-MJ,5,2,2,(a),Practical skills,Measurement technique & recording,1
+2023-MJ,5,2,2,(b)(i),Practical skills,Measurement technique & recording,2
+2023-MJ,5,2,2,(b)(ii),Practical skills,Measurement technique & recording,1
+2023-MJ,5,2,2,(c)(i),Practical skills,Graph & data analysis,1
+2023-MJ,5,2,2,(c)(ii),Practical skills,Graph & data analysis,2
+2023-MJ,5,2,2,(d),Thermal physics,Thermal energy transfer,2
+2023-MJ,5,2,2,(e),Practical skills,Measurement technique & recording,2
+2023-MJ,5,2,3,(a),Waves,Light: reflection & refraction,1
+2023-MJ,5,2,3,(b),Practical skills,Measurement technique & recording,3
+2023-MJ,5,2,3,(c),Practical skills,Measurement technique & recording,2
+2023-MJ,5,2,3,(d),Practical skills,Measurement technique & recording,1
+2023-MJ,5,2,3,(e),Practical skills,Measurement technique & recording,2
+2023-MJ,5,2,3,(f),Practical skills,Measurement technique & recording,2
+2023-MJ,5,2,4,-,Practical skills,Experimental planning & evaluation,7
+2023-MJ,6,2,1,(a),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,1,(b)(i),Practical skills,Graph & data analysis,2
+2023-MJ,6,2,1,(b)(ii),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,1,(c),Practical skills,Graph & data analysis,4
+2023-MJ,6,2,1,(d),Practical skills,Graph & data analysis,3
+2023-MJ,6,2,2,(a),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,2,(b)(i),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,2,(b)(ii),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,2,(c)(i),Practical skills,Graph & data analysis,1
+2023-MJ,6,2,2,(c)(ii),Practical skills,Graph & data analysis,2
+2023-MJ,6,2,2,(d),Thermal physics,Thermal energy transfer,2
+2023-MJ,6,2,2,(e),Practical skills,Measurement technique & recording,2
+2023-MJ,6,2,2,(f),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,3,(a)(i),Waves,Light: reflection & refraction,1
+2023-MJ,6,2,3,(a)(ii),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,3,(a)(iii),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,3,(b)(i),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,3,(b)(ii),Practical skills,Measurement technique & recording,2
+2023-MJ,6,2,3,(c),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,3,(d)(i),Practical skills,Measurement technique & recording,1
+2023-MJ,6,2,3,(d)(ii),Practical skills,Graph & data analysis,1
+2023-MJ,6,2,3,(e),Practical skills,Graph & data analysis,2
+2023-MJ,6,2,4,-,Practical skills,Experimental planning & evaluation,7
+2023-ON,2,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2023-ON,2,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2023-ON,2,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2023-ON,2,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2023-ON,2,2,5,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-ON,2,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-ON,2,2,7,-,"Motion, forces & energy",Momentum & impulse,1
+2023-ON,2,2,8,-,"Motion, forces & energy","Energy, work & power",1
+2023-ON,2,2,9,-,"Motion, forces & energy","Energy, work & power",1
+2023-ON,2,2,10,-,"Motion, forces & energy","Energy, work & power",1
+2023-ON,2,2,11,-,"Motion, forces & energy",Pressure,1
+2023-ON,2,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2023-ON,2,2,13,-,Thermal physics,Kinetic particle model & gases,1
+2023-ON,2,2,14,-,Thermal physics,Thermal properties & temperature,1
+2023-ON,2,2,15,-,Thermal physics,Thermal properties & temperature,1
+2023-ON,2,2,16,-,Thermal physics,Thermal energy transfer,1
+2023-ON,2,2,17,-,Waves,General wave properties,1
+2023-ON,2,2,18,-,Waves,General wave properties,1
+2023-ON,2,2,19,-,Waves,Light: reflection & refraction,1
+2023-ON,2,2,20,-,Waves,Light: reflection & refraction,1
+2023-ON,2,2,21,-,Waves,Lenses & dispersion,1
+2023-ON,2,2,22,-,Waves,Electromagnetic spectrum,1
+2023-ON,2,2,23,-,Waves,Sound,1
+2023-ON,2,2,24,-,Electricity & magnetism,Magnetism,1
+2023-ON,2,2,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,2,2,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,2,2,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,2,2,28,-,Electricity & magnetism,Electric charge & static,1
+2023-ON,2,2,29,-,Electricity & magnetism,Circuits & components,1
+2023-ON,2,2,30,-,Electricity & magnetism,Circuits & components,1
+2023-ON,2,2,31,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,2,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,2,2,33,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,2,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,2,2,35,-,Nuclear physics,Radioactivity,1
+2023-ON,2,2,36,-,Nuclear physics,Radioactivity,1
+2023-ON,2,2,37,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,2,2,38,-,Space physics,Earth & Solar System,1
+2023-ON,2,2,39,-,Space physics,Earth & Solar System,1
+2023-ON,2,2,40,-,Space physics,Stars & the Universe,1
+2023-ON,4,2,1,(a)(i),"Motion, forces & energy",Motion (kinematics),2
+2023-ON,4,2,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2023-ON,4,2,1,(b)(i),"Motion, forces & energy",Motion (kinematics),2
+2023-ON,4,2,1,(b)(ii),"Motion, forces & energy",Motion (kinematics),2
+2023-ON,4,2,1,(c),"Motion, forces & energy","Energy, work & power",4
+2023-ON,4,2,1,(d),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2023-ON,4,2,2,(a)(i),Thermal physics,Thermal properties & temperature,1
+2023-ON,4,2,2,(a)(ii),Thermal physics,Thermal properties & temperature,2
+2023-ON,4,2,2,(b)(i),"Motion, forces & energy","Mass, weight & density",1
+2023-ON,4,2,2,(b)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-ON,4,2,2,(c),"Motion, forces & energy",Energy resources,1
+2023-ON,4,2,3,(a)(i),"Motion, forces & energy",Momentum & impulse,1
+2023-ON,4,2,3,(a)(ii),"Motion, forces & energy",Momentum & impulse,3
+2023-ON,4,2,3,(a)(iii),"Motion, forces & energy",Momentum & impulse,2
+2023-ON,4,2,3,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),4
+2023-ON,4,2,4,(a)(i),Thermal physics,Kinetic particle model & gases,3
+2023-ON,4,2,4,(a)(ii),Thermal physics,Kinetic particle model & gases,2
+2023-ON,4,2,4,(b),Thermal physics,Thermal properties & temperature,2
+2023-ON,4,2,4,(c),"Motion, forces & energy",Pressure,2
+2023-ON,4,2,5,(a),Waves,Light: reflection & refraction,1
+2023-ON,4,2,5,(b),Waves,Light: reflection & refraction,2
+2023-ON,4,2,5,(c),Waves,Lenses & dispersion,4
+2023-ON,4,2,6,(a),Electricity & magnetism,Circuits & components,2
+2023-ON,4,2,6,(b),Electricity & magnetism,Circuits & components,1
+2023-ON,4,2,6,(c),Electricity & magnetism,Electrical energy & power,2
+2023-ON,4,2,6,(d),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",2
+2023-ON,4,2,7,(a),Waves,Electromagnetic spectrum,2
+2023-ON,4,2,7,(b),Waves,Electromagnetic spectrum,1
+2023-ON,4,2,7,(c)(i),Waves,Electromagnetic spectrum,3
+2023-ON,4,2,7,(c)(ii),Waves,Electromagnetic spectrum,1
+2023-ON,4,2,8,(a),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2023-ON,4,2,8,(b)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,4,2,8,(b)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2023-ON,4,2,8,(c)(i),"Motion, forces & energy",Energy resources,3
+2023-ON,4,2,8,(c)(ii),"Motion, forces & energy",Energy resources,2
+2023-ON,4,2,9,(a),Space physics,Earth & Solar System,1
+2023-ON,4,2,9,(b),Space physics,Earth & Solar System,1
+2023-ON,4,2,9,(c),Space physics,Earth & Solar System,1
+2023-ON,4,2,9,(d),Space physics,Earth & Solar System,3
+2023-ON,4,2,10,(a),Space physics,Stars & the Universe,1
+2023-ON,4,2,10,(b),Space physics,Stars & the Universe,2
+2023-ON,4,2,10,(c),Space physics,Stars & the Universe,1
+2023-ON,4,2,10,(d),Space physics,Stars & the Universe,1
+2023-ON,6,2,1,(a)(i),Practical skills,Measurement technique & recording,1
+2023-ON,6,2,1,(a)(ii),Practical skills,Graph & data analysis,1
+2023-ON,6,2,1,(a)(iii),Practical skills,Graph & data analysis,1
+2023-ON,6,2,1,(a)(iv),Practical skills,Measurement technique & recording,2
+2023-ON,6,2,1,(b),Practical skills,Graph & data analysis,2
+2023-ON,6,2,1,(c),Practical skills,Experimental planning & evaluation,1
+2023-ON,6,2,1,(d),Practical skills,Measurement technique & recording,2
+2023-ON,6,2,1,(e),Practical skills,Measurement technique & recording,1
+2023-ON,6,2,2,(a)(i),Practical skills,Measurement technique & recording,1
+2023-ON,6,2,2,(a)(ii),Practical skills,Measurement technique & recording,1
+2023-ON,6,2,2,(b)(i),Practical skills,Graph & data analysis,2
+2023-ON,6,2,2,(b)(ii),Practical skills,Measurement technique & recording,1
+2023-ON,6,2,2,(c),Practical skills,Graph & data analysis,4
+2023-ON,6,2,2,(d),Practical skills,Graph & data analysis,2
+2023-ON,6,2,3,(a),Practical skills,Measurement technique & recording,1
+2023-ON,6,2,3,(b)(i),Practical skills,Measurement technique & recording,1
+2023-ON,6,2,3,(b)(ii),Practical skills,Measurement technique & recording,1
+2023-ON,6,2,3,(c)(i),Practical skills,Graph & data analysis,1
+2023-ON,6,2,3,(c)(ii),Practical skills,Graph & data analysis,1
+2023-ON,6,2,3,(c)(iii),Practical skills,Graph & data analysis,1
+2023-ON,6,2,3,(d)(i),Practical skills,Graph & data analysis,2
+2023-ON,6,2,3,(d)(ii),Practical skills,Experimental planning & evaluation,2
+2023-ON,6,2,3,(e),Practical skills,Graph & data analysis,1
+2023-ON,6,2,4,-,Practical skills,Experimental planning & evaluation,7
+2024-MJ,2,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2024-MJ,2,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,2,2,3,-,"Motion, forces & energy","Mass, weight & density",1
+2024-MJ,2,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2024-MJ,2,2,5,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-MJ,2,2,6,-,"Motion, forces & energy",Momentum & impulse,1
+2024-MJ,2,2,7,-,"Motion, forces & energy",Energy resources,1
+2024-MJ,2,2,8,-,"Motion, forces & energy",Pressure,1
+2024-MJ,2,2,9,-,Thermal physics,Kinetic particle model & gases,1
+2024-MJ,2,2,10,-,Thermal physics,Kinetic particle model & gases,1
+2024-MJ,2,2,11,-,Thermal physics,Kinetic particle model & gases,1
+2024-MJ,2,2,12,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,2,2,13,-,"Motion, forces & energy","Energy, work & power",1
+2024-MJ,2,2,14,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,2,2,15,-,Thermal physics,Thermal energy transfer,1
+2024-MJ,2,2,16,-,Thermal physics,Thermal energy transfer,1
+2024-MJ,2,2,17,-,Waves,General wave properties,1
+2024-MJ,2,2,18,-,Waves,General wave properties,1
+2024-MJ,2,2,19,-,Waves,Light: reflection & refraction,1
+2024-MJ,2,2,20,-,Waves,Light: reflection & refraction,1
+2024-MJ,2,2,21,-,Waves,Lenses & dispersion,1
+2024-MJ,2,2,22,-,Waves,Lenses & dispersion,1
+2024-MJ,2,2,23,-,Waves,Electromagnetic spectrum,1
+2024-MJ,2,2,24,-,Waves,Electromagnetic spectrum,1
+2024-MJ,2,2,25,-,Electricity & magnetism,Magnetism,1
+2024-MJ,2,2,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-MJ,2,2,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-MJ,2,2,28,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-MJ,2,2,29,-,Electricity & magnetism,Circuits & components,1
+2024-MJ,2,2,30,-,Electricity & magnetism,Electrical safety,1
+2024-MJ,2,2,31,-,Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,2,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,2,2,33,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,2,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,2,2,35,-,Nuclear physics,Radioactivity,1
+2024-MJ,2,2,36,-,Nuclear physics,Radioactivity,1
+2024-MJ,2,2,37,-,Nuclear physics,Radioactivity,1
+2024-MJ,2,2,38,-,Space physics,Earth & Solar System,1
+2024-MJ,2,2,39,-,Space physics,Stars & the Universe,1
+2024-MJ,2,2,40,-,Space physics,Stars & the Universe,1
+2024-MJ,4,2,1,(a),"Motion, forces & energy","Mass, weight & density",2
+2024-MJ,4,2,1,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),4
+2024-MJ,4,2,1,(c),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2024-MJ,4,2,2,(a),"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,4,2,2,(b)(i),"Motion, forces & energy",Motion (kinematics),2
+2024-MJ,4,2,2,(b)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2024-MJ,4,2,2,(b)(iii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-MJ,4,2,3,(a),"Motion, forces & energy","Energy, work & power",3
+2024-MJ,4,2,3,(b),"Motion, forces & energy","Energy, work & power",3
+2024-MJ,4,2,4,(a),Thermal physics,Thermal properties & temperature,2
+2024-MJ,4,2,4,(b)(i),Thermal physics,Kinetic particle model & gases,1
+2024-MJ,4,2,4,(b)(ii),Thermal physics,Thermal energy transfer,2
+2024-MJ,4,2,4,(c),Thermal physics,Kinetic particle model & gases,3
+2024-MJ,4,2,5,(a),Waves,Light: reflection & refraction,1
+2024-MJ,4,2,5,(b)(i),Waves,Light: reflection & refraction,2
+2024-MJ,4,2,5,(b)(ii),Waves,Light: reflection & refraction,3
+2024-MJ,4,2,5,(c),Waves,Electromagnetic spectrum,2
+2024-MJ,4,2,6,(a)(i),Waves,Sound,2
+2024-MJ,4,2,6,(a)(ii),Waves,Sound,1
+2024-MJ,4,2,6,(a)(iii),Waves,Sound,1
+2024-MJ,4,2,6,(b),Waves,General wave properties,3
+2024-MJ,4,2,6,(c),Waves,Sound,1
+2024-MJ,4,2,7,(a),Electricity & magnetism,Magnetism,4
+2024-MJ,4,2,7,(b)(i),Electricity & magnetism,Electromagnetic effects,3
+2024-MJ,4,2,7,(b)(ii),Electricity & magnetism,Electromagnetic effects,3
+2024-MJ,4,2,8,(a)(i),Electricity & magnetism,Circuits & components,1
+2024-MJ,4,2,8,(a)(ii)-1,Electricity & magnetism,Circuits & components,1
+2024-MJ,4,2,8,(a)(ii)-2,Electricity & magnetism,Circuits & components,2
+2024-MJ,4,2,8,(b),Electricity & magnetism,Circuits & components,3
+2024-MJ,4,2,9,(a)(i),Nuclear physics,Radioactivity,2
+2024-MJ,4,2,9,(a)(ii),Nuclear physics,Radioactivity,2
+2024-MJ,4,2,9,(b),Nuclear physics,Radioactivity,3
+2024-MJ,4,2,10,(a),Space physics,Earth & Solar System,2
+2024-MJ,4,2,10,(b),Space physics,Earth & Solar System,1
+2024-MJ,4,2,10,(c),Space physics,Earth & Solar System,2
+2024-MJ,4,2,10,(d),Space physics,Earth & Solar System,2
+2024-MJ,4,2,11,(a),Space physics,Stars & the Universe,1
+2024-MJ,4,2,11,(b),Space physics,Stars & the Universe,1
+2024-MJ,4,2,11,(c)(i),Space physics,Stars & the Universe,1
+2024-MJ,4,2,11,(c)(ii),Space physics,Stars & the Universe,2
+2024-MJ,6,2,1,(a)(i),Practical skills,Measurement technique & recording,1
+2024-MJ,6,2,1,(a)(ii),Practical skills,Graph & data analysis,1
+2024-MJ,6,2,1,(b),Practical skills,Experimental planning & evaluation,1
+2024-MJ,6,2,1,(c),Practical skills,Graph & data analysis,1
+2024-MJ,6,2,1,(d)(i),Practical skills,Measurement technique & recording,1
+2024-MJ,6,2,1,(d)(ii),Practical skills,Graph & data analysis,1
+2024-MJ,6,2,1,(e)(i),Practical skills,Graph & data analysis,3
+2024-MJ,6,2,1,(e)(ii),Practical skills,Graph & data analysis,1
+2024-MJ,6,2,1,(e)(iii),Practical skills,Graph & data analysis,1
+2024-MJ,6,2,1,(f),Practical skills,Graph & data analysis,2
+2024-MJ,6,2,2,(a),Practical skills,Measurement technique & recording,2
+2024-MJ,6,2,2,(b),Practical skills,Graph & data analysis,2
+2024-MJ,6,2,2,(c),Practical skills,Graph & data analysis,2
+2024-MJ,6,2,2,(d)(i),Electricity & magnetism,Circuits & components,1
+2024-MJ,6,2,2,(d)(ii),Electricity & magnetism,Circuits & components,1
+2024-MJ,6,2,2,(e),Electricity & magnetism,Circuits & components,1
+2024-MJ,6,2,2,(f),Electricity & magnetism,Circuits & components,1
+2024-MJ,6,2,3,(a)(i),Waves,Light: reflection & refraction,1
+2024-MJ,6,2,3,(a)(ii),Practical skills,Measurement technique & recording,1
+2024-MJ,6,2,3,(b),Practical skills,Measurement technique & recording,1
+2024-MJ,6,2,3,(c)(i),Practical skills,Measurement technique & recording,1
+2024-MJ,6,2,3,(c)(ii),Practical skills,Measurement technique & recording,1
+2024-MJ,6,2,3,(c)(iii),Practical skills,Graph & data analysis,1
+2024-MJ,6,2,3,(d),Practical skills,Experimental planning & evaluation,1
+2024-MJ,6,2,3,(e),Practical skills,Experimental planning & evaluation,1
+2024-MJ,6,2,3,(f)(i),Practical skills,Measurement technique & recording,1
+2024-MJ,6,2,3,(f)(ii),Practical skills,Graph & data analysis,1
+2024-MJ,6,2,4,-,Practical skills,Experimental planning & evaluation,7
+2024-ON,2,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2024-ON,2,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2024-ON,2,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2024-ON,2,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2024-ON,2,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2024-ON,2,2,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-ON,2,2,7,-,"Motion, forces & energy",Momentum & impulse,1
+2024-ON,2,2,8,-,"Motion, forces & energy",Energy resources,1
+2024-ON,2,2,9,-,"Motion, forces & energy","Energy, work & power",1
+2024-ON,2,2,10,-,"Motion, forces & energy","Energy, work & power",1
+2024-ON,2,2,11,-,"Motion, forces & energy",Pressure,1
+2024-ON,2,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2024-ON,2,2,13,-,Thermal physics,Kinetic particle model & gases,1
+2024-ON,2,2,14,-,Thermal physics,Kinetic particle model & gases,1
+2024-ON,2,2,15,-,Thermal physics,Thermal properties & temperature,1
+2024-ON,2,2,16,-,Thermal physics,Thermal energy transfer,1
+2024-ON,2,2,17,-,Waves,General wave properties,1
+2024-ON,2,2,18,-,Waves,General wave properties,1
+2024-ON,2,2,19,-,Waves,General wave properties,1
+2024-ON,2,2,20,-,Waves,Light: reflection & refraction,1
+2024-ON,2,2,21,-,Waves,Lenses & dispersion,1
+2024-ON,2,2,22,-,Waves,Electromagnetic spectrum,1
+2024-ON,2,2,23,-,Waves,Sound,1
+2024-ON,2,2,24,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,2,2,25,-,Electricity & magnetism,Electric charge & static,1
+2024-ON,2,2,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-ON,2,2,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-ON,2,2,28,-,Electricity & magnetism,Circuits & components,1
+2024-ON,2,2,29,-,Electricity & magnetism,Circuits & components,1
+2024-ON,2,2,30,-,Electricity & magnetism,Circuits & components,1
+2024-ON,2,2,31,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,2,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,2,2,33,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,2,2,34,-,Nuclear physics,Radioactivity,1
+2024-ON,2,2,35,-,Nuclear physics,Radioactivity,1
+2024-ON,2,2,36,-,Nuclear physics,Radioactivity,1
+2024-ON,2,2,37,-,Nuclear physics,Radioactivity,1
+2024-ON,2,2,38,-,Space physics,Stars & the Universe,1
+2024-ON,2,2,39,-,Space physics,Earth & Solar System,1
+2024-ON,2,2,40,-,Space physics,Stars & the Universe,1
+2024-ON,4,2,1,(a)(i),"Motion, forces & energy","Mass, weight & density",1
+2024-ON,4,2,1,(a)(ii),"Motion, forces & energy","Mass, weight & density",1
+2024-ON,4,2,1,(b)(i),"Motion, forces & energy",Motion (kinematics),2
+2024-ON,4,2,1,(b)(ii),"Motion, forces & energy",Motion (kinematics),2
+2024-ON,4,2,1,(c),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2024-ON,4,2,2,(a),"Motion, forces & energy",Momentum & impulse,1
+2024-ON,4,2,2,(b)(i),"Motion, forces & energy",Momentum & impulse,2
+2024-ON,4,2,2,(b)(ii),"Motion, forces & energy",Momentum & impulse,2
+2024-ON,4,2,3,(a),"Motion, forces & energy",Energy resources,2
+2024-ON,4,2,3,(b)(i),"Motion, forces & energy","Energy, work & power",2
+2024-ON,4,2,3,(b)(ii),"Motion, forces & energy","Energy, work & power",2
+2024-ON,4,2,3,(c),"Motion, forces & energy",Energy resources,1
+2024-ON,4,2,4,(a),Thermal physics,Thermal properties & temperature,2
+2024-ON,4,2,4,(b),Thermal physics,Kinetic particle model & gases,4
+2024-ON,4,2,5,(a),Thermal physics,Thermal energy transfer,2
+2024-ON,4,2,5,(b),Thermal physics,Thermal energy transfer,1
+2024-ON,4,2,5,(c),Thermal physics,Thermal energy transfer,1
+2024-ON,4,2,5,(d),Thermal physics,Thermal energy transfer,2
+2024-ON,4,2,6,(a)(i),Waves,General wave properties,1
+2024-ON,4,2,6,(a)(ii),Waves,General wave properties,2
+2024-ON,4,2,6,(a)(iii),Waves,General wave properties,2
+2024-ON,4,2,6,(b),Waves,Light: reflection & refraction,3
+2024-ON,4,2,7,(a),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",2
+2024-ON,4,2,7,(b),Electricity & magnetism,Circuits & components,1
+2024-ON,4,2,7,(c),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",2
+2024-ON,4,2,7,(d),Electricity & magnetism,Circuits & components,2
+2024-ON,4,2,8,(a),Waves,Sound,1
+2024-ON,4,2,8,(b),Waves,Sound,3
+2024-ON,4,2,8,(c),Waves,Sound,2
+2024-ON,4,2,9,(a),Electricity & magnetism,Electromagnetic effects,2
+2024-ON,4,2,9,(b)(i),Electricity & magnetism,Electromagnetic effects,2
+2024-ON,4,2,9,(b)(ii),Electricity & magnetism,Electromagnetic effects,1
+2024-ON,4,2,9,(c)(i),Electricity & magnetism,Electrical energy & power,2
+2024-ON,4,2,9,(c)(ii),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",2
+2024-ON,4,2,10,(a),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2024-ON,4,2,10,(b)(i),Nuclear physics,Radioactivity,2
+2024-ON,4,2,10,(b)(ii),Nuclear physics,Radioactivity,3
+2024-ON,4,2,10,(c),Nuclear physics,Radioactivity,2
+2024-ON,4,2,11,(a)(i),Space physics,Earth & Solar System,1
+2024-ON,4,2,11,(a)(ii),Space physics,Earth & Solar System,1
+2024-ON,4,2,11,(b),Space physics,Earth & Solar System,3
+2024-ON,4,2,11,(c),Space physics,Earth & Solar System,1
+2024-ON,4,2,11,(d),Space physics,Earth & Solar System,3
+2024-ON,6,2,1,(a),Practical skills,Measurement technique & recording,2
+2024-ON,6,2,1,(b)(i),Practical skills,Measurement technique & recording,1
+2024-ON,6,2,1,(b)(ii),Practical skills,Graph & data analysis,2
+2024-ON,6,2,1,(c)(i),Practical skills,Graph & data analysis,2
+2024-ON,6,2,1,(c)(ii),Practical skills,Graph & data analysis,1
+2024-ON,6,2,1,(d),Practical skills,Graph & data analysis,2
+2024-ON,6,2,1,(e),Practical skills,Experimental planning & evaluation,1
+2024-ON,6,2,2,(a)(i),Electricity & magnetism,Circuits & components,2
+2024-ON,6,2,2,(a)(ii),Practical skills,Measurement technique & recording,1
+2024-ON,6,2,2,(b),Practical skills,Graph & data analysis,1
+2024-ON,6,2,2,(c),Practical skills,Graph & data analysis,2
+2024-ON,6,2,2,(d),Practical skills,Graph & data analysis,1
+2024-ON,6,2,2,(e),Electricity & magnetism,Circuits & components,2
+2024-ON,6,2,2,(f)(i),Electricity & magnetism,Circuits & components,1
+2024-ON,6,2,2,(f)(ii),Practical skills,Experimental planning & evaluation,1
+2024-ON,6,2,3,(a)(i),Practical skills,Measurement technique & recording,1
+2024-ON,6,2,3,(a)(ii),Practical skills,Graph & data analysis,1
+2024-ON,6,2,3,(b)(i),Waves,Lenses & dispersion,1
+2024-ON,6,2,3,(b)(ii),Practical skills,Graph & data analysis,1
+2024-ON,6,2,3,(c),Practical skills,Graph & data analysis,3
+2024-ON,6,2,3,(d),Practical skills,Graph & data analysis,2
+2024-ON,6,2,3,(e),Practical skills,Graph & data analysis,1
+2024-ON,6,2,3,(f),Practical skills,Measurement technique & recording,1
+2024-ON,6,2,4,-,Practical skills,Experimental planning & evaluation,7
+2025-MJ,2,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-MJ,2,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,2,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,2,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2025-MJ,2,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2025-MJ,2,2,6,-,"Motion, forces & energy",Springs & deformation,1
+2025-MJ,2,2,7,-,"Motion, forces & energy",Momentum & impulse,1
+2025-MJ,2,2,8,-,"Motion, forces & energy","Energy, work & power",1
+2025-MJ,2,2,9,-,"Motion, forces & energy",Energy resources,1
+2025-MJ,2,2,10,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,2,2,11,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,2,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,2,2,13,-,Thermal physics,Thermal properties & temperature,1
+2025-MJ,2,2,14,-,Thermal physics,Thermal properties & temperature,1
+2025-MJ,2,2,15,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,2,2,16,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,2,2,17,-,Waves,General wave properties,1
+2025-MJ,2,2,18,-,Waves,General wave properties,1
+2025-MJ,2,2,19,-,Waves,General wave properties,1
+2025-MJ,2,2,20,-,Waves,Light: reflection & refraction,1
+2025-MJ,2,2,21,-,Waves,Light: reflection & refraction,1
+2025-MJ,2,2,22,-,Waves,Lenses & dispersion,1
+2025-MJ,2,2,23,-,Waves,Electromagnetic spectrum,1
+2025-MJ,2,2,24,-,Waves,Sound,1
+2025-MJ,2,2,25,-,Waves,Sound,1
+2025-MJ,2,2,26,-,Electricity & magnetism,Electric charge & static,1
+2025-MJ,2,2,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-MJ,2,2,28,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-MJ,2,2,29,-,Electricity & magnetism,Circuits & components,1
+2025-MJ,2,2,30,-,Electricity & magnetism,Circuits & components,1
+2025-MJ,2,2,31,-,Electricity & magnetism,Circuits & components,1
+2025-MJ,2,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2025-MJ,2,2,33,-,Electricity & magnetism,Electromagnetic effects,1
+2025-MJ,2,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,2,2,35,-,Nuclear physics,Radioactivity,1
+2025-MJ,2,2,36,-,Nuclear physics,Radioactivity,1
+2025-MJ,2,2,37,-,Nuclear physics,Radioactivity,1
+2025-MJ,2,2,38,-,Space physics,Earth & Solar System,1
+2025-MJ,2,2,39,-,Space physics,Stars & the Universe,1
+2025-MJ,2,2,40,-,Space physics,Stars & the Universe,1
+2025-MJ,4,2,1,(a),"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,4,2,1,(b),"Motion, forces & energy",Motion (kinematics),2
+2025-MJ,4,2,1,(c)(i),"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,4,2,1,(c)(ii),"Motion, forces & energy",Motion (kinematics),3
+2025-MJ,4,2,2,(a),"Motion, forces & energy",Turning effect & centre of gravity,1
+2025-MJ,4,2,2,(b),"Motion, forces & energy",Turning effect & centre of gravity,1
+2025-MJ,4,2,2,(c)(i),"Motion, forces & energy","Mass, weight & density",3
+2025-MJ,4,2,2,(c)(ii),"Motion, forces & energy","Mass, weight & density",2
+2025-MJ,4,2,3,(a),"Motion, forces & energy",Momentum & impulse,1
+2025-MJ,4,2,3,(b),"Motion, forces & energy",Momentum & impulse,4
+2025-MJ,4,2,3,(c),"Motion, forces & energy",Momentum & impulse,2
+2025-MJ,4,2,4,(a)(i),Thermal physics,Thermal energy transfer,2
+2025-MJ,4,2,4,(a)(ii),Thermal physics,Thermal energy transfer,1
+2025-MJ,4,2,4,(a)(iii),Thermal physics,Thermal energy transfer,1
+2025-MJ,4,2,4,(b),Thermal physics,Thermal energy transfer,3
+2025-MJ,4,2,5,(a),Waves,Sound,4
+2025-MJ,4,2,5,(b)(i),Waves,Electromagnetic spectrum,1
+2025-MJ,4,2,5,(b)(ii),Waves,Electromagnetic spectrum,1
+2025-MJ,4,2,5,(b)(iii),Waves,Electromagnetic spectrum,3
+2025-MJ,4,2,6,(a)(i),Waves,Lenses & dispersion,1
+2025-MJ,4,2,6,(a)(ii),Waves,Lenses & dispersion,3
+2025-MJ,4,2,6,(a)(iii),Waves,Lenses & dispersion,1
+2025-MJ,4,2,6,(b)(i),Waves,Lenses & dispersion,1
+2025-MJ,4,2,6,(b)(ii),Waves,Lenses & dispersion,1
+2025-MJ,4,2,7,(a),Electricity & magnetism,Electric charge & static,1
+2025-MJ,4,2,7,(b)(i),Electricity & magnetism,Electric charge & static,2
+2025-MJ,4,2,7,(b)(ii),Electricity & magnetism,Electric charge & static,2
+2025-MJ,4,2,7,(c)(i),Electricity & magnetism,Electrical energy & power,1
+2025-MJ,4,2,7,(c)(ii)-1,Electricity & magnetism,Electrical energy & power,2
+2025-MJ,4,2,7,(c)(ii)-2,Electricity & magnetism,Electrical energy & power,2
+2025-MJ,4,2,8,(a)(i),Electricity & magnetism,Electromagnetic effects,2
+2025-MJ,4,2,8,(a)(ii),Electricity & magnetism,Electromagnetic effects,1
+2025-MJ,4,2,8,(a)(iii),Electricity & magnetism,Electromagnetic effects,1
+2025-MJ,4,2,8,(b)(i),Electricity & magnetism,Circuits & components,2
+2025-MJ,4,2,8,(b)(ii),Electricity & magnetism,Circuits & components,1
+2025-MJ,4,2,8,(b)(iii),Electricity & magnetism,Circuits & components,2
+2025-MJ,4,2,9,(a)(i),Nuclear physics,Radioactivity,1
+2025-MJ,4,2,9,(a)(ii),Nuclear physics,Radioactivity,1
+2025-MJ,4,2,9,(b)(i),Nuclear physics,Radioactivity,2
+2025-MJ,4,2,9,(b)(ii),Nuclear physics,Radioactivity,1
+2025-MJ,4,2,9,(c)(i),Nuclear physics,Radioactivity,1
+2025-MJ,4,2,9,(c)(ii),Nuclear physics,Radioactivity,1
+2025-MJ,4,2,10,(a)(i),Space physics,Earth & Solar System,2
+2025-MJ,4,2,10,(a)(ii),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,4,2,10,(a)(iii),Space physics,Earth & Solar System,2
+2025-MJ,4,2,10,(b)(i),Space physics,Stars & the Universe,4
+2025-MJ,4,2,10,(b)(ii),Space physics,Stars & the Universe,1
+2025-MJ,5,2,1,(a)(i),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,1,(a)(ii),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,1,(b)(i),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,1,(b)(ii),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,1,(c),Practical skills,Graph & data analysis,1
+2025-MJ,5,2,1,(d),Practical skills,Graph & data analysis,3
+2025-MJ,5,2,1,(e),Practical skills,Graph & data analysis,1
+2025-MJ,5,2,1,(f)(i),Practical skills,Graph & data analysis,1
+2025-MJ,5,2,1,(f)(ii),Practical skills,Experimental planning & evaluation,1
+2025-MJ,5,2,1,(g),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,2,(a),Electricity & magnetism,Circuits & components,2
+2025-MJ,5,2,2,(b)(i),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,2,(b)(ii),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,2,(c)(i),Practical skills,Graph & data analysis,1
+2025-MJ,5,2,2,(c)(ii),Practical skills,Graph & data analysis,1
+2025-MJ,5,2,2,(d),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,2,(e),Electricity & magnetism,Circuits & components,1
+2025-MJ,5,2,2,(f),Electricity & magnetism,Circuits & components,1
+2025-MJ,5,2,2,(g),Electricity & magnetism,Circuits & components,1
+2025-MJ,5,2,3,(a)(i),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,3,(a)(ii),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,3,(a)(iii),Practical skills,Graph & data analysis,1
+2025-MJ,5,2,3,(b),Practical skills,Graph & data analysis,2
+2025-MJ,5,2,3,(c)(i),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,3,(c)(ii),Practical skills,Graph & data analysis,1
+2025-MJ,5,2,3,(d),Practical skills,Graph & data analysis,2
+2025-MJ,5,2,3,(e)(i),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,3,(e)(ii),Practical skills,Measurement technique & recording,1
+2025-MJ,5,2,4,-,Practical skills,Experimental planning & evaluation,7
+2025-MJ,6,2,1,(a)(i),Practical skills,Measurement technique & recording,1
+2025-MJ,6,2,1,(a)(ii),Practical skills,Measurement technique & recording,1
+2025-MJ,6,2,1,(a)(iii),Practical skills,Graph & data analysis,1
+2025-MJ,6,2,1,(b),Practical skills,Measurement technique & recording,1
+2025-MJ,6,2,1,(c),Practical skills,Graph & data analysis,4
+2025-MJ,6,2,1,(d),Practical skills,Graph & data analysis,1
+2025-MJ,6,2,1,(e)(i),Practical skills,Graph & data analysis,1
+2025-MJ,6,2,1,(e)(ii),Practical skills,Experimental planning & evaluation,1
+2025-MJ,6,2,2,(a),Electricity & magnetism,Circuits & components,1
+2025-MJ,6,2,2,(b)(i),Electricity & magnetism,Circuits & components,1
+2025-MJ,6,2,2,(b)(ii),Practical skills,Measurement technique & recording,1
+2025-MJ,6,2,2,(c),Practical skills,Graph & data analysis,2
+2025-MJ,6,2,2,(d),Practical skills,Graph & data analysis,1
+2025-MJ,6,2,2,(e)(i),Practical skills,Graph & data analysis,1
+2025-MJ,6,2,2,(e)(ii),Electricity & magnetism,Circuits & components,2
+2025-MJ,6,2,2,(f),Electricity & magnetism,Circuits & components,2
+2025-MJ,6,2,3,(a)(i),Practical skills,Measurement technique & recording,1
+2025-MJ,6,2,3,(a)(ii),Practical skills,Graph & data analysis,1
+2025-MJ,6,2,3,(b)(i),Waves,Lenses & dispersion,1
+2025-MJ,6,2,3,(b)(ii),Practical skills,Graph & data analysis,1
+2025-MJ,6,2,3,(c),Practical skills,Graph & data analysis,2
+2025-MJ,6,2,3,(d),Practical skills,Graph & data analysis,1
+2025-MJ,6,2,3,(e),Practical skills,Graph & data analysis,2
+2025-MJ,6,2,3,(f)(i),Practical skills,Measurement technique & recording,1
+2025-MJ,6,2,3,(f)(ii),Practical skills,Measurement technique & recording,1
+2025-MJ,6,2,4,-,Practical skills,Experimental planning & evaluation,7
+2025-ON,2,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-ON,2,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2025-ON,2,2,3,-,"Motion, forces & energy","Mass, weight & density",1
+2025-ON,2,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2025-ON,2,2,5,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2025-ON,2,2,6,-,"Motion, forces & energy",Momentum & impulse,1
+2025-ON,2,2,7,-,"Motion, forces & energy","Energy, work & power",1
+2025-ON,2,2,8,-,"Motion, forces & energy",Energy resources,1
+2025-ON,2,2,9,-,"Motion, forces & energy",Pressure,1
+2025-ON,2,2,10,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,2,2,11,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,2,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,2,2,13,-,Thermal physics,Thermal properties & temperature,1
+2025-ON,2,2,14,-,Thermal physics,Thermal properties & temperature,1
+2025-ON,2,2,15,-,Thermal physics,Thermal energy transfer,1
+2025-ON,2,2,16,-,Thermal physics,Thermal energy transfer,1
+2025-ON,2,2,17,-,Waves,General wave properties,1
+2025-ON,2,2,18,-,Waves,General wave properties,1
+2025-ON,2,2,19,-,Waves,Light: reflection & refraction,1
+2025-ON,2,2,20,-,Waves,Light: reflection & refraction,1
+2025-ON,2,2,21,-,Waves,Lenses & dispersion,1
+2025-ON,2,2,22,-,Waves,Light: reflection & refraction,1
+2025-ON,2,2,23,-,Waves,Sound,1
+2025-ON,2,2,24,-,Electricity & magnetism,Magnetism,1
+2025-ON,2,2,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,2,2,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,2,2,27,-,Electricity & magnetism,Circuits & components,1
+2025-ON,2,2,28,-,Electricity & magnetism,Circuits & components,1
+2025-ON,2,2,29,-,Electricity & magnetism,Electrical safety,1
+2025-ON,2,2,30,-,Electricity & magnetism,Electromagnetic effects,1
+2025-ON,2,2,31,-,Electricity & magnetism,Electromagnetic effects,1
+2025-ON,2,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2025-ON,2,2,33,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-ON,2,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-ON,2,2,35,-,Nuclear physics,Radioactivity,1
+2025-ON,2,2,36,-,Nuclear physics,Radioactivity,1
+2025-ON,2,2,37,-,Nuclear physics,Radioactivity,1
+2025-ON,2,2,38,-,Space physics,Earth & Solar System,1
+2025-ON,2,2,39,-,Space physics,Stars & the Universe,1
+2025-ON,2,2,40,-,Space physics,Stars & the Universe,1
+2025-ON,4,2,1,(a)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-ON,4,2,1,(a)(ii),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2025-ON,4,2,1,(b)(i),"Motion, forces & energy","Energy, work & power",3
+2025-ON,4,2,1,(b)(ii),"Motion, forces & energy",Momentum & impulse,2
+2025-ON,4,2,2,(a)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),3
+2025-ON,4,2,2,(a)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2025-ON,4,2,2,(b)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2025-ON,4,2,2,(b)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2025-ON,4,2,3,(a),Thermal physics,Thermal energy transfer,2
+2025-ON,4,2,3,(b),"Motion, forces & energy","Energy, work & power",3
+2025-ON,4,2,3,(c),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,4,2,3,(d),"Motion, forces & energy",Energy resources,1
+2025-ON,4,2,3,(e),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2025-ON,4,2,4,(a)(i),Thermal physics,Kinetic particle model & gases,3
+2025-ON,4,2,4,(a)(ii),"Motion, forces & energy",Pressure,2
+2025-ON,4,2,4,(a)(iii),"Motion, forces & energy","Energy, work & power",2
+2025-ON,4,2,4,(b),Thermal physics,Kinetic particle model & gases,1
+2025-ON,4,2,5,(a)(i),Thermal physics,Thermal properties & temperature,2
+2025-ON,4,2,5,(a)(ii),Thermal physics,Thermal properties & temperature,2
+2025-ON,4,2,5,(b),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2025-ON,4,2,6,(a)(i),Waves,General wave properties,3
+2025-ON,4,2,6,(a)(ii),Waves,General wave properties,1
+2025-ON,4,2,6,(b)(i),Waves,Light: reflection & refraction,2
+2025-ON,4,2,6,(b)(ii),Waves,Electromagnetic spectrum,2
+2025-ON,4,2,7,(a),Electricity & magnetism,Circuits & components,2
+2025-ON,4,2,7,(b)(i),Electricity & magnetism,Circuits & components,2
+2025-ON,4,2,7,(b)(ii),Electricity & magnetism,Electrical energy & power,3
+2025-ON,4,2,7,(b)(iii),Electricity & magnetism,Circuits & components,2
+2025-ON,4,2,8,(a),Electricity & magnetism,Magnetism,1
+2025-ON,4,2,8,(b)(i),Electricity & magnetism,Electromagnetic effects,1
+2025-ON,4,2,8,(b)(ii),Electricity & magnetism,Electromagnetic effects,3
+2025-ON,4,2,9,(a)(i),Nuclear physics,Radioactivity,1
+2025-ON,4,2,9,(a)(ii),Nuclear physics,Radioactivity,2
+2025-ON,4,2,9,(a)(iii),Nuclear physics,Radioactivity,1
+2025-ON,4,2,9,(b)(i),Nuclear physics,Radioactivity,1
+2025-ON,4,2,9,(b)(ii),Nuclear physics,Radioactivity,4
+2025-ON,4,2,10,(a),Space physics,Earth & Solar System,4
+2025-ON,4,2,10,(b),Space physics,Earth & Solar System,3
+2025-ON,4,2,10,(c),Space physics,Stars & the Universe,3
+2025-ON,6,2,1,(a),Waves,Light: reflection & refraction,1
+2025-ON,6,2,1,(b),Practical skills,Measurement technique & recording,2
+2025-ON,6,2,1,(c)(i),Practical skills,Measurement technique & recording,1
+2025-ON,6,2,1,(c)(ii),Practical skills,Measurement technique & recording,1
+2025-ON,6,2,1,(d),Practical skills,Graph & data analysis,2
+2025-ON,6,2,1,(e),Practical skills,Graph & data analysis,2
+2025-ON,6,2,1,(f),Practical skills,Experimental planning & evaluation,1
+2025-ON,6,2,1,(g),Practical skills,Experimental planning & evaluation,1
+2025-ON,6,2,2,(a),Practical skills,Measurement technique & recording,1
+2025-ON,6,2,2,(b)(i),Practical skills,Graph & data analysis,2
+2025-ON,6,2,2,(b)(ii),Practical skills,Graph & data analysis,1
+2025-ON,6,2,2,(c),Practical skills,Graph & data analysis,4
+2025-ON,6,2,2,(d),Practical skills,Graph & data analysis,2
+2025-ON,6,2,2,(e),Practical skills,Graph & data analysis,1
+2025-ON,6,2,3,(a)(i),Practical skills,Measurement technique & recording,1
+2025-ON,6,2,3,(a)(ii),Practical skills,Measurement technique & recording,1
+2025-ON,6,2,3,(b)(i),Practical skills,Experimental planning & evaluation,1
+2025-ON,6,2,3,(b)(ii),Practical skills,Measurement technique & recording,1
+2025-ON,6,2,3,(c)(i),Practical skills,Graph & data analysis,1
+2025-ON,6,2,3,(c)(ii),Practical skills,Graph & data analysis,2
+2025-ON,6,2,3,(c)(iii),Practical skills,Graph & data analysis,1
+2025-ON,6,2,3,(d),Practical skills,Graph & data analysis,1
+2025-ON,6,2,3,(e)(i),Practical skills,Graph & data analysis,1
+2025-ON,6,2,3,(e)(ii),Practical skills,Graph & data analysis,1
+2025-ON,6,2,4,-,Practical skills,Experimental planning & evaluation,7
+2026-MJ,2,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2026-MJ,2,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,2,2,3,-,"Motion, forces & energy","Mass, weight & density",1
+2026-MJ,2,2,4,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2026-MJ,2,2,5,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2026-MJ,2,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2026-MJ,2,2,7,-,"Motion, forces & energy","Energy, work & power",1
+2026-MJ,2,2,8,-,"Motion, forces & energy",Energy resources,1
+2026-MJ,2,2,9,-,"Motion, forces & energy",Pressure,1
+2026-MJ,2,2,10,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,2,2,11,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,2,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,2,2,13,-,Thermal physics,Thermal properties & temperature,1
+2026-MJ,2,2,14,-,Thermal physics,Thermal properties & temperature,1
+2026-MJ,2,2,15,-,Thermal physics,Thermal energy transfer,1
+2026-MJ,2,2,16,-,Thermal physics,Thermal energy transfer,1
+2026-MJ,2,2,17,-,Waves,General wave properties,1
+2026-MJ,2,2,18,-,Waves,Light: reflection & refraction,1
+2026-MJ,2,2,19,-,Waves,Light: reflection & refraction,1
+2026-MJ,2,2,20,-,Waves,Light: reflection & refraction,1
+2026-MJ,2,2,21,-,Waves,Lenses & dispersion,1
+2026-MJ,2,2,22,-,Waves,Electromagnetic spectrum,1
+2026-MJ,2,2,23,-,Waves,Sound,1
+2026-MJ,2,2,24,-,Waves,Sound,1
+2026-MJ,2,2,25,-,Electricity & magnetism,Magnetism,1
+2026-MJ,2,2,26,-,Electricity & magnetism,Magnetism,1
+2026-MJ,2,2,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2026-MJ,2,2,28,-,Electricity & magnetism,Electrical energy & power,1
+2026-MJ,2,2,29,-,Electricity & magnetism,Circuits & components,1
+2026-MJ,2,2,30,-,Electricity & magnetism,Electrical safety,1
+2026-MJ,2,2,31,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,2,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,2,2,33,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,2,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,2,2,35,-,Nuclear physics,Radioactivity,1
+2026-MJ,2,2,36,-,Nuclear physics,Radioactivity,1
+2026-MJ,2,2,37,-,Nuclear physics,Radioactivity,1
+2026-MJ,2,2,38,-,Nuclear physics,Radioactivity,1
+2026-MJ,2,2,39,-,Space physics,Earth & Solar System,1
+2026-MJ,2,2,40,-,Space physics,Stars & the Universe,1
+2026-MJ,4,2,1,(a)(i),"Motion, forces & energy",Motion (kinematics),3
+2026-MJ,4,2,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),2
+2026-MJ,4,2,1,(b)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2026-MJ,4,2,1,(b)(ii),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2026-MJ,4,2,2,(a)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2026-MJ,4,2,2,(a)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),3
+2026-MJ,4,2,2,(b)(i),Thermal physics,Kinetic particle model & gases,3
+2026-MJ,4,2,2,(b)(ii),Thermal physics,Kinetic particle model & gases,1
+2026-MJ,4,2,3,(a)(i),"Motion, forces & energy","Mass, weight & density",2
+2026-MJ,4,2,3,(a)(ii),Thermal physics,Thermal properties & temperature,2
+2026-MJ,4,2,3,(a)(iii),"Motion, forces & energy","Energy, work & power",2
+2026-MJ,4,2,3,(b),Thermal physics,Thermal properties & temperature,1
+2026-MJ,4,2,4,(a),"Motion, forces & energy",Momentum & impulse,1
+2026-MJ,4,2,4,(b)(i),"Motion, forces & energy",Momentum & impulse,2
+2026-MJ,4,2,4,(b)(ii),"Motion, forces & energy",Momentum & impulse,3
+2026-MJ,4,2,4,(b)(iii),"Motion, forces & energy",Pressure,2
+2026-MJ,4,2,5,(a),Thermal physics,Thermal properties & temperature,3
+2026-MJ,4,2,5,(b),Thermal physics,Thermal properties & temperature,2
+2026-MJ,4,2,6,(a),Waves,Lenses & dispersion,2
+2026-MJ,4,2,6,(b),Waves,Lenses & dispersion,3
+2026-MJ,4,2,6,(c),Waves,Electromagnetic spectrum,1
+2026-MJ,4,2,7,(a)(i),Electricity & magnetism,Electromagnetic effects,3
+2026-MJ,4,2,7,(a)(ii),Waves,General wave properties,2
+2026-MJ,4,2,7,(b),Waves,Sound,1
+2026-MJ,4,2,8,(a)(i),Electricity & magnetism,Electric charge & static,2
+2026-MJ,4,2,8,(a)(ii),Electricity & magnetism,Electric charge & static,2
+2026-MJ,4,2,8,(b)(i),Electricity & magnetism,Circuits & components,1
+2026-MJ,4,2,8,(b)(ii),Electricity & magnetism,Circuits & components,3
+2026-MJ,4,2,8,(b)(iii),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",2
+2026-MJ,4,2,9,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,4,2,9,(a)(ii),Nuclear physics,Radioactivity,3
+2026-MJ,4,2,9,(b),Nuclear physics,Radioactivity,1
+2026-MJ,4,2,9,(c),Nuclear physics,Radioactivity,1
+2026-MJ,4,2,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),3
+2026-MJ,4,2,10,(a)(ii),"Motion, forces & energy",Energy resources,2
+2026-MJ,4,2,10,(a)(iii),"Motion, forces & energy",Energy resources,2
+2026-MJ,4,2,10,(b),"Motion, forces & energy",Energy resources,1
+2026-MJ,4,2,11,(a),Space physics,Earth & Solar System,2
+2026-MJ,4,2,11,(b),Space physics,Earth & Solar System,3
+2026-MJ,4,2,11,(c)(i),Space physics,Stars & the Universe,1
+2026-MJ,4,2,11,(c)(ii),Space physics,Stars & the Universe,2
+2026-MJ,5,2,1,(a)(i),Practical skills,Measurement technique & recording,2
+2026-MJ,5,2,1,(a)(ii),Practical skills,Graph & data analysis,1
+2026-MJ,5,2,1,(b)(i),Practical skills,Measurement technique & recording,1
+2026-MJ,5,2,1,(b)(ii),Practical skills,Graph & data analysis,1
+2026-MJ,5,2,1,(c)(i),Practical skills,Measurement technique & recording,1
+2026-MJ,5,2,1,(c)(ii),Practical skills,Graph & data analysis,1
+2026-MJ,5,2,1,(d),Practical skills,Graph & data analysis,1
+2026-MJ,5,2,1,(e),Practical skills,Graph & data analysis,2
+2026-MJ,5,2,1,(f),Practical skills,Measurement technique & recording,1
+2026-MJ,5,2,2,(a)(i),Practical skills,Measurement technique & recording,1
+2026-MJ,5,2,2,(a)(ii),Practical skills,Measurement technique & recording,2
+2026-MJ,5,2,2,(b)(i),Practical skills,Graph & data analysis,1
+2026-MJ,5,2,2,(b)(ii),Practical skills,Graph & data analysis,3
+2026-MJ,5,2,2,(c),Practical skills,Graph & data analysis,2
+2026-MJ,5,2,2,(d)(i),Practical skills,Experimental planning & evaluation,1
+2026-MJ,5,2,2,(d)(ii),Thermal physics,Thermal energy transfer,1
+2026-MJ,5,2,3,(a),Practical skills,Measurement technique & recording,1
+2026-MJ,5,2,3,(b),Practical skills,Measurement technique & recording,2
+2026-MJ,5,2,3,(c),Practical skills,Graph & data analysis,2
+2026-MJ,5,2,3,(d),Practical skills,Graph & data analysis,3
+2026-MJ,5,2,3,(e),Practical skills,Graph & data analysis,1
+2026-MJ,5,2,3,(f),Practical skills,Graph & data analysis,1
+2026-MJ,5,2,3,(g),Practical skills,Graph & data analysis,1
+2026-MJ,5,2,4,-,Practical skills,Experimental planning & evaluation,7
+2026-MJ,6,2,1,(a)(i),Practical skills,Measurement technique & recording,2
+2026-MJ,6,2,1,(a)(ii),Practical skills,Graph & data analysis,1
+2026-MJ,6,2,1,(b)(i),Practical skills,Measurement technique & recording,1
+2026-MJ,6,2,1,(b)(ii),Practical skills,Graph & data analysis,1
+2026-MJ,6,2,1,(c),Practical skills,Measurement technique & recording,1
+2026-MJ,6,2,1,(d),Practical skills,Graph & data analysis,1
+2026-MJ,6,2,1,(e),Practical skills,Graph & data analysis,1
+2026-MJ,6,2,1,(f),Practical skills,Graph & data analysis,2
+2026-MJ,6,2,1,(g),Practical skills,Measurement technique & recording,1
+2026-MJ,6,2,2,(a)(i),Practical skills,Measurement technique & recording,1
+2026-MJ,6,2,2,(a)(ii),Practical skills,Measurement technique & recording,2
+2026-MJ,6,2,2,(b)(i),Practical skills,Graph & data analysis,1
+2026-MJ,6,2,2,(b)(ii),Practical skills,Graph & data analysis,3
+2026-MJ,6,2,2,(c),Practical skills,Graph & data analysis,2
+2026-MJ,6,2,2,(d)(i),Practical skills,Experimental planning & evaluation,1
+2026-MJ,6,2,2,(d)(ii),Thermal physics,Thermal energy transfer,1
+2026-MJ,6,2,3,(a)(i),Electricity & magnetism,Circuits & components,1
+2026-MJ,6,2,3,(a)(ii),Practical skills,Measurement technique & recording,1
+2026-MJ,6,2,3,(b),Practical skills,Graph & data analysis,2
+2026-MJ,6,2,3,(c),Practical skills,Graph & data analysis,4
+2026-MJ,6,2,3,(d),Practical skills,Graph & data analysis,1
+2026-MJ,6,2,3,(e),Practical skills,Graph & data analysis,1
+2026-MJ,6,2,3,(f),Practical skills,Graph & data analysis,1
+2026-MJ,6,2,4,-,Practical skills,Experimental planning & evaluation,7

@@ -1,0 +1,51 @@
+{
+  "levels": [
+    {"id": "o-level", "name": "Cambridge O Level", "short": "O Level", "official_prefix": "cambridge-o-level"},
+    {"id": "igcse", "name": "Cambridge IGCSE", "short": "IGCSE", "official_prefix": "cambridge-igcse"},
+    {"id": "a-level", "name": "Cambridge International AS & A Level", "short": "AS & A Level", "official_prefix": "cambridge-international-as-and-a-level"}
+  ],
+  "subjects": [
+    {"code": "4024", "level": "o-level", "name": "Mathematics D", "slug": "mathematics-d", "guide": "4024-maths-d.md",
+     "papers": {"1": "Paper 1 (non-calculator from 2025)", "2": "Paper 2 (calculator)"}},
+    {"code": "5054", "level": "o-level", "name": "Physics", "slug": "physics", "guide": "5054-physics.md",
+     "papers": {"1": "Paper 1 Multiple Choice", "2": "Paper 2 Theory", "3": "Paper 3 Practical", "4": "Paper 4 Alternative to Practical"}},
+    {"code": "5070", "level": "o-level", "name": "Chemistry", "slug": "chemistry", "guide": "5070-chemistry.md",
+     "papers": {"1": "Paper 1 Multiple Choice", "2": "Paper 2 Theory", "3": "Paper 3 Practical", "4": "Paper 4 Alternative to Practical"}},
+    {"code": "5090", "level": "o-level", "name": "Biology", "slug": "biology", "guide": "5090-biology.md",
+     "papers": {"1": "Paper 1 Multiple Choice", "2": "Paper 2 Theory", "3": "Paper 3 Practical", "4": "Paper 4 Alternative to Practical", "6": "Paper 6 Alternative to Practical (2022)"}},
+    {"code": "0580", "level": "igcse", "name": "Mathematics", "slug": "mathematics", "guide": "0580-igcse-maths.md",
+     "papers": {"1": "Paper 1 Core (non-calculator from 2025)", "2": "Paper 2 Extended (non-calculator from 2025)", "3": "Paper 3 Core (calculator)", "4": "Paper 4 Extended (calculator)"}},
+    {"code": "0625", "level": "igcse", "name": "Physics", "slug": "physics", "guide": "0625-igcse-physics.md",
+     "papers": {"2": "Paper 2 Multiple Choice (Extended)", "4": "Paper 4 Theory (Extended)", "5": "Paper 5 Practical", "6": "Paper 6 Alternative to Practical"}},
+    {"code": "0620", "level": "igcse", "name": "Chemistry", "slug": "chemistry", "guide": "0620-igcse-chemistry.md",
+     "papers": {"2": "Paper 2 Multiple Choice (Extended)", "4": "Paper 4 Theory (Extended)", "5": "Paper 5 Practical", "6": "Paper 6 Alternative to Practical"}},
+    {"code": "0610", "level": "igcse", "name": "Biology", "slug": "biology", "guide": "0610-igcse-biology.md",
+     "papers": {"2": "Paper 2 Multiple Choice (Extended)", "4": "Paper 4 Theory (Extended)", "5": "Paper 5 Practical", "6": "Paper 6 Alternative to Practical"}},
+    {"code": "9709", "level": "a-level", "name": "Mathematics", "slug": "mathematics", "guide": "9709-alevel-maths.md",
+     "papers": {"1": "Paper 1 Pure Mathematics 1", "2": "Paper 2 Pure Mathematics 2", "3": "Paper 3 Pure Mathematics 3", "4": "Paper 4 Mechanics", "5": "Paper 5 Probability & Statistics 1", "6": "Paper 6 Probability & Statistics 2"}},
+    {"code": "9702", "level": "a-level", "name": "Physics", "slug": "physics", "guide": "9702-alevel-physics.md",
+     "papers": {"1": "Paper 1 Multiple Choice", "2": "Paper 2 AS Structured", "3": "Paper 3 Practical", "4": "Paper 4 A Level Structured", "5": "Paper 5 Planning, Analysis & Evaluation"}},
+    {"code": "9701", "level": "a-level", "name": "Chemistry", "slug": "chemistry", "guide": "9701-alevel-chemistry.md",
+     "papers": {"1": "Paper 1 Multiple Choice", "2": "Paper 2 AS Structured", "3": "Paper 3 Practical", "4": "Paper 4 A Level Structured", "5": "Paper 5 Planning, Analysis & Evaluation"}},
+    {"code": "9700", "level": "a-level", "name": "Biology", "slug": "biology", "guide": "9700-alevel-biology.md",
+     "papers": {"1": "Paper 1 Multiple Choice", "2": "Paper 2 AS Structured", "3": "Paper 3 Practical", "4": "Paper 4 A Level Structured", "5": "Paper 5 Planning, Analysis & Evaluation"}}
+  ],
+  "coming_soon": [
+    {"code": "4037", "level": "o-level", "name": "Additional Mathematics"},
+    {"code": "2210", "level": "o-level", "name": "Computer Science"},
+    {"code": "2281", "level": "o-level", "name": "Economics"},
+    {"code": "7707", "level": "o-level", "name": "Accounting"},
+    {"code": "7115", "level": "o-level", "name": "Business Studies"},
+    {"code": "1123", "level": "o-level", "name": "English Language"},
+    {"code": "2059", "level": "o-level", "name": "Pakistan Studies"},
+    {"code": "2058", "level": "o-level", "name": "Islamiyat"},
+    {"code": "3247", "level": "o-level", "name": "Urdu First Language"},
+    {"code": "3248", "level": "o-level", "name": "Urdu Second Language"},
+    {"code": "9231", "level": "a-level", "name": "Further Mathematics"},
+    {"code": "9618", "level": "a-level", "name": "Computer Science"},
+    {"code": "9708", "level": "a-level", "name": "Economics"},
+    {"code": "9706", "level": "a-level", "name": "Accounting"},
+    {"code": "9609", "level": "a-level", "name": "Business"},
+    {"code": "9990", "level": "a-level", "name": "Psychology"}
+  ]
+}

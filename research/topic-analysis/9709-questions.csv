@@ -1,0 +1,829 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,,Series,Binomial expansion,4
+2022-MJ,1,2,2,,Series,Geometric progression,4
+2022-MJ,1,2,3,,Integration,Curve from gradient,4
+2022-MJ,1,2,4,a,Series,Arithmetic progression,2
+2022-MJ,1,2,4,b,Series,Arithmetic progression,3
+2022-MJ,1,2,5,a,Quadratics,Line-curve intersection,4
+2022-MJ,1,2,5,b,Quadratics,Discriminant / tangency,5
+2022-MJ,1,2,6,,Integration,Area between curves,5
+2022-MJ,1,2,7,a,Circular measure,Arc length & sector area,2
+2022-MJ,1,2,7,b,Circular measure,Arc length & sector area,4
+2022-MJ,1,2,8,a,Coordinate geometry,Equation of circle,4
+2022-MJ,1,2,8,b,Coordinate geometry,Tangent / normal to circle,4
+2022-MJ,1,2,9,a,Differentiation,Chain rule / 2nd derivative,3
+2022-MJ,1,2,9,b,Differentiation,Stationary points & nature,4
+2022-MJ,1,2,10,a,Functions,Domain & range,1
+2022-MJ,1,2,10,b,Functions,Inverse function,3
+2022-MJ,1,2,10,c,Functions,Composite function,2
+2022-MJ,1,2,10,d,Functions,Inverse function,1
+2022-MJ,1,2,10,e,Differentiation,Tangents & normals,6
+2022-MJ,1,2,11,a,Trigonometry,Trig equations,5
+2022-MJ,1,2,11,b,Trigonometry,Trig equations,5
+2022-ON,1,2,1,a,Coordinate geometry,Lines / perpendicular bisector,3
+2022-ON,1,2,1,b,Coordinate geometry,Equation of circle,3
+2022-ON,1,2,2,,Series,Arithmetic progression,5
+2022-ON,1,2,3,a,Quadratics,Discriminant / tangency,2
+2022-ON,1,2,3,b,Trigonometry,Trig equations,3
+2022-ON,1,2,4,,Series,Geometric progression,4
+2022-ON,1,2,5,a,Functions,Transformations of graphs,3
+2022-ON,1,2,5,b,Functions,Transformations of graphs,2
+2022-ON,1,2,6,a,Quadratics,Completing the square,3
+2022-ON,1,2,6,b,Quadratics,Completing the square,3
+2022-ON,1,2,6,c,Quadratics,Sketching quadratics,3
+2022-ON,1,2,7,a,Trigonometry,Trig identities,3
+2022-ON,1,2,7,b,Trigonometry,Trig equations,4
+2022-ON,1,2,8,a,Integration,Curve from gradient,4
+2022-ON,1,2,8,b,Differentiation,Stationary points & nature,2
+2022-ON,1,2,8,c,Differentiation,Increasing / decreasing,1
+2022-ON,1,2,9,a,Functions,Composite function,1
+2022-ON,1,2,9,b,Functions,Composite function,2
+2022-ON,1,2,9,c,Functions,Inverse function,1
+2022-ON,1,2,9,d,Functions,Inverse function,3
+2022-ON,1,2,9,e,Functions,Composite function,1
+2022-ON,1,2,10,a,Circular measure,Arc length & sector area,3
+2022-ON,1,2,10,b,Circular measure,Arc length & sector area,2
+2022-ON,1,2,10,c,Circular measure,Arc length & sector area,3
+2022-ON,1,2,11,a,Quadratics,Completing the square,3
+2022-ON,1,2,11,b,Integration,Area between curves,5
+2022-ON,1,2,11,c,Differentiation,Rates of change,3
+2023-MJ,1,2,1,,Integration,Curve from gradient,3
+2023-MJ,1,2,2,,Series,Binomial expansion,4
+2023-MJ,1,2,3,a,Quadratics,Completing the square,2
+2023-MJ,1,2,3,b,Quadratics,Discriminant / tangency,1
+2023-MJ,1,2,4,,Quadratics,Disguised quadratic,3
+2023-MJ,1,2,5,,Integration,Area under curve,4
+2023-MJ,1,2,6,a,Circular measure,Arc length & sector area,2
+2023-MJ,1,2,6,b,Circular measure,Arc length & sector area,4
+2023-MJ,1,2,7,a(i),Trigonometry,Trig equations,3
+2023-MJ,1,2,7,a(ii),Trigonometry,Trig equations,2
+2023-MJ,1,2,7,b,Trigonometry,Trig identities,3
+2023-MJ,1,2,7,c,Trigonometry,Trig equations,3
+2023-MJ,1,2,8,a,Functions,Inverse function,2
+2023-MJ,1,2,8,b,Functions,Inverse function,2
+2023-MJ,1,2,8,c,Functions,Domain & range,2
+2023-MJ,1,2,8,d,Functions,Transformations of graphs,6
+2023-MJ,1,2,9,a,Series,Geometric progression,4
+2023-MJ,1,2,9,b,Series,Geometric progression,4
+2023-MJ,1,2,10,a,Coordinate geometry,Line-circle intersection / tangency,5
+2023-MJ,1,2,10,b,Coordinate geometry,Tangent / normal to circle,4
+2023-MJ,1,2,10,c,Coordinate geometry,Tangent / normal to circle,4
+2023-MJ,1,2,11,a,Differentiation,Chain rule / 2nd derivative,2
+2023-MJ,1,2,11,b,Differentiation,Stationary points & nature,2
+2023-MJ,1,2,11,c,Differentiation,Tangents & normals,4
+2023-ON,1,2,1,,Series,Binomial expansion,4
+2023-ON,1,2,2,,Trigonometry,Inverse trig,2
+2023-ON,1,2,3,a,Differentiation,Tangents & normals,2
+2023-ON,1,2,3,b,Integration,Curve from gradient,4
+2023-ON,1,2,4,a,Circular measure,Arc length & sector area,2
+2023-ON,1,2,4,b,Circular measure,Arc length & sector area,4
+2023-ON,1,2,5,a,Series,Geometric progression,3
+2023-ON,1,2,5,b,Series,Geometric progression,3
+2023-ON,1,2,6,a,Quadratics,Completing the square,2
+2023-ON,1,2,6,b,Functions,Transformations of graphs,2
+2023-ON,1,2,6,c,Functions,Transformations of graphs,4
+2023-ON,1,2,7,a,Trigonometry,Trig identities,1
+2023-ON,1,2,7,b,Trigonometry,Trig identities,3
+2023-ON,1,2,7,c,Trigonometry,Trig equations,5
+2023-ON,1,2,8,a,Functions,Inverse function,3
+2023-ON,1,2,8,b(i),Functions,Domain & range,1
+2023-ON,1,2,8,b(ii),Functions,Domain & range,1
+2023-ON,1,2,8,c,Functions,Composite function,3
+2023-ON,1,2,9,a,Quadratics,Disguised quadratic,4
+2023-ON,1,2,9,b,Integration,Area between curves,5
+2023-ON,1,2,10,a,Differentiation,Stationary points & nature,6
+2023-ON,1,2,10,b,Differentiation,Increasing / decreasing,1
+2023-ON,1,2,11,a,Coordinate geometry,Lines / perpendicular bisector,4
+2023-ON,1,2,11,b,Coordinate geometry,Equation of circle,3
+2023-ON,1,2,11,c,Coordinate geometry,Tangent / normal to circle,3
+2024-MJ,1,2,1,,Series,Binomial expansion,3
+2024-MJ,1,2,2,,Functions,Transformations of graphs,5
+2024-MJ,1,2,3,a,Trigonometry,Trig identities,3
+2024-MJ,1,2,3,b,Trigonometry,Trig equations,3
+2024-MJ,1,2,4,a,Functions,Inverse function,1
+2024-MJ,1,2,4,b,Functions,Domain & range,2
+2024-MJ,1,2,4,c,Functions,Composite function,4
+2024-MJ,1,2,5,a,Series,Arithmetic progression,4
+2024-MJ,1,2,5,b(i),Series,Geometric progression,2
+2024-MJ,1,2,5,b(ii),Series,Geometric progression,3
+2024-MJ,1,2,6,a,Differentiation,Stationary points & nature,4
+2024-MJ,1,2,6,b,Integration,Area between curves,5
+2024-MJ,1,2,7,a,Coordinate geometry,Line-circle intersection / tangency,5
+2024-MJ,1,2,7,b,Coordinate geometry,Lines / perpendicular bisector,3
+2024-MJ,1,2,8,a(i),Circular measure,Arc length & sector area,2
+2024-MJ,1,2,8,a(ii),Circular measure,Arc length & sector area,4
+2024-MJ,1,2,8,b,Circular measure,Arc length & sector area,4
+2024-MJ,1,2,9,a,Differentiation,Increasing / decreasing,4
+2024-MJ,1,2,9,b,Integration,Curve from gradient,4
+2024-MJ,1,2,10,a,Differentiation,Rates of change,4
+2024-MJ,1,2,10,b,Differentiation,Tangents & normals,6
+2024-ON,1,2,1,a,Trigonometry,Trig graphs,3
+2024-ON,1,2,1,b(i),Trigonometry,Trig graphs,1
+2024-ON,1,2,1,b(ii),Trigonometry,Trig graphs,1
+2024-ON,1,2,2,a,Series,Arithmetic progression,2
+2024-ON,1,2,2,b,Series,Arithmetic progression,3
+2024-ON,1,2,3,a,Differentiation,Gradient of chord / first principles,3
+2024-ON,1,2,3,b,Differentiation,Gradient of chord / first principles,2
+2024-ON,1,2,4,a,Series,Binomial expansion,2
+2024-ON,1,2,4,b,Series,Binomial expansion,4
+2024-ON,1,2,5,a(i),Functions,Domain & range,1
+2024-ON,1,2,5,a(ii),Functions,Inverse function,2
+2024-ON,1,2,5,a(iii),Functions,Inverse function,4
+2024-ON,1,2,5,b,Functions,Composite function,3
+2024-ON,1,2,6,,Circular measure,Arc length & sector area,6
+2024-ON,1,2,7,a,Quadratics,Completing the square,3
+2024-ON,1,2,7,b,Integration,Area between curves,5
+2024-ON,1,2,8,a,Coordinate geometry,Equation of circle,2
+2024-ON,1,2,8,b(i),Coordinate geometry,Tangent / normal to circle,3
+2024-ON,1,2,8,b(ii),Coordinate geometry,Equation of circle,5
+2024-ON,1,2,9,a,Quadratics,Line-curve intersection,7
+2024-ON,1,2,9,b,Quadratics,Discriminant / tangency,3
+2024-ON,1,2,10,a,Differentiation,Tangents & normals,3
+2024-ON,1,2,10,b,Integration,Curve from gradient,4
+2024-ON,1,2,10,c,Differentiation,Increasing / decreasing,3
+2025-MJ,1,2,1,,Functions,Transformations of graphs,4
+2025-MJ,1,2,2,,Quadratics,Line-curve intersection,4
+2025-MJ,1,2,3,,Series,Binomial expansion,4
+2025-MJ,1,2,4,a,Differentiation,Rates of change,3
+2025-MJ,1,2,4,b,Differentiation,Stationary points & nature,2
+2025-MJ,1,2,5,a,Trigonometry,Trig graphs,2
+2025-MJ,1,2,5,b,Trigonometry,Trig graphs,2
+2025-MJ,1,2,5,c,Trigonometry,Trig graphs,1
+2025-MJ,1,2,6,,Integration,Area between curves,6
+2025-MJ,1,2,7,a,Trigonometry,Trig identities,3
+2025-MJ,1,2,7,b,Trigonometry,Trig equations,4
+2025-MJ,1,2,8,a,Coordinate geometry,Line-circle intersection / tangency,3
+2025-MJ,1,2,8,b,Circular measure,Arc length & sector area,2
+2025-MJ,1,2,8,c,Circular measure,Arc length & sector area,4
+2025-MJ,1,2,9,a,Integration,Curve from gradient,3
+2025-MJ,1,2,9,b,Differentiation,Stationary points & nature,2
+2025-MJ,1,2,9,c,Integration,Curve from gradient,3
+2025-MJ,1,2,9,d,Differentiation,Tangents & normals,4
+2025-MJ,1,2,10,a(i),Series,Arithmetic progression,2
+2025-MJ,1,2,10,a(ii),Series,Arithmetic progression,3
+2025-MJ,1,2,10,b,Series,Geometric progression,5
+2025-MJ,1,2,11,a,Quadratics,Completing the square,2
+2025-MJ,1,2,11,b(i),Functions,Inverse function,3
+2025-MJ,1,2,11,b(ii),Functions,Composite function,4
+2025-ON,1,2,1,a,Quadratics,Completing the square,2
+2025-ON,1,2,1,b,Quadratics,Discriminant / tangency,1
+2025-ON,1,2,1,c,Quadratics,Disguised quadratic,2
+2025-ON,1,2,2,,Series,Binomial expansion,3
+2025-ON,1,2,3,a,Functions,Transformations of graphs,3
+2025-ON,1,2,3,b,Functions,Transformations of graphs,2
+2025-ON,1,2,4,a,Differentiation,Tangents & normals,1
+2025-ON,1,2,4,b,Integration,Curve from gradient,5
+2025-ON,1,2,5,a,Differentiation,Stationary points & nature,3
+2025-ON,1,2,5,b,Integration,Area under curve,5
+2025-ON,1,2,6,a,Trigonometry,Trig graphs,2
+2025-ON,1,2,6,b(i),Trigonometry,Trig graphs,1
+2025-ON,1,2,6,b(ii),Trigonometry,Trig graphs,1
+2025-ON,1,2,6,c,Trigonometry,Trig equations,5
+2025-ON,1,2,7,a,Coordinate geometry,Equation of circle,4
+2025-ON,1,2,7,b,Coordinate geometry,Tangent / normal to circle,3
+2025-ON,1,2,7,c,Coordinate geometry,Tangent / normal to circle,4
+2025-ON,1,2,8,a,Series,AP and GP combined,3
+2025-ON,1,2,8,b(i),Series,Geometric progression,5
+2025-ON,1,2,8,b(ii),Series,Arithmetic progression,3
+2025-ON,1,2,9,a,Differentiation,Increasing / decreasing,4
+2025-ON,1,2,9,b,Functions,Inverse function,1
+2025-ON,1,2,9,c,Functions,Domain & range,1
+2025-ON,1,2,9,d,Functions,Composite function,2
+2025-ON,1,2,10,a,Circular measure,Arc length & sector area,2
+2025-ON,1,2,10,b,Circular measure,Arc length & sector area,7
+2026-MJ,1,2,1,,Quadratics,Disguised quadratic,3
+2026-MJ,1,2,2,a,Functions,Transformations of graphs,5
+2026-MJ,1,2,2,b,Functions,Transformations of graphs,2
+2026-MJ,1,2,3,,Coordinate geometry,Lines / perpendicular bisector,6
+2026-MJ,1,2,4,a(i),Series,Binomial expansion,2
+2026-MJ,1,2,4,a(ii),Series,Binomial expansion,1
+2026-MJ,1,2,4,b,Series,Binomial expansion,4
+2026-MJ,1,2,5,,Integration,Curve from gradient,7
+2026-MJ,1,2,6,,Trigonometry,Inverse trig,4
+2026-MJ,1,2,7,a,Series,Arithmetic progression,4
+2026-MJ,1,2,7,b(i),Series,Geometric progression,3
+2026-MJ,1,2,7,b(ii),Series,Geometric progression,3
+2026-MJ,1,2,8,a,Coordinate geometry,Equation of circle,4
+2026-MJ,1,2,8,b,Coordinate geometry,Line-circle intersection / tangency,7
+2026-MJ,1,2,9,a,Integration,Area under curve,4
+2026-MJ,1,2,9,b,Differentiation,Tangents & normals,7
+2026-MJ,1,2,10,a,Quadratics,Discriminant / tangency,3
+2026-MJ,1,2,10,b(i),Functions,Domain & range,2
+2026-MJ,1,2,10,b(ii),Functions,Inverse function,4
+2023-MJ,2,2,1,,Trigonometry,Trig equations (sec/cosec/cot),5
+2023-MJ,2,2,2,,Logarithms & exponentials,Linearisation (ln graphs),5
+2023-MJ,2,2,3,,Integration,Area / definite integrals,5
+2023-MJ,2,2,4,a,Numerical solution of equations,Locating a root (graphs/sign change),2
+2023-MJ,2,2,4,b,Numerical solution of equations,Locating a root (graphs/sign change),2
+2023-MJ,2,2,4,c,Numerical solution of equations,Iteration,3
+2023-MJ,2,2,5,a,Differentiation,Product/quotient/chain rule & stationary points,5
+2023-MJ,2,2,5,b,Differentiation,Product/quotient/chain rule & stationary points,4
+2023-MJ,2,2,6,a,Trigonometry,Trig identities (compound/double angle),4
+2023-MJ,2,2,6,b,Trigonometry,Trig identities (compound/double angle),2
+2023-MJ,2,2,6,c,Integration,Integration of trig functions,4
+2023-MJ,2,2,7,a,Differentiation,Parametric differentiation,4
+2023-MJ,2,2,7,b,Algebra,Polynomials (factor/remainder),2
+2023-MJ,2,2,7,c,Differentiation,Parametric differentiation,3
+2023-ON,2,2,1,,Algebra,Polynomials (factor/remainder),2
+2023-ON,2,2,2,,Trigonometry,Trig equations (sec/cosec/cot),5
+2023-ON,2,2,3,a,Differentiation,Product/quotient/chain rule & stationary points,2
+2023-ON,2,2,3,b,Integration,Area / definite integrals,3
+2023-ON,2,2,4,a,Algebra,Modulus equations & inequalities,2
+2023-ON,2,2,4,b,Algebra,Modulus equations & inequalities,3
+2023-ON,2,2,4,c,Logarithms & exponentials,Log & exponential equations/inequalities,3
+2023-ON,2,2,4,d,Algebra,Modulus equations & inequalities,1
+2023-ON,2,2,5,a,Algebra,Polynomials (division),3
+2023-ON,2,2,5,b,Integration,Integration (ln forms),5
+2023-ON,2,2,6,a,Differentiation,Parametric differentiation,5
+2023-ON,2,2,6,b,Numerical solution of equations,Locating a root (graphs/sign change),2
+2023-ON,2,2,6,c,Numerical solution of equations,Iteration,3
+2023-ON,2,2,7,a,Trigonometry,Trig identities (compound/double angle),4
+2023-ON,2,2,7,b,Trigonometry,Trig identities (compound/double angle),2
+2023-ON,2,2,7,c,Integration,Integration of trig functions,5
+2025-MJ,2,2,1,,Integration,Integration (ln forms),3
+2025-MJ,2,2,2,a,Algebra,Modulus equations & inequalities,2
+2025-MJ,2,2,2,b,Algebra,Modulus equations & inequalities,3
+2025-MJ,2,2,3,,Differentiation,Product/quotient/chain rule & stationary points,5
+2025-MJ,2,2,4,a,Numerical solution of equations,Locating a root (graphs/sign change),1
+2025-MJ,2,2,4,b,Numerical solution of equations,Iteration,3
+2025-MJ,2,2,4,c,Integration,Area / definite integrals,4
+2025-MJ,2,2,5,a,Algebra,Polynomials (factor/remainder),4
+2025-MJ,2,2,5,b,Algebra,Polynomials (factor/remainder),3
+2025-MJ,2,2,5,c,Trigonometry,Trig equations (sec/cosec/cot),2
+2025-MJ,2,2,6,a,Logarithms & exponentials,Log & exponential equations/inequalities,3
+2025-MJ,2,2,6,b,Differentiation,Implicit differentiation,6
+2025-MJ,2,2,7,a,Trigonometry,R-formula,6
+2025-MJ,2,2,7,b,Trigonometry,R-formula,5
+2025-ON,2,2,1,,Logarithms & exponentials,Log & exponential equations/inequalities,4
+2025-ON,2,2,2,,Trigonometry,Trig equations (sec/cosec/cot),5
+2025-ON,2,2,3,a,Algebra,Modulus equations & inequalities,4
+2025-ON,2,2,3,b,Logarithms & exponentials,Log & exponential equations/inequalities,3
+2025-ON,2,2,4,a,Algebra,Polynomials (division),3
+2025-ON,2,2,4,b,Algebra,Polynomials (factor/remainder),3
+2025-ON,2,2,5,a,Differentiation,Product/quotient/chain rule & stationary points,5
+2025-ON,2,2,5,b,Integration,Integration of trig functions,6
+2025-ON,2,2,6,a,Integration,Integration of exponentials,4
+2025-ON,2,2,6,b,Numerical solution of equations,Locating a root (graphs/sign change),2
+2025-ON,2,2,6,c,Numerical solution of equations,Iteration,3
+2025-ON,2,2,7,a,Differentiation,Implicit differentiation,6
+2025-ON,2,2,7,b,Differentiation,Implicit differentiation,2
+2026-MJ,2,2,1,,Integration,Integration of exponentials,4
+2026-MJ,2,2,2,,Trigonometry,Trig equations (sec/cosec/cot),4
+2026-MJ,2,2,3,,Logarithms & exponentials,Linearisation (ln graphs),5
+2026-MJ,2,2,4,,Differentiation,Product/quotient/chain rule & stationary points,6
+2026-MJ,2,2,5,a,Algebra,Modulus equations & inequalities,4
+2026-MJ,2,2,5,b,Logarithms & exponentials,Log & exponential equations/inequalities,3
+2026-MJ,2,2,6,a,Algebra,Polynomials (factor/remainder),2
+2026-MJ,2,2,6,b,Numerical solution of equations,Locating a root (graphs/sign change),3
+2026-MJ,2,2,6,c,Numerical solution of equations,Iteration,3
+2026-MJ,2,2,7,,Integration,Integration of trig functions,7
+2026-MJ,2,2,8,a,Differentiation,Parametric differentiation,4
+2026-MJ,2,2,8,b,Differentiation,Parametric differentiation,5
+2022-MJ,3,2,1,,Logarithms & exponentials,Log & exponential equations,4
+2022-MJ,3,2,2,,Trigonometry,Trig equations (double angle),5
+2022-MJ,3,2,3,,Algebra,Polynomials (factor/remainder),5
+2022-MJ,3,2,4,,Differentiation,Stationary points (product/chain/quotient),6
+2022-MJ,3,2,5,a,Numerical solution of equations,Locating a root (graphs/sign change),2
+2022-MJ,3,2,5,b,Numerical solution of equations,Locating a root (graphs/sign change),2
+2022-MJ,3,2,5,c,Numerical solution of equations,Iteration,3
+2022-MJ,3,2,6,a,Differential equations,Separable differential equation,7
+2022-MJ,3,2,6,b,Differential equations,Separable differential equation,1
+2022-MJ,3,2,7,a,Differentiation,Implicit differentiation,4
+2022-MJ,3,2,7,b,Differentiation,Implicit differentiation,5
+2022-MJ,3,2,8,a,Algebra,Partial fractions,5
+2022-MJ,3,2,8,b,Integration,Integration using partial fractions,5
+2022-MJ,3,2,9,a,Vectors,Lines (intersect/parallel/skew),4
+2022-MJ,3,2,9,b,Vectors,Scalar product / angle,4
+2022-MJ,3,2,9,c,Vectors,Lines (intersect/parallel/skew),2
+2022-MJ,3,2,10,a,Complex numbers,Polynomial with complex roots,3
+2022-MJ,3,2,10,b,Complex numbers,Polynomial with complex roots,4
+2022-MJ,3,2,10,c,Complex numbers,Argand loci,2
+2022-MJ,3,2,10,d,Complex numbers,Argand loci,2
+2022-ON,3,2,1,,Logarithms & exponentials,Log & exponential equations,4
+2022-ON,3,2,2,a,Algebra,Polynomials (factor/remainder),2
+2022-ON,3,2,2,b,Algebra,Polynomials (factor/remainder),4
+2022-ON,3,2,3,,Differentiation,Stationary points (product/chain/quotient),6
+2022-ON,3,2,4,a,Trigonometry,R-formula,3
+2022-ON,3,2,4,b,Trigonometry,Trig equations (double angle),5
+2022-ON,3,2,5,a,Complex numbers,Complex arithmetic & equations,3
+2022-ON,3,2,5,b,Complex numbers,Argand loci,1
+2022-ON,3,2,5,c,Complex numbers,Modulus-argument / exponential form,3
+2022-ON,3,2,5,d,Complex numbers,Modulus-argument / exponential form,1
+2022-ON,3,2,6,a,Vectors,Scalar product / angle,4
+2022-ON,3,2,6,b,Vectors,Scalar product / angle,4
+2022-ON,3,2,7,a,Differentiation,Differentiating trig functions,1
+2022-ON,3,2,7,b,Differential equations,Separable differential equation,7
+2022-ON,3,2,8,a,Integration,Integration by substitution,1
+2022-ON,3,2,8,b,Integration,Integration by substitution,7
+2022-ON,3,2,9,a,Numerical solution of equations,Setting up the equation,4
+2022-ON,3,2,9,b,Numerical solution of equations,Locating a root (graphs/sign change),2
+2022-ON,3,2,9,c,Numerical solution of equations,Iteration,3
+2022-ON,3,2,10,a,Algebra,Partial fractions,5
+2022-ON,3,2,10,b,Integration,Integration using partial fractions,5
+2023-MJ,3,2,1,,Algebra,Modulus equations & inequalities,4
+2023-MJ,3,2,2,,Logarithms & exponentials,Log & exponential equations,3
+2023-MJ,3,2,3,a,Complex numbers,Argand loci,2
+2023-MJ,3,2,3,b,Complex numbers,Argand loci,2
+2023-MJ,3,2,4,,Trigonometry,Trig equations (double angle),5
+2023-MJ,3,2,5,a,Complex numbers,Complex arithmetic & equations,3
+2023-MJ,3,2,5,b,Complex numbers,Modulus-argument / exponential form,3
+2023-MJ,3,2,6,a,Numerical solution of equations,Locating a root (graphs/sign change),2
+2023-MJ,3,2,6,b,Numerical solution of equations,Iteration,2
+2023-MJ,3,2,6,c,Numerical solution of equations,Iteration,3
+2023-MJ,3,2,7,a,Differentiation,Implicit differentiation,4
+2023-MJ,3,2,7,b,Differentiation,Implicit differentiation,5
+2023-MJ,3,2,8,a,Differential equations,Separable differential equation,7
+2023-MJ,3,2,8,b,Differential equations,Separable differential equation,1
+2023-MJ,3,2,9,a,Algebra,Partial fractions,5
+2023-MJ,3,2,9,b,Integration,Integration using partial fractions,5
+2023-MJ,3,2,10,a,Differentiation,Stationary points (product/chain/quotient),5
+2023-MJ,3,2,10,b,Integration,Integration by substitution,5
+2023-MJ,3,2,11,a,Vectors,Lines (intersect/parallel/skew),5
+2023-MJ,3,2,11,b,Vectors,Perpendicular distance / foot of perpendicular,4
+2023-ON,3,2,1,a,Algebra,Modulus equations & inequalities,1
+2023-ON,3,2,1,b,Algebra,Modulus equations & inequalities,4
+2023-ON,3,2,2,,Differentiation,Parametric differentiation,4
+2023-ON,3,2,3,,Algebra,Polynomials (factor/remainder),5
+2023-ON,3,2,4,a,Complex numbers,Argand loci,4
+2023-ON,3,2,4,b,Complex numbers,Argand loci,2
+2023-ON,3,2,5,,Integration,Integration (ln and tan^-1 forms),6
+2023-ON,3,2,6,a,Numerical solution of equations,Locating a root (graphs/sign change),2
+2023-ON,3,2,6,b,Numerical solution of equations,Locating a root (graphs/sign change),2
+2023-ON,3,2,6,c,Numerical solution of equations,Iteration,3
+2023-ON,3,2,7,a,Trigonometry,Trig identities (compound/double angle),3
+2023-ON,3,2,7,b,Trigonometry,Trig equations (double angle),5
+2023-ON,3,2,8,a,Complex numbers,Complex arithmetic & equations,4
+2023-ON,3,2,8,b,Complex numbers,Complex arithmetic & equations,3
+2023-ON,3,2,9,a,Differentiation,Stationary points (product/chain/quotient),5
+2023-ON,3,2,9,b,Integration,Integration of trig functions,4
+2023-ON,3,2,10,a,Vectors,Lines (intersect/parallel/skew),4
+2023-ON,3,2,10,b,Vectors,Perpendicular distance / foot of perpendicular,5
+2023-ON,3,2,11,a,Differential equations,Separable differential equation,8
+2023-ON,3,2,11,b,Differential equations,Separable differential equation,1
+2024-MJ,3,2,1,a,Algebra,Modulus equations & inequalities,1
+2024-MJ,3,2,1,b,Algebra,Modulus equations & inequalities,2
+2024-MJ,3,2,2,,Algebra,Partial fractions,5
+2024-MJ,3,2,3,a,Logarithms & exponentials,Linearisation (ln graphs),3
+2024-MJ,3,2,3,b,Logarithms & exponentials,Linearisation (ln graphs),2
+2024-MJ,3,2,4,,Differentiation,Implicit differentiation,6
+2024-MJ,3,2,5,a,Numerical solution of equations,Locating a root (graphs/sign change),2
+2024-MJ,3,2,5,b,Numerical solution of equations,Iteration,1
+2024-MJ,3,2,5,c,Numerical solution of equations,Iteration,3
+2024-MJ,3,2,6,a,Differentiation,Stationary points (product/chain/quotient),4
+2024-MJ,3,2,6,b,Integration,Integration by parts,5
+2024-MJ,3,2,7,a,Trigonometry,Trig identities (compound/double angle),3
+2024-MJ,3,2,7,b,Integration,Integration of trig functions,6
+2024-MJ,3,2,8,a,Vectors,Lines (intersect/parallel/skew),3
+2024-MJ,3,2,8,b,Vectors,Lines (intersect/parallel/skew),4
+2024-MJ,3,2,8,c,Vectors,Vector geometry (lengths/points),5
+2024-MJ,3,2,9,a,Complex numbers,Complex arithmetic & equations,1
+2024-MJ,3,2,9,b,Complex numbers,Modulus-argument / exponential form,4
+2024-MJ,3,2,9,c,Complex numbers,Modulus-argument / exponential form,2
+2024-MJ,3,2,9,d,Complex numbers,Modulus-argument / exponential form,3
+2024-MJ,3,2,10,a,Differentiation,Differentiating trig functions,2
+2024-MJ,3,2,10,b,Differential equations,Separable differential equation,8
+2024-ON,3,2,1,,Algebra,Binomial expansion (any index),4
+2024-ON,3,2,2,a,Numerical solution of equations,Locating a root (graphs/sign change),2
+2024-ON,3,2,2,b,Numerical solution of equations,Iteration,1
+2024-ON,3,2,3,,Complex numbers,Square roots of complex numbers,5
+2024-ON,3,2,4,,Logarithms & exponentials,Log & exponential equations,3
+2024-ON,3,2,5,a,Complex numbers,Modulus-argument / exponential form,2
+2024-ON,3,2,5,b,Complex numbers,Modulus-argument / exponential form,2
+2024-ON,3,2,6,,Logarithms & exponentials,Linearisation (ln graphs),4
+2024-ON,3,2,7,a,Trigonometry,Trig identities (compound/double angle),3
+2024-ON,3,2,7,b,Trigonometry,Trig equations (double angle),3
+2024-ON,3,2,8,a,Differentiation,Parametric differentiation,4
+2024-ON,3,2,8,b,Differentiation,Parametric differentiation,4
+2024-ON,3,2,9,a,Vectors,Vector geometry (lengths/points),2
+2024-ON,3,2,9,b,Vectors,Lines (intersect/parallel/skew),5
+2024-ON,3,2,9,c,Vectors,Scalar product / angle,4
+2024-ON,3,2,10,a,Differential equations,Forming a differential equation,3
+2024-ON,3,2,10,b,Algebra,Polynomials (division),3
+2024-ON,3,2,10,c,Differential equations,Separable differential equation,6
+2024-ON,3,2,10,d,Differential equations,Separable differential equation,1
+2024-ON,3,2,11,a,Differentiation,Stationary points (product/chain/quotient),5
+2024-ON,3,2,11,b,Integration,Integration by substitution,9
+2025-MJ,3,2,1,,Logarithms & exponentials,Log & exponential equations,5
+2025-MJ,3,2,2,a,Algebra,Binomial expansion (any index),4
+2025-MJ,3,2,2,b,Algebra,Binomial expansion (any index),1
+2025-MJ,3,2,3,,Complex numbers,Argand loci,5
+2025-MJ,3,2,4,,Trigonometry,Trig equations (double angle),6
+2025-MJ,3,2,5,,Complex numbers,Square roots of complex numbers,5
+2025-MJ,3,2,6,a,Numerical solution of equations,Locating a root (graphs/sign change),2
+2025-MJ,3,2,6,b,Numerical solution of equations,Locating a root (graphs/sign change),2
+2025-MJ,3,2,6,c,Numerical solution of equations,Iteration,3
+2025-MJ,3,2,7,a,Trigonometry,R-formula,3
+2025-MJ,3,2,7,b,Trigonometry,R-formula,4
+2025-MJ,3,2,8,,Differential equations,Separable differential equation,7
+2025-MJ,3,2,9,a,Vectors,Vector geometry (lengths/points),2
+2025-MJ,3,2,9,b,Vectors,Scalar product / angle,4
+2025-MJ,3,2,9,c,Vectors,Scalar product / angle,3
+2025-MJ,3,2,10,a,Algebra,Polynomials (division),2
+2025-MJ,3,2,10,b,Integration,Integration by parts,6
+2025-MJ,3,2,11,a,Differentiation,Stationary points (product/chain/quotient),6
+2025-MJ,3,2,11,b,Integration,Integration by substitution,5
+2025-ON,3,2,1,a,Algebra,Modulus equations & inequalities,1
+2025-ON,3,2,1,b,Algebra,Modulus equations & inequalities,2
+2025-ON,3,2,2,,Logarithms & exponentials,Log & exponential equations,4
+2025-ON,3,2,3,a,Complex numbers,Argand loci,2
+2025-ON,3,2,3,b,Complex numbers,Argand loci,3
+2025-ON,3,2,4,,Integration,Integration by parts,6
+2025-ON,3,2,5,a,Algebra,Polynomials (factor/remainder),2
+2025-ON,3,2,5,b,Algebra,Polynomials (factor/remainder),5
+2025-ON,3,2,6,a,Numerical solution of equations,Locating a root (graphs/sign change),2
+2025-ON,3,2,6,b,Numerical solution of equations,Locating a root (graphs/sign change),2
+2025-ON,3,2,6,c,Numerical solution of equations,Iteration,3
+2025-ON,3,2,7,a,Differentiation,Implicit differentiation,4
+2025-ON,3,2,7,b,Differentiation,Implicit differentiation,4
+2025-ON,3,2,8,a,Trigonometry,Trig identities (compound/double angle),3
+2025-ON,3,2,8,b,Integration,Integration of trig functions,5
+2025-ON,3,2,9,a,Algebra,Partial fractions,5
+2025-ON,3,2,9,b,Integration,Integration using partial fractions,4
+2025-ON,3,2,10,a,Differential equations,Forming a differential equation,4
+2025-ON,3,2,10,b,Differential equations,Separable differential equation,5
+2025-ON,3,2,11,a,Vectors,Vector geometry (lengths/points),2
+2025-ON,3,2,11,b,Vectors,Scalar product / angle,3
+2025-ON,3,2,11,c,Vectors,Scalar product / angle,4
+2026-MJ,3,2,1,,Algebra,Polynomials (division),3
+2026-MJ,3,2,2,,Logarithms & exponentials,Log & exponential equations,4
+2026-MJ,3,2,3,a,Complex numbers,Modulus-argument / exponential form,2
+2026-MJ,3,2,3,b,Complex numbers,Modulus-argument / exponential form,2
+2026-MJ,3,2,4,,Complex numbers,Square roots of complex numbers,5
+2026-MJ,3,2,5,a,Differentiation,Parametric differentiation,6
+2026-MJ,3,2,5,b,Differentiation,Parametric differentiation,4
+2026-MJ,3,2,6,a,Differentiation,Stationary points (product/chain/quotient),4
+2026-MJ,3,2,6,b,Integration,Integration by parts,6
+2026-MJ,3,2,7,a,Differentiation,Stationary points (product/chain/quotient),4
+2026-MJ,3,2,7,b,Trigonometry,Trig equations (double angle),3
+2026-MJ,3,2,8,a,Numerical solution of equations,Locating a root (graphs/sign change),2
+2026-MJ,3,2,8,b,Numerical solution of equations,Locating a root (graphs/sign change),2
+2026-MJ,3,2,8,c,Numerical solution of equations,Iteration,2
+2026-MJ,3,2,8,d,Numerical solution of equations,Iteration,3
+2026-MJ,3,2,9,a,Vectors,Lines (intersect/parallel/skew),2
+2026-MJ,3,2,9,b,Vectors,Lines (intersect/parallel/skew),4
+2026-MJ,3,2,9,c,Vectors,Scalar product / angle,6
+2026-MJ,3,2,10,a,Algebra,Partial fractions,4
+2026-MJ,3,2,10,b,Differential equations,Separable differential equation,7
+2022-MJ,4,2,1,a,Momentum,Collisions (conservation of momentum),3
+2022-MJ,4,2,1,b,Momentum,Loss of kinetic energy in collisions,2
+2022-MJ,4,2,2,,Forces & equilibrium,Resultant of coplanar forces,6
+2022-MJ,4,2,3,a,Newton's laws of motion,Connected particles (pulley),4
+2022-MJ,4,2,3,b,Newton's laws of motion,Connected particles (pulley),3
+2022-MJ,4,2,4,a,Kinematics,Constant acceleration (suvat),3
+2022-MJ,4,2,4,b,Kinematics,Constant acceleration (suvat),3
+2022-MJ,4,2,4,c,Kinematics,Displacement/velocity-time graphs,3
+2022-MJ,4,2,5,,Forces & equilibrium,Friction & equilibrium on a slope,6
+2022-MJ,4,2,6,a,"Energy, work & power",Work-energy principle,5
+2022-MJ,4,2,6,b,"Energy, work & power",Power & driving force,3
+2022-MJ,4,2,7,a,Kinematics,Variable acceleration (calculus),3
+2022-MJ,4,2,7,b,Kinematics,Variable acceleration (calculus),6
+2022-ON,4,2,1,,"Energy, work & power",Work-energy principle,3
+2022-ON,4,2,2,a,Forces & equilibrium,Friction & equilibrium on a slope,3
+2022-ON,4,2,2,b,Newton's laws of motion,Newton's 2nd law on a slope,4
+2022-ON,4,2,3,,Forces & equilibrium,Equilibrium of a particle (strings),6
+2022-ON,4,2,4,a,"Energy, work & power",Power & driving force,3
+2022-ON,4,2,4,b,"Energy, work & power",Work-energy principle,3
+2022-ON,4,2,5,a,Newton's laws of motion,Connected particles (slope/towing),5
+2022-ON,4,2,5,b,Newton's laws of motion,Connected particles (slope/towing),2
+2022-ON,4,2,6,a,Momentum,Collisions (conservation of momentum),2
+2022-ON,4,2,6,b,Momentum,Collisions (conservation of momentum),2
+2022-ON,4,2,6,c,Momentum,Collisions with subsequent motion,5
+2022-ON,4,2,7,a,Kinematics,Variable acceleration (calculus),2
+2022-ON,4,2,7,b,Kinematics,Variable acceleration (calculus),4
+2022-ON,4,2,7,c,Kinematics,Variable acceleration (calculus),2
+2022-ON,4,2,7,d,Kinematics,Variable acceleration (calculus),4
+2023-MJ,4,2,1,,"Energy, work & power",Work-energy principle,3
+2023-MJ,4,2,2,a,Momentum,Collisions (conservation of momentum),2
+2023-MJ,4,2,2,b,Momentum,Loss of kinetic energy in collisions,2
+2023-MJ,4,2,3,a,Forces & equilibrium,Equilibrium of a particle (forces at a point),4
+2023-MJ,4,2,3,b,Forces & equilibrium,Equilibrium of a particle (forces at a point),2
+2023-MJ,4,2,4,a,"Energy, work & power",Power & driving force,1
+2023-MJ,4,2,4,b,"Energy, work & power",Work-energy principle,6
+2023-MJ,4,2,5,,Forces & equilibrium,Friction & equilibrium on a slope,6
+2023-MJ,4,2,6,a,Kinematics,Variable acceleration (calculus),1
+2023-MJ,4,2,6,b,Kinematics,Variable acceleration (calculus),2
+2023-MJ,4,2,6,c,Kinematics,Variable acceleration (calculus),5
+2023-MJ,4,2,6,d,Kinematics,Variable acceleration (calculus),3
+2023-MJ,4,2,7,a(i),Newton's laws of motion,Connected particles (pulley),4
+2023-MJ,4,2,7,a(ii),Newton's laws of motion,Connected particles (pulley),5
+2023-MJ,4,2,7,b,Newton's laws of motion,Connected particles (pulley),4
+2023-ON,4,2,1,,"Energy, work & power",Work-energy principle,4
+2023-ON,4,2,2,,Forces & equilibrium,Equilibrium of a particle (strings),5
+2023-ON,4,2,3,,Forces & equilibrium,Friction & equilibrium on a slope,5
+2023-ON,4,2,4,a,Forces & equilibrium,Friction & limiting equilibrium,3
+2023-ON,4,2,4,b,Newton's laws of motion,Newton's 2nd law with friction,4
+2023-ON,4,2,5,a,Kinematics,Vertical motion under gravity,2
+2023-ON,4,2,5,b,Momentum,Collisions (conservation of momentum),2
+2023-ON,4,2,5,c,Kinematics,Vertical motion under gravity,4
+2023-ON,4,2,6,a,"Energy, work & power",Power & driving force,5
+2023-ON,4,2,6,b,"Energy, work & power",Power & driving force,4
+2023-ON,4,2,7,a,Kinematics,Variable acceleration (calculus),4
+2023-ON,4,2,7,b,Kinematics,Variable acceleration (calculus),3
+2023-ON,4,2,7,c,Kinematics,Variable acceleration (calculus),5
+2024-MJ,4,2,1,,"Energy, work & power",Work-energy principle,3
+2024-MJ,4,2,2,a,Kinematics,Variable acceleration (calculus),2
+2024-MJ,4,2,2,b,Kinematics,Variable acceleration (calculus),3
+2024-MJ,4,2,3,,Forces & equilibrium,Equilibrium of a particle (forces at a point),6
+2024-MJ,4,2,4,a(i),"Energy, work & power",Power & driving force,1
+2024-MJ,4,2,4,a(ii),"Energy, work & power",Power & driving force,3
+2024-MJ,4,2,4,b,"Energy, work & power",Power & driving force,3
+2024-MJ,4,2,5,,Forces & equilibrium,Friction & equilibrium on a slope,8
+2024-MJ,4,2,6,a,Momentum,Collisions (conservation of momentum),3
+2024-MJ,4,2,6,b,Momentum,Loss of kinetic energy in collisions,3
+2024-MJ,4,2,6,c(i),Momentum,Collisions with subsequent motion,4
+2024-MJ,4,2,6,c(ii),Momentum,Collisions with subsequent motion,1
+2024-MJ,4,2,7,a,Newton's laws of motion,Connected particles (pulley),5
+2024-MJ,4,2,7,b,"Energy, work & power",Work-energy principle,5
+2024-ON,4,2,1,a,Kinematics,Displacement/velocity-time graphs,2
+2024-ON,4,2,1,b,Kinematics,Displacement/velocity-time graphs,3
+2024-ON,4,2,2,,"Energy, work & power",Work-energy principle,4
+2024-ON,4,2,3,a,"Energy, work & power",Power & driving force,3
+2024-ON,4,2,3,b,"Energy, work & power",Power & driving force,2
+2024-ON,4,2,4,a,Forces & equilibrium,Equilibrium of a particle (strings),2
+2024-ON,4,2,4,b,Forces & equilibrium,Equilibrium of a particle (strings),4
+2024-ON,4,2,5,a,Kinematics,Vertical motion under gravity,4
+2024-ON,4,2,5,b,Momentum,Collisions with subsequent motion,5
+2024-ON,4,2,6,a,Kinematics,Variable acceleration (calculus),3
+2024-ON,4,2,6,b,Kinematics,Variable acceleration (calculus),3
+2024-ON,4,2,6,c,Kinematics,Variable acceleration (calculus),4
+2024-ON,4,2,7,a,Newton's laws of motion,Connected particles (pulley),7
+2024-ON,4,2,7,b,Newton's laws of motion,Connected particles (pulley),4
+2025-MJ,4,2,1,a,"Energy, work & power",Work done & power by a force,1
+2025-MJ,4,2,1,b,"Energy, work & power",Work done & power by a force,2
+2025-MJ,4,2,1,c,"Energy, work & power",Work done & power by a force,1
+2025-MJ,4,2,2,,Momentum,Collisions (conservation of momentum),4
+2025-MJ,4,2,3,,Forces & equilibrium,Equilibrium of a particle (strings),4
+2025-MJ,4,2,4,a,Kinematics,Constant acceleration (suvat),2
+2025-MJ,4,2,4,b,Kinematics,Displacement/velocity-time graphs,6
+2025-MJ,4,2,4,c,Kinematics,Constant acceleration (suvat),3
+2025-MJ,4,2,5,a,Newton's laws of motion,Connected particles (pulley),3
+2025-MJ,4,2,5,b,Newton's laws of motion,Connected particles (pulley),4
+2025-MJ,4,2,5,c,Newton's laws of motion,Connected particles (pulley),5
+2025-MJ,4,2,6,a,Kinematics,Variable acceleration (calculus),5
+2025-MJ,4,2,6,b,Kinematics,Variable acceleration (calculus),4
+2025-MJ,4,2,7,,"Energy, work & power",Work-energy principle,6
+2025-ON,4,2,1,,Kinematics,Displacement/velocity-time graphs,3
+2025-ON,4,2,2,,Newton's laws of motion,Connected particles (slope/towing),5
+2025-ON,4,2,3,a,Kinematics,Constant acceleration (suvat),2
+2025-ON,4,2,3,b(i),"Energy, work & power",Work-energy principle,4
+2025-ON,4,2,3,b(ii),"Energy, work & power",Power & driving force,2
+2025-ON,4,2,4,a,Kinematics,Vertical motion under gravity,4
+2025-ON,4,2,4,b,Momentum,Collisions with subsequent motion,5
+2025-ON,4,2,5,,Newton's laws of motion,Newton's 2nd law on a slope,6
+2025-ON,4,2,6,,Kinematics,Variable acceleration (calculus),8
+2025-ON,4,2,7,a,Forces & equilibrium,Resultant of coplanar forces,6
+2025-ON,4,2,7,b,Forces & equilibrium,Friction & limiting equilibrium,5
+2026-MJ,4,2,1,a,"Energy, work & power",Power & driving force,2
+2026-MJ,4,2,1,b,"Energy, work & power",Power & driving force,2
+2026-MJ,4,2,2,a,Momentum,Collisions (conservation of momentum),2
+2026-MJ,4,2,2,b,Momentum,Collisions with subsequent motion,2
+2026-MJ,4,2,3,a,Newton's laws of motion,Connected particles (pulley),4
+2026-MJ,4,2,3,b,Newton's laws of motion,Connected particles (pulley),3
+2026-MJ,4,2,3,c,"Energy, work & power",Work-energy principle,3
+2026-MJ,4,2,4,a,"Energy, work & power",Work-energy principle,4
+2026-MJ,4,2,4,b,Newton's laws of motion,Newton's 2nd law on a slope,5
+2026-MJ,4,2,5,,Kinematics,Vertical motion under gravity,6
+2026-MJ,4,2,6,a,Newton's laws of motion,Newton's 2nd law with friction,5
+2026-MJ,4,2,6,b,Newton's laws of motion,Newton's 2nd law with friction,3
+2026-MJ,4,2,7,a,Kinematics,Variable acceleration (calculus),4
+2026-MJ,4,2,7,b,Kinematics,Variable acceleration (calculus),5
+2022-MJ,5,2,1,,Representation of data,Summary statistics (coded sums),3
+2022-MJ,5,2,2,a,Discrete random variables,Probability distribution table,3
+2022-MJ,5,2,2,b,Discrete random variables,E(X) and Var(X),3
+2022-MJ,5,2,3,a,Representation of data,Stem-and-leaf / quartiles,3
+2022-MJ,5,2,3,b,Representation of data,Box-and-whisker plots,3
+2022-MJ,5,2,3,c,Representation of data,Comparing distributions,1
+2022-MJ,5,2,4,a,Normal distribution,Normal probabilities,3
+2022-MJ,5,2,4,b,Normal distribution,Finding mean/sd from probabilities,4
+2022-MJ,5,2,5,a,Binomial & geometric distributions,Binomial probabilities,3
+2022-MJ,5,2,5,b,Normal distribution,Normal approximation to binomial,5
+2022-MJ,5,2,6,a,Permutations & combinations,Arrangements with repeated letters,1
+2022-MJ,5,2,6,b,Permutations & combinations,Arrangements with conditions,3
+2022-MJ,5,2,6,c,Permutations & combinations,Selections (combinations),3
+2022-MJ,5,2,6,d,Permutations & combinations,Selections (combinations),3
+2022-MJ,5,2,7,a,Probability,Probability without replacement,4
+2022-MJ,5,2,7,b,Probability,Conditional probability,2
+2022-MJ,5,2,7,c,Probability,Probability without replacement,3
+2022-ON,5,2,1,a,Probability,Tree diagrams,3
+2022-ON,5,2,1,b,Probability,Conditional probability,2
+2022-ON,5,2,2,a,Normal distribution,Normal probabilities,4
+2022-ON,5,2,2,b,Normal distribution,Normal probabilities,3
+2022-ON,5,2,3,a,Probability,Combined events,3
+2022-ON,5,2,3,b,Binomial & geometric distributions,Geometric distribution,2
+2022-ON,5,2,4,a,Representation of data,Histograms / cumulative frequency,4
+2022-ON,5,2,4,b,Representation of data,Mean & sd from grouped data,3
+2022-ON,5,2,5,a,Probability,Combined events,2
+2022-ON,5,2,5,b,Probability,Conditional probability,2
+2022-ON,5,2,5,c,Discrete random variables,Probability distribution table,3
+2022-ON,5,2,6,a,Binomial & geometric distributions,Binomial probabilities,3
+2022-ON,5,2,6,b,Normal distribution,Normal approximation to binomial,5
+2022-ON,5,2,6,c,Normal distribution,Normal approximation to binomial,1
+2022-ON,5,2,7,a,Permutations & combinations,Arrangements with conditions,2
+2022-ON,5,2,7,b,Permutations & combinations,Probability via arrangements,5
+2022-ON,5,2,7,c,Permutations & combinations,Selections (combinations),3
+2023-MJ,5,2,1,a,Discrete random variables,Probability distribution table,3
+2023-MJ,5,2,1,b,Discrete random variables,E(X) and Var(X),3
+2023-MJ,5,2,2,a,Probability,Tree diagrams,1
+2023-MJ,5,2,2,b,Probability,Tree diagrams,2
+2023-MJ,5,2,2,c,Probability,Tree diagrams,3
+2023-MJ,5,2,3,a,Representation of data,Stem-and-leaf / quartiles,3
+2023-MJ,5,2,3,b,Representation of data,Box-and-whisker plots,3
+2023-MJ,5,2,3,c,Representation of data,Comparing distributions,1
+2023-MJ,5,2,4,a,Binomial & geometric distributions,Geometric distribution,1
+2023-MJ,5,2,4,b,Binomial & geometric distributions,Geometric distribution,2
+2023-MJ,5,2,4,c,Discrete random variables,Probability distribution table,3
+2023-MJ,5,2,4,d,Binomial & geometric distributions,Binomial probabilities,3
+2023-MJ,5,2,5,a,Normal distribution,Normal probabilities,4
+2023-MJ,5,2,5,b,Normal distribution,Finding mean/sd from probabilities,3
+2023-MJ,5,2,5,c,Normal distribution,Normal approximation to binomial,5
+2023-MJ,5,2,6,a,Permutations & combinations,Selections (combinations),4
+2023-MJ,5,2,6,b,Permutations & combinations,Arrangements with conditions,2
+2023-MJ,5,2,6,c,Permutations & combinations,Arrangements with conditions,4
+2023-ON,5,2,1,a,Discrete random variables,Probability distribution table,3
+2023-ON,5,2,1,b,Discrete random variables,E(X) and Var(X),2
+2023-ON,5,2,2,a,Binomial & geometric distributions,Geometric distribution,2
+2023-ON,5,2,2,b,Binomial & geometric distributions,Binomial probabilities,3
+2023-ON,5,2,3,,Normal distribution,Normal approximation to binomial,5
+2023-ON,5,2,4,a,Representation of data,Stem-and-leaf / quartiles,4
+2023-ON,5,2,4,b,Representation of data,Stem-and-leaf / quartiles,3
+2023-ON,5,2,4,c,Representation of data,Comparing distributions,1
+2023-ON,5,2,5,a(i),Normal distribution,Normal probabilities,2
+2023-ON,5,2,5,a(ii),Normal distribution,Finding mean/sd from probabilities,3
+2023-ON,5,2,5,b,Normal distribution,Finding mean/sd from probabilities,3
+2023-ON,5,2,6,a,Probability,Tree diagrams,3
+2023-ON,5,2,6,b,Probability,Tree diagrams,4
+2023-ON,5,2,6,c,Probability,Conditional probability,2
+2023-ON,5,2,7,a,Permutations & combinations,Arrangements with conditions,3
+2023-ON,5,2,7,b,Permutations & combinations,Arrangements with conditions,3
+2023-ON,5,2,7,c,Permutations & combinations,Probability via selections,4
+2024-MJ,5,2,1,a,Binomial & geometric distributions,Geometric distribution,1
+2024-MJ,5,2,1,b,Binomial & geometric distributions,Geometric distribution,2
+2024-MJ,5,2,1,c,Binomial & geometric distributions,Binomial probabilities,2
+2024-MJ,5,2,2,a,Probability,Tree diagrams,3
+2024-MJ,5,2,2,b,Probability,Conditional probability,2
+2024-MJ,5,2,3,a,Normal distribution,Normal probabilities,3
+2024-MJ,5,2,3,b,Normal distribution,Normal probabilities,3
+2024-MJ,5,2,4,a,Representation of data,Stem-and-leaf / quartiles,3
+2024-MJ,5,2,4,b,Representation of data,Box-and-whisker plots,3
+2024-MJ,5,2,4,c,Representation of data,Comparing distributions,1
+2024-MJ,5,2,5,a,Discrete random variables,Probability distribution table,1
+2024-MJ,5,2,5,b,Discrete random variables,Probability distribution table,3
+2024-MJ,5,2,5,c,Discrete random variables,E(X) and Var(X),3
+2024-MJ,5,2,6,a,Normal distribution,Normal approximation to binomial,5
+2024-MJ,5,2,6,b,Binomial & geometric distributions,Binomial probabilities,3
+2024-MJ,5,2,6,c,Probability,Combined events,2
+2024-MJ,5,2,7,a,Permutations & combinations,Arrangements with repeated letters,1
+2024-MJ,5,2,7,b,Permutations & combinations,Arrangements with conditions,4
+2024-MJ,5,2,7,c,Permutations & combinations,Probability via arrangements,5
+2024-ON,5,2,1,a,Probability,Two-way tables & independence,1
+2024-ON,5,2,1,b,Probability,Two-way tables & independence,1
+2024-ON,5,2,1,c,Probability,Two-way tables & independence,1
+2024-ON,5,2,1,d,Binomial & geometric distributions,Binomial probabilities,3
+2024-ON,5,2,2,a,Permutations & combinations,Arrangements with repeated letters,1
+2024-ON,5,2,2,b,Permutations & combinations,Arrangements with conditions,3
+2024-ON,5,2,3,a,Discrete random variables,Probability distribution table,3
+2024-ON,5,2,3,b,Discrete random variables,E(X) and Var(X),3
+2024-ON,5,2,4,a,Normal distribution,Normal probabilities,4
+2024-ON,5,2,4,b,Normal distribution,Finding mean/sd from probabilities,3
+2024-ON,5,2,5,a,Permutations & combinations,Selections (combinations),2
+2024-ON,5,2,5,b,Permutations & combinations,Selections (combinations),4
+2024-ON,5,2,6,a,Representation of data,Stem-and-leaf / quartiles,4
+2024-ON,5,2,6,b,Representation of data,Stem-and-leaf / quartiles,3
+2024-ON,5,2,6,c,Representation of data,Summary statistics (coded sums),3
+2024-ON,5,2,7,a,Binomial & geometric distributions,Geometric distribution,1
+2024-ON,5,2,7,b,Binomial & geometric distributions,Geometric distribution,2
+2024-ON,5,2,7,c,Binomial & geometric distributions,Binomial probabilities,3
+2024-ON,5,2,7,d,Normal distribution,Normal approximation to binomial,5
+2025-MJ,5,2,1,,Probability,Combined events,3
+2025-MJ,5,2,2,,Normal distribution,Normal approximation to binomial,5
+2025-MJ,5,2,3,a,Probability,Probability without replacement,2
+2025-MJ,5,2,3,b,Probability,Conditional probability,3
+2025-MJ,5,2,4,a,Binomial & geometric distributions,Binomial probabilities,2
+2025-MJ,5,2,4,b,Binomial & geometric distributions,Geometric distribution,2
+2025-MJ,5,2,4,c,Binomial & geometric distributions,Binomial probabilities,2
+2025-MJ,5,2,5,a,Representation of data,Histograms / cumulative frequency,2
+2025-MJ,5,2,5,b,Representation of data,Histograms / cumulative frequency,2
+2025-MJ,5,2,5,c,Representation of data,Mean & sd from grouped data,6
+2025-MJ,5,2,6,a,Permutations & combinations,Arrangements with conditions,3
+2025-MJ,5,2,6,b,Permutations & combinations,Arrangements with conditions,3
+2025-MJ,5,2,6,c,Permutations & combinations,Selections (combinations),3
+2025-MJ,5,2,7,a,Normal distribution,Normal probabilities,4
+2025-MJ,5,2,7,b,Normal distribution,Finding mean/sd from probabilities,5
+2025-MJ,5,2,7,c,Binomial & geometric distributions,Binomial probabilities,3
+2025-ON,5,2,1,a,Binomial & geometric distributions,Geometric distribution,1
+2025-ON,5,2,1,b,Binomial & geometric distributions,Geometric distribution,2
+2025-ON,5,2,2,a,Discrete random variables,Probability distribution table,4
+2025-ON,5,2,2,b,Discrete random variables,E(X) and Var(X),3
+2025-ON,5,2,3,a,Normal distribution,Normal probabilities,4
+2025-ON,5,2,3,b,Normal distribution,Finding mean/sd from probabilities,3
+2025-ON,5,2,4,a,Probability,Two-way tables & independence,4
+2025-ON,5,2,4,b,Probability,Combined events,3
+2025-ON,5,2,5,a,Representation of data,Histograms / cumulative frequency,4
+2025-ON,5,2,5,b,Representation of data,Mean & sd from grouped data,3
+2025-ON,5,2,6,a,Binomial & geometric distributions,Binomial probabilities,1
+2025-ON,5,2,6,b,Binomial & geometric distributions,Binomial probabilities,3
+2025-ON,5,2,6,c,Normal distribution,Normal approximation to binomial,5
+2025-ON,5,2,7,a,Permutations & combinations,Arrangements with conditions,4
+2025-ON,5,2,7,b,Permutations & combinations,Arrangements with conditions,3
+2025-ON,5,2,7,c,Permutations & combinations,Probability via selections,3
+2026-MJ,5,2,1,a,Permutations & combinations,Probability via selections,4
+2026-MJ,5,2,1,b,Permutations & combinations,Selections (combinations),2
+2026-MJ,5,2,2,a,Discrete random variables,Probability distribution table,3
+2026-MJ,5,2,2,b,Binomial & geometric distributions,Geometric distribution,2
+2026-MJ,5,2,2,c,Binomial & geometric distributions,Binomial probabilities,3
+2026-MJ,5,2,3,a,Permutations & combinations,Arrangements with conditions,1
+2026-MJ,5,2,3,b,Permutations & combinations,Arrangements with conditions,3
+2026-MJ,5,2,4,a,Binomial & geometric distributions,Binomial probabilities,3
+2026-MJ,5,2,4,b,Normal distribution,Normal approximation to binomial,5
+2026-MJ,5,2,5,a,Probability,Probability without replacement,1
+2026-MJ,5,2,5,b,Probability,Probability without replacement,3
+2026-MJ,5,2,5,c,Probability,Conditional probability,3
+2026-MJ,5,2,6,a,Representation of data,Stem-and-leaf / quartiles,4
+2026-MJ,5,2,6,b,Representation of data,Stem-and-leaf / quartiles,2
+2026-MJ,5,2,6,c,Representation of data,Summary statistics (coded sums),2
+2026-MJ,5,2,7,a,Normal distribution,Finding mean/sd from probabilities,5
+2026-MJ,5,2,7,b,Normal distribution,Normal probabilities,4
+2023-MJ,6,2,1,,Sampling & estimation,Confidence intervals,3
+2023-MJ,6,2,2,a,Poisson distribution,Poisson distribution,1
+2023-MJ,6,2,2,b,Poisson distribution,Poisson approximation to binomial,1
+2023-MJ,6,2,2,c,Poisson distribution,Poisson approximation to binomial,3
+2023-MJ,6,2,3,a,Sampling & estimation,Unbiased estimates / sample mean,3
+2023-MJ,6,2,3,b,Hypothesis testing,Hypothesis test (normal mean),5
+2023-MJ,6,2,4,a,Poisson distribution,Poisson distribution,1
+2023-MJ,6,2,4,b,Poisson distribution,Poisson distribution,2
+2023-MJ,6,2,4,c,Poisson distribution,Normal approximation to Poisson,4
+2023-MJ,6,2,4,d,Poisson distribution,Sum of Poisson variables,3
+2023-MJ,6,2,5,a,Linear combinations of random variables,Linear combinations of normals,5
+2023-MJ,6,2,5,b(i),Linear combinations of random variables,Linear combinations of normals,5
+2023-MJ,6,2,5,b(ii),Linear combinations of random variables,Linear combinations of normals,1
+2023-MJ,6,2,6,a,Hypothesis testing,Hypothesis test (binomial),2
+2023-MJ,6,2,6,b,Hypothesis testing,Type I / Type II errors,3
+2023-MJ,6,2,7,a(i),Continuous random variables,Probability density functions,2
+2023-MJ,6,2,7,a(ii),Continuous random variables,Probability density functions,3
+2023-MJ,6,2,7,b,Continuous random variables,Probability density functions,3
+2023-ON,6,2,1,a,Poisson distribution,Normal approximation to Poisson,4
+2023-ON,6,2,1,b,Poisson distribution,Poisson approximation to binomial,2
+2023-ON,6,2,2,a,Sampling & estimation,Unbiased estimates / sample mean,3
+2023-ON,6,2,2,b,Sampling & estimation,Confidence intervals,2
+2023-ON,6,2,3,a(i),Hypothesis testing,Hypothesis test (binomial),1
+2023-ON,6,2,3,a(ii),Hypothesis testing,Hypothesis test (binomial),5
+2023-ON,6,2,3,b,Hypothesis testing,Type I / Type II errors,1
+2023-ON,6,2,3,c,Hypothesis testing,Type I / Type II errors,2
+2023-ON,6,2,4,a,Hypothesis testing,Hypothesis test (normal mean),1
+2023-ON,6,2,4,b,Hypothesis testing,Hypothesis test (normal mean),3
+2023-ON,6,2,4,c,Sampling & estimation,Central Limit Theorem,1
+2023-ON,6,2,5,a,Continuous random variables,Probability density functions,3
+2023-ON,6,2,5,b,Continuous random variables,Probability density functions,3
+2023-ON,6,2,5,c,Continuous random variables,Median / mean of a pdf,3
+2023-ON,6,2,6,,Linear combinations of random variables,Linear combinations of normals,7
+2023-ON,6,2,7,a,Poisson distribution,Poisson distribution,2
+2023-ON,6,2,7,b,Poisson distribution,Poisson distribution,3
+2023-ON,6,2,7,c(i),Poisson distribution,Poisson distribution,3
+2023-ON,6,2,7,c(ii),Poisson distribution,Poisson distribution,1
+2025-MJ,6,2,1,a,Sampling & estimation,Random sampling,1
+2025-MJ,6,2,1,b,Linear combinations of random variables,Linear combinations of normals,5
+2025-MJ,6,2,2,,Sampling & estimation,Unbiased estimates / sample mean,3
+2025-MJ,6,2,3,a,Poisson distribution,Poisson distribution,1
+2025-MJ,6,2,3,b,Poisson distribution,Poisson distribution,3
+2025-MJ,6,2,4,,Sampling & estimation,Confidence intervals,4
+2025-MJ,6,2,5,,Hypothesis testing,Hypothesis test (normal mean),4
+2025-MJ,6,2,6,a(i),Poisson distribution,Poisson approximation to binomial,3
+2025-MJ,6,2,6,a(ii),Poisson distribution,Sum of Poisson variables,3
+2025-MJ,6,2,6,b,Poisson distribution,Normal approximation to Poisson,4
+2025-MJ,6,2,7,a,Continuous random variables,Probability density functions,3
+2025-MJ,6,2,7,b,Continuous random variables,Median / mean of a pdf,3
+2025-MJ,6,2,7,c,Continuous random variables,Median / mean of a pdf,3
+2025-MJ,6,2,8,a,Hypothesis testing,Hypothesis test (binomial),5
+2025-MJ,6,2,8,b,Hypothesis testing,Type I / Type II errors,2
+2025-MJ,6,2,8,c,Hypothesis testing,Type I / Type II errors,3
+2025-ON,6,2,1,a,Poisson distribution,Poisson distribution,1
+2025-ON,6,2,1,b,Poisson distribution,Poisson distribution,3
+2025-ON,6,2,1,c,Poisson distribution,Normal approximation to Poisson,4
+2025-ON,6,2,2,a,Linear combinations of random variables,Linear combinations of normals,3
+2025-ON,6,2,2,b,Linear combinations of random variables,Linear combinations of normals,3
+2025-ON,6,2,3,a,Sampling & estimation,Confidence intervals,3
+2025-ON,6,2,3,b,Sampling & estimation,Central Limit Theorem,1
+2025-ON,6,2,3,c,Sampling & estimation,Confidence intervals,4
+2025-ON,6,2,4,a,Hypothesis testing,Hypothesis test (binomial),6
+2025-ON,6,2,4,b,Hypothesis testing,Hypothesis test (binomial),1
+2025-ON,6,2,5,a,Continuous random variables,Probability density functions,3
+2025-ON,6,2,5,b(i),Continuous random variables,Median / mean of a pdf,1
+2025-ON,6,2,5,b(ii),Continuous random variables,Median / mean of a pdf,5
+2025-ON,6,2,6,a,Hypothesis testing,Hypothesis test (normal mean),6
+2025-ON,6,2,6,b,Hypothesis testing,Type I / Type II errors,1
+2025-ON,6,2,6,c,Hypothesis testing,Type I / Type II errors,5
+2026-MJ,6,2,1,,Sampling & estimation,Unbiased estimates / sample mean,3
+2026-MJ,6,2,2,,Linear combinations of random variables,Linear combinations of normals,5
+2026-MJ,6,2,3,a,Hypothesis testing,Hypothesis test (Poisson),1
+2026-MJ,6,2,3,b,Hypothesis testing,Hypothesis test (Poisson),4
+2026-MJ,6,2,3,c,Hypothesis testing,Type I / Type II errors,1
+2026-MJ,6,2,4,a,Poisson distribution,Sum of Poisson variables,3
+2026-MJ,6,2,4,b,Poisson distribution,Sum of Poisson variables,3
+2026-MJ,6,2,4,c,Poisson distribution,Normal approximation to Poisson,4
+2026-MJ,6,2,5,a,Sampling & estimation,Confidence intervals,4
+2026-MJ,6,2,5,b,Sampling & estimation,Confidence intervals,3
+2026-MJ,6,2,6,a,Hypothesis testing,Hypothesis test (normal mean),5
+2026-MJ,6,2,6,b,Sampling & estimation,Central Limit Theorem,1
+2026-MJ,6,2,6,c,Hypothesis testing,Hypothesis test (normal mean),3
+2026-MJ,6,2,7,a,Continuous random variables,Median / mean of a pdf,6
+2026-MJ,6,2,7,b,Continuous random variables,Median / mean of a pdf,4

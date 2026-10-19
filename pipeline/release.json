@@ -1,0 +1,10 @@
+{
+  "site_name": "Cambridge IGCSE Question Simulator",
+  "base_url": "https://cambridgesimulator.homilabs.org",
+  "contact_email": "homilabs.smc@gmail.com",
+  "version": "2026-10",
+  "label": "May/June 2022 to May/June 2026",
+  "first_session": "May/June 2022",
+  "latest_session": "May/June 2026",
+  "sessions": ["2022-MJ", "2022-ON", "2023-MJ", "2023-ON", "2024-MJ", "2024-ON", "2025-MJ", "2025-ON", "2026-MJ"]
+}

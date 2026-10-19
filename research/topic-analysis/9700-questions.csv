@@ -1,0 +1,1095 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,,Cell structure,"Microscopy, magnification & resolution",1
+2022-MJ,1,2,2,,Cell structure,"Microscopy, magnification & resolution",1
+2022-MJ,1,2,3,,Cell structure,Cell ultrastructure & organelles,1
+2022-MJ,1,2,4,,Cell structure,Cell ultrastructure & organelles,1
+2022-MJ,1,2,5,,Cell structure,Prokaryotes & viruses,1
+2022-MJ,1,2,6,,Biological molecules,Biochemical tests,1
+2022-MJ,1,2,7,,Biological molecules,Water,1
+2022-MJ,1,2,8,,Biological molecules,Carbohydrates,1
+2022-MJ,1,2,9,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2022-MJ,1,2,10,,Biological molecules,Water,1
+2022-MJ,1,2,11,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2022-MJ,1,2,12,,Enzymes,"Vmax, Km & immobilised enzymes",1
+2022-MJ,1,2,13,,Biological molecules,Lipids,1
+2022-MJ,1,2,14,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2022-MJ,1,2,15,,Cell membranes & transport,"Active transport, endo- & exocytosis",1
+2022-MJ,1,2,16,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2022-MJ,1,2,17,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2022-MJ,1,2,18,,The mitotic cell cycle,Chromosome structure & telomeres,1
+2022-MJ,1,2,19,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2022-MJ,1,2,20,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2022-MJ,1,2,21,,Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",1
+2022-MJ,1,2,22,,Nucleic acids & protein synthesis,Transcription & translation,1
+2022-MJ,1,2,23,,Nucleic acids & protein synthesis,Gene mutation,1
+2022-MJ,1,2,24,,Transport in plants,Structure of xylem & phloem,1
+2022-MJ,1,2,25,,Transport in plants,Structure of xylem & phloem,1
+2022-MJ,1,2,26,,Transport in plants,Water uptake & transpiration,1
+2022-MJ,1,2,27,,Transport in plants,Water uptake & transpiration,1
+2022-MJ,1,2,28,,Transport in plants,Water uptake & transpiration,1
+2022-MJ,1,2,29,,Transport in plants,Translocation (phloem),1
+2022-MJ,1,2,30,,Transport in mammals,Heart & cardiac cycle,1
+2022-MJ,1,2,31,,Transport in mammals,Blood vessels & circulation,1
+2022-MJ,1,2,32,,Transport in mammals,Heart & cardiac cycle,1
+2022-MJ,1,2,33,,Transport in mammals,Tissue fluid,1
+2022-MJ,1,2,34,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2022-MJ,1,2,35,,Gas exchange,Gas exchange system: structure & tissues,1
+2022-MJ,1,2,36,,Gas exchange,Gas exchange system: structure & tissues,1
+2022-MJ,1,2,37,,Infectious diseases,"Diseases, pathogens & transmission",1
+2022-MJ,1,2,38,,Immunity,Vaccination & types of immunity,1
+2022-MJ,1,2,39,,Immunity,Lymphocytes & antibodies,1
+2022-MJ,1,2,40,,Immunity,Phagocytes & the immune response,1
+2022-MJ,2,2,1,(a),Cell structure,"Microscopy, magnification & resolution",1
+2022-MJ,2,2,1,(b),Cell structure,"Microscopy, magnification & resolution",2
+2022-MJ,2,2,1,(c)(i),Cell membranes & transport,"Active transport, endo- & exocytosis",2
+2022-MJ,2,2,1,(c)(ii),Cell membranes & transport,"Active transport, endo- & exocytosis",2
+2022-MJ,2,2,1,(c)(iii),Cell membranes & transport,Surface area : volume,2
+2022-MJ,2,2,1,(d),The mitotic cell cycle,Stem cells & cancer,4
+2022-MJ,2,2,2,(a)(i),Infectious diseases,"Diseases, pathogens & transmission",2
+2022-MJ,2,2,2,(a)(ii),Infectious diseases,"Diseases, pathogens & transmission",2
+2022-MJ,2,2,2,(b)(i),Immunity,Monoclonal antibodies,2
+2022-MJ,2,2,2,(b)(ii),Immunity,Monoclonal antibodies,3
+2022-MJ,2,2,2,(c)(i),Immunity,Monoclonal antibodies,1
+2022-MJ,2,2,2,(c)(ii),Immunity,Monoclonal antibodies,1
+2022-MJ,2,2,3,(a),Biological molecules,Carbohydrates,2
+2022-MJ,2,2,3,(b)(i),Biological molecules,Lipids,3
+2022-MJ,2,2,3,(b)(ii),Biological molecules,Lipids,1
+2022-MJ,2,2,3,(c),Transport in mammals,Blood vessels & circulation,1
+2022-MJ,2,2,3,(d),Transport in mammals,Heart & cardiac cycle,2
+2022-MJ,2,2,3,(e),Transport in mammals,Blood vessels & circulation,3
+2022-MJ,2,2,4,(a),Transport in mammals,"Blood cells, haemoglobin & gas transport",2
+2022-MJ,2,2,4,(b),Enzymes,Mode of action & specificity,1
+2022-MJ,2,2,4,(c),Nucleic acids & protein synthesis,Transcription & translation,3
+2022-MJ,2,2,4,(d),Transport in mammals,"Blood cells, haemoglobin & gas transport",2
+2022-MJ,2,2,4,(e),Cell membranes & transport,"Active transport, endo- & exocytosis",1
+2022-MJ,2,2,4,(f),Enzymes,Enzyme inhibition,3
+2022-MJ,2,2,5,(a),Cell structure,"Microscopy, magnification & resolution",1
+2022-MJ,2,2,5,(b),Gas exchange,Gas exchange system: structure & tissues,2
+2022-MJ,2,2,5,(c),Gas exchange,Gas exchange system: structure & tissues,3
+2022-MJ,2,2,6,(a),Transport in plants,Translocation (phloem),3
+2022-MJ,2,2,6,(b),Transport in plants,Structure of xylem & phloem,3
+2022-MJ,4,2,1,(a)(i),Inherited change,Control of gene expression,1
+2022-MJ,4,2,1,(a)(ii),Homeostasis,Blood glucose & cell signalling,1
+2022-MJ,4,2,1,(a)(iii),Inherited change,Control of gene expression,2
+2022-MJ,4,2,1,(b),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",4
+2022-MJ,4,2,2,(a)(i),Photosynthesis,Limiting factors,2
+2022-MJ,4,2,2,(a)(ii),Photosynthesis,Calvin cycle (light-independent stage),2
+2022-MJ,4,2,2,(a)(iii),Photosynthesis,Limiting factors,3
+2022-MJ,4,2,2,(b)(i),Photosynthesis,Calvin cycle (light-independent stage),2
+2022-MJ,4,2,2,(b)(ii),Photosynthesis,Calvin cycle (light-independent stage),4
+2022-MJ,4,2,2,(b)(iii),Photosynthesis,Limiting factors,2
+2022-MJ,4,2,3,(a),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",4
+2022-MJ,4,2,3,(b),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",5
+2022-MJ,4,2,4,(a),Genetic technology,Recombinant DNA & GM organisms,5
+2022-MJ,4,2,4,(b)(i),Genetic technology,Recombinant DNA & GM organisms,1
+2022-MJ,4,2,4,(b)(ii),Genetic technology,Recombinant DNA & GM organisms,3
+2022-MJ,4,2,5,(a),Selection & evolution,"Speciation, drift & molecular evidence",4
+2022-MJ,4,2,5,(b),Selection & evolution,Natural & artificial selection,3
+2022-MJ,4,2,5,(c),Selection & evolution,"Speciation, drift & molecular evidence",3
+2022-MJ,4,2,5,(d),Selection & evolution,"Speciation, drift & molecular evidence",4
+2022-MJ,4,2,6,(a),Control & coordination,Plant responses & hormones,2
+2022-MJ,4,2,6,(b),Control & coordination,Plant responses & hormones,3
+2022-MJ,4,2,6,(c),Control & coordination,Plant responses & hormones,4
+2022-MJ,4,2,7,(a),Inherited change,Control of gene expression,2
+2022-MJ,4,2,7,(b)(i),Inherited change,Control of gene expression,1
+2022-MJ,4,2,7,(b)(ii),Inherited change,Control of gene expression,2
+2022-MJ,4,2,7,(c),Inherited change,Control of gene expression,4
+2022-MJ,4,2,8,(a),Control & coordination,Sensory receptors & reflexes,1
+2022-MJ,4,2,8,(b),Control & coordination,Sensory receptors & reflexes,1
+2022-MJ,4,2,8,(c),Control & coordination,Sensory receptors & reflexes,7
+2022-MJ,4,2,9,(a),Homeostasis,Kidney & osmoregulation,2
+2022-MJ,4,2,9,(b)(i),Homeostasis,Kidney & osmoregulation,2
+2022-MJ,4,2,9,(b)(ii),Homeostasis,Kidney & osmoregulation,3
+2022-MJ,4,2,10,(a),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",3
+2022-MJ,4,2,10,(b),"Classification, biodiversity & conservation",Conservation & threats,3
+2022-MJ,4,2,10,(c),"Classification, biodiversity & conservation",Conservation & threats,1
+2022-MJ,4,2,10,(d),"Classification, biodiversity & conservation","Classification, domains & kingdoms",4
+2022-MJ,5,2,1,(a)(i),Cell membranes & transport,Skill: variables & controls,1
+2022-MJ,5,2,1,(a)(ii),Cell membranes & transport,Skill: graphs & charts,2
+2022-MJ,5,2,1,(b)(i),Cell membranes & transport,Skill: planning a method,7
+2022-MJ,5,2,1,(b)(ii),Cell membranes & transport,Skill: calculations & data processing,2
+2022-MJ,5,2,1,(c)(i),Cell membranes & transport,Skill: calculations & data processing,2
+2022-MJ,5,2,1,(c)(ii),Cell membranes & transport,"Skill: errors, reliability & improvements",2
+2022-MJ,5,2,1,(c)(iii),Cell membranes & transport,Skill: conclusions & interpreting data,2
+2022-MJ,5,2,2,(a),Infectious diseases,Skill: planning a method,3
+2022-MJ,5,2,2,(b)(i),Infectious diseases,Skill: variables & controls,2
+2022-MJ,5,2,2,(b)(ii),Infectious diseases,Skill: variables & controls,3
+2022-MJ,5,2,2,(c)(i),Infectious diseases,Skill: hypotheses & predictions,1
+2022-MJ,5,2,2,(c)(ii),Infectious diseases,Skill: conclusions & interpreting data,3
+2022-ON,1,2,1,,Cell structure,"Microscopy, magnification & resolution",1
+2022-ON,1,2,2,,Cell structure,Cell ultrastructure & organelles,1
+2022-ON,1,2,3,,Cell structure,Cell ultrastructure & organelles,1
+2022-ON,1,2,4,,Cell structure,Prokaryotes & viruses,1
+2022-ON,1,2,5,,Cell structure,Prokaryotes & viruses,1
+2022-ON,1,2,6,,Biological molecules,Biochemical tests,1
+2022-ON,1,2,7,,Biological molecules,Carbohydrates,1
+2022-ON,1,2,8,,Biological molecules,Carbohydrates,1
+2022-ON,1,2,9,,Biological molecules,Carbohydrates,1
+2022-ON,1,2,10,,Biological molecules,Lipids,1
+2022-ON,1,2,11,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2022-ON,1,2,12,,Enzymes,Mode of action & specificity,1
+2022-ON,1,2,13,,Enzymes,Factors affecting enzyme activity,1
+2022-ON,1,2,14,,Enzymes,"Vmax, Km & immobilised enzymes",1
+2022-ON,1,2,15,,Cell membranes & transport,Membrane structure & cell signalling,1
+2022-ON,1,2,16,,Cell membranes & transport,"Active transport, endo- & exocytosis",1
+2022-ON,1,2,17,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2022-ON,1,2,18,,The mitotic cell cycle,Chromosome structure & telomeres,1
+2022-ON,1,2,19,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2022-ON,1,2,20,,The mitotic cell cycle,Stem cells & cancer,1
+2022-ON,1,2,21,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2022-ON,1,2,22,,Nucleic acids & protein synthesis,DNA replication,1
+2022-ON,1,2,23,,Nucleic acids & protein synthesis,Gene mutation,1
+2022-ON,1,2,24,,Nucleic acids & protein synthesis,Transcription & translation,1
+2022-ON,1,2,25,,Nucleic acids & protein synthesis,Gene mutation,1
+2022-ON,1,2,26,,Transport in plants,Structure of xylem & phloem,1
+2022-ON,1,2,27,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2022-ON,1,2,28,,Transport in plants,Water uptake & transpiration,1
+2022-ON,1,2,29,,Transport in plants,Water uptake & transpiration,1
+2022-ON,1,2,30,,Transport in plants,Water uptake & transpiration,1
+2022-ON,1,2,31,,Transport in plants,Translocation (phloem),1
+2022-ON,1,2,32,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2022-ON,1,2,33,,Transport in mammals,Blood vessels & circulation,1
+2022-ON,1,2,34,,Transport in mammals,Heart & cardiac cycle,1
+2022-ON,1,2,35,,Transport in mammals,Heart & cardiac cycle,1
+2022-ON,1,2,36,,Gas exchange,Alveoli & gas exchange,1
+2022-ON,1,2,37,,Gas exchange,Gas exchange system: structure & tissues,1
+2022-ON,1,2,38,,Infectious diseases,"Diseases, pathogens & transmission",1
+2022-ON,1,2,39,,Immunity,Vaccination & types of immunity,1
+2022-ON,1,2,40,,Immunity,Lymphocytes & antibodies,1
+2022-ON,2,2,1,(a),Transport in mammals,Blood vessels & circulation,3
+2022-ON,2,2,1,(b),Transport in mammals,Blood vessels & circulation,1
+2022-ON,2,2,1,(c),Transport in mammals,Heart & cardiac cycle,2
+2022-ON,2,2,1,(d),Transport in mammals,"Blood cells, haemoglobin & gas transport",5
+2022-ON,2,2,2,(a),Cell structure,Prokaryotes & viruses,2
+2022-ON,2,2,2,(b),Cell structure,"Microscopy, magnification & resolution",1
+2022-ON,2,2,2,(c),Nucleic acids & protein synthesis,DNA replication,1
+2022-ON,2,2,2,(d),Cell structure,Prokaryotes & viruses,2
+2022-ON,2,2,2,(e),Cell structure,Prokaryotes & viruses,2
+2022-ON,2,2,2,(f),The mitotic cell cycle,Mitosis & the cell cycle,3
+2022-ON,2,2,2,(g),Immunity,Lymphocytes & antibodies,4
+2022-ON,2,2,3,(a),Infectious diseases,"Diseases, pathogens & transmission",1
+2022-ON,2,2,3,(b)(i),Infectious diseases,Antibiotics & resistance,2
+2022-ON,2,2,3,(b)(ii),Infectious diseases,Antibiotics & resistance,2
+2022-ON,2,2,3,(c)(i),Nucleic acids & protein synthesis,Gene mutation,3
+2022-ON,2,2,3,(c)(ii),Infectious diseases,Antibiotics & resistance,3
+2022-ON,2,2,4,(a),Gas exchange,Gas exchange system: structure & tissues,2
+2022-ON,2,2,4,(b)(i),Gas exchange,Gas exchange system: structure & tissues,3
+2022-ON,2,2,4,(b)(ii),Gas exchange,Gas exchange system: structure & tissues,3
+2022-ON,2,2,5,(a),Biological molecules,Proteins (incl. haemoglobin & collagen),3
+2022-ON,2,2,5,(b),Cell membranes & transport,"Active transport, endo- & exocytosis",3
+2022-ON,2,2,5,(c)(i),Enzymes,Enzyme inhibition,2
+2022-ON,2,2,5,(c)(ii),Enzymes,Enzyme inhibition,2
+2022-ON,2,2,6,(a),Biological molecules,Water,2
+2022-ON,2,2,6,(b),Transport in plants,Translocation (phloem),3
+2022-ON,4,2,1,(a),"Classification, biodiversity & conservation",Conservation & threats,3
+2022-ON,4,2,1,(b),"Classification, biodiversity & conservation",Conservation & threats,2
+2022-ON,4,2,1,(c),"Classification, biodiversity & conservation",Conservation & threats,4
+2022-ON,4,2,2,(a)(i),Energy & respiration,Anaerobic respiration,4
+2022-ON,4,2,2,(a)(ii),Energy & respiration,Anaerobic respiration,2
+2022-ON,4,2,2,(b),Energy & respiration,Anaerobic respiration,2
+2022-ON,4,2,2,(c),Energy & respiration,Anaerobic respiration,2
+2022-ON,4,2,2,(d),Energy & respiration,Anaerobic respiration,1
+2022-ON,4,2,3,(a)(i),Photosynthesis,Chloroplast structure & pigments,2
+2022-ON,4,2,3,(a)(ii),Photosynthesis,Light-dependent stage,4
+2022-ON,4,2,3,(b)(i),Photosynthesis,Light-dependent stage,3
+2022-ON,4,2,3,(b)(ii),Photosynthesis,Light-dependent stage,3
+2022-ON,4,2,4,(a),Genetic technology,Recombinant DNA & GM organisms,4
+2022-ON,4,2,4,(b)(i),Genetic technology,Gene therapy & genetic screening,3
+2022-ON,4,2,4,(b)(ii),Genetic technology,Gene therapy & genetic screening,2
+2022-ON,4,2,4,(b)(iii),Genetic technology,Gene therapy & genetic screening,2
+2022-ON,4,2,4,(c),Genetic technology,Gene therapy & genetic screening,2
+2022-ON,4,2,5,(a),Genetic technology,"PCR, electrophoresis & sequencing",3
+2022-ON,4,2,5,(b),Selection & evolution,"Speciation, drift & molecular evidence",5
+2022-ON,4,2,5,(c),Selection & evolution,"Speciation, drift & molecular evidence",2
+2022-ON,4,2,6,(a)(i),Inherited change,Control of gene expression,3
+2022-ON,4,2,6,(a)(ii),Inherited change,Control of gene expression,1
+2022-ON,4,2,6,(a)(iii),Inherited change,Control of gene expression,2
+2022-ON,4,2,6,(a)(iv),Inherited change,Control of gene expression,2
+2022-ON,4,2,6,(b)(i),Inherited change,Control of gene expression,4
+2022-ON,4,2,6,(b)(ii),Inherited change,Control of gene expression,1
+2022-ON,4,2,7,(a),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",2
+2022-ON,4,2,7,(b),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",5
+2022-ON,4,2,7,(c),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",3
+2022-ON,4,2,8,(a),Homeostasis,Kidney & osmoregulation,2
+2022-ON,4,2,8,(b),Homeostasis,Kidney & osmoregulation,5
+2022-ON,4,2,8,(c),Homeostasis,Kidney & osmoregulation,2
+2022-ON,4,2,9,(a),Control & coordination,Neurones & action potentials,3
+2022-ON,4,2,9,(b),Control & coordination,Neurones & action potentials,3
+2022-ON,4,2,10,(a),Homeostasis,Blood glucose & cell signalling,4
+2022-ON,4,2,10,(b),Homeostasis,Blood glucose & cell signalling,3
+2022-ON,5,2,1,(a),Biological molecules,Skill: planning a method,2
+2022-ON,5,2,1,(b)(i),Biological molecules,Skill: planning a method,2
+2022-ON,5,2,1,(b)(ii),Biological molecules,Skill: variables & controls,1
+2022-ON,5,2,1,(b)(iii),Biological molecules,Skill: graphs & charts,2
+2022-ON,5,2,1,(b)(iv),Biological molecules,Skill: explaining results with biology,2
+2022-ON,5,2,1,(c),Biological molecules,Skill: planning a method,6
+2022-ON,5,2,2,(a),Genetic technology,Skill: variables & controls,1
+2022-ON,5,2,2,(b),Genetic technology,Skill: explaining results with biology,2
+2022-ON,5,2,2,(c)(i),Genetic technology,"Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",2
+2022-ON,5,2,2,(c)(ii),Genetic technology,Skill: hypotheses & predictions,1
+2022-ON,5,2,2,(c)(iii),Genetic technology,Skill: calculations & data processing,2
+2022-ON,5,2,2,(d),Genetic technology,"Skill: errors, reliability & improvements",2
+2022-ON,5,2,2,(e)(i),Genetic technology,Skill: calculations & data processing,1
+2022-ON,5,2,2,(e)(ii),Genetic technology,"Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",1
+2022-ON,5,2,2,(e)(iii),Genetic technology,Skill: conclusions & interpreting data,1
+2022-ON,5,2,2,(f),Genetic technology,Skill: conclusions & interpreting data,2
+2023-MJ,1,2,1,,Cell structure,"Microscopy, magnification & resolution",1
+2023-MJ,1,2,2,,Cell structure,Cell ultrastructure & organelles,1
+2023-MJ,1,2,3,,Cell structure,Cell ultrastructure & organelles,1
+2023-MJ,1,2,4,,Cell structure,Cell ultrastructure & organelles,1
+2023-MJ,1,2,5,,Cell structure,Prokaryotes & viruses,1
+2023-MJ,1,2,6,,Cell structure,Prokaryotes & viruses,1
+2023-MJ,1,2,7,,Biological molecules,Biochemical tests,1
+2023-MJ,1,2,8,,Biological molecules,Biochemical tests,1
+2023-MJ,1,2,9,,Biological molecules,Carbohydrates,1
+2023-MJ,1,2,10,,Biological molecules,Carbohydrates,1
+2023-MJ,1,2,11,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2023-MJ,1,2,12,,Biological molecules,Water,1
+2023-MJ,1,2,13,,Enzymes,Enzyme inhibition,1
+2023-MJ,1,2,14,,Enzymes,Factors affecting enzyme activity,1
+2023-MJ,1,2,15,,Cell membranes & transport,Membrane structure & cell signalling,1
+2023-MJ,1,2,16,,Cell membranes & transport,Membrane structure & cell signalling,1
+2023-MJ,1,2,17,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2023-MJ,1,2,18,,Cell membranes & transport,Surface area : volume,1
+2023-MJ,1,2,19,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2023-MJ,1,2,20,,The mitotic cell cycle,Chromosome structure & telomeres,1
+2023-MJ,1,2,21,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2023-MJ,1,2,22,,Nucleic acids & protein synthesis,Transcription & translation,1
+2023-MJ,1,2,23,,Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",1
+2023-MJ,1,2,24,,Nucleic acids & protein synthesis,Transcription & translation,1
+2023-MJ,1,2,25,,Nucleic acids & protein synthesis,Gene mutation,1
+2023-MJ,1,2,26,,Transport in plants,Structure of xylem & phloem,1
+2023-MJ,1,2,27,,Transport in plants,Water uptake & transpiration,1
+2023-MJ,1,2,28,,Transport in plants,Water uptake & transpiration,1
+2023-MJ,1,2,29,,Transport in plants,Xerophytes,1
+2023-MJ,1,2,30,,Transport in plants,Xerophytes,1
+2023-MJ,1,2,31,,Transport in plants,Translocation (phloem),1
+2023-MJ,1,2,32,,Biological molecules,Water,1
+2023-MJ,1,2,33,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2023-MJ,1,2,34,,Transport in mammals,Heart & cardiac cycle,1
+2023-MJ,1,2,35,,Gas exchange,Gas exchange system: structure & tissues,1
+2023-MJ,1,2,36,,Gas exchange,Alveoli & gas exchange,1
+2023-MJ,1,2,37,,Gas exchange,Alveoli & gas exchange,1
+2023-MJ,1,2,38,,Infectious diseases,"Diseases, pathogens & transmission",1
+2023-MJ,1,2,39,,Infectious diseases,"Diseases, pathogens & transmission",1
+2023-MJ,1,2,40,,Immunity,Vaccination & types of immunity,1
+2023-MJ,2,2,1,(a),Transport in mammals,Heart & cardiac cycle,2
+2023-MJ,2,2,1,(b),Transport in mammals,Heart & cardiac cycle,2
+2023-MJ,2,2,1,(c),Transport in mammals,Heart & cardiac cycle,3
+2023-MJ,2,2,2,(a),Cell structure,Cell ultrastructure & organelles,3
+2023-MJ,2,2,2,(b),Biological molecules,Water,3
+2023-MJ,2,2,2,(c),Enzymes,Mode of action & specificity,1
+2023-MJ,2,2,2,(d)(i),Biological molecules,Carbohydrates,2
+2023-MJ,2,2,2,(d)(ii),Biological molecules,Proteins (incl. haemoglobin & collagen),2
+2023-MJ,2,2,2,(d)(iii),Cell membranes & transport,"Diffusion, osmosis & water potential",3
+2023-MJ,2,2,3,(a),Immunity,Lymphocytes & antibodies,3
+2023-MJ,2,2,3,(b),Immunity,Lymphocytes & antibodies,4
+2023-MJ,2,2,3,(c),The mitotic cell cycle,Mitosis & the cell cycle,3
+2023-MJ,2,2,4,(a)(i),Cell structure,Cell ultrastructure & organelles,1
+2023-MJ,2,2,4,(a)(ii),Cell structure,Cell ultrastructure & organelles,2
+2023-MJ,2,2,4,(a)(iii),Cell structure,Prokaryotes & viruses,3
+2023-MJ,2,2,4,(b)(i),Infectious diseases,"Diseases, pathogens & transmission",1
+2023-MJ,2,2,4,(b)(ii),Infectious diseases,"Diseases, pathogens & transmission",1
+2023-MJ,2,2,4,(c),Infectious diseases,"Diseases, pathogens & transmission",3
+2023-MJ,2,2,5,(a),Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",4
+2023-MJ,2,2,5,(b)(i),Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",1
+2023-MJ,2,2,5,(b)(ii),Nucleic acids & protein synthesis,DNA replication,2
+2023-MJ,2,2,5,(b)(iii),Nucleic acids & protein synthesis,DNA replication,4
+2023-MJ,2,2,6,(a),Gas exchange,Gas exchange system: structure & tissues,1
+2023-MJ,2,2,6,(b),Gas exchange,Gas exchange system: structure & tissues,2
+2023-MJ,2,2,6,(c)(i),Gas exchange,Gas exchange system: structure & tissues,1
+2023-MJ,2,2,6,(c)(ii),Gas exchange,Gas exchange system: structure & tissues,3
+2023-MJ,3,3,1,(a)(i),Practical skills (generic),Skill: planning a method,2
+2023-MJ,3,3,1,(a)(ii),Practical skills (generic),Skill: recording results in a table,5
+2023-MJ,3,3,1,(a)(iii),Practical skills (generic),Skill: conclusions & interpreting data,1
+2023-MJ,3,3,1,(a)(iv),Practical skills (generic),Skill: risk assessment,1
+2023-MJ,3,3,1,(a)(v),Practical skills (generic),"Skill: errors, reliability & improvements",4
+2023-MJ,3,3,1,(b)(i),Practical skills (generic),Skill: graphs & charts,4
+2023-MJ,3,3,1,(b)(ii),Practical skills (generic),Skill: graphs & charts,1
+2023-MJ,3,3,1,(b)(iii),Practical skills (generic),Skill: conclusions & interpreting data,2
+2023-MJ,3,3,2,(a)(i),Transport in plants,Skill: biological drawing,5
+2023-MJ,3,3,2,(a)(ii),Transport in plants,Skill: biological drawing,5
+2023-MJ,3,3,2,(a)(iii),Transport in plants,Skill: explaining results with biology,1
+2023-MJ,3,3,2,(b)(i),Transport in plants,Skill: observing & comparing specimens,4
+2023-MJ,3,3,2,(b)(ii),Transport in plants,Skill: observing & comparing specimens,1
+2023-MJ,3,3,2,(c),Transport in plants,"Skill: measurement, graticule & magnification",4
+2023-MJ,4,2,1,(a)(i),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",1
+2023-MJ,4,2,1,(a)(ii),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",1
+2023-MJ,4,2,1,(a)(iii),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",1
+2023-MJ,4,2,1,(b),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",3
+2023-MJ,4,2,1,(c),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",3
+2023-MJ,4,2,2,(a),Inherited change,Meiosis & genetic variation,2
+2023-MJ,4,2,2,(b),Inherited change,Meiosis & genetic variation,4
+2023-MJ,4,2,2,(c),Inherited change,Meiosis & genetic variation,1
+2023-MJ,4,2,3,(a)(i),Selection & evolution,"Variation, SD & t-test",1
+2023-MJ,4,2,3,(a)(ii),Selection & evolution,"Variation, SD & t-test",2
+2023-MJ,4,2,3,(a)(iii),"Classification, biodiversity & conservation","Classification, domains & kingdoms",3
+2023-MJ,4,2,3,(b),Selection & evolution,Natural & artificial selection,5
+2023-MJ,4,2,4,(a),"Classification, biodiversity & conservation","Classification, domains & kingdoms",1
+2023-MJ,4,2,4,(b),Genetic technology,Recombinant DNA & GM organisms,4
+2023-MJ,4,2,4,(c),Genetic technology,Microarrays & bioinformatics,3
+2023-MJ,4,2,4,(d),Genetic technology,"PCR, electrophoresis & sequencing",4
+2023-MJ,4,2,5,(a)(i),Selection & evolution,Hardy-Weinberg,3
+2023-MJ,4,2,5,(a)(ii),Selection & evolution,Hardy-Weinberg,4
+2023-MJ,4,2,5,(b),Selection & evolution,Natural & artificial selection,3
+2023-MJ,4,2,6,(a),Homeostasis,Kidney & osmoregulation,2
+2023-MJ,4,2,6,(b)(i),Homeostasis,Kidney & osmoregulation,3
+2023-MJ,4,2,6,(b)(ii),Homeostasis,Kidney & osmoregulation,3
+2023-MJ,4,2,6,(c),Homeostasis,Kidney & osmoregulation,7
+2023-MJ,4,2,7,(a),Control & coordination,Muscle contraction & neuromuscular junction,4
+2023-MJ,4,2,7,(b),Control & coordination,Neurones & action potentials,3
+2023-MJ,4,2,8,(a)(i),Photosynthesis,Limiting factors,3
+2023-MJ,4,2,8,(a)(ii),Photosynthesis,Calvin cycle (light-independent stage),1
+2023-MJ,4,2,8,(b)(i),Photosynthesis,Calvin cycle (light-independent stage),1
+2023-MJ,4,2,8,(b)(ii),Photosynthesis,Calvin cycle (light-independent stage),1
+2023-MJ,4,2,8,(b)(iii),Photosynthesis,Calvin cycle (light-independent stage),1
+2023-MJ,4,2,8,(b)(iv),Photosynthesis,Calvin cycle (light-independent stage),2
+2023-MJ,4,2,9,(a),Control & coordination,Endocrine vs nervous system,6
+2023-MJ,4,2,9,(b)(i),Homeostasis,Blood glucose & cell signalling,3
+2023-MJ,4,2,9,(b)(ii),Homeostasis,Blood glucose & cell signalling,1
+2023-MJ,4,2,10,(a),"Classification, biodiversity & conservation",Conservation & threats,3
+2023-MJ,4,2,10,(b),"Classification, biodiversity & conservation",Conservation & threats,4
+2023-MJ,4,2,10,(c),"Classification, biodiversity & conservation",Conservation & threats,3
+2023-MJ,5,2,1,(a),Enzymes,Skill: planning a method,1
+2023-MJ,5,2,1,(b)(i),Enzymes,Skill: variables & controls,1
+2023-MJ,5,2,1,(b)(ii),Enzymes,Skill: variables & controls,1
+2023-MJ,5,2,1,(c)(i),Enzymes,Skill: calculations & data processing,2
+2023-MJ,5,2,1,(c)(ii),Enzymes,Skill: graphs & charts,1
+2023-MJ,5,2,1,(d),Enzymes,Skill: planning a method,7
+2023-MJ,5,2,1,(e),Enzymes,Skill: conclusions & interpreting data,2
+2023-MJ,5,2,1,(f),Enzymes,Skill: graphs & charts,1
+2023-MJ,5,2,2,(a)(i),"Classification, biodiversity & conservation",Skill: variables & controls,2
+2023-MJ,5,2,2,(a)(ii),"Classification, biodiversity & conservation",Skill: risk assessment,2
+2023-MJ,5,2,2,(b),"Classification, biodiversity & conservation",Skill: calculations & data processing,2
+2023-MJ,5,2,2,(c)(i),"Classification, biodiversity & conservation","Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",1
+2023-MJ,5,2,2,(c)(ii),"Classification, biodiversity & conservation","Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",2
+2023-MJ,5,2,2,(c)(iii),"Classification, biodiversity & conservation",Skill: conclusions & interpreting data,3
+2023-MJ,5,2,2,(c)(iv),"Classification, biodiversity & conservation","Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",2
+2023-ON,1,2,1,,Cell structure,"Microscopy, magnification & resolution",1
+2023-ON,1,2,2,,Cell structure,"Microscopy, magnification & resolution",1
+2023-ON,1,2,3,,Cell structure,Cell ultrastructure & organelles,1
+2023-ON,1,2,4,,Cell structure,Cell ultrastructure & organelles,1
+2023-ON,1,2,5,,Cell structure,Cell ultrastructure & organelles,1
+2023-ON,1,2,6,,Cell structure,Prokaryotes & viruses,1
+2023-ON,1,2,7,,Cell structure,Prokaryotes & viruses,1
+2023-ON,1,2,8,,Biological molecules,Biochemical tests,1
+2023-ON,1,2,9,,Biological molecules,Carbohydrates,1
+2023-ON,1,2,10,,Biological molecules,Lipids,1
+2023-ON,1,2,11,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2023-ON,1,2,12,,Enzymes,Mode of action & specificity,1
+2023-ON,1,2,13,,Enzymes,Factors affecting enzyme activity,1
+2023-ON,1,2,14,,Enzymes,"Vmax, Km & immobilised enzymes",1
+2023-ON,1,2,15,,Cell membranes & transport,Membrane structure & cell signalling,1
+2023-ON,1,2,16,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2023-ON,1,2,17,,Cell membranes & transport,Surface area : volume,1
+2023-ON,1,2,18,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2023-ON,1,2,19,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2023-ON,1,2,20,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2023-ON,1,2,21,,Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",1
+2023-ON,1,2,22,,Nucleic acids & protein synthesis,DNA replication,1
+2023-ON,1,2,23,,Nucleic acids & protein synthesis,Transcription & translation,1
+2023-ON,1,2,24,,Transport in plants,Water uptake & transpiration,1
+2023-ON,1,2,25,,Transport in plants,Xerophytes,1
+2023-ON,1,2,26,,Transport in plants,Translocation (phloem),1
+2023-ON,1,2,27,,Transport in plants,Translocation (phloem),1
+2023-ON,1,2,28,,Transport in plants,Structure of xylem & phloem,1
+2023-ON,1,2,29,,Transport in mammals,Heart & cardiac cycle,1
+2023-ON,1,2,30,,Transport in mammals,Blood vessels & circulation,1
+2023-ON,1,2,31,,Transport in mammals,Tissue fluid,1
+2023-ON,1,2,32,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2023-ON,1,2,33,,Transport in mammals,Heart & cardiac cycle,1
+2023-ON,1,2,34,,Gas exchange,Gas exchange system: structure & tissues,1
+2023-ON,1,2,35,,Gas exchange,Gas exchange system: structure & tissues,1
+2023-ON,1,2,36,,Infectious diseases,"Diseases, pathogens & transmission",1
+2023-ON,1,2,37,,Infectious diseases,Antibiotics & resistance,1
+2023-ON,1,2,38,,Infectious diseases,Antibiotics & resistance,1
+2023-ON,1,2,39,,Immunity,Lymphocytes & antibodies,1
+2023-ON,1,2,40,,Immunity,Lymphocytes & antibodies,1
+2023-ON,2,2,1,(a),The mitotic cell cycle,Chromosome structure & telomeres,1
+2023-ON,2,2,1,(b),The mitotic cell cycle,Mitosis & the cell cycle,3
+2023-ON,2,2,1,(c),The mitotic cell cycle,Chromosome structure & telomeres,3
+2023-ON,2,2,2,(a),Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2023-ON,2,2,2,(b),Enzymes,Mode of action & specificity,1
+2023-ON,2,2,2,(c),Biological molecules,Proteins (incl. haemoglobin & collagen),3
+2023-ON,2,2,2,(d),Enzymes,Factors affecting enzyme activity,4
+2023-ON,2,2,2,(e),Enzymes,Factors affecting enzyme activity,3
+2023-ON,2,2,3,(a),Transport in mammals,Blood vessels & circulation,1
+2023-ON,2,2,3,(b)(i),Transport in mammals,Blood vessels & circulation,1
+2023-ON,2,2,3,(b)(ii),Immunity,Phagocytes & the immune response,4
+2023-ON,2,2,3,(c)(i),Cell structure,Cell ultrastructure & organelles,3
+2023-ON,2,2,3,(c)(ii),Cell structure,Cell ultrastructure & organelles,1
+2023-ON,2,2,3,(c)(iii),Cell structure,Cell ultrastructure & organelles,2
+2023-ON,2,2,3,(c)(iv),Cell structure,Cell ultrastructure & organelles,2
+2023-ON,2,2,4,(a),Gas exchange,Alveoli & gas exchange,2
+2023-ON,2,2,4,(b),Gas exchange,Alveoli & gas exchange,2
+2023-ON,2,2,4,(c),Cell membranes & transport,"Active transport, endo- & exocytosis",3
+2023-ON,2,2,4,(d)(i),Nucleic acids & protein synthesis,Transcription & translation,2
+2023-ON,2,2,4,(d)(ii),Nucleic acids & protein synthesis,Transcription & translation,3
+2023-ON,2,2,5,(a),Infectious diseases,"Diseases, pathogens & transmission",1
+2023-ON,2,2,5,(b),Infectious diseases,"Diseases, pathogens & transmission",1
+2023-ON,2,2,5,(c),Infectious diseases,"Diseases, pathogens & transmission",2
+2023-ON,2,2,5,(d),Infectious diseases,Antibiotics & resistance,2
+2023-ON,2,2,5,(e),Transport in mammals,Blood vessels & circulation,3
+2023-ON,2,2,6,(a),Transport in plants,Structure of xylem & phloem,1
+2023-ON,2,2,6,(b),Transport in plants,Water uptake & transpiration,2
+2023-ON,2,2,6,(c)(i),Transport in plants,Structure of xylem & phloem,2
+2023-ON,2,2,6,(c)(ii),Transport in plants,Structure of xylem & phloem,1
+2023-ON,4,2,1,(a),Energy & respiration,Anaerobic respiration,3
+2023-ON,4,2,1,(b),Energy & respiration,Anaerobic respiration,3
+2023-ON,4,2,1,(c),Energy & respiration,Anaerobic respiration,3
+2023-ON,4,2,2,(a),Inherited change,Meiosis & genetic variation,5
+2023-ON,4,2,2,(b),Inherited change,Meiosis & genetic variation,4
+2023-ON,4,2,2,(c),Inherited change,Meiosis & genetic variation,3
+2023-ON,4,2,2,(d),"Classification, biodiversity & conservation","Classification, domains & kingdoms",2
+2023-ON,4,2,3,(a),Selection & evolution,Natural & artificial selection,5
+2023-ON,4,2,3,(b),Selection & evolution,Natural & artificial selection,2
+2023-ON,4,2,4,(a),Genetic technology,Recombinant DNA & GM organisms,4
+2023-ON,4,2,4,(b),Genetic technology,Recombinant DNA & GM organisms,2
+2023-ON,4,2,4,(c)(i),Genetic technology,Microarrays & bioinformatics,1
+2023-ON,4,2,4,(c)(ii),Genetic technology,Microarrays & bioinformatics,3
+2023-ON,4,2,5,(a),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",1
+2023-ON,4,2,5,(b),Inherited change,Chi-squared test,4
+2023-ON,4,2,5,(c),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",4
+2023-ON,4,2,6,(a)(i),Homeostasis,Blood glucose & cell signalling,4
+2023-ON,4,2,6,(a)(ii),Homeostasis,Blood glucose & cell signalling,3
+2023-ON,4,2,6,(b),Homeostasis,Test strips & biosensors,7
+2023-ON,4,2,7,(a),Control & coordination,Muscle contraction & neuromuscular junction,4
+2023-ON,4,2,7,(b),Control & coordination,Synapses,3
+2023-ON,4,2,7,(c),Control & coordination,Neurones & action potentials,2
+2023-ON,4,2,8,(a),Photosynthesis,Light-dependent stage,4
+2023-ON,4,2,8,(b),Photosynthesis,Calvin cycle (light-independent stage),2
+2023-ON,4,2,8,(c)(i),Photosynthesis,Limiting factors,2
+2023-ON,4,2,8,(c)(ii),Photosynthesis,Limiting factors,3
+2023-ON,4,2,8,(c)(iii),Photosynthesis,Limiting factors,1
+2023-ON,4,2,9,(a),Homeostasis,Kidney & osmoregulation,4
+2023-ON,4,2,9,(b),Control & coordination,Endocrine vs nervous system,4
+2023-ON,4,2,10,(a),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",4
+2023-ON,4,2,10,(b),"Classification, biodiversity & conservation",Conservation & threats,4
+2023-ON,5,2,1,(a),"Classification, biodiversity & conservation",Skill: variables & controls,2
+2023-ON,5,2,1,(b)(i),"Classification, biodiversity & conservation",Skill: hypotheses & predictions,1
+2023-ON,5,2,1,(b)(ii),"Classification, biodiversity & conservation","Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",3
+2023-ON,5,2,1,(b)(iii),"Classification, biodiversity & conservation","Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",1
+2023-ON,5,2,1,(c),"Classification, biodiversity & conservation","Skill: errors, reliability & improvements",2
+2023-ON,5,2,1,(d),"Classification, biodiversity & conservation",Skill: planning a method,7
+2023-ON,5,2,2,(a),Control & coordination,Skill: planning a method,1
+2023-ON,5,2,2,(b)(i),Control & coordination,"Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",1
+2023-ON,5,2,2,(b)(ii),Control & coordination,"Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",1
+2023-ON,5,2,2,(c),Control & coordination,Skill: conclusions & interpreting data,3
+2023-ON,5,2,2,(d),Control & coordination,Skill: planning a method,3
+2023-ON,5,2,2,(e)(i),Control & coordination,Skill: conclusions & interpreting data,3
+2023-ON,5,2,2,(e)(ii),Control & coordination,Skill: conclusions & interpreting data,2
+2024-MJ,1,2,1,,Cell structure,"Microscopy, magnification & resolution",1
+2024-MJ,1,2,2,,Cell structure,Cell ultrastructure & organelles,1
+2024-MJ,1,2,3,,Cell structure,Cell ultrastructure & organelles,1
+2024-MJ,1,2,4,,Cell structure,Prokaryotes & viruses,1
+2024-MJ,1,2,5,,Cell structure,Cell ultrastructure & organelles,1
+2024-MJ,1,2,6,,Biological molecules,Carbohydrates,1
+2024-MJ,1,2,7,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2024-MJ,1,2,8,,Biological molecules,Carbohydrates,1
+2024-MJ,1,2,9,,Biological molecules,Biochemical tests,1
+2024-MJ,1,2,10,,Enzymes,Enzyme inhibition,1
+2024-MJ,1,2,11,,Enzymes,"Vmax, Km & immobilised enzymes",1
+2024-MJ,1,2,12,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2024-MJ,1,2,13,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2024-MJ,1,2,14,,Cell membranes & transport,"Active transport, endo- & exocytosis",1
+2024-MJ,1,2,15,,Cell membranes & transport,"Active transport, endo- & exocytosis",1
+2024-MJ,1,2,16,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2024-MJ,1,2,17,,Cell membranes & transport,Surface area : volume,1
+2024-MJ,1,2,18,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2024-MJ,1,2,19,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2024-MJ,1,2,20,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2024-MJ,1,2,21,,Nucleic acids & protein synthesis,Transcription & translation,1
+2024-MJ,1,2,22,,Nucleic acids & protein synthesis,DNA replication,1
+2024-MJ,1,2,23,,Nucleic acids & protein synthesis,Transcription & translation,1
+2024-MJ,1,2,24,,Transport in plants,Translocation (phloem),1
+2024-MJ,1,2,25,,Transport in plants,Structure of xylem & phloem,1
+2024-MJ,1,2,26,,Transport in plants,Water uptake & transpiration,1
+2024-MJ,1,2,27,,Transport in plants,Water uptake & transpiration,1
+2024-MJ,1,2,28,,Transport in mammals,Heart & cardiac cycle,1
+2024-MJ,1,2,29,,Transport in mammals,Heart & cardiac cycle,1
+2024-MJ,1,2,30,,Transport in mammals,Tissue fluid,1
+2024-MJ,1,2,31,,Gas exchange,Alveoli & gas exchange,1
+2024-MJ,1,2,32,,Gas exchange,Alveoli & gas exchange,1
+2024-MJ,1,2,33,,Gas exchange,Gas exchange system: structure & tissues,1
+2024-MJ,1,2,34,,Gas exchange,Gas exchange system: structure & tissues,1
+2024-MJ,1,2,35,,Infectious diseases,"Diseases, pathogens & transmission",1
+2024-MJ,1,2,36,,Infectious diseases,Antibiotics & resistance,1
+2024-MJ,1,2,37,,Infectious diseases,Antibiotics & resistance,1
+2024-MJ,1,2,38,,Immunity,Phagocytes & the immune response,1
+2024-MJ,1,2,39,,Immunity,Lymphocytes & antibodies,1
+2024-MJ,1,2,40,,Immunity,Monoclonal antibodies,1
+2024-MJ,2,2,1,(a),Gas exchange,Gas exchange system: structure & tissues,2
+2024-MJ,2,2,1,(b)(i),Cell structure,"Microscopy, magnification & resolution",1
+2024-MJ,2,2,1,(b)(ii),Cell structure,"Microscopy, magnification & resolution",1
+2024-MJ,2,2,1,(c)(i),Transport in mammals,Blood vessels & circulation,2
+2024-MJ,2,2,1,(c)(ii),Transport in mammals,Blood vessels & circulation,3
+2024-MJ,2,2,1,(d)(i),Nucleic acids & protein synthesis,Gene mutation,2
+2024-MJ,2,2,1,(d)(ii),Nucleic acids & protein synthesis,Transcription & translation,2
+2024-MJ,2,2,1,(d)(iii),Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2024-MJ,2,2,2,(a)(i),Cell structure,Cell ultrastructure & organelles,3
+2024-MJ,2,2,2,(a)(ii),Cell structure,Cell ultrastructure & organelles,2
+2024-MJ,2,2,2,(b)(i),Immunity,Phagocytes & the immune response,2
+2024-MJ,2,2,2,(b)(ii),Immunity,Phagocytes & the immune response,1
+2024-MJ,2,2,2,(c),Immunity,Vaccination & types of immunity,4
+2024-MJ,2,2,3,(a),Enzymes,Mode of action & specificity,3
+2024-MJ,2,2,3,(b),Infectious diseases,Antibiotics & resistance,3
+2024-MJ,2,2,4,(a),Biological molecules,Carbohydrates,3
+2024-MJ,2,2,4,(b)(i),Nucleic acids & protein synthesis,Transcription & translation,1
+2024-MJ,2,2,4,(b)(ii),Biological molecules,Biochemical tests,2
+2024-MJ,2,2,4,(c)(i),Transport in plants,Translocation (phloem),4
+2024-MJ,2,2,4,(c)(ii),Transport in plants,Translocation (phloem),1
+2024-MJ,2,2,4,(d),Cell membranes & transport,"Active transport, endo- & exocytosis",2
+2024-MJ,2,2,4,(e),Cell membranes & transport,"Active transport, endo- & exocytosis",4
+2024-MJ,2,2,5,(a),The mitotic cell cycle,Chromosome structure & telomeres,1
+2024-MJ,2,2,5,(b),The mitotic cell cycle,Chromosome structure & telomeres,4
+2024-MJ,2,2,6,(a),Infectious diseases,"Diseases, pathogens & transmission",1
+2024-MJ,2,2,6,(b),Infectious diseases,"Diseases, pathogens & transmission",2
+2024-MJ,2,2,6,(c)(i),Transport in mammals,Heart & cardiac cycle,1
+2024-MJ,2,2,6,(c)(ii),Transport in mammals,Blood vessels & circulation,2
+2024-MJ,4,2,1,(a)(i),Homeostasis,Kidney & osmoregulation,1
+2024-MJ,4,2,1,(a)(ii),Homeostasis,Kidney & osmoregulation,1
+2024-MJ,4,2,1,(a)(iii),Homeostasis,Kidney & osmoregulation,1
+2024-MJ,4,2,1,(b)(i),Homeostasis,Kidney & osmoregulation,2
+2024-MJ,4,2,1,(b)(ii),Homeostasis,Kidney & osmoregulation,3
+2024-MJ,4,2,2,(a),Selection & evolution,"Variation, SD & t-test",3
+2024-MJ,4,2,2,(b)(i),Selection & evolution,Natural & artificial selection,3
+2024-MJ,4,2,2,(b)(ii),Selection & evolution,"Speciation, drift & molecular evidence",3
+2024-MJ,4,2,3,(a),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",1
+2024-MJ,4,2,3,(b),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",4
+2024-MJ,4,2,3,(c),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",2
+2024-MJ,4,2,3,(d)(i),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",2
+2024-MJ,4,2,3,(d)(ii),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",1
+2024-MJ,4,2,3,(d)(iii),Inherited change,Chi-squared test,1
+2024-MJ,4,2,4,(a),Inherited change,Control of gene expression,5
+2024-MJ,4,2,4,(b),Inherited change,Control of gene expression,3
+2024-MJ,4,2,4,(c),Inherited change,Control of gene expression,3
+2024-MJ,4,2,5,(a),Genetic technology,Gene therapy & genetic screening,4
+2024-MJ,4,2,5,(b),Genetic technology,"PCR, electrophoresis & sequencing",2
+2024-MJ,4,2,5,(c),Genetic technology,Gene therapy & genetic screening,2
+2024-MJ,4,2,5,(d),Genetic technology,Gene therapy & genetic screening,2
+2024-MJ,4,2,6,(a),Energy & respiration,Oxidative phosphorylation & mitochondria,1
+2024-MJ,4,2,6,(b),Energy & respiration,Oxidative phosphorylation & mitochondria,7
+2024-MJ,4,2,6,(c),Energy & respiration,Oxidative phosphorylation & mitochondria,3
+2024-MJ,4,2,7,(a)(i),Photosynthesis,Limiting factors,3
+2024-MJ,4,2,7,(a)(ii),Photosynthesis,Limiting factors,3
+2024-MJ,4,2,7,(b),Photosynthesis,Light-dependent stage,3
+2024-MJ,4,2,8,(a)(i),Control & coordination,Neurones & action potentials,1
+2024-MJ,4,2,8,(a)(ii),Control & coordination,Neurones & action potentials,1
+2024-MJ,4,2,8,(a)(iii),Control & coordination,Neurones & action potentials,1
+2024-MJ,4,2,8,(b),Control & coordination,Neurones & action potentials,4
+2024-MJ,4,2,8,(c)(i),Control & coordination,Synapses,2
+2024-MJ,4,2,8,(c)(ii),Control & coordination,Synapses,4
+2024-MJ,4,2,8,(c)(iii),Control & coordination,Synapses,2
+2024-MJ,4,2,9,(a),"Classification, biodiversity & conservation",Conservation & threats,4
+2024-MJ,4,2,9,(b),"Classification, biodiversity & conservation",Conservation & threats,4
+2024-MJ,4,2,10,(a),Homeostasis,Principles of homeostasis & feedback,1
+2024-MJ,4,2,10,(b),Homeostasis,Blood glucose & cell signalling,3
+2024-MJ,4,2,10,(c)(i),Homeostasis,Test strips & biosensors,2
+2024-MJ,4,2,10,(c)(ii),Homeostasis,Test strips & biosensors,2
+2024-MJ,5,2,1,(a)(i),"Classification, biodiversity & conservation",Skill: variables & controls,1
+2024-MJ,5,2,1,(a)(ii),"Classification, biodiversity & conservation",Skill: variables & controls,2
+2024-MJ,5,2,1,(b),"Classification, biodiversity & conservation",Skill: planning a method,5
+2024-MJ,5,2,1,(c),"Classification, biodiversity & conservation",Skill: conclusions & interpreting data,1
+2024-MJ,5,2,1,(d)(i),"Classification, biodiversity & conservation",Skill: planning a method,2
+2024-MJ,5,2,1,(d)(ii),"Classification, biodiversity & conservation",Skill: calculations & data processing,3
+2024-MJ,5,2,1,(e),"Classification, biodiversity & conservation","Skill: errors, reliability & improvements",3
+2024-MJ,5,2,1,(f),"Classification, biodiversity & conservation",Skill: variables & controls,2
+2024-MJ,5,2,2,(a),The mitotic cell cycle,"Skill: measurement, graticule & magnification",3
+2024-MJ,5,2,2,(b)(i),The mitotic cell cycle,Skill: planning a method,1
+2024-MJ,5,2,2,(b)(ii),The mitotic cell cycle,Skill: variables & controls,1
+2024-MJ,5,2,2,(b)(iii),The mitotic cell cycle,Skill: hypotheses & predictions,1
+2024-MJ,5,2,2,(b)(iv),The mitotic cell cycle,"Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",1
+2024-MJ,5,2,2,(b)(v),The mitotic cell cycle,Skill: conclusions & interpreting data,2
+2024-MJ,5,2,2,(b)(vi),The mitotic cell cycle,"Skill: errors, reliability & improvements",2
+2024-ON,1,2,1,,Cell structure,"Microscopy, magnification & resolution",1
+2024-ON,1,2,2,,Cell structure,"Microscopy, magnification & resolution",1
+2024-ON,1,2,3,,Cell structure,Cell ultrastructure & organelles,1
+2024-ON,1,2,4,,Cell structure,Cell ultrastructure & organelles,1
+2024-ON,1,2,5,,Cell structure,Prokaryotes & viruses,1
+2024-ON,1,2,6,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2024-ON,1,2,7,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2024-ON,1,2,8,,Biological molecules,Carbohydrates,1
+2024-ON,1,2,9,,Biological molecules,Lipids,1
+2024-ON,1,2,10,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2024-ON,1,2,11,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2024-ON,1,2,12,,Enzymes,Enzyme inhibition,1
+2024-ON,1,2,13,,Enzymes,Enzyme inhibition,1
+2024-ON,1,2,14,,Biological molecules,Lipids,1
+2024-ON,1,2,15,,Cell membranes & transport,Membrane structure & cell signalling,1
+2024-ON,1,2,16,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2024-ON,1,2,17,,Cell membranes & transport,Surface area : volume,1
+2024-ON,1,2,18,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2024-ON,1,2,19,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2024-ON,1,2,20,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2024-ON,1,2,21,,The mitotic cell cycle,Chromosome structure & telomeres,1
+2024-ON,1,2,22,,Nucleic acids & protein synthesis,Transcription & translation,1
+2024-ON,1,2,23,,Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",1
+2024-ON,1,2,24,,Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",1
+2024-ON,1,2,25,,Nucleic acids & protein synthesis,Transcription & translation,1
+2024-ON,1,2,26,,Transport in plants,Translocation (phloem),1
+2024-ON,1,2,27,,Transport in plants,Translocation (phloem),1
+2024-ON,1,2,28,,Transport in plants,Translocation (phloem),1
+2024-ON,1,2,29,,Transport in mammals,Heart & cardiac cycle,1
+2024-ON,1,2,30,,Transport in mammals,Heart & cardiac cycle,1
+2024-ON,1,2,31,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2024-ON,1,2,32,,Transport in mammals,Blood vessels & circulation,1
+2024-ON,1,2,33,,Gas exchange,Alveoli & gas exchange,1
+2024-ON,1,2,34,,Gas exchange,Alveoli & gas exchange,1
+2024-ON,1,2,35,,Gas exchange,Gas exchange system: structure & tissues,1
+2024-ON,1,2,36,,Immunity,Monoclonal antibodies,1
+2024-ON,1,2,37,,Infectious diseases,Antibiotics & resistance,1
+2024-ON,1,2,38,,Immunity,Vaccination & types of immunity,1
+2024-ON,1,2,39,,Infectious diseases,"Diseases, pathogens & transmission",1
+2024-ON,1,2,40,,Cell structure,Prokaryotes & viruses,1
+2024-ON,2,2,1,(a)(i),Biological molecules,Lipids,1
+2024-ON,2,2,1,(a)(ii),Biological molecules,Lipids,1
+2024-ON,2,2,1,(a)(iii),Biological molecules,Lipids,1
+2024-ON,2,2,1,(a)(iv),Biological molecules,Lipids,2
+2024-ON,2,2,1,(b),Biological molecules,Water,2
+2024-ON,2,2,1,(c),Transport in plants,Structure of xylem & phloem,1
+2024-ON,2,2,2,(a),Infectious diseases,"Diseases, pathogens & transmission",2
+2024-ON,2,2,2,(b),Cell structure,"Microscopy, magnification & resolution",1
+2024-ON,2,2,2,(c)(i),Cell structure,Prokaryotes & viruses,1
+2024-ON,2,2,2,(c)(ii),Cell structure,Cell ultrastructure & organelles,3
+2024-ON,2,2,2,(d)(i),Cell membranes & transport,Membrane structure & cell signalling,2
+2024-ON,2,2,2,(d)(ii),Gas exchange,Alveoli & gas exchange,3
+2024-ON,2,2,2,(e),Enzymes,Enzyme inhibition,5
+2024-ON,2,2,3,(a),Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",1
+2024-ON,2,2,3,(b),Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",4
+2024-ON,2,2,4,(a),The mitotic cell cycle,Mitosis & the cell cycle,1
+2024-ON,2,2,4,(b),The mitotic cell cycle,Stem cells & cancer,2
+2024-ON,2,2,4,(c),The mitotic cell cycle,Chromosome structure & telomeres,2
+2024-ON,2,2,4,(d),The mitotic cell cycle,Stem cells & cancer,3
+2024-ON,2,2,4,(e),Immunity,Phagocytes & the immune response,1
+2024-ON,2,2,4,(f),Immunity,Lymphocytes & antibodies,1
+2024-ON,2,2,4,(g),Immunity,Lymphocytes & antibodies,3
+2024-ON,2,2,5,(a),Infectious diseases,"Diseases, pathogens & transmission",1
+2024-ON,2,2,5,(b)(i),Transport in mammals,"Blood cells, haemoglobin & gas transport",2
+2024-ON,2,2,5,(b)(ii),Transport in mammals,"Blood cells, haemoglobin & gas transport",3
+2024-ON,2,2,5,(c),Transport in mammals,"Blood cells, haemoglobin & gas transport",4
+2024-ON,2,2,6,(a),Transport in plants,Water uptake & transpiration,4
+2024-ON,2,2,6,(b),Cell membranes & transport,"Active transport, endo- & exocytosis",3
+2024-ON,4,2,1,(a)(i),Homeostasis,Kidney & osmoregulation,2
+2024-ON,4,2,1,(a)(ii),Homeostasis,Kidney & osmoregulation,2
+2024-ON,4,2,1,(b),Homeostasis,Kidney & osmoregulation,3
+2024-ON,4,2,1,(c),Homeostasis,Kidney & osmoregulation,2
+2024-ON,4,2,2,(a),Selection & evolution,"Speciation, drift & molecular evidence",6
+2024-ON,4,2,2,(b),Selection & evolution,Natural & artificial selection,3
+2024-ON,4,2,3,(a),Genetic technology,Recombinant DNA & GM organisms,3
+2024-ON,4,2,3,(b)(i),Genetic technology,Gene therapy & genetic screening,3
+2024-ON,4,2,3,(b)(ii),Genetic technology,Gene therapy & genetic screening,1
+2024-ON,4,2,3,(c)(i),Genetic technology,Gene therapy & genetic screening,3
+2024-ON,4,2,3,(c)(ii),Genetic technology,Gene therapy & genetic screening,3
+2024-ON,4,2,4,(a),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",3
+2024-ON,4,2,4,(b),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",3
+2024-ON,4,2,5,(a),Selection & evolution,"Variation, SD & t-test",4
+2024-ON,4,2,5,(b)(i),Selection & evolution,"Variation, SD & t-test",1
+2024-ON,4,2,5,(b)(ii),Selection & evolution,"Variation, SD & t-test",3
+2024-ON,4,2,5,(b)(iii),Selection & evolution,"Variation, SD & t-test",3
+2024-ON,4,2,5,(b)(iv),Selection & evolution,"Variation, SD & t-test",1
+2024-ON,4,2,6,(a)(i),Energy & respiration,"Respiratory substrates, RQ & respirometers",1
+2024-ON,4,2,6,(a)(ii),Energy & respiration,"Respiratory substrates, RQ & respirometers",1
+2024-ON,4,2,6,(b)(i),Energy & respiration,"Respiratory substrates, RQ & respirometers",2
+2024-ON,4,2,6,(b)(ii),Energy & respiration,"Respiratory substrates, RQ & respirometers",3
+2024-ON,4,2,7,(a),Photosynthesis,Chloroplast structure & pigments,3
+2024-ON,4,2,7,(b),Photosynthesis,Chloroplast structure & pigments,3
+2024-ON,4,2,7,(c),Photosynthesis,Calvin cycle (light-independent stage),7
+2024-ON,4,2,8,(a)(i),Control & coordination,Neurones & action potentials,2
+2024-ON,4,2,8,(a)(ii),Control & coordination,Neurones & action potentials,1
+2024-ON,4,2,8,(b),Control & coordination,Muscle contraction & neuromuscular junction,4
+2024-ON,4,2,8,(c),Control & coordination,Synapses,4
+2024-ON,4,2,9,(a),"Classification, biodiversity & conservation",Conservation & threats,3
+2024-ON,4,2,9,(b),"Classification, biodiversity & conservation",Conservation & threats,3
+2024-ON,4,2,9,(c)(i),"Classification, biodiversity & conservation",Conservation & threats,3
+2024-ON,4,2,9,(c)(ii),"Classification, biodiversity & conservation",Conservation & threats,1
+2024-ON,4,2,10,(a),Homeostasis,Principles of homeostasis & feedback,4
+2024-ON,4,2,10,(b),Homeostasis,Blood glucose & cell signalling,3
+2024-ON,4,2,10,(c),Homeostasis,Blood glucose & cell signalling,3
+2024-ON,5,2,1,(a),Photosynthesis,Skill: variables & controls,2
+2024-ON,5,2,1,(b)(i),Photosynthesis,Skill: calculations & data processing,2
+2024-ON,5,2,1,(b)(ii),Photosynthesis,Skill: graphs & charts,3
+2024-ON,5,2,1,(c),Photosynthesis,Skill: explaining results with biology,2
+2024-ON,5,2,1,(d),Photosynthesis,Skill: planning a method,6
+2024-ON,5,2,2,(a)(i),Selection & evolution,Skill: planning a method,3
+2024-ON,5,2,2,(a)(ii),Selection & evolution,"Skill: errors, reliability & improvements",2
+2024-ON,5,2,2,(b)(i),Selection & evolution,Skill: conclusions & interpreting data,1
+2024-ON,5,2,2,(b)(ii),Selection & evolution,Skill: conclusions & interpreting data,3
+2024-ON,5,2,2,(c),Selection & evolution,"Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",3
+2024-ON,5,2,2,(d),Selection & evolution,Skill: planning a method,3
+2025-MJ,1,2,1,,Cell structure,"Microscopy, magnification & resolution",1
+2025-MJ,1,2,2,,Cell structure,"Microscopy, magnification & resolution",1
+2025-MJ,1,2,3,,Cell structure,"Microscopy, magnification & resolution",1
+2025-MJ,1,2,4,,Cell structure,Prokaryotes & viruses,1
+2025-MJ,1,2,5,,Cell structure,Cell ultrastructure & organelles,1
+2025-MJ,1,2,6,,Cell structure,Cell ultrastructure & organelles,1
+2025-MJ,1,2,7,,Biological molecules,Biochemical tests,1
+2025-MJ,1,2,8,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2025-MJ,1,2,9,,Biological molecules,Carbohydrates,1
+2025-MJ,1,2,10,,Biological molecules,Water,1
+2025-MJ,1,2,11,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2025-MJ,1,2,12,,Enzymes,Mode of action & specificity,1
+2025-MJ,1,2,13,,Enzymes,Mode of action & specificity,1
+2025-MJ,1,2,14,,Enzymes,Factors affecting enzyme activity,1
+2025-MJ,1,2,15,,Enzymes,Factors affecting enzyme activity,1
+2025-MJ,1,2,16,,Enzymes,"Vmax, Km & immobilised enzymes",1
+2025-MJ,1,2,17,,Cell membranes & transport,Membrane structure & cell signalling,1
+2025-MJ,1,2,18,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2025-MJ,1,2,19,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2025-MJ,1,2,20,,Cell membranes & transport,Surface area : volume,1
+2025-MJ,1,2,21,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2025-MJ,1,2,22,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2025-MJ,1,2,23,,The mitotic cell cycle,Chromosome structure & telomeres,1
+2025-MJ,1,2,24,,Nucleic acids & protein synthesis,"Structure of DNA, RNA & ATP",1
+2025-MJ,1,2,25,,Nucleic acids & protein synthesis,Gene mutation,1
+2025-MJ,1,2,26,,Transport in plants,Water uptake & transpiration,1
+2025-MJ,1,2,27,,Transport in plants,Structure of xylem & phloem,1
+2025-MJ,1,2,28,,Transport in plants,Water uptake & transpiration,1
+2025-MJ,1,2,29,,Transport in plants,Water uptake & transpiration,1
+2025-MJ,1,2,30,,Transport in plants,Translocation (phloem),1
+2025-MJ,1,2,31,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2025-MJ,1,2,32,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2025-MJ,1,2,33,,Transport in mammals,Heart & cardiac cycle,1
+2025-MJ,1,2,34,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2025-MJ,1,2,35,,Gas exchange,Gas exchange system: structure & tissues,1
+2025-MJ,1,2,36,,Gas exchange,Alveoli & gas exchange,1
+2025-MJ,1,2,37,,Infectious diseases,"Diseases, pathogens & transmission",1
+2025-MJ,1,2,38,,Infectious diseases,Antibiotics & resistance,1
+2025-MJ,1,2,39,,Immunity,Phagocytes & the immune response,1
+2025-MJ,1,2,40,,Immunity,Vaccination & types of immunity,1
+2025-MJ,2,2,1,(a),Cell structure,Cell ultrastructure & organelles,3
+2025-MJ,2,2,1,(b),Transport in plants,Water uptake & transpiration,2
+2025-MJ,2,2,1,(c),Transport in plants,Water uptake & transpiration,3
+2025-MJ,2,2,1,(d)(i),Cell structure,Cell ultrastructure & organelles,2
+2025-MJ,2,2,1,(d)(ii),Cell membranes & transport,"Active transport, endo- & exocytosis",4
+2025-MJ,2,2,2,(a),Biological molecules,Proteins (incl. haemoglobin & collagen),2
+2025-MJ,2,2,2,(b),Transport in mammals,"Blood cells, haemoglobin & gas transport",5
+2025-MJ,2,2,3,(a),Biological molecules,Carbohydrates,1
+2025-MJ,2,2,3,(b),Biological molecules,Carbohydrates,3
+2025-MJ,2,2,3,(c),Biological molecules,Carbohydrates,1
+2025-MJ,2,2,3,(d),Transport in plants,Translocation (phloem),3
+2025-MJ,2,2,3,(e),Nucleic acids & protein synthesis,Transcription & translation,2
+2025-MJ,2,2,4,(a),Infectious diseases,"Diseases, pathogens & transmission",1
+2025-MJ,2,2,4,(b),Infectious diseases,"Diseases, pathogens & transmission",2
+2025-MJ,2,2,4,(c),Infectious diseases,Antibiotics & resistance,1
+2025-MJ,2,2,4,(d),Gas exchange,Gas exchange system: structure & tissues,3
+2025-MJ,2,2,4,(e),Infectious diseases,"Diseases, pathogens & transmission",5
+2025-MJ,2,2,5,(a),Immunity,Lymphocytes & antibodies,1
+2025-MJ,2,2,5,(b),The mitotic cell cycle,Stem cells & cancer,3
+2025-MJ,2,2,5,(c),Transport in mammals,"Blood cells, haemoglobin & gas transport",3
+2025-MJ,2,2,6,(a),Enzymes,Enzyme inhibition,2
+2025-MJ,2,2,6,(b),Nucleic acids & protein synthesis,Transcription & translation,2
+2025-MJ,2,2,6,(c)(i),Immunity,Monoclonal antibodies,1
+2025-MJ,2,2,6,(c)(ii),Immunity,Monoclonal antibodies,1
+2025-MJ,2,2,6,(c)(iii),Immunity,Monoclonal antibodies,4
+2025-MJ,3,3,1,(a)(i),Cell membranes & transport,"Skill: measurement, graticule & magnification",1
+2025-MJ,3,3,1,(a)(ii),Cell membranes & transport,Skill: planning a method,1
+2025-MJ,3,3,1,(a)(iii),Cell membranes & transport,Skill: calculations & data processing,2
+2025-MJ,3,3,1,(a)(iv),Cell membranes & transport,Skill: conclusions & interpreting data,1
+2025-MJ,3,3,1,(a)(v),Cell membranes & transport,Skill: recording results in a table,5
+2025-MJ,3,3,1,(a)(vi),Cell membranes & transport,Skill: conclusions & interpreting data,1
+2025-MJ,3,3,1,(a)(vii),Cell membranes & transport,Skill: explaining results with biology,2
+2025-MJ,3,3,1,(a)(viii),Cell membranes & transport,"Skill: errors, reliability & improvements",1
+2025-MJ,3,3,1,(a)(ix),Cell membranes & transport,Skill: planning a method,2
+2025-MJ,3,3,1,(b)(i),Cell membranes & transport,Skill: graphs & charts,4
+2025-MJ,3,3,1,(b)(ii),Cell membranes & transport,Skill: graphs & charts,1
+2025-MJ,3,3,1,(b)(iii),Cell membranes & transport,Skill: explaining results with biology,1
+2025-MJ,3,3,2,(a)(i),Transport in plants,Skill: biological drawing,5
+2025-MJ,3,3,2,(a)(ii),Transport in plants,Skill: biological drawing,5
+2025-MJ,3,3,2,(b)(i),Transport in plants,"Skill: measurement, graticule & magnification",2
+2025-MJ,3,3,2,(b)(ii),Transport in plants,"Skill: measurement, graticule & magnification",2
+2025-MJ,3,3,2,(c)(i),Transport in plants,Skill: observing & comparing specimens,3
+2025-MJ,3,3,2,(c)(ii),Transport in plants,Skill: observing & comparing specimens,1
+2025-MJ,4,2,1,(a)(i),Energy & respiration,Oxidative phosphorylation & mitochondria,1
+2025-MJ,4,2,1,(a)(ii),Energy & respiration,Oxidative phosphorylation & mitochondria,2
+2025-MJ,4,2,1,(a)(iii),Energy & respiration,Oxidative phosphorylation & mitochondria,3
+2025-MJ,4,2,1,(b),Energy & respiration,Oxidative phosphorylation & mitochondria,4
+2025-MJ,4,2,2,,Selection & evolution,"Speciation, drift & molecular evidence",6
+2025-MJ,4,2,3,(a)(i),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",5
+2025-MJ,4,2,3,(a)(ii),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",1
+2025-MJ,4,2,3,(b),Selection & evolution,Natural & artificial selection,1
+2025-MJ,4,2,3,(c)(i),Selection & evolution,Natural & artificial selection,4
+2025-MJ,4,2,3,(c)(ii),Inherited change,Control of gene expression,3
+2025-MJ,4,2,4,(a),Inherited change,Meiosis & genetic variation,3
+2025-MJ,4,2,4,(b),Inherited change,Meiosis & genetic variation,2
+2025-MJ,4,2,4,(c)(i),Inherited change,Meiosis & genetic variation,2
+2025-MJ,4,2,4,(c)(ii),Inherited change,Meiosis & genetic variation,1
+2025-MJ,4,2,5,(a),Genetic technology,Recombinant DNA & GM organisms,4
+2025-MJ,4,2,5,(b),Genetic technology,Recombinant DNA & GM organisms,3
+2025-MJ,4,2,5,(c),Genetic technology,Recombinant DNA & GM organisms,1
+2025-MJ,4,2,5,(d),Genetic technology,Recombinant DNA & GM organisms,4
+2025-MJ,4,2,6,(a),Homeostasis,Stomata & abscisic acid,4
+2025-MJ,4,2,6,(b)(i),Homeostasis,Stomata & abscisic acid,2
+2025-MJ,4,2,6,(b)(ii),Homeostasis,Stomata & abscisic acid,2
+2025-MJ,4,2,6,(c),Homeostasis,Stomata & abscisic acid,4
+2025-MJ,4,2,7,(a),Control & coordination,Neurones & action potentials,6
+2025-MJ,4,2,7,(b)(i),Control & coordination,Neurones & action potentials,3
+2025-MJ,4,2,7,(b)(ii),Control & coordination,Neurones & action potentials,2
+2025-MJ,4,2,8,(a),"Classification, biodiversity & conservation","Classification, domains & kingdoms",4
+2025-MJ,4,2,8,(b),"Classification, biodiversity & conservation","Classification, domains & kingdoms",2
+2025-MJ,4,2,8,(c)(i),Photosynthesis,Light-dependent stage,1
+2025-MJ,4,2,8,(c)(ii),Photosynthesis,Limiting factors,4
+2025-MJ,4,2,9,(a),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",4
+2025-MJ,4,2,9,(b)(i),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",3
+2025-MJ,4,2,9,(b)(ii),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",2
+2025-MJ,4,2,10,(a),Energy & respiration,Anaerobic respiration,4
+2025-MJ,4,2,10,(b),"Classification, biodiversity & conservation",Conservation & threats,3
+2025-MJ,5,2,1,(a),Enzymes,Skill: variables & controls,2
+2025-MJ,5,2,1,(b)(i),Enzymes,"Skill: errors, reliability & improvements",2
+2025-MJ,5,2,1,(b)(ii),Enzymes,Skill: explaining results with biology,1
+2025-MJ,5,2,1,(c),Enzymes,Skill: planning a method,2
+2025-MJ,5,2,1,(d),Enzymes,Skill: planning a method,2
+2025-MJ,5,2,1,(e),Enzymes,Skill: planning a method,6
+2025-MJ,5,2,1,(f)(i),Enzymes,"Skill: errors, reliability & improvements",2
+2025-MJ,5,2,1,(f)(ii),Enzymes,Skill: calculations & data processing,1
+2025-MJ,5,2,1,(f)(iii),Enzymes,Skill: calculations & data processing,2
+2025-MJ,5,2,2,(a),"Classification, biodiversity & conservation",Skill: variables & controls,2
+2025-MJ,5,2,2,(b),"Classification, biodiversity & conservation",Skill: calculations & data processing,2
+2025-MJ,5,2,2,(c)(i),"Classification, biodiversity & conservation",Skill: conclusions & interpreting data,3
+2025-MJ,5,2,2,(c)(ii),"Classification, biodiversity & conservation",Skill: conclusions & interpreting data,3
+2025-ON,1,2,1,,Cell structure,"Microscopy, magnification & resolution",1
+2025-ON,1,2,2,,Cell structure,Prokaryotes & viruses,1
+2025-ON,1,2,3,,Cell structure,Cell ultrastructure & organelles,1
+2025-ON,1,2,4,,Cell structure,Cell ultrastructure & organelles,1
+2025-ON,1,2,5,,Cell structure,Prokaryotes & viruses,1
+2025-ON,1,2,6,,Biological molecules,Biochemical tests,1
+2025-ON,1,2,7,,Biological molecules,Carbohydrates,1
+2025-ON,1,2,8,,Biological molecules,Lipids,1
+2025-ON,1,2,9,,Enzymes,Mode of action & specificity,1
+2025-ON,1,2,10,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2025-ON,1,2,11,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2025-ON,1,2,12,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2025-ON,1,2,13,,Enzymes,Mode of action & specificity,1
+2025-ON,1,2,14,,Enzymes,"Vmax, Km & immobilised enzymes",1
+2025-ON,1,2,15,,Enzymes,Factors affecting enzyme activity,1
+2025-ON,1,2,16,,Enzymes,Enzyme inhibition,1
+2025-ON,1,2,17,,Cell membranes & transport,Membrane structure & cell signalling,1
+2025-ON,1,2,18,,Cell membranes & transport,Membrane structure & cell signalling,1
+2025-ON,1,2,19,,Cell membranes & transport,Surface area : volume,1
+2025-ON,1,2,20,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2025-ON,1,2,21,,The mitotic cell cycle,Chromosome structure & telomeres,1
+2025-ON,1,2,22,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2025-ON,1,2,23,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2025-ON,1,2,24,,Nucleic acids & protein synthesis,DNA replication,1
+2025-ON,1,2,25,,Nucleic acids & protein synthesis,Transcription & translation,1
+2025-ON,1,2,26,,Nucleic acids & protein synthesis,Transcription & translation,1
+2025-ON,1,2,27,,Nucleic acids & protein synthesis,Transcription & translation,1
+2025-ON,1,2,28,,Transport in plants,Structure of xylem & phloem,1
+2025-ON,1,2,29,,Transport in plants,Water uptake & transpiration,1
+2025-ON,1,2,30,,Transport in plants,Water uptake & transpiration,1
+2025-ON,1,2,31,,Transport in plants,Translocation (phloem),1
+2025-ON,1,2,32,,Transport in mammals,Blood vessels & circulation,1
+2025-ON,1,2,33,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2025-ON,1,2,34,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2025-ON,1,2,35,,Transport in mammals,Heart & cardiac cycle,1
+2025-ON,1,2,36,,Gas exchange,Gas exchange system: structure & tissues,1
+2025-ON,1,2,37,,Gas exchange,Gas exchange system: structure & tissues,1
+2025-ON,1,2,38,,Infectious diseases,"Diseases, pathogens & transmission",1
+2025-ON,1,2,39,,Immunity,Lymphocytes & antibodies,1
+2025-ON,1,2,40,,Immunity,Lymphocytes & antibodies,1
+2025-ON,2,2,1,(a),Cell structure,Cell ultrastructure & organelles,2
+2025-ON,2,2,1,(b),Cell structure,Cell ultrastructure & organelles,1
+2025-ON,2,2,1,(c)(i),Transport in mammals,Blood vessels & circulation,1
+2025-ON,2,2,1,(c)(ii),Transport in mammals,Tissue fluid,2
+2025-ON,2,2,1,(d),Cell membranes & transport,Membrane structure & cell signalling,3
+2025-ON,2,2,1,(e)(i),The mitotic cell cycle,Mitosis & the cell cycle,1
+2025-ON,2,2,1,(e)(ii),Cell structure,Cell ultrastructure & organelles,3
+2025-ON,2,2,1,(e)(iii),The mitotic cell cycle,Stem cells & cancer,1
+2025-ON,2,2,2,(a),Infectious diseases,"Diseases, pathogens & transmission",1
+2025-ON,2,2,2,(b),Infectious diseases,"Diseases, pathogens & transmission",4
+2025-ON,2,2,2,(c)(i),Immunity,Vaccination & types of immunity,4
+2025-ON,2,2,2,(c)(ii),Immunity,Monoclonal antibodies,3
+2025-ON,2,2,3,(a),Nucleic acids & protein synthesis,Transcription & translation,3
+2025-ON,2,2,3,(b),Nucleic acids & protein synthesis,Transcription & translation,2
+2025-ON,2,2,3,(c),Nucleic acids & protein synthesis,Gene mutation,1
+2025-ON,2,2,3,(d),Biological molecules,Carbohydrates,1
+2025-ON,2,2,3,(e)(i),Enzymes,Factors affecting enzyme activity,2
+2025-ON,2,2,3,(e)(ii),Enzymes,"Vmax, Km & immobilised enzymes",4
+2025-ON,2,2,4,(a),Cell structure,Prokaryotes & viruses,3
+2025-ON,2,2,4,(b)(i),Cell structure,Prokaryotes & viruses,1
+2025-ON,2,2,4,(b)(ii),Cell structure,Prokaryotes & viruses,1
+2025-ON,2,2,4,(b)(iii),Infectious diseases,Antibiotics & resistance,2
+2025-ON,2,2,5,(a),Transport in plants,Structure of xylem & phloem,2
+2025-ON,2,2,5,(b),Transport in plants,Xerophytes,3
+2025-ON,2,2,6,(a),Transport in mammals,Heart & cardiac cycle,5
+2025-ON,2,2,6,(b)(i),Biological molecules,Proteins (incl. haemoglobin & collagen),2
+2025-ON,2,2,6,(b)(ii),Transport in mammals,"Blood cells, haemoglobin & gas transport",2
+2025-ON,4,2,1,(a),Control & coordination,Plant responses & hormones,3
+2025-ON,4,2,1,(b),Control & coordination,Plant responses & hormones,1
+2025-ON,4,2,1,(c)(i),Control & coordination,Plant responses & hormones,2
+2025-ON,4,2,1,(c)(ii),Control & coordination,Plant responses & hormones,3
+2025-ON,4,2,2,(a),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",3
+2025-ON,4,2,2,(b),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",5
+2025-ON,4,2,3,(a)(i),Inherited change,Control of gene expression,3
+2025-ON,4,2,3,(a)(ii),Inherited change,Control of gene expression,2
+2025-ON,4,2,3,(a)(iii),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",3
+2025-ON,4,2,3,(b)(i),Selection & evolution,Natural & artificial selection,2
+2025-ON,4,2,3,(b)(ii),Selection & evolution,Natural & artificial selection,2
+2025-ON,4,2,4,(a),Selection & evolution,Natural & artificial selection,2
+2025-ON,4,2,4,(b),Selection & evolution,Natural & artificial selection,1
+2025-ON,4,2,4,(c),Selection & evolution,Natural & artificial selection,3
+2025-ON,4,2,5,(a),Genetic technology,"PCR, electrophoresis & sequencing",4
+2025-ON,4,2,5,(b)(i),Genetic technology,"PCR, electrophoresis & sequencing",2
+2025-ON,4,2,5,(b)(ii),Genetic technology,"PCR, electrophoresis & sequencing",3
+2025-ON,4,2,5,(c),Genetic technology,"PCR, electrophoresis & sequencing",1
+2025-ON,4,2,5,(d),Genetic technology,Gene therapy & genetic screening,4
+2025-ON,4,2,6,(a),Homeostasis,Blood glucose & cell signalling,4
+2025-ON,4,2,6,(b),Homeostasis,Test strips & biosensors,7
+2025-ON,4,2,7,(a)(i),Control & coordination,Plant responses & hormones,1
+2025-ON,4,2,7,(a)(ii),Control & coordination,Plant responses & hormones,1
+2025-ON,4,2,7,(a)(iii),Control & coordination,Plant responses & hormones,1
+2025-ON,4,2,7,(a)(iv),Control & coordination,Plant responses & hormones,1
+2025-ON,4,2,7,(b),Control & coordination,Neurones & action potentials,3
+2025-ON,4,2,8,(a),"Classification, biodiversity & conservation",Conservation & threats,4
+2025-ON,4,2,8,(b),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",3
+2025-ON,4,2,8,(c)(i),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",2
+2025-ON,4,2,8,(c)(ii),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",1
+2025-ON,4,2,8,(c)(iii),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",2
+2025-ON,4,2,9,(a)(i),Photosynthesis,Chloroplast structure & pigments,2
+2025-ON,4,2,9,(a)(ii),Photosynthesis,Chloroplast structure & pigments,3
+2025-ON,4,2,9,(b)(i),Photosynthesis,Limiting factors,4
+2025-ON,4,2,9,(b)(ii),Photosynthesis,Limiting factors,2
+2025-ON,4,2,10,(a),Control & coordination,Neurones & action potentials,3
+2025-ON,4,2,10,(b),Control & coordination,Muscle contraction & neuromuscular junction,4
+2025-ON,4,2,10,(c),Control & coordination,Muscle contraction & neuromuscular junction,3
+2025-ON,5,2,1,(a)(i),Homeostasis,Skill: variables & controls,2
+2025-ON,5,2,1,(a)(ii),Homeostasis,Skill: planning a method,2
+2025-ON,5,2,1,(a)(iii),Homeostasis,Skill: planning a method,5
+2025-ON,5,2,1,(a)(iv),Homeostasis,Skill: hypotheses & predictions,2
+2025-ON,5,2,1,(b)(i),Homeostasis,Skill: calculations & data processing,4
+2025-ON,5,2,1,(b)(ii),Homeostasis,"Skill: errors, reliability & improvements",1
+2025-ON,5,2,1,(b)(iii),Transport in plants,Skill: explaining results with biology,2
+2025-ON,5,2,2,(a),Homeostasis,Skill: calculations & data processing,2
+2025-ON,5,2,2,(b),Homeostasis,Skill: conclusions & interpreting data,2
+2025-ON,5,2,2,(c),Homeostasis,"Skill: errors, reliability & improvements",3
+2025-ON,5,2,3,(a),Practical skills (generic),Skill: variables & controls,2
+2025-ON,5,2,3,(b),Practical skills (generic),Skill: planning a method,3
+2026-MJ,1,2,1,,Cell structure,"Microscopy, magnification & resolution",1
+2026-MJ,1,2,2,,Cell structure,"Microscopy, magnification & resolution",1
+2026-MJ,1,2,3,,Cell structure,Cell ultrastructure & organelles,1
+2026-MJ,1,2,4,,Cell structure,Cell ultrastructure & organelles,1
+2026-MJ,1,2,5,,Cell structure,Cell ultrastructure & organelles,1
+2026-MJ,1,2,6,,Cell structure,Prokaryotes & viruses,1
+2026-MJ,1,2,7,,Biological molecules,Biochemical tests,1
+2026-MJ,1,2,8,,Biological molecules,Carbohydrates,1
+2026-MJ,1,2,9,,Biological molecules,Carbohydrates,1
+2026-MJ,1,2,10,,Biological molecules,Carbohydrates,1
+2026-MJ,1,2,11,,Biological molecules,Lipids,1
+2026-MJ,1,2,12,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2026-MJ,1,2,13,,Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2026-MJ,1,2,14,,Biological molecules,Water,1
+2026-MJ,1,2,15,,Enzymes,Mode of action & specificity,1
+2026-MJ,1,2,16,,Enzymes,Mode of action & specificity,1
+2026-MJ,1,2,17,,Cell membranes & transport,Membrane structure & cell signalling,1
+2026-MJ,1,2,18,,Cell membranes & transport,"Diffusion, osmosis & water potential",1
+2026-MJ,1,2,19,,Cell membranes & transport,"Active transport, endo- & exocytosis",1
+2026-MJ,1,2,20,,Cell membranes & transport,Surface area : volume,1
+2026-MJ,1,2,21,,The mitotic cell cycle,Stem cells & cancer,1
+2026-MJ,1,2,22,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2026-MJ,1,2,23,,The mitotic cell cycle,Mitosis & the cell cycle,1
+2026-MJ,1,2,24,,Nucleic acids & protein synthesis,DNA replication,1
+2026-MJ,1,2,25,,Nucleic acids & protein synthesis,DNA replication,1
+2026-MJ,1,2,26,,Nucleic acids & protein synthesis,Transcription & translation,1
+2026-MJ,1,2,27,,Nucleic acids & protein synthesis,Gene mutation,1
+2026-MJ,1,2,28,,Transport in plants,Structure of xylem & phloem,1
+2026-MJ,1,2,29,,Transport in plants,Structure of xylem & phloem,1
+2026-MJ,1,2,30,,Transport in plants,Water uptake & transpiration,1
+2026-MJ,1,2,31,,Transport in mammals,Blood vessels & circulation,1
+2026-MJ,1,2,32,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2026-MJ,1,2,33,,Transport in mammals,"Blood cells, haemoglobin & gas transport",1
+2026-MJ,1,2,34,,Transport in mammals,Heart & cardiac cycle,1
+2026-MJ,1,2,35,,Gas exchange,Alveoli & gas exchange,1
+2026-MJ,1,2,36,,Gas exchange,Gas exchange system: structure & tissues,1
+2026-MJ,1,2,37,,Infectious diseases,"Diseases, pathogens & transmission",1
+2026-MJ,1,2,38,,Infectious diseases,Antibiotics & resistance,1
+2026-MJ,1,2,39,,Immunity,Lymphocytes & antibodies,1
+2026-MJ,1,2,40,,Immunity,Vaccination & types of immunity,1
+2026-MJ,2,2,1,(a),Cell structure,Prokaryotes & viruses,1
+2026-MJ,2,2,1,(b)(i),Cell structure,Prokaryotes & viruses,2
+2026-MJ,2,2,1,(b)(ii),Cell structure,"Microscopy, magnification & resolution",2
+2026-MJ,2,2,1,(c),Cell structure,Prokaryotes & viruses,2
+2026-MJ,2,2,1,(d)(i),Infectious diseases,"Diseases, pathogens & transmission",1
+2026-MJ,2,2,1,(d)(ii),Infectious diseases,Antibiotics & resistance,3
+2026-MJ,2,2,2,(a)(i),Gas exchange,Gas exchange system: structure & tissues,1
+2026-MJ,2,2,2,(a)(ii),Gas exchange,Gas exchange system: structure & tissues,3
+2026-MJ,2,2,2,(b),The mitotic cell cycle,Chromosome structure & telomeres,2
+2026-MJ,2,2,2,(c),The mitotic cell cycle,Mitosis & the cell cycle,1
+2026-MJ,2,2,2,(d),The mitotic cell cycle,Chromosome structure & telomeres,2
+2026-MJ,2,2,2,(e)(i),Gas exchange,Alveoli & gas exchange,1
+2026-MJ,2,2,2,(e)(ii),Gas exchange,Alveoli & gas exchange,2
+2026-MJ,2,2,2,(f)(i),Biological molecules,Proteins (incl. haemoglobin & collagen),1
+2026-MJ,2,2,2,(f)(ii),Biological molecules,Proteins (incl. haemoglobin & collagen),3
+2026-MJ,2,2,3,,Transport in plants,Translocation (phloem),4
+2026-MJ,2,2,4,(a),Immunity,Lymphocytes & antibodies,1
+2026-MJ,2,2,4,(b),Immunity,Monoclonal antibodies,2
+2026-MJ,2,2,4,(c)(i),Nucleic acids & protein synthesis,DNA replication,2
+2026-MJ,2,2,4,(c)(ii),Nucleic acids & protein synthesis,Gene mutation,3
+2026-MJ,2,2,4,(d)(i),Infectious diseases,"Diseases, pathogens & transmission",1
+2026-MJ,2,2,4,(d)(ii),Immunity,Vaccination & types of immunity,2
+2026-MJ,2,2,4,(d)(iii),Immunity,Monoclonal antibodies,3
+2026-MJ,2,2,5,(a),Transport in mammals,Blood vessels & circulation,4
+2026-MJ,2,2,5,(b)(i),Biological molecules,Water,2
+2026-MJ,2,2,5,(b)(ii),Transport in plants,Translocation (phloem),3
+2026-MJ,2,2,6,(a),Enzymes,Factors affecting enzyme activity,2
+2026-MJ,2,2,6,(b),Enzymes,Factors affecting enzyme activity,3
+2026-MJ,2,2,6,(c),Enzymes,Factors affecting enzyme activity,1
+2026-MJ,3,3,1,(a)(i),Enzymes,Skill: planning a method,2
+2026-MJ,3,3,1,(a)(ii),Enzymes,Skill: recording results in a table,5
+2026-MJ,3,3,1,(a)(iii),Enzymes,Skill: conclusions & interpreting data,4
+2026-MJ,3,3,1,(a)(iv),Enzymes,"Skill: errors, reliability & improvements",1
+2026-MJ,3,3,1,(a)(v),Enzymes,Skill: planning a method,3
+2026-MJ,3,3,1,(b)(i),Enzymes,Skill: graphs & charts,4
+2026-MJ,3,3,1,(b)(ii),Enzymes,Skill: explaining results with biology,1
+2026-MJ,3,3,2,(a)(i),Transport in plants,Skill: biological drawing,5
+2026-MJ,3,3,2,(a)(ii),Transport in plants,Skill: biological drawing,5
+2026-MJ,3,3,2,(b)(i),Transport in plants,Skill: observing & comparing specimens,4
+2026-MJ,3,3,2,(b)(ii),Transport in plants,Skill: observing & comparing specimens,1
+2026-MJ,3,3,2,(c)(i),Transport in plants,"Skill: measurement, graticule & magnification",2
+2026-MJ,3,3,2,(c)(ii),Transport in plants,Skill: calculations & data processing,2
+2026-MJ,3,3,2,(c)(iii),Transport in plants,Skill: calculations & data processing,1
+2026-MJ,4,2,1,(a),Control & coordination,Neurones & action potentials,4
+2026-MJ,4,2,1,(b),Control & coordination,Neurones & action potentials,4
+2026-MJ,4,2,2,(a),Control & coordination,Plant responses & hormones,2
+2026-MJ,4,2,2,(b)(i),Inherited change,Control of gene expression,3
+2026-MJ,4,2,2,(b)(ii),Inherited change,Control of gene expression,2
+2026-MJ,4,2,2,(c),Inherited change,Control of gene expression,1
+2026-MJ,4,2,3,(a)(i),Genetic technology,"PCR, electrophoresis & sequencing",3
+2026-MJ,4,2,3,(a)(ii),Selection & evolution,"Speciation, drift & molecular evidence",4
+2026-MJ,4,2,3,(a)(iii),Selection & evolution,"Speciation, drift & molecular evidence",3
+2026-MJ,4,2,3,(b),Selection & evolution,"Variation, SD & t-test",3
+2026-MJ,4,2,4,(a),Genetic technology,Recombinant DNA & GM organisms,3
+2026-MJ,4,2,4,(b),Genetic technology,Recombinant DNA & GM organisms,2
+2026-MJ,4,2,4,(c),Genetic technology,Recombinant DNA & GM organisms,5
+2026-MJ,4,2,5,(a),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",4
+2026-MJ,4,2,5,(b),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",2
+2026-MJ,4,2,5,(c),Inherited change,"Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",3
+2026-MJ,4,2,6,(a),Cell membranes & transport,"Active transport, endo- & exocytosis",1
+2026-MJ,4,2,6,(b),Energy & respiration,ATP & energy,2
+2026-MJ,4,2,6,(c),Energy & respiration,ATP & energy,4
+2026-MJ,4,2,6,(d),Energy & respiration,ATP & energy,3
+2026-MJ,4,2,7,(a),"Classification, biodiversity & conservation","Classification, domains & kingdoms",2
+2026-MJ,4,2,7,(b),"Classification, biodiversity & conservation","Classification, domains & kingdoms",4
+2026-MJ,4,2,7,(c)(i),"Classification, biodiversity & conservation",Conservation & threats,4
+2026-MJ,4,2,7,(c)(ii),"Classification, biodiversity & conservation","Biodiversity, sampling & indices",2
+2026-MJ,4,2,8,(a),Homeostasis,Kidney & osmoregulation,4
+2026-MJ,4,2,8,(b),Homeostasis,Kidney & osmoregulation,7
+2026-MJ,4,2,9,(a),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",4
+2026-MJ,4,2,9,(b),Energy & respiration,"Glycolysis, link reaction & Krebs cycle",4
+2026-MJ,4,2,9,(c),Energy & respiration,Anaerobic respiration,3
+2026-MJ,4,2,10,(a),Photosynthesis,Chloroplast structure & pigments,4
+2026-MJ,4,2,10,(b)(i),Photosynthesis,Chloroplast structure & pigments,1
+2026-MJ,4,2,10,(b)(ii),Photosynthesis,Chloroplast structure & pigments,1
+2026-MJ,4,2,10,(b)(iii),Photosynthesis,Chloroplast structure & pigments,2
+2026-MJ,5,2,1,(a),Enzymes,Skill: risk assessment,1
+2026-MJ,5,2,1,(b)(i),Enzymes,Skill: variables & controls,1
+2026-MJ,5,2,1,(b)(ii),Enzymes,Skill: planning a method,7
+2026-MJ,5,2,1,(c)(i),Enzymes,Skill: planning a method,1
+2026-MJ,5,2,1,(c)(ii),Enzymes,Skill: variables & controls,1
+2026-MJ,5,2,1,(c)(iii),Enzymes,"Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",1
+2026-MJ,5,2,1,(c)(iv),Enzymes,Skill: graphs & charts,2
+2026-MJ,5,2,1,(c)(v),Enzymes,Skill: conclusions & interpreting data,4
+2026-MJ,5,2,1,(c)(vi),Enzymes,"Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",2
+2026-MJ,5,2,2,(a)(i),"Classification, biodiversity & conservation",Skill: planning a method,1
+2026-MJ,5,2,2,(a)(ii),"Classification, biodiversity & conservation",Skill: variables & controls,2
+2026-MJ,5,2,2,(a)(iii),"Classification, biodiversity & conservation","Skill: errors, reliability & improvements",3
+2026-MJ,5,2,2,(b),"Classification, biodiversity & conservation",Skill: hypotheses & predictions,2
+2026-MJ,5,2,2,(c),"Classification, biodiversity & conservation",Skill: calculations & data processing,2
