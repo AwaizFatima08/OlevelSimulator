@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Question Simulator launcher foreground: three "question lines" and a gold dot, same as the website favicon. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:strokeColor="#FFFDF9" android:strokeWidth="6.5" android:strokeLineCap="round"
+        android:pathData="M36,40 L58,40 M36,54 L72,54 M36,68 L52,68" />
+    <path android:fillColor="#F0B35C"
+        android:pathData="M70,68 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+</vector>

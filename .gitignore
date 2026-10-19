@@ -11,3 +11,8 @@ scripts/backup.log
 *.zip
 __pycache__/
 .claude/
+
+# Built apps: rebuildable, so kept out of the repo and the backups
+releases/
+*.apk
+*.aab

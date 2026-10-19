@@ -1,4 +1,55 @@
 session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,1,1,a,Number,Types of number,1
+2022-MJ,1,1,1,b,Number,Rounding & estimation,1
+2022-MJ,1,1,2,a,Geometry,Symmetry,1
+2022-MJ,1,1,2,b,Geometry,Symmetry,1
+2022-MJ,1,1,3,a,Number,Integers & directed numbers,1
+2022-MJ,1,1,3,b,Number,Integers & directed numbers,1
+2022-MJ,1,1,4,a,Mensuration,Surface area & volume,2
+2022-MJ,1,1,4,b,Mensuration,Nets & 3D shapes,1
+2022-MJ,1,1,5,,Mensuration,Nets & 3D shapes,3
+2022-MJ,1,1,6,a,Number,Primes factors HCF & LCM,1
+2022-MJ,1,1,6,b,Number,Types of number,1
+2022-MJ,1,1,7,a,Statistics,Averages & range,1
+2022-MJ,1,1,7,b,Statistics,Averages & range,2
+2022-MJ,1,1,8,a,Number,Fractions & decimals,1
+2022-MJ,1,1,8,b,Number,Fractions & decimals,1
+2022-MJ,1,1,9,,Number,Units & measures,2
+2022-MJ,1,1,10,a,Statistics,Scatter diagrams,2
+2022-MJ,1,1,10,b,Statistics,Scatter diagrams,1
+2022-MJ,1,1,10,c,Statistics,Scatter diagrams,1
+2022-MJ,1,1,10,d,Statistics,Scatter diagrams,1
+2022-MJ,1,1,11,a,Probability,Relative & expected frequency,1
+2022-MJ,1,1,11,b,Probability,Relative & expected frequency,1
+2022-MJ,1,1,12,,Number,Rounding & estimation,2
+2022-MJ,1,1,13,a(i),Algebra,Algebraic manipulation & factorising,2
+2022-MJ,1,1,13,a(ii),Algebra,Algebraic manipulation & factorising,2
+2022-MJ,1,1,13,b,Algebra,Algebraic fractions,2
+2022-MJ,1,1,14,a,Number,Standard form,1
+2022-MJ,1,1,14,b(i),Number,Standard form,1
+2022-MJ,1,1,14,b(ii),Number,Standard form,2
+2022-MJ,1,1,15,a,Number,Order of operations,1
+2022-MJ,1,1,15,b,Algebra,Indices (algebraic),1
+2022-MJ,1,1,15,c,Number,Powers roots & surds,2
+2022-MJ,1,1,16,a,Transformations & vectors,Vectors,1
+2022-MJ,1,1,16,b,Transformations & vectors,Vectors,1
+2022-MJ,1,1,16,c,Transformations & vectors,Vectors,2
+2022-MJ,1,1,17,,Geometry,Scale drawing & bearings,2
+2022-MJ,1,1,18,a,Number,Sets & Venn diagrams,1
+2022-MJ,1,1,18,b,Number,Sets & Venn diagrams,2
+2022-MJ,1,1,19,a,Geometry,Circle theorems,1
+2022-MJ,1,1,19,b,Geometry,Circle theorems,1
+2022-MJ,1,1,19,c,Geometry,Circle theorems,2
+2022-MJ,1,1,20,a,Algebra,Functions,1
+2022-MJ,1,1,20,b,Algebra,Functions,3
+2022-MJ,1,1,21,,Algebra,Direct & inverse proportion,2
+2022-MJ,1,1,22,a,Algebra,Algebraic manipulation & factorising,2
+2022-MJ,1,1,22,b,Algebra,Algebraic manipulation & factorising,2
+2022-MJ,1,1,23,,Algebra,Substitution & formulae,4
+2022-MJ,1,1,24,,Transformations & vectors,Matrices,3
+2022-MJ,1,1,25,a(i),Transformations & vectors,Vectors,1
+2022-MJ,1,1,25,a(ii),Transformations & vectors,Vectors,2
+2022-MJ,1,1,25,b,Transformations & vectors,Vectors,3
 2022-MJ,1,2,1,a,Number,Fractions & decimals,1
 2022-MJ,1,2,1,b,Number,Fractions & decimals,1
 2022-MJ,1,2,2,a,Statistics,Charts & tables,3
@@ -44,6 +95,48 @@ session,paper,variant,question,part,topic,subtopic,marks
 2022-MJ,1,2,25,a,Transformations & vectors,Vectors,1
 2022-MJ,1,2,25,b,Transformations & vectors,Vectors,2
 2022-MJ,1,2,25,c,Geometry,Congruence & similarity,1
+2022-MJ,2,1,1,a(i),Number,Percentages,3
+2022-MJ,2,1,1,a(ii),Number,Percentages,2
+2022-MJ,2,1,1,b(i),Number,Money & interest,1
+2022-MJ,2,1,1,b(ii),Number,Rates & speed,3
+2022-MJ,2,1,1,b(iii),Number,Percentages,2
+2022-MJ,2,1,2,a,Algebra,Sequences,2
+2022-MJ,2,1,2,b,Algebra,Sequences,2
+2022-MJ,2,1,2,c,Algebra,Sequences,2
+2022-MJ,2,1,2,d,Algebra,Sequences,2
+2022-MJ,2,1,2,e,Algebra,Sequences,2
+2022-MJ,2,1,3,a(i),Algebra,Kinematic & real-life graphs,1
+2022-MJ,2,1,3,a(ii),Algebra,Kinematic & real-life graphs,2
+2022-MJ,2,1,3,b,Number,Ratio & proportion,2
+2022-MJ,2,1,3,c,Number,Bounds & accuracy,3
+2022-MJ,2,1,4,a,Mensuration,Surface area & volume,2
+2022-MJ,2,1,4,b(i),Mensuration,Arcs & sectors,1
+2022-MJ,2,1,4,b(ii),Mensuration,Arcs & sectors,2
+2022-MJ,2,1,4,b(iii),Trigonometry,Pythagoras,2
+2022-MJ,2,1,4,c,Mensuration,Surface area & volume,3
+2022-MJ,2,1,5,a,Algebra,Graphs of functions,1
+2022-MJ,2,1,5,b,Algebra,Graphs of functions,3
+2022-MJ,2,1,5,c,Algebra,Graphs of functions,3
+2022-MJ,2,1,6,a,Geometry,Scale drawing & bearings,2
+2022-MJ,2,1,6,b,Geometry,Constructions & loci,4
+2022-MJ,2,1,6,c,Geometry,Scale drawing & bearings,1
+2022-MJ,2,1,7,a(i),Probability,Single events,1
+2022-MJ,2,1,7,a(ii),Probability,Combined events,2
+2022-MJ,2,1,7,a(iii),Probability,Combined events,3
+2022-MJ,2,1,7,b(i),Statistics,Histograms,3
+2022-MJ,2,1,7,b(ii),Statistics,Histograms,2
+2022-MJ,2,1,8,a(i),Algebra,Simultaneous equations,1
+2022-MJ,2,1,8,a(ii),Algebra,Simultaneous equations,4
+2022-MJ,2,1,8,b,Algebra,Inequalities & regions,3
+2022-MJ,2,1,8,c,Algebra,Quadratic equations,6
+2022-MJ,2,1,9,a,Trigonometry,Bearings,1
+2022-MJ,2,1,9,b,Trigonometry,Sine & cosine rules,4
+2022-MJ,2,1,9,c,Trigonometry,Sine & cosine rules,5
+2022-MJ,2,1,10,a,Transformations & vectors,Transformations,2
+2022-MJ,2,1,10,b,Transformations & vectors,Matrices,1
+2022-MJ,2,1,10,c,Transformations & vectors,Transformations,2
+2022-MJ,2,1,11,a,Coordinate geometry,Length midpoint & gradient,2
+2022-MJ,2,1,11,b,Coordinate geometry,Perpendicular & parallel lines,5
 2022-MJ,2,2,1,a(i),Number,Money & interest,1
 2022-MJ,2,2,1,a(ii),Number,Percentages,2
 2022-MJ,2,2,1,b,Number,Percentages,3
@@ -88,6 +181,52 @@ session,paper,variant,question,part,topic,subtopic,marks
 2022-MJ,2,2,10,a,Coordinate geometry,Length midpoint & gradient,5
 2022-MJ,2,2,10,b(i),Coordinate geometry,Perpendicular & parallel lines,4
 2022-MJ,2,2,10,b(ii),Coordinate geometry,Equation of a line,3
+2022-ON,1,1,1,a,Number,Integers & directed numbers,1
+2022-ON,1,1,1,b,Number,Integers & directed numbers,1
+2022-ON,1,1,2,,Number,Percentages,2
+2022-ON,1,1,3,,Number,Ordering & FDP conversion,2
+2022-ON,1,1,4,a,Geometry,Scale drawing & bearings,2
+2022-ON,1,1,4,b,Geometry,Scale drawing & bearings,1
+2022-ON,1,1,4,c,Geometry,Scale drawing & bearings,2
+2022-ON,1,1,5,a(i),Number,Rounding & estimation,1
+2022-ON,1,1,5,a(ii),Number,Rounding & estimation,1
+2022-ON,1,1,5,b,Number,Rounding & estimation,2
+2022-ON,1,1,6,a,Number,Powers roots & surds,1
+2022-ON,1,1,6,b,Number,Powers roots & surds,1
+2022-ON,1,1,6,c,Algebra,Indices (algebraic),1
+2022-ON,1,1,7,a,Number,Fractions & decimals,1
+2022-ON,1,1,7,b,Number,Fractions & decimals,2
+2022-ON,1,1,8,,Algebra,Algebraic manipulation & factorising,2
+2022-ON,1,1,9,a,Number,Sets & Venn diagrams,1
+2022-ON,1,1,9,b(i),Number,Sets & Venn diagrams,1
+2022-ON,1,1,9,b(ii),Number,Sets & Venn diagrams,1
+2022-ON,1,1,10,a,Number,Standard form,1
+2022-ON,1,1,10,b,Number,Standard form,2
+2022-ON,1,1,11,a,Number,Primes factors HCF & LCM,2
+2022-ON,1,1,11,b,Number,Primes factors HCF & LCM,1
+2022-ON,1,1,12,a,Algebra,Algebraic manipulation & factorising,2
+2022-ON,1,1,12,b,Algebra,Algebraic manipulation & factorising,2
+2022-ON,1,1,13,a,Algebra,Sequences,2
+2022-ON,1,1,13,b,Algebra,Sequences,2
+2022-ON,1,1,14,a,Geometry,Circle theorems,1
+2022-ON,1,1,14,b,Geometry,Circle theorems,2
+2022-ON,1,1,14,c,Geometry,Circle theorems,2
+2022-ON,1,1,15,a,Geometry,Congruence & similarity,2
+2022-ON,1,1,15,b,Geometry,Congruence & similarity,2
+2022-ON,1,1,16,a,Coordinate geometry,Length midpoint & gradient,1
+2022-ON,1,1,16,b,Algebra,Inequalities & regions,3
+2022-ON,1,1,17,a,Algebra,Kinematic & real-life graphs,1
+2022-ON,1,1,17,b,Algebra,Kinematic & real-life graphs,3
+2022-ON,1,1,18,,Algebra,Direct & inverse proportion,2
+2022-ON,1,1,19,,Geometry,Congruence & similarity,3
+2022-ON,1,1,20,a,Statistics,Histograms,1
+2022-ON,1,1,20,b,Statistics,Histograms,2
+2022-ON,1,1,21,a,Transformations & vectors,Matrices,2
+2022-ON,1,1,21,b,Transformations & vectors,Matrices,2
+2022-ON,1,1,22,a,Algebra,Quadratic equations,2
+2022-ON,1,1,22,b,Algebra,Quadratic equations,2
+2022-ON,1,1,23,a,Mensuration,Surface area & volume,3
+2022-ON,1,1,23,b,Mensuration,Surface area & volume,4
 2022-ON,1,2,1,a,Number,Fractions & decimals,1
 2022-ON,1,2,1,b,Number,Powers roots & surds,1
 2022-ON,1,2,2,a,Number,Order of operations,1
@@ -136,6 +275,49 @@ session,paper,variant,question,part,topic,subtopic,marks
 2022-ON,1,2,25,,Algebra,Algebraic fractions,3
 2022-ON,1,2,26,a,Transformations & vectors,Vectors,3
 2022-ON,1,2,26,b,Transformations & vectors,Vectors,2
+2022-ON,2,1,1,a,Number,Time,2
+2022-ON,2,1,1,b,Number,Percentages,2
+2022-ON,2,1,1,c,Number,Ratio & proportion,3
+2022-ON,2,1,1,d,Number,Money & interest,2
+2022-ON,2,1,1,e,Number,Money & interest,3
+2022-ON,2,1,2,a(i),Statistics,Scatter diagrams,2
+2022-ON,2,1,2,a(ii),Statistics,Scatter diagrams,1
+2022-ON,2,1,2,a(iii),Statistics,Scatter diagrams,1
+2022-ON,2,1,2,a(iv),Statistics,Scatter diagrams,1
+2022-ON,2,1,2,b(i),Statistics,Charts & tables,2
+2022-ON,2,1,2,b(ii),Statistics,Grouped data & mean,3
+2022-ON,2,1,3,a,Algebra,Graphs of functions,1
+2022-ON,2,1,3,b,Algebra,Graphs of functions,3
+2022-ON,2,1,3,c,Algebra,Graphs of functions,2
+2022-ON,2,1,3,d,Algebra,Graphs of functions,2
+2022-ON,2,1,4,a,Algebra,Functions,1
+2022-ON,2,1,4,b,Algebra,Functions,1
+2022-ON,2,1,4,c,Algebra,Functions,3
+2022-ON,2,1,4,d,Algebra,Functions,4
+2022-ON,2,1,5,a(i),Probability,Single events,2
+2022-ON,2,1,5,a(ii),Probability,Relative & expected frequency,2
+2022-ON,2,1,5,b(i),Probability,Combined events,2
+2022-ON,2,1,5,b(ii),Probability,Combined events,3
+2022-ON,2,1,6,a(i),Transformations & vectors,Vectors,1
+2022-ON,2,1,6,a(ii),Transformations & vectors,Vectors,2
+2022-ON,2,1,6,a(iii),Transformations & vectors,Vectors,2
+2022-ON,2,1,6,b,Coordinate geometry,Length midpoint & gradient,4
+2022-ON,2,1,7,a,Transformations & vectors,Transformations,2
+2022-ON,2,1,7,b,Transformations & vectors,Transformations,1
+2022-ON,2,1,7,c,Transformations & vectors,Transformations,2
+2022-ON,2,1,7,d(i),Transformations & vectors,Matrices,2
+2022-ON,2,1,7,d(ii),Transformations & vectors,Transformations,3
+2022-ON,2,1,7,d(iii),Transformations & vectors,Matrices,1
+2022-ON,2,1,8,a,Algebra,Algebraic fractions,1
+2022-ON,2,1,8,b,Algebra,Algebraic fractions,4
+2022-ON,2,1,8,c,Algebra,Quadratic equations,3
+2022-ON,2,1,8,d,Number,Rates & speed,2
+2022-ON,2,1,9,a,Algebra,Equations,4
+2022-ON,2,1,9,b,Algebra,Algebraic fractions,3
+2022-ON,2,1,10,a,Trigonometry,Sine & cosine rules,4
+2022-ON,2,1,10,b,Number,Bounds & accuracy,3
+2022-ON,2,1,11,a,Trigonometry,Right-angled trigonometry,3
+2022-ON,2,1,11,b,Mensuration,Surface area & volume,5
 2022-ON,2,2,1,a(i),Number,Time,2
 2022-ON,2,2,1,a(ii),Number,Time,1
 2022-ON,2,2,1,b,Number,Money & interest,3
@@ -179,6 +361,52 @@ session,paper,variant,question,part,topic,subtopic,marks
 2022-ON,2,2,10,a(i),Geometry,Congruence & similarity,3
 2022-ON,2,2,10,a(ii),Geometry,Circle theorems,2
 2022-ON,2,2,10,b,Mensuration,Arcs & sectors,5
+2023-MJ,1,1,1,a,Number,Fractions & decimals,1
+2023-MJ,1,1,1,b,Number,Fractions & decimals,1
+2023-MJ,1,1,2,a,Number,Fractions & decimals,1
+2023-MJ,1,1,2,b,Number,Fractions & decimals,1
+2023-MJ,1,1,3,a,Geometry,Angles & polygons,1
+2023-MJ,1,1,3,b,Geometry,Angles & polygons,1
+2023-MJ,1,1,4,a(i),Algebra,Algebraic manipulation & factorising,1
+2023-MJ,1,1,4,a(ii),Algebra,Algebraic manipulation & factorising,1
+2023-MJ,1,1,4,b,Algebra,Substitution & formulae,1
+2023-MJ,1,1,5,a,Number,Order of operations,1
+2023-MJ,1,1,5,b,Number,Order of operations,1
+2023-MJ,1,1,6,a,Geometry,Symmetry,1
+2023-MJ,1,1,6,b,Geometry,Symmetry,1
+2023-MJ,1,1,7,a,Number,Integers & directed numbers,1
+2023-MJ,1,1,7,b,Number,Integers & directed numbers,1
+2023-MJ,1,1,8,a,Number,Ratio & proportion,2
+2023-MJ,1,1,8,b,Number,Ratio & proportion,2
+2023-MJ,1,1,9,,Transformations & vectors,Transformations,3
+2023-MJ,1,1,10,a,Number,Fractions & decimals,2
+2023-MJ,1,1,10,b,Number,Fractions & decimals,2
+2023-MJ,1,1,11,,Algebra,Inequalities & regions,2
+2023-MJ,1,1,12,a,Probability,Relative & expected frequency,1
+2023-MJ,1,1,12,b,Probability,Relative & expected frequency,2
+2023-MJ,1,1,13,a,Geometry,Scale drawing & bearings,1
+2023-MJ,1,1,13,b,Geometry,Scale drawing & bearings,2
+2023-MJ,1,1,14,a,Algebra,Algebraic manipulation & factorising,2
+2023-MJ,1,1,14,b,Algebra,Algebraic manipulation & factorising,2
+2023-MJ,1,1,15,,Algebra,Sequences,2
+2023-MJ,1,1,16,,Mensuration,Arcs & sectors,3
+2023-MJ,1,1,17,,Number,Standard form,2
+2023-MJ,1,1,18,,Algebra,Substitution & formulae,3
+2023-MJ,1,1,19,,Geometry,Congruence & similarity,3
+2023-MJ,1,1,20,,Algebra,Functions,2
+2023-MJ,1,1,21,,Geometry,Congruence & similarity,3
+2023-MJ,1,1,22,a,Algebra,Algebraic manipulation & factorising,2
+2023-MJ,1,1,22,b,Algebra,Algebraic manipulation & factorising,2
+2023-MJ,1,1,23,a,Number,Bounds & accuracy,1
+2023-MJ,1,1,23,b,Number,Bounds & accuracy,3
+2023-MJ,1,1,24,,Statistics,Histograms,3
+2023-MJ,1,1,25,,Algebra,Indices (algebraic),2
+2023-MJ,1,1,26,a,Coordinate geometry,Length midpoint & gradient,1
+2023-MJ,1,1,26,b,Coordinate geometry,Perpendicular & parallel lines,4
+2023-MJ,1,1,27,a,Transformations & vectors,Vectors,1
+2023-MJ,1,1,27,b(i),Transformations & vectors,Vectors,1
+2023-MJ,1,1,27,b(ii),Transformations & vectors,Vectors,2
+2023-MJ,1,1,27,c,Transformations & vectors,Vectors,2
 2023-MJ,1,2,1,a,Number,Fractions & decimals,1
 2023-MJ,1,2,1,b,Number,Powers roots & surds,1
 2023-MJ,1,2,2,,Geometry,Geometrical terms,2
@@ -221,6 +449,52 @@ session,paper,variant,question,part,topic,subtopic,marks
 2023-MJ,1,2,23,a,Probability,Combined events,2
 2023-MJ,1,2,23,b,Probability,Combined events,3
 2023-MJ,1,2,24,,Coordinate geometry,Perpendicular & parallel lines,5
+2023-MJ,2,1,1,a,Mensuration,Surface area & volume,1
+2023-MJ,2,1,1,b,Algebra,Graphs of functions,1
+2023-MJ,2,1,1,c,Algebra,Graphs of functions,3
+2023-MJ,2,1,1,d(i),Mensuration,Surface area & volume,1
+2023-MJ,2,1,1,d(ii),Algebra,Graphs of functions,3
+2023-MJ,2,1,2,a,Number,Time,1
+2023-MJ,2,1,2,b(i),Number,Money & interest,1
+2023-MJ,2,1,2,b(ii),Number,Percentages,2
+2023-MJ,2,1,2,c,Number,Percentages,2
+2023-MJ,2,1,2,d,Number,Money & interest,2
+2023-MJ,2,1,3,a,Geometry,Angles & polygons,3
+2023-MJ,2,1,3,b,Geometry,Circle theorems,4
+2023-MJ,2,1,4,a(i),Statistics,Cumulative frequency & box plots,1
+2023-MJ,2,1,4,a(ii),Statistics,Cumulative frequency & box plots,2
+2023-MJ,2,1,4,b,Statistics,Cumulative frequency & box plots,3
+2023-MJ,2,1,4,c,Statistics,Cumulative frequency & box plots,2
+2023-MJ,2,1,5,a(i),Number,Sets & Venn diagrams,3
+2023-MJ,2,1,5,a(ii),Number,Sets & Venn diagrams,1
+2023-MJ,2,1,5,a(iii),Number,Sets & Venn diagrams,1
+2023-MJ,2,1,5,a(iv),Number,Sets & Venn diagrams,1
+2023-MJ,2,1,5,a(v),Probability,Single events,2
+2023-MJ,2,1,5,b(i),Number,Primes factors HCF & LCM,2
+2023-MJ,2,1,5,b(ii),Number,Primes factors HCF & LCM,1
+2023-MJ,2,1,5,b(iii),Number,Primes factors HCF & LCM,1
+2023-MJ,2,1,6,a,Algebra,Algebraic manipulation & factorising,2
+2023-MJ,2,1,6,b,Algebra,Equations,4
+2023-MJ,2,1,6,c,Algebra,Direct & inverse proportion,2
+2023-MJ,2,1,6,d,Algebra,Algebraic fractions,3
+2023-MJ,2,1,7,a(i),Geometry,Constructions & loci,2
+2023-MJ,2,1,7,a(ii),Geometry,Constructions & loci,2
+2023-MJ,2,1,7,b(i),Trigonometry,Sine & cosine rules,3
+2023-MJ,2,1,7,b(ii)a,Trigonometry,Sine & cosine rules,3
+2023-MJ,2,1,7,b(ii)b,Trigonometry,Sine & cosine rules,3
+2023-MJ,2,1,8,a(i),Algebra,Kinematic & real-life graphs,2
+2023-MJ,2,1,8,a(ii),Algebra,Kinematic & real-life graphs,1
+2023-MJ,2,1,8,b,Algebra,Kinematic & real-life graphs,3
+2023-MJ,2,1,9,a,Transformations & vectors,Matrices,1
+2023-MJ,2,1,9,b(i),Algebra,Simultaneous equations,5
+2023-MJ,2,1,9,b(ii),Transformations & vectors,Matrices,1
+2023-MJ,2,1,10,a(i),Statistics,Charts & tables,1
+2023-MJ,2,1,10,a(ii),Statistics,Averages & range,3
+2023-MJ,2,1,10,b(i),Probability,Combined events,3
+2023-MJ,2,1,10,b(ii),Algebra,Quadratic equations,3
+2023-MJ,2,1,11,a,Trigonometry,Right-angled trigonometry,3
+2023-MJ,2,1,11,b,Mensuration,Surface area & volume,3
+2023-MJ,2,1,11,c,Trigonometry,3D trigonometry & elevation,3
 2023-MJ,2,2,1,a(i),Number,Money & interest,4
 2023-MJ,2,2,1,a(ii),Number,Percentages,2
 2023-MJ,2,2,1,b(i)a,Statistics,Charts & tables,2
@@ -266,6 +540,52 @@ session,paper,variant,question,part,topic,subtopic,marks
 2023-MJ,2,2,10,a,Transformations & vectors,Vectors,3
 2023-MJ,2,2,10,b(i),Transformations & vectors,Vectors,2
 2023-MJ,2,2,10,b(ii),Transformations & vectors,Vectors,3
+2023-ON,1,1,1,a,Number,Order of operations,1
+2023-ON,1,1,1,b,Number,Fractions & decimals,1
+2023-ON,1,1,2,,Number,Ordering & FDP conversion,2
+2023-ON,1,1,3,a,Number,Integers & directed numbers,1
+2023-ON,1,1,3,b,Number,Integers & directed numbers,1
+2023-ON,1,1,4,,Number,Money & interest,2
+2023-ON,1,1,5,a,Statistics,Averages & range,1
+2023-ON,1,1,5,b,Statistics,Charts & tables,1
+2023-ON,1,1,6,a,Geometry,Angles & polygons,1
+2023-ON,1,1,6,b,Geometry,Angles & polygons,1
+2023-ON,1,1,7,,Number,Rounding & estimation,2
+2023-ON,1,1,8,a,Number,Units & measures,1
+2023-ON,1,1,8,b,Number,Units & measures,1
+2023-ON,1,1,9,a,Statistics,Scatter diagrams,1
+2023-ON,1,1,9,b,Statistics,Scatter diagrams,2
+2023-ON,1,1,10,a,Geometry,Angles & polygons,2
+2023-ON,1,1,10,b,Geometry,Angles & polygons,2
+2023-ON,1,1,11,a,Number,Powers roots & surds,1
+2023-ON,1,1,11,b,Number,Powers roots & surds,2
+2023-ON,1,1,12,a,Geometry,Scale drawing & bearings,2
+2023-ON,1,1,12,b,Geometry,Constructions & loci,2
+2023-ON,1,1,12,c,Geometry,Scale drawing & bearings,1
+2023-ON,1,1,13,,Number,Fractions & decimals,2
+2023-ON,1,1,14,a,Number,Primes factors HCF & LCM,2
+2023-ON,1,1,14,b,Number,Primes factors HCF & LCM,3
+2023-ON,1,1,15,a,Geometry,Circle theorems,1
+2023-ON,1,1,15,b,Geometry,Circle theorems,2
+2023-ON,1,1,15,c,Geometry,Circle theorems,1
+2023-ON,1,1,16,,Algebra,Inequalities & regions,4
+2023-ON,1,1,17,,Algebra,Direct & inverse proportion,2
+2023-ON,1,1,18,a,Number,Sets & Venn diagrams,3
+2023-ON,1,1,18,b,Number,Sets & Venn diagrams,1
+2023-ON,1,1,19,a,Algebra,Kinematic & real-life graphs,1
+2023-ON,1,1,19,b,Algebra,Kinematic & real-life graphs,3
+2023-ON,1,1,20,a,Transformations & vectors,Matrices,2
+2023-ON,1,1,20,b,Transformations & vectors,Matrices,2
+2023-ON,1,1,21,a,Algebra,Algebraic manipulation & factorising,1
+2023-ON,1,1,21,b,Algebra,Algebraic manipulation & factorising,1
+2023-ON,1,1,21,c,Algebra,Algebraic fractions,3
+2023-ON,1,1,22,a,Algebra,Functions,1
+2023-ON,1,1,22,b,Algebra,Functions,2
+2023-ON,1,1,22,c,Algebra,Functions,3
+2023-ON,1,1,23,a,Transformations & vectors,Vectors,1
+2023-ON,1,1,23,b,Transformations & vectors,Vectors,2
+2023-ON,1,1,23,c,Transformations & vectors,Vectors,2
+2023-ON,1,1,24,,Algebra,Algebraic fractions,4
 2023-ON,1,2,1,a,Number,Fractions & decimals,1
 2023-ON,1,2,1,b,Number,Fractions & decimals,1
 2023-ON,1,2,1,c,Number,Order of operations,1
@@ -313,6 +633,51 @@ session,paper,variant,question,part,topic,subtopic,marks
 2023-ON,1,2,24,a(i),Transformations & vectors,Vectors,1
 2023-ON,1,2,24,a(ii),Transformations & vectors,Vectors,3
 2023-ON,1,2,24,b,Transformations & vectors,Vectors,1
+2023-ON,2,1,1,a,Number,Percentages,2
+2023-ON,2,1,1,b,Number,Ratio & proportion,2
+2023-ON,2,1,1,c(i),Number,Percentages,2
+2023-ON,2,1,1,c(ii),Number,Percentages,2
+2023-ON,2,1,1,d(i),Number,Standard form,1
+2023-ON,2,1,1,d(ii),Number,Rates & speed,3
+2023-ON,2,1,2,a(i),Coordinate geometry,Straight-line graphs,1
+2023-ON,2,1,2,a(ii),Transformations & vectors,Transformations,1
+2023-ON,2,1,2,b,Transformations & vectors,Transformations,3
+2023-ON,2,1,3,a(i),Coordinate geometry,Equation of a line,1
+2023-ON,2,1,3,a(ii),Coordinate geometry,Equation of a line,1
+2023-ON,2,1,3,b(i),Coordinate geometry,Length midpoint & gradient,2
+2023-ON,2,1,3,b(ii),Coordinate geometry,Equation of a line,3
+2023-ON,2,1,4,a(i),Algebra,Sequences,1
+2023-ON,2,1,4,a(ii),Algebra,Sequences,2
+2023-ON,2,1,4,a(iii),Algebra,Sequences,3
+2023-ON,2,1,4,b,Algebra,Sequences,5
+2023-ON,2,1,5,a(i),Number,Time,1
+2023-ON,2,1,5,a(ii),Number,Time,1
+2023-ON,2,1,5,b(i),Statistics,Cumulative frequency & box plots,1
+2023-ON,2,1,5,b(ii),Statistics,Cumulative frequency & box plots,2
+2023-ON,2,1,5,b(iii),Statistics,Cumulative frequency & box plots,3
+2023-ON,2,1,5,c,Number,Bounds & accuracy,3
+2023-ON,2,1,6,a,Algebra,Algebraic manipulation & factorising,1
+2023-ON,2,1,6,b,Mensuration,Area & perimeter,3
+2023-ON,2,1,6,c,Algebra,Graphs of functions,1
+2023-ON,2,1,6,d,Algebra,Graphs of functions,3
+2023-ON,2,1,6,e,Algebra,Graphs of functions,2
+2023-ON,2,1,7,a,Algebra,Algebraic manipulation & factorising,2
+2023-ON,2,1,7,b,Algebra,Algebraic manipulation & factorising,2
+2023-ON,2,1,7,c,Algebra,Quadratic equations,3
+2023-ON,2,1,7,d(i),Algebra,Algebraic fractions,1
+2023-ON,2,1,7,d(ii),Algebra,Algebraic fractions,3
+2023-ON,2,1,8,a(i),Statistics,Averages & range,1
+2023-ON,2,1,8,a(ii),Statistics,Averages & range,1
+2023-ON,2,1,8,a(iii),Statistics,Averages & range,2
+2023-ON,2,1,8,a(iv),Probability,Single events,2
+2023-ON,2,1,8,b(i),Probability,Combined events,2
+2023-ON,2,1,8,b(ii),Probability,Combined events,3
+2023-ON,2,1,9,a(i),Mensuration,Surface area & volume,2
+2023-ON,2,1,9,a(ii),Trigonometry,Sine & cosine rules,3
+2023-ON,2,1,9,a(iii),Mensuration,Surface area & volume,5
+2023-ON,2,1,9,b,Trigonometry,Pythagoras,4
+2023-ON,2,1,10,a,Geometry,Congruence & similarity,3
+2023-ON,2,1,10,b,Mensuration,Arcs & sectors,5
 2023-ON,2,2,1,a(i),Number,Money & interest,2
 2023-ON,2,2,1,a(ii),Number,Time,3
 2023-ON,2,2,1,b,Number,Money & interest,3
@@ -352,6 +717,49 @@ session,paper,variant,question,part,topic,subtopic,marks
 2023-ON,2,2,11,a,Algebra,Functions,1
 2023-ON,2,2,11,b,Algebra,Functions,2
 2023-ON,2,2,11,c,Algebra,Algebraic fractions,3
+2024-MJ,1,1,1,a,Geometry,Symmetry,1
+2024-MJ,1,1,1,b,Geometry,Symmetry,1
+2024-MJ,1,1,2,,Number,Units & measures,2
+2024-MJ,1,1,3,a,Number,Fractions & decimals,1
+2024-MJ,1,1,3,b,Number,Percentages,1
+2024-MJ,1,1,3,c,Number,Integers & directed numbers,1
+2024-MJ,1,1,4,a,Geometry,Constructions & loci,2
+2024-MJ,1,1,4,b,Geometry,Constructions & loci,1
+2024-MJ,1,1,5,a,Statistics,Charts & tables,1
+2024-MJ,1,1,5,b,Probability,Single events,1
+2024-MJ,1,1,6,a,Algebra,Algebraic manipulation & factorising,2
+2024-MJ,1,1,6,b,Algebra,Substitution & formulae,1
+2024-MJ,1,1,7,,Geometry,Angles & polygons,3
+2024-MJ,1,1,8,,Number,Money & interest,2
+2024-MJ,1,1,9,a,Algebra,Kinematic & real-life graphs,2
+2024-MJ,1,1,9,b,Number,Rates & speed,1
+2024-MJ,1,1,10,a,Number,Fractions & decimals,2
+2024-MJ,1,1,10,b,Number,Ratio & proportion,1
+2024-MJ,1,1,11,,Number,Fractions & decimals,2
+2024-MJ,1,1,12,,Algebra,Equations,3
+2024-MJ,1,1,13,,Statistics,Charts & tables,2
+2024-MJ,1,1,14,,Algebra,Simultaneous equations,3
+2024-MJ,1,1,15,,Number,Rounding & estimation,2
+2024-MJ,1,1,16,a,Geometry,Circle theorems,2
+2024-MJ,1,1,16,b(i),Geometry,Circle theorems,1
+2024-MJ,1,1,16,b(ii),Geometry,Circle theorems,2
+2024-MJ,1,1,17,a,Statistics,Cumulative frequency & box plots,3
+2024-MJ,1,1,17,b(i),Statistics,Cumulative frequency & box plots,1
+2024-MJ,1,1,17,b(ii),Statistics,Cumulative frequency & box plots,2
+2024-MJ,1,1,17,b(iii),Statistics,Cumulative frequency & box plots,2
+2024-MJ,1,1,18,,Algebra,Direct & inverse proportion,3
+2024-MJ,1,1,19,a,Algebra,Functions,1
+2024-MJ,1,1,19,b,Algebra,Functions,2
+2024-MJ,1,1,19,c,Algebra,Quadratic equations,3
+2024-MJ,1,1,20,,Transformations & vectors,Matrices,2
+2024-MJ,1,1,21,,Geometry,Congruence & similarity,4
+2024-MJ,1,1,22,,Algebra,Substitution & formulae,3
+2024-MJ,1,1,23,a,Coordinate geometry,Length midpoint & gradient,1
+2024-MJ,1,1,23,b,Coordinate geometry,Length midpoint & gradient,2
+2024-MJ,1,1,23,c,Coordinate geometry,Perpendicular & parallel lines,4
+2024-MJ,1,1,24,a,Transformations & vectors,Vectors,1
+2024-MJ,1,1,24,b,Transformations & vectors,Vectors,1
+2024-MJ,1,1,24,c,Transformations & vectors,Vectors,2
 2024-MJ,1,2,1,a,Number,Integers & directed numbers,1
 2024-MJ,1,2,1,b,Number,Ordering & FDP conversion,1
 2024-MJ,1,2,2,a,Geometry,Symmetry,1
@@ -396,6 +804,49 @@ session,paper,variant,question,part,topic,subtopic,marks
 2024-MJ,1,2,23,b,Transformations & vectors,Matrices,2
 2024-MJ,1,2,24,,Algebra,Algebraic fractions,4
 2024-MJ,1,2,25,,Transformations & vectors,Vectors,3
+2024-MJ,2,1,1,a(i),Number,Calculator use & order of operations,1
+2024-MJ,2,1,1,a(ii),Number,Percentages,2
+2024-MJ,2,1,1,b,Number,Percentages,1
+2024-MJ,2,1,1,c,Statistics,Averages & range,3
+2024-MJ,2,1,1,d(i),Number,Standard form,1
+2024-MJ,2,1,1,d(ii),Number,Percentages,2
+2024-MJ,2,1,2,a(i),Statistics,Scatter diagrams,2
+2024-MJ,2,1,2,a(ii),Statistics,Scatter diagrams,1
+2024-MJ,2,1,2,a(iii),Statistics,Scatter diagrams,1
+2024-MJ,2,1,2,a(iv),Statistics,Scatter diagrams,1
+2024-MJ,2,1,2,b(i),Statistics,Grouped data & mean,3
+2024-MJ,2,1,2,b(ii),Statistics,Histograms,1
+2024-MJ,2,1,3,a,Geometry,Angles & polygons,2
+2024-MJ,2,1,3,b,Geometry,Congruence & similarity,3
+2024-MJ,2,1,4,a,Number,Primes factors HCF & LCM,1
+2024-MJ,2,1,4,b(i),Number,Primes factors HCF & LCM,2
+2024-MJ,2,1,4,b(ii),Number,Primes factors HCF & LCM,2
+2024-MJ,2,1,5,a,Algebra,Equations,2
+2024-MJ,2,1,5,b,Number,Bounds & accuracy,2
+2024-MJ,2,1,5,c,Number,Ratio & proportion,3
+2024-MJ,2,1,6,a,Transformations & vectors,Transformations,2
+2024-MJ,2,1,6,b,Transformations & vectors,Transformations,3
+2024-MJ,2,1,6,c,Transformations & vectors,Transformations,3
+2024-MJ,2,1,7,a,Mensuration,Surface area & volume,2
+2024-MJ,2,1,7,b(i),Trigonometry,Right-angled trigonometry,3
+2024-MJ,2,1,7,b(ii),Mensuration,Area & perimeter,5
+2024-MJ,2,1,8,a(i),Algebra,Graphs of functions,1
+2024-MJ,2,1,8,a(ii),Algebra,Graphs of functions,3
+2024-MJ,2,1,8,a(iii)a,Algebra,Indices (algebraic),2
+2024-MJ,2,1,8,a(iii)b,Algebra,Graphs of functions,2
+2024-MJ,2,1,8,b,Algebra,Graphs of functions,3
+2024-MJ,2,1,9,a,Trigonometry,Bearings,1
+2024-MJ,2,1,9,b,Trigonometry,Sine & cosine rules,4
+2024-MJ,2,1,9,c,Number,Rates & speed,5
+2024-MJ,2,1,10,a,Algebra,Substitution & formulae,3
+2024-MJ,2,1,10,b,Geometry,Angles & polygons,4
+2024-MJ,2,1,10,c,Algebra,Algebraic fractions,3
+2024-MJ,2,1,10,d,Algebra,Quadratic equations,6
+2024-MJ,2,1,11,a(i),Probability,Relative & expected frequency,1
+2024-MJ,2,1,11,a(ii)a,Probability,Combined events,2
+2024-MJ,2,1,11,a(ii)b,Probability,Combined events,1
+2024-MJ,2,1,11,a(ii)c,Probability,Combined events,2
+2024-MJ,2,1,11,b,Probability,Combined events,3
 2024-MJ,2,2,1,a,Number,Money & interest,1
 2024-MJ,2,2,1,b(i),Algebra,Kinematic & real-life graphs,1
 2024-MJ,2,2,1,b(ii),Algebra,Kinematic & real-life graphs,2
@@ -442,6 +893,50 @@ session,paper,variant,question,part,topic,subtopic,marks
 2024-MJ,2,2,11,a,Coordinate geometry,Length midpoint & gradient,3
 2024-MJ,2,2,11,b,Coordinate geometry,Length midpoint & gradient,2
 2024-MJ,2,2,11,c,Coordinate geometry,Perpendicular & parallel lines,5
+2024-ON,1,1,1,a,Number,Integers & directed numbers,1
+2024-ON,1,1,1,b,Number,Integers & directed numbers,1
+2024-ON,1,1,2,,Number,Ratio & proportion,2
+2024-ON,1,1,3,a,Statistics,Averages & range,1
+2024-ON,1,1,3,b,Statistics,Averages & range,2
+2024-ON,1,1,4,a,Geometry,Symmetry,1
+2024-ON,1,1,4,b,Geometry,Symmetry,1
+2024-ON,1,1,5,a,Algebra,Algebraic manipulation & factorising,2
+2024-ON,1,1,5,b,Algebra,Algebraic manipulation & factorising,1
+2024-ON,1,1,6,a,Statistics,Scatter diagrams,2
+2024-ON,1,1,6,b,Statistics,Scatter diagrams,1
+2024-ON,1,1,6,c,Statistics,Scatter diagrams,1
+2024-ON,1,1,7,,Number,Rounding & estimation,2
+2024-ON,1,1,8,a,Algebra,Sequences,1
+2024-ON,1,1,8,b,Algebra,Sequences,2
+2024-ON,1,1,9,a,Transformations & vectors,Transformations,3
+2024-ON,1,1,9,b,Transformations & vectors,Transformations,2
+2024-ON,1,1,10,,Algebra,Simultaneous equations,3
+2024-ON,1,1,11,a,Coordinate geometry,Length midpoint & gradient,1
+2024-ON,1,1,11,b,Coordinate geometry,Length midpoint & gradient,2
+2024-ON,1,1,12,a,Number,Standard form,1
+2024-ON,1,1,12,b,Number,Standard form,2
+2024-ON,1,1,13,,Number,Fractions & decimals,2
+2024-ON,1,1,14,a,Number,Primes factors HCF & LCM,2
+2024-ON,1,1,14,b,Number,Primes factors HCF & LCM,1
+2024-ON,1,1,15,,Mensuration,Arcs & sectors,4
+2024-ON,1,1,16,a,Transformations & vectors,Matrices,2
+2024-ON,1,1,16,b(i),Transformations & vectors,Matrices,1
+2024-ON,1,1,16,b(ii),Transformations & vectors,Matrices,1
+2024-ON,1,1,17,a,Algebra,Inequalities & regions,2
+2024-ON,1,1,17,b,Algebra,Inequalities & regions,2
+2024-ON,1,1,18,a,Statistics,Cumulative frequency & box plots,2
+2024-ON,1,1,18,b,Statistics,Cumulative frequency & box plots,2
+2024-ON,1,1,18,c,Statistics,Cumulative frequency & box plots,2
+2024-ON,1,1,19,,Algebra,Direct & inverse proportion,2
+2024-ON,1,1,20,,Algebra,Indices (algebraic),2
+2024-ON,1,1,21,,Algebra,Kinematic & real-life graphs,2
+2024-ON,1,1,22,a,Algebra,Functions,1
+2024-ON,1,1,22,b,Algebra,Functions,3
+2024-ON,1,1,23,a,Number,Bounds & accuracy,1
+2024-ON,1,1,23,b,Number,Bounds & accuracy,1
+2024-ON,1,1,24,,Algebra,Algebraic fractions,3
+2024-ON,1,1,25,,Trigonometry,Pythagoras,3
+2024-ON,1,1,26,,Algebra,Algebraic fractions,4
 2024-ON,1,2,1,,Number,Rounding & estimation,1
 2024-ON,1,2,2,,Number,Integers & directed numbers,1
 2024-ON,1,2,3,,Number,Ordering & FDP conversion,2
@@ -486,6 +981,48 @@ session,paper,variant,question,part,topic,subtopic,marks
 2024-ON,1,2,26,a,Transformations & vectors,Vectors,1
 2024-ON,1,2,26,b,Transformations & vectors,Vectors,2
 2024-ON,1,2,26,c,Transformations & vectors,Vectors,1
+2024-ON,2,1,1,a,Number,Time,1
+2024-ON,2,1,1,b,Number,Money & interest,3
+2024-ON,2,1,1,c,Number,Percentages,4
+2024-ON,2,1,1,d,Number,Money & interest,3
+2024-ON,2,1,2,a(i),Statistics,Charts & tables,2
+2024-ON,2,1,2,a(ii),Statistics,Charts & tables,1
+2024-ON,2,1,2,b(i),Statistics,Histograms,1
+2024-ON,2,1,2,b(ii),Statistics,Histograms,3
+2024-ON,2,1,3,a,Algebra,Graphs of functions,2
+2024-ON,2,1,3,b,Algebra,Graphs of functions,3
+2024-ON,2,1,3,c,Algebra,Graphs of functions,1
+2024-ON,2,1,3,d,Coordinate geometry,Straight-line graphs,2
+2024-ON,2,1,3,e,Algebra,Graphs of functions,1
+2024-ON,2,1,4,a,Number,Sets & Venn diagrams,1
+2024-ON,2,1,4,b,Number,Sets & Venn diagrams,2
+2024-ON,2,1,4,c,Number,Sets & Venn diagrams,1
+2024-ON,2,1,4,d,Number,Sets & Venn diagrams,1
+2024-ON,2,1,5,a(i),Algebra,Indices (algebraic),1
+2024-ON,2,1,5,a(ii),Algebra,Equations,2
+2024-ON,2,1,5,b(i),Algebra,Substitution & formulae,2
+2024-ON,2,1,5,b(ii),Algebra,Substitution & formulae,2
+2024-ON,2,1,5,c,Algebra,Algebraic manipulation & factorising,2
+2024-ON,2,1,5,d,Algebra,Algebraic fractions,4
+2024-ON,2,1,6,a,Mensuration,Surface area & volume,3
+2024-ON,2,1,6,b,Geometry,Congruence & similarity,2
+2024-ON,2,1,6,c,Mensuration,Surface area & volume,5
+2024-ON,2,1,7,a,Transformations & vectors,Vectors,1
+2024-ON,2,1,7,b,Transformations & vectors,Vectors,2
+2024-ON,2,1,7,c,Transformations & vectors,Vectors,3
+2024-ON,2,1,7,d,Coordinate geometry,Perpendicular & parallel lines,4
+2024-ON,2,1,8,a,Number,Rates & speed,3
+2024-ON,2,1,8,b,Trigonometry,Bearings,5
+2024-ON,2,1,9,a,Geometry,Angles & polygons,4
+2024-ON,2,1,9,b,Geometry,Circle theorems,6
+2024-ON,2,1,10,a,Algebra,Algebraic fractions,2
+2024-ON,2,1,10,b,Algebra,Algebraic fractions,2
+2024-ON,2,1,10,c,Algebra,Algebraic fractions,3
+2024-ON,2,1,10,d,Algebra,Quadratic equations,2
+2024-ON,2,1,10,e,Algebra,Quadratic equations,1
+2024-ON,2,1,11,a,Probability,Single events,2
+2024-ON,2,1,11,b,Probability,Combined events,2
+2024-ON,2,1,11,c,Probability,Combined events,3
 2024-ON,2,2,1,a,Number,Percentages,2
 2024-ON,2,2,1,b,Number,Ratio & proportion,2
 2024-ON,2,2,1,c,Algebra,Direct & inverse proportion,2
@@ -576,6 +1113,54 @@ session,paper,variant,question,part,topic,subtopic,marks
 2025-MJ,1,2,22,b,Algebra,Graphs of functions,1
 2025-MJ,1,2,22,c,Algebra,Graphs of functions,4
 2025-MJ,1,2,23,,Mensuration,Arcs & sectors,5
+2025-MJ,1,3,1,a,Number,Ordering & FDP conversion,1
+2025-MJ,1,3,1,b,Number,Ordering & FDP conversion,1
+2025-MJ,1,3,2,,Statistics,Charts & tables,2
+2025-MJ,1,3,3,a,Geometry,Angles & polygons,1
+2025-MJ,1,3,3,b,Geometry,Angles & polygons,2
+2025-MJ,1,3,4,,Algebra,Substitution & formulae,2
+2025-MJ,1,3,5,a,Number,Fractions & decimals,1
+2025-MJ,1,3,5,b,Number,Types of number,1
+2025-MJ,1,3,6,a,Coordinate geometry,Straight-line graphs,1
+2025-MJ,1,3,6,b(i),Coordinate geometry,Equation of a line,1
+2025-MJ,1,3,6,b(ii),Coordinate geometry,Equation of a line,2
+2025-MJ,1,3,7,,Number,Rounding & estimation,3
+2025-MJ,1,3,8,a,Algebra,Equations,2
+2025-MJ,1,3,8,b,Algebra,Simultaneous equations,3
+2025-MJ,1,3,9,a,Number,Fractions & decimals,1
+2025-MJ,1,3,9,b,Number,Fractions & decimals,3
+2025-MJ,1,3,10,a,Probability,Single events,1
+2025-MJ,1,3,10,b,Probability,Single events,2
+2025-MJ,1,3,11,,Number,Primes factors HCF & LCM,3
+2025-MJ,1,3,12,a,Transformations & vectors,Vectors,2
+2025-MJ,1,3,12,b,Transformations & vectors,Vectors,2
+2025-MJ,1,3,13,a,Mensuration,Area & perimeter,2
+2025-MJ,1,3,13,b,Mensuration,Area & perimeter,3
+2025-MJ,1,3,14,a,Number,Powers roots & surds,1
+2025-MJ,1,3,14,b,Algebra,Indices (algebraic),1
+2025-MJ,1,3,14,c,Algebra,Indices (algebraic),2
+2025-MJ,1,3,15,a,Number,Percentages,2
+2025-MJ,1,3,15,b,Number,Percentages,1
+2025-MJ,1,3,15,c,Number,Percentages,2
+2025-MJ,1,3,16,a,Statistics,Cumulative frequency & box plots,2
+2025-MJ,1,3,16,b(i),Statistics,Cumulative frequency & box plots,1
+2025-MJ,1,3,16,b(ii),Statistics,Cumulative frequency & box plots,2
+2025-MJ,1,3,16,b(iii),Statistics,Cumulative frequency & box plots,2
+2025-MJ,1,3,17,,Algebra,Substitution & formulae,3
+2025-MJ,1,3,18,a,Algebra,Kinematic & real-life graphs,4
+2025-MJ,1,3,18,b,Algebra,Kinematic & real-life graphs,1
+2025-MJ,1,3,19,,Transformations & vectors,Transformations,3
+2025-MJ,1,3,20,a,Mensuration,Arcs & sectors,3
+2025-MJ,1,3,20,b,Mensuration,Arcs & sectors,3
+2025-MJ,1,3,21,,Coordinate geometry,Perpendicular & parallel lines,4
+2025-MJ,1,3,22,,Algebra,Algebraic fractions,4
+2025-MJ,1,3,23,a,Algebra,Algebraic manipulation & factorising,3
+2025-MJ,1,3,23,b,Algebra,Graphs of functions,4
+2025-MJ,1,3,24,a(i),Transformations & vectors,Vectors,1
+2025-MJ,1,3,24,a(ii),Transformations & vectors,Vectors,1
+2025-MJ,1,3,24,b,Transformations & vectors,Vectors,3
+2025-MJ,1,3,25,a,Number,Powers roots & surds,2
+2025-MJ,1,3,25,b,Number,Powers roots & surds,3
 2025-MJ,2,2,1,,Geometry,Symmetry,1
 2025-MJ,2,2,2,a,Number,Types of number,1
 2025-MJ,2,2,2,b,Number,Types of number,1
@@ -621,6 +1206,97 @@ session,paper,variant,question,part,topic,subtopic,marks
 2025-MJ,2,2,22,b,Trigonometry,Sine & cosine rules,4
 2025-MJ,2,2,23,,Number,Bounds & accuracy,3
 2025-MJ,2,2,24,,Algebra,Algebraic fractions,3
+2025-MJ,2,3,1,a,Number,Rounding & estimation,1
+2025-MJ,2,3,1,b,Number,Rounding & estimation,1
+2025-MJ,2,3,2,,Geometry,Congruence & similarity,2
+2025-MJ,2,3,3,,Number,Ratio & proportion,2
+2025-MJ,2,3,4,a,Geometry,Symmetry,1
+2025-MJ,2,3,4,b,Geometry,Symmetry,1
+2025-MJ,2,3,5,a,Number,Units & measures,1
+2025-MJ,2,3,5,b,Number,Units & measures,1
+2025-MJ,2,3,6,a,Algebra,Algebraic manipulation & factorising,2
+2025-MJ,2,3,6,b,Algebra,Indices (algebraic),1
+2025-MJ,2,3,7,,Algebra,Inequalities & regions,2
+2025-MJ,2,3,8,a,Probability,Combined events,2
+2025-MJ,2,3,8,b,Probability,Combined events,1
+2025-MJ,2,3,9,a,Number,Money & interest,3
+2025-MJ,2,3,9,b,Number,Money & interest,3
+2025-MJ,2,3,10,a,Algebra,Functions,1
+2025-MJ,2,3,10,b,Algebra,Functions,2
+2025-MJ,2,3,10,c,Algebra,Functions,2
+2025-MJ,2,3,10,d,Algebra,Functions,2
+2025-MJ,2,3,11,a,Number,Sets & Venn diagrams,2
+2025-MJ,2,3,11,b,Number,Sets & Venn diagrams,1
+2025-MJ,2,3,11,c,Number,Sets & Venn diagrams,1
+2025-MJ,2,3,12,a,Algebra,Sequences,1
+2025-MJ,2,3,12,b,Algebra,Sequences,2
+2025-MJ,2,3,13,a,Number,Standard form,1
+2025-MJ,2,3,13,b,Number,Standard form,2
+2025-MJ,2,3,14,a,Algebra,Algebraic manipulation & factorising,2
+2025-MJ,2,3,14,b,Algebra,Algebraic manipulation & factorising,2
+2025-MJ,2,3,15,,Algebra,Inequalities & regions,4
+2025-MJ,2,3,16,a,Statistics,Grouped data & mean,4
+2025-MJ,2,3,16,b,Number,Percentages,2
+2025-MJ,2,3,17,a,Geometry,Circle theorems,2
+2025-MJ,2,3,17,b,Geometry,Circle theorems,3
+2025-MJ,2,3,18,a,Algebra,Substitution & formulae,2
+2025-MJ,2,3,18,b,Mensuration,Surface area & volume,4
+2025-MJ,2,3,18,c,Algebra,Quadratic equations,3
+2025-MJ,2,3,18,d,Algebra,Quadratic equations,1
+2025-MJ,2,3,19,a,Trigonometry,Sine & cosine rules,4
+2025-MJ,2,3,19,b,Trigonometry,Sine & cosine rules,4
+2025-MJ,2,3,20,,Algebra,Algebraic fractions,4
+2025-MJ,2,3,21,a,Number,Bounds & accuracy,1
+2025-MJ,2,3,21,b,Number,Bounds & accuracy,2
+2025-MJ,2,3,22,a,Geometry,Symmetry,1
+2025-MJ,2,3,22,b(i),Trigonometry,Pythagoras,3
+2025-MJ,2,3,22,b(ii),Trigonometry,3D trigonometry & elevation,2
+2025-MJ,2,3,22,b(iii),Mensuration,Surface area & volume,5
+2025-MJ,2,3,23,,Probability,Combined events,4
+2025-ON,1,1,1,,Number,Fractions & decimals,1
+2025-ON,1,1,2,a,Statistics,Averages & range,1
+2025-ON,1,1,2,b,Probability,Single events,1
+2025-ON,1,1,3,,Number,Percentages,2
+2025-ON,1,1,4,a,Geometry,Angles & polygons,2
+2025-ON,1,1,4,b,Geometry,Angles & polygons,2
+2025-ON,1,1,5,a,Statistics,Charts & tables,2
+2025-ON,1,1,5,b,Statistics,Charts & tables,2
+2025-ON,1,1,6,,Number,Fractions & decimals,2
+2025-ON,1,1,7,,Algebra,Substitution & formulae,3
+2025-ON,1,1,8,a,Transformations & vectors,Transformations,2
+2025-ON,1,1,8,b,Transformations & vectors,Transformations,2
+2025-ON,1,1,9,,Number,Rounding & estimation,2
+2025-ON,1,1,10,,Mensuration,Area & perimeter,2
+2025-ON,1,1,11,,Statistics,Averages & range,3
+2025-ON,1,1,12,,Mensuration,Surface area & volume,3
+2025-ON,1,1,13,,Number,Fractions & decimals,3
+2025-ON,1,1,14,a,Algebra,Kinematic & real-life graphs,2
+2025-ON,1,1,14,b,Algebra,Kinematic & real-life graphs,1
+2025-ON,1,1,15,a,Statistics,Cumulative frequency & box plots,1
+2025-ON,1,1,15,b,Statistics,Cumulative frequency & box plots,2
+2025-ON,1,1,16,a,Geometry,Circle theorems,2
+2025-ON,1,1,16,b,Geometry,Circle theorems,2
+2025-ON,1,1,16,c,Geometry,Circle theorems,2
+2025-ON,1,1,17,a,Mensuration,Surface area & volume,4
+2025-ON,1,1,17,b,Geometry,Congruence & similarity,3
+2025-ON,1,1,18,,Number,Ordering & FDP conversion,2
+2025-ON,1,1,19,,Algebra,Functions,3
+2025-ON,1,1,20,,Algebra,Algebraic fractions,2
+2025-ON,1,1,21,a,Number,Powers roots & surds,2
+2025-ON,1,1,21,b,Algebra,Indices (algebraic),2
+2025-ON,1,1,22,a,Algebra,Graphs of functions,2
+2025-ON,1,1,22,b,Algebra,Graphs of functions,4
+2025-ON,1,1,22,c,Algebra,Graphs of functions,4
+2025-ON,1,1,23,a,Number,Powers roots & surds,2
+2025-ON,1,1,23,b,Number,Powers roots & surds,3
+2025-ON,1,1,24,a,Algebra,Substitution & formulae,1
+2025-ON,1,1,24,b,Algebra,Quadratic equations,4
+2025-ON,1,1,24,c,Algebra,Quadratic equations,3
+2025-ON,1,1,24,d,Mensuration,Area & perimeter,2
+2025-ON,1,1,25,,Algebra,Algebraic manipulation & factorising,3
+2025-ON,1,1,26,a,Transformations & vectors,Vectors,1
+2025-ON,1,1,26,b,Transformations & vectors,Vectors,3
+2025-ON,1,1,26,c,Transformations & vectors,Vectors,3
 2025-ON,1,2,1,a,Statistics,Charts & tables,2
 2025-ON,1,2,1,b,Statistics,Charts & tables,3
 2025-ON,1,2,2,a,Number,Fractions & decimals,1
@@ -665,6 +1341,52 @@ session,paper,variant,question,part,topic,subtopic,marks
 2025-ON,1,2,22,c,Algebra,Quadratic equations,3
 2025-ON,1,2,22,d,Number,Rates & speed,2
 2025-ON,1,2,23,,Trigonometry,Pythagoras,4
+2025-ON,2,1,1,a,Number,Types of number,1
+2025-ON,2,1,1,b,Number,Types of number,1
+2025-ON,2,1,1,c,Number,Primes factors HCF & LCM,1
+2025-ON,2,1,1,d,Number,Types of number,1
+2025-ON,2,1,2,a,Number,Order of operations,1
+2025-ON,2,1,2,b,Number,Order of operations,1
+2025-ON,2,1,3,a,Mensuration,Nets & 3D shapes,2
+2025-ON,2,1,3,b,Geometry,Symmetry,1
+2025-ON,2,1,4,a,Statistics,Scatter diagrams,2
+2025-ON,2,1,4,b,Statistics,Scatter diagrams,1
+2025-ON,2,1,4,c,Statistics,Scatter diagrams,1
+2025-ON,2,1,5,a,Geometry,Angles & polygons,2
+2025-ON,2,1,5,b,Geometry,Angles & polygons,1
+2025-ON,2,1,6,,Number,Calculator use & order of operations,2
+2025-ON,2,1,7,,Geometry,Angles & polygons,2
+2025-ON,2,1,8,,Number,Money & interest,2
+2025-ON,2,1,9,,Number,Money & interest,3
+2025-ON,2,1,10,a,Algebra,Sequences,1
+2025-ON,2,1,10,b,Algebra,Sequences,2
+2025-ON,2,1,10,c,Algebra,Sequences,2
+2025-ON,2,1,11,a(i),Transformations & vectors,Vectors,1
+2025-ON,2,1,11,a(ii),Coordinate geometry,Length midpoint & gradient,2
+2025-ON,2,1,11,b,Transformations & vectors,Vectors,2
+2025-ON,2,1,12,a,Number,Standard form,1
+2025-ON,2,1,12,b,Number,Standard form,2
+2025-ON,2,1,13,,Algebra,Simultaneous equations,3
+2025-ON,2,1,14,,Number,Exponential growth & decay,3
+2025-ON,2,1,15,,Number,Primes factors HCF & LCM,2
+2025-ON,2,1,16,a,Coordinate geometry,Equation of a line,3
+2025-ON,2,1,16,b,Coordinate geometry,Perpendicular & parallel lines,1
+2025-ON,2,1,17,a,Statistics,Grouped data & mean,4
+2025-ON,2,1,17,b,Probability,Combined events,3
+2025-ON,2,1,18,a,Algebra,Algebraic fractions,3
+2025-ON,2,1,18,b,Algebra,Algebraic fractions,4
+2025-ON,2,1,19,,Number,Bounds & accuracy,3
+2025-ON,2,1,20,a,Trigonometry,Sine & cosine rules,3
+2025-ON,2,1,20,b,Trigonometry,Sine & cosine rules,3
+2025-ON,2,1,20,c,Trigonometry,Right-angled trigonometry,3
+2025-ON,2,1,21,,Algebra,Substitution & formulae,4
+2025-ON,2,1,22,a,Algebra,Graphs of functions,1
+2025-ON,2,1,22,b(i),Algebra,Quadratic equations,3
+2025-ON,2,1,22,b(ii),Algebra,Graphs of functions,3
+2025-ON,2,1,23,,Algebra,Equations,4
+2025-ON,2,1,24,,Algebra,Algebraic manipulation & factorising,3
+2025-ON,2,1,25,a,Trigonometry,Pythagoras,3
+2025-ON,2,1,25,b,Trigonometry,3D trigonometry & elevation,3
 2025-ON,2,2,1,,Number,Calculator use & order of operations,2
 2025-ON,2,2,2,a,Statistics,Averages & range,2
 2025-ON,2,2,2,b,Statistics,Averages & range,1
@@ -756,6 +1478,51 @@ session,paper,variant,question,part,topic,subtopic,marks
 2026-MJ,1,2,22,b,Algebra,Graphs of functions,1
 2026-MJ,1,2,23,,Number,Powers roots & surds,3
 2026-MJ,1,2,24,,Number,Powers roots & surds,3
+2026-MJ,1,3,1,a,Number,Ordering & FDP conversion,1
+2026-MJ,1,3,1,b,Number,Primes factors HCF & LCM,2
+2026-MJ,1,3,2,a(i),Geometry,Geometrical terms,1
+2026-MJ,1,3,2,a(ii),Geometry,Geometrical terms,1
+2026-MJ,1,3,2,b,Geometry,Geometrical terms,1
+2026-MJ,1,3,3,a,Statistics,Averages & range,1
+2026-MJ,1,3,3,b,Statistics,Averages & range,2
+2026-MJ,1,3,3,c,Statistics,Averages & range,2
+2026-MJ,1,3,3,d,Statistics,Averages & range,1
+2026-MJ,1,3,4,,Algebra,Algebraic manipulation & factorising,2
+2026-MJ,1,3,5,a,Algebra,Sequences,1
+2026-MJ,1,3,5,b,Algebra,Sequences,2
+2026-MJ,1,3,6,,Number,Ratio & proportion,3
+2026-MJ,1,3,7,a,Number,Integers & directed numbers,2
+2026-MJ,1,3,7,b,Number,Fractions & decimals,3
+2026-MJ,1,3,8,,Geometry,Angles & polygons,2
+2026-MJ,1,3,9,a,Number,Money & interest,3
+2026-MJ,1,3,9,b,Number,Percentages,2
+2026-MJ,1,3,10,,Trigonometry,Pythagoras,5
+2026-MJ,1,3,11,a,Geometry,Scale drawing & bearings,2
+2026-MJ,1,3,11,b,Geometry,Scale drawing & bearings,2
+2026-MJ,1,3,12,a,Number,Standard form,1
+2026-MJ,1,3,12,b(i),Number,Standard form,2
+2026-MJ,1,3,12,b(ii),Number,Standard form,2
+2026-MJ,1,3,13,a,Algebra,Simultaneous equations,4
+2026-MJ,1,3,13,b,Algebra,Quadratic equations,3
+2026-MJ,1,3,14,a,Transformations & vectors,Transformations,3
+2026-MJ,1,3,14,b(i),Transformations & vectors,Transformations,1
+2026-MJ,1,3,14,b(ii),Transformations & vectors,Transformations,2
+2026-MJ,1,3,15,a,Geometry,Circle theorems,1
+2026-MJ,1,3,15,b,Geometry,Circle theorems,1
+2026-MJ,1,3,15,c,Geometry,Circle theorems,2
+2026-MJ,1,3,15,d,Geometry,Circle theorems,1
+2026-MJ,1,3,16,,Algebra,Graphs of functions,3
+2026-MJ,1,3,17,,Statistics,Histograms,4
+2026-MJ,1,3,18,,Algebra,Substitution & formulae,4
+2026-MJ,1,3,19,,Coordinate geometry,Perpendicular & parallel lines,4
+2026-MJ,1,3,20,,Mensuration,Arcs & sectors,3
+2026-MJ,1,3,21,a,Algebra,Indices (algebraic),2
+2026-MJ,1,3,21,b,Algebra,Indices (algebraic),3
+2026-MJ,1,3,22,a,Number,Powers roots & surds,2
+2026-MJ,1,3,22,b,Number,Powers roots & surds,3
+2026-MJ,1,3,23,a,Transformations & vectors,Vectors,1
+2026-MJ,1,3,23,b,Transformations & vectors,Vectors,3
+2026-MJ,1,3,24,,Algebra,Algebraic fractions,4
 2026-MJ,2,2,1,,Number,Ordering & FDP conversion,1
 2026-MJ,2,2,2,a,Statistics,Charts & tables,1
 2026-MJ,2,2,2,b,Statistics,Charts & tables,1
@@ -804,3 +1571,50 @@ session,paper,variant,question,part,topic,subtopic,marks
 2026-MJ,2,2,25,a,Algebra,Quadratic equations,3
 2026-MJ,2,2,25,b,Algebra,Graphs of functions,1
 2026-MJ,2,2,25,c,Algebra,Graphs of functions,1
+2026-MJ,2,3,1,a,Number,Rounding & estimation,1
+2026-MJ,2,3,1,b,Number,Rounding & estimation,1
+2026-MJ,2,3,2,,Number,Money & interest,3
+2026-MJ,2,3,3,,Geometry,Angles & polygons,4
+2026-MJ,2,3,4,a,Algebra,Inequalities & regions,2
+2026-MJ,2,3,4,b,Algebra,Inequalities & regions,1
+2026-MJ,2,3,5,a,Algebra,Kinematic & real-life graphs,1
+2026-MJ,2,3,5,b,Number,Rates & speed,3
+2026-MJ,2,3,5,c(i),Algebra,Kinematic & real-life graphs,2
+2026-MJ,2,3,5,c(ii),Algebra,Kinematic & real-life graphs,1
+2026-MJ,2,3,6,a,Algebra,Algebraic manipulation & factorising,1
+2026-MJ,2,3,6,b,Algebra,Algebraic manipulation & factorising,2
+2026-MJ,2,3,7,a,Coordinate geometry,Length midpoint & gradient,1
+2026-MJ,2,3,7,b,Coordinate geometry,Length midpoint & gradient,2
+2026-MJ,2,3,8,a,Algebra,Equations,2
+2026-MJ,2,3,8,b,Algebra,Equations,2
+2026-MJ,2,3,9,a,Transformations & vectors,Vectors,2
+2026-MJ,2,3,9,b,Transformations & vectors,Vectors,2
+2026-MJ,2,3,10,a,Probability,Combined events,2
+2026-MJ,2,3,10,b,Probability,Combined events,1
+2026-MJ,2,3,11,a,Number,Sets & Venn diagrams,2
+2026-MJ,2,3,11,b,Number,Sets & Venn diagrams,1
+2026-MJ,2,3,11,c,Number,Sets & Venn diagrams,1
+2026-MJ,2,3,12,a,Geometry,Congruence & similarity,2
+2026-MJ,2,3,12,b,Geometry,Congruence & similarity,2
+2026-MJ,2,3,13,a(i),Statistics,Cumulative frequency & box plots,1
+2026-MJ,2,3,13,a(ii),Statistics,Cumulative frequency & box plots,2
+2026-MJ,2,3,13,b,Statistics,Cumulative frequency & box plots,2
+2026-MJ,2,3,14,,Number,Percentages,2
+2026-MJ,2,3,15,a,Algebra,Functions,1
+2026-MJ,2,3,15,b,Algebra,Functions,2
+2026-MJ,2,3,15,c,Algebra,Functions,3
+2026-MJ,2,3,16,a,Statistics,Grouped data & mean,1
+2026-MJ,2,3,16,b,Statistics,Grouped data & mean,4
+2026-MJ,2,3,16,c,Probability,Single events,1
+2026-MJ,2,3,17,,Number,Money & interest,3
+2026-MJ,2,3,18,a,Number,Bounds & accuracy,2
+2026-MJ,2,3,18,b,Number,Bounds & accuracy,2
+2026-MJ,2,3,19,a,Trigonometry,Sine & cosine rules,3
+2026-MJ,2,3,19,b,Trigonometry,Sine & cosine rules,2
+2026-MJ,2,3,19,c,Trigonometry,Sine & cosine rules,3
+2026-MJ,2,3,20,,Algebra,Direct & inverse proportion,3
+2026-MJ,2,3,21,,Trigonometry,3D trigonometry & elevation,4
+2026-MJ,2,3,22,a,Algebra,Algebraic manipulation & factorising,1
+2026-MJ,2,3,22,b,Algebra,Algebraic manipulation & factorising,3
+2026-MJ,2,3,23,,Algebra,Algebraic fractions,5
+2026-MJ,2,3,24,,Mensuration,Surface area & volume,6

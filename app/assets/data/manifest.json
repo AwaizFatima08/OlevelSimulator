@@ -1,0 +1,294 @@
+{
+ "schema": 1,
+ "version": "2026-10",
+ "label": "May/June 2022 to May/June 2026",
+ "sessions": [
+  "2022-MJ",
+  "2022-ON",
+  "2023-MJ",
+  "2023-ON",
+  "2024-MJ",
+  "2024-ON",
+  "2025-MJ",
+  "2025-ON",
+  "2026-MJ"
+ ],
+ "built": "2026-10-20",
+ "site": "https://cambridgesimulator.homilabs.org",
+ "levels": [
+  {
+   "id": "o-level",
+   "name": "Cambridge O Level",
+   "short": "O Level"
+  },
+  {
+   "id": "igcse",
+   "name": "Cambridge IGCSE",
+   "short": "IGCSE"
+  },
+  {
+   "id": "a-level",
+   "name": "Cambridge International AS & A Level",
+   "short": "AS & A Level"
+  }
+ ],
+ "coming_soon": [
+  {
+   "code": "3247",
+   "level": "o-level",
+   "name": "Urdu First Language"
+  },
+  {
+   "code": "3248",
+   "level": "o-level",
+   "name": "Urdu Second Language"
+  },
+  {
+   "code": "0606",
+   "level": "igcse",
+   "name": "Additional Mathematics"
+  },
+  {
+   "code": "0478",
+   "level": "igcse",
+   "name": "Computer Science"
+  },
+  {
+   "code": "0455",
+   "level": "igcse",
+   "name": "Economics"
+  },
+  {
+   "code": "0452",
+   "level": "igcse",
+   "name": "Accounting"
+  },
+  {
+   "code": "0450",
+   "level": "igcse",
+   "name": "Business Studies"
+  },
+  {
+   "code": "0500",
+   "level": "igcse",
+   "name": "English (First Language)"
+  },
+  {
+   "code": "0510",
+   "level": "igcse",
+   "name": "English as a Second Language"
+  },
+  {
+   "code": "0417",
+   "level": "igcse",
+   "name": "ICT"
+  },
+  {
+   "code": "0448",
+   "level": "igcse",
+   "name": "Pakistan Studies"
+  },
+  {
+   "code": "0493",
+   "level": "igcse",
+   "name": "Islamiyat"
+  },
+  {
+   "code": "0539",
+   "level": "igcse",
+   "name": "Urdu as a Second Language"
+  },
+  {
+   "code": "9231",
+   "level": "a-level",
+   "name": "Further Mathematics"
+  },
+  {
+   "code": "9618",
+   "level": "a-level",
+   "name": "Computer Science"
+  },
+  {
+   "code": "9708",
+   "level": "a-level",
+   "name": "Economics"
+  },
+  {
+   "code": "9706",
+   "level": "a-level",
+   "name": "Accounting"
+  },
+  {
+   "code": "9609",
+   "level": "a-level",
+   "name": "Business"
+  },
+  {
+   "code": "9990",
+   "level": "a-level",
+   "name": "Psychology"
+  }
+ ],
+ "packs": [
+  {
+   "code": "4024",
+   "level": "o-level",
+   "name": "Mathematics D",
+   "file": "/data/4024.json",
+   "bytes": 150130,
+   "questions": 716
+  },
+  {
+   "code": "5054",
+   "level": "o-level",
+   "name": "Physics",
+   "file": "/data/5054.json",
+   "bytes": 205571,
+   "questions": 993
+  },
+  {
+   "code": "5070",
+   "level": "o-level",
+   "name": "Chemistry",
+   "file": "/data/5070.json",
+   "bytes": 250507,
+   "questions": 984
+  },
+  {
+   "code": "5090",
+   "level": "o-level",
+   "name": "Biology",
+   "file": "/data/5090.json",
+   "bytes": 218275,
+   "questions": 932
+  },
+  {
+   "code": "0580",
+   "level": "igcse",
+   "name": "Mathematics",
+   "file": "/data/0580.json",
+   "bytes": 449990,
+   "questions": 2103
+  },
+  {
+   "code": "0625",
+   "level": "igcse",
+   "name": "Physics",
+   "file": "/data/0625.json",
+   "bytes": 288625,
+   "questions": 1475
+  },
+  {
+   "code": "0620",
+   "level": "igcse",
+   "name": "Chemistry",
+   "file": "/data/0620.json",
+   "bytes": 326220,
+   "questions": 1365
+  },
+  {
+   "code": "0610",
+   "level": "igcse",
+   "name": "Biology",
+   "file": "/data/0610.json",
+   "bytes": 309084,
+   "questions": 1317
+  },
+  {
+   "code": "9709",
+   "level": "a-level",
+   "name": "Mathematics",
+   "file": "/data/9709.json",
+   "bytes": 344406,
+   "questions": 1481
+  },
+  {
+   "code": "9702",
+   "level": "a-level",
+   "name": "Physics",
+   "file": "/data/9702.json",
+   "bytes": 407560,
+   "questions": 1768
+  },
+  {
+   "code": "9701",
+   "level": "a-level",
+   "name": "Chemistry",
+   "file": "/data/9701.json",
+   "bytes": 528079,
+   "questions": 1679
+  },
+  {
+   "code": "9700",
+   "level": "a-level",
+   "name": "Biology",
+   "file": "/data/9700.json",
+   "bytes": 409877,
+   "questions": 1750
+  },
+  {
+   "code": "4037",
+   "level": "o-level",
+   "name": "Additional Mathematics",
+   "file": "/data/4037.json",
+   "bytes": 48614,
+   "questions": 203
+  },
+  {
+   "code": "2210",
+   "level": "o-level",
+   "name": "Computer Science",
+   "file": "/data/2210.json",
+   "bytes": 44269,
+   "questions": 149
+  },
+  {
+   "code": "2281",
+   "level": "o-level",
+   "name": "Economics",
+   "file": "/data/2281.json",
+   "bytes": 73833,
+   "questions": 315
+  },
+  {
+   "code": "7707",
+   "level": "o-level",
+   "name": "Accounting",
+   "file": "/data/7707.json",
+   "bytes": 73439,
+   "questions": 360
+  },
+  {
+   "code": "7115",
+   "level": "o-level",
+   "name": "Business Studies",
+   "file": "/data/7115.json",
+   "bytes": 33160,
+   "questions": 72
+  },
+  {
+   "code": "1123",
+   "level": "o-level",
+   "name": "English Language",
+   "file": "/data/1123.json",
+   "bytes": 23349,
+   "questions": 102
+  },
+  {
+   "code": "2059",
+   "level": "o-level",
+   "name": "Pakistan Studies",
+   "file": "/data/2059.json",
+   "bytes": 41650,
+   "questions": 90
+  },
+  {
+   "code": "2058",
+   "level": "o-level",
+   "name": "Islamiyat",
+   "file": "/data/2058.json",
+   "bytes": 23160,
+   "questions": 90
+  }
+ ]
+}

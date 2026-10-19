@@ -1,0 +1,253 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,a,Financial information and decisions,Statement of financial position,2
+2022-MJ,1,2,1,b,Financial information and decisions,Statement of financial position,2
+2022-MJ,1,2,1,c,Financial information and decisions,Analysis of accounts,4
+2022-MJ,1,2,1,d,People in business,Organisation and management,6
+2022-MJ,1,2,1,e,Marketing,Marketing mix,6
+2022-MJ,1,2,2,a,People in business,"Recruitment, selection and training",2
+2022-MJ,1,2,2,b,People in business,Motivating employees,2
+2022-MJ,1,2,2,c,People in business,Motivating employees,4
+2022-MJ,1,2,2,d,External influences on business activity,Environmental and ethical issues,6
+2022-MJ,1,2,2,e,External influences on business activity,Economic issues,6
+2022-MJ,1,2,3,a,Marketing,Marketing mix,2
+2022-MJ,1,2,3,b,Operations management,"Costs, scale of production and break-even analysis",2
+2022-MJ,1,2,3,c,Operations management,"Costs, scale of production and break-even analysis",4
+2022-MJ,1,2,3,d,Marketing,Marketing mix,6
+2022-MJ,1,2,3,e,Operations management,Production of goods and services,6
+2022-MJ,1,2,4,a,Understanding business activity,"Enterprise, business growth and size",2
+2022-MJ,1,2,4,b,Understanding business activity,Business activity,2
+2022-MJ,1,2,4,c,Understanding business activity,"Enterprise, business growth and size",4
+2022-MJ,1,2,4,d,Financial information and decisions,Business finance: needs and sources,6
+2022-MJ,1,2,4,e,Understanding business activity,Types of business organisation,6
+2022-ON,1,2,1,a,Marketing,"Marketing, competition and the customer",2
+2022-ON,1,2,1,b,Financial information and decisions,Statement of financial position,2
+2022-ON,1,2,1,c,Understanding business activity,Business activity,4
+2022-ON,1,2,1,d,Understanding business activity,Types of business organisation,6
+2022-ON,1,2,1,e,External influences on business activity,Environmental and ethical issues,6
+2022-ON,1,2,2,a,Financial information and decisions,Income statements,2
+2022-ON,1,2,2,b,Financial information and decisions,Analysis of accounts,2
+2022-ON,1,2,2,c,Financial information and decisions,Cash-flow forecasting and working capital,4
+2022-ON,1,2,2,d,Marketing,Marketing mix,6
+2022-ON,1,2,2,e,Marketing,Marketing mix,6
+2022-ON,1,2,3,a,People in business,Internal and external communication,2
+2022-ON,1,2,3,b,People in business,Organisation and management,2
+2022-ON,1,2,3,c,People in business,"Recruitment, selection and training",4
+2022-ON,1,2,3,d,People in business,Organisation and management,6
+2022-ON,1,2,3,e,External influences on business activity,Economic issues,6
+2022-ON,1,2,4,a,External influences on business activity,Business and the international economy,2
+2022-ON,1,2,4,b,Operations management,"Costs, scale of production and break-even analysis",2
+2022-ON,1,2,4,c,Understanding business activity,Types of business organisation,4
+2022-ON,1,2,4,d,Operations management,Production of goods and services,6
+2022-ON,1,2,4,e,Operations management,Location decisions,6
+2023-MJ,1,2,1,a,People in business,"Recruitment, selection and training",2
+2023-MJ,1,2,1,b,Operations management,"Costs, scale of production and break-even analysis",2
+2023-MJ,1,2,1,c,Operations management,"Costs, scale of production and break-even analysis",4
+2023-MJ,1,2,1,d,People in business,"Recruitment, selection and training",6
+2023-MJ,1,2,1,e,Operations management,Production of goods and services,6
+2023-MJ,1,2,2,a,Understanding business activity,"Enterprise, business growth and size",2
+2023-MJ,1,2,2,b,Understanding business activity,"Enterprise, business growth and size",2
+2023-MJ,1,2,2,c,People in business,Internal and external communication,4
+2023-MJ,1,2,2,d,Understanding business activity,Types of business organisation,6
+2023-MJ,1,2,2,e,Marketing,Market research,6
+2023-MJ,1,2,3,a,External influences on business activity,Business and the international economy,2
+2023-MJ,1,2,3,b,Marketing,"Marketing, competition and the customer",2
+2023-MJ,1,2,3,c,External influences on business activity,Economic issues,4
+2023-MJ,1,2,3,d,External influences on business activity,Business and the international economy,6
+2023-MJ,1,2,3,e,Marketing,Marketing mix,6
+2023-MJ,1,2,4,a,Financial information and decisions,Income statements,2
+2023-MJ,1,2,4,b,Financial information and decisions,Statement of financial position,2
+2023-MJ,1,2,4,c,Financial information and decisions,Cash-flow forecasting and working capital,4
+2023-MJ,1,2,4,d,Understanding business activity,Business objectives and stakeholder objectives,6
+2023-MJ,1,2,4,e,Financial information and decisions,Business finance: needs and sources,6
+2023-ON,1,2,1,a,Financial information and decisions,Cash-flow forecasting and working capital,2
+2023-ON,1,2,1,b,Financial information and decisions,Income statements,2
+2023-ON,1,2,1,c,Marketing,Marketing mix,4
+2023-ON,1,2,1,d,Financial information and decisions,Business finance: needs and sources,6
+2023-ON,1,2,1,e,Marketing,Marketing mix,6
+2023-ON,1,2,2,a,External influences on business activity,Environmental and ethical issues,2
+2023-ON,1,2,2,b,External influences on business activity,Environmental and ethical issues,2
+2023-ON,1,2,2,c,Operations management,"Costs, scale of production and break-even analysis",4
+2023-ON,1,2,2,d,Operations management,Production of goods and services,6
+2023-ON,1,2,2,e,Operations management,Achieving quality production,6
+2023-ON,1,2,3,a,Understanding business activity,Classification of businesses,2
+2023-ON,1,2,3,b,External influences on business activity,Economic issues,2
+2023-ON,1,2,3,c,Understanding business activity,Types of business organisation,4
+2023-ON,1,2,3,d,Understanding business activity,Classification of businesses,6
+2023-ON,1,2,3,e,External influences on business activity,Business and the international economy,6
+2023-ON,1,2,4,a,Marketing,"Marketing, competition and the customer",2
+2023-ON,1,2,4,b,People in business,Motivating employees,2
+2023-ON,1,2,4,c,Financial information and decisions,Income statements,4
+2023-ON,1,2,4,d,People in business,Organisation and management,6
+2023-ON,1,2,4,e,People in business,"Recruitment, selection and training",6
+2024-MJ,1,2,1,a,Understanding business activity,"Enterprise, business growth and size",2
+2024-MJ,1,2,1,b,Marketing,"Marketing, competition and the customer",2
+2024-MJ,1,2,1,c,Marketing,"Marketing, competition and the customer",4
+2024-MJ,1,2,1,d,Understanding business activity,"Enterprise, business growth and size",6
+2024-MJ,1,2,1,e,Understanding business activity,"Enterprise, business growth and size",6
+2024-MJ,1,2,2,a,Understanding business activity,Classification of businesses,2
+2024-MJ,1,2,2,b,Financial information and decisions,Analysis of accounts,2
+2024-MJ,1,2,2,c,Financial information and decisions,Analysis of accounts,4
+2024-MJ,1,2,2,d,Marketing,Marketing mix,6
+2024-MJ,1,2,2,e,Financial information and decisions,Analysis of accounts,6
+2024-MJ,1,2,3,a,People in business,Organisation and management,2
+2024-MJ,1,2,3,b,People in business,Organisation and management,2
+2024-MJ,1,2,3,c,External influences on business activity,Environmental and ethical issues,4
+2024-MJ,1,2,3,d,People in business,Internal and external communication,6
+2024-MJ,1,2,3,e,External influences on business activity,Environmental and ethical issues,6
+2024-MJ,1,2,4,a,External influences on business activity,Business and the international economy,2
+2024-MJ,1,2,4,b,External influences on business activity,Economic issues,2
+2024-MJ,1,2,4,c,People in business,"Recruitment, selection and training",4
+2024-MJ,1,2,4,d,Operations management,Location decisions,6
+2024-MJ,1,2,4,e,Operations management,Production of goods and services,6
+2024-ON,1,2,1,a,Understanding business activity,Classification of businesses,2
+2024-ON,1,2,1,b,Understanding business activity,"Enterprise, business growth and size",2
+2024-ON,1,2,1,c,Financial information and decisions,Business finance: needs and sources,4
+2024-ON,1,2,1,d,External influences on business activity,Economic issues,6
+2024-ON,1,2,1,e,Understanding business activity,Business activity,6
+2024-ON,1,2,2,a,Marketing,Marketing strategy,2
+2024-ON,1,2,2,b,Operations management,Production of goods and services,2
+2024-ON,1,2,2,c,Operations management,Production of goods and services,4
+2024-ON,1,2,2,d,Marketing,Marketing strategy,6
+2024-ON,1,2,2,e,External influences on business activity,Environmental and ethical issues,6
+2024-ON,1,2,3,a,Financial information and decisions,Statement of financial position,2
+2024-ON,1,2,3,b,Financial information and decisions,Analysis of accounts,2
+2024-ON,1,2,3,c,Financial information and decisions,Statement of financial position,4
+2024-ON,1,2,3,d,Understanding business activity,Business objectives and stakeholder objectives,6
+2024-ON,1,2,3,e,Marketing,Market research,6
+2024-ON,1,2,4,a,People in business,Organisation and management,2
+2024-ON,1,2,4,b,People in business,"Recruitment, selection and training",2
+2024-ON,1,2,4,c,People in business,"Recruitment, selection and training",4
+2024-ON,1,2,4,d,Operations management,"Costs, scale of production and break-even analysis",6
+2024-ON,1,2,4,e,People in business,Organisation and management,6
+2025-MJ,1,2,1,a,Operations management,Production of goods and services,2
+2025-MJ,1,2,1,b,Marketing,Marketing mix,2
+2025-MJ,1,2,1,c,Operations management,Achieving quality production,4
+2025-MJ,1,2,1,d,Marketing,"Marketing, competition and the customer",6
+2025-MJ,1,2,1,e,Marketing,Marketing mix,6
+2025-MJ,1,2,2,a,Financial information and decisions,Income statements,2
+2025-MJ,1,2,2,b,Financial information and decisions,Income statements,2
+2025-MJ,1,2,2,c,Financial information and decisions,Income statements,4
+2025-MJ,1,2,2,d,People in business,"Recruitment, selection and training",6
+2025-MJ,1,2,2,e,People in business,Motivating employees,6
+2025-MJ,1,2,3,a,Understanding business activity,Classification of businesses,2
+2025-MJ,1,2,3,b,Understanding business activity,"Enterprise, business growth and size",2
+2025-MJ,1,2,3,c,Understanding business activity,Business objectives and stakeholder objectives,4
+2025-MJ,1,2,3,d,Understanding business activity,"Enterprise, business growth and size",6
+2025-MJ,1,2,3,e,Financial information and decisions,Business finance: needs and sources,6
+2025-MJ,1,2,4,a,Operations management,"Costs, scale of production and break-even analysis",2
+2025-MJ,1,2,4,b,Operations management,"Costs, scale of production and break-even analysis",2
+2025-MJ,1,2,4,c,External influences on business activity,Environmental and ethical issues,4
+2025-MJ,1,2,4,d,External influences on business activity,Business and the international economy,6
+2025-MJ,1,2,4,e,People in business,Internal and external communication,6
+2025-ON,1,2,1,a,Operations management,Achieving quality production,2
+2025-ON,1,2,1,b,People in business,"Recruitment, selection and training",2
+2025-ON,1,2,1,c,People in business,"Recruitment, selection and training",4
+2025-ON,1,2,1,d,People in business,"Recruitment, selection and training",6
+2025-ON,1,2,1,e,External influences on business activity,Business and the international economy,6
+2025-ON,1,2,2,a,Financial information and decisions,Cash-flow forecasting and working capital,2
+2025-ON,1,2,2,b,Financial information and decisions,Cash-flow forecasting and working capital,2
+2025-ON,1,2,2,c,People in business,Organisation and management,4
+2025-ON,1,2,2,d,Financial information and decisions,Cash-flow forecasting and working capital,6
+2025-ON,1,2,2,e,Marketing,Marketing mix,6
+2025-ON,1,2,3,a,Understanding business activity,Types of business organisation,2
+2025-ON,1,2,3,b,Understanding business activity,"Enterprise, business growth and size",2
+2025-ON,1,2,3,c,Marketing,Marketing mix,4
+2025-ON,1,2,3,d,Marketing,Market research,6
+2025-ON,1,2,3,e,Operations management,Location decisions,6
+2025-ON,1,2,4,a,Operations management,"Costs, scale of production and break-even analysis",2
+2025-ON,1,2,4,b,Operations management,"Costs, scale of production and break-even analysis",2
+2025-ON,1,2,4,c,External influences on business activity,Economic issues,4
+2025-ON,1,2,4,d,Understanding business activity,Business activity,6
+2025-ON,1,2,4,e,Understanding business activity,"Enterprise, business growth and size",6
+2026-MJ,1,2,1,a,People in business,Motivating employees,2
+2026-MJ,1,2,1,b,People in business,Motivating employees,2
+2026-MJ,1,2,1,c,People in business,"Recruitment, selection and training",4
+2026-MJ,1,2,1,d,People in business,Organisation and management,6
+2026-MJ,1,2,1,e,Understanding business activity,Types of business organisation,6
+2026-MJ,1,2,2,a,Understanding business activity,"Enterprise, business growth and size",2
+2026-MJ,1,2,2,b,Marketing,Marketing mix,2
+2026-MJ,1,2,2,c,Marketing,Market research,4
+2026-MJ,1,2,2,d,Marketing,Marketing mix,6
+2026-MJ,1,2,2,e,Understanding business activity,"Enterprise, business growth and size",6
+2026-MJ,1,2,3,a,Financial information and decisions,Analysis of accounts,2
+2026-MJ,1,2,3,b,Financial information and decisions,Analysis of accounts,2
+2026-MJ,1,2,3,c,Operations management,Achieving quality production,4
+2026-MJ,1,2,3,d,Operations management,Production of goods and services,6
+2026-MJ,1,2,3,e,Financial information and decisions,Income statements,6
+2026-MJ,1,2,4,a,Understanding business activity,Classification of businesses,2
+2026-MJ,1,2,4,b,Operations management,"Costs, scale of production and break-even analysis",2
+2026-MJ,1,2,4,c,External influences on business activity,Environmental and ethical issues,4
+2026-MJ,1,2,4,d,External influences on business activity,Business and the international economy,6
+2026-MJ,1,2,4,e,External influences on business activity,Environmental and ethical issues,6
+2022-MJ,2,2,1,a,Understanding business activity,"Enterprise, business growth and size",8
+2022-MJ,2,2,1,b,Operations management,"Costs, scale of production and break-even analysis",12
+2022-MJ,2,2,2,a,Operations management,Production of goods and services,8
+2022-MJ,2,2,2,b,Financial information and decisions,Analysis of accounts,12
+2022-MJ,2,2,3,a,Marketing,Market research,8
+2022-MJ,2,2,3,b,People in business,"Recruitment, selection and training",12
+2022-MJ,2,2,4,a,People in business,"Recruitment, selection and training",8
+2022-MJ,2,2,4,b,External influences on business activity,Business and the international economy,12
+2022-ON,2,2,1,a,Understanding business activity,"Enterprise, business growth and size",8
+2022-ON,2,2,1,b,External influences on business activity,Business and the international economy,12
+2022-ON,2,2,2,a,Marketing,Marketing mix,8
+2022-ON,2,2,2,b,Marketing,Marketing mix,12
+2022-ON,2,2,3,a,Operations management,"Costs, scale of production and break-even analysis",8
+2022-ON,2,2,3,b,People in business,"Recruitment, selection and training",12
+2022-ON,2,2,4,a,People in business,Organisation and management,8
+2022-ON,2,2,4,b,Financial information and decisions,Analysis of accounts,12
+2023-MJ,2,2,1,a,Understanding business activity,"Enterprise, business growth and size",8
+2023-MJ,2,2,1,b,Understanding business activity,Types of business organisation,12
+2023-MJ,2,2,2,a,Understanding business activity,Business objectives and stakeholder objectives,8
+2023-MJ,2,2,2,b,Operations management,"Costs, scale of production and break-even analysis",12
+2023-MJ,2,2,3,a,Financial information and decisions,Cash-flow forecasting and working capital,8
+2023-MJ,2,2,3,b,Marketing,"Marketing, competition and the customer",12
+2023-MJ,2,2,4,a,People in business,Organisation and management,8
+2023-MJ,2,2,4,b,External influences on business activity,Environmental and ethical issues,12
+2023-ON,2,2,1,a,Understanding business activity,Business activity,8
+2023-ON,2,2,1,b,Marketing,Market research,12
+2023-ON,2,2,2,a,Financial information and decisions,Business finance: needs and sources,8
+2023-ON,2,2,2,b,Marketing,Marketing mix,12
+2023-ON,2,2,3,a,People in business,"Recruitment, selection and training",8
+2023-ON,2,2,3,b,People in business,Internal and external communication,12
+2023-ON,2,2,4,a,Operations management,"Costs, scale of production and break-even analysis",8
+2023-ON,2,2,4,b,External influences on business activity,Business and the international economy,12
+2024-MJ,2,2,1,a,Understanding business activity,Business objectives and stakeholder objectives,8
+2024-MJ,2,2,1,b,Operations management,"Costs, scale of production and break-even analysis",12
+2024-MJ,2,2,2,a,People in business,"Recruitment, selection and training",8
+2024-MJ,2,2,2,b,Marketing,Marketing mix,12
+2024-MJ,2,2,3,a,Financial information and decisions,Income statements,8
+2024-MJ,2,2,3,b,Marketing,Marketing mix,12
+2024-MJ,2,2,4,a,External influences on business activity,Economic issues,8
+2024-MJ,2,2,4,b,External influences on business activity,Environmental and ethical issues,12
+2024-ON,2,2,1,a,Understanding business activity,Types of business organisation,8
+2024-ON,2,2,1,b,People in business,Motivating employees,12
+2024-ON,2,2,2,a,People in business,Organisation and management,8
+2024-ON,2,2,2,b,Marketing,Marketing mix,12
+2024-ON,2,2,3,a,External influences on business activity,Business and the international economy,8
+2024-ON,2,2,3,b,Operations management,Location decisions,12
+2024-ON,2,2,4,a,Marketing,Marketing strategy,8
+2024-ON,2,2,4,b,Financial information and decisions,Analysis of accounts,12
+2025-MJ,2,2,1,a,Marketing,Marketing strategy,8
+2025-MJ,2,2,1,b,People in business,Motivating employees,12
+2025-MJ,2,2,2,a,Understanding business activity,Business objectives and stakeholder objectives,8
+2025-MJ,2,2,2,b,Operations management,Production of goods and services,12
+2025-MJ,2,2,3,a,Marketing,Market research,8
+2025-MJ,2,2,3,b,People in business,Organisation and management,12
+2025-MJ,2,2,4,a,External influences on business activity,Economic issues,8
+2025-MJ,2,2,4,b,Financial information and decisions,Analysis of accounts,12
+2025-ON,2,2,1,a,Understanding business activity,"Enterprise, business growth and size",8
+2025-ON,2,2,1,b,People in business,Internal and external communication,12
+2025-ON,2,2,2,a,Marketing,"Marketing, competition and the customer",8
+2025-ON,2,2,2,b,Marketing,Marketing mix,12
+2025-ON,2,2,3,a,Operations management,Production of goods and services,8
+2025-ON,2,2,3,b,Financial information and decisions,Business finance: needs and sources,12
+2025-ON,2,2,4,a,Operations management,Achieving quality production,8
+2025-ON,2,2,4,b,External influences on business activity,Environmental and ethical issues,12
+2026-MJ,2,2,1,a,Understanding business activity,"Enterprise, business growth and size",8
+2026-MJ,2,2,1,b,Marketing,Market research,12
+2026-MJ,2,2,2,a,Marketing,Marketing mix,8
+2026-MJ,2,2,2,b,Operations management,Location decisions,12
+2026-MJ,2,2,3,a,Operations management,Production of goods and services,8
+2026-MJ,2,2,3,b,Operations management,"Costs, scale of production and break-even analysis",12
+2026-MJ,2,2,4,a,People in business,"Recruitment, selection and training",8
+2026-MJ,2,2,4,b,External influences on business activity,Environmental and ethical issues,12

@@ -1,0 +1,424 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,,Trigonometry,Trigonometric graphs,3
+2022-MJ,1,2,2,,Trigonometry,Identities and proofs,4
+2022-MJ,1,2,3,a,Straight-line graphs,Linear form (log graphs),4
+2022-MJ,1,2,3,b,Straight-line graphs,Linear form (log graphs),1
+2022-MJ,1,2,3,c,Straight-line graphs,Linear form (log graphs),2
+2022-MJ,1,2,4,a,Vectors in two dimensions,Vector algebra and unit vectors,2
+2022-MJ,1,2,4,b,Vectors in two dimensions,Vector algebra and unit vectors,3
+2022-MJ,1,2,5,,Series,Binomial expansion,8
+2022-MJ,1,2,6,a,Factors of polynomials,Factor and remainder theorems,4
+2022-MJ,1,2,6,b,Factors of polynomials,Factor and remainder theorems,1
+2022-MJ,1,2,6,c,Differentiation,"Derivatives (chain, product, quotient)",2
+2022-MJ,1,2,7,a,Integration,Definite integrals,2
+2022-MJ,1,2,7,b,Integration,Definite integrals,6
+2022-MJ,1,2,8,a,Permutations and combinations,Combinations,3
+2022-MJ,1,2,8,b(i),Permutations and combinations,Permutations,1
+2022-MJ,1,2,8,b(ii),Permutations and combinations,Permutations,3
+2022-MJ,1,2,9,,Differentiation,Tangents and normals,9
+2022-MJ,1,2,10,a(i),Logarithmic and exponential functions,Logarithmic and exponential equations,4
+2022-MJ,1,2,10,a(ii),Logarithmic and exponential functions,Logarithmic and exponential equations,2
+2022-MJ,1,2,10,b,Logarithmic and exponential functions,Laws of logarithms and change of base,5
+2022-MJ,1,2,11,a,Kinematics,"Displacement, velocity, acceleration",4
+2022-MJ,1,2,11,b,Kinematics,Motion graphs,2
+2022-MJ,1,2,11,c,Kinematics,Motion graphs,2
+2022-MJ,1,2,11,d(i),Kinematics,"Displacement, velocity, acceleration",1
+2022-MJ,1,2,11,d(ii),Kinematics,Motion graphs,2
+2022-MJ,2,2,1,,Indices and surds,Surds,3
+2022-MJ,2,2,2,,"Equations, inequalities and graphs",Modulus equations and inequalities,5
+2022-MJ,2,2,3,,Quadratic functions,Discriminant and nature of roots,5
+2022-MJ,2,2,4,,Differentiation,Small changes and rates of change,5
+2022-MJ,2,2,5,a,Indices and surds,Indices and equations with indices,3
+2022-MJ,2,2,5,b,Logarithmic and exponential functions,Graphs of exponential and log functions,2
+2022-MJ,2,2,6,a,Vectors in two dimensions,Velocity and position vectors,2
+2022-MJ,2,2,6,b,Vectors in two dimensions,Vector algebra and unit vectors,5
+2022-MJ,2,2,7,,Differentiation,"Derivatives (chain, product, quotient)",4
+2022-MJ,2,2,8,a,Differentiation,Stationary points,5
+2022-MJ,2,2,8,b,Trigonometry,Trigonometric equations,5
+2022-MJ,2,2,9,a,Circular measure,Arc length and sector area,4
+2022-MJ,2,2,9,b,Circular measure,Arc length and sector area,3
+2022-MJ,2,2,10,a(i),Series,Geometric progressions,4
+2022-MJ,2,2,10,a(ii),Series,Geometric progressions,3
+2022-MJ,2,2,10,b,Series,Arithmetic progressions,6
+2022-MJ,2,2,11,,Integration,Area under a curve,9
+2022-MJ,2,2,12,,Integration,Finding a curve from its gradient,7
+2022-ON,1,2,1,,Trigonometry,Trigonometric graphs,3
+2022-ON,1,2,2,a,Quadratic functions,Quadratic graphs and completing the square,4
+2022-ON,1,2,2,b,"Equations, inequalities and graphs",Modulus and cubic graphs,4
+2022-ON,1,2,3,,Indices and surds,Indices and equations with indices,4
+2022-ON,1,2,4,,Trigonometry,Trigonometric equations,5
+2022-ON,1,2,5,a,Vectors in two dimensions,Vector algebra and unit vectors,2
+2022-ON,1,2,5,b,Vectors in two dimensions,Vector geometry,3
+2022-ON,1,2,5,c,Vectors in two dimensions,Vector algebra and unit vectors,3
+2022-ON,1,2,6,,Permutations and combinations,Combinations,3
+2022-ON,1,2,7,a,Circular measure,Arc length and sector area,1
+2022-ON,1,2,7,b,Circular measure,Arc length and sector area,3
+2022-ON,1,2,7,c,Circular measure,Arc length and sector area,3
+2022-ON,1,2,8,a,Functions,Domain and range,1
+2022-ON,1,2,8,b,Functions,Domain and range,1
+2022-ON,1,2,8,c,Functions,Inverse functions,4
+2022-ON,1,2,8,d,Functions,Graphs of a function and its inverse,4
+2022-ON,1,2,9,a,Integration,Definite integrals,2
+2022-ON,1,2,9,b,Integration,Definite integrals,7
+2022-ON,1,2,10,a,Series,Arithmetic progressions,4
+2022-ON,1,2,10,b,Series,Arithmetic progressions,2
+2022-ON,1,2,10,c,Series,Arithmetic progressions,2
+2022-ON,1,2,11,a,Kinematics,"Displacement, velocity, acceleration",5
+2022-ON,1,2,11,b,Kinematics,"Displacement, velocity, acceleration",1
+2022-ON,1,2,12,,Series,Binomial expansion,9
+2022-ON,2,2,1,,Simultaneous equations,Linear and non-linear simultaneous equations,5
+2022-ON,2,2,2,,Logarithmic and exponential functions,Logarithmic and exponential equations,4
+2022-ON,2,2,3,,Differentiation,Tangents and normals,6
+2022-ON,2,2,4,,Logarithmic and exponential functions,Logarithmic and exponential equations,5
+2022-ON,2,2,5,,Factors of polynomials,Solving cubic equations,5
+2022-ON,2,2,6,a,Permutations and combinations,Permutations,3
+2022-ON,2,2,6,b,Permutations and combinations,Permutations,3
+2022-ON,2,2,7,a,Trigonometry,Identities and proofs,4
+2022-ON,2,2,7,b,Trigonometry,Trigonometric equations,4
+2022-ON,2,2,8,a,Differentiation,Practical maxima and minima,2
+2022-ON,2,2,8,b,Differentiation,Practical maxima and minima,3
+2022-ON,2,2,8,c,Differentiation,Practical maxima and minima,5
+2022-ON,2,2,9,a,Trigonometry,Sine and cosine rules (exact values),3
+2022-ON,2,2,9,b,Trigonometry,Sine and cosine rules (exact values),5
+2022-ON,2,2,9,c,Trigonometry,Sine and cosine rules (exact values),3
+2022-ON,2,2,10,a,Series,Geometric progressions,4
+2022-ON,2,2,10,b,Series,Geometric progressions,4
+2022-ON,2,2,11,a,Straight-line graphs,"Lines, midpoints and distances",2
+2022-ON,2,2,11,b,Straight-line graphs,Perpendicular lines and bisectors,4
+2022-ON,2,2,11,c,Straight-line graphs,"Lines, midpoints and distances",6
+2023-MJ,1,2,1,,Trigonometry,Trigonometric graphs,3
+2023-MJ,1,2,2,,Indices and surds,Surds,5
+2023-MJ,1,2,3,a,"Equations, inequalities and graphs",Modulus and cubic graphs,3
+2023-MJ,1,2,3,b,"Equations, inequalities and graphs",Modulus equations and inequalities,4
+2023-MJ,1,2,4,a,Circular measure,Arc length and sector area,4
+2023-MJ,1,2,4,b,Circular measure,Arc length and sector area,3
+2023-MJ,1,2,5,a,Indices and surds,Indices and equations with indices,4
+2023-MJ,1,2,5,b,Logarithmic and exponential functions,Logarithmic and exponential equations,6
+2023-MJ,1,2,6,a,Trigonometry,Identities and proofs,2
+2023-MJ,1,2,6,b,Trigonometry,Trigonometric equations,5
+2023-MJ,1,2,7,a,Permutations and combinations,Combinations,3
+2023-MJ,1,2,7,b(i),Permutations and combinations,Permutations,1
+2023-MJ,1,2,7,b(ii),Permutations and combinations,Permutations,1
+2023-MJ,1,2,7,b(iii),Permutations and combinations,Permutations,3
+2023-MJ,1,2,8,a,Functions,Domain and range,1
+2023-MJ,1,2,8,b,Functions,Domain and range,1
+2023-MJ,1,2,8,c,Functions,Graphs of a function and its inverse,4
+2023-MJ,1,2,8,d(i),Functions,Composite functions,1
+2023-MJ,1,2,8,d(ii),Functions,Composite functions,3
+2023-MJ,1,2,9,,Integration,Area under a curve,10
+2023-MJ,1,2,10,a(i),Series,Arithmetic progressions,2
+2023-MJ,1,2,10,a(ii),Series,Arithmetic progressions,2
+2023-MJ,1,2,10,a(iii),Series,Arithmetic progressions,2
+2023-MJ,1,2,10,b,Series,Geometric progressions,4
+2023-MJ,1,2,10,c,Series,Sum to infinity,3
+2023-MJ,2,2,1,a,Quadratic functions,Quadratic inequalities,3
+2023-MJ,2,2,1,b(i),Quadratic functions,Quadratic graphs and completing the square,3
+2023-MJ,2,2,1,b(ii),Quadratic functions,Quadratic graphs and completing the square,1
+2023-MJ,2,2,2,a,Differentiation,Stationary points,5
+2023-MJ,2,2,2,b,Differentiation,Stationary points,3
+2023-MJ,2,2,3,a,Factors of polynomials,Factor and remainder theorems,1
+2023-MJ,2,2,3,b,Factors of polynomials,Solving cubic equations,7
+2023-MJ,2,2,4,,Differentiation,Small changes and rates of change,6
+2023-MJ,2,2,5,a,Straight-line graphs,Linear form (log graphs),2
+2023-MJ,2,2,5,b,Straight-line graphs,Linear form (log graphs),4
+2023-MJ,2,2,5,c,Straight-line graphs,Linear form (log graphs),3
+2023-MJ,2,2,6,a(i),Series,Binomial expansion,2
+2023-MJ,2,2,6,a(ii),Series,Binomial expansion,2
+2023-MJ,2,2,6,b,Series,Binomial expansion,5
+2023-MJ,2,2,7,a,Differentiation,"Derivatives (chain, product, quotient)",3
+2023-MJ,2,2,7,b,Differentiation,Small changes and rates of change,4
+2023-MJ,2,2,7,c(i),Differentiation,"Derivatives (chain, product, quotient)",2
+2023-MJ,2,2,7,c(ii),Integration,Integration as reverse of differentiation,3
+2023-MJ,2,2,8,,Differentiation,Tangents and normals,7
+2023-MJ,2,2,9,,Kinematics,"Displacement, velocity, acceleration",6
+2023-MJ,2,2,10,,Vectors in two dimensions,Vector geometry,8
+2023-ON,1,2,1,a,"Equations, inequalities and graphs",Modulus and cubic graphs,3
+2023-ON,1,2,1,b,"Equations, inequalities and graphs",Cubic inequalities,2
+2023-ON,1,2,2,a,Trigonometry,Trigonometric graphs,1
+2023-ON,1,2,2,b,Trigonometry,Trigonometric graphs,1
+2023-ON,1,2,2,c,Trigonometry,Trigonometric graphs,3
+2023-ON,1,2,3,,Straight-line graphs,Linear form (log graphs),5
+2023-ON,1,2,4,a,Series,Binomial expansion,5
+2023-ON,1,2,4,b,Series,Binomial expansion,2
+2023-ON,1,2,5,,Trigonometry,Trigonometric equations,5
+2023-ON,1,2,6,a,Factors of polynomials,Factor and remainder theorems,7
+2023-ON,1,2,6,b,Factors of polynomials,Solving cubic equations,3
+2023-ON,1,2,7,a(i),Permutations and combinations,Permutations,1
+2023-ON,1,2,7,a(ii),Permutations and combinations,Permutations,3
+2023-ON,1,2,7,b(i),Permutations and combinations,Combinations,1
+2023-ON,1,2,7,b(ii),Permutations and combinations,Combinations,1
+2023-ON,1,2,7,b(iii),Permutations and combinations,Combinations,2
+2023-ON,1,2,8,a(i),Functions,Domain and range,1
+2023-ON,1,2,8,a(ii),Functions,Domain and range,1
+2023-ON,1,2,8,a(iii),Functions,Graphs of a function and its inverse,4
+2023-ON,1,2,8,b,Functions,Composite functions,3
+2023-ON,1,2,9,,Indices and surds,Indices and equations with indices,4
+2023-ON,1,2,10,a,Circular measure,Arc length and sector area,4
+2023-ON,1,2,10,b,Circular measure,Arc length and sector area,3
+2023-ON,1,2,11,a,Vectors in two dimensions,Vector geometry,3
+2023-ON,1,2,11,b,Vectors in two dimensions,Vector geometry,2
+2023-ON,1,2,11,c,Vectors in two dimensions,Vector geometry,3
+2023-ON,1,2,11,d,Vectors in two dimensions,Vector geometry,1
+2023-ON,1,2,12,a,Functions,Domain and range,1
+2023-ON,1,2,12,b,Differentiation,"Derivatives (chain, product, quotient)",5
+2023-ON,2,2,1,a,Straight-line graphs,"Lines, midpoints and distances",5
+2023-ON,2,2,1,b,Straight-line graphs,"Lines, midpoints and distances",2
+2023-ON,2,2,2,,Quadratic functions,Discriminant and nature of roots,5
+2023-ON,2,2,3,,Indices and surds,Surds,4
+2023-ON,2,2,4,a,Logarithmic and exponential functions,Logarithmic and exponential equations,4
+2023-ON,2,2,4,b,Logarithmic and exponential functions,Logarithmic and exponential equations,5
+2023-ON,2,2,5,a,Differentiation,Tangents and normals,5
+2023-ON,2,2,5,b,Factors of polynomials,Solving cubic equations,5
+2023-ON,2,2,6,,Integration,Definite integrals,6
+2023-ON,2,2,7,a,Kinematics,"Displacement, velocity, acceleration",3
+2023-ON,2,2,7,b,Kinematics,"Displacement, velocity, acceleration",4
+2023-ON,2,2,7,c,Kinematics,"Displacement, velocity, acceleration",2
+2023-ON,2,2,8,a,Differentiation,"Derivatives (chain, product, quotient)",2
+2023-ON,2,2,8,b,Differentiation,Tangents and normals,3
+2023-ON,2,2,8,c,Integration,Integration as reverse of differentiation,5
+2023-ON,2,2,9,a,Series,Arithmetic progressions,5
+2023-ON,2,2,9,b,Series,Geometric progressions,5
+2023-ON,2,2,10,a,Trigonometry,Identities and proofs,5
+2023-ON,2,2,10,b,Trigonometry,Trigonometric equations,5
+2024-MJ,1,2,1,,Trigonometry,Trigonometric graphs,3
+2024-MJ,1,2,2,,Logarithmic and exponential functions,Laws of logarithms and change of base,3
+2024-MJ,1,2,3,,Differentiation,"Derivatives (chain, product, quotient)",4
+2024-MJ,1,2,4,a,Permutations and combinations,Combinations,1
+2024-MJ,1,2,4,b,Permutations and combinations,Combinations,1
+2024-MJ,1,2,4,c,Permutations and combinations,Combinations,4
+2024-MJ,1,2,5,a,Indices and surds,Surds,3
+2024-MJ,1,2,5,b,Indices and surds,Surds,3
+2024-MJ,1,2,5,c,Indices and surds,Surds,3
+2024-MJ,1,2,6,a,Circular measure,Arc length and sector area,1
+2024-MJ,1,2,6,b,Circular measure,Arc length and sector area,5
+2024-MJ,1,2,6,c,Circular measure,Arc length and sector area,3
+2024-MJ,1,2,7,a,Straight-line graphs,Perpendicular lines and bisectors,9
+2024-MJ,1,2,7,b,Straight-line graphs,Perpendicular lines and bisectors,2
+2024-MJ,1,2,8,a,Differentiation,"Derivatives (chain, product, quotient)",5
+2024-MJ,1,2,8,b,Differentiation,Stationary points,3
+2024-MJ,1,2,9,a,Vectors in two dimensions,Velocity and position vectors,2
+2024-MJ,1,2,9,b,Vectors in two dimensions,Velocity and position vectors,2
+2024-MJ,1,2,9,c,Vectors in two dimensions,Velocity and position vectors,4
+2024-MJ,1,2,9,d,Vectors in two dimensions,Velocity and position vectors,2
+2024-MJ,1,2,10,a(i),Series,Arithmetic progressions,3
+2024-MJ,1,2,10,a(ii),Series,Arithmetic progressions,2
+2024-MJ,1,2,10,b(i),Series,Geometric progressions,2
+2024-MJ,1,2,10,b(ii),Series,Geometric progressions,2
+2024-MJ,1,2,10,c,Series,Sum to infinity,3
+2024-MJ,1,2,11,a,Differentiation,"Derivatives (chain, product, quotient)",2
+2024-MJ,1,2,11,b,Integration,Integration as reverse of differentiation,3
+2024-MJ,2,2,1,a,"Equations, inequalities and graphs",Modulus and cubic graphs,3
+2024-MJ,2,2,1,b(i),"Equations, inequalities and graphs",Cubic inequalities,2
+2024-MJ,2,2,1,b(ii),"Equations, inequalities and graphs",Modulus and cubic graphs,1
+2024-MJ,2,2,2,a,Integration,Definite integrals,4
+2024-MJ,2,2,2,b,Integration,Indefinite integrals,3
+2024-MJ,2,2,3,a,Quadratic functions,Discriminant and nature of roots,4
+2024-MJ,2,2,3,b,Indices and surds,Indices and equations with indices,4
+2024-MJ,2,2,4,a,Factors of polynomials,Factor and remainder theorems,1
+2024-MJ,2,2,4,b(i),Factors of polynomials,Factor and remainder theorems,1
+2024-MJ,2,2,4,b(ii),Factors of polynomials,Solving cubic equations,3
+2024-MJ,2,2,4,b(iii),Trigonometry,Trigonometric equations,2
+2024-MJ,2,2,5,,Differentiation,Tangents and normals,6
+2024-MJ,2,2,6,a,Trigonometry,Identities and proofs,3
+2024-MJ,2,2,6,b,Trigonometry,Trigonometric equations,5
+2024-MJ,2,2,7,a,Permutations and combinations,Permutations,2
+2024-MJ,2,2,7,b,Permutations and combinations,Permutations,2
+2024-MJ,2,2,8,a,Straight-line graphs,Linear form (log graphs),2
+2024-MJ,2,2,8,b,Straight-line graphs,Linear form (log graphs),5
+2024-MJ,2,2,8,c,Straight-line graphs,Linear form (log graphs),2
+2024-MJ,2,2,9,,Integration,Area under a curve,9
+2024-MJ,2,2,10,a,Functions,Inverse functions,1
+2024-MJ,2,2,10,b,Functions,Inverse functions,5
+2024-MJ,2,2,10,c,Functions,Composite functions,2
+2024-MJ,2,2,11,,Series,Binomial expansion,8
+2024-ON,1,2,1,a,Trigonometry,Trigonometric graphs,4
+2024-ON,1,2,1,b,Trigonometry,Trigonometric graphs,3
+2024-ON,1,2,2,a,Differentiation,Stationary points,4
+2024-ON,1,2,2,b,"Equations, inequalities and graphs",Modulus and cubic graphs,3
+2024-ON,1,2,2,c,"Equations, inequalities and graphs",Modulus and cubic graphs,2
+2024-ON,1,2,3,a,Circular measure,Arc length and sector area,2
+2024-ON,1,2,3,b,Circular measure,Arc length and sector area,2
+2024-ON,1,2,3,c,Circular measure,Arc length and sector area,3
+2024-ON,1,2,4,a(i),Functions,Domain and range,1
+2024-ON,1,2,4,a(ii),Functions,Domain and range,1
+2024-ON,1,2,4,a(iii),Functions,Inverse functions,4
+2024-ON,1,2,4,a(iv),Functions,Graphs of a function and its inverse,4
+2024-ON,1,2,4,b,Functions,Composite functions,3
+2024-ON,1,2,5,a,Trigonometry,Identities and proofs,1
+2024-ON,1,2,5,b,Differentiation,"Derivatives (chain, product, quotient)",1
+2024-ON,1,2,5,c,Integration,Definite integrals,4
+2024-ON,1,2,6,a,Series,Binomial expansion,3
+2024-ON,1,2,6,b,Series,Binomial expansion,2
+2024-ON,1,2,7,,Differentiation,Small changes and rates of change,6
+2024-ON,1,2,8,,Differentiation,Tangents and normals,8
+2024-ON,1,2,9,,Integration,Area under a curve,8
+2024-ON,1,2,10,a,Series,Arithmetic progressions,5
+2024-ON,1,2,10,b,Series,Sum to infinity,6
+2024-ON,2,2,1,,Indices and surds,Indices and equations with indices,3
+2024-ON,2,2,2,a,Differentiation,"Derivatives (chain, product, quotient)",3
+2024-ON,2,2,2,b,Differentiation,Small changes and rates of change,3
+2024-ON,2,2,2,c,Differentiation,Stationary points,2
+2024-ON,2,2,3,a,Factors of polynomials,Factor and remainder theorems,3
+2024-ON,2,2,3,b,Factors of polynomials,Solving cubic equations,2
+2024-ON,2,2,4,,"Equations, inequalities and graphs",Modulus equations and inequalities,5
+2024-ON,2,2,5,a,Logarithmic and exponential functions,Logarithmic and exponential equations,4
+2024-ON,2,2,5,b,Logarithmic and exponential functions,Logarithmic and exponential equations,4
+2024-ON,2,2,6,,Indices and surds,Surds,5
+2024-ON,2,2,7,a(i),Permutations and combinations,Combinations,1
+2024-ON,2,2,7,a(ii),Permutations and combinations,Combinations,2
+2024-ON,2,2,7,a(iii),Permutations and combinations,Combinations,2
+2024-ON,2,2,7,b,Permutations and combinations,Permutations,3
+2024-ON,2,2,8,,Trigonometry,Trigonometric equations,6
+2024-ON,2,2,9,a,Kinematics,Motion graphs,3
+2024-ON,2,2,9,b,Kinematics,Motion graphs,3
+2024-ON,2,2,10,a,Differentiation,Stationary points,4
+2024-ON,2,2,10,b,Factors of polynomials,Solving cubic equations,3
+2024-ON,2,2,10,c,Differentiation,Tangents and normals,4
+2024-ON,2,2,11,a,Vectors in two dimensions,Velocity and position vectors,2
+2024-ON,2,2,11,b,Vectors in two dimensions,Velocity and position vectors,1
+2024-ON,2,2,11,c,Vectors in two dimensions,Velocity and position vectors,2
+2024-ON,2,2,11,d,Vectors in two dimensions,Velocity and position vectors,4
+2024-ON,2,2,12,,Differentiation,Practical maxima and minima,6
+2025-MJ,1,2,1,,"Equations, inequalities and graphs",Modulus and cubic graphs,3
+2025-MJ,1,2,2,,"Equations, inequalities and graphs",Equations reducible to quadratics,4
+2025-MJ,1,2,3,a,Coordinate geometry of the circle,"Circle and line (tangents, intersections)",3
+2025-MJ,1,2,3,b,Coordinate geometry of the circle,"Circle and line (tangents, intersections)",2
+2025-MJ,1,2,3,c,Coordinate geometry of the circle,Equation of a circle,3
+2025-MJ,1,2,4,a,Integration,Definite integrals,2
+2025-MJ,1,2,4,b,Trigonometry,Identities and proofs,3
+2025-MJ,1,2,5,a,Factors of polynomials,Factor and remainder theorems,4
+2025-MJ,1,2,5,b,Factors of polynomials,Solving cubic equations,3
+2025-MJ,1,2,5,c,Factors of polynomials,Solving cubic equations,3
+2025-MJ,1,2,6,a,Straight-line graphs,Linear form (log graphs),4
+2025-MJ,1,2,6,b,Straight-line graphs,Linear form (log graphs),2
+2025-MJ,1,2,7,a,Series,Geometric progressions,4
+2025-MJ,1,2,7,b,Series,Sum to infinity,3
+2025-MJ,1,2,8,a,Differentiation,"Derivatives (chain, product, quotient)",5
+2025-MJ,1,2,8,b,Differentiation,Small changes and rates of change,1
+2025-MJ,1,2,9,a,Functions,Domain and range,1
+2025-MJ,1,2,9,b,Functions,Domain and range,1
+2025-MJ,1,2,9,c,Functions,Inverse functions,2
+2025-MJ,1,2,9,d,Functions,Graphs of a function and its inverse,4
+2025-MJ,1,2,10,a,Circular measure,Arc length and sector area,3
+2025-MJ,1,2,10,b,Circular measure,Arc length and sector area,5
+2025-MJ,1,2,11,a,Vectors in two dimensions,Vector geometry,6
+2025-MJ,1,2,11,b,Vectors in two dimensions,Vector geometry,3
+2025-MJ,1,2,12,,Integration,Finding a curve from its gradient,6
+2025-MJ,2,2,1,,"Equations, inequalities and graphs",Modulus equations and inequalities,4
+2025-MJ,2,2,2,a,Kinematics,Motion graphs,2
+2025-MJ,2,2,2,b,Kinematics,"Displacement, velocity, acceleration",2
+2025-MJ,2,2,2,c,Kinematics,Motion graphs,2
+2025-MJ,2,2,2,d,Kinematics,"Displacement, velocity, acceleration",1
+2025-MJ,2,2,2,e,Kinematics,Motion graphs,3
+2025-MJ,2,2,3,,Functions,Composite functions,4
+2025-MJ,2,2,4,a,Differentiation,"Derivatives (chain, product, quotient)",4
+2025-MJ,2,2,4,b,Differentiation,Tangents and normals,5
+2025-MJ,2,2,5,a(i),Permutations and combinations,Permutations,1
+2025-MJ,2,2,5,a(ii),Permutations and combinations,Permutations,2
+2025-MJ,2,2,5,a(iii),Permutations and combinations,Permutations,2
+2025-MJ,2,2,5,b,Permutations and combinations,Combinations,3
+2025-MJ,2,2,6,,Differentiation,Small changes and rates of change,6
+2025-MJ,2,2,7,a,Series,Arithmetic progressions,6
+2025-MJ,2,2,7,b,Series,Arithmetic progressions,3
+2025-MJ,2,2,8,,Integration,Area under a curve,11
+2025-MJ,2,2,9,a,Trigonometry,Trigonometric equations,5
+2025-MJ,2,2,9,b,Trigonometry,Trigonometric equations,5
+2025-MJ,2,2,10,,Series,Binomial expansion,9
+2025-ON,1,2,1,a,"Equations, inequalities and graphs",Modulus and cubic graphs,3
+2025-ON,1,2,1,b,"Equations, inequalities and graphs",Cubic inequalities,2
+2025-ON,1,2,2,a,Factors of polynomials,Factor and remainder theorems,4
+2025-ON,1,2,2,b,Factors of polynomials,Solving cubic equations,3
+2025-ON,1,2,3,a,Series,Sum to infinity,4
+2025-ON,1,2,3,b,Series,Geometric progressions,2
+2025-ON,1,2,4,a,Quadratic functions,Quadratic graphs and completing the square,2
+2025-ON,1,2,4,b,Quadratic functions,Quadratic graphs and completing the square,2
+2025-ON,1,2,4,c(i),Functions,Domain and range,1
+2025-ON,1,2,4,c(ii),Functions,Graphs of a function and its inverse,5
+2025-ON,1,2,5,a,Logarithmic and exponential functions,Laws of logarithms and change of base,3
+2025-ON,1,2,5,b,Logarithmic and exponential functions,Logarithmic and exponential equations,4
+2025-ON,1,2,6,,"Equations, inequalities and graphs",Modulus equations and inequalities,5
+2025-ON,1,2,7,a,Straight-line graphs,"Lines, midpoints and distances",2
+2025-ON,1,2,7,b,Coordinate geometry of the circle,Equation of a circle,4
+2025-ON,1,2,8,,Logarithmic and exponential functions,Graphs of exponential and log functions,4
+2025-ON,1,2,9,a,Integration,Finding a curve from its gradient,11
+2025-ON,1,2,9,b,Differentiation,Stationary points,1
+2025-ON,1,2,10,,Integration,Definite integrals,5
+2025-ON,1,2,11,,Permutations and combinations,Combinations,3
+2025-ON,1,2,12,a,Differentiation,"Derivatives (chain, product, quotient)",4
+2025-ON,1,2,12,b,Differentiation,Small changes and rates of change,2
+2025-ON,1,2,13,,Trigonometry,Identities and proofs,4
+2025-ON,2,2,1,a,Simultaneous equations,Linear and non-linear simultaneous equations,4
+2025-ON,2,2,1,b,Straight-line graphs,Perpendicular lines and bisectors,5
+2025-ON,2,2,2,a,Circular measure,Arc length and sector area,3
+2025-ON,2,2,2,b(i),Circular measure,Arc length and sector area,2
+2025-ON,2,2,2,b(ii),Circular measure,Arc length and sector area,3
+2025-ON,2,2,3,,Series,Binomial expansion,6
+2025-ON,2,2,4,a,Straight-line graphs,Linear form (log graphs),4
+2025-ON,2,2,4,b,Straight-line graphs,Linear form (log graphs),2
+2025-ON,2,2,5,a,Permutations and combinations,Permutations,1
+2025-ON,2,2,5,b,Permutations and combinations,Permutations,2
+2025-ON,2,2,5,c,Permutations and combinations,Permutations,2
+2025-ON,2,2,6,a,Vectors in two dimensions,Velocity and position vectors,2
+2025-ON,2,2,6,b,Vectors in two dimensions,Velocity and position vectors,2
+2025-ON,2,2,6,c,Vectors in two dimensions,Velocity and position vectors,3
+2025-ON,2,2,6,d,Vectors in two dimensions,Velocity and position vectors,1
+2025-ON,2,2,7,a,Differentiation,"Derivatives (chain, product, quotient)",2
+2025-ON,2,2,7,b,Integration,Integration as reverse of differentiation,4
+2025-ON,2,2,8,a,Series,Arithmetic progressions,5
+2025-ON,2,2,8,b,Series,Geometric progressions,2
+2025-ON,2,2,9,a,Functions,Domain and range,1
+2025-ON,2,2,9,b,Functions,Domain and range,1
+2025-ON,2,2,9,c,Functions,Composite functions,3
+2025-ON,2,2,10,,Integration,Area under a curve,10
+2025-ON,2,2,11,a,Trigonometry,Trigonometric equations,4
+2025-ON,2,2,11,b,Trigonometry,Trigonometric equations,6
+2026-MJ,1,2,1,a,Trigonometry,Trigonometric graphs,2
+2026-MJ,1,2,1,b,Trigonometry,Trigonometric graphs,1
+2026-MJ,1,2,1,c,Trigonometry,Trigonometric graphs,1
+2026-MJ,1,2,1,d,Trigonometry,Trigonometric graphs,1
+2026-MJ,1,2,2,a,Straight-line graphs,Perpendicular lines and bisectors,3
+2026-MJ,1,2,2,b,Straight-line graphs,"Lines, midpoints and distances",4
+2026-MJ,1,2,3,a,Factors of polynomials,Factor and remainder theorems,1
+2026-MJ,1,2,3,b,Factors of polynomials,Factor and remainder theorems,4
+2026-MJ,1,2,3,c,Factors of polynomials,Solving cubic equations,2
+2026-MJ,1,2,4,a,Series,Arithmetic progressions,2
+2026-MJ,1,2,4,b,Series,Arithmetic progressions,3
+2026-MJ,1,2,5,,Differentiation,Tangents and normals,4
+2026-MJ,1,2,6,a,Circular measure,Arc length and sector area,4
+2026-MJ,1,2,6,b,Circular measure,Arc length and sector area,4
+2026-MJ,1,2,7,,Trigonometry,Identities and proofs,3
+2026-MJ,1,2,8,,Differentiation,Small changes and rates of change,5
+2026-MJ,1,2,9,a,Logarithmic and exponential functions,Laws of logarithms and change of base,2
+2026-MJ,1,2,9,b,Logarithmic and exponential functions,Logarithmic and exponential equations,5
+2026-MJ,1,2,10,a,Series,Geometric progressions,6
+2026-MJ,1,2,10,b,Series,Sum to infinity,2
+2026-MJ,1,2,11,a,Vectors in two dimensions,Vector geometry,5
+2026-MJ,1,2,11,b,Vectors in two dimensions,Vector geometry,1
+2026-MJ,1,2,12,,Integration,Area under a curve,11
+2026-MJ,1,2,13,,Permutations and combinations,Combinations,4
+2026-MJ,2,2,1,a,Quadratic functions,Quadratic graphs and completing the square,2
+2026-MJ,2,2,1,b,Straight-line graphs,"Lines, midpoints and distances",2
+2026-MJ,2,2,2,,Quadratic functions,Discriminant and nature of roots,3
+2026-MJ,2,2,3,a,Differentiation,"Derivatives (chain, product, quotient)",3
+2026-MJ,2,2,3,b,Integration,Indefinite integrals,3
+2026-MJ,2,2,4,a,"Equations, inequalities and graphs",Modulus and cubic graphs,3
+2026-MJ,2,2,4,b,"Equations, inequalities and graphs",Modulus equations and inequalities,4
+2026-MJ,2,2,5,a,Permutations and combinations,Permutations,3
+2026-MJ,2,2,5,b,Permutations and combinations,Combinations,3
+2026-MJ,2,2,6,,Series,Binomial expansion,8
+2026-MJ,2,2,7,a,Vectors in two dimensions,Velocity and position vectors,1
+2026-MJ,2,2,7,b,Vectors in two dimensions,Velocity and position vectors,1
+2026-MJ,2,2,7,c,Vectors in two dimensions,Velocity and position vectors,3
+2026-MJ,2,2,7,d,Vectors in two dimensions,Velocity and position vectors,3
+2026-MJ,2,2,8,a,Functions,Domain and range,1
+2026-MJ,2,2,8,b(i),Functions,Inverse functions,1
+2026-MJ,2,2,8,b(ii),Functions,Inverse functions,2
+2026-MJ,2,2,8,b(iii),Functions,Graphs of a function and its inverse,4
+2026-MJ,2,2,8,c(i),Functions,Composite functions,1
+2026-MJ,2,2,8,c(ii),Functions,Composite functions,1
+2026-MJ,2,2,8,c(iii),Functions,Composite functions,2
+2026-MJ,2,2,9,a,Kinematics,"Displacement, velocity, acceleration",5
+2026-MJ,2,2,9,b,Kinematics,"Displacement, velocity, acceleration",2
+2026-MJ,2,2,10,,Trigonometry,Trigonometric equations,6
+2026-MJ,2,2,11,,Coordinate geometry of the circle,"Circle and line (tangents, intersections)",9
+2026-MJ,2,2,12,,Differentiation,Small changes and rates of change,4

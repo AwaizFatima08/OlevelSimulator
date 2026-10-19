@@ -34,6 +34,15 @@ SITE_NAME = RELEASE["site_name"]
 BASE_URL = RELEASE["base_url"].rstrip("/")
 OFFICIAL = "https://www.cambridgeinternational.org/programmes-and-qualifications"
 LEVELS = {lv["id"]: lv for lv in CFG["levels"]}
+
+
+def _ready(subj):
+    return (RESEARCH / f"{subj['code']}-questions.csv").exists() and (RESEARCH / subj["guide"]).exists()
+
+
+# A subject goes live once its question CSV and its guide exist; the rest show as "coming soon".
+LIVE = [s for s in CFG["subjects"] if _ready(s)]
+SOON = [{"code": s["code"], "level": s["level"], "name": s["name"]} for s in CFG["subjects"] if not _ready(s)]
 SESSION_NAMES = {"MJ": "May/June", "ON": "Oct/Nov"}
 esc = html.escape
 
@@ -123,7 +132,11 @@ def load_subject(subj):
             "sessions": len(t["sessions"]), "papers": sorted(t["papers"], key=int),
             "subtopics": subs, "questions": qs,
         })
-    return {"rows": len(rows), "sessions": sessions, "topics": topic_list,
+    variants = defaultdict(set)
+    for r in rows:
+        variants[(r["session"], r["paper"])].add(r["variant"])
+    all_variants = sum(len(v) > 1 for v in variants.values()) > len(variants) / 2
+    return {"rows": len(rows), "sessions": sessions, "topics": topic_list, "all_variants": all_variants,
             "question_count": len({q["id"] for qs in by_topic.values() for q in qs})}
 
 
@@ -227,14 +240,14 @@ def build_home(data):
     sections = []
     for lv in CFG["levels"]:
         cards = []
-        for subj in CFG["subjects"]:
+        for subj in LIVE:
             if subj["level"] != lv["id"]:
                 continue
             d = data[subj["code"]]
             cards.append(
                 f'<a class="card" href="{subj_path(subj)}"><span class="code">{subj["code"]}</span>'
                 f'<h3>{esc(subj["name"])}</h3><p>{len(d["topics"])} topics · {d["question_count"]} questions indexed</p></a>')
-        for cs in CFG["coming_soon"]:
+        for cs in SOON:
             if cs["level"] == lv["id"]:
                 cards.append(f'<div class="card soon"><span class="code">{cs["code"]}</span>'
                              f'<h3>{esc(cs["name"])}</h3><p>Coming soon</p></div>')
@@ -247,7 +260,7 @@ def build_home(data):
   <p class="lede">Pick your subject, open a topic, and see every time it was examined from 2022 to {esc(RELEASE['latest_session'])}:
   which paper, which question, how many marks, and the similar questions that test the same skill.</p>
   <ul class="stats">
-    <li><strong>{len(CFG['subjects'])}</strong> subjects</li>
+    <li><strong>{len(LIVE)}</strong> subjects</li>
     <li><strong>{total_q:,}</strong> questions indexed</li>
     <li><strong>{len(RELEASE['sessions'])}</strong> exam sessions</li>
   </ul>
@@ -270,13 +283,17 @@ def build_home(data):
 
 def build_subject(subj, d):
     total = len(d["sessions"])
+    variant_note = ("Questions are indexed from every version (variant) of each paper; Cambridge sets different variants "
+                    "for different time zones." if d["all_variants"] else
+                    "Questions are indexed from one version (variant) of each paper per session. Other variants of the "
+                    "same session test very similar topics.")
     rows = []
     for t in d["topics"]:
         rows.append(
             f'<tr><td><a href="{subj_path(subj)}{t["slug"]}/">{esc(t["name"])}</a> {badge(t["sessions"], total)}</td>'
             f'<td class="num">{t["share"]:.0f}%<span class="bar" style="--w:{min(t["share"] * 3, 100):.0f}%"></span></td>'
             f'<td class="num">{t["sessions"]}/{total}</td><td class="num">{len(t["questions"])}</td></tr>')
-    papers = "".join(f"<li><strong>Paper {k}</strong> – {esc(v)}</li>" for k, v in subj["papers"].items())
+    papers = "".join(f"<li>{esc(v)}</li>" for v in subj["papers"].values())
     body = f"""
 <header class="page-head">
   <p class="eyebrow">{esc(LEVELS[subj['level']]['name'])} · {subj['code']}</p>
@@ -293,8 +310,7 @@ def build_subject(subj, d):
 <p class="note"><span class="badge banker">Banker</span> tested in almost every session ·
 <span class="badge rare">Rare</span> tested in two sessions or fewer.</p>
 <section><h2>Papers</h2><ul class="papers">{papers}</ul>
-<p class="note">Questions are indexed from one version (variant) of each paper per session. Other variants of the same session test
-very similar topics.</p></section>
+<p class="note">{variant_note}</p></section>
 """
     page(subj_path(subj), f"{subj_title(subj)} past paper questions by topic – {SITE_NAME}",
          f"{subj_title(subj)}: {len(d['topics'])} topics with every past paper question from 2022 to "
@@ -458,11 +474,12 @@ def build_data(data):
     ddir = OUT / "data"
     ddir.mkdir(parents=True, exist_ok=True)
     packs = []
-    for subj in CFG["subjects"]:
+    for subj in LIVE:
         d = data[subj["code"]]
         pack = {
             "code": subj["code"], "level": subj["level"], "name": subj["name"], "papers": subj["papers"],
             "official_url": official_url(subj), "sessions": d["sessions"],
+            "web_url": BASE_URL + subj_path(subj), "guide_url": f"{BASE_URL}{subj_path(subj)}guide/",
             "topics": [{
                 "name": t["name"], "slug": t["slug"], "share": round(t["share"], 1), "sessions": t["sessions"],
                 "subtopics": [{"name": s["name"], "marks": s["marks"], "sessions": s["sessions"], "questions": s["qids"]}
@@ -478,8 +495,16 @@ def build_data(data):
         packs.append({"code": subj["code"], "level": subj["level"], "name": subj["name"], "file": f"/data/{name}",
                       "bytes": len(text.encode()), "questions": d["question_count"]})
     manifest = {"schema": 1, "version": RELEASE["version"], "label": RELEASE["label"], "sessions": RELEASE["sessions"],
-                "built": date.today().isoformat(), "packs": packs}
+                "built": date.today().isoformat(), "site": BASE_URL,
+                "levels": [{"id": lv["id"], "name": lv["name"], "short": lv["short"]} for lv in CFG["levels"]],
+                "coming_soon": SOON, "packs": packs}
     (ddir / "manifest.json").write_text(json.dumps(manifest, indent=1))
+    # The Android app bundles the same packs so it works offline from the first launch.
+    app_assets = ROOT / "app" / "assets" / "data"
+    if app_assets.parent.exists():
+        if app_assets.exists():
+            shutil.rmtree(app_assets)
+        shutil.copytree(ddir, app_assets)
 
 
 def build_sitemap():
@@ -494,9 +519,9 @@ def main():
     if OUT.exists():
         shutil.rmtree(OUT)
     shutil.copytree(STATIC, OUT)
-    data = {s["code"]: load_subject(s) for s in CFG["subjects"]}
+    data = {s["code"]: load_subject(s) for s in LIVE}
     build_home(data)
-    for subj in CFG["subjects"]:
+    for subj in LIVE:
         d = data[subj["code"]]
         build_subject(subj, d)
         for t in d["topics"]:

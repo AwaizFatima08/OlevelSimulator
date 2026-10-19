@@ -1,0 +1,586 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,a,Summation of series,Method of differences,4
+2022-MJ,1,2,1,b,Summation of series,Method of differences,3
+2022-MJ,1,2,2,a,Vectors,Equations of planes,5
+2022-MJ,1,2,2,b,Vectors,"Distances (point, plane, skew lines)",2
+2022-MJ,1,2,2,c,Vectors,"Lines & planes: intersection, parallel",3
+2022-MJ,1,2,3,a,Proof by induction,Sequences & inequalities,5
+2022-MJ,1,2,3,b,Proof by induction,Sequences & inequalities,3
+2022-MJ,1,2,4,a,Roots of polynomial equations,Transformed equations,3
+2022-MJ,1,2,4,b,Roots of polynomial equations,Symmetric functions & power sums,3
+2022-MJ,1,2,4,c,Roots of polynomial equations,Symmetric functions & power sums,2
+2022-MJ,1,2,5,a,Rational functions and graphs,Asymptotes,3
+2022-MJ,1,2,5,b,Rational functions and graphs,Stationary points & range,4
+2022-MJ,1,2,5,c,Rational functions and graphs,Curve sketching,3
+2022-MJ,1,2,5,d,Rational functions and graphs,"Related graphs (modulus, reciprocal)",2
+2022-MJ,1,2,6,a,Polar coordinates,Sketching polar curves,3
+2022-MJ,1,2,6,b,Polar coordinates,Area enclosed,5
+2022-MJ,1,2,6,c,Polar coordinates,Greatest distance & tangent conditions,5
+2022-MJ,1,2,7,a,Matrices,"Inverse, determinant & matrix algebra",3
+2022-MJ,1,2,7,b,Matrices,"Inverse, determinant & matrix algebra",4
+2022-MJ,1,2,7,c,Matrices,"Inverse, determinant & matrix algebra",4
+2022-MJ,1,2,7,d,Matrices,Invariant points & lines,6
+2022-MJ,2,2,1,,Integration,Arc length,5
+2022-MJ,2,2,2,a,Hyperbolic functions,Definitions & identities,3
+2022-MJ,2,2,2,b,Hyperbolic functions,Hyperbolic equations,5
+2022-MJ,2,2,3,a,Differential equations,Second order: constant coefficients,6
+2022-MJ,2,2,3,b,Differential equations,Long-term behaviour,2
+2022-MJ,2,2,4,a,Integration,"Rectangles, bounds & limits of sums",4
+2022-MJ,2,2,4,b,Integration,"Rectangles, bounds & limits of sums",4
+2022-MJ,2,2,4,c,Integration,"Rectangles, bounds & limits of sums",2
+2022-MJ,2,2,5,a,Differentiation,Implicit differentiation,3
+2022-MJ,2,2,5,b,Differentiation,Maclaurin series,7
+2022-MJ,2,2,6,,Differential equations,Substitution to reduce a DE,10
+2022-MJ,2,2,7,a,Complex numbers,De Moivre: multiple angles & powers,6
+2022-MJ,2,2,7,b,Complex numbers,Solving polynomials via de Moivre,5
+2022-MJ,2,2,8,a,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,2
+2022-MJ,2,2,8,b,Matrices (eigenvalues and eigenvectors),Diagonalisation,7
+2022-MJ,2,2,8,c,Matrices (eigenvalues and eigenvectors),Cayley-Hamilton (characteristic equation),4
+2022-MJ,3,2,1,a,Hooke's law,Equilibrium with elastic forces,2
+2022-MJ,3,2,1,b,Hooke's law,Equilibrium with elastic forces,3
+2022-MJ,3,2,2,,Circular motion,Leaving the surface / string slack,5
+2022-MJ,3,2,3,,Linear motion under a variable force,Force depending on time,5
+2022-MJ,3,2,4,a,Equilibrium of a rigid body,Centre of mass of composite bodies,4
+2022-MJ,3,2,4,b,Equilibrium of a rigid body,"Suspension, toppling & sliding",4
+2022-MJ,3,2,5,,Circular motion,Horizontal circles,7
+2022-MJ,3,2,6,a,Momentum,Oblique collisions of spheres,4
+2022-MJ,3,2,6,b,Momentum,Oblique collisions of spheres,5
+2022-MJ,3,2,7,a,Motion of a projectile,Two projectiles,4
+2022-MJ,3,2,7,b,Motion of a projectile,Two projectiles,4
+2022-MJ,3,2,7,c,Motion of a projectile,Two projectiles,3
+2022-MJ,4,2,1,a,Inference using normal and t-distributions,Paired-sample t-test,7
+2022-MJ,4,2,1,b,Inference using normal and t-distributions,Paired-sample t-test,1
+2022-MJ,4,2,2,a,Probability generating functions,Mean & variance from a PGF,4
+2022-MJ,4,2,2,b,Probability generating functions,PGF of a sum of independent variables,3
+2022-MJ,4,2,3,a,Continuous random variables,PDF & CDF,1
+2022-MJ,4,2,3,b,Continuous random variables,Expectation & variance,3
+2022-MJ,4,2,3,c,Continuous random variables,"Median, quartiles & percentiles",4
+2022-MJ,4,2,4,a,Chi-squared tests,Goodness of fit,2
+2022-MJ,4,2,4,b,Chi-squared tests,Goodness of fit,6
+2022-MJ,4,2,5,a,Inference using normal and t-distributions,Confidence intervals,5
+2022-MJ,4,2,5,b,Inference using normal and t-distributions,One-sample t-test,4
+2022-MJ,4,2,6,,Non-parametric tests,Wilcoxon signed-rank test,10
+2022-ON,1,2,1,a,Summation of series,Standard results (MF19),2
+2022-ON,1,2,1,b,Summation of series,Method of differences,4
+2022-ON,1,2,1,c,Summation of series,Sum to infinity & convergence,1
+2022-ON,1,2,2,a,Roots of polynomial equations,Transformed equations,4
+2022-ON,1,2,2,b,Roots of polynomial equations,Symmetric functions & power sums,3
+2022-ON,1,2,2,c,Roots of polynomial equations,Symmetric functions & power sums,2
+2022-ON,1,2,3,a,Matrices,Geometric transformations,2
+2022-ON,1,2,3,b,Matrices,"Inverse, determinant & matrix algebra",2
+2022-ON,1,2,3,c,Matrices,Invariant points & lines,4
+2022-ON,1,2,3,d,Matrices,Area scale factor,2
+2022-ON,1,2,4,,Proof by induction,nth derivatives,7
+2022-ON,1,2,5,a,Polar coordinates,Sketching polar curves,3
+2022-ON,1,2,5,b,Polar coordinates,Greatest distance & tangent conditions,2
+2022-ON,1,2,5,c,Polar coordinates,Area enclosed,4
+2022-ON,1,2,5,d,Polar coordinates,Polar-Cartesian conversion,3
+2022-ON,1,2,6,a,Vectors,"Distances (point, plane, skew lines)",5
+2022-ON,1,2,6,b(i),Vectors,Equations of planes,1
+2022-ON,1,2,6,b(ii),Vectors,Equations of planes,4
+2022-ON,1,2,6,c,Vectors,Angles between lines & planes,5
+2022-ON,1,2,7,a,Rational functions and graphs,Asymptotes,3
+2022-ON,1,2,7,b,Rational functions and graphs,Stationary points & range,4
+2022-ON,1,2,7,c,Rational functions and graphs,Curve sketching,3
+2022-ON,1,2,7,d,Rational functions and graphs,Inequalities,5
+2022-ON,2,2,1,a,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,3
+2022-ON,2,2,1,b,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,2
+2022-ON,2,2,2,a,Differentiation,Implicit differentiation,3
+2022-ON,2,2,2,b,Differentiation,Implicit differentiation,4
+2022-ON,2,2,3,a,Integration,Surface area of revolution,6
+2022-ON,2,2,3,b,Differentiation,Maclaurin series,2
+2022-ON,2,2,4,,Differential equations,First order: integrating factor,9
+2022-ON,2,2,5,a,Complex numbers,nth roots & roots of unity,1
+2022-ON,2,2,5,b,Complex numbers,De Moivre: multiple angles & powers,4
+2022-ON,2,2,5,c,Complex numbers,Solving polynomials via de Moivre,5
+2022-ON,2,2,6,,Integration,"Rectangles, bounds & limits of sums",10
+2022-ON,2,2,7,a,Matrices (eigenvalues and eigenvectors),Eigenvalues & eigenvectors,2
+2022-ON,2,2,7,b,Matrices (eigenvalues and eigenvectors),Eigenvalues & eigenvectors,2
+2022-ON,2,2,7,c,Matrices (eigenvalues and eigenvectors),Eigenvalues & eigenvectors,2
+2022-ON,2,2,7,d,Matrices (eigenvalues and eigenvectors),Diagonalisation,2
+2022-ON,2,2,7,e,Matrices (eigenvalues and eigenvectors),Cayley-Hamilton (characteristic equation),4
+2022-ON,2,2,8,a,Differential equations,Substitution to reduce a DE,4
+2022-ON,2,2,8,b,Differential equations,Second order: constant coefficients,10
+2022-ON,3,2,1,,Circular motion,Leaving the surface / string slack,4
+2022-ON,3,2,2,,Equilibrium of a rigid body,"Suspension, toppling & sliding",6
+2022-ON,3,2,3,,Hooke's law,Elastic energy & motion,6
+2022-ON,3,2,4,a,Linear motion under a variable force,Force depending on velocity,6
+2022-ON,3,2,4,b,Linear motion under a variable force,Force depending on velocity,1
+2022-ON,3,2,5,a,Motion of a projectile,Equation of trajectory,4
+2022-ON,3,2,5,b,Motion of a projectile,Equation of trajectory,5
+2022-ON,3,2,6,a,Circular motion,Horizontal circles,5
+2022-ON,3,2,6,b,Circular motion,Horizontal circles,4
+2022-ON,3,2,7,a,Momentum,Oblique collisions of spheres,4
+2022-ON,3,2,7,b,Momentum,Oblique collisions of spheres,5
+2022-ON,4,2,1,,Inference using normal and t-distributions,Confidence intervals,6
+2022-ON,4,2,2,,Chi-squared tests,Contingency tables (independence),7
+2022-ON,4,2,3,,Inference using normal and t-distributions,Two-sample tests for means,8
+2022-ON,4,2,4,a,Continuous random variables,PDF & CDF,1
+2022-ON,4,2,4,b,Continuous random variables,"Median, quartiles & percentiles",5
+2022-ON,4,2,4,c,Continuous random variables,Expectation & variance,4
+2022-ON,4,2,5,a,Probability generating functions,Finding & using a PGF,2
+2022-ON,4,2,5,b,Probability generating functions,PGF of a sum of independent variables,3
+2022-ON,4,2,5,c,Probability generating functions,Mean & variance from a PGF,3
+2022-ON,4,2,5,d,Probability generating functions,Finding & using a PGF,1
+2022-ON,4,2,6,a,Non-parametric tests,Wilcoxon rank-sum test,9
+2022-ON,4,2,6,b,Non-parametric tests,Choice of test & assumptions,1
+2023-MJ,1,2,1,a,Proof by induction,Matrix powers,5
+2023-MJ,1,2,1,b,Matrices,"Inverse, determinant & matrix algebra",2
+2023-MJ,1,2,2,a,Roots of polynomial equations,Symmetric functions & power sums,2
+2023-MJ,1,2,2,b,Summation of series,Standard results (MF19),6
+2023-MJ,1,2,3,a,Summation of series,Method of differences,4
+2023-MJ,1,2,3,b,Summation of series,Sum to infinity & convergence,1
+2023-MJ,1,2,3,c,Summation of series,Method of differences,2
+2023-MJ,1,2,4,a,Matrices,Geometric transformations,2
+2023-MJ,1,2,4,b,Matrices,Invariant points & lines,5
+2023-MJ,1,2,4,c,Matrices,Geometric transformations,3
+2023-MJ,1,2,4,d,Matrices,Area scale factor,2
+2023-MJ,1,2,5,a,Polar coordinates,Sketching polar curves,3
+2023-MJ,1,2,5,b,Polar coordinates,Area enclosed,4
+2023-MJ,1,2,5,c,Polar coordinates,Greatest distance & tangent conditions,5
+2023-MJ,1,2,6,a,Rational functions and graphs,Asymptotes,3
+2023-MJ,1,2,6,b,Rational functions and graphs,Stationary points & range,3
+2023-MJ,1,2,6,c,Rational functions and graphs,Curve sketching,3
+2023-MJ,1,2,6,d,Rational functions and graphs,"Related graphs (modulus, reciprocal)",2
+2023-MJ,1,2,6,e,Rational functions and graphs,Inequalities,4
+2023-MJ,1,2,7,a,Vectors,Equations of planes,4
+2023-MJ,1,2,7,b,Vectors,"Lines & planes: intersection, parallel",4
+2023-MJ,1,2,7,c,Vectors,"Distances (point, plane, skew lines)",2
+2023-MJ,1,2,7,d,Vectors,Angles between lines & planes,4
+2023-MJ,2,2,1,a,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,2
+2023-MJ,2,2,1,b,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,3
+2023-MJ,2,2,2,,Differential equations,Substitution to reduce a DE,7
+2023-MJ,2,2,3,a,Complex numbers,De Moivre: multiple angles & powers,5
+2023-MJ,2,2,3,b,Integration,Substitution & standard integrals,3
+2023-MJ,2,2,4,a,Integration,Reduction formulae,5
+2023-MJ,2,2,4,b,Integration,Reduction formulae,4
+2023-MJ,2,2,5,a,Matrices (eigenvalues and eigenvectors),Eigenvalues & eigenvectors,4
+2023-MJ,2,2,5,b,Matrices (eigenvalues and eigenvectors),Diagonalisation,6
+2023-MJ,2,2,6,,Differential equations,Second order: constant coefficients,11
+2023-MJ,2,2,7,a,Integration,Substitution & standard integrals,3
+2023-MJ,2,2,7,b,Integration,"Rectangles, bounds & limits of sums",5
+2023-MJ,2,2,7,c,Integration,"Rectangles, bounds & limits of sums",3
+2023-MJ,2,2,8,a,Hyperbolic functions,Definitions & identities,3
+2023-MJ,2,2,8,b,Differentiation,Parametric differentiation,5
+2023-MJ,2,2,8,c,Differentiation,Parametric differentiation,6
+2023-MJ,3,2,1,a,Hooke's law,Elastic energy & motion,3
+2023-MJ,3,2,1,b,Hooke's law,Elastic energy & motion,2
+2023-MJ,3,2,2,,Momentum,Collision with a barrier,5
+2023-MJ,3,2,3,a,Circular motion,Leaving the surface / string slack,2
+2023-MJ,3,2,3,b,Circular motion,Vertical circles (energy & reaction),5
+2023-MJ,3,2,4,a,Equilibrium of a rigid body,Centre of mass of composite bodies,5
+2023-MJ,3,2,4,b,Equilibrium of a rigid body,Friction & moments,3
+2023-MJ,3,2,5,a,Circular motion,Horizontal circles,5
+2023-MJ,3,2,5,b,Circular motion,Horizontal circles,2
+2023-MJ,3,2,6,a,Linear motion under a variable force,Force depending on velocity,4
+2023-MJ,3,2,6,b,Linear motion under a variable force,Force depending on velocity,5
+2023-MJ,3,2,7,a,Motion of a projectile,"Range, height & time of flight",2
+2023-MJ,3,2,7,b,Motion of a projectile,"Range, height & time of flight",4
+2023-MJ,3,2,7,c,Motion of a projectile,Direction & speed during flight,3
+2023-MJ,4,2,1,,Inference using normal and t-distributions,Confidence intervals,4
+2023-MJ,4,2,2,,Inference using normal and t-distributions,Two-sample tests for means,8
+2023-MJ,4,2,3,a,Chi-squared tests,Goodness of fit,3
+2023-MJ,4,2,3,b,Chi-squared tests,Goodness of fit,6
+2023-MJ,4,2,4,a,Non-parametric tests,Wilcoxon signed-rank test,7
+2023-MJ,4,2,4,b,Non-parametric tests,Wilcoxon signed-rank test,2
+2023-MJ,4,2,5,a,Probability generating functions,Finding & using a PGF,3
+2023-MJ,4,2,5,b,Probability generating functions,PGF of a sum of independent variables,4
+2023-MJ,4,2,5,c,Probability generating functions,Mean & variance from a PGF,2
+2023-MJ,4,2,6,a,Continuous random variables,PDF & CDF,3
+2023-MJ,4,2,6,b,Continuous random variables,Distribution of Y = g(X),3
+2023-MJ,4,2,6,c,Continuous random variables,"Median, quartiles & percentiles",3
+2023-MJ,4,2,6,d,Continuous random variables,Expectation & variance,2
+2023-ON,1,2,1,a,Summation of series,Standard results (MF19),3
+2023-ON,1,2,1,b,Summation of series,Method of differences,5
+2023-ON,1,2,1,c,Summation of series,Sum to infinity & convergence,1
+2023-ON,1,2,2,,Proof by induction,nth derivatives,6
+2023-ON,1,2,3,a,Matrices,Geometric transformations,2
+2023-ON,1,2,3,b,Matrices,Area scale factor,3
+2023-ON,1,2,3,c,Matrices,Invariant points & lines,3
+2023-ON,1,2,4,a,Roots of polynomial equations,Transformed equations,3
+2023-ON,1,2,4,b,Roots of polynomial equations,Symmetric functions & power sums,4
+2023-ON,1,2,4,c,Roots of polynomial equations,Symmetric functions & power sums,3
+2023-ON,1,2,5,a,Vectors,Equations of planes,4
+2023-ON,1,2,5,b,Vectors,"Lines & planes: intersection, parallel",2
+2023-ON,1,2,5,c,Vectors,"Distances (point, plane, skew lines)",3
+2023-ON,1,2,5,d,Vectors,"Lines & planes: intersection, parallel",4
+2023-ON,1,2,6,a,Polar coordinates,Sketching polar curves,3
+2023-ON,1,2,6,b,Polar coordinates,Area enclosed,5
+2023-ON,1,2,6,c,Polar coordinates,Greatest distance & tangent conditions,5
+2023-ON,1,2,7,a,Rational functions and graphs,Asymptotes,3
+2023-ON,1,2,7,b,Rational functions and graphs,Stationary points & range,2
+2023-ON,1,2,7,c,Rational functions and graphs,Curve sketching,3
+2023-ON,1,2,7,d,Rational functions and graphs,"Related graphs (modulus, reciprocal)",2
+2023-ON,1,2,7,e,Rational functions and graphs,Inequalities,6
+2023-ON,2,2,1,,Differentiation,Maclaurin series,5
+2023-ON,2,2,2,a,Differentiation,Parametric differentiation,3
+2023-ON,2,2,2,b,Differentiation,Parametric differentiation,4
+2023-ON,2,2,3,a,Complex numbers,De Moivre: multiple angles & powers,4
+2023-ON,2,2,3,b,Complex numbers,Solving polynomials via de Moivre,4
+2023-ON,2,2,4,,Differential equations,First order: integrating factor,9
+2023-ON,2,2,5,a,Differentiation,Derivatives of hyperbolic & inverse functions,4
+2023-ON,2,2,5,b,Integration,"Rectangles, bounds & limits of sums",6
+2023-ON,2,2,6,a,Matrices (eigenvalues and eigenvectors),Eigenvalues & eigenvectors,1
+2023-ON,2,2,6,b,Matrices (eigenvalues and eigenvectors),Cayley-Hamilton (characteristic equation),4
+2023-ON,2,2,6,c,Matrices (eigenvalues and eigenvectors),Diagonalisation,5
+2023-ON,2,2,7,a,Hyperbolic functions,Definitions & identities,3
+2023-ON,2,2,7,b,Integration,Surface area of revolution,9
+2023-ON,2,2,8,a,Differential equations,Substitution to reduce a DE,4
+2023-ON,2,2,8,b,Differential equations,Second order: constant coefficients,10
+2023-ON,3,2,1,,Circular motion,Horizontal circles,4
+2023-ON,3,2,2,,Linear motion under a variable force,Force depending on displacement,6
+2023-ON,3,2,3,a,Equilibrium of a rigid body,Centre of mass of composite bodies,4
+2023-ON,3,2,3,b,Equilibrium of a rigid body,"Suspension, toppling & sliding",3
+2023-ON,3,2,4,a,Momentum,Oblique collisions of spheres,4
+2023-ON,3,2,4,b,Momentum,Oblique collisions of spheres,3
+2023-ON,3,2,5,a,Circular motion,Vertical circles (energy & reaction),6
+2023-ON,3,2,5,b,Circular motion,Vertical circles (energy & reaction),2
+2023-ON,3,2,6,a,Motion of a projectile,Equation of trajectory,3
+2023-ON,3,2,6,b,Motion of a projectile,Equation of trajectory,6
+2023-ON,3,2,7,a,Hooke's law,Elastic energy & motion,5
+2023-ON,3,2,7,b,Hooke's law,Equilibrium with elastic forces,2
+2023-ON,3,2,7,c,Hooke's law,Equilibrium with elastic forces,2
+2023-ON,4,2,1,,Inference using normal and t-distributions,Confidence intervals,6
+2023-ON,4,2,2,a,Chi-squared tests,Goodness of fit,2
+2023-ON,4,2,2,b,Chi-squared tests,Goodness of fit,6
+2023-ON,4,2,3,a,Probability generating functions,Finding & using a PGF,3
+2023-ON,4,2,3,b,Probability generating functions,PGF of a sum of independent variables,3
+2023-ON,4,2,3,c,Probability generating functions,Mean & variance from a PGF,4
+2023-ON,4,2,4,a,Continuous random variables,PDF & CDF,4
+2023-ON,4,2,4,b,Continuous random variables,"Median, quartiles & percentiles",3
+2023-ON,4,2,4,c,Continuous random variables,Expectation & variance,3
+2023-ON,4,2,5,a,Non-parametric tests,Wilcoxon rank-sum test,6
+2023-ON,4,2,5,b,Inference using normal and t-distributions,Two-sample tests for means,9
+2023-ON,4,2,5,c,Non-parametric tests,Choice of test & assumptions,1
+2024-MJ,1,2,1,a,Roots of polynomial equations,Symmetric functions & power sums,1
+2024-MJ,1,2,1,b,Roots of polynomial equations,Symmetric functions & power sums,2
+2024-MJ,1,2,1,c,Roots of polynomial equations,Transformed equations,1
+2024-MJ,1,2,1,d,Roots of polynomial equations,Symmetric functions & power sums,2
+2024-MJ,1,2,2,,Proof by induction,Divisibility,6
+2024-MJ,1,2,3,a,Summation of series,Standard results (MF19),3
+2024-MJ,1,2,3,b,Summation of series,Method of differences,4
+2024-MJ,1,2,3,c,Summation of series,Sum to infinity & convergence,1
+2024-MJ,1,2,4,a,Matrices,Geometric transformations,4
+2024-MJ,1,2,4,b,Matrices,"Inverse, determinant & matrix algebra",2
+2024-MJ,1,2,4,c,Matrices,Invariant points & lines,5
+2024-MJ,1,2,4,d,Matrices,Area scale factor,2
+2024-MJ,1,2,5,a,Vectors,Equations of planes,5
+2024-MJ,1,2,5,b,Vectors,"Distances (point, plane, skew lines)",2
+2024-MJ,1,2,5,c,Vectors,"Distances (point, plane, skew lines)",5
+2024-MJ,1,2,6,a,Rational functions and graphs,Asymptotes,3
+2024-MJ,1,2,6,b,Rational functions and graphs,Stationary points & range,4
+2024-MJ,1,2,6,c,Rational functions and graphs,Curve sketching,3
+2024-MJ,1,2,6,d(i),Rational functions and graphs,"Related graphs (modulus, reciprocal)",2
+2024-MJ,1,2,6,d(ii),Rational functions and graphs,"Related graphs (modulus, reciprocal)",1
+2024-MJ,1,2,6,d(iii),Rational functions and graphs,Inequalities,2
+2024-MJ,1,2,7,a,Polar coordinates,Sketching polar curves,3
+2024-MJ,1,2,7,b,Polar coordinates,Area enclosed,7
+2024-MJ,1,2,7,c,Polar coordinates,Greatest distance & tangent conditions,5
+2024-MJ,2,2,1,,Complex numbers,nth roots & roots of unity,5
+2024-MJ,2,2,2,,Differentiation,Maclaurin series,4
+2024-MJ,2,2,3,a,Differentiation,Parametric differentiation,3
+2024-MJ,2,2,3,b,Differentiation,Parametric differentiation,4
+2024-MJ,2,2,4,a,Integration,Reduction formulae,5
+2024-MJ,2,2,4,b,Integration,Reduction formulae,3
+2024-MJ,2,2,5,a,Integration,"Rectangles, bounds & limits of sums",5
+2024-MJ,2,2,5,b,Integration,"Rectangles, bounds & limits of sums",4
+2024-MJ,2,2,5,c,Integration,"Rectangles, bounds & limits of sums",2
+2024-MJ,2,2,6,a,Hyperbolic functions,Definitions & identities,2
+2024-MJ,2,2,6,b,Differential equations,Second order: constant coefficients,10
+2024-MJ,2,2,7,a,Integration,Substitution & standard integrals,2
+2024-MJ,2,2,7,b,Differential equations,First order: integrating factor,10
+2024-MJ,2,2,8,a,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,2
+2024-MJ,2,2,8,b,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,3
+2024-MJ,2,2,8,c,Matrices (eigenvalues and eigenvectors),Diagonalisation,7
+2024-MJ,2,2,8,d,Matrices (eigenvalues and eigenvectors),Cayley-Hamilton (characteristic equation),4
+2024-MJ,3,2,1,,Momentum,Oblique collisions of spheres,6
+2024-MJ,3,2,2,a,Hooke's law,Equilibrium with elastic forces,3
+2024-MJ,3,2,2,b,Hooke's law,Elastic energy & motion,4
+2024-MJ,3,2,3,,Motion of a projectile,Direction & speed during flight,5
+2024-MJ,3,2,4,a,Equilibrium of a rigid body,Friction & moments,4
+2024-MJ,3,2,4,b,Equilibrium of a rigid body,Friction & moments,3
+2024-MJ,3,2,5,a,Circular motion,Horizontal circles,4
+2024-MJ,3,2,5,b,Circular motion,Horizontal circles,3
+2024-MJ,3,2,6,a,Linear motion under a variable force,Force depending on time,5
+2024-MJ,3,2,6,b,Linear motion under a variable force,Force depending on time,4
+2024-MJ,3,2,7,a,Circular motion,Leaving the surface / string slack,4
+2024-MJ,3,2,7,b,Motion of a projectile,Direction & speed during flight,3
+2024-MJ,3,2,7,c,Motion of a projectile,"Range, height & time of flight",2
+2024-MJ,4,2,1,,Inference using normal and t-distributions,Confidence intervals,4
+2024-MJ,4,2,2,,Non-parametric tests,Sign test,5
+2024-MJ,4,2,3,a,Non-parametric tests,Wilcoxon signed-rank test,7
+2024-MJ,4,2,3,b,Non-parametric tests,Choice of test & assumptions,1
+2024-MJ,4,2,4,a,Probability generating functions,Mean & variance from a PGF,3
+2024-MJ,4,2,4,b,Probability generating functions,PGF of a sum of independent variables,1
+2024-MJ,4,2,4,c,Probability generating functions,Finding & using a PGF,3
+2024-MJ,4,2,5,a,Chi-squared tests,Contingency tables (independence),7
+2024-MJ,4,2,5,b,Chi-squared tests,Contingency tables (independence),1
+2024-MJ,4,2,6,a,Inference using normal and t-distributions,Paired-sample t-test,7
+2024-MJ,4,2,6,b,Inference using normal and t-distributions,Paired-sample t-test,1
+2024-MJ,4,2,7,a,Continuous random variables,Expectation & variance,4
+2024-MJ,4,2,7,b,Continuous random variables,Distribution of Y = g(X),4
+2024-MJ,4,2,7,c,Continuous random variables,Distribution of Y = g(X),2
+2024-ON,1,2,1,,Proof by induction,Sequences & inequalities,5
+2024-ON,1,2,2,a,Vectors,Equations of planes,4
+2024-ON,1,2,2,b,Vectors,Angles between lines & planes,3
+2024-ON,1,2,3,a,Roots of polynomial equations,Symmetric functions & power sums,2
+2024-ON,1,2,3,b,Roots of polynomial equations,Symmetric functions & power sums,3
+2024-ON,1,2,3,c(i),Roots of polynomial equations,Symmetric functions & power sums,3
+2024-ON,1,2,3,c(ii),Roots of polynomial equations,Symmetric functions & power sums,2
+2024-ON,1,2,4,a,Matrices,"Inverse, determinant & matrix algebra",3
+2024-ON,1,2,4,b,Matrices,Invariant points & lines,5
+2024-ON,1,2,4,c,Matrices,Geometric transformations,2
+2024-ON,1,2,4,d,Matrices,"Inverse, determinant & matrix algebra",3
+2024-ON,1,2,5,a,Summation of series,Method of differences,2
+2024-ON,1,2,5,b,Summation of series,Sum to infinity & convergence,3
+2024-ON,1,2,5,c,Summation of series,Standard results (MF19),4
+2024-ON,1,2,6,a,Rational functions and graphs,Asymptotes,2
+2024-ON,1,2,6,b,Rational functions and graphs,Stationary points & range,4
+2024-ON,1,2,6,c,Rational functions and graphs,Stationary points & range,2
+2024-ON,1,2,6,d,Rational functions and graphs,Curve sketching,3
+2024-ON,1,2,6,e,Rational functions and graphs,Inequalities,4
+2024-ON,1,2,7,a,Polar coordinates,Polar-Cartesian conversion,4
+2024-ON,1,2,7,b,Polar coordinates,Sketching polar curves,3
+2024-ON,1,2,7,c,Polar coordinates,Greatest distance & tangent conditions,2
+2024-ON,1,2,7,d,Polar coordinates,Area enclosed,7
+2024-ON,2,2,1,,Integration,Substitution & standard integrals,4
+2024-ON,2,2,2,a,Differentiation,Implicit differentiation,3
+2024-ON,2,2,2,b,Differentiation,Implicit differentiation,4
+2024-ON,2,2,3,,Integration,Arc length,7
+2024-ON,2,2,4,a,Complex numbers,De Moivre: multiple angles & powers,6
+2024-ON,2,2,4,b,Complex numbers,Solving polynomials via de Moivre,4
+2024-ON,2,2,5,,Differential equations,Second order: constant coefficients,10
+2024-ON,2,2,6,a,Integration,"Rectangles, bounds & limits of sums",4
+2024-ON,2,2,6,b,Integration,"Rectangles, bounds & limits of sums",4
+2024-ON,2,2,6,c,Integration,"Rectangles, bounds & limits of sums",2
+2024-ON,2,2,6,d,Differentiation,Maclaurin series,3
+2024-ON,2,2,7,a,Differentiation,Derivatives of hyperbolic & inverse functions,3
+2024-ON,2,2,7,b,Differential equations,First order: integrating factor,7
+2024-ON,2,2,8,a,Matrices (eigenvalues and eigenvectors),Eigenvalues & eigenvectors,4
+2024-ON,2,2,8,b,Matrices (eigenvalues and eigenvectors),Cayley-Hamilton (characteristic equation),4
+2024-ON,2,2,8,c,Matrices (eigenvalues and eigenvectors),Diagonalisation,6
+2024-ON,3,2,1,,Circular motion,Horizontal circles,3
+2024-ON,3,2,2,,Hooke's law,Elastic energy & motion,4
+2024-ON,3,2,3,a,Momentum,Oblique collisions of spheres,3
+2024-ON,3,2,3,b,Momentum,Oblique collisions of spheres,2
+2024-ON,3,2,3,c,Momentum,Oblique collisions of spheres,2
+2024-ON,3,2,4,a,Equilibrium of a rigid body,Friction & moments,5
+2024-ON,3,2,4,b,Equilibrium of a rigid body,Friction & moments,2
+2024-ON,3,2,5,a,Motion of a projectile,Equation of trajectory,2
+2024-ON,3,2,5,b,Motion of a projectile,Two projectiles,6
+2024-ON,3,2,6,a,Circular motion,Leaving the surface / string slack,6
+2024-ON,3,2,6,b,Circular motion,Vertical circles (energy & reaction),4
+2024-ON,3,2,7,a,Linear motion under a variable force,Force depending on velocity,6
+2024-ON,3,2,7,b,Linear motion under a variable force,Force depending on velocity,5
+2024-ON,4,2,1,,Inference using normal and t-distributions,Confidence intervals,4
+2024-ON,4,2,2,a,Probability generating functions,Mean & variance from a PGF,4
+2024-ON,4,2,2,b,Probability generating functions,PGF of a sum of independent variables,2
+2024-ON,4,2,2,c,Probability generating functions,Finding & using a PGF,1
+2024-ON,4,2,2,d,Probability generating functions,Finding & using a PGF,1
+2024-ON,4,2,3,a,Chi-squared tests,Goodness of fit,1
+2024-ON,4,2,3,b,Chi-squared tests,Goodness of fit,9
+2024-ON,4,2,4,a,Continuous random variables,PDF & CDF,3
+2024-ON,4,2,4,b,Continuous random variables,Distribution of Y = g(X),3
+2024-ON,4,2,4,c,Continuous random variables,Distribution of Y = g(X),2
+2024-ON,4,2,4,d,Continuous random variables,Expectation & variance,2
+2024-ON,4,2,5,,Inference using normal and t-distributions,Two-sample tests for means,9
+2024-ON,4,2,6,,Non-parametric tests,Wilcoxon signed-rank test,9
+2025-MJ,1,2,1,a,Summation of series,Standard results (MF19),3
+2025-MJ,1,2,1,b,Summation of series,Method of differences,4
+2025-MJ,1,2,1,c,Summation of series,Sum to infinity & convergence,1
+2025-MJ,1,2,2,a,Roots of polynomial equations,Transformed equations,3
+2025-MJ,1,2,2,b,Roots of polynomial equations,Symmetric functions & power sums,2
+2025-MJ,1,2,2,c,Roots of polynomial equations,Symmetric functions & power sums,2
+2025-MJ,1,2,3,a,Proof by induction,Sequences & inequalities,5
+2025-MJ,1,2,3,b,Proof by induction,Sequences & inequalities,2
+2025-MJ,1,2,4,a,Matrices,Geometric transformations,2
+2025-MJ,1,2,4,b,Matrices,Invariant points & lines,7
+2025-MJ,1,2,5,a,Polar coordinates,Sketching polar curves,2
+2025-MJ,1,2,5,b,Polar coordinates,Area enclosed,6
+2025-MJ,1,2,5,c,Polar coordinates,Greatest distance & tangent conditions,5
+2025-MJ,1,2,6,a,Vectors,Equations of planes,5
+2025-MJ,1,2,6,b,Vectors,Angles between lines & planes,4
+2025-MJ,1,2,6,c,Vectors,"Distances (point, plane, skew lines)",7
+2025-MJ,1,2,7,a,Rational functions and graphs,Asymptotes,2
+2025-MJ,1,2,7,b,Rational functions and graphs,Stationary points & range,4
+2025-MJ,1,2,7,c,Rational functions and graphs,Curve sketching,3
+2025-MJ,1,2,7,d,Rational functions and graphs,"Related graphs (modulus, reciprocal)",1
+2025-MJ,1,2,7,e,Rational functions and graphs,Inequalities,5
+2025-MJ,2,2,1,,Complex numbers,nth roots & roots of unity,5
+2025-MJ,2,2,2,a,Integration,Reduction formulae,4
+2025-MJ,2,2,2,b,Integration,Reduction formulae,3
+2025-MJ,2,2,3,,Complex numbers,De Moivre: multiple angles & powers,6
+2025-MJ,2,2,4,a,Integration,"Rectangles, bounds & limits of sums",5
+2025-MJ,2,2,4,b,Integration,"Rectangles, bounds & limits of sums",4
+2025-MJ,2,2,5,,Differential equations,Second order: constant coefficients,10
+2025-MJ,2,2,6,a,Hyperbolic functions,Definitions & identities,3
+2025-MJ,2,2,6,b,Differentiation,Derivatives of hyperbolic & inverse functions,4
+2025-MJ,2,2,6,c,Differentiation,Parametric differentiation,4
+2025-MJ,2,2,6,d,Differentiation,Parametric differentiation,4
+2025-MJ,2,2,7,,Differential equations,First order: integrating factor,10
+2025-MJ,2,2,8,a,Matrices (eigenvalues and eigenvectors),Eigenvalues & eigenvectors,2
+2025-MJ,2,2,8,b,Matrices (eigenvalues and eigenvectors),Eigenvalues & eigenvectors,2
+2025-MJ,2,2,8,c,Matrices (eigenvalues and eigenvectors),Diagonalisation,6
+2025-MJ,2,2,8,d,Matrices (eigenvalues and eigenvectors),Cayley-Hamilton (characteristic equation),3
+2025-MJ,3,2,1,a,Linear motion under a variable force,Force depending on displacement,3
+2025-MJ,3,2,1,b,Linear motion under a variable force,Force depending on displacement,2
+2025-MJ,3,2,2,a,Motion of a projectile,Equation of trajectory,4
+2025-MJ,3,2,2,b,Motion of a projectile,"Range, height & time of flight",2
+2025-MJ,3,2,3,a,Circular motion,Horizontal circles,2
+2025-MJ,3,2,3,b,Circular motion,Horizontal circles,5
+2025-MJ,3,2,4,a,Equilibrium of a rigid body,Centre of mass of composite bodies,4
+2025-MJ,3,2,4,b,Equilibrium of a rigid body,"Suspension, toppling & sliding",3
+2025-MJ,3,2,5,,Hooke's law,Elastic energy & motion,6
+2025-MJ,3,2,6,a,Momentum,Direct collisions & energy,3
+2025-MJ,3,2,6,b,Momentum,Collision with a barrier,6
+2025-MJ,3,2,7,a,Circular motion,Vertical circles (energy & reaction),5
+2025-MJ,3,2,7,b,Circular motion,Vertical circles (energy & reaction),1
+2025-MJ,3,2,7,c,Circular motion,Vertical circles (energy & reaction),4
+2025-MJ,4,2,1,,Inference using normal and t-distributions,Two-sample tests for means,7
+2025-MJ,4,2,2,a,Continuous random variables,PDF & CDF,3
+2025-MJ,4,2,2,b,Continuous random variables,Expectation & variance,3
+2025-MJ,4,2,2,c,Continuous random variables,"Median, quartiles & percentiles",2
+2025-MJ,4,2,2,d,Continuous random variables,Distribution of Y = g(X),4
+2025-MJ,4,2,3,a,Chi-squared tests,Goodness of fit,1
+2025-MJ,4,2,3,b,Chi-squared tests,Goodness of fit,1
+2025-MJ,4,2,3,c,Chi-squared tests,Goodness of fit,5
+2025-MJ,4,2,3,d,Chi-squared tests,Goodness of fit,1
+2025-MJ,4,2,4,a,Inference using normal and t-distributions,Confidence intervals,6
+2025-MJ,4,2,4,b,Inference using normal and t-distributions,Confidence intervals,1
+2025-MJ,4,2,5,a,Non-parametric tests,Wilcoxon signed-rank test,6
+2025-MJ,4,2,5,b,Non-parametric tests,Sign test,3
+2025-MJ,4,2,5,c,Non-parametric tests,Choice of test & assumptions,1
+2025-MJ,4,2,6,a,Probability generating functions,Finding & using a PGF,1
+2025-MJ,4,2,6,b,Probability generating functions,Finding & using a PGF,3
+2025-MJ,4,2,6,c,Probability generating functions,Mean & variance from a PGF,2
+2025-ON,1,2,1,a,Summation of series,Standard results (MF19),3
+2025-ON,1,2,1,b,Summation of series,Method of differences,5
+2025-ON,1,2,1,c,Summation of series,Sum to infinity & convergence,1
+2025-ON,1,2,2,a,Roots of polynomial equations,Symmetric functions & power sums,3
+2025-ON,1,2,2,b,Roots of polynomial equations,Symmetric functions & power sums,5
+2025-ON,1,2,3,a,Proof by induction,Sequences & inequalities,5
+2025-ON,1,2,3,b,Proof by induction,Sequences & inequalities,3
+2025-ON,1,2,4,a(i),Matrices,Geometric transformations,2
+2025-ON,1,2,4,a(ii),Matrices,Geometric transformations,2
+2025-ON,1,2,4,b,Matrices,"Inverse, determinant & matrix algebra",6
+2025-ON,1,2,5,a,Polar coordinates,Sketching polar curves,2
+2025-ON,1,2,5,b,Polar coordinates,Area enclosed,4
+2025-ON,1,2,5,c,Polar coordinates,Polar-Cartesian conversion,4
+2025-ON,1,2,5,d,Polar coordinates,Area enclosed,2
+2025-ON,1,2,6,a,Vectors,"Distances (point, plane, skew lines)",2
+2025-ON,1,2,6,b,Vectors,Angles between lines & planes,4
+2025-ON,1,2,6,c,Vectors,"Distances (point, plane, skew lines)",8
+2025-ON,1,2,7,a,Rational functions and graphs,Asymptotes,3
+2025-ON,1,2,7,b,Rational functions and graphs,Stationary points & range,3
+2025-ON,1,2,7,c,Rational functions and graphs,Curve sketching,3
+2025-ON,1,2,7,d,Rational functions and graphs,"Related graphs (modulus, reciprocal)",2
+2025-ON,1,2,7,e,Rational functions and graphs,Inequalities,3
+2025-ON,2,2,1,,Integration,Arc length,4
+2025-ON,2,2,2,,Complex numbers,nth roots & roots of unity,5
+2025-ON,2,2,3,a,Differentiation,Implicit differentiation,3
+2025-ON,2,2,3,b,Differentiation,Implicit differentiation,6
+2025-ON,2,2,4,a,Complex numbers,De Moivre: multiple angles & powers,5
+2025-ON,2,2,4,b,Integration,Substitution & standard integrals,3
+2025-ON,2,2,5,a,Differential equations,Second order: constant coefficients,7
+2025-ON,2,2,5,b,Differential equations,Long-term behaviour,3
+2025-ON,2,2,6,a,Integration,Substitution & standard integrals,3
+2025-ON,2,2,6,b,Integration,"Rectangles, bounds & limits of sums",5
+2025-ON,2,2,6,c,Integration,"Rectangles, bounds & limits of sums",4
+2025-ON,2,2,6,d,Integration,"Rectangles, bounds & limits of sums",1
+2025-ON,2,2,7,a,Differentiation,Derivatives of hyperbolic & inverse functions,3
+2025-ON,2,2,7,b,Differential equations,First order: integrating factor,8
+2025-ON,2,2,8,a,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,3
+2025-ON,2,2,8,b,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,3
+2025-ON,2,2,8,c,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,4
+2025-ON,2,2,8,d,Matrices (eigenvalues and eigenvectors),Cayley-Hamilton (characteristic equation),5
+2025-ON,3,2,1,,Circular motion,Horizontal circles,4
+2025-ON,3,2,2,a,Hooke's law,Elastic energy & motion,3
+2025-ON,3,2,2,b,Hooke's law,Elastic energy & motion,3
+2025-ON,3,2,3,a,Equilibrium of a rigid body,Centre of mass of composite bodies,4
+2025-ON,3,2,3,b,Equilibrium of a rigid body,"Suspension, toppling & sliding",2
+2025-ON,3,2,4,a,Motion of a projectile,Two projectiles,4
+2025-ON,3,2,4,b,Motion of a projectile,Two projectiles,3
+2025-ON,3,2,5,a,Momentum,Oblique collisions of spheres,2
+2025-ON,3,2,5,b,Momentum,Oblique collisions of spheres,4
+2025-ON,3,2,5,c,Momentum,Oblique collisions of spheres,3
+2025-ON,3,2,6,,Circular motion,Leaving the surface / string slack,8
+2025-ON,3,2,7,a,Linear motion under a variable force,Force depending on velocity,4
+2025-ON,3,2,7,b,Linear motion under a variable force,Force depending on velocity,4
+2025-ON,3,2,7,c,Linear motion under a variable force,Force depending on velocity,2
+2025-ON,4,2,1,a,Non-parametric tests,Choice of test & assumptions,1
+2025-ON,4,2,1,b,Non-parametric tests,Sign test,5
+2025-ON,4,2,2,a,Inference using normal and t-distributions,Confidence intervals,4
+2025-ON,4,2,2,b,Inference using normal and t-distributions,One-sample t-test,3
+2025-ON,4,2,3,a,Chi-squared tests,Goodness of fit,2
+2025-ON,4,2,3,b,Chi-squared tests,Goodness of fit,6
+2025-ON,4,2,4,a,Continuous random variables,PDF & CDF,2
+2025-ON,4,2,4,b,Continuous random variables,PDF & CDF,2
+2025-ON,4,2,4,c,Continuous random variables,Expectation & variance,3
+2025-ON,4,2,4,d,Continuous random variables,"Median, quartiles & percentiles",3
+2025-ON,4,2,5,,Inference using normal and t-distributions,Two-sample tests for means,9
+2025-ON,4,2,6,a,Probability generating functions,Mean & variance from a PGF,5
+2025-ON,4,2,6,b,Probability generating functions,PGF of a sum of independent variables,5
+2026-MJ,1,2,1,a,Summation of series,Standard results (MF19),3
+2026-MJ,1,2,1,b,Summation of series,Method of differences,4
+2026-MJ,1,2,1,c,Summation of series,Sum to infinity & convergence,1
+2026-MJ,1,2,2,,Proof by induction,Divisibility,6
+2026-MJ,1,2,3,a,Matrices,Geometric transformations,4
+2026-MJ,1,2,3,b,Matrices,Invariant points & lines,3
+2026-MJ,1,2,3,c,Matrices,Area scale factor,2
+2026-MJ,1,2,4,a,Roots of polynomial equations,Transformed equations,3
+2026-MJ,1,2,4,b,Roots of polynomial equations,Symmetric functions & power sums,3
+2026-MJ,1,2,4,c,Roots of polynomial equations,Symmetric functions & power sums,4
+2026-MJ,1,2,5,a,Vectors,"Distances (point, plane, skew lines)",5
+2026-MJ,1,2,5,b,Vectors,Angles between lines & planes,6
+2026-MJ,1,2,6,a,Rational functions and graphs,Asymptotes,3
+2026-MJ,1,2,6,b,Rational functions and graphs,Stationary points & range,3
+2026-MJ,1,2,6,c,Rational functions and graphs,Curve sketching,3
+2026-MJ,1,2,6,d,Rational functions and graphs,"Related graphs (modulus, reciprocal)",1
+2026-MJ,1,2,6,e,Rational functions and graphs,Inequalities,4
+2026-MJ,1,2,7,a,Polar coordinates,Greatest distance & tangent conditions,6
+2026-MJ,1,2,7,b,Polar coordinates,Sketching polar curves,2
+2026-MJ,1,2,7,c,Polar coordinates,Area enclosed,9
+2026-MJ,2,2,1,,Differentiation,Maclaurin series,5
+2026-MJ,2,2,2,a,Integration,Reduction formulae,4
+2026-MJ,2,2,2,b,Integration,Reduction formulae,3
+2026-MJ,2,2,3,a,Integration,Substitution & standard integrals,4
+2026-MJ,2,2,3,b,Differential equations,First order: integrating factor,7
+2026-MJ,2,2,4,a,Differentiation,Implicit differentiation,3
+2026-MJ,2,2,4,b,Differentiation,Implicit differentiation,5
+2026-MJ,2,2,5,a,Integration,"Rectangles, bounds & limits of sums",4
+2026-MJ,2,2,5,b,Integration,"Rectangles, bounds & limits of sums",4
+2026-MJ,2,2,5,c,Integration,"Rectangles, bounds & limits of sums",2
+2026-MJ,2,2,6,,Differential equations,Second order: constant coefficients,10
+2026-MJ,2,2,7,a,Complex numbers,Summing series with complex numbers,1
+2026-MJ,2,2,7,b,Complex numbers,nth roots & roots of unity,2
+2026-MJ,2,2,7,c,Complex numbers,Summing series with complex numbers,7
+2026-MJ,2,2,8,a,Matrices (eigenvalues and eigenvectors),Systems of equations & geometric meaning,3
+2026-MJ,2,2,8,b,Matrices (eigenvalues and eigenvectors),Cayley-Hamilton (characteristic equation),4
+2026-MJ,2,2,8,c,Matrices (eigenvalues and eigenvectors),Diagonalisation,7
+2026-MJ,3,2,1,a,Equilibrium of a rigid body,Centre of mass of composite bodies,4
+2026-MJ,3,2,1,b,Equilibrium of a rigid body,"Suspension, toppling & sliding",3
+2026-MJ,3,2,2,,Circular motion,Horizontal circles,5
+2026-MJ,3,2,3,a,Linear motion under a variable force,Force depending on velocity,5
+2026-MJ,3,2,3,b,Linear motion under a variable force,Force depending on velocity,4
+2026-MJ,3,2,4,a,Momentum,Collision with a barrier,4
+2026-MJ,3,2,4,b,Momentum,Collision with a barrier,4
+2026-MJ,3,2,5,a,Circular motion,Vertical circles (energy & reaction),4
+2026-MJ,3,2,5,b,Circular motion,Leaving the surface / string slack,5
+2026-MJ,3,2,6,a,Hooke's law,Elastic energy & motion,3
+2026-MJ,3,2,6,b,Hooke's law,Elastic energy & motion,1
+2026-MJ,3,2,6,c,Hooke's law,Elastic energy & motion,2
+2026-MJ,3,2,7,,Motion of a projectile,Direction & speed during flight,6
+2026-MJ,4,2,1,a,Non-parametric tests,Choice of test & assumptions,1
+2026-MJ,4,2,1,b,Non-parametric tests,Sign test,6
+2026-MJ,4,2,2,a,Chi-squared tests,Contingency tables (independence),8
+2026-MJ,4,2,2,b,Chi-squared tests,Contingency tables (independence),2
+2026-MJ,4,2,3,,Inference using normal and t-distributions,Confidence intervals,6
+2026-MJ,4,2,4,a,Continuous random variables,"Median, quartiles & percentiles",1
+2026-MJ,4,2,4,b,Continuous random variables,PDF & CDF,3
+2026-MJ,4,2,4,c,Continuous random variables,PDF & CDF,2
+2026-MJ,4,2,4,d,Continuous random variables,Expectation & variance,3
+2026-MJ,4,2,5,a,Inference using normal and t-distributions,Paired-sample t-test,7
+2026-MJ,4,2,5,b,Inference using normal and t-distributions,Paired-sample t-test,1
+2026-MJ,4,2,6,a,Probability generating functions,Finding & using a PGF,5
+2026-MJ,4,2,6,b,Probability generating functions,Mean & variance from a PGF,2
+2026-MJ,4,2,6,c,Probability generating functions,PGF of a sum of independent variables,3

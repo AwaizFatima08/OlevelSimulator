@@ -1,0 +1,303 @@
+session,paper,variant,question,part,topic,subtopic,marks
+2022-MJ,1,2,1,a,Human resource management,Motivation and payment methods,2
+2022-MJ,1,2,1,b,Human resource management,Motivation and payment methods,3
+2022-MJ,1,2,2,a,Business and its environment,Business structure and legal forms,2
+2022-MJ,1,2,2,b,Business and its environment,Business structure and legal forms,3
+2022-MJ,1,2,3,,Finance and accounting,Need for finance and sources of finance,5
+2022-MJ,1,2,4,a,Marketing,Elasticity and sales forecasting,2
+2022-MJ,1,2,4,b,Marketing,Elasticity and sales forecasting,3
+2022-MJ,1,2,5,a,Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",2.6667
+2022-MJ,1,2,5,b,Operations management,Inventory and supply chain management,4
+2022-MJ,1,2,6,,Human resource management,Management and leadership,6.6667
+2022-MJ,1,2,7,a,Marketing,Promotion and distribution,2.6667
+2022-MJ,1,2,7,b,Marketing,Market research,4
+2022-MJ,2,2,1,a(i),Operations management,Production methods and automation,2
+2022-MJ,2,2,1,a(ii),Business and its environment,Business structure and legal forms,3
+2022-MJ,2,2,1,b(i),Finance and accounting,"Costs, contribution and break-even",4
+2022-MJ,2,2,1,b(ii),Finance and accounting,"Costs, contribution and break-even",2
+2022-MJ,2,2,1,c,Business and its environment,Stakeholders,8
+2022-MJ,2,2,1,d,Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",11
+2022-MJ,2,2,2,a(i),Human resource management,"Recruitment, selection, training and dismissal",2
+2022-MJ,2,2,2,a(ii),Business and its environment,Size of business and growth,3
+2022-MJ,2,2,2,b(i),Finance and accounting,"Costs, contribution and break-even",2
+2022-MJ,2,2,2,b(ii),Finance and accounting,"Costs, contribution and break-even",4
+2022-MJ,2,2,2,c,Human resource management,Management and leadership,8
+2022-MJ,2,2,2,d,Operations management,Operations process and added value,11
+2022-MJ,3,2,1,,Operations management,Lean production and quality,10
+2022-MJ,3,2,2,a(i),Marketing,Elasticity and sales forecasting,2
+2022-MJ,3,2,2,a(ii),Marketing,Elasticity and sales forecasting,5
+2022-MJ,3,2,2,b,Marketing,Elasticity and sales forecasting,12
+2022-MJ,3,2,3,,Business and its environment,"Ethics, CSR and sustainability",16
+2022-MJ,3,2,4,a(i),Finance and accounting,Ratio analysis,3
+2022-MJ,3,2,4,a(ii),Finance and accounting,Ratio analysis,2
+2022-MJ,3,2,4,a(iii),Finance and accounting,Ratio analysis,2
+2022-MJ,3,2,4,b,Finance and accounting,Ratio analysis,12
+2022-MJ,3,2,5,,Human resource management,Organisational structure,16
+2022-MJ,3,2,6,,Strategic management,"Strategic analysis (PEST, SWOT)",10
+2022-MJ,3,2,7,,Strategic management,"Strategic choice (Ansoff, decision trees, force field)",10
+2022-ON,1,2,1,a,Human resource management,Motivation and payment methods,2
+2022-ON,1,2,1,b,Human resource management,Motivation and payment methods,3
+2022-ON,1,2,2,a,Business and its environment,"Ethics, CSR and sustainability",2
+2022-ON,1,2,2,b,Business and its environment,"Ethics, CSR and sustainability",3
+2022-ON,1,2,3,,Finance and accounting,Financial statements and profitability,5
+2022-ON,1,2,4,a,Operations management,Location and scale,2
+2022-ON,1,2,4,b,Operations management,Location and scale,3
+2022-ON,1,2,5,a,Marketing,Market segmentation,2.6667
+2022-ON,1,2,5,b,Marketing,Marketing objectives and strategy,4
+2022-ON,1,2,6,,Human resource management,Management and leadership,6.6667
+2022-ON,1,2,7,a,Operations management,Production methods and automation,2.6667
+2022-ON,1,2,7,b,Finance and accounting,Financial statements and profitability,4
+2022-ON,2,2,1,a(i),Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",2
+2022-ON,2,2,1,a(ii),Business and its environment,Business structure and legal forms,3
+2022-ON,2,2,1,b(i),Finance and accounting,Ratio analysis,3
+2022-ON,2,2,1,b(ii),Finance and accounting,Ratio analysis,3
+2022-ON,2,2,1,c,Operations management,Operations process and added value,8
+2022-ON,2,2,1,d,Marketing,Market research,11
+2022-ON,2,2,2,a(i),Operations management,Inventory and supply chain management,2
+2022-ON,2,2,2,a(ii),Business and its environment,Enterprise and business plans,3
+2022-ON,2,2,2,b(i),Finance and accounting,Cash flow and working capital,3
+2022-ON,2,2,2,b(ii),Finance and accounting,Need for finance and sources of finance,3
+2022-ON,2,2,2,c,Finance and accounting,Need for finance and sources of finance,8
+2022-ON,2,2,2,d,Human resource management,"Recruitment, selection, training and dismissal",11
+2022-ON,3,2,1,,Business and its environment,Size of business and growth,10
+2022-ON,3,2,2,a,Finance and accounting,"Costs, contribution and break-even",5
+2022-ON,3,2,2,b,Finance and accounting,"Costs, contribution and break-even",12
+2022-ON,3,2,3,,Human resource management,Workforce planning and labour data,16
+2022-ON,3,2,4,a,Finance and accounting,Investment appraisal,3
+2022-ON,3,2,4,b(i),Finance and accounting,Ratio analysis,3
+2022-ON,3,2,4,b(ii),Finance and accounting,Ratio analysis,3
+2022-ON,3,2,4,c,Operations management,"Operations planning (ERP, CPA)",12
+2022-ON,3,2,5,,Marketing,Marketing objectives and strategy,16
+2022-ON,3,2,6,,Strategic management,"Strategic choice (Ansoff, decision trees, force field)",10
+2022-ON,3,2,7,,Strategic management,"Strategic implementation (culture, change, contingency, corporate plans)",10
+2023-MJ,1,2,1,a,Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",2
+2023-MJ,1,2,1,b,Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",3
+2023-MJ,1,2,2,a,Business and its environment,Enterprise and business plans,2
+2023-MJ,1,2,2,b,Operations management,Operations process and added value,3
+2023-MJ,1,2,3,a,Human resource management,"Diversity, equality and welfare",2
+2023-MJ,1,2,3,b,Human resource management,"Diversity, equality and welfare",3
+2023-MJ,1,2,4,,Business and its environment,Stakeholders,5
+2023-MJ,1,2,5,a,Finance and accounting,Need for finance and sources of finance,4
+2023-MJ,1,2,5,b,Finance and accounting,Cash flow and working capital,6
+2023-MJ,1,2,6,a,Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",4
+2023-MJ,1,2,6,b,Marketing,Marketing objectives and strategy,6
+2023-MJ,2,2,1,a(i),Business and its environment,Enterprise and business plans,1
+2023-MJ,2,2,1,a(ii),Business and its environment,Enterprise and business plans,3
+2023-MJ,2,2,1,b(i),Finance and accounting,Cash flow and working capital,3
+2023-MJ,2,2,1,b(ii),Finance and accounting,Need for finance and sources of finance,3
+2023-MJ,2,2,1,c,Human resource management,"Recruitment, selection, training and dismissal",8
+2023-MJ,2,2,1,d,Finance and accounting,"Costs, contribution and break-even",12
+2023-MJ,2,2,2,a(i),Business and its environment,Stakeholders,1
+2023-MJ,2,2,2,a(ii),Business and its environment,"Ethics, CSR and sustainability",3
+2023-MJ,2,2,2,b(i),Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",3
+2023-MJ,2,2,2,b(ii),Business and its environment,Business objectives,3
+2023-MJ,2,2,2,c,Business and its environment,Size of business and growth,8
+2023-MJ,2,2,2,d,Marketing,"Product, branding and new product development",12
+2023-MJ,3,2,1,,Marketing,Marketing objectives and strategy,8
+2023-MJ,3,2,2,,Human resource management,Communication and employee relations,8
+2023-MJ,3,2,3,a,Finance and accounting,Ratio analysis,1
+2023-MJ,3,2,3,b,Finance and accounting,Ratio analysis,3
+2023-MJ,3,2,3,c,Business and its environment,Business structure and legal forms,12
+2023-MJ,3,2,4,a,Finance and accounting,Investment appraisal,4
+2023-MJ,3,2,4,b,Operations management,Location and scale,12
+2023-MJ,3,2,5,,Business and its environment,"Ethics, CSR and sustainability",12
+2023-MJ,4,2,1,,Human resource management,Management and leadership,20
+2023-MJ,4,2,2,,Marketing,International marketing,20
+2023-ON,1,2,1,a,Human resource management,"Recruitment, selection, training and dismissal",2
+2023-ON,1,2,1,b,Human resource management,"Recruitment, selection, training and dismissal",3
+2023-ON,1,2,2,a,Business and its environment,Enterprise and business plans,2
+2023-ON,1,2,2,b,Business and its environment,Enterprise and business plans,3
+2023-ON,1,2,3,a,Finance and accounting,Need for finance and sources of finance,2
+2023-ON,1,2,3,b,Finance and accounting,Need for finance and sources of finance,3
+2023-ON,1,2,4,,Operations management,Operations process and added value,5
+2023-ON,1,2,5,a,Human resource management,Motivation and payment methods,4
+2023-ON,1,2,5,b,Human resource management,Management and leadership,6
+2023-ON,1,2,6,a,Marketing,Marketing objectives and strategy,4
+2023-ON,1,2,6,b,Marketing,Pricing,6
+2023-ON,2,2,1,a(i),Human resource management,"Recruitment, selection, training and dismissal",1
+2023-ON,2,2,1,a(ii),Finance and accounting,"Costs, contribution and break-even",3
+2023-ON,2,2,1,b(i),Finance and accounting,"Costs, contribution and break-even",3
+2023-ON,2,2,1,b(ii),Business and its environment,Size of business and growth,3
+2023-ON,2,2,1,c,Marketing,Market research,8
+2023-ON,2,2,1,d,Business and its environment,Enterprise and business plans,12
+2023-ON,2,2,2,a(i),Marketing,Market segmentation,1
+2023-ON,2,2,2,a(ii),Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",3
+2023-ON,2,2,2,b(i),Finance and accounting,"Costs, contribution and break-even",3
+2023-ON,2,2,2,b(ii),Finance and accounting,"Costs, contribution and break-even",3
+2023-ON,2,2,2,c,Operations management,Inventory and supply chain management,8
+2023-ON,2,2,2,d,Human resource management,"Diversity, equality and welfare",12
+2023-ON,3,2,1,,Business and its environment,"External environment (economic, political, competition)",8
+2023-ON,3,2,2,,Human resource management,Management and leadership,8
+2023-ON,3,2,3,a,Operations management,Capacity utilisation and outsourcing,1
+2023-ON,3,2,3,b,Finance and accounting,Ratio analysis,3
+2023-ON,3,2,3,c,Operations management,Lean production and quality,12
+2023-ON,3,2,4,a,Finance and accounting,Investment appraisal,4
+2023-ON,3,2,4,b,Business and its environment,"Ethics, CSR and sustainability",12
+2023-ON,3,2,5,,Marketing,"Product, branding and new product development",12
+2023-ON,4,2,1,,Strategic management,"Strategic implementation (culture, change, contingency, corporate plans)",20
+2023-ON,4,2,2,,Strategic management,Corporate strategy and competitive advantage,20
+2024-MJ,1,2,1,a,Business and its environment,Size of business and growth,2
+2024-MJ,1,2,1,b,Business and its environment,Size of business and growth,3
+2024-MJ,1,2,2,a,Human resource management,"Recruitment, selection, training and dismissal",2
+2024-MJ,1,2,2,b,Human resource management,"Recruitment, selection, training and dismissal",3
+2024-MJ,1,2,3,a,Operations management,Production methods and automation,2
+2024-MJ,1,2,3,b,Operations management,Production methods and automation,3
+2024-MJ,1,2,4,,Marketing,"Product, branding and new product development",5
+2024-MJ,1,2,5,a,Finance and accounting,"Costs, contribution and break-even",4
+2024-MJ,1,2,5,b,Finance and accounting,Cash flow and working capital,6
+2024-MJ,1,2,6,a,Human resource management,Workforce planning and labour data,4
+2024-MJ,1,2,6,b,Human resource management,"Diversity, equality and welfare",6
+2024-MJ,2,2,1,a(i),Business and its environment,Business structure and legal forms,1
+2024-MJ,2,2,1,a(ii),Business and its environment,"Ethics, CSR and sustainability",3
+2024-MJ,2,2,1,b(i),Finance and accounting,Budgets and variances,3
+2024-MJ,2,2,1,b(ii),Finance and accounting,Budgets and variances,3
+2024-MJ,2,2,1,c,Human resource management,"Recruitment, selection, training and dismissal",8
+2024-MJ,2,2,1,d,Marketing,"Product, branding and new product development",12
+2024-MJ,2,2,2,a(i),Human resource management,"Recruitment, selection, training and dismissal",1
+2024-MJ,2,2,2,a(ii),Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",3
+2024-MJ,2,2,2,b(i),Finance and accounting,"Costs, contribution and break-even",3
+2024-MJ,2,2,2,b(ii),Finance and accounting,"Costs, contribution and break-even",3
+2024-MJ,2,2,2,c,Operations management,Inventory and supply chain management,8
+2024-MJ,2,2,2,d,Business and its environment,Size of business and growth,12
+2024-MJ,3,2,1,,Human resource management,Workforce planning and labour data,8
+2024-MJ,3,2,2,,Operations management,Lean production and quality,8
+2024-MJ,3,2,3,a,Marketing,Elasticity and sales forecasting,1
+2024-MJ,3,2,3,b,Marketing,Elasticity and sales forecasting,3
+2024-MJ,3,2,3,c,Marketing,Elasticity and sales forecasting,12
+2024-MJ,3,2,4,a,Finance and accounting,Investment appraisal,4
+2024-MJ,3,2,4,b,Operations management,Production methods and automation,12
+2024-MJ,3,2,5,,Business and its environment,"External environment (economic, political, competition)",12
+2024-MJ,4,2,1,,Operations management,Operations strategy and sustainability,20
+2024-MJ,4,2,2,,Strategic management,"Strategic implementation (culture, change, contingency, corporate plans)",20
+2024-ON,1,2,1,a,Business and its environment,Stakeholders,2
+2024-ON,1,2,1,b,Business and its environment,Stakeholders,3
+2024-ON,1,2,2,a,Finance and accounting,"Costs, contribution and break-even",2
+2024-ON,1,2,2,b,Finance and accounting,"Costs, contribution and break-even",3
+2024-ON,1,2,3,a,Marketing,Pricing,2
+2024-ON,1,2,3,b,Marketing,Pricing,3
+2024-ON,1,2,4,,Human resource management,"Recruitment, selection, training and dismissal",5
+2024-ON,1,2,5,a,Human resource management,Workforce planning and labour data,4
+2024-ON,1,2,5,b,Operations management,Operations strategy and sustainability,6
+2024-ON,1,2,6,a,Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",4
+2024-ON,1,2,6,b,Marketing,Market research,6
+2024-ON,2,2,1,a(i),Marketing,Promotion and distribution,1
+2024-ON,2,2,1,a(ii),Finance and accounting,Need for finance and sources of finance,3
+2024-ON,2,2,1,b(i),Human resource management,Workforce planning and labour data,3
+2024-ON,2,2,1,b(ii),Human resource management,Communication and employee relations,3
+2024-ON,2,2,1,c,Operations management,Capacity utilisation and outsourcing,8
+2024-ON,2,2,1,d,Human resource management,Workforce planning and labour data,12
+2024-ON,2,2,2,a(i),Marketing,"Product, branding and new product development",1
+2024-ON,2,2,2,a(ii),Business and its environment,Business structure and legal forms,3
+2024-ON,2,2,2,b(i),Finance and accounting,Budgets and variances,3
+2024-ON,2,2,2,b(ii),Finance and accounting,Budgets and variances,3
+2024-ON,2,2,2,c,Marketing,"Product, branding and new product development",8
+2024-ON,2,2,2,d,Business and its environment,Size of business and growth,12
+2024-ON,3,2,1,,Business and its environment,"External environment (economic, political, competition)",8
+2024-ON,3,2,2,,Marketing,International marketing,8
+2024-ON,3,2,3,a,Human resource management,Workforce planning and labour data,1
+2024-ON,3,2,3,b,Human resource management,Workforce planning and labour data,3
+2024-ON,3,2,3,c,Human resource management,HRM approaches and employee performance,12
+2024-ON,3,2,4,a,Finance and accounting,Ratio analysis,4
+2024-ON,3,2,4,b,Finance and accounting,Financial statements and profitability,12
+2024-ON,3,2,5,,Operations management,"Operations planning (ERP, CPA)",12
+2024-ON,4,2,1,,Human resource management,HRM approaches and employee performance,20
+2024-ON,4,2,2,,Finance and accounting,Ratio analysis,20
+2025-MJ,1,2,1,a,Business and its environment,Business objectives,2
+2025-MJ,1,2,1,b,Business and its environment,"Ethics, CSR and sustainability",3
+2025-MJ,1,2,2,a,Human resource management,"Recruitment, selection, training and dismissal",2
+2025-MJ,1,2,2,b,Human resource management,"Recruitment, selection, training and dismissal",3
+2025-MJ,1,2,3,a,Operations management,Inventory and supply chain management,2
+2025-MJ,1,2,3,b,Operations management,Inventory and supply chain management,3
+2025-MJ,1,2,4,,Marketing,Pricing,5
+2025-MJ,1,2,5,a,Human resource management,Management and leadership,4
+2025-MJ,1,2,5,b,Human resource management,Management and leadership,6
+2025-MJ,1,2,6,a,Finance and accounting,Need for finance and sources of finance,4
+2025-MJ,1,2,6,b,Finance and accounting,Budgets and variances,6
+2025-MJ,2,2,1,a(i),Business and its environment,Business structure and legal forms,1
+2025-MJ,2,2,1,a(ii),Operations management,Inventory and supply chain management,3
+2025-MJ,2,2,1,b(i),Finance and accounting,"Costs, contribution and break-even",3
+2025-MJ,2,2,1,b(ii),Finance and accounting,"Costs, contribution and break-even",3
+2025-MJ,2,2,1,c,Human resource management,"Diversity, equality and welfare",8
+2025-MJ,2,2,1,d,Marketing,Promotion and distribution,12
+2025-MJ,2,2,2,a(i),Finance and accounting,Need for finance and sources of finance,1
+2025-MJ,2,2,2,a(ii),Business and its environment,Enterprise and business plans,3
+2025-MJ,2,2,2,b(i),Human resource management,Motivation and payment methods,3
+2025-MJ,2,2,2,b(ii),Human resource management,Motivation and payment methods,3
+2025-MJ,2,2,2,c,Operations management,Production methods and automation,8
+2025-MJ,2,2,2,d,Business and its environment,Business objectives,12
+2025-MJ,3,2,1,,Strategic management,"Strategic implementation (culture, change, contingency, corporate plans)",8
+2025-MJ,3,2,2,,Human resource management,Organisational structure,8
+2025-MJ,3,2,3,a,Human resource management,Workforce planning and labour data,2
+2025-MJ,3,2,3,b,Human resource management,Workforce planning and labour data,2
+2025-MJ,3,2,3,c,Operations management,Lean production and quality,12
+2025-MJ,3,2,4,a,Finance and accounting,Ratio analysis,4
+2025-MJ,3,2,4,b,Finance and accounting,Ratio analysis,12
+2025-MJ,3,2,5,,Marketing,"Product, branding and new product development",12
+2025-MJ,4,2,1,,Strategic management,"Strategic choice (Ansoff, decision trees, force field)",20
+2025-MJ,4,2,2,,Marketing,Marketing objectives and strategy,20
+2025-ON,1,2,1,a,Business and its environment,Enterprise and business plans,2
+2025-ON,1,2,1,b,Business and its environment,Enterprise and business plans,3
+2025-ON,1,2,2,a,Human resource management,"Recruitment, selection, training and dismissal",2
+2025-ON,1,2,2,b,Human resource management,"Recruitment, selection, training and dismissal",3
+2025-ON,1,2,3,a,Finance and accounting,"Costs, contribution and break-even",2
+2025-ON,1,2,3,b,Finance and accounting,"Costs, contribution and break-even",3
+2025-ON,1,2,4,,Operations management,Inventory and supply chain management,5
+2025-ON,1,2,5,a,Finance and accounting,Need for finance and sources of finance,4
+2025-ON,1,2,5,b,Finance and accounting,Cash flow and working capital,6
+2025-ON,1,2,6,a,Marketing,"Product, branding and new product development",4
+2025-ON,1,2,6,b,Marketing,"Product, branding and new product development",6
+2025-ON,2,2,1,a(i),Operations management,Operations process and added value,1
+2025-ON,2,2,1,a(ii),Business and its environment,Business structure and legal forms,3
+2025-ON,2,2,1,b(i),Marketing,Market research,3
+2025-ON,2,2,1,b(ii),Marketing,Market research,3
+2025-ON,2,2,1,c,Marketing,Market research,8
+2025-ON,2,2,1,d,Human resource management,Motivation and payment methods,12
+2025-ON,2,2,2,a(i),Business and its environment,Stakeholders,1
+2025-ON,2,2,2,a(ii),Operations management,Capacity utilisation and outsourcing,3
+2025-ON,2,2,2,b(i),Finance and accounting,Budgets and variances,3
+2025-ON,2,2,2,b(ii),Finance and accounting,Budgets and variances,3
+2025-ON,2,2,2,c,Operations management,Production methods and automation,8
+2025-ON,2,2,2,d,Business and its environment,Stakeholders,12
+2025-ON,3,2,1,,Human resource management,Management and leadership,8
+2025-ON,3,2,2,,Business and its environment,"Ethics, CSR and sustainability",8
+2025-ON,3,2,3,a,Finance and accounting,Investment appraisal,2
+2025-ON,3,2,3,b,Finance and accounting,Investment appraisal,2
+2025-ON,3,2,3,c,Operations management,Location and scale,12
+2025-ON,3,2,4,a,Marketing,Elasticity and sales forecasting,4
+2025-ON,3,2,4,b,Marketing,Elasticity and sales forecasting,12
+2025-ON,3,2,5,,Business and its environment,"External environment (economic, political, competition)",12
+2025-ON,4,2,1,,Operations management,Operations strategy and sustainability,20
+2025-ON,4,2,2,,Business and its environment,"External environment (economic, political, competition)",20
+2026-MJ,1,2,1,a,Business and its environment,Enterprise and business plans,2
+2026-MJ,1,2,1,b,Business and its environment,Business objectives,3
+2026-MJ,1,2,2,a,Human resource management,"Diversity, equality and welfare",2
+2026-MJ,1,2,2,b,Human resource management,"Recruitment, selection, training and dismissal",3
+2026-MJ,1,2,3,a,Marketing,Market segmentation,2
+2026-MJ,1,2,3,b,Marketing,Market segmentation,3
+2026-MJ,1,2,4,,Operations management,Capacity utilisation and outsourcing,5
+2026-MJ,1,2,5,a,Finance and accounting,"Costs, contribution and break-even",4
+2026-MJ,1,2,5,b,Finance and accounting,Budgets and variances,6
+2026-MJ,1,2,6,a,Human resource management,Motivation and payment methods,4
+2026-MJ,1,2,6,b,Human resource management,Communication and employee relations,6
+2026-MJ,2,2,1,a(i),Human resource management,"Recruitment, selection, training and dismissal",1
+2026-MJ,2,2,1,a(ii),Business and its environment,Business structure and legal forms,3
+2026-MJ,2,2,1,b(i),Human resource management,Workforce planning and labour data,3
+2026-MJ,2,2,1,b(ii),Business and its environment,Enterprise and business plans,3
+2026-MJ,2,2,1,c,Marketing,"Nature of marketing (demand, mass/niche, USP, CRM)",8
+2026-MJ,2,2,1,d,Human resource management,"Diversity, equality and welfare",12
+2026-MJ,2,2,2,a(i),Operations management,Inventory and supply chain management,1
+2026-MJ,2,2,2,a(ii),Human resource management,"Recruitment, selection, training and dismissal",3
+2026-MJ,2,2,2,b(i),Finance and accounting,Need for finance and sources of finance,3
+2026-MJ,2,2,2,b(ii),Finance and accounting,Cash flow and working capital,3
+2026-MJ,2,2,2,c,Business and its environment,Enterprise and business plans,8
+2026-MJ,2,2,2,d,Operations management,Inventory and supply chain management,12
+2026-MJ,3,2,1,,Operations management,Location and scale,8
+2026-MJ,3,2,2,,Finance and accounting,Financial statements and profitability,8
+2026-MJ,3,2,3,a,Human resource management,Organisational structure,1
+2026-MJ,3,2,3,b,Finance and accounting,Investment appraisal,3
+2026-MJ,3,2,3,c,Human resource management,Organisational structure,12
+2026-MJ,3,2,4,a,Finance and accounting,Ratio analysis,4
+2026-MJ,3,2,4,b,Marketing,Elasticity and sales forecasting,12
+2026-MJ,3,2,5,,Business and its environment,"External environment (economic, political, competition)",12
+2026-MJ,4,2,1,,Strategic management,"Strategic implementation (culture, change, contingency, corporate plans)",20
+2026-MJ,4,2,2,,Human resource management,HRM approaches and employee performance,20

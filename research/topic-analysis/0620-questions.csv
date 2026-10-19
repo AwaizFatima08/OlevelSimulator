@@ -1062,3 +1062,2001 @@ session,paper,variant,question,part,topic,subtopic,marks
 2026-MJ,5,2,2,g,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
 2026-MJ,5,2,2,h,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
 2026-MJ,5,2,3,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2022-MJ,2,1,1,,States of matter,Diffusion,1
+2022-MJ,2,1,2,,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2022-MJ,2,1,3,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2022-MJ,2,1,4,,Experimental techniques & chemical analysis,Separation & purity,1
+2022-MJ,2,1,5,,"Atoms, elements & compounds",Structure and properties compared,1
+2022-MJ,2,1,6,,"Atoms, elements & compounds",Simple covalent molecules,1
+2022-MJ,2,1,7,,Stoichiometry,Formulae & equations (incl. ionic),1
+2022-MJ,2,1,8,,Stoichiometry,Relative masses,1
+2022-MJ,2,1,9,,Stoichiometry,Moles & reacting masses,1
+2022-MJ,2,1,10,,Electrochemistry,Electrolysis products & electrode equations,1
+2022-MJ,2,1,11,,Electrochemistry,Electrolysis products & electrode equations,1
+2022-MJ,2,1,12,,Chemical reactions,Physical vs chemical change,1
+2022-MJ,2,1,13,,Chemical energetics,Bond-energy calculations,1
+2022-MJ,2,1,14,,Chemical reactions,Redox & oxidation number,1
+2022-MJ,2,1,15,,Chemical reactions,Reversible reactions & equilibrium,1
+2022-MJ,2,1,16,,Chemical reactions,Redox & oxidation number,1
+2022-MJ,2,1,17,,"Acids, bases & salts",Strong/weak acids & pH,1
+2022-MJ,2,1,18,,"Acids, bases & salts",Types of oxide,1
+2022-MJ,2,1,19,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-MJ,2,1,20,,The Periodic Table,Trends & arrangement,1
+2022-MJ,2,1,21,,The Periodic Table,Trends & arrangement,1
+2022-MJ,2,1,22,,The Periodic Table,Transition elements,1
+2022-MJ,2,1,23,,Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,2,1,24,,Metals,Corrosion & rust prevention,1
+2022-MJ,2,1,25,,The Periodic Table,Noble gases,1
+2022-MJ,2,1,26,,Metals,Properties & uses,1
+2022-MJ,2,1,27,,Metals,Reactivity series & displacement,1
+2022-MJ,2,1,28,,Metals,Reactivity series & displacement,1
+2022-MJ,2,1,29,,Chemistry of the environment,Water treatment & tests for water,1
+2022-MJ,2,1,30,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-MJ,2,1,31,,Chemistry of the environment,Fertilisers (NPK),1
+2022-MJ,2,1,32,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-MJ,2,1,33,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2022-MJ,2,1,34,,Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,2,1,35,,Organic chemistry,Carboxylic acids & esters,1
+2022-MJ,2,1,36,,Organic chemistry,Alcohols,1
+2022-MJ,2,1,37,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2022-MJ,2,1,38,,Organic chemistry,Alkenes,1
+2022-MJ,2,1,39,,Chemical reactions,Redox & oxidation number,1
+2022-MJ,2,1,40,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-MJ,2,3,1,,States of matter,Diffusion,1
+2022-MJ,2,3,2,,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2022-MJ,2,3,3,,"Atoms, elements & compounds",Giant covalent structures,1
+2022-MJ,2,3,4,,Experimental techniques & chemical analysis,Chromatography,1
+2022-MJ,2,3,5,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2022-MJ,2,3,6,,"Atoms, elements & compounds",Metallic bonding,1
+2022-MJ,2,3,7,,Stoichiometry,Formulae & equations (incl. ionic),1
+2022-MJ,2,3,8,,Stoichiometry,Gas volumes,1
+2022-MJ,2,3,9,,Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,2,3,10,,Electrochemistry,Electrolysis products & electrode equations,1
+2022-MJ,2,3,11,,Organic chemistry,"Fuels, petroleum & cracking",1
+2022-MJ,2,3,12,,Chemical reactions,Physical vs chemical change,1
+2022-MJ,2,3,13,,Metals,Reactivity series & displacement,1
+2022-MJ,2,3,14,,Chemical reactions,Rate of reaction,1
+2022-MJ,2,3,15,,Chemical reactions,Reversible reactions & equilibrium,1
+2022-MJ,2,3,16,,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2022-MJ,2,3,17,,"Acids, bases & salts",Types of oxide,1
+2022-MJ,2,3,18,,"Acids, bases & salts",Types of oxide,1
+2022-MJ,2,3,19,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-MJ,2,3,20,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,2,3,21,,The Periodic Table,Trends & arrangement,1
+2022-MJ,2,3,22,,The Periodic Table,Trends & arrangement,1
+2022-MJ,2,3,23,,The Periodic Table,Trends & arrangement,1
+2022-MJ,2,3,24,,The Periodic Table,Transition elements,1
+2022-MJ,2,3,25,,The Periodic Table,Noble gases,1
+2022-MJ,2,3,26,,Metals,Properties & uses,1
+2022-MJ,2,3,27,,Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,2,3,28,,Metals,Reactivity series & displacement,1
+2022-MJ,2,3,29,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2022-MJ,2,3,30,,Metals,Corrosion & rust prevention,1
+2022-MJ,2,3,31,,Chemistry of the environment,Fertilisers (NPK),1
+2022-MJ,2,3,32,,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2022-MJ,2,3,33,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-MJ,2,3,34,,Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,2,3,35,,Organic chemistry,Carboxylic acids & esters,1
+2022-MJ,2,3,36,,Organic chemistry,Alkanes,1
+2022-MJ,2,3,37,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2022-MJ,2,3,38,,Organic chemistry,"Fuels, petroleum & cracking",1
+2022-MJ,2,3,39,,Stoichiometry,Moles & reacting masses,1
+2022-MJ,2,3,40,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-MJ,4,1,1,a,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2022-MJ,4,1,1,b,Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,4,1,1,c,Organic chemistry,Alcohols,2
+2022-MJ,4,1,1,d,Organic chemistry,"Fuels, petroleum & cracking",1
+2022-MJ,4,1,1,e,Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,4,1,1,f,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2022-MJ,4,1,1,g,Chemistry of the environment,Composition of air,1
+2022-MJ,4,1,1,h,"Atoms, elements & compounds",Giant covalent structures,1
+2022-MJ,4,1,2,a(i),"Atoms, elements & compounds",Atomic structure & isotopes,2
+2022-MJ,4,1,2,a(ii),"Atoms, elements & compounds",Atomic structure & isotopes,2
+2022-MJ,4,1,2,a(iii),"Atoms, elements & compounds",Ions & ionic bonding,1
+2022-MJ,4,1,2,b,"Atoms, elements & compounds",Ions & ionic bonding,3
+2022-MJ,4,1,3,a(i),"Atoms, elements & compounds",Metallic bonding,3
+2022-MJ,4,1,3,a(ii),"Atoms, elements & compounds",Metallic bonding,1
+2022-MJ,4,1,3,b(i),"Atoms, elements & compounds",Ions & ionic bonding,1
+2022-MJ,4,1,3,b(ii),"Atoms, elements & compounds",Ions & ionic bonding,1
+2022-MJ,4,1,3,c(i),Experimental techniques & chemical analysis,Titration technique,1
+2022-MJ,4,1,3,c(ii),Experimental techniques & chemical analysis,Titration technique,1
+2022-MJ,4,1,3,c(iii),Experimental techniques & chemical analysis,Titration technique,1
+2022-MJ,4,1,3,c(iv),Stoichiometry,Concentration & titration calculations,3
+2022-MJ,4,1,4,a(i),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-MJ,4,1,4,a(ii),Chemical reactions,"Industrial processes (Haber, Contact)",4
+2022-MJ,4,1,4,a(iii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-MJ,4,1,4,a(iv),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-MJ,4,1,4,b(i),"Atoms, elements & compounds",Simple covalent molecules,2
+2022-MJ,4,1,4,b(ii),Stoichiometry,Formulae & equations (incl. ionic),1
+2022-MJ,4,1,5,a,Chemical reactions,Reversible reactions & equilibrium,2
+2022-MJ,4,1,5,b,Chemical reactions,Reversible reactions & equilibrium,2
+2022-MJ,4,1,5,c,Chemical reactions,Reversible reactions & equilibrium,3
+2022-MJ,4,1,5,d,The Periodic Table,Transition elements,2
+2022-MJ,4,1,5,e,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2022-MJ,4,1,5,f,Organic chemistry,Carboxylic acids & esters,2
+2022-MJ,4,1,5,g(i),Organic chemistry,Carboxylic acids & esters,1
+2022-MJ,4,1,5,g(ii),Organic chemistry,Carboxylic acids & esters,2
+2022-MJ,4,1,5,h,Stoichiometry,Empirical & molecular formulae,3
+2022-MJ,4,1,5,i,Stoichiometry,Empirical & molecular formulae,1
+2022-MJ,4,1,6,a(i),Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,4,1,6,a(ii),Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,4,1,6,a(iii),Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,4,1,6,a(iv),States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2022-MJ,4,1,6,a(v),States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2022-MJ,4,1,6,b(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-MJ,4,1,6,b(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-MJ,4,1,6,b(iii),Chemical reactions,Rate of reaction,2
+2022-MJ,4,1,6,b(iv),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-MJ,4,1,6,b(v),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-MJ,4,1,7,a(i),The Periodic Table,Group I,1
+2022-MJ,4,1,7,a(ii),The Periodic Table,Group I,1
+2022-MJ,4,1,7,b,The Periodic Table,Transition elements,1
+2022-MJ,4,1,7,c,The Periodic Table,Group VII,1
+2022-MJ,4,1,7,d(i),The Periodic Table,Group VII,2
+2022-MJ,4,1,7,d(ii),Chemical reactions,Redox & oxidation number,2
+2022-MJ,4,1,7,e,Chemical energetics,Bond-energy calculations,3
+2022-MJ,4,3,1,a,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2022-MJ,4,3,1,b,Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,4,3,1,c,Chemistry of the environment,Water treatment & tests for water,1
+2022-MJ,4,3,1,d,Chemistry of the environment,Air pollutants & catalytic converters,1
+2022-MJ,4,3,1,e,Organic chemistry,Alcohols,1
+2022-MJ,4,3,1,f,Metals,"Extraction (blast furnace, aluminium)",1
+2022-MJ,4,3,1,g,Metals,Properties & uses,1
+2022-MJ,4,3,1,h,Chemistry of the environment,Composition of air,1
+2022-MJ,4,3,2,a(i),"Atoms, elements & compounds",Atomic structure & isotopes,3
+2022-MJ,4,3,2,a(ii),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2022-MJ,4,3,2,a(iii),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2022-MJ,4,3,2,b(i),"Atoms, elements & compounds",Ions & ionic bonding,1
+2022-MJ,4,3,2,b(ii),"Atoms, elements & compounds",Ions & ionic bonding,2
+2022-MJ,4,3,3,a(i),"Atoms, elements & compounds",Simple covalent molecules,1
+2022-MJ,4,3,3,a(ii),"Atoms, elements & compounds",Simple covalent molecules,1
+2022-MJ,4,3,3,a(iii),"Atoms, elements & compounds",Simple covalent molecules,1
+2022-MJ,4,3,3,b,Chemical reactions,"Industrial processes (Haber, Contact)",4
+2022-MJ,4,3,3,c,Stoichiometry,Formulae & equations (incl. ionic),1
+2022-MJ,4,3,3,d,"Atoms, elements & compounds",Simple covalent molecules,2
+2022-MJ,4,3,3,e(i),"Acids, bases & salts",Properties of acids/bases & indicators,1
+2022-MJ,4,3,3,e(ii),Stoichiometry,Formulae & equations (incl. ionic),1
+2022-MJ,4,3,4,a,Chemical reactions,Rate of reaction,2
+2022-MJ,4,3,4,b,Chemical reactions,Reversible reactions & equilibrium,4
+2022-MJ,4,3,4,c(i),Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2022-MJ,4,3,4,c(ii),Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2022-MJ,4,3,4,c(iii),Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2022-MJ,4,3,4,d(i),Organic chemistry,Carboxylic acids & esters,1
+2022-MJ,4,3,4,d(ii),Organic chemistry,Carboxylic acids & esters,2
+2022-MJ,4,3,4,e,Stoichiometry,Empirical & molecular formulae,3
+2022-MJ,4,3,4,f,Stoichiometry,Empirical & molecular formulae,1
+2022-MJ,4,3,5,a,"Atoms, elements & compounds",Metallic bonding,3
+2022-MJ,4,3,5,b,Electrochemistry,Electroplating & industrial electrolysis,3
+2022-MJ,4,3,5,c,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",3
+2022-MJ,4,3,5,d,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-MJ,4,3,5,e,Chemical reactions,Rate of reaction,3
+2022-MJ,4,3,5,f,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-MJ,4,3,5,g,Experimental techniques & chemical analysis,Separation & purity,1
+2022-MJ,4,3,5,h,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2022-MJ,4,3,5,i,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-MJ,4,3,6,a(i),The Periodic Table,Transition elements,2
+2022-MJ,4,3,6,a(ii),The Periodic Table,Group I,5
+2022-MJ,4,3,6,b,The Periodic Table,Transition elements,2
+2022-MJ,4,3,6,c(i),The Periodic Table,Group VII,2
+2022-MJ,4,3,6,c(ii),Chemical reactions,Redox & oxidation number,1
+2022-MJ,4,3,6,c(iii),Chemical reactions,Redox & oxidation number,2
+2022-MJ,4,3,6,d,The Periodic Table,Group VII,2
+2022-MJ,6,1,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,2
+2022-MJ,6,1,1,b,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-MJ,6,1,1,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,1,1,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,1,1,e,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2022-MJ,6,1,1,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2022-MJ,6,1,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,2
+2022-MJ,6,1,2,b,Experimental techniques & chemical analysis,Apparatus & measurement,3
+2022-MJ,6,1,2,c,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",5
+2022-MJ,6,1,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",3
+2022-MJ,6,1,2,e,Chemical reactions,Rate of reaction,2
+2022-MJ,6,1,2,f(i),Chemical energetics,Exothermic & endothermic,1
+2022-MJ,6,1,2,f(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-MJ,6,1,2,f(iii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-MJ,6,1,2,g,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-MJ,6,1,2,h,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-MJ,6,1,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2022-MJ,6,1,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,1,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,1,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,1,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,1,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2022-MJ,6,3,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2022-MJ,6,3,1,b,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2022-MJ,6,3,1,c,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-MJ,6,3,1,d(i),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2022-MJ,6,3,1,d(ii),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2022-MJ,6,3,2,a,Experimental techniques & chemical analysis,Titration technique,5
+2022-MJ,6,3,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2022-MJ,6,3,2,c,Experimental techniques & chemical analysis,Titration technique,2
+2022-MJ,6,3,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",3
+2022-MJ,6,3,2,e,Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2022-MJ,6,3,2,f,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2022-MJ,6,3,2,g,Experimental techniques & chemical analysis,Titration technique,1
+2022-MJ,6,3,2,h(i),Experimental techniques & chemical analysis,Titration technique,1
+2022-MJ,6,3,2,h(ii),Experimental techniques & chemical analysis,Titration technique,1
+2022-MJ,6,3,2,h(iii),Experimental techniques & chemical analysis,Titration technique,1
+2022-MJ,6,3,2,i,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-MJ,6,3,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,3,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,3,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,3,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",3
+2022-MJ,6,3,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-MJ,6,3,3,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",3
+2022-MJ,6,3,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2022-ON,2,1,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2022-ON,2,1,2,,Experimental techniques & chemical analysis,Chromatography,1
+2022-ON,2,1,3,,Experimental techniques & chemical analysis,Separation & purity,1
+2022-ON,2,1,4,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2022-ON,2,1,5,,"Atoms, elements & compounds",Metallic bonding,1
+2022-ON,2,1,6,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2022-ON,2,1,7,,"Atoms, elements & compounds",Giant covalent structures,1
+2022-ON,2,1,8,,Stoichiometry,Formulae & equations (incl. ionic),1
+2022-ON,2,1,9,,Stoichiometry,Moles & reacting masses,1
+2022-ON,2,1,10,,Electrochemistry,Electrolysis products & electrode equations,1
+2022-ON,2,1,11,,Chemical energetics,Exothermic & endothermic,1
+2022-ON,2,1,12,,Organic chemistry,"Fuels, petroleum & cracking",1
+2022-ON,2,1,13,,Chemical energetics,Bond-energy calculations,1
+2022-ON,2,1,14,,Chemical reactions,Rate of reaction,1
+2022-ON,2,1,15,,Chemical reactions,Reversible reactions & equilibrium,1
+2022-ON,2,1,16,,Chemical reactions,Redox & oxidation number,1
+2022-ON,2,1,17,,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2022-ON,2,1,18,,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2022-ON,2,1,19,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-ON,2,1,20,,"Acids, bases & salts",Types of oxide,1
+2022-ON,2,1,21,,The Periodic Table,Trends & arrangement,1
+2022-ON,2,1,22,,The Periodic Table,Group I,1
+2022-ON,2,1,23,,The Periodic Table,Transition elements,1
+2022-ON,2,1,24,,Metals,"Extraction (blast furnace, aluminium)",1
+2022-ON,2,1,25,,Metals,Reactivity series & displacement,1
+2022-ON,2,1,26,,Metals,Alloys,1
+2022-ON,2,1,27,,Metals,Corrosion & rust prevention,1
+2022-ON,2,1,28,,Chemistry of the environment,Water treatment & tests for water,1
+2022-ON,2,1,29,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2022-ON,2,1,30,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,2,1,31,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,2,1,32,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2022-ON,2,1,33,,Metals,"Extraction (blast furnace, aluminium)",1
+2022-ON,2,1,34,,Organic chemistry,Alcohols,1
+2022-ON,2,1,35,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2022-ON,2,1,36,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2022-ON,2,1,37,,Organic chemistry,Alcohols,1
+2022-ON,2,1,38,,Organic chemistry,Alcohols,1
+2022-ON,2,1,39,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-ON,2,1,40,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-ON,2,3,1,,States of matter,Diffusion,1
+2022-ON,2,3,2,,Experimental techniques & chemical analysis,Chromatography,1
+2022-ON,2,3,3,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2022-ON,2,3,4,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2022-ON,2,3,5,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2022-ON,2,3,6,,"Atoms, elements & compounds",Simple covalent molecules,1
+2022-ON,2,3,7,,"Atoms, elements & compounds",Giant covalent structures,1
+2022-ON,2,3,8,,Stoichiometry,Formulae & equations (incl. ionic),1
+2022-ON,2,3,9,,Stoichiometry,Moles & reacting masses,1
+2022-ON,2,3,10,,Electrochemistry,Electroplating & industrial electrolysis,1
+2022-ON,2,3,11,,Chemical energetics,Exothermic & endothermic,1
+2022-ON,2,3,12,,Organic chemistry,"Fuels, petroleum & cracking",1
+2022-ON,2,3,13,,Chemical reactions,Reversible reactions & equilibrium,1
+2022-ON,2,3,14,,Chemical reactions,Rate of reaction,1
+2022-ON,2,3,15,,Chemical reactions,Reversible reactions & equilibrium,1
+2022-ON,2,3,16,,Chemical reactions,Redox & oxidation number,1
+2022-ON,2,3,17,,Chemical energetics,Bond-energy calculations,1
+2022-ON,2,3,18,,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2022-ON,2,3,19,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,2,3,20,,Chemical reactions,Reversible reactions & equilibrium,1
+2022-ON,2,3,21,,The Periodic Table,Trends & arrangement,1
+2022-ON,2,3,22,,The Periodic Table,Transition elements,1
+2022-ON,2,3,23,,"Acids, bases & salts",Types of oxide,1
+2022-ON,2,3,24,,Metals,"Extraction (blast furnace, aluminium)",1
+2022-ON,2,3,25,,Metals,Reactivity series & displacement,1
+2022-ON,2,3,26,,Stoichiometry,Moles & reacting masses,1
+2022-ON,2,3,27,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,2,3,28,,Chemistry of the environment,Water treatment & tests for water,1
+2022-ON,2,3,29,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2022-ON,2,3,30,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2022-ON,2,3,31,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,2,3,32,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2022-ON,2,3,33,,Metals,"Extraction (blast furnace, aluminium)",1
+2022-ON,2,3,34,,Organic chemistry,Carboxylic acids & esters,1
+2022-ON,2,3,35,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2022-ON,2,3,36,,Organic chemistry,Alkenes,1
+2022-ON,2,3,37,,Organic chemistry,Alkanes,1
+2022-ON,2,3,38,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-ON,2,3,39,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-ON,2,3,40,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-ON,4,1,1,a,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2022-ON,4,1,1,b,Chemistry of the environment,Composition of air,1
+2022-ON,4,1,1,c,"Acids, bases & salts",Types of oxide,1
+2022-ON,4,1,1,d,Chemistry of the environment,Fertilisers (NPK),1
+2022-ON,4,1,1,e,States of matter,Diffusion,1
+2022-ON,4,1,1,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,4,1,1,g,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2022-ON,4,1,1,h,Chemistry of the environment,Air pollutants & catalytic converters,1
+2022-ON,4,1,2,a,"Atoms, elements & compounds",Metallic bonding,4
+2022-ON,4,1,2,b(i),"Atoms, elements & compounds",Ions & ionic bonding,2
+2022-ON,4,1,2,b(ii),"Atoms, elements & compounds",Ions & ionic bonding,3
+2022-ON,4,1,2,c(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,4,1,2,c(ii),"Acids, bases & salts",Properties of acids/bases & indicators,1
+2022-ON,4,1,2,c(iii),"Acids, bases & salts",Properties of acids/bases & indicators,1
+2022-ON,4,1,2,c(iv),Stoichiometry,Gas volumes,3
+2022-ON,4,1,2,d(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-ON,4,1,2,d(ii),"Acids, bases & salts",Properties of acids/bases & indicators,1
+2022-ON,4,1,2,d(iii),Experimental techniques & chemical analysis,Titration technique,1
+2022-ON,4,1,2,e(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,4,1,2,e(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,4,1,2,e(iii),Stoichiometry,Formulae & equations (incl. ionic),3
+2022-ON,4,1,3,a,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,4,1,3,b,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,4,1,3,c,Chemical reactions,Reversible reactions & equilibrium,1
+2022-ON,4,1,3,d,Chemical reactions,"Industrial processes (Haber, Contact)",2
+2022-ON,4,1,3,e,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,4,1,3,f,Chemical reactions,Reversible reactions & equilibrium,4
+2022-ON,4,1,3,g,Chemical reactions,Rate of reaction,3
+2022-ON,4,1,3,h,Stoichiometry,Formulae & equations (incl. ionic),1
+2022-ON,4,1,4,a,Stoichiometry,Formulae & equations (incl. ionic),2
+2022-ON,4,1,4,b,"Acids, bases & salts",Properties of acids/bases & indicators,2
+2022-ON,4,1,4,c,Experimental techniques & chemical analysis,Separation & purity,1
+2022-ON,4,1,4,d(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2022-ON,4,1,4,d(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-ON,4,1,4,e(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2022-ON,4,1,4,e(ii),Stoichiometry,Moles & reacting masses,3
+2022-ON,4,1,4,f,Stoichiometry,Formulae & equations (incl. ionic),2
+2022-ON,4,1,5,a,Organic chemistry,Alkenes,1
+2022-ON,4,1,5,b,Organic chemistry,Alkenes,1
+2022-ON,4,1,5,c,Organic chemistry,Alkenes,1
+2022-ON,4,1,5,d(i),Chemical energetics,Energy profiles & activation energy,3
+2022-ON,4,1,5,d(ii),Chemical energetics,Bond-energy calculations,3
+2022-ON,4,1,6,a(i),Organic chemistry,Carboxylic acids & esters,1
+2022-ON,4,1,6,a(ii),Stoichiometry,Empirical & molecular formulae,1
+2022-ON,4,1,6,b,"Atoms, elements & compounds",Simple covalent molecules,3
+2022-ON,4,1,6,c,Organic chemistry,Carboxylic acids & esters,4
+2022-ON,4,1,6,d(i),Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2022-ON,4,1,6,d(ii),Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2022-ON,4,3,1,a,"Atoms, elements & compounds",Atomic structure & isotopes,2
+2022-ON,4,3,1,b,"Atoms, elements & compounds",Atomic structure & isotopes,6
+2022-ON,4,3,2,a(i),States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2022-ON,4,3,2,a(ii),States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2022-ON,4,3,2,a(iii),"Atoms, elements & compounds",Simple covalent molecules,1
+2022-ON,4,3,2,b,"Atoms, elements & compounds",Metallic bonding,2
+2022-ON,4,3,2,c,"Atoms, elements & compounds",Giant covalent structures,3
+2022-ON,4,3,2,d,"Atoms, elements & compounds",Ions & ionic bonding,2
+2022-ON,4,3,3,a,Metals,"Extraction (blast furnace, aluminium)",1
+2022-ON,4,3,3,b,Electrochemistry,Electrolysis products & electrode equations,2
+2022-ON,4,3,3,c(i),Metals,"Extraction (blast furnace, aluminium)",2
+2022-ON,4,3,3,c(ii),Metals,"Extraction (blast furnace, aluminium)",2
+2022-ON,4,3,3,c(iii),Metals,"Extraction (blast furnace, aluminium)",2
+2022-ON,4,3,3,d,Metals,Reactivity series & displacement,1
+2022-ON,4,3,3,e(i),"Acids, bases & salts",Types of oxide,1
+2022-ON,4,3,3,e(ii),"Acids, bases & salts",Types of oxide,2
+2022-ON,4,3,3,f,Stoichiometry,Formulae & equations (incl. ionic),2
+2022-ON,4,3,4,a(i),Chemical reactions,Reversible reactions & equilibrium,4
+2022-ON,4,3,4,a(ii),Chemical reactions,Reversible reactions & equilibrium,1
+2022-ON,4,3,4,b,"Atoms, elements & compounds",Simple covalent molecules,2
+2022-ON,4,3,4,c,Stoichiometry,Formulae & equations (incl. ionic),2
+2022-ON,4,3,4,d,Stoichiometry,Empirical & molecular formulae,2
+2022-ON,4,3,4,e,Stoichiometry,Empirical & molecular formulae,1
+2022-ON,4,3,5,a(i),Chemical reactions,"Industrial processes (Haber, Contact)",3
+2022-ON,4,3,5,a(ii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,4,3,5,a(iii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,4,3,5,b,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2022-ON,4,3,5,c(i),Stoichiometry,Concentration & titration calculations,3
+2022-ON,4,3,5,c(ii),Stoichiometry,Concentration & titration calculations,1
+2022-ON,4,3,5,d(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,4,3,5,d(ii),"Acids, bases & salts",Properties of acids/bases & indicators,2
+2022-ON,4,3,5,d(iii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,4,3,5,e,Stoichiometry,Formulae & equations (incl. ionic),3
+2022-ON,4,3,6,a(i),Chemical energetics,Bond-energy calculations,3
+2022-ON,4,3,6,a(ii),Chemical energetics,Exothermic & endothermic,1
+2022-ON,4,3,6,b(i),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-ON,4,3,6,b(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",3
+2022-ON,4,3,6,b(iii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-ON,4,3,6,c(i),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-ON,4,3,6,c(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2022-ON,4,3,6,c(iii),Experimental techniques & chemical analysis,Chromatography,3
+2022-ON,4,3,6,d(i),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2022-ON,4,3,6,d(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2022-ON,6,1,1,a,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,1,1,b,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2022-ON,6,1,1,c,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2022-ON,6,1,1,d,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,1,1,e,Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2022-ON,6,1,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,4
+2022-ON,6,1,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2022-ON,6,1,2,c(i),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2022-ON,6,1,2,c(ii),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2022-ON,6,1,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2022-ON,6,1,2,e,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2022-ON,6,1,2,f(i),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,1,2,f(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,1,2,g,Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2022-ON,6,1,2,h,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2022-ON,6,1,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2022-ON,6,1,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,6,1,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,6,1,3,d(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,6,1,3,d(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2022-ON,6,1,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2022-ON,6,1,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2022-ON,6,3,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,2
+2022-ON,6,3,1,b,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,3,1,c,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,3,1,d,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2022-ON,6,3,1,e(i),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,3,1,e(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,3,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,4
+2022-ON,6,3,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2022-ON,6,3,2,c,Chemical reactions,Rate of reaction,1
+2022-ON,6,3,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",3
+2022-ON,6,3,2,e,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,3,2,f,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,3,2,g(i),Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2022-ON,6,3,2,g(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2022-ON,6,3,2,h,Chemical reactions,Rate of reaction,1
+2022-ON,6,3,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2022-ON,6,3,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2022-ON,6,3,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2022-ON,6,3,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2022-ON,6,3,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2022-ON,6,3,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2023-MJ,2,1,1,,States of matter,Diffusion,1
+2023-MJ,2,1,2,,"Atoms, elements & compounds","Elements, compounds & mixtures",1
+2023-MJ,2,1,3,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-MJ,2,1,4,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-MJ,2,1,5,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2023-MJ,2,1,6,,"Atoms, elements & compounds",Simple covalent molecules,1
+2023-MJ,2,1,7,,Stoichiometry,Empirical & molecular formulae,1
+2023-MJ,2,1,8,,Stoichiometry,Moles & reacting masses,1
+2023-MJ,2,1,9,,Electrochemistry,Electrolysis products & electrode equations,1
+2023-MJ,2,1,10,,Electrochemistry,Cells & hydrogen fuel cells,1
+2023-MJ,2,1,11,,Chemical energetics,Bond-energy calculations,1
+2023-MJ,2,1,12,,Chemical reactions,Rate of reaction,1
+2023-MJ,2,1,13,,Chemical reactions,Reversible reactions & equilibrium,1
+2023-MJ,2,1,14,,Chemical reactions,Redox & oxidation number,1
+2023-MJ,2,1,15,,"Acids, bases & salts",Strong/weak acids & pH,1
+2023-MJ,2,1,16,,"Acids, bases & salts",Types of oxide,1
+2023-MJ,2,1,17,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-MJ,2,1,18,,The Periodic Table,Trends & arrangement,1
+2023-MJ,2,1,19,,The Periodic Table,Trends & arrangement,1
+2023-MJ,2,1,20,,The Periodic Table,Trends & arrangement,1
+2023-MJ,2,1,21,,The Periodic Table,Group VII,1
+2023-MJ,2,1,22,,The Periodic Table,Transition elements,1
+2023-MJ,2,1,23,,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2023-MJ,2,1,24,,"Atoms, elements & compounds",Structure and properties compared,1
+2023-MJ,2,1,25,,Metals,Alloys,1
+2023-MJ,2,1,26,,Metals,Properties & uses,1
+2023-MJ,2,1,27,,Metals,Reactivity series & displacement,1
+2023-MJ,2,1,28,,Metals,"Extraction (blast furnace, aluminium)",1
+2023-MJ,2,1,29,,Chemistry of the environment,Water treatment & tests for water,1
+2023-MJ,2,1,30,,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2023-MJ,2,1,31,,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2023-MJ,2,1,32,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2023-MJ,2,1,33,,Organic chemistry,Carboxylic acids & esters,1
+2023-MJ,2,1,34,,Organic chemistry,"Fuels, petroleum & cracking",1
+2023-MJ,2,1,35,,Organic chemistry,"Fuels, petroleum & cracking",1
+2023-MJ,2,1,36,,Organic chemistry,Alkenes,1
+2023-MJ,2,1,37,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-MJ,2,1,38,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-MJ,2,1,39,,Experimental techniques & chemical analysis,Titration technique,1
+2023-MJ,2,1,40,,Experimental techniques & chemical analysis,Chromatography,1
+2023-MJ,2,3,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2023-MJ,2,3,2,,"Atoms, elements & compounds","Elements, compounds & mixtures",1
+2023-MJ,2,3,3,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-MJ,2,3,4,,Stoichiometry,Relative masses,1
+2023-MJ,2,3,5,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2023-MJ,2,3,6,,"Atoms, elements & compounds",Simple covalent molecules,1
+2023-MJ,2,3,7,,"Atoms, elements & compounds",Giant covalent structures,1
+2023-MJ,2,3,8,,"Atoms, elements & compounds",Metallic bonding,1
+2023-MJ,2,3,9,,Stoichiometry,Formulae & equations (incl. ionic),1
+2023-MJ,2,3,10,,Electrochemistry,Electrolysis products & electrode equations,1
+2023-MJ,2,3,11,,Metals,"Extraction (blast furnace, aluminium)",1
+2023-MJ,2,3,12,,Chemical energetics,Energy profiles & activation energy,1
+2023-MJ,2,3,13,,Chemical energetics,Bond-energy calculations,1
+2023-MJ,2,3,14,,Chemical reactions,Rate of reaction,1
+2023-MJ,2,3,15,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2023-MJ,2,3,16,,Chemical reactions,Reversible reactions & equilibrium,1
+2023-MJ,2,3,17,,Chemical reactions,Redox & oxidation number,1
+2023-MJ,2,3,18,,"Acids, bases & salts",Types of oxide,1
+2023-MJ,2,3,19,,"Acids, bases & salts",Strong/weak acids & pH,1
+2023-MJ,2,3,20,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-MJ,2,3,21,,The Periodic Table,Trends & arrangement,1
+2023-MJ,2,3,22,,"Acids, bases & salts",Strong/weak acids & pH,1
+2023-MJ,2,3,23,,The Periodic Table,Transition elements,1
+2023-MJ,2,3,24,,Metals,Properties & uses,1
+2023-MJ,2,3,25,,Chemistry of the environment,Water treatment & tests for water,1
+2023-MJ,2,3,26,,Metals,Reactivity series & displacement,1
+2023-MJ,2,3,27,,Metals,Corrosion & rust prevention,1
+2023-MJ,2,3,28,,Metals,"Extraction (blast furnace, aluminium)",1
+2023-MJ,2,3,29,,Chemistry of the environment,Water treatment & tests for water,1
+2023-MJ,2,3,30,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2023-MJ,2,3,31,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2023-MJ,2,3,32,,Organic chemistry,Carboxylic acids & esters,1
+2023-MJ,2,3,33,,Organic chemistry,Alkanes,1
+2023-MJ,2,3,34,,Organic chemistry,"Fuels, petroleum & cracking",1
+2023-MJ,2,3,35,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2023-MJ,2,3,36,,Organic chemistry,Alcohols,1
+2023-MJ,2,3,37,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-MJ,2,3,38,,Experimental techniques & chemical analysis,Titration technique,1
+2023-MJ,2,3,39,,Experimental techniques & chemical analysis,Chromatography,1
+2023-MJ,2,3,40,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,4,1,1,a,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2023-MJ,4,1,1,b,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-MJ,4,1,1,c,Organic chemistry,Carboxylic acids & esters,1
+2023-MJ,4,1,1,d,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2023-MJ,4,1,1,e,Organic chemistry,Alcohols,1
+2023-MJ,4,1,1,f,Organic chemistry,"Fuels, petroleum & cracking",1
+2023-MJ,4,1,2,a(i),Chemistry of the environment,Composition of air,1
+2023-MJ,4,1,2,a(ii),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-MJ,4,1,2,a(iii),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-MJ,4,1,2,a(iv),"Atoms, elements & compounds",Giant covalent structures,1
+2023-MJ,4,1,2,a(v),The Periodic Table,Group I,1
+2023-MJ,4,1,2,a(vi),The Periodic Table,Noble gases,1
+2023-MJ,4,1,2,b(i),"Atoms, elements & compounds",Atomic structure & isotopes,2
+2023-MJ,4,1,2,b(ii),Stoichiometry,Relative masses,2
+2023-MJ,4,1,3,a(i),"Atoms, elements & compounds",Ions & ionic bonding,3
+2023-MJ,4,1,3,a(ii),"Atoms, elements & compounds",Ions & ionic bonding,1
+2023-MJ,4,1,3,b,"Atoms, elements & compounds",Simple covalent molecules,2
+2023-MJ,4,1,3,c(i),"Atoms, elements & compounds",Ions & ionic bonding,2
+2023-MJ,4,1,3,c(ii),"Atoms, elements & compounds",Simple covalent molecules,1
+2023-MJ,4,1,4,a,Chemical reactions,Rate of reaction,2
+2023-MJ,4,1,4,b(i),Chemical reactions,Rate of reaction,1
+2023-MJ,4,1,4,b(ii),Chemical reactions,Rate of reaction,1
+2023-MJ,4,1,4,b(iii),Chemical reactions,Rate of reaction,1
+2023-MJ,4,1,4,c,Chemical reactions,Rate of reaction,3
+2023-MJ,4,1,4,d,Stoichiometry,Gas volumes,3
+2023-MJ,4,1,4,e,Chemical reactions,Rate of reaction,1
+2023-MJ,4,1,4,f,Stoichiometry,Formulae & equations (incl. ionic),2
+2023-MJ,4,1,5,a(i),Electrochemistry,Electrolysis products & electrode equations,2
+2023-MJ,4,1,5,a(ii),Electrochemistry,Electrolysis products & electrode equations,1
+2023-MJ,4,1,5,a(iii),Electrochemistry,Electrolysis products & electrode equations,2
+2023-MJ,4,1,5,a(iv),Electrochemistry,Electrolysis products & electrode equations,1
+2023-MJ,4,1,5,a(v),Electrochemistry,Electrolysis products & electrode equations,1
+2023-MJ,4,1,5,a(vi),Electrochemistry,Electrolysis products & electrode equations,2
+2023-MJ,4,1,5,b(i),Metals,"Extraction (blast furnace, aluminium)",1
+2023-MJ,4,1,5,b(ii),Metals,"Extraction (blast furnace, aluminium)",2
+2023-MJ,4,1,5,b(iii),Metals,"Extraction (blast furnace, aluminium)",1
+2023-MJ,4,1,5,c(i),Electrochemistry,Cells & hydrogen fuel cells,2
+2023-MJ,4,1,5,c(ii),Electrochemistry,Cells & hydrogen fuel cells,1
+2023-MJ,4,1,6,a(i),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2023-MJ,4,1,6,a(ii),Chemical reactions,Redox & oxidation number,1
+2023-MJ,4,1,6,b(i),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2023-MJ,4,1,6,b(ii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2023-MJ,4,1,6,c,Stoichiometry,Formulae & equations (incl. ionic),2
+2023-MJ,4,1,6,d(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-MJ,4,1,6,d(ii),Stoichiometry,Formulae & equations (incl. ionic),3
+2023-MJ,4,1,6,d(iii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",3
+2023-MJ,4,1,7,a(i),Organic chemistry,Alkanes,1
+2023-MJ,4,1,7,a(ii),Organic chemistry,Alkanes,2
+2023-MJ,4,1,7,b(i),Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2023-MJ,4,1,7,b(ii),Organic chemistry,"Naming, formulae, homologous series & isomers",3
+2023-MJ,4,1,7,b(iii),Organic chemistry,Alkenes,2
+2023-MJ,4,1,7,b(iv),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2023-MJ,4,1,7,b(v),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-MJ,4,3,1,a,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2023-MJ,4,3,1,b,Organic chemistry,Alkenes,1
+2023-MJ,4,3,1,c,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-MJ,4,3,1,d,Organic chemistry,"Fuels, petroleum & cracking",1
+2023-MJ,4,3,1,e,Metals,Reactivity series & displacement,1
+2023-MJ,4,3,1,f,Organic chemistry,Alkanes,1
+2023-MJ,4,3,2,a(i),Metals,"Extraction (blast furnace, aluminium)",1
+2023-MJ,4,3,2,a(ii),The Periodic Table,Noble gases,1
+2023-MJ,4,3,2,a(iii),Chemistry of the environment,Water treatment & tests for water,1
+2023-MJ,4,3,2,a(iv),"Acids, bases & salts",Types of oxide,1
+2023-MJ,4,3,2,a(v),Chemistry of the environment,Air pollutants & catalytic converters,1
+2023-MJ,4,3,2,a(vi),Chemical reactions,Redox & oxidation number,1
+2023-MJ,4,3,2,b(i),Stoichiometry,Relative masses,1
+2023-MJ,4,3,2,b(ii),Stoichiometry,Relative masses,2
+2023-MJ,4,3,2,c(i),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-MJ,4,3,2,c(ii),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-MJ,4,3,3,a(i),"Atoms, elements & compounds",Ions & ionic bonding,3
+2023-MJ,4,3,3,a(ii),"Atoms, elements & compounds",Ions & ionic bonding,1
+2023-MJ,4,3,3,a(iii),"Atoms, elements & compounds",Ions & ionic bonding,1
+2023-MJ,4,3,3,b,"Atoms, elements & compounds",Simple covalent molecules,2
+2023-MJ,4,3,3,c(i),"Atoms, elements & compounds",Simple covalent molecules,1
+2023-MJ,4,3,3,c(ii),"Atoms, elements & compounds",Giant covalent structures,2
+2023-MJ,4,3,4,a(i),Chemical reactions,Rate of reaction,1
+2023-MJ,4,3,4,a(ii),Chemical reactions,Rate of reaction,1
+2023-MJ,4,3,4,b,Chemical reactions,Rate of reaction,2
+2023-MJ,4,3,4,c,Stoichiometry,Gas volumes,3
+2023-MJ,4,3,4,d(i),Stoichiometry,Formulae & equations (incl. ionic),2
+2023-MJ,4,3,4,d(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,4,3,5,a(i),Electrochemistry,Electrolysis products & electrode equations,2
+2023-MJ,4,3,5,a(ii),Chemical reactions,Redox & oxidation number,1
+2023-MJ,4,3,5,a(iii),Electrochemistry,Electrolysis products & electrode equations,1
+2023-MJ,4,3,5,a(iv),Electrochemistry,Electrolysis products & electrode equations,2
+2023-MJ,4,3,5,a(v),Electrochemistry,Electrolysis products & electrode equations,1
+2023-MJ,4,3,5,b,Electrochemistry,Electrolysis products & electrode equations,1
+2023-MJ,4,3,5,c(i),Electrochemistry,Electroplating & industrial electrolysis,3
+2023-MJ,4,3,5,c(ii),Electrochemistry,Electroplating & industrial electrolysis,2
+2023-MJ,4,3,5,d(i),Chemistry of the environment,Air pollutants & catalytic converters,2
+2023-MJ,4,3,5,d(ii),Electrochemistry,Cells & hydrogen fuel cells,1
+2023-MJ,4,3,6,a(i),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2023-MJ,4,3,6,a(ii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2023-MJ,4,3,6,a(iii),Chemical reactions,"Industrial processes (Haber, Contact)",2
+2023-MJ,4,3,6,a(iv),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2023-MJ,4,3,6,a(v),Chemical reactions,Rate of reaction,2
+2023-MJ,4,3,6,b(i),Chemical reactions,Reversible reactions & equilibrium,2
+2023-MJ,4,3,6,b(ii),Stoichiometry,Formulae & equations (incl. ionic),1
+2023-MJ,4,3,6,c(i),Stoichiometry,Formulae & equations (incl. ionic),2
+2023-MJ,4,3,6,c(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2023-MJ,4,3,6,c(iii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-MJ,4,3,7,a(i),Organic chemistry,Alkanes,1
+2023-MJ,4,3,7,a(ii),Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2023-MJ,4,3,7,b(i),Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2023-MJ,4,3,7,b(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2023-MJ,4,3,7,c(i),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2023-MJ,4,3,7,c(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-MJ,4,3,7,c(iii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2023-MJ,6,1,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2023-MJ,6,1,1,b,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-MJ,6,1,1,c,Experimental techniques & chemical analysis,Separation & purity,2
+2023-MJ,6,1,1,d,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-MJ,6,1,1,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,6,1,1,f,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-MJ,6,1,1,g,Experimental techniques & chemical analysis,Separation & purity,1
+2023-MJ,6,1,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,4
+2023-MJ,6,1,2,b,Experimental techniques & chemical analysis,Titration technique,1
+2023-MJ,6,1,2,c(i),Experimental techniques & chemical analysis,Titration technique,1
+2023-MJ,6,1,2,c(ii),Experimental techniques & chemical analysis,Titration technique,1
+2023-MJ,6,1,2,c(iii),Experimental techniques & chemical analysis,Titration technique,2
+2023-MJ,6,1,2,d(i),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2023-MJ,6,1,2,d(ii),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2023-MJ,6,1,2,e,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-MJ,6,1,2,f,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2023-MJ,6,1,2,g,Experimental techniques & chemical analysis,Apparatus & measurement,2
+2023-MJ,6,1,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,6,1,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,6,1,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,6,1,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",3
+2023-MJ,6,1,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2023-MJ,6,1,3,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,6,1,3,g,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,6,1,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2023-MJ,6,3,1,a(i),Experimental techniques & chemical analysis,Separation & purity,1
+2023-MJ,6,3,1,a(ii),Experimental techniques & chemical analysis,Apparatus & measurement,2
+2023-MJ,6,3,1,a(iii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-MJ,6,3,1,b(i),Experimental techniques & chemical analysis,Separation & purity,1
+2023-MJ,6,3,1,b(ii),Experimental techniques & chemical analysis,Separation & purity,1
+2023-MJ,6,3,1,b(iii),Experimental techniques & chemical analysis,Separation & purity,1
+2023-MJ,6,3,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,4
+2023-MJ,6,3,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2023-MJ,6,3,2,c,Chemical energetics,Exothermic & endothermic,1
+2023-MJ,6,3,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2023-MJ,6,3,2,e,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2023-MJ,6,3,2,f,Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2023-MJ,6,3,2,g,Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2023-MJ,6,3,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,6,3,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,6,3,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2023-MJ,6,3,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2023-MJ,6,3,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2023-MJ,6,3,3,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2023-MJ,6,3,3,g,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-MJ,6,3,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2023-ON,2,1,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2023-ON,2,1,2,,States of matter,Diffusion,1
+2023-ON,2,1,3,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2023-ON,2,1,4,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-ON,2,1,5,,"Atoms, elements & compounds",Structure and properties compared,1
+2023-ON,2,1,6,,Stoichiometry,Formulae & equations (incl. ionic),1
+2023-ON,2,1,7,,Stoichiometry,Formulae & equations (incl. ionic),1
+2023-ON,2,1,8,,Electrochemistry,Cells & hydrogen fuel cells,1
+2023-ON,2,1,9,,"Atoms, elements & compounds",Giant covalent structures,1
+2023-ON,2,1,10,,Chemical energetics,Energy profiles & activation energy,1
+2023-ON,2,1,11,,Chemical energetics,Bond-energy calculations,1
+2023-ON,2,1,12,,Chemical reactions,Physical vs chemical change,1
+2023-ON,2,1,13,,Chemical reactions,Rate of reaction,1
+2023-ON,2,1,14,,Chemical reactions,Rate of reaction,1
+2023-ON,2,1,15,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2023-ON,2,1,16,,Chemical reactions,Redox & oxidation number,1
+2023-ON,2,1,17,,"Acids, bases & salts",Strong/weak acids & pH,1
+2023-ON,2,1,18,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-ON,2,1,19,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-ON,2,1,20,,The Periodic Table,Transition elements,1
+2023-ON,2,1,21,,Metals,Properties & uses,1
+2023-ON,2,1,22,,The Periodic Table,Noble gases,1
+2023-ON,2,1,23,,Metals,Alloys,1
+2023-ON,2,1,24,,Metals,"Extraction (blast furnace, aluminium)",1
+2023-ON,2,1,25,,Metals,Reactivity series & displacement,1
+2023-ON,2,1,26,,Metals,Corrosion & rust prevention,1
+2023-ON,2,1,27,,Metals,"Extraction (blast furnace, aluminium)",1
+2023-ON,2,1,28,,Metals,"Extraction (blast furnace, aluminium)",1
+2023-ON,2,1,29,,Chemistry of the environment,Water treatment & tests for water,1
+2023-ON,2,1,30,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2023-ON,2,1,31,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2023-ON,2,1,32,,Organic chemistry,Carboxylic acids & esters,1
+2023-ON,2,1,33,,Organic chemistry,Alkanes,1
+2023-ON,2,1,34,,Organic chemistry,Carboxylic acids & esters,1
+2023-ON,2,1,35,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-ON,2,1,36,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-ON,2,1,37,,Organic chemistry,Alkanes,1
+2023-ON,2,1,38,,Experimental techniques & chemical analysis,Chromatography,1
+2023-ON,2,1,39,,Experimental techniques & chemical analysis,Separation & purity,1
+2023-ON,2,1,40,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,2,3,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2023-ON,2,3,2,,States of matter,Diffusion,1
+2023-ON,2,3,3,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-ON,2,3,4,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-ON,2,3,5,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2023-ON,2,3,6,,"Atoms, elements & compounds",Giant covalent structures,1
+2023-ON,2,3,7,,Stoichiometry,Formulae & equations (incl. ionic),1
+2023-ON,2,3,8,,"Atoms, elements & compounds","Elements, compounds & mixtures",1
+2023-ON,2,3,9,,Stoichiometry,Empirical & molecular formulae,1
+2023-ON,2,3,10,,Stoichiometry,Moles & reacting masses,1
+2023-ON,2,3,11,,Electrochemistry,Electrolysis products & electrode equations,1
+2023-ON,2,3,12,,Electrochemistry,Electrolysis products & electrode equations,1
+2023-ON,2,3,13,,Chemical energetics,Exothermic & endothermic,1
+2023-ON,2,3,14,,Chemical energetics,Bond-energy calculations,1
+2023-ON,2,3,15,,"Acids, bases & salts",Strong/weak acids & pH,1
+2023-ON,2,3,16,,Chemical reactions,Reversible reactions & equilibrium,1
+2023-ON,2,3,17,,Chemical reactions,Reversible reactions & equilibrium,1
+2023-ON,2,3,18,,Chemical reactions,Redox & oxidation number,1
+2023-ON,2,3,19,,Chemical reactions,Redox & oxidation number,1
+2023-ON,2,3,20,,"Acids, bases & salts",Strong/weak acids & pH,1
+2023-ON,2,3,21,,"Acids, bases & salts",Types of oxide,1
+2023-ON,2,3,22,,"Acids, bases & salts",Types of oxide,1
+2023-ON,2,3,23,,The Periodic Table,Group I,1
+2023-ON,2,3,24,,The Periodic Table,Group VII,1
+2023-ON,2,3,25,,The Periodic Table,Transition elements,1
+2023-ON,2,3,26,,The Periodic Table,Transition elements,1
+2023-ON,2,3,27,,Metals,Alloys,1
+2023-ON,2,3,28,,Metals,Reactivity series & displacement,1
+2023-ON,2,3,29,,Metals,Corrosion & rust prevention,1
+2023-ON,2,3,30,,Metals,"Extraction (blast furnace, aluminium)",1
+2023-ON,2,3,31,,Chemistry of the environment,Water treatment & tests for water,1
+2023-ON,2,3,32,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2023-ON,2,3,33,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2023-ON,2,3,34,,Organic chemistry,Alkanes,1
+2023-ON,2,3,35,,Organic chemistry,Alkenes,1
+2023-ON,2,3,36,,Organic chemistry,Alcohols,1
+2023-ON,2,3,37,,Organic chemistry,Carboxylic acids & esters,1
+2023-ON,2,3,38,,Organic chemistry,"Fuels, petroleum & cracking",1
+2023-ON,2,3,39,,Experimental techniques & chemical analysis,Chromatography,1
+2023-ON,2,3,40,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,4,1,1,a,Chemistry of the environment,Air pollutants & catalytic converters,1
+2023-ON,4,1,1,b,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2023-ON,4,1,1,c,The Periodic Table,Noble gases,1
+2023-ON,4,1,1,d,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2023-ON,4,1,1,e,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-ON,4,1,1,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,4,1,2,a,"Atoms, elements & compounds",Atomic structure & isotopes,2
+2023-ON,4,1,2,b(i),Stoichiometry,Relative masses,1
+2023-ON,4,1,2,b(ii),Stoichiometry,Moles & reacting masses,2
+2023-ON,4,1,2,c(i),Metals,"Extraction (blast furnace, aluminium)",1
+2023-ON,4,1,2,c(ii),Metals,"Extraction (blast furnace, aluminium)",2
+2023-ON,4,1,2,c(iii),Metals,"Extraction (blast furnace, aluminium)",2
+2023-ON,4,1,2,c(iv),Metals,"Extraction (blast furnace, aluminium)",2
+2023-ON,4,1,2,d,Metals,Properties & uses,2
+2023-ON,4,1,2,e,Metals,Reactivity series & displacement,2
+2023-ON,4,1,2,f(i),Stoichiometry,Formulae & equations (incl. ionic),2
+2023-ON,4,1,2,f(ii),"Atoms, elements & compounds",Ions & ionic bonding,3
+2023-ON,4,1,3,a(i),Metals,Reactivity series & displacement,3
+2023-ON,4,1,3,a(ii),Metals,Reactivity series & displacement,1
+2023-ON,4,1,3,a(iii),Stoichiometry,Formulae & equations (incl. ionic),2
+2023-ON,4,1,3,b(i),The Periodic Table,Group VII,2
+2023-ON,4,1,3,b(ii),Stoichiometry,Formulae & equations (incl. ionic),3
+2023-ON,4,1,3,b(iii),The Periodic Table,Group VII,1
+2023-ON,4,1,4,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,4,1,4,b(i),Chemical reactions,Rate of reaction,1
+2023-ON,4,1,4,b(ii),Chemical reactions,Rate of reaction,2
+2023-ON,4,1,4,b(iii),Chemical reactions,Rate of reaction,2
+2023-ON,4,1,4,c,Stoichiometry,Concentration & titration calculations,5
+2023-ON,4,1,4,d,Chemical reactions,Rate of reaction,1
+2023-ON,4,1,5,a,Chemical reactions,Reversible reactions & equilibrium,2
+2023-ON,4,1,5,b(i),Chemical reactions,Reversible reactions & equilibrium,2
+2023-ON,4,1,5,b(ii),Chemical reactions,Reversible reactions & equilibrium,2
+2023-ON,4,1,5,b(iii),Chemical reactions,Reversible reactions & equilibrium,2
+2023-ON,4,1,5,c(i),Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2023-ON,4,1,5,c(ii),Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",3
+2023-ON,4,1,6,a,Organic chemistry,Alcohols,2
+2023-ON,4,1,6,b(i),Organic chemistry,Alcohols,2
+2023-ON,4,1,6,b(ii),Organic chemistry,Alcohols,1
+2023-ON,4,1,6,b(iii),Organic chemistry,Alkenes,1
+2023-ON,4,1,6,c(i),"Acids, bases & salts",Properties of acids/bases & indicators,1
+2023-ON,4,1,6,c(ii),"Acids, bases & salts",Strong/weak acids & pH,1
+2023-ON,4,1,6,c(iii),Chemical reactions,Redox & oxidation number,2
+2023-ON,4,1,6,d,Organic chemistry,Alcohols,2
+2023-ON,4,1,6,e(i),Organic chemistry,Alcohols,1
+2023-ON,4,1,6,e(ii),Chemical reactions,Redox & oxidation number,1
+2023-ON,4,1,6,f(i),Organic chemistry,Carboxylic acids & esters,1
+2023-ON,4,1,6,f(ii),Organic chemistry,Carboxylic acids & esters,1
+2023-ON,4,1,6,f(iii),Organic chemistry,Carboxylic acids & esters,1
+2023-ON,4,3,1,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,4,3,1,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,4,3,1,c,"Acids, bases & salts",Types of oxide,1
+2023-ON,4,3,1,d,Organic chemistry,Alkenes,1
+2023-ON,4,3,1,e,Chemistry of the environment,Air pollutants & catalytic converters,1
+2023-ON,4,3,1,f,Chemistry of the environment,Water treatment & tests for water,1
+2023-ON,4,3,2,a(i),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-ON,4,3,2,a(ii),"Atoms, elements & compounds",Ions & ionic bonding,1
+2023-ON,4,3,2,a(iii),"Atoms, elements & compounds",Ions & ionic bonding,1
+2023-ON,4,3,2,b,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-ON,4,3,2,c,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-ON,4,3,2,d,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2023-ON,4,3,2,e,The Periodic Table,Trends & arrangement,1
+2023-ON,4,3,2,f,The Periodic Table,Trends & arrangement,1
+2023-ON,4,3,3,a(i),Chemistry of the environment,Composition of air,1
+2023-ON,4,3,3,a(ii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2023-ON,4,3,3,a(iii),"Atoms, elements & compounds",Simple covalent molecules,2
+2023-ON,4,3,3,a(iv),Chemical reactions,"Industrial processes (Haber, Contact)",5
+2023-ON,4,3,3,b(i),The Periodic Table,Transition elements,1
+2023-ON,4,3,3,b(ii),Chemical reactions,Redox & oxidation number,2
+2023-ON,4,3,3,b(iii),Chemical reactions,Redox & oxidation number,1
+2023-ON,4,3,3,b(iv),Chemical reactions,Reversible reactions & equilibrium,4
+2023-ON,4,3,3,b(v),Chemical reactions,Rate of reaction,3
+2023-ON,4,3,3,c,Stoichiometry,Formulae & equations (incl. ionic),1
+2023-ON,4,3,4,a(i),Stoichiometry,Moles & reacting masses,1
+2023-ON,4,3,4,a(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2023-ON,4,3,4,a(iii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-ON,4,3,4,a(iv),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2023-ON,4,3,4,b(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2023-ON,4,3,4,b(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-ON,4,3,4,c(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-ON,4,3,4,c(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2023-ON,4,3,4,c(iii),Stoichiometry,Moles & reacting masses,4
+2023-ON,4,3,5,a(i),"Atoms, elements & compounds",Metallic bonding,3
+2023-ON,4,3,5,a(ii),"Atoms, elements & compounds",Metallic bonding,1
+2023-ON,4,3,5,b(i),Metals,"Extraction (blast furnace, aluminium)",2
+2023-ON,4,3,5,b(ii),Metals,"Extraction (blast furnace, aluminium)",2
+2023-ON,4,3,5,b(iii),Metals,"Extraction (blast furnace, aluminium)",2
+2023-ON,4,3,5,b(iv),Metals,"Extraction (blast furnace, aluminium)",1
+2023-ON,4,3,5,c,Metals,Alloys,2
+2023-ON,4,3,5,d(i),Metals,Corrosion & rust prevention,1
+2023-ON,4,3,5,d(ii),Metals,Corrosion & rust prevention,1
+2023-ON,4,3,5,d(iii),Metals,Corrosion & rust prevention,1
+2023-ON,4,3,5,d(iv),Metals,Corrosion & rust prevention,2
+2023-ON,4,3,6,a,Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2023-ON,4,3,6,b,Organic chemistry,Carboxylic acids & esters,1
+2023-ON,4,3,6,c(i),Organic chemistry,Carboxylic acids & esters,2
+2023-ON,4,3,6,c(ii),Organic chemistry,Carboxylic acids & esters,1
+2023-ON,4,3,6,d,Stoichiometry,Empirical & molecular formulae,1
+2023-ON,4,3,6,e(i),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-ON,4,3,6,e(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2023-ON,4,3,6,f(i),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-ON,4,3,6,f(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2023-ON,6,1,1,a,Experimental techniques & chemical analysis,Chromatography,2
+2023-ON,6,1,1,b,Experimental techniques & chemical analysis,Chromatography,1
+2023-ON,6,1,1,c,Experimental techniques & chemical analysis,Chromatography,2
+2023-ON,6,1,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,5
+2023-ON,6,1,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2023-ON,6,1,2,c(i),Chemical reactions,Rate of reaction,2
+2023-ON,6,1,2,c(ii),Chemical reactions,Rate of reaction,1
+2023-ON,6,1,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",3
+2023-ON,6,1,2,e,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2023-ON,6,1,2,f(i),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-ON,6,1,2,f(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-ON,6,1,2,g,Chemical energetics,Exothermic & endothermic,2
+2023-ON,6,1,3,a(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,6,1,3,a(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,6,1,3,b(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2023-ON,6,1,3,b(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,6,1,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2023-ON,6,1,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2023-ON,6,1,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2023-ON,6,3,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2023-ON,6,3,1,b,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-ON,6,3,1,c,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2023-ON,6,3,1,d(i),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2023-ON,6,3,1,d(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2023-ON,6,3,1,e(i),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-ON,6,3,1,e(ii),Chemistry of the environment,Water treatment & tests for water,2
+2023-ON,6,3,2,a,Experimental techniques & chemical analysis,Titration technique,4
+2023-ON,6,3,2,b,Experimental techniques & chemical analysis,Titration technique,1
+2023-ON,6,3,2,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,6,3,2,d(i),Experimental techniques & chemical analysis,Titration technique,1
+2023-ON,6,3,2,d(ii),Experimental techniques & chemical analysis,Titration technique,1
+2023-ON,6,3,2,d(iii),Experimental techniques & chemical analysis,Titration technique,2
+2023-ON,6,3,2,e(i),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2023-ON,6,3,2,e(ii),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2023-ON,6,3,2,e(iii),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2023-ON,6,3,2,f,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2023-ON,6,3,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2023-ON,6,3,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,6,3,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,6,3,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,6,3,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2023-ON,6,3,3,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",3
+2023-ON,6,3,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2024-MJ,2,1,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2024-MJ,2,1,2,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2024-MJ,2,1,3,,States of matter,Diffusion,1
+2024-MJ,2,1,4,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2024-MJ,2,1,5,,The Periodic Table,Trends & arrangement,1
+2024-MJ,2,1,6,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2024-MJ,2,1,7,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2024-MJ,2,1,8,,"Atoms, elements & compounds",Simple covalent molecules,1
+2024-MJ,2,1,9,,"Atoms, elements & compounds",Simple covalent molecules,1
+2024-MJ,2,1,10,,Stoichiometry,Moles & reacting masses,1
+2024-MJ,2,1,11,,Stoichiometry,Empirical & molecular formulae,1
+2024-MJ,2,1,12,,Stoichiometry,Moles & reacting masses,1
+2024-MJ,2,1,13,,Electrochemistry,Electroplating & industrial electrolysis,1
+2024-MJ,2,1,14,,Electrochemistry,Electrolysis products & electrode equations,1
+2024-MJ,2,1,15,,Chemical energetics,Bond-energy calculations,1
+2024-MJ,2,1,16,,Chemical energetics,Energy profiles & activation energy,1
+2024-MJ,2,1,17,,Chemical reactions,Physical vs chemical change,1
+2024-MJ,2,1,18,,Chemical reactions,Rate of reaction,1
+2024-MJ,2,1,19,,Chemical reactions,Rate of reaction,1
+2024-MJ,2,1,20,,Chemical reactions,Reversible reactions & equilibrium,1
+2024-MJ,2,1,21,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2024-MJ,2,1,22,,Chemical reactions,Redox & oxidation number,1
+2024-MJ,2,1,23,,Chemical reactions,Redox & oxidation number,1
+2024-MJ,2,1,24,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-MJ,2,1,25,,"Acids, bases & salts",Strong/weak acids & pH,1
+2024-MJ,2,1,26,,"Acids, bases & salts",Types of oxide,1
+2024-MJ,2,1,27,,The Periodic Table,Trends & arrangement,1
+2024-MJ,2,1,28,,The Periodic Table,Group VII,1
+2024-MJ,2,1,29,,The Periodic Table,Transition elements,1
+2024-MJ,2,1,30,,Organic chemistry,Carboxylic acids & esters,1
+2024-MJ,2,1,31,,Metals,Corrosion & rust prevention,1
+2024-MJ,2,1,32,,Metals,Reactivity series & displacement,1
+2024-MJ,2,1,33,,Chemistry of the environment,Fertilisers (NPK),1
+2024-MJ,2,1,34,,Chemistry of the environment,Water treatment & tests for water,1
+2024-MJ,2,1,35,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2024-MJ,2,1,36,,Organic chemistry,Alcohols,1
+2024-MJ,2,1,37,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2024-MJ,2,1,38,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2024-MJ,2,1,39,,Organic chemistry,Alkanes,1
+2024-MJ,2,1,40,,Experimental techniques & chemical analysis,Chromatography,1
+2024-MJ,2,3,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2024-MJ,2,3,2,,States of matter,Diffusion,1
+2024-MJ,2,3,3,,"Atoms, elements & compounds","Elements, compounds & mixtures",1
+2024-MJ,2,3,4,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2024-MJ,2,3,5,,"Atoms, elements & compounds",Simple covalent molecules,1
+2024-MJ,2,3,6,,"Atoms, elements & compounds",Giant covalent structures,1
+2024-MJ,2,3,7,,Stoichiometry,Moles & reacting masses,1
+2024-MJ,2,3,8,,Stoichiometry,Gas volumes,1
+2024-MJ,2,3,9,,Electrochemistry,Electrolysis products & electrode equations,1
+2024-MJ,2,3,10,,Electrochemistry,Electrolysis products & electrode equations,1
+2024-MJ,2,3,11,,Electrochemistry,Cells & hydrogen fuel cells,1
+2024-MJ,2,3,12,,Chemical energetics,Exothermic & endothermic,1
+2024-MJ,2,3,13,,Chemical energetics,Exothermic & endothermic,1
+2024-MJ,2,3,14,,Chemical energetics,Energy profiles & activation energy,1
+2024-MJ,2,3,15,,Chemical reactions,Physical vs chemical change,1
+2024-MJ,2,3,16,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2024-MJ,2,3,17,,Chemical reactions,Rate of reaction,1
+2024-MJ,2,3,18,,Chemical reactions,Reversible reactions & equilibrium,1
+2024-MJ,2,3,19,,Chemical reactions,Redox & oxidation number,1
+2024-MJ,2,3,20,,"Acids, bases & salts",Types of oxide,1
+2024-MJ,2,3,21,,Experimental techniques & chemical analysis,Separation & purity,1
+2024-MJ,2,3,22,,The Periodic Table,Trends & arrangement,1
+2024-MJ,2,3,23,,The Periodic Table,Group I,1
+2024-MJ,2,3,24,,The Periodic Table,Noble gases,1
+2024-MJ,2,3,25,,Metals,Properties & uses,1
+2024-MJ,2,3,26,,Metals,"Extraction (blast furnace, aluminium)",1
+2024-MJ,2,3,27,,Metals,Reactivity series & displacement,1
+2024-MJ,2,3,28,,Chemistry of the environment,Water treatment & tests for water,1
+2024-MJ,2,3,29,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2024-MJ,2,3,30,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2024-MJ,2,3,31,,Organic chemistry,Alkanes,1
+2024-MJ,2,3,32,,Organic chemistry,Carboxylic acids & esters,1
+2024-MJ,2,3,33,,Organic chemistry,Alcohols,1
+2024-MJ,2,3,34,,Organic chemistry,Carboxylic acids & esters,1
+2024-MJ,2,3,35,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2024-MJ,2,3,36,,Organic chemistry,Alkanes,1
+2024-MJ,2,3,37,,Experimental techniques & chemical analysis,Titration technique,1
+2024-MJ,2,3,38,,Experimental techniques & chemical analysis,Chromatography,1
+2024-MJ,2,3,39,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-MJ,2,3,40,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-MJ,4,1,1,a,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2024-MJ,4,1,1,b,Experimental techniques & chemical analysis,Separation & purity,1
+2024-MJ,4,1,1,c,Metals,"Extraction (blast furnace, aluminium)",1
+2024-MJ,4,1,1,d,Organic chemistry,"Fuels, petroleum & cracking",1
+2024-MJ,4,1,1,e,Organic chemistry,Alcohols,1
+2024-MJ,4,1,1,f,Organic chemistry,"Fuels, petroleum & cracking",1
+2024-MJ,4,1,1,g,Experimental techniques & chemical analysis,Chromatography,1
+2024-MJ,4,1,2,,"Atoms, elements & compounds",Atomic structure & isotopes,5
+2024-MJ,4,1,3,a,Stoichiometry,Formulae & equations (incl. ionic),2
+2024-MJ,4,1,3,b(i),"Atoms, elements & compounds",Metallic bonding,1
+2024-MJ,4,1,3,b(ii),"Atoms, elements & compounds",Simple covalent molecules,2
+2024-MJ,4,1,3,b(iii),States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),2
+2024-MJ,4,1,3,b(iv),"Atoms, elements & compounds",Structure and properties compared,3
+2024-MJ,4,1,3,c(i),Electrochemistry,Electrolysis products & electrode equations,2
+2024-MJ,4,1,3,c(ii),Electrochemistry,Electrolysis products & electrode equations,2
+2024-MJ,4,1,4,a,Chemical reactions,Reversible reactions & equilibrium,2
+2024-MJ,4,1,4,b(i),Chemical reactions,Reversible reactions & equilibrium,1
+2024-MJ,4,1,4,b(ii),Chemical reactions,Reversible reactions & equilibrium,1
+2024-MJ,4,1,4,c,Chemical reactions,Reversible reactions & equilibrium,1
+2024-MJ,4,1,4,d,Chemical reactions,Redox & oxidation number,2
+2024-MJ,4,1,4,e(i),The Periodic Table,Transition elements,1
+2024-MJ,4,1,4,e(ii),Chemical reactions,Reversible reactions & equilibrium,1
+2024-MJ,4,1,4,e(iii),Chemical energetics,Energy profiles & activation energy,1
+2024-MJ,4,1,5,a(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2024-MJ,4,1,5,a(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2024-MJ,4,1,5,a(iii),Stoichiometry,Formulae & equations (incl. ionic),3
+2024-MJ,4,1,5,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2024-MJ,4,1,5,c,Stoichiometry,Formulae & equations (incl. ionic),2
+2024-MJ,4,1,5,d(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2024-MJ,4,1,5,d(ii),Stoichiometry,Moles & reacting masses,4
+2024-MJ,4,1,6,a(i),Metals,"Extraction (blast furnace, aluminium)",1
+2024-MJ,4,1,6,a(ii),Metals,"Extraction (blast furnace, aluminium)",1
+2024-MJ,4,1,6,a(iii),Metals,"Extraction (blast furnace, aluminium)",1
+2024-MJ,4,1,6,a(iv),Metals,"Extraction (blast furnace, aluminium)",1
+2024-MJ,4,1,6,a(v),Metals,"Extraction (blast furnace, aluminium)",2
+2024-MJ,4,1,6,b(i),States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2024-MJ,4,1,6,b(ii),States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2024-MJ,4,1,6,c(i),Metals,Corrosion & rust prevention,1
+2024-MJ,4,1,6,c(ii),Metals,Corrosion & rust prevention,2
+2024-MJ,4,1,6,d(i),"Acids, bases & salts",Types of oxide,1
+2024-MJ,4,1,6,d(ii),Stoichiometry,Formulae & equations (incl. ionic),1
+2024-MJ,4,1,6,d(iii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-MJ,4,1,7,a(i),Stoichiometry,Empirical & molecular formulae,3
+2024-MJ,4,1,7,a(ii),Stoichiometry,Empirical & molecular formulae,1
+2024-MJ,4,1,7,b,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",3
+2024-MJ,4,1,7,c,Organic chemistry,"Fuels, petroleum & cracking",1
+2024-MJ,4,1,7,d(i),Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2024-MJ,4,1,7,d(ii),Organic chemistry,Carboxylic acids & esters,2
+2024-MJ,4,1,7,d(iii),Organic chemistry,Carboxylic acids & esters,2
+2024-MJ,4,3,1,a,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2024-MJ,4,3,1,b,Electrochemistry,Electrolysis products & electrode equations,1
+2024-MJ,4,3,1,c,Experimental techniques & chemical analysis,Separation & purity,1
+2024-MJ,4,3,1,d,Organic chemistry,Alcohols,1
+2024-MJ,4,3,1,e,Experimental techniques & chemical analysis,Chromatography,1
+2024-MJ,4,3,1,f,Experimental techniques & chemical analysis,Separation & purity,1
+2024-MJ,4,3,1,g,Experimental techniques & chemical analysis,Titration technique,1
+2024-MJ,4,3,2,,"Atoms, elements & compounds",Atomic structure & isotopes,5
+2024-MJ,4,3,3,a(i),"Atoms, elements & compounds",Giant covalent structures,1
+2024-MJ,4,3,3,a(ii),"Atoms, elements & compounds",Simple covalent molecules,2
+2024-MJ,4,3,3,a(iii),States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),2
+2024-MJ,4,3,3,a(iv),"Atoms, elements & compounds",Structure and properties compared,3
+2024-MJ,4,3,3,b,Stoichiometry,Formulae & equations (incl. ionic),2
+2024-MJ,4,3,3,c(i),Electrochemistry,Electrolysis products & electrode equations,2
+2024-MJ,4,3,3,c(ii),Electrochemistry,Electrolysis products & electrode equations,2
+2024-MJ,4,3,4,a,Chemical reactions,Reversible reactions & equilibrium,2
+2024-MJ,4,3,4,b,Chemical reactions,Reversible reactions & equilibrium,1
+2024-MJ,4,3,4,c,Chemical reactions,Reversible reactions & equilibrium,1
+2024-MJ,4,3,4,d(i),Chemical reactions,Reversible reactions & equilibrium,4
+2024-MJ,4,3,4,d(ii),Chemical reactions,Redox & oxidation number,2
+2024-MJ,4,3,5,a(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2024-MJ,4,3,5,a(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2024-MJ,4,3,5,a(iii),Stoichiometry,Formulae & equations (incl. ionic),3
+2024-MJ,4,3,5,b,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2024-MJ,4,3,5,c(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-MJ,4,3,5,c(ii),Stoichiometry,Formulae & equations (incl. ionic),2
+2024-MJ,4,3,5,d(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-MJ,4,3,5,d(ii),Stoichiometry,Moles & reacting masses,4
+2024-MJ,4,3,6,a(i),Metals,"Extraction (blast furnace, aluminium)",1
+2024-MJ,4,3,6,a(ii),Metals,"Extraction (blast furnace, aluminium)",1
+2024-MJ,4,3,6,a(iii),Metals,"Extraction (blast furnace, aluminium)",1
+2024-MJ,4,3,6,a(iv),Metals,"Extraction (blast furnace, aluminium)",3
+2024-MJ,4,3,6,b(i),Metals,Properties & uses,1
+2024-MJ,4,3,6,b(ii),Metals,Properties & uses,1
+2024-MJ,4,3,6,b(iii),Metals,Properties & uses,1
+2024-MJ,4,3,6,b(iv),Metals,Properties & uses,1
+2024-MJ,4,3,6,c(i),Metals,Corrosion & rust prevention,2
+2024-MJ,4,3,6,c(ii),Metals,Corrosion & rust prevention,1
+2024-MJ,4,3,7,a(i),Stoichiometry,Empirical & molecular formulae,3
+2024-MJ,4,3,7,a(ii),Stoichiometry,Empirical & molecular formulae,2
+2024-MJ,4,3,7,b(i),Organic chemistry,Alkenes,1
+2024-MJ,4,3,7,b(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",3
+2024-MJ,4,3,7,c,Organic chemistry,"Fuels, petroleum & cracking",2
+2024-MJ,4,3,7,d(i),Organic chemistry,Alcohols,1
+2024-MJ,4,3,7,d(ii),Organic chemistry,Alcohols,2
+2024-MJ,6,1,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,2
+2024-MJ,6,1,1,b(i),Experimental techniques & chemical analysis,Titration technique,1
+2024-MJ,6,1,1,b(ii),Experimental techniques & chemical analysis,Titration technique,1
+2024-MJ,6,1,1,c,Experimental techniques & chemical analysis,Titration technique,2
+2024-MJ,6,1,1,d,Experimental techniques & chemical analysis,Titration technique,1
+2024-MJ,6,1,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,5
+2024-MJ,6,1,2,b(i),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2024-MJ,6,1,2,b(ii),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2024-MJ,6,1,2,c,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2024-MJ,6,1,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2024-MJ,6,1,2,e,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2024-MJ,6,1,2,f(i),Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2024-MJ,6,1,2,f(ii),Experimental techniques & chemical analysis,Apparatus & measurement,1
+2024-MJ,6,1,2,f(iii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-MJ,6,1,2,g,Chemical reactions,Rate of reaction,1
+2024-MJ,6,1,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2024-MJ,6,1,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-MJ,6,1,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2024-MJ,6,1,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-MJ,6,1,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-MJ,6,1,4,,Experimental techniques & chemical analysis,Separation & purity,6
+2024-MJ,6,3,1,a,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-MJ,6,3,1,b,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2024-MJ,6,3,1,c,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2024-MJ,6,3,1,d,Experimental techniques & chemical analysis,Separation & purity,3
+2024-MJ,6,3,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,3
+2024-MJ,6,3,2,b,Experimental techniques & chemical analysis,Apparatus & measurement,2
+2024-MJ,6,3,2,c,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2024-MJ,6,3,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",3
+2024-MJ,6,3,2,e,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2024-MJ,6,3,2,f(i),Chemical reactions,Rate of reaction,1
+2024-MJ,6,3,2,f(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-MJ,6,3,2,g,Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2024-MJ,6,3,2,h,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-MJ,6,3,2,i,Chemical reactions,Rate of reaction,1
+2024-MJ,6,3,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-MJ,6,3,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",3
+2024-MJ,6,3,3,c(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-MJ,6,3,3,c(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2024-MJ,6,3,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2024-MJ,6,3,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2024-ON,2,1,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2024-ON,2,1,2,,States of matter,Diffusion,1
+2024-ON,2,1,3,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2024-ON,2,1,4,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2024-ON,2,1,5,,"Atoms, elements & compounds",Simple covalent molecules,1
+2024-ON,2,1,6,,"Atoms, elements & compounds",Simple covalent molecules,1
+2024-ON,2,1,7,,"Atoms, elements & compounds",Giant covalent structures,1
+2024-ON,2,1,8,,"Atoms, elements & compounds",Metallic bonding,1
+2024-ON,2,1,9,,Stoichiometry,Formulae & equations (incl. ionic),1
+2024-ON,2,1,10,,Stoichiometry,Moles & reacting masses,1
+2024-ON,2,1,11,,Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,2,1,12,,Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,2,1,13,,Electrochemistry,Cells & hydrogen fuel cells,1
+2024-ON,2,1,14,,Chemical energetics,Energy profiles & activation energy,1
+2024-ON,2,1,15,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2024-ON,2,1,16,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2024-ON,2,1,17,,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2024-ON,2,1,18,,"Acids, bases & salts",Types of oxide,1
+2024-ON,2,1,19,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-ON,2,1,20,,The Periodic Table,Group VII,1
+2024-ON,2,1,21,,The Periodic Table,Group VII,1
+2024-ON,2,1,22,,Chemical reactions,Redox & oxidation number,1
+2024-ON,2,1,23,,Metals,Corrosion & rust prevention,1
+2024-ON,2,1,24,,Metals,Properties & uses,1
+2024-ON,2,1,25,,Metals,"Extraction (blast furnace, aluminium)",1
+2024-ON,2,1,26,,Chemistry of the environment,Composition of air,1
+2024-ON,2,1,27,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2024-ON,2,1,28,,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2024-ON,2,1,29,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2024-ON,2,1,30,,Organic chemistry,Alkenes,1
+2024-ON,2,1,31,,Organic chemistry,"Fuels, petroleum & cracking",1
+2024-ON,2,1,32,,Organic chemistry,"Fuels, petroleum & cracking",1
+2024-ON,2,1,33,,Organic chemistry,Alkanes,1
+2024-ON,2,1,34,,Organic chemistry,Alkenes,1
+2024-ON,2,1,35,,Organic chemistry,Alcohols,1
+2024-ON,2,1,36,,Organic chemistry,Carboxylic acids & esters,1
+2024-ON,2,1,37,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2024-ON,2,1,38,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2024-ON,2,1,39,,Experimental techniques & chemical analysis,Separation & purity,1
+2024-ON,2,1,40,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,2,3,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2024-ON,2,3,2,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2024-ON,2,3,3,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2024-ON,2,3,4,,"Atoms, elements & compounds",Structure and properties compared,1
+2024-ON,2,3,5,,"Atoms, elements & compounds",Simple covalent molecules,1
+2024-ON,2,3,6,,Stoichiometry,Relative masses,1
+2024-ON,2,3,7,,Stoichiometry,Formulae & equations (incl. ionic),1
+2024-ON,2,3,8,,Stoichiometry,Formulae & equations (incl. ionic),1
+2024-ON,2,3,9,,Stoichiometry,Moles & reacting masses,1
+2024-ON,2,3,10,,Stoichiometry,Concentration & titration calculations,1
+2024-ON,2,3,11,,Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,2,3,12,,Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,2,3,13,,Electrochemistry,Cells & hydrogen fuel cells,1
+2024-ON,2,3,14,,Chemical energetics,Energy profiles & activation energy,1
+2024-ON,2,3,15,,Chemical energetics,Bond-energy calculations,1
+2024-ON,2,3,16,,Chemical reactions,Physical vs chemical change,1
+2024-ON,2,3,17,,Chemical reactions,Reversible reactions & equilibrium,1
+2024-ON,2,3,18,,"Acids, bases & salts",Types of oxide,1
+2024-ON,2,3,19,,Chemical reactions,Redox & oxidation number,1
+2024-ON,2,3,20,,Metals,"Extraction (blast furnace, aluminium)",1
+2024-ON,2,3,21,,"Acids, bases & salts",Strong/weak acids & pH,1
+2024-ON,2,3,22,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-ON,2,3,23,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-ON,2,3,24,,Chemical reactions,Redox & oxidation number,1
+2024-ON,2,3,25,,The Periodic Table,Trends & arrangement,1
+2024-ON,2,3,26,,Metals,Reactivity series & displacement,1
+2024-ON,2,3,27,,Metals,Reactivity series & displacement,1
+2024-ON,2,3,28,,Chemistry of the environment,Fertilisers (NPK),1
+2024-ON,2,3,29,,Chemistry of the environment,Composition of air,1
+2024-ON,2,3,30,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2024-ON,2,3,31,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2024-ON,2,3,32,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2024-ON,2,3,33,,Organic chemistry,"Fuels, petroleum & cracking",1
+2024-ON,2,3,34,,Organic chemistry,Carboxylic acids & esters,1
+2024-ON,2,3,35,,Organic chemistry,Alkenes,1
+2024-ON,2,3,36,,Organic chemistry,Carboxylic acids & esters,1
+2024-ON,2,3,37,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2024-ON,2,3,38,,Experimental techniques & chemical analysis,Chromatography,1
+2024-ON,2,3,39,,Experimental techniques & chemical analysis,Separation & purity,1
+2024-ON,2,3,40,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,4,1,1,a,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2024-ON,4,1,1,b,Chemical reactions,Reversible reactions & equilibrium,1
+2024-ON,4,1,1,c,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2024-ON,4,1,1,d,Chemical reactions,Physical vs chemical change,1
+2024-ON,4,1,1,e,States of matter,Diffusion,1
+2024-ON,4,1,2,a,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2024-ON,4,1,2,b,The Periodic Table,Trends & arrangement,1
+2024-ON,4,1,2,c,"Atoms, elements & compounds",Atomic structure & isotopes,2
+2024-ON,4,1,2,d,"Atoms, elements & compounds",Atomic structure & isotopes,5
+2024-ON,4,1,2,e(i),"Atoms, elements & compounds",Atomic structure & isotopes,2
+2024-ON,4,1,2,e(ii),Stoichiometry,Relative masses,2
+2024-ON,4,1,2,e(iii),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2024-ON,4,1,3,a,Stoichiometry,Formulae & equations (incl. ionic),2
+2024-ON,4,1,3,b,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-ON,4,1,3,c,Experimental techniques & chemical analysis,Separation & purity,1
+2024-ON,4,1,3,d(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-ON,4,1,3,d(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-ON,4,1,3,d(iii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2024-ON,4,1,3,e(i),Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,4,1,3,e(ii),Electrochemistry,Electrolysis products & electrode equations,2
+2024-ON,4,1,3,e(iii),Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,4,1,3,e(iv),Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,4,1,3,e(v),Electrochemistry,Electrolysis products & electrode equations,3
+2024-ON,4,1,3,e(vi),Electrochemistry,Electrolysis products & electrode equations,2
+2024-ON,4,1,4,a(i),Chemical reactions,Redox & oxidation number,2
+2024-ON,4,1,4,a(ii),Chemical reactions,Redox & oxidation number,1
+2024-ON,4,1,4,a(iii),Stoichiometry,Gas volumes,4
+2024-ON,4,1,4,b,"Atoms, elements & compounds",Ions & ionic bonding,3
+2024-ON,4,1,4,c,"Atoms, elements & compounds",Simple covalent molecules,2
+2024-ON,4,1,5,a(i),Electrochemistry,Cells & hydrogen fuel cells,1
+2024-ON,4,1,5,a(ii),Electrochemistry,Cells & hydrogen fuel cells,2
+2024-ON,4,1,5,b(i),Organic chemistry,"Fuels, petroleum & cracking",1
+2024-ON,4,1,5,b(ii),Organic chemistry,"Fuels, petroleum & cracking",1
+2024-ON,4,1,5,c,Stoichiometry,Moles & reacting masses,4
+2024-ON,4,1,5,d,Organic chemistry,"Naming, formulae, homologous series & isomers",4
+2024-ON,4,1,5,e(i),Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2024-ON,4,1,5,e(ii),Organic chemistry,Alkenes,1
+2024-ON,4,1,5,e(iii),Organic chemistry,Alkenes,1
+2024-ON,4,1,5,e(iv),Organic chemistry,Alkenes,1
+2024-ON,4,1,6,a,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2024-ON,4,1,6,b,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2024-ON,4,1,6,c,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",3
+2024-ON,4,1,6,d,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",3
+2024-ON,4,1,6,e,Experimental techniques & chemical analysis,Chromatography,2
+2024-ON,4,1,6,f(i),Experimental techniques & chemical analysis,Chromatography,1
+2024-ON,4,1,6,f(ii),Experimental techniques & chemical analysis,Chromatography,1
+2024-ON,4,1,6,f(iii),Experimental techniques & chemical analysis,Chromatography,1
+2024-ON,4,1,6,f(iv),Experimental techniques & chemical analysis,Chromatography,1
+2024-ON,4,3,1,a,Organic chemistry,Alcohols,1
+2024-ON,4,3,1,b,The Periodic Table,Noble gases,1
+2024-ON,4,3,1,c,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2024-ON,4,3,1,d,Metals,"Extraction (blast furnace, aluminium)",1
+2024-ON,4,3,1,e,Metals,"Extraction (blast furnace, aluminium)",1
+2024-ON,4,3,1,f,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2024-ON,4,3,1,g,"Atoms, elements & compounds",Giant covalent structures,1
+2024-ON,4,3,1,h,"Atoms, elements & compounds",Giant covalent structures,1
+2024-ON,4,3,1,i,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,4,3,2,a,Electrochemistry,Electrolysis products & electrode equations,2
+2024-ON,4,3,2,b(i),Electrochemistry,Electrolysis products & electrode equations,4
+2024-ON,4,3,2,b(ii),Electrochemistry,Electrolysis products & electrode equations,2
+2024-ON,4,3,2,c(i),Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,4,3,2,c(ii),Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,4,3,2,c(iii),Electrochemistry,Electrolysis products & electrode equations,1
+2024-ON,4,3,3,a,Stoichiometry,Relative masses,1
+2024-ON,4,3,3,b(i),"Acids, bases & salts",Types of oxide,1
+2024-ON,4,3,3,b(ii),"Acids, bases & salts",Types of oxide,2
+2024-ON,4,3,3,c,"Atoms, elements & compounds",Structure and properties compared,1
+2024-ON,4,3,3,d(i),"Atoms, elements & compounds",Simple covalent molecules,2
+2024-ON,4,3,3,d(ii),"Atoms, elements & compounds",Structure and properties compared,3
+2024-ON,4,3,3,e(i),Metals,Reactivity series & displacement,1
+2024-ON,4,3,3,e(ii),Metals,Reactivity series & displacement,2
+2024-ON,4,3,3,f(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-ON,4,3,3,f(ii),Stoichiometry,Formulae & equations (incl. ionic),2
+2024-ON,4,3,4,a(i),Experimental techniques & chemical analysis,Titration technique,2
+2024-ON,4,3,4,a(ii),Experimental techniques & chemical analysis,Titration technique,1
+2024-ON,4,3,4,b,Stoichiometry,Concentration & titration calculations,3
+2024-ON,4,3,4,c,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",3
+2024-ON,4,3,4,d,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2024-ON,4,3,4,e(i),"Acids, bases & salts",Properties of acids/bases & indicators,1
+2024-ON,4,3,4,e(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",5
+2024-ON,4,3,4,f(i),Stoichiometry,Moles & reacting masses,2
+2024-ON,4,3,4,f(ii),Stoichiometry,Gas volumes,2
+2024-ON,4,3,5,a(i),Chemical reactions,Rate of reaction,1
+2024-ON,4,3,5,a(ii),Chemical reactions,Rate of reaction,1
+2024-ON,4,3,5,a(iii),Chemical reactions,Rate of reaction,1
+2024-ON,4,3,5,b(i),Chemical reactions,Rate of reaction,3
+2024-ON,4,3,5,b(ii),Chemical reactions,Rate of reaction,2
+2024-ON,4,3,5,c(i),Chemical reactions,Redox & oxidation number,2
+2024-ON,4,3,5,c(ii),Chemical reactions,Rate of reaction,1
+2024-ON,4,3,5,d(i),Chemical reactions,Reversible reactions & equilibrium,1
+2024-ON,4,3,5,d(ii),Chemical reactions,Reversible reactions & equilibrium,1
+2024-ON,4,3,5,d(iii),Chemical reactions,Reversible reactions & equilibrium,2
+2024-ON,4,3,6,a,Organic chemistry,Alkanes,1
+2024-ON,4,3,6,b(i),Organic chemistry,Alkanes,1
+2024-ON,4,3,6,b(ii),Organic chemistry,"Fuels, petroleum & cracking",1
+2024-ON,4,3,6,c(i),Organic chemistry,Alkenes,1
+2024-ON,4,3,6,c(ii),Organic chemistry,Alkenes,1
+2024-ON,4,3,6,d(i),Stoichiometry,Empirical & molecular formulae,1
+2024-ON,4,3,6,d(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2024-ON,4,3,6,d(iii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2024-ON,6,1,1,a,Experimental techniques & chemical analysis,Separation & purity,1
+2024-ON,6,1,1,b,Experimental techniques & chemical analysis,Separation & purity,1
+2024-ON,6,1,1,c,Experimental techniques & chemical analysis,Separation & purity,1
+2024-ON,6,1,1,d(i),Experimental techniques & chemical analysis,Separation & purity,1
+2024-ON,6,1,1,d(ii),Experimental techniques & chemical analysis,Separation & purity,1
+2024-ON,6,1,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,4
+2024-ON,6,1,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",5
+2024-ON,6,1,2,c,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2024-ON,6,1,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2024-ON,6,1,2,e,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2024-ON,6,1,2,f,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-ON,6,1,2,g,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-ON,6,1,2,h(i),Experimental techniques & chemical analysis,Apparatus & measurement,1
+2024-ON,6,1,2,h(ii),Experimental techniques & chemical analysis,Apparatus & measurement,1
+2024-ON,6,1,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,6,1,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2024-ON,6,1,3,c(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,6,1,3,c(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,6,1,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2024-ON,6,1,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2024-ON,6,1,3,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,6,1,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2024-ON,6,3,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,2
+2024-ON,6,3,1,b,Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2024-ON,6,3,1,c,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-ON,6,3,1,d,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-ON,6,3,1,e,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-ON,6,3,1,f,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2024-ON,6,3,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,5
+2024-ON,6,3,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2024-ON,6,3,2,c,Chemical energetics,Exothermic & endothermic,1
+2024-ON,6,3,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2024-ON,6,3,2,e,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2024-ON,6,3,2,f,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2024-ON,6,3,2,g,Experimental techniques & chemical analysis,Practical planning & evaluation,4
+2024-ON,6,3,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,6,3,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2024-ON,6,3,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,6,3,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,6,3,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2024-ON,6,3,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2025-MJ,2,1,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2025-MJ,2,1,2,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2025-MJ,2,1,3,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-MJ,2,1,4,,Stoichiometry,Relative masses,1
+2025-MJ,2,1,5,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2025-MJ,2,1,6,,"Atoms, elements & compounds",Simple covalent molecules,1
+2025-MJ,2,1,7,,"Atoms, elements & compounds",Giant covalent structures,1
+2025-MJ,2,1,8,,Stoichiometry,Empirical & molecular formulae,1
+2025-MJ,2,1,9,,Stoichiometry,Gas volumes,1
+2025-MJ,2,1,10,,Electrochemistry,Electroplating & industrial electrolysis,1
+2025-MJ,2,1,11,,Electrochemistry,Electrolysis products & electrode equations,1
+2025-MJ,2,1,12,,Electrochemistry,Cells & hydrogen fuel cells,1
+2025-MJ,2,1,13,,Chemical energetics,Exothermic & endothermic,1
+2025-MJ,2,1,14,,Organic chemistry,Carboxylic acids & esters,1
+2025-MJ,2,1,15,,Chemical reactions,Rate of reaction,1
+2025-MJ,2,1,16,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2025-MJ,2,1,17,,Organic chemistry,Alcohols,1
+2025-MJ,2,1,18,,"Acids, bases & salts",Strong/weak acids & pH,1
+2025-MJ,2,1,19,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,2,1,20,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,2,1,21,,The Periodic Table,Trends & arrangement,1
+2025-MJ,2,1,22,,The Periodic Table,Group VII,1
+2025-MJ,2,1,23,,Metals,Properties & uses,1
+2025-MJ,2,1,24,,The Periodic Table,Noble gases,1
+2025-MJ,2,1,25,,Metals,Properties & uses,1
+2025-MJ,2,1,26,,Metals,Reactivity series & displacement,1
+2025-MJ,2,1,27,,Metals,Reactivity series & displacement,1
+2025-MJ,2,1,28,,Metals,"Extraction (blast furnace, aluminium)",1
+2025-MJ,2,1,29,,Metals,Corrosion & rust prevention,1
+2025-MJ,2,1,30,,Chemistry of the environment,Fertilisers (NPK),1
+2025-MJ,2,1,31,,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2025-MJ,2,1,32,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2025-MJ,2,1,33,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2025-MJ,2,1,34,,Organic chemistry,Alkanes,1
+2025-MJ,2,1,35,,Organic chemistry,Alcohols,1
+2025-MJ,2,1,36,,Organic chemistry,Carboxylic acids & esters,1
+2025-MJ,2,1,37,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-MJ,2,1,38,,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-MJ,2,1,39,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,2,1,40,,Experimental techniques & chemical analysis,Chromatography,1
+2025-MJ,2,3,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2025-MJ,2,3,2,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2025-MJ,2,3,3,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-MJ,2,3,4,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-MJ,2,3,5,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2025-MJ,2,3,6,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2025-MJ,2,3,7,,Stoichiometry,Formulae & equations (incl. ionic),1
+2025-MJ,2,3,8,,Stoichiometry,Empirical & molecular formulae,1
+2025-MJ,2,3,9,,Stoichiometry,Concentration & titration calculations,1
+2025-MJ,2,3,10,,Electrochemistry,Electrolysis products & electrode equations,1
+2025-MJ,2,3,11,,Chemical energetics,Exothermic & endothermic,1
+2025-MJ,2,3,12,,Electrochemistry,Electrolysis products & electrode equations,1
+2025-MJ,2,3,13,,Chemical energetics,Exothermic & endothermic,1
+2025-MJ,2,3,14,,Chemical energetics,Energy profiles & activation energy,1
+2025-MJ,2,3,15,,Chemical reactions,Rate of reaction,1
+2025-MJ,2,3,16,,Chemical reactions,Reversible reactions & equilibrium,1
+2025-MJ,2,3,17,,Chemical reactions,Redox & oxidation number,1
+2025-MJ,2,3,18,,Chemical reactions,Redox & oxidation number,1
+2025-MJ,2,3,19,,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2025-MJ,2,3,20,,"Acids, bases & salts",Types of oxide,1
+2025-MJ,2,3,21,,The Periodic Table,Group I,1
+2025-MJ,2,3,22,,The Periodic Table,Trends & arrangement,1
+2025-MJ,2,3,23,,The Periodic Table,Noble gases,1
+2025-MJ,2,3,24,,The Periodic Table,Transition elements,1
+2025-MJ,2,3,25,,Metals,Reactivity series & displacement,1
+2025-MJ,2,3,26,,Metals,Alloys,1
+2025-MJ,2,3,27,,Metals,"Extraction (blast furnace, aluminium)",1
+2025-MJ,2,3,28,,Chemistry of the environment,Water treatment & tests for water,1
+2025-MJ,2,3,29,,Chemistry of the environment,Water treatment & tests for water,1
+2025-MJ,2,3,30,,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2025-MJ,2,3,31,,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2025-MJ,2,3,32,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2025-MJ,2,3,33,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2025-MJ,2,3,34,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2025-MJ,2,3,35,,Organic chemistry,Alkanes,1
+2025-MJ,2,3,36,,Organic chemistry,Alkanes,1
+2025-MJ,2,3,37,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-MJ,2,3,38,,Experimental techniques & chemical analysis,Separation & purity,1
+2025-MJ,2,3,39,,Experimental techniques & chemical analysis,Separation & purity,1
+2025-MJ,2,3,40,,Experimental techniques & chemical analysis,Chromatography,1
+2025-MJ,4,1,1,a,"Acids, bases & salts",Types of oxide,1
+2025-MJ,4,1,1,b,"Atoms, elements & compounds",Giant covalent structures,1
+2025-MJ,4,1,1,c,Organic chemistry,Alcohols,1
+2025-MJ,4,1,1,d,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2025-MJ,4,1,1,e,Metals,"Extraction (blast furnace, aluminium)",1
+2025-MJ,4,1,1,f,Chemistry of the environment,Air pollutants & catalytic converters,1
+2025-MJ,4,1,1,g,"Atoms, elements & compounds",Simple covalent molecules,1
+2025-MJ,4,1,1,h,Metals,"Extraction (blast furnace, aluminium)",1
+2025-MJ,4,1,1,i,Chemistry of the environment,Composition of air,1
+2025-MJ,4,1,1,j,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-MJ,4,1,2,a,"Atoms, elements & compounds",Atomic structure & isotopes,2
+2025-MJ,4,1,2,b(i),"Atoms, elements & compounds",Atomic structure & isotopes,3
+2025-MJ,4,1,2,b(ii),Stoichiometry,Relative masses,2
+2025-MJ,4,1,2,b(iii),Stoichiometry,Relative masses,1
+2025-MJ,4,1,2,c,"Atoms, elements & compounds",Ions & ionic bonding,2
+2025-MJ,4,1,3,a(i),"Atoms, elements & compounds",Metallic bonding,3
+2025-MJ,4,1,3,a(ii),"Atoms, elements & compounds",Metallic bonding,1
+2025-MJ,4,1,3,b(i),Metals,Alloys,1
+2025-MJ,4,1,3,b(ii),Metals,Alloys,1
+2025-MJ,4,1,3,c(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2025-MJ,4,1,3,c(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,4,1,3,c(iii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,4,1,3,c(iv),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,4,1,3,c(v),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,4,1,3,c(vi),Chemical reactions,Rate of reaction,2
+2025-MJ,4,1,3,c(vii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,4,1,4,a,"Atoms, elements & compounds",Simple covalent molecules,2
+2025-MJ,4,1,4,b(i),Chemical reactions,"Industrial processes (Haber, Contact)",3
+2025-MJ,4,1,4,b(ii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2025-MJ,4,1,4,c(i),Stoichiometry,Formulae & equations (incl. ionic),1
+2025-MJ,4,1,4,c(ii),Chemical reactions,Redox & oxidation number,2
+2025-MJ,4,1,4,c(iii),Chemical reactions,Redox & oxidation number,1
+2025-MJ,4,1,4,c(iv),Stoichiometry,Formulae & equations (incl. ionic),2
+2025-MJ,4,1,4,d,Stoichiometry,Moles & reacting masses,3
+2025-MJ,4,1,5,a,Chemical reactions,Reversible reactions & equilibrium,2
+2025-MJ,4,1,5,b(i),Chemical reactions,Reversible reactions & equilibrium,2
+2025-MJ,4,1,5,b(ii),Chemical reactions,Reversible reactions & equilibrium,2
+2025-MJ,4,1,5,b(iii),Chemical reactions,Reversible reactions & equilibrium,1
+2025-MJ,4,1,5,b(iv),The Periodic Table,Transition elements,2
+2025-MJ,4,1,5,c(i),Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2025-MJ,4,1,5,c(ii),Organic chemistry,Alcohols,1
+2025-MJ,4,1,5,d(i),Organic chemistry,Carboxylic acids & esters,2
+2025-MJ,4,1,5,d(ii),Organic chemistry,Carboxylic acids & esters,2
+2025-MJ,4,1,5,e,Stoichiometry,Empirical & molecular formulae,2
+2025-MJ,4,1,6,a,The Periodic Table,Group VII,1
+2025-MJ,4,1,6,b,The Periodic Table,Group VII,1
+2025-MJ,4,1,6,c,The Periodic Table,Group VII,2
+2025-MJ,4,1,6,d(i),Stoichiometry,Formulae & equations (incl. ionic),2
+2025-MJ,4,1,6,d(ii),Chemical energetics,Bond-energy calculations,3
+2025-MJ,4,1,6,e(i),The Periodic Table,Group I,2
+2025-MJ,4,1,6,e(ii),"Acids, bases & salts",Properties of acids/bases & indicators,1
+2025-MJ,4,3,1,a,"Atoms, elements & compounds",Giant covalent structures,1
+2025-MJ,4,3,1,b,Organic chemistry,Alkenes,1
+2025-MJ,4,3,1,c,"Acids, bases & salts",Types of oxide,1
+2025-MJ,4,3,1,d,Metals,Properties & uses,1
+2025-MJ,4,3,1,e,"Atoms, elements & compounds",Simple covalent molecules,1
+2025-MJ,4,3,1,f,Metals,"Extraction (blast furnace, aluminium)",2
+2025-MJ,4,3,1,g,Organic chemistry,Alkanes,1
+2025-MJ,4,3,1,h,Organic chemistry,Alcohols,1
+2025-MJ,4,3,1,i,Chemistry of the environment,Composition of air,1
+2025-MJ,4,3,2,a,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-MJ,4,3,2,b(i),"Atoms, elements & compounds",Atomic structure & isotopes,3
+2025-MJ,4,3,2,b(ii),Stoichiometry,Relative masses,2
+2025-MJ,4,3,2,b(iii),Stoichiometry,Relative masses,1
+2025-MJ,4,3,2,c,"Atoms, elements & compounds",Ions & ionic bonding,2
+2025-MJ,4,3,3,a(i),"Atoms, elements & compounds",Metallic bonding,1
+2025-MJ,4,3,3,a(ii),"Atoms, elements & compounds",Metallic bonding,2
+2025-MJ,4,3,3,a(iii),"Atoms, elements & compounds",Metallic bonding,1
+2025-MJ,4,3,3,b(i),Metals,Alloys,1
+2025-MJ,4,3,3,b(ii),Metals,Alloys,1
+2025-MJ,4,3,3,c(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2025-MJ,4,3,3,c(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,4,3,3,c(iii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,4,3,3,c(iv),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2025-MJ,4,3,3,c(v),Chemical reactions,Rate of reaction,2
+2025-MJ,4,3,3,c(vi),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-MJ,4,3,4,a(i),Stoichiometry,Formulae & equations (incl. ionic),1
+2025-MJ,4,3,4,a(ii),"Atoms, elements & compounds",Simple covalent molecules,2
+2025-MJ,4,3,4,b(i),Chemical reactions,"Industrial processes (Haber, Contact)",3
+2025-MJ,4,3,4,b(ii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2025-MJ,4,3,4,b(iii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2025-MJ,4,3,4,c,Chemical reactions,Redox & oxidation number,2
+2025-MJ,4,3,4,d,Stoichiometry,Gas volumes,3
+2025-MJ,4,3,5,a,Chemical reactions,Reversible reactions & equilibrium,2
+2025-MJ,4,3,5,b(i),Chemical reactions,Reversible reactions & equilibrium,2
+2025-MJ,4,3,5,b(ii),Chemical reactions,Reversible reactions & equilibrium,3
+2025-MJ,4,3,5,b(iii),The Periodic Table,Transition elements,2
+2025-MJ,4,3,5,c(i),Organic chemistry,Carboxylic acids & esters,1
+2025-MJ,4,3,5,c(ii),Organic chemistry,Carboxylic acids & esters,1
+2025-MJ,4,3,5,d(i),Organic chemistry,Carboxylic acids & esters,2
+2025-MJ,4,3,5,d(ii),Organic chemistry,Carboxylic acids & esters,2
+2025-MJ,4,3,5,e,Stoichiometry,Empirical & molecular formulae,3
+2025-MJ,4,3,6,a,The Periodic Table,Group I,1
+2025-MJ,4,3,6,b,The Periodic Table,Group I,1
+2025-MJ,4,3,6,c(i),The Periodic Table,Group I,2
+2025-MJ,4,3,6,c(ii),Stoichiometry,Formulae & equations (incl. ionic),2
+2025-MJ,4,3,6,d,The Periodic Table,Transition elements,2
+2025-MJ,4,3,6,e(i),The Periodic Table,Group VII,2
+2025-MJ,4,3,6,e(ii),The Periodic Table,Group VII,2
+2025-MJ,4,3,6,e(iii),Chemical energetics,Bond-energy calculations,3
+2025-MJ,6,1,1,a,Experimental techniques & chemical analysis,Titration technique,1
+2025-MJ,6,1,1,b,Experimental techniques & chemical analysis,Titration technique,1
+2025-MJ,6,1,1,c,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-MJ,6,1,1,d,Experimental techniques & chemical analysis,Titration technique,2
+2025-MJ,6,1,1,e,Experimental techniques & chemical analysis,Titration technique,1
+2025-MJ,6,1,1,f,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",3
+2025-MJ,6,1,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,2
+2025-MJ,6,1,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2025-MJ,6,1,2,c,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2025-MJ,6,1,2,d(i),Chemical reactions,Rate of reaction,2
+2025-MJ,6,1,2,d(ii),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2025-MJ,6,1,2,e,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-MJ,6,1,2,f(i),Experimental techniques & chemical analysis,Apparatus & measurement,2
+2025-MJ,6,1,2,f(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-MJ,6,1,2,f(iii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-MJ,6,1,2,f(iv),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-MJ,6,1,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-MJ,6,1,3,b(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-MJ,6,1,3,b(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-MJ,6,1,3,b(iii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-MJ,6,1,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-MJ,6,1,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2025-MJ,6,3,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,2
+2025-MJ,6,3,1,b,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-MJ,6,3,1,c,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2025-MJ,6,3,1,d(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-MJ,6,3,1,d(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-MJ,6,3,1,e,Experimental techniques & chemical analysis,Separation & purity,1
+2025-MJ,6,3,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,3
+2025-MJ,6,3,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2025-MJ,6,3,2,c(i),Chemical reactions,Rate of reaction,1
+2025-MJ,6,3,2,c(ii),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2025-MJ,6,3,2,d(i),Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2025-MJ,6,3,2,d(ii),Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2025-MJ,6,3,2,d(iii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-MJ,6,3,2,e(i),Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-MJ,6,3,2,e(ii),Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-MJ,6,3,2,f,Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2025-MJ,6,3,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-MJ,6,3,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-MJ,6,3,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-MJ,6,3,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-MJ,6,3,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-MJ,6,3,3,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-MJ,6,3,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2025-ON,2,1,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2025-ON,2,1,2,,States of matter,Diffusion,1
+2025-ON,2,1,3,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-ON,2,1,4,,"Atoms, elements & compounds",Giant covalent structures,1
+2025-ON,2,1,5,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-ON,2,1,6,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2025-ON,2,1,7,,"Atoms, elements & compounds",Metallic bonding,1
+2025-ON,2,1,8,,Stoichiometry,Concentration & titration calculations,1
+2025-ON,2,1,9,,Stoichiometry,Empirical & molecular formulae,1
+2025-ON,2,1,10,,Stoichiometry,Moles & reacting masses,1
+2025-ON,2,1,11,,Stoichiometry,Moles & reacting masses,1
+2025-ON,2,1,12,,Electrochemistry,Electrolysis products & electrode equations,1
+2025-ON,2,1,13,,Electrochemistry,Electrolysis products & electrode equations,1
+2025-ON,2,1,14,,Chemical energetics,Exothermic & endothermic,1
+2025-ON,2,1,15,,Chemical energetics,Energy profiles & activation energy,1
+2025-ON,2,1,16,,Chemical reactions,Rate of reaction,1
+2025-ON,2,1,17,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2025-ON,2,1,18,,Chemical reactions,Redox & oxidation number,1
+2025-ON,2,1,19,,Chemical reactions,Reversible reactions & equilibrium,1
+2025-ON,2,1,20,,Organic chemistry,Carboxylic acids & esters,1
+2025-ON,2,1,21,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-ON,2,1,22,,"Acids, bases & salts",Types of oxide,1
+2025-ON,2,1,23,,The Periodic Table,Trends & arrangement,1
+2025-ON,2,1,24,,The Periodic Table,Group I,1
+2025-ON,2,1,25,,The Periodic Table,Group VII,1
+2025-ON,2,1,26,,Metals,Reactivity series & displacement,1
+2025-ON,2,1,27,,Chemical reactions,Redox & oxidation number,1
+2025-ON,2,1,28,,Metals,Corrosion & rust prevention,1
+2025-ON,2,1,29,,Metals,"Extraction (blast furnace, aluminium)",1
+2025-ON,2,1,30,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2025-ON,2,1,31,,Chemistry of the environment,Composition of air,1
+2025-ON,2,1,32,,Organic chemistry,"Fuels, petroleum & cracking",1
+2025-ON,2,1,33,,Organic chemistry,Alcohols,1
+2025-ON,2,1,34,,Organic chemistry,Alkanes,1
+2025-ON,2,1,35,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-ON,2,1,36,,Organic chemistry,Alkenes,1
+2025-ON,2,1,37,,Organic chemistry,Alcohols,1
+2025-ON,2,1,38,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-ON,2,1,39,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,2,1,40,,Experimental techniques & chemical analysis,Separation & purity,1
+2025-ON,2,3,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2025-ON,2,3,2,,States of matter,Diffusion,1
+2025-ON,2,3,3,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-ON,2,3,4,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-ON,2,3,5,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2025-ON,2,3,6,,Stoichiometry,Relative masses,1
+2025-ON,2,3,7,,"Atoms, elements & compounds",Simple covalent molecules,1
+2025-ON,2,3,8,,"Atoms, elements & compounds",Giant covalent structures,1
+2025-ON,2,3,9,,Stoichiometry,Empirical & molecular formulae,1
+2025-ON,2,3,10,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2025-ON,2,3,11,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-ON,2,3,12,,Stoichiometry,Moles & reacting masses,1
+2025-ON,2,3,13,,Electrochemistry,Electrolysis products & electrode equations,1
+2025-ON,2,3,14,,Electrochemistry,Electrolysis products & electrode equations,1
+2025-ON,2,3,15,,Electrochemistry,Cells & hydrogen fuel cells,1
+2025-ON,2,3,16,,Chemical energetics,Energy profiles & activation energy,1
+2025-ON,2,3,17,,Chemical energetics,Bond-energy calculations,1
+2025-ON,2,3,18,,Chemical reactions,Rate of reaction,1
+2025-ON,2,3,19,,Chemical reactions,Reversible reactions & equilibrium,1
+2025-ON,2,3,20,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2025-ON,2,3,21,,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2025-ON,2,3,22,,Chemical reactions,Redox & oxidation number,1
+2025-ON,2,3,23,,The Periodic Table,Trends & arrangement,1
+2025-ON,2,3,24,,"Acids, bases & salts",Strong/weak acids & pH,1
+2025-ON,2,3,25,,"Acids, bases & salts",Types of oxide,1
+2025-ON,2,3,26,,The Periodic Table,Transition elements,1
+2025-ON,2,3,27,,The Periodic Table,Group I,1
+2025-ON,2,3,28,,Metals,Reactivity series & displacement,1
+2025-ON,2,3,29,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2025-ON,2,3,30,,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2025-ON,2,3,31,,Organic chemistry,Alkanes,1
+2025-ON,2,3,32,,Metals,"Extraction (blast furnace, aluminium)",1
+2025-ON,2,3,33,,Metals,"Extraction (blast furnace, aluminium)",1
+2025-ON,2,3,34,,Organic chemistry,Carboxylic acids & esters,1
+2025-ON,2,3,35,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-ON,2,3,36,,Organic chemistry,Alkenes,1
+2025-ON,2,3,37,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2025-ON,2,3,38,,Organic chemistry,Carboxylic acids & esters,1
+2025-ON,2,3,39,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,2,3,40,,Experimental techniques & chemical analysis,Chromatography,1
+2025-ON,4,1,1,a,"Atoms, elements & compounds",Atomic structure & isotopes,2
+2025-ON,4,1,1,b(i),"Atoms, elements & compounds",Atomic structure & isotopes,2
+2025-ON,4,1,1,b(ii),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-ON,4,1,1,c,"Atoms, elements & compounds",Atomic structure & isotopes,5
+2025-ON,4,1,1,d,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2025-ON,4,1,1,e,Stoichiometry,Moles & reacting masses,2
+2025-ON,4,1,2,a,The Periodic Table,Trends & arrangement,1
+2025-ON,4,1,2,b,"Atoms, elements & compounds",Metallic bonding,4
+2025-ON,4,1,2,c(i),Metals,Reactivity series & displacement,3
+2025-ON,4,1,2,c(ii),Metals,Reactivity series & displacement,2
+2025-ON,4,1,2,d(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,4,1,2,d(ii),Stoichiometry,Formulae & equations (incl. ionic),2
+2025-ON,4,1,2,e(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-ON,4,1,2,e(ii),Stoichiometry,Moles & reacting masses,3
+2025-ON,4,1,3,a,Stoichiometry,Formulae & equations (incl. ionic),2
+2025-ON,4,1,3,b,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2025-ON,4,1,3,c,Stoichiometry,Concentration & titration calculations,1
+2025-ON,4,1,3,d,Experimental techniques & chemical analysis,Titration technique,1
+2025-ON,4,1,3,e,Stoichiometry,Concentration & titration calculations,2
+2025-ON,4,1,3,f,Experimental techniques & chemical analysis,Titration technique,2
+2025-ON,4,1,3,g,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-ON,4,1,3,h(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2025-ON,4,1,3,h(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-ON,4,1,3,h(iii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-ON,4,1,4,a,Chemical energetics,Energy profiles & activation energy,4
+2025-ON,4,1,4,b,Chemical energetics,Bond-energy calculations,4
+2025-ON,4,1,4,c,Chemical reactions,Reversible reactions & equilibrium,5
+2025-ON,4,1,4,d,Chemical reactions,Rate of reaction,3
+2025-ON,4,1,5,a(i),Organic chemistry,Alcohols,1
+2025-ON,4,1,5,a(ii),Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2025-ON,4,1,5,b(i),Organic chemistry,Alcohols,6
+2025-ON,4,1,5,b(ii),Organic chemistry,Alcohols,2
+2025-ON,4,1,5,b(iii),Organic chemistry,Alcohols,2
+2025-ON,4,1,5,c(i),Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2025-ON,4,1,5,c(ii),Organic chemistry,Carboxylic acids & esters,1
+2025-ON,4,1,5,d(i),Stoichiometry,Empirical & molecular formulae,1
+2025-ON,4,1,5,d(ii),Organic chemistry,Carboxylic acids & esters,1
+2025-ON,4,1,5,e(i),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",3
+2025-ON,4,1,5,e(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-ON,4,3,1,a,"Atoms, elements & compounds",Atomic structure & isotopes,2
+2025-ON,4,3,1,b,"Atoms, elements & compounds",Atomic structure & isotopes,5
+2025-ON,4,3,1,c(i),Stoichiometry,Relative masses,1
+2025-ON,4,3,1,c(ii),Stoichiometry,Relative masses,1
+2025-ON,4,3,2,a(i),States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2025-ON,4,3,2,a(ii),"Atoms, elements & compounds",Simple covalent molecules,1
+2025-ON,4,3,2,a(iii),Metals,Properties & uses,1
+2025-ON,4,3,2,b(i),"Atoms, elements & compounds",Giant covalent structures,3
+2025-ON,4,3,2,b(ii),"Atoms, elements & compounds",Ions & ionic bonding,2
+2025-ON,4,3,3,a(i),Metals,"Extraction (blast furnace, aluminium)",1
+2025-ON,4,3,3,a(ii),Metals,"Extraction (blast furnace, aluminium)",1
+2025-ON,4,3,3,a(iii),Metals,"Extraction (blast furnace, aluminium)",1
+2025-ON,4,3,3,a(iv),Metals,"Extraction (blast furnace, aluminium)",2
+2025-ON,4,3,3,b(i),Metals,Reactivity series & displacement,1
+2025-ON,4,3,3,b(ii),Stoichiometry,Formulae & equations (incl. ionic),1
+2025-ON,4,3,3,b(iii),Chemical reactions,Redox & oxidation number,2
+2025-ON,4,3,3,b(iv),Chemical reactions,Redox & oxidation number,1
+2025-ON,4,3,3,c(i),Chemical energetics,Exothermic & endothermic,1
+2025-ON,4,3,3,c(ii),Chemical energetics,Exothermic & endothermic,1
+2025-ON,4,3,3,d,"Acids, bases & salts",Types of oxide,1
+2025-ON,4,3,3,e,"Acids, bases & salts",Types of oxide,2
+2025-ON,4,3,3,f,Stoichiometry,Formulae & equations (incl. ionic),2
+2025-ON,4,3,4,a(i),Chemical reactions,Reversible reactions & equilibrium,2
+2025-ON,4,3,4,a(ii),Chemical reactions,Reversible reactions & equilibrium,3
+2025-ON,4,3,4,a(iii),Chemical reactions,Reversible reactions & equilibrium,1
+2025-ON,4,3,4,b,Chemical energetics,Bond-energy calculations,3
+2025-ON,4,3,4,c,"Atoms, elements & compounds",Simple covalent molecules,3
+2025-ON,4,3,4,d(i),"Acids, bases & salts",Properties of acids/bases & indicators,2
+2025-ON,4,3,4,d(ii),Stoichiometry,Gas volumes,3
+2025-ON,4,3,5,a(i),Stoichiometry,Formulae & equations (incl. ionic),3
+2025-ON,4,3,5,a(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-ON,4,3,5,a(iii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-ON,4,3,5,a(iv),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2025-ON,4,3,5,a(v),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2025-ON,4,3,5,b(i),The Periodic Table,Transition elements,2
+2025-ON,4,3,5,b(ii),The Periodic Table,Transition elements,2
+2025-ON,4,3,6,a,Stoichiometry,Empirical & molecular formulae,3
+2025-ON,4,3,6,b,Stoichiometry,Empirical & molecular formulae,1
+2025-ON,4,3,6,c(i),Organic chemistry,Carboxylic acids & esters,1
+2025-ON,4,3,6,c(ii),Organic chemistry,Carboxylic acids & esters,1
+2025-ON,4,3,6,c(iii),Organic chemistry,Carboxylic acids & esters,2
+2025-ON,4,3,6,d(i),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-ON,4,3,6,d(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-ON,4,3,6,d(iii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-ON,4,3,6,d(iv),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2025-ON,4,3,6,e(i),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2025-ON,4,3,6,e(ii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-ON,4,3,6,e(iii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2025-ON,6,1,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-ON,6,1,1,b,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-ON,6,1,1,c,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-ON,6,1,1,d,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-ON,6,1,1,e,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-ON,6,1,2,a,Experimental techniques & chemical analysis,Titration technique,5
+2025-ON,6,1,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2025-ON,6,1,2,c,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",3
+2025-ON,6,1,2,d(i),Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-ON,6,1,2,d(ii),Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-ON,6,1,2,e,Experimental techniques & chemical analysis,Titration technique,2
+2025-ON,6,1,2,f,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2025-ON,6,1,3,a(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,1,3,a(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,1,3,b(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,1,3,b(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,1,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,1,3,d(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-ON,6,1,3,d(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-ON,6,1,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,1,3,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,1,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2025-ON,6,3,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-ON,6,3,1,b,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-ON,6,3,1,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-ON,6,3,1,d,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-ON,6,3,1,e,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-ON,6,3,1,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,3,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,4
+2025-ON,6,3,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2025-ON,6,3,2,c,Chemical energetics,Exothermic & endothermic,2
+2025-ON,6,3,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",3
+2025-ON,6,3,2,e,Chemical reactions,Rate of reaction,1
+2025-ON,6,3,2,f(i),Experimental techniques & chemical analysis,Apparatus & measurement,1
+2025-ON,6,3,2,f(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2025-ON,6,3,2,g,Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2025-ON,6,3,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-ON,6,3,3,b(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,3,3,b(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,3,3,b(iii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,3,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,3,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2025-ON,6,3,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2025-ON,6,3,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2026-MJ,2,1,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2026-MJ,2,1,2,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2026-MJ,2,1,3,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2026-MJ,2,1,4,,Stoichiometry,Relative masses,1
+2026-MJ,2,1,5,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2026-MJ,2,1,6,,"Atoms, elements & compounds",Metallic bonding,1
+2026-MJ,2,1,7,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2026-MJ,2,1,8,,Stoichiometry,Relative masses,1
+2026-MJ,2,1,9,,Stoichiometry,Moles & reacting masses,1
+2026-MJ,2,1,10,,Stoichiometry,Empirical & molecular formulae,1
+2026-MJ,2,1,11,,Chemical reactions,Rate of reaction,1
+2026-MJ,2,1,12,,Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,2,1,13,,Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,2,1,14,,Electrochemistry,Cells & hydrogen fuel cells,1
+2026-MJ,2,1,15,,Chemical energetics,Exothermic & endothermic,1
+2026-MJ,2,1,16,,Chemical energetics,Energy profiles & activation energy,1
+2026-MJ,2,1,17,,Chemical reactions,Redox & oxidation number,1
+2026-MJ,2,1,18,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2026-MJ,2,1,19,,"Acids, bases & salts",Properties of acids/bases & indicators,1
+2026-MJ,2,1,20,,"Acids, bases & salts",Strong/weak acids & pH,1
+2026-MJ,2,1,21,,"Acids, bases & salts",Types of oxide,1
+2026-MJ,2,1,22,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2026-MJ,2,1,23,,The Periodic Table,Group I,1
+2026-MJ,2,1,24,,The Periodic Table,Group VII,1
+2026-MJ,2,1,25,,Metals,Properties & uses,1
+2026-MJ,2,1,26,,Metals,Reactivity series & displacement,1
+2026-MJ,2,1,27,,Metals,Corrosion & rust prevention,1
+2026-MJ,2,1,28,,Chemistry of the environment,Water treatment & tests for water,1
+2026-MJ,2,1,29,,Chemistry of the environment,Fertilisers (NPK),1
+2026-MJ,2,1,30,,Chemistry of the environment,Air pollutants & catalytic converters,1
+2026-MJ,2,1,31,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2026-MJ,2,1,32,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2026-MJ,2,1,33,,Organic chemistry,"Fuels, petroleum & cracking",1
+2026-MJ,2,1,34,,Organic chemistry,Alkenes,1
+2026-MJ,2,1,35,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2026-MJ,2,1,36,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2026-MJ,2,1,37,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2026-MJ,2,1,38,,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2026-MJ,2,1,39,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,2,1,40,,Experimental techniques & chemical analysis,Chromatography,1
+2026-MJ,2,3,1,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2026-MJ,2,3,2,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2026-MJ,2,3,3,,States of matter,Kinetic particle theory & changes of state (incl. gas P/V/T),1
+2026-MJ,2,3,4,,"Atoms, elements & compounds","Elements, compounds & mixtures",1
+2026-MJ,2,3,5,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2026-MJ,2,3,6,,"Atoms, elements & compounds",Atomic structure & isotopes,1
+2026-MJ,2,3,7,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2026-MJ,2,3,8,,"Atoms, elements & compounds",Ions & ionic bonding,1
+2026-MJ,2,3,9,,"Atoms, elements & compounds",Giant covalent structures,1
+2026-MJ,2,3,10,,Stoichiometry,Formulae & equations (incl. ionic),1
+2026-MJ,2,3,11,,Stoichiometry,Empirical & molecular formulae,1
+2026-MJ,2,3,12,,Stoichiometry,Concentration & titration calculations,1
+2026-MJ,2,3,13,,Stoichiometry,Moles & reacting masses,1
+2026-MJ,2,3,14,,Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,2,3,15,,Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,2,3,16,,Metals,"Extraction (blast furnace, aluminium)",1
+2026-MJ,2,3,17,,Chemical energetics,Bond-energy calculations,1
+2026-MJ,2,3,18,,Chemical reactions,Rate of reaction,1
+2026-MJ,2,3,19,,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2026-MJ,2,3,20,,Chemical energetics,Energy profiles & activation energy,1
+2026-MJ,2,3,21,,Chemical reactions,Redox & oxidation number,1
+2026-MJ,2,3,22,,Organic chemistry,Carboxylic acids & esters,1
+2026-MJ,2,3,23,,"Acids, bases & salts",Types of oxide,1
+2026-MJ,2,3,24,,"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2026-MJ,2,3,25,,The Periodic Table,Noble gases,1
+2026-MJ,2,3,26,,"Atoms, elements & compounds",Structure and properties compared,1
+2026-MJ,2,3,27,,Metals,Properties & uses,1
+2026-MJ,2,3,28,,Metals,Reactivity series & displacement,1
+2026-MJ,2,3,29,,Chemistry of the environment,Water treatment & tests for water,1
+2026-MJ,2,3,30,,Chemistry of the environment,Composition of air,1
+2026-MJ,2,3,31,,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2026-MJ,2,3,32,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2026-MJ,2,3,33,,Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2026-MJ,2,3,34,,Organic chemistry,Alkenes,1
+2026-MJ,2,3,35,,Organic chemistry,Alcohols,1
+2026-MJ,2,3,36,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2026-MJ,2,3,37,,Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",1
+2026-MJ,2,3,38,,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2026-MJ,2,3,39,,Experimental techniques & chemical analysis,Chromatography,1
+2026-MJ,2,3,40,,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,4,1,1,a,Metals,"Extraction (blast furnace, aluminium)",1
+2026-MJ,4,1,1,b,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2026-MJ,4,1,1,c,Organic chemistry,"Fuels, petroleum & cracking",1
+2026-MJ,4,1,1,d,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2026-MJ,4,1,1,e,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2026-MJ,4,1,1,f,Metals,Reactivity series & displacement,1
+2026-MJ,4,1,1,g,Organic chemistry,Alcohols,1
+2026-MJ,4,1,2,a(i),Metals,Properties & uses,1
+2026-MJ,4,1,2,a(ii),The Periodic Table,Group VII,1
+2026-MJ,4,1,2,a(iii),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2026-MJ,4,1,2,a(iv),Chemistry of the environment,Water treatment & tests for water,1
+2026-MJ,4,1,2,a(v),Chemistry of the environment,Composition of air,1
+2026-MJ,4,1,2,a(vi),Metals,"Extraction (blast furnace, aluminium)",1
+2026-MJ,4,1,2,b(i),"Atoms, elements & compounds",Atomic structure & isotopes,2
+2026-MJ,4,1,2,b(ii),Stoichiometry,Relative masses,2
+2026-MJ,4,1,3,a(i),"Atoms, elements & compounds",Ions & ionic bonding,3
+2026-MJ,4,1,3,a(ii),"Atoms, elements & compounds",Ions & ionic bonding,2
+2026-MJ,4,1,3,a(iii),"Atoms, elements & compounds",Ions & ionic bonding,1
+2026-MJ,4,1,3,b(i),"Atoms, elements & compounds",Simple covalent molecules,2
+2026-MJ,4,1,3,b(ii),"Atoms, elements & compounds",Simple covalent molecules,2
+2026-MJ,4,1,4,a,Stoichiometry,Formulae & equations (incl. ionic),3
+2026-MJ,4,1,4,b,Chemical reactions,Rate of reaction,2
+2026-MJ,4,1,4,c(i),Chemical reactions,Rate of reaction,1
+2026-MJ,4,1,4,c(ii),Chemical reactions,Rate of reaction,1
+2026-MJ,4,1,4,d,Chemical reactions,Rate of reaction,3
+2026-MJ,4,1,5,a(i),Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,4,1,5,a(ii),Electrochemistry,Electrolysis products & electrode equations,2
+2026-MJ,4,1,5,a(iii),Electrochemistry,Electrolysis products & electrode equations,2
+2026-MJ,4,1,5,a(iv),Electrochemistry,Electrolysis products & electrode equations,2
+2026-MJ,4,1,5,a(v),Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,4,1,5,a(vi),Electrochemistry,Electrolysis products & electrode equations,2
+2026-MJ,4,1,5,b(i),Metals,"Extraction (blast furnace, aluminium)",1
+2026-MJ,4,1,5,b(ii),Metals,"Extraction (blast furnace, aluminium)",1
+2026-MJ,4,1,5,b(iii),Metals,"Extraction (blast furnace, aluminium)",1
+2026-MJ,4,1,5,b(iv),Metals,"Extraction (blast furnace, aluminium)",2
+2026-MJ,4,1,6,a(i),"Acids, bases & salts",Types of oxide,1
+2026-MJ,4,1,6,a(ii),Stoichiometry,Formulae & equations (incl. ionic),1
+2026-MJ,4,1,6,a(iii),Stoichiometry,Formulae & equations (incl. ionic),2
+2026-MJ,4,1,6,a(iv),Stoichiometry,Formulae & equations (incl. ionic),2
+2026-MJ,4,1,6,a(v),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,4,1,6,b(i),Stoichiometry,Formulae & equations (incl. ionic),3
+2026-MJ,4,1,6,b(ii),Chemical reactions,Redox & oxidation number,2
+2026-MJ,4,1,6,b(iii),The Periodic Table,Transition elements,1
+2026-MJ,4,1,6,c,Chemical reactions,Reversible reactions & equilibrium,3
+2026-MJ,4,1,7,a(i),Organic chemistry,Alkanes,1
+2026-MJ,4,1,7,a(ii),Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2026-MJ,4,1,7,a(iii),Organic chemistry,Alkanes,1
+2026-MJ,4,1,7,b(i),Organic chemistry,Alkanes,1
+2026-MJ,4,1,7,b(ii),Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2026-MJ,4,1,7,c(i),Organic chemistry,Alkenes,1
+2026-MJ,4,1,7,c(ii),Organic chemistry,Alkenes,2
+2026-MJ,4,1,7,c(iii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2026-MJ,4,3,1,a,Metals,"Extraction (blast furnace, aluminium)",1
+2026-MJ,4,3,1,b,Organic chemistry,Alkenes,1
+2026-MJ,4,3,1,c,Organic chemistry,Alkenes,1
+2026-MJ,4,3,1,d,Chemistry of the environment,"Climate change, carbon cycle & photosynthesis",1
+2026-MJ,4,3,1,e,Chemical reactions,"Industrial processes (Haber, Contact)",1
+2026-MJ,4,3,1,f,Organic chemistry,Alkanes,1
+2026-MJ,4,3,1,g,Organic chemistry,"Fuels, petroleum & cracking",1
+2026-MJ,4,3,2,a(i),Chemistry of the environment,Composition of air,1
+2026-MJ,4,3,2,a(ii),The Periodic Table,Group I,1
+2026-MJ,4,3,2,a(iii),"Atoms, elements & compounds",Atomic structure & isotopes,1
+2026-MJ,4,3,2,a(iv),Chemistry of the environment,Water treatment & tests for water,1
+2026-MJ,4,3,2,a(v),"Atoms, elements & compounds",Giant covalent structures,1
+2026-MJ,4,3,2,a(vi),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2026-MJ,4,3,2,b(i),"Atoms, elements & compounds",Atomic structure & isotopes,2
+2026-MJ,4,3,2,b(ii),Stoichiometry,Relative masses,1
+2026-MJ,4,3,3,a(i),"Atoms, elements & compounds",Ions & ionic bonding,3
+2026-MJ,4,3,3,a(ii),"Atoms, elements & compounds",Ions & ionic bonding,2
+2026-MJ,4,3,3,a(iii),"Atoms, elements & compounds",Ions & ionic bonding,1
+2026-MJ,4,3,3,b(i),"Atoms, elements & compounds",Simple covalent molecules,2
+2026-MJ,4,3,3,b(ii),"Atoms, elements & compounds",Simple covalent molecules,1
+2026-MJ,4,3,4,a(i),Stoichiometry,Formulae & equations (incl. ionic),1
+2026-MJ,4,3,4,a(ii),Stoichiometry,Formulae & equations (incl. ionic),1
+2026-MJ,4,3,4,a(iii),Chemical reactions,Rate of reaction,1
+2026-MJ,4,3,4,b,Chemical reactions,Rate of reaction,1
+2026-MJ,4,3,4,c,Chemical reactions,Rate of reaction,3
+2026-MJ,4,3,4,d(i),Chemical reactions,Redox & oxidation number,2
+2026-MJ,4,3,4,d(ii),Stoichiometry,Moles & reacting masses,3
+2026-MJ,4,3,5,a(i),Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,4,3,5,a(ii),Electrochemistry,Electrolysis products & electrode equations,2
+2026-MJ,4,3,5,a(iii),Electrochemistry,Electrolysis products & electrode equations,2
+2026-MJ,4,3,5,a(iv),Electrochemistry,Electrolysis products & electrode equations,2
+2026-MJ,4,3,5,a(v),Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,4,3,5,a(vi),Electrochemistry,Electrolysis products & electrode equations,2
+2026-MJ,4,3,5,b,Metals,"Extraction (blast furnace, aluminium)",1
+2026-MJ,4,3,5,c,Metals,"Extraction (blast furnace, aluminium)",2
+2026-MJ,4,3,6,a(i),"Acids, bases & salts",Types of oxide,1
+2026-MJ,4,3,6,a(ii),Stoichiometry,Formulae & equations (incl. ionic),1
+2026-MJ,4,3,6,a(iii),Stoichiometry,Formulae & equations (incl. ionic),2
+2026-MJ,4,3,6,a(iv),Stoichiometry,Formulae & equations (incl. ionic),2
+2026-MJ,4,3,6,b(i),The Periodic Table,Transition elements,1
+2026-MJ,4,3,6,b(ii),Stoichiometry,Formulae & equations (incl. ionic),2
+2026-MJ,4,3,6,c(i),Chemical reactions,Reversible reactions & equilibrium,1
+2026-MJ,4,3,6,c(ii),Chemical reactions,Reversible reactions & equilibrium,3
+2026-MJ,4,3,6,c(iii),Chemical reactions,"Industrial processes (Haber, Contact)",1
+2026-MJ,4,3,7,a(i),Organic chemistry,Alkanes,1
+2026-MJ,4,3,7,a(ii),Organic chemistry,Alkanes,1
+2026-MJ,4,3,7,a(iii),Organic chemistry,"Naming, formulae, homologous series & isomers",1
+2026-MJ,4,3,7,a(iv),Organic chemistry,"Naming, formulae, homologous series & isomers",2
+2026-MJ,4,3,7,b(i),Stoichiometry,Empirical & molecular formulae,1
+2026-MJ,4,3,7,b(ii),Organic chemistry,Alkenes,2
+2026-MJ,4,3,7,b(iii),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",3
+2026-MJ,4,3,7,b(iv),Organic chemistry,"Polymers (addition, condensation, proteins, plastics)",2
+2026-MJ,4,3,7,c,Stoichiometry,Empirical & molecular formulae,3
+2026-MJ,6,1,1,a(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2026-MJ,6,1,1,a(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2026-MJ,6,1,1,b(i),Experimental techniques & chemical analysis,Separation & purity,1
+2026-MJ,6,1,1,b(ii),Experimental techniques & chemical analysis,Separation & purity,1
+2026-MJ,6,1,1,b(iii),Experimental techniques & chemical analysis,Apparatus & measurement,1
+2026-MJ,6,1,1,c(i),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",1
+2026-MJ,6,1,1,c(ii),"Acids, bases & salts","Salt preparation, solubility & hydrated salts",2
+2026-MJ,6,1,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,5
+2026-MJ,6,1,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2026-MJ,6,1,2,c,Chemical energetics,Exothermic & endothermic,1
+2026-MJ,6,1,2,d,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",2
+2026-MJ,6,1,2,e,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2026-MJ,6,1,2,f(i),Experimental techniques & chemical analysis,Practical planning & evaluation,2
+2026-MJ,6,1,2,f(ii),Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2026-MJ,6,1,2,g,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2026-MJ,6,1,2,h,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2026-MJ,6,1,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,6,1,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2026-MJ,6,1,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2026-MJ,6,1,3,d(i),Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2026-MJ,6,1,3,d(ii),Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,6,1,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6
+2026-MJ,6,3,1,a,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2026-MJ,6,3,1,b,Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,6,3,1,c,Electrochemistry,Electrolysis products & electrode equations,1
+2026-MJ,6,3,1,d,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2026-MJ,6,3,1,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2026-MJ,6,3,1,f,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2026-MJ,6,3,2,a,Experimental techniques & chemical analysis,Apparatus & measurement,5
+2026-MJ,6,3,2,b,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",4
+2026-MJ,6,3,2,c,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",3
+2026-MJ,6,3,2,d,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2026-MJ,6,3,2,e,Experimental techniques & chemical analysis,Apparatus & measurement,1
+2026-MJ,6,3,2,f,Chemical energetics,Exothermic & endothermic,1
+2026-MJ,6,3,2,g,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2026-MJ,6,3,2,h,Experimental techniques & chemical analysis,Practical planning & evaluation,1
+2026-MJ,6,3,2,i,Experimental techniques & chemical analysis,"Results tables, graphs & data analysis",1
+2026-MJ,6,3,3,a,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,6,3,3,b,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,6,3,3,c,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2026-MJ,6,3,3,d,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,6,3,3,e,Experimental techniques & chemical analysis,"Tests for ions, gases & water",2
+2026-MJ,6,3,3,f,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,6,3,3,g,Experimental techniques & chemical analysis,"Tests for ions, gases & water",1
+2026-MJ,6,3,4,,Experimental techniques & chemical analysis,Practical planning & evaluation,6

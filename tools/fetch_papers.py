@@ -3,7 +3,8 @@
 
 Scope (agreed 19 Oct 2026): Maths/Physics/Chemistry/Biology at O Level, IGCSE and
 A Level, 2022-2026, May/June + Oct/Nov, every variant and file type on the page.
-`--extra` downloads EXTRA_SUBJECTS (other O Level and A Level subjects) instead.
+`--extra` downloads EXTRA_SUBJECTS (other O Level and A Level subjects) instead;
+`--igcse-extra` downloads IGCSE_EXTRA_SUBJECTS (IGCSE versions of those subjects).
 Re-running skips files already on disk; every file is logged to papers/manifest.csv.
 """
 import csv
@@ -42,6 +43,15 @@ EXTRA_SUBJECTS = [
     ("a-level", "business-9609"), ("a-level", "psychology-9990"),
 ]
 
+# IGCSE versions of the extra subjects (added 20 Oct 2026); run with --igcse-extra.
+IGCSE_EXTRA_SUBJECTS = [
+    ("igcse", "mathematics-additional-0606"), ("igcse", "computer-science-0478"),
+    ("igcse", "economics-0455"), ("igcse", "accounting-0452"), ("igcse", "business-studies-0450"),
+    ("igcse", "english-first-language-0500"), ("igcse", "english-second-language-oral-endorsement-0510"),
+    ("igcse", "information-and-communication-technology-0417"), ("igcse", "pakistan-studies-0448"),
+    ("igcse", "islamiyat---0493", "islamiyat-0493"), ("igcse", "urdu-second-language-0539"),
+]
+
 
 def get(url, referer=None):
     headers = {"User-Agent": UA}
@@ -72,7 +82,9 @@ def main():
         if new:
             w.writerow(["level", "subject", "session", "file", "bytes", "status", "url"])
         totals = {"ok": 0, "skip": 0, "fail": 0}
-        for level, subject, *folder in (EXTRA_SUBJECTS if "--extra" in sys.argv else SUBJECTS):
+        subjects = (EXTRA_SUBJECTS if "--extra" in sys.argv
+                    else IGCSE_EXTRA_SUBJECTS if "--igcse-extra" in sys.argv else SUBJECTS)
+        for level, subject, *folder in subjects:
             try:
                 sessions = session_slugs(level, subject)
             except Exception as e:  # keep going with the other subjects
