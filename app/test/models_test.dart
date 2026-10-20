@@ -14,7 +14,7 @@ void main() {
   final manifest = Manifest.fromJson(_asset('manifest.json'));
 
   test('manifest lists every pack and its levels', () {
-    expect(manifest.version, matches(RegExp(r'^\d{4}-\d{2}$')));
+    expect(manifest.version, matches(RegExp(r'^\d{4}-\d{2}(\.\d+)?$')));
     expect(manifest.levels.map((l) => l.id), containsAll(['o-level', 'igcse', 'a-level']));
     expect(manifest.packs, isNotEmpty);
     for (final p in manifest.packs) {
@@ -68,6 +68,8 @@ void main() {
     expect(m('2026-10').isOlderThan(m('2027-01')), isTrue);
     expect(m('2027-01').isOlderThan(m('2026-10')), isFalse);
     expect(m('2026-10').isOlderThan(m('2026-10')), isFalse);
+    expect(m('2026-10').isOlderThan(m('2026-10.2')), isTrue); // same-month re-release
+    expect(m('2026-10.2').isOlderThan(m('2027-01')), isTrue);
   });
 
   test('app version matches pubspec', () {
