@@ -13,8 +13,8 @@ Live URL: https://cambridgesimulator.homilabs.org. See README.md, docs/architect
 - Publishing (push to `deploy`, hPanel changes) only with Homi's OK in chat.
 
 ## Status (20 Oct 2026)
-- Website: live site still shows release 2026-10 (12 subjects). Release 2026-10.2 (39 subjects, 22,383 questions) is
-  on the `deploy` branch; Hostinger hPanel outage blocked Redeploy. When hPanel is back: Redeploy + flush CDN.
+- Website: release 2026-10.2 (39 subjects, 22,383 questions) live since 20 Oct 2026 (redeployed via hPanel GIT after the
+  Hostinger outage). Hostinger auto-deploy did not fire on push that day: after publish.sh, check the live manifest and Redeploy if needed.
   Fallback: `python3 scripts/ftp_publish.py` (needs an FTP password set in hPanel → FTP Accounts; Homi signs in with Google).
 - Google Play: "Question Simulator: Exam Prep", app id 4972626578894733558 (HomiLabs org account), production
   release 1 (0.1.0) sent for review 20 Oct 2026, managed publishing off (goes live when approved), 178 countries.
