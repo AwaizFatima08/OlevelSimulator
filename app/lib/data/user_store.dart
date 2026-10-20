@@ -1,7 +1,7 @@
 import 'package:flutter/foundation.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-/// Saved questions and "done" marks, kept only on this phone. Keys look like "0625|0625_s24_42_q7" (subject code, then question id).
+/// Saved questions and "done" marks, kept only on this device. Keys look like "0625|0625_s24_42_q7" (subject code, then question id).
 class UserStore extends ChangeNotifier {
   static const _savedKey = 'saved_questions';
   static const _doneKey = 'done_questions';

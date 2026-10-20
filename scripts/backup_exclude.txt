@@ -4,3 +4,9 @@ __pycache__/**
 *.log
 *.zip
 releases/**
+app/build/**
+app/.dart_tool/**
+app/android/.gradle/**
+app/android/app/build/**
+app/android/build/**
+app/.idea/**

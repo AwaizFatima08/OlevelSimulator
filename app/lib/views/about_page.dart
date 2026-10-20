@@ -28,7 +28,7 @@ class _AboutPageState extends State<AboutPage> {
       context: context,
       builder: (context) => AlertDialog(
         title: const Text('Clear saved and done marks?'),
-        content: const Text('This removes every saved question and done tick on this phone.'),
+        content: const Text('This removes every saved question and done tick on this device.'),
         actions: [
           TextButton(onPressed: () => Navigator.pop(context, false), child: const Text('Cancel')),
           FilledButton(onPressed: () => Navigator.pop(context, true), child: const Text('Clear')),
@@ -81,7 +81,7 @@ class _AboutPageState extends State<AboutPage> {
           Text('Privacy', style: text.titleMedium),
           const SizedBox(height: 4),
           const Text(
-            'No account, no ads, no analytics. Saved questions and done marks stay on this phone. '
+            'No account, no ads, no analytics. Saved questions and done marks stay on this device. '
             'The app only contacts the website to check for new questions.',
           ),
           const SizedBox(height: 8),

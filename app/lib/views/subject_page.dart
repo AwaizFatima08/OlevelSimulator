@@ -64,7 +64,7 @@ class _SubjectPageState extends State<SubjectPage> {
     return ListView(
       padding: const EdgeInsets.fromLTRB(16, 4, 16, 32),
       children: [
-        Text('${s.topics.length} topics · ${s.questionCount} questions · code ${s.code}',
+        Text('${s.topics.length} topics · ${formatCount(s.questionCount)} questions · code ${s.code}',
             style: TextStyle(color: scheme.onSurfaceVariant)),
         const SizedBox(height: 12),
         TextField(

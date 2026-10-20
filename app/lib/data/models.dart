@@ -206,14 +206,51 @@ class Subject {
 
   String paperName(String paper) => papers[paper] ?? 'Paper $paper';
 
-  /// Finds a question by id in any topic (a question can be listed under several topics).
+  /// The whole question with this id. A question whose parts cover several topics is listed once per topic, each
+  /// entry holding only that topic's parts, so the slices are merged here (parts, marks and subtopics combined).
   Question? findQuestion(String id) {
-    for (final t in topics) {
-      for (final q in t.questions) {
-        if (q.id == id) return q;
-      }
+    final slices = [
+      for (final t in topics)
+        for (final q in t.questions)
+          if (q.id == id) q
+    ];
+    if (slices.isEmpty) return null;
+    if (slices.length == 1) return slices.first;
+    final first = slices.first;
+    return Question(
+      id: id,
+      session: first.session,
+      paper: first.paper,
+      variant: first.variant,
+      number: first.number,
+      parts: _sortedParts({for (final q in slices) ...q.parts}),
+      marks: slices.fold(0.0, (sum, q) => sum + q.marks),
+      subtopics: {for (final q in slices) ...q.subtopics}.toList(),
+    );
+  }
+
+  static List<String> _sortedParts(Set<String> parts) => parts.toList()..sort(_comparePart);
+
+  // Part labels look like a, a(ii), b(iv)(a): compare level by level, reading roman numerals by value.
+  static int _comparePart(String a, String b) {
+    final ka = a.replaceAll(')', '').split('('), kb = b.replaceAll(')', '').split('(');
+    for (var i = 0; i < ka.length && i < kb.length; i++) {
+      final ra = i > 0 ? _roman(ka[i]) : null, rb = i > 0 ? _roman(kb[i]) : null;
+      final c = (ra != null && rb != null) ? ra.compareTo(rb) : ka[i].compareTo(kb[i]);
+      if (c != 0) return c;
     }
-    return null;
+    return ka.length.compareTo(kb.length);
+  }
+
+  static int? _roman(String s) {
+    const v = {'i': 1, 'v': 5, 'x': 10};
+    if (s.isEmpty || !s.split('').every(v.containsKey)) return null;
+    var total = 0;
+    for (var i = 0; i < s.length; i++) {
+      final cur = v[s[i]]!, next = i + 1 < s.length ? v[s[i + 1]]! : 0;
+      total += cur < next ? -cur : cur;
+    }
+    return total;
   }
 
   factory Subject.fromJson(Map<String, dynamic> j) => Subject(

@@ -60,7 +60,7 @@ class _HomePageState extends State<HomePage> {
           Text('Past paper questions, sorted by topic and year',
               style: text.headlineSmall?.copyWith(fontFamily: 'serif', fontWeight: FontWeight.w600)),
           const SizedBox(height: 8),
-          Text('$totalQ questions in ${m.packs.length} subjects · ${m.label}',
+          Text('${formatCount(totalQ)} questions in ${m.packs.length} subjects · ${m.label}',
               style: text.bodyMedium?.copyWith(color: scheme.onSurfaceVariant)),
           for (final level in m.levels) ...[
             const SizedBox(height: 24),
@@ -91,7 +91,7 @@ class _SubjectGrid extends StatelessWidget {
         _SubjectCard(
           code: p.code,
           name: p.name,
-          detail: '${p.questions} questions',
+          detail: '${formatCount(p.questions)} questions',
           onTap: () => Navigator.of(context).push(MaterialPageRoute(builder: (_) => SubjectPage(code: p.code))),
         ),
       for (final c in soon) _SubjectCard(code: c.code, name: c.name, detail: 'Coming soon'),

@@ -4,6 +4,7 @@ import 'dart:io';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:questionsimulator/app.dart';
 import 'package:questionsimulator/data/models.dart';
+import 'package:questionsimulator/widgets/common.dart';
 
 /// Reads the real bundled packs, so a broken pipeline build fails here before it reaches a phone.
 Map<String, dynamic> _asset(String name) =>
@@ -72,5 +73,48 @@ void main() {
   test('app version matches pubspec', () {
     final pubspec = File('pubspec.yaml').readAsStringSync();
     expect(pubspec, contains('version: $appVersion+'));
+  });
+
+  test('a question split across topics is merged back into the whole question', () {
+    var checked = 0;
+    for (final p in manifest.packs) {
+      final s = Subject.fromJson(_asset('${p.code}.json'));
+      final slices = <String, List<Question>>{};
+      for (final t in s.topics) {
+        for (final q in t.questions) {
+          slices.putIfAbsent(q.id, () => []).add(q);
+        }
+      }
+      for (final e in slices.entries.where((e) => e.value.length > 1)) {
+        final whole = s.findQuestion(e.key)!;
+        final total = e.value.fold<double>(0, (a, q) => a + q.marks);
+        expect(whole.marks, closeTo(total, 1e-9), reason: '${p.code} ${e.key}');
+        expect(whole.parts.toSet(), {for (final q in e.value) ...q.parts}, reason: '${p.code} ${e.key}');
+        checked++;
+      }
+    }
+    expect(checked, greaterThan(100));
+  });
+
+  test('merged part labels sort in exam order, reading roman numerals', () {
+    Question q(List<String> parts) => Question(
+        id: 'x', session: '2024-ON', paper: '4', variant: '1', number: '3', parts: parts, marks: 1, subtopics: const []);
+    final s = Subject(
+      code: 'T', level: 'igcse', name: 'T', papers: const {}, officialUrl: '', webUrl: '', guideUrl: '',
+      sessions: const ['2024-ON'],
+      topics: [
+        Topic(name: 'A', slug: 'a', share: 1, sessions: 1, subtopics: const [], questions: [q(['c', 'a(iv)'])]),
+        Topic(name: 'B', slug: 'b', share: 1, sessions: 1, subtopics: const [], questions: [q(['a(iii)', 'a(i)', 'b(ii)'])]),
+      ],
+    );
+    final whole = s.findQuestion('x')!;
+    expect(whole.parts, ['a(i)', 'a(iii)', 'a(iv)', 'b(ii)', 'c']);
+    expect(whole.marks, 2);
+  });
+
+  test('counts get thousands separators', () {
+    expect(formatCount(7), '7');
+    expect(formatCount(22383), '22,383');
+    expect(formatCount(1000000), '1,000,000');
   });
 }

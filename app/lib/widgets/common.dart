@@ -41,3 +41,6 @@ const disclaimer = 'Independent, non-profit study aid by HomiLabs. Not affiliate
     'Cambridge University Press & Assessment. "Cambridge", "IGCSE" and "O Level" are trademarks of Cambridge '
     'University Press & Assessment, used only to describe which exams the questions come from. Get the papers '
     'themselves from cambridgeinternational.org or your school.';
+
+/// 22383 -> "22,383".
+String formatCount(int n) => n.toString().replaceAllMapped(RegExp(r'\B(?=(\d{3})+(?!\d))'), (_) => ',');
