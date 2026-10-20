@@ -12,9 +12,15 @@ Live URL: https://cambridgesimulator.homilabs.org. See README.md, docs/architect
 - Release every six months via docs/release-checklist.md; bump `pipeline/release.json`.
 - Publishing (push to `deploy`, hPanel changes) only with Homi's OK in chat.
 
-## Status (20 Oct 2026, overnight)
-- Website live (release 2026-10, first upload: 12 subjects). The rebuilt site with 30+ subjects is in `site/` but NOT
-  yet published — publish only after Homi's OK (`bash scripts/publish.sh`, then flush CDN).
+## Status (20 Oct 2026)
+- Website: live site still shows release 2026-10 (12 subjects). Release 2026-10.2 (39 subjects, 22,383 questions) is
+  on the `deploy` branch; Hostinger hPanel outage blocked Redeploy. When hPanel is back: Redeploy + flush CDN.
+  Fallback: `python3 scripts/ftp_publish.py` (needs an FTP password set in hPanel → FTP Accounts; Homi signs in with Google).
+- Google Play: "Question Simulator: Exam Prep", app id 4972626578894733558 (HomiLabs org account), production
+  release 1 (0.1.0) sent for review 20 Oct 2026, managed publishing off (goes live when approved), 178 countries.
+  Listing kit: docs/play-listing.md, graphics in store/. Next versionCode ≥ 2.
+- Release builds: `bash scripts/build_release.sh` (upload key in .secrets/, key.properties gitignored).
+- Tested on Galaxy Tab S9 FE (Android 16) and Oppo CPH2743 (Android 16, 320 dp + text 1.15); 13 tests pass.
 - Question CSVs: the 12 original syllabuses cover every variant; the other subjects use variant 2 of each written paper.
-- Android app v0.1.0 debug APK: `releases/debug/` (gitignored). Testing checklist: docs/app-testing.md.
-- Several IGCSE papers are identical to their O Level twins (0606=4037, 0478=2210, 0455=2281, 0452=7707, 0450=7115).
+- Several IGCSE papers are identical to their O Level twins (0606=4037, 0478=2210, 0455=2281, 0452=7707, 0450=7115,
+  0448=2059, 0493=2058).

@@ -16,3 +16,9 @@ __pycache__/
 releases/
 *.apk
 *.aab
+
+# Signing keys and other secrets: local and Drive backups only, never the public repo
+.secrets/
+*.keystore
+*.jks
+key.properties
