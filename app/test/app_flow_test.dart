@@ -81,4 +81,24 @@ void main() {
       },
     );
   }
+
+  testWidgets('narrow phone with large text gets one subject card per row', (tester) async {
+    SharedPreferences.setMockInitialValues({});
+    final repo = ContentRepository(client: MockClient((_) async => http.Response('offline', 503)));
+    final store = UserStore();
+    await tester.runAsync(() async {
+      await repo.load();
+      await store.load();
+    });
+    // Oppo CPH2743 as tested: 1080 px wide at 540 dpi override = 320 dp, text scale 1.15.
+    tester.view.physicalSize = const Size(1080, 2372);
+    tester.view.devicePixelRatio = 3.375;
+    tester.platformDispatcher.textScaleFactorTestValue = 1.15;
+    addTearDown(tester.view.reset);
+    addTearDown(tester.platformDispatcher.clearTextScaleFactorTestValue);
+    await tester.pumpWidget(QuestionSimulatorApp(repo: repo, store: store));
+    await tester.pumpAndSettle();
+    final card = find.ancestor(of: find.text('4024'), matching: find.byType(Card));
+    expect(tester.getSize(card).width, greaterThanOrEqualTo(150 * 1.15));
+  });
 }

@@ -96,8 +96,11 @@ class _SubjectGrid extends StatelessWidget {
         ),
       for (final c in soon) _SubjectCard(code: c.code, name: c.name, detail: 'Coming soon'),
     ];
+    // As many columns as fit cards at least ~150 dp wide at the phone's text size, so names like
+    // "Additional Mathematics" never break mid-word (found on a narrow phone with large text).
+    final minCard = MediaQuery.textScalerOf(context).scale(150);
     return LayoutBuilder(builder: (context, box) {
-      final cols = box.maxWidth > 560 ? 3 : 2;
+      final cols = ((box.maxWidth + 10) / (minCard + 10)).floor().clamp(1, 3);
       final w = (box.maxWidth - (cols - 1) * 10) / cols;
       return Wrap(
         spacing: 10,
