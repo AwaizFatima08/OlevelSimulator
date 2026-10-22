@@ -19,6 +19,8 @@ Live URL: https://cambridgesimulator.homilabs.org. See README.md, docs/architect
 - Google Play: "Question Simulator: Exam Prep", app id 4972626578894733558 (HomiLabs org account), production
   release 1 (0.1.0) sent for review 20 Oct 2026, managed publishing off (goes live when approved), 178 countries.
   Listing kit: docs/play-listing.md, graphics in store/. Next versionCode ≥ 2.
+- Cambridge permission enquiry (showing real past-paper questions) sent 23 Oct 2026 to Publisher.Relations@cambridge.org
+  (draft: docs/cambridge-permission-email.md). No question text/images until a written yes. Expect ~3 weeks.
 - Release builds: `bash scripts/build_release.sh` (upload key in .secrets/, key.properties gitignored).
 - Tested on Galaxy Tab S9 FE (Android 16) and Oppo CPH2743 (Android 16, 320 dp + text 1.15); 13 tests pass.
 - Question CSVs: the 12 original syllabuses cover every variant; the other subjects use variant 2 of each written paper.
