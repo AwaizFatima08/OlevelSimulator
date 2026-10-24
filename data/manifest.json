@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "2026-10.3",
+ "version": "2026-10.4",
  "label": "May/June 2022 to May/June 2026",
  "sessions": [
   "2022-MJ",
@@ -167,7 +167,7 @@
    "level": "o-level",
    "name": "Business Studies",
    "file": "/data/7115.json",
-   "bytes": 251811,
+   "bytes": 275810,
    "questions": 72
   },
   {
@@ -175,7 +175,7 @@
    "level": "o-level",
    "name": "English Language",
    "file": "/data/1123.json",
-   "bytes": 531481,
+   "bytes": 540996,
    "questions": 102
   },
   {
@@ -183,7 +183,7 @@
    "level": "o-level",
    "name": "Pakistan Studies",
    "file": "/data/2059.json",
-   "bytes": 601908,
+   "bytes": 616905,
    "questions": 90
   },
   {
@@ -191,7 +191,7 @@
    "level": "o-level",
    "name": "Islamiyat",
    "file": "/data/2058.json",
-   "bytes": 420342,
+   "bytes": 659580,
    "questions": 90
   },
   {
@@ -199,7 +199,7 @@
    "level": "o-level",
    "name": "Urdu First Language",
    "file": "/data/3247.json",
-   "bytes": 524281,
+   "bytes": 621815,
    "questions": 35
   },
   {
@@ -207,7 +207,7 @@
    "level": "o-level",
    "name": "Urdu Second Language",
    "file": "/data/3248.json",
-   "bytes": 597085,
+   "bytes": 610780,
    "questions": 322
   },
   {
@@ -215,7 +215,7 @@
    "level": "igcse",
    "name": "Additional Mathematics",
    "file": "/data/0606.json",
-   "bytes": 48646,
+   "bytes": 319526,
    "questions": 203
   },
   {
@@ -223,7 +223,7 @@
    "level": "igcse",
    "name": "Computer Science",
    "file": "/data/0478.json",
-   "bytes": 47588,
+   "bytes": 372333,
    "questions": 162
   },
   {
@@ -231,7 +231,7 @@
    "level": "igcse",
    "name": "Economics",
    "file": "/data/0455.json",
-   "bytes": 73825,
+   "bytes": 255545,
    "questions": 315
   },
   {
@@ -239,7 +239,7 @@
    "level": "igcse",
    "name": "Accounting",
    "file": "/data/0452.json",
-   "bytes": 73575,
+   "bytes": 264031,
    "questions": 360
   },
   {
@@ -247,7 +247,7 @@
    "level": "igcse",
    "name": "Business Studies",
    "file": "/data/0450.json",
-   "bytes": 33183,
+   "bytes": 275833,
    "questions": 72
   },
   {
@@ -279,7 +279,7 @@
    "level": "igcse",
    "name": "Pakistan Studies",
    "file": "/data/0448.json",
-   "bytes": 26675,
+   "bytes": 544868,
    "questions": 50
   },
   {
@@ -287,7 +287,7 @@
    "level": "igcse",
    "name": "Islamiyat",
    "file": "/data/0493.json",
-   "bytes": 23152,
+   "bytes": 659572,
    "questions": 90
   },
   {
