@@ -1,0 +1,612 @@
+{
+ "code": "9618",
+ "name": "Computer Science",
+ "level": "a-level",
+ "papers": {
+  "1": "Paper 1 Theory Fundamentals",
+  "2": "Paper 2 Problem-solving and Programming",
+  "3": "Paper 3 Advanced Theory",
+  "4": "Paper 4 Practical"
+ },
+ "guide": "9618-alevel-computer-science.md",
+ "topics": [
+  {
+   "topic": "Information representation",
+   "subtopics": [
+    {
+     "name": "Bitmap & vector graphics",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Number conversions & units",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Compression",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Binary arithmetic & two's complement",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Sound representation",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Character sets",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Hardware",
+   "subtopics": [
+    {
+     "name": "Logic gates & circuits",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Input/output devices & sensors",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Memory & storage",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Computers & embedded systems",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Processor fundamentals",
+   "subtopics": [
+    {
+     "name": "Assembly language & addressing",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Bit manipulation & shifts",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Performance & ports",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "CPU architecture & registers",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Fetch-execute cycle & interrupts",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Security, privacy and data integrity",
+   "subtopics": [
+    {
+     "name": "Security threats & protection",
+     "target": 17,
+     "existing": 0,
+     "to_write": 17
+    },
+    {
+     "name": "Validation & verification",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Privacy & integrity",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Databases",
+   "subtopics": [
+    {
+     "name": "SQL queries (DML)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "DBMS features",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Relational model & keys",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "E-R diagrams",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Normalisation",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "SQL definition (DDL)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "System software",
+   "subtopics": [
+    {
+     "name": "IDE features",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Translators",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Operating system functions",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Utility software",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Program libraries",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Ethics and ownership",
+   "subtopics": [
+    {
+     "name": "Copyright & licensing",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    },
+    {
+     "name": "Artificial Intelligence",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Professional ethics",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Communication",
+   "subtopics": [
+    {
+     "name": "Networks & topologies",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Network devices & media",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Internet, IP addressing & DNS",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Client-server & cloud",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Ethernet & CSMA/CD",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Wireless & cellular networks",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Software development",
+   "subtopics": [
+    {
+     "name": "Structure charts & state-transition diagrams",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Testing & maintenance",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Errors, debugging & IDE use",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Development life cycle",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    }
+   ]
+  },
+  {
+   "topic": "Algorithm design and problem-solving",
+   "subtopics": [
+    {
+     "name": "Writing pseudocode algorithms",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Searching & sorting",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Computational thinking & abstraction",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Dry runs & trace tables",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Flowcharts",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Identifier tables & stepwise refinement",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Programming",
+   "subtopics": [
+    {
+     "name": "String & built-in functions",
+     "target": 20,
+     "existing": 0,
+     "to_write": 20
+    },
+    {
+     "name": "Constructs & expressions",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Procedures, functions & parameters",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Data types and structures",
+   "subtopics": [
+    {
+     "name": "Text files",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Stacks, queues & linked lists",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Arrays",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Data types & records",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    }
+   ]
+  },
+  {
+   "topic": "Data representation",
+   "subtopics": [
+    {
+     "name": "User-defined data types",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Floating-point representation",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "File organisation & access",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    }
+   ]
+  },
+  {
+   "topic": "Further programming",
+   "subtopics": [
+    {
+     "name": "Object-oriented programming",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "File processing & exception handling",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Declarative programming (Prolog)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Programming paradigms & low-level programming",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Communication and internet technologies",
+   "subtopics": [
+    {
+     "name": "Protocols & TCP/IP suite",
+     "target": 20,
+     "existing": 0,
+     "to_write": 20
+    },
+    {
+     "name": "Circuit & packet switching",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    }
+   ]
+  },
+  {
+   "topic": "System software (A Level)",
+   "subtopics": [
+    {
+     "name": "BNF & syntax diagrams",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Reverse Polish notation",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Process scheduling & interrupts",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Compilation stages",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Memory management & virtual memory",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Hardware and virtual machines",
+   "subtopics": [
+    {
+     "name": "Boolean algebra & Karnaugh maps",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Logic circuits, adders & flip-flops",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Virtual machines",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Parallel processing architectures",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "RISC/CISC & pipelining",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Security",
+   "subtopics": [
+    {
+     "name": "Digital certificates & signatures",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Encryption & keys",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "SSL/TLS protocols",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Quantum cryptography",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Computational thinking and problem-solving",
+   "subtopics": [
+    {
+     "name": "Abstract data types",
+     "target": 17,
+     "existing": 0,
+     "to_write": 17
+    },
+    {
+     "name": "Searching & Big O",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Recursion",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Artificial intelligence",
+   "subtopics": [
+    {
+     "name": "Graphs, Dijkstra & A*",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Machine learning & neural networks",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    }
+   ]
+  }
+ ]
+}

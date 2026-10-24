@@ -1,0 +1,428 @@
+{
+ "code": "0620",
+ "name": "Chemistry",
+ "level": "igcse",
+ "papers": {
+  "2": "Paper 2 Multiple Choice (Extended)",
+  "4": "Paper 4 Theory (Extended)",
+  "5": "Paper 5 Practical",
+  "6": "Paper 6 Alternative to Practical"
+ },
+ "guide": "0620-igcse-chemistry.md",
+ "topics": [
+  {
+   "topic": "States of matter",
+   "subtopics": [
+    {
+     "name": "Kinetic particle theory & changes of state (incl. gas P/V/T)",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Diffusion",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Experimental techniques & chemical analysis",
+   "subtopics": [
+    {
+     "name": "Tests for ions, gases & water",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Practical planning & evaluation",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Results tables, graphs & data analysis",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Apparatus & measurement",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Titration technique",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Separation & purity",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Chromatography",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Atoms, elements & compounds",
+   "subtopics": [
+    {
+     "name": "Atomic structure & isotopes",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Ions & ionic bonding",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Simple covalent molecules",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Giant covalent structures",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Metallic bonding",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Structure and properties compared",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Elements, compounds & mixtures",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Stoichiometry",
+   "subtopics": [
+    {
+     "name": "Formulae & equations (incl. ionic)",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Moles & reacting masses",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Empirical & molecular formulae",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Concentration & titration calculations",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Relative masses",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Gas volumes",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Electrochemistry",
+   "subtopics": [
+    {
+     "name": "Electrolysis products & electrode equations",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Cells & hydrogen fuel cells",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Electroplating & industrial electrolysis",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Chemical reactions",
+   "subtopics": [
+    {
+     "name": "Reversible reactions & equilibrium",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Rate of reaction",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Industrial processes (Haber, Contact)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Redox & oxidation number",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Physical vs chemical change",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Chemical energetics",
+   "subtopics": [
+    {
+     "name": "Bond-energy calculations",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Energy profiles & activation energy",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Exothermic & endothermic",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Acids, bases & salts",
+   "subtopics": [
+    {
+     "name": "Salt preparation, solubility & hydrated salts",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Properties of acids/bases & indicators",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Types of oxide",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Strong/weak acids & pH",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "The Periodic Table",
+   "subtopics": [
+    {
+     "name": "Transition elements",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Group VII",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Group I",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Trends & arrangement",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Noble gases",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Metals",
+   "subtopics": [
+    {
+     "name": "Extraction (blast furnace, aluminium)",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Reactivity series & displacement",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Corrosion & rust prevention",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Properties & uses",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Alloys",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Chemistry of the environment",
+   "subtopics": [
+    {
+     "name": "Air pollutants & catalytic converters",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Climate change, carbon cycle & photosynthesis",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Water treatment & tests for water",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Composition of air",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Fertilisers (NPK)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Organic chemistry",
+   "subtopics": [
+    {
+     "name": "Polymers (addition, condensation, proteins, plastics)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Naming, formulae, homologous series & isomers",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Carboxylic acids & esters",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Alcohols",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Alkenes",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Alkanes",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Fuels, petroleum & cracking",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  }
+ ]
+}

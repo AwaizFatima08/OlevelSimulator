@@ -1,0 +1,229 @@
+{
+ "code": "0510",
+ "name": "English as a Second Language",
+ "level": "igcse",
+ "papers": {
+  "1": "Paper 1 Reading and Writing (Core until 2023)",
+  "2": "Paper 2 (Reading and Writing Extended until 2023; Listening from 2024)",
+  "3": "Paper 3 Listening Core (until 2023)",
+  "4": "Paper 4 Listening Extended (until 2023)"
+ },
+ "guide": "0510-igcse-english-second-language.md",
+ "topics": [
+  {
+   "topic": "Reading for detail",
+   "subtopics": [
+    {
+     "name": "Single-detail retrieval",
+     "target": 18,
+     "existing": 0,
+     "to_write": 18
+    },
+    {
+     "name": "Multiple-detail retrieval",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    }
+   ]
+  },
+  {
+   "topic": "Multiple matching (reading)",
+   "subtopics": [
+    {
+     "name": "Matching to sections of one article",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Matching to four texts or sections (A–D)",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    }
+   ]
+  },
+  {
+   "topic": "Note-making",
+   "subtopics": [
+    {
+     "name": "Notes under headings",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Summary writing",
+   "subtopics": [
+    {
+     "name": "Summary of two aspects",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Summary of one aspect",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    }
+   ]
+  },
+  {
+   "topic": "Email/informal writing",
+   "subtopics": [
+    {
+     "name": "Recounting a recent experience",
+     "target": 18,
+     "existing": 0,
+     "to_write": 18
+    },
+    {
+     "name": "Planning a visit or future event",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Describing a problem and its effects",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Article, report, review or essay writing",
+   "subtopics": [
+    {
+     "name": "Review",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Article",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Report",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Essay",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Listening: short extracts",
+   "subtopics": [
+    {
+     "name": "Short-answer questions",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Multiple choice (A–D)",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    }
+   ]
+  },
+  {
+   "topic": "Listening: talk",
+   "subtopics": [
+    {
+     "name": "Gap-fill notes",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Multiple-choice sentence completion",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    }
+   ]
+  },
+  {
+   "topic": "Listening: speaker matching",
+   "subtopics": [
+    {
+     "name": "Six speakers matched to opinions",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Six speakers matched to ideas",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    }
+   ]
+  },
+  {
+   "topic": "Listening: interview",
+   "subtopics": [
+    {
+     "name": "Multiple choice (A–C)",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Listening: talk and discussion notes",
+   "subtopics": [
+    {
+     "name": "Talk: gap-fill notes",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Discussion: gap-fill notes",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    }
+   ]
+  },
+  {
+   "topic": "Multiple-choice reading",
+   "subtopics": [
+    {
+     "name": "Multiple-choice questions on an article",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Listening: short conversations",
+   "subtopics": [
+    {
+     "name": "Multiple choice (A–C), two questions per recording",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  }
+ ]
+}

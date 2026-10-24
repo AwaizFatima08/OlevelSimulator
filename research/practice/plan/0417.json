@@ -1,0 +1,436 @@
+{
+ "code": "0417",
+ "name": "ICT",
+ "level": "igcse",
+ "papers": {
+  "1": "Paper 1 Theory"
+ },
+ "guide": "0417-igcse-ict.md",
+ "topics": [
+  {
+   "topic": "Input and output devices",
+   "subtopics": [
+    {
+     "name": "Direct data entry devices (bar codes, RFID, QR)",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Input devices",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Sensors, actuators and ADC/DAC",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Output devices",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    }
+   ]
+  },
+  {
+   "topic": "Networks and the effects of using them",
+   "subtopics": [
+    {
+     "name": "Passwords and authentication",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Cloud computing and file sharing",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Network devices",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Electronic conferencing",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Network types (LAN, WLAN, WAN)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Wi-fi and Bluetooth",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Internet, intranet and extranet",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Document production",
+   "subtopics": [
+    {
+     "name": "Page and text formatting",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Images",
+   "subtopics": [
+    {
+     "name": "Editing images",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Storage devices and media",
+   "subtopics": [
+    {
+     "name": "Magnetic, optical and solid-state storage",
+     "target": 19,
+     "existing": 0,
+     "to_write": 19
+    },
+    {
+     "name": "Backing storage vs internal memory",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    }
+   ]
+  },
+  {
+   "topic": "Safety and security",
+   "subtopics": [
+    {
+     "name": "Security threats and prevention",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "eSafety and data protection",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "SSL, encryption and digital certificates",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Physical safety",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Communication",
+   "subtopics": [
+    {
+     "name": "Internet, WWW, URLs and search engines",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Email and spam",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    }
+   ]
+  },
+  {
+   "topic": "Spreadsheets",
+   "subtopics": [
+    {
+     "name": "Formulas and functions",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "The systems life cycle",
+   "subtopics": [
+    {
+     "name": "Design: data capture forms and file structures",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Testing and test data",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Analysis",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Implementation methods",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Design: validation routines",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Documentation",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Databases",
+   "subtopics": [
+    {
+     "name": "Databases vs other methods",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "The effects of using IT",
+   "subtopics": [
+    {
+     "name": "Health problems",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Microprocessor-controlled devices",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Effects on work and employment",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "ICT applications",
+   "subtopics": [
+    {
+     "name": "Monitoring, measurement and control",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Online booking systems",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Robotics and computer control",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Expert systems",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Retail and internet shopping",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Communication media and ePublications",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Banking applications",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Recognition systems",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Computer modelling",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Satellite systems",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Medical applications",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Proofing",
+   "subtopics": [
+    {
+     "name": "Validation and verification together",
+     "target": 19,
+     "existing": 0,
+     "to_write": 19
+    },
+    {
+     "name": "Verification and proofreading",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    }
+   ]
+  },
+  {
+   "topic": "Styles",
+   "subtopics": [
+    {
+     "name": "Corporate house style",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Layout",
+   "subtopics": [
+    {
+     "name": "Headers and footers",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Types and components of computer systems",
+   "subtopics": [
+    {
+     "name": "Operating systems and user interfaces",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Types of computer",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Internal components and memory",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Emerging technologies",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Hardware and software",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "File management",
+   "subtopics": [
+    {
+     "name": "Generic file formats",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Website authoring",
+   "subtopics": [
+    {
+     "name": "Web development layers and HTML",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Audience",
+   "subtopics": [
+    {
+     "name": "Software copyright",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  }
+ ]
+}

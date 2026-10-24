@@ -1,0 +1,411 @@
+{
+ "code": "9708",
+ "name": "Economics",
+ "level": "a-level",
+ "papers": {
+  "1": "Paper 1 AS Multiple Choice",
+  "2": "Paper 2 AS Data Response and Essays",
+  "3": "Paper 3 A Level Multiple Choice",
+  "4": "Paper 4 A Level Data Response and Essays"
+ },
+ "guide": "9708-alevel-economics.md",
+ "topics": [
+  {
+   "topic": "Basic economic ideas and resource allocation",
+   "subtopics": [
+    {
+     "name": "Production possibility curves",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Classification of goods and services",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Resource allocation in economic systems",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Factors of production and specialisation",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Economic methodology (positive and normative)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Money",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Scarcity, choice and opportunity cost",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "The price system and the microeconomy",
+   "subtopics": [
+    {
+     "name": "Market equilibrium and interrelated markets",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Income and cross elasticity of demand",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Price elasticity of demand",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Demand and supply curves",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Consumer and producer surplus",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Price elasticity of supply",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Functions of the price mechanism",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Government macroeconomic intervention",
+   "subtopics": [
+    {
+     "name": "Fiscal policy",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Supply-side policy",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Monetary policy",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Macroeconomic policy objectives",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Government microeconomic intervention",
+   "subtopics": [
+    {
+     "name": "Maximum and minimum prices",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Income and wealth inequality",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Reasons for intervention (merit, demerit and public goods)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Indirect taxes and subsidies",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Direct provision, buffer stocks and transfer payments",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "The macroeconomy",
+   "subtopics": [
+    {
+     "name": "Price stability (inflation and deflation)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Aggregate demand and aggregate supply",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Economic growth",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Unemployment",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Circular flow of income",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "National income statistics",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "International economic issues",
+   "subtopics": [
+    {
+     "name": "Policies to correct current account imbalances",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Exchange rates",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Terms of trade",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Reasons for trade and comparative advantage",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Current account of the balance of payments",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Protectionism",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "The price system and the microeconomy (A Level)",
+   "subtopics": [
+    {
+     "name": "Market structures and price discrimination",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Externalities and cost-benefit analysis",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Indifference curves and budget lines",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Costs, revenue and production",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Utility and marginal utility theory",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Efficiency and market failure",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Growth, survival and objectives of firms",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Government microeconomic intervention (A Level)",
+   "subtopics": [
+    {
+     "name": "Labour markets and intervention",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Policies to correct market failure",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Equity and redistribution",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Government failure",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "The macroeconomy (A Level)",
+   "subtopics": [
+    {
+     "name": "Money and banking",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Economic growth and sustainability",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Circular flow, multiplier and output gaps",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Employment and unemployment",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "International economic issues (A Level)",
+   "subtopics": [
+    {
+     "name": "Economic development and living standards",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Relationships between countries (aid, FDI, MNCs, debt)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Exchange rate systems and effects",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Globalisation and trade integration",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Policies to correct the balance of payments",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Government macroeconomic intervention (A Level)",
+   "subtopics": [
+    {
+     "name": "Effectiveness of fiscal, monetary and supply-side policy",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Policy objectives and conflicts",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    }
+   ]
+  }
+ ]
+}

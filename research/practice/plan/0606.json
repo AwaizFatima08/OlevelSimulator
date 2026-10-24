@@ -1,0 +1,397 @@
+{
+ "code": "0606",
+ "name": "Additional Mathematics",
+ "level": "igcse",
+ "papers": {
+  "1": "Paper 1 (non-calculator from 2025)",
+  "2": "Paper 2 (calculator)"
+ },
+ "guide": "0606-igcse-additional-maths.md",
+ "topics": [
+  {
+   "topic": "Trigonometry",
+   "subtopics": [
+    {
+     "name": "Trigonometric equations",
+     "target": 14,
+     "existing": 14,
+     "to_write": 0
+    },
+    {
+     "name": "Trigonometric graphs",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Identities and proofs",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Sine and cosine rules (exact values)",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Straight-line graphs",
+   "subtopics": [
+    {
+     "name": "Linear form (log graphs)",
+     "target": 14,
+     "existing": 14,
+     "to_write": 0
+    },
+    {
+     "name": "Lines, midpoints and distances",
+     "target": 8,
+     "existing": 8,
+     "to_write": 0
+    },
+    {
+     "name": "Perpendicular lines and bisectors",
+     "target": 8,
+     "existing": 8,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Vectors in two dimensions",
+   "subtopics": [
+    {
+     "name": "Velocity and position vectors",
+     "target": 12,
+     "existing": 12,
+     "to_write": 0
+    },
+    {
+     "name": "Vector geometry",
+     "target": 12,
+     "existing": 12,
+     "to_write": 0
+    },
+    {
+     "name": "Vector algebra and unit vectors",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Series",
+   "subtopics": [
+    {
+     "name": "Binomial expansion",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    },
+    {
+     "name": "Arithmetic progressions",
+     "target": 8,
+     "existing": 8,
+     "to_write": 0
+    },
+    {
+     "name": "Geometric progressions",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Sum to infinity",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Factors of polynomials",
+   "subtopics": [
+    {
+     "name": "Solving cubic equations",
+     "target": 17,
+     "existing": 17,
+     "to_write": 0
+    },
+    {
+     "name": "Factor and remainder theorems",
+     "target": 13,
+     "existing": 13,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Differentiation",
+   "subtopics": [
+    {
+     "name": "Tangents and normals",
+     "target": 8,
+     "existing": 8,
+     "to_write": 0
+    },
+    {
+     "name": "Derivatives (chain, product, quotient)",
+     "target": 8,
+     "existing": 8,
+     "to_write": 0
+    },
+    {
+     "name": "Small changes and rates of change",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Stationary points",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Practical maxima and minima",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Integration",
+   "subtopics": [
+    {
+     "name": "Area under a curve",
+     "target": 12,
+     "existing": 12,
+     "to_write": 0
+    },
+    {
+     "name": "Definite integrals",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Finding a curve from its gradient",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Integration as reverse of differentiation",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Indefinite integrals",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Permutations and combinations",
+   "subtopics": [
+    {
+     "name": "Permutations",
+     "target": 15,
+     "existing": 15,
+     "to_write": 0
+    },
+    {
+     "name": "Combinations",
+     "target": 15,
+     "existing": 15,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Logarithmic and exponential functions",
+   "subtopics": [
+    {
+     "name": "Logarithmic and exponential equations",
+     "target": 20,
+     "existing": 20,
+     "to_write": 0
+    },
+    {
+     "name": "Laws of logarithms and change of base",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Graphs of exponential and log functions",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Kinematics",
+   "subtopics": [
+    {
+     "name": "Displacement, velocity, acceleration",
+     "target": 19,
+     "existing": 19,
+     "to_write": 0
+    },
+    {
+     "name": "Motion graphs",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Indices and surds",
+   "subtopics": [
+    {
+     "name": "Surds",
+     "target": 16,
+     "existing": 16,
+     "to_write": 0
+    },
+    {
+     "name": "Indices and equations with indices",
+     "target": 14,
+     "existing": 14,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Equations, inequalities and graphs",
+   "subtopics": [
+    {
+     "name": "Modulus and cubic graphs",
+     "target": 12,
+     "existing": 12,
+     "to_write": 0
+    },
+    {
+     "name": "Modulus equations and inequalities",
+     "target": 12,
+     "existing": 12,
+     "to_write": 0
+    },
+    {
+     "name": "Cubic inequalities",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Equations reducible to quadratics",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Quadratic functions",
+   "subtopics": [
+    {
+     "name": "Discriminant and nature of roots",
+     "target": 15,
+     "existing": 15,
+     "to_write": 0
+    },
+    {
+     "name": "Quadratic graphs and completing the square",
+     "target": 12,
+     "existing": 12,
+     "to_write": 0
+    },
+    {
+     "name": "Quadratic inequalities",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Circular measure",
+   "subtopics": [
+    {
+     "name": "Arc length and sector area",
+     "target": 30,
+     "existing": 30,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Functions",
+   "subtopics": [
+    {
+     "name": "Graphs of a function and its inverse",
+     "target": 10,
+     "existing": 10,
+     "to_write": 0
+    },
+    {
+     "name": "Composite functions",
+     "target": 8,
+     "existing": 8,
+     "to_write": 0
+    },
+    {
+     "name": "Inverse functions",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Domain and range",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Simultaneous equations",
+   "subtopics": [
+    {
+     "name": "Linear and non-linear simultaneous equations",
+     "target": 30,
+     "existing": 30,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Coordinate geometry of the circle",
+   "subtopics": [
+    {
+     "name": "Circle and line (tangents, intersections)",
+     "target": 20,
+     "existing": 20,
+     "to_write": 0
+    },
+    {
+     "name": "Equation of a circle",
+     "target": 10,
+     "existing": 10,
+     "to_write": 0
+    }
+   ]
+  }
+ ]
+}

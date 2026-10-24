@@ -1,0 +1,130 @@
+{
+ "code": "0539",
+ "name": "Urdu as a Second Language",
+ "level": "igcse",
+ "papers": {
+  "1": "Paper 1 Reading and Writing",
+  "2": "Paper 2 Listening"
+ },
+ "guide": "0539-igcse-urdu-second-language.md",
+ "topics": [
+  {
+   "topic": "Reading comprehension",
+   "subtopics": [
+    {
+     "name": "Note-making under headings",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Short-answer questions",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Paragraph matching (A-D)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Matching statements to four named experts",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Summary writing",
+   "subtopics": [
+    {
+     "name": "Summary from notes (about 100 words)",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Directed writing",
+   "subtopics": [
+    {
+     "name": "Informal email to a friend",
+     "target": 17,
+     "existing": 0,
+     "to_write": 17
+    },
+    {
+     "name": "Email to a teacher",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Informal email (advice to a cousin)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    }
+   ]
+  },
+  {
+   "topic": "Composition",
+   "subtopics": [
+    {
+     "name": "Opinion article (agree or disagree)",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Listening: short extracts",
+   "subtopics": [
+    {
+     "name": "Short answers on brief recordings",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Listening: note completion",
+   "subtopics": [
+    {
+     "name": "Gap-fill notes on a talk or report",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Listening: speaker matching",
+   "subtopics": [
+    {
+     "name": "Six opinions matched to statements A-G",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Listening: interview",
+   "subtopics": [
+    {
+     "name": "Three-option multiple choice",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  }
+ ]
+}

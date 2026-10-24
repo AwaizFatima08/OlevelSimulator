@@ -1,4 +1,4 @@
-# Brief: HomiLabs original practice questions (all O Level subjects)
+# Brief: HomiLabs original practice questions (O Level, IGCSE, AS & A Level)
 
 Goal: original exam-style practice questions, published under each topic on the website and in the app. They must be
 **HomiLabs' own work**, never copied or paraphrased from Cambridge papers. Students rely on the answers: correctness
@@ -25,7 +25,10 @@ comes first.
   MCQ. Write an MCQ as one part: the `text` holds the question and then the four options on new lines as
   "A …\nB …\nC …\nD …"; `marks` 1; `answer` is the letter plus the option text; `working` explains why it is right and
   why the main distractor is wrong. Exactly one option is correct; distractors are plausible.
-- Structured/theory questions: 1–6 marks per part, 2–8 per question, command words as in the analysis (State, Describe,
+- Long writing tasks (essays, compositions, directed writing, summaries, 'Was … the most important reason?' answers,
+  extended programming tasks, case-study decisions): ONE part at the real exam mark from the analysis (up to 30), as a
+  student would meet it; `working` gives the content points and what each mark band needs. Do not split them.
+- Other structured/theory questions: 1–6 marks per part, 2–8 per question, command words as in the analysis (State, Describe,
   Explain, Calculate, Suggest…). For "explain"/"describe" answers, give the mark points the answer must contain
   (`working`: "1 mark each for any two of: …").
 - Practical / alternative-to-practical styles (papers 3/4): describe the apparatus and give results in a table; ask for

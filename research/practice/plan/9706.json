@@ -1,0 +1,674 @@
+{
+ "code": "9706",
+ "name": "Accounting",
+ "level": "a-level",
+ "papers": {
+  "1": "Paper 1 AS Multiple Choice",
+  "2": "Paper 2 AS Structured Questions",
+  "3": "Paper 3 Financial Accounting (A Level structured paper in 2022)",
+  "4": "Paper 4 Cost and Management Accounting (from 2023)"
+ },
+ "guide": "9706-alevel-accounting.md",
+ "topics": [
+  {
+   "topic": "Accounting concepts and principles",
+   "subtopics": [
+    {
+     "name": "Accounting concepts",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Accounting for non-current assets",
+   "subtopics": [
+    {
+     "name": "Depreciation methods and calculation",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Disposals and part-exchange",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Revaluation",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Cost of non-current assets",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Reconciliation and verification",
+   "subtopics": [
+    {
+     "name": "Control accounts",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Bank reconciliation",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Correction of errors and suspense account",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Purpose and limitations of verification",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Financial statements of sole traders",
+   "subtopics": [
+    {
+     "name": "Statement of profit or loss and SOFP",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Accruals and prepayments",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Irrecoverable debts and credit control",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Adjustments to draft statements",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Inventory valuation (NRV)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Incomplete records",
+   "subtopics": [
+    {
+     "name": "Missing figures and statements from incomplete records",
+     "target": 23,
+     "existing": 0,
+     "to_write": 23
+    },
+    {
+     "name": "Mark-up and margin",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Full versus incomplete records",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Partnership accounts",
+   "subtopics": [
+    {
+     "name": "Admission, retirement and goodwill",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Appropriation and current accounts",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Partnership statement of profit or loss",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Partnership Act and agreements",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Question withdrawn (marks credited)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Limited company accounts",
+   "subtopics": [
+    {
+     "name": "Statement of profit or loss and SOFP",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Statement of changes in equity",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Share issues (bonus and rights)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Sources of finance",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Corrections to profit and reserves",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Reserves and equity",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Dividends",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Analysis and communication of accounting information",
+   "subtopics": [
+    {
+     "name": "Performance evaluation and advice",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Investment and gearing ratios",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Efficiency ratios",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Profitability ratios",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Users of accounting information",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Liquidity ratios",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Limitations of ratios",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Costing for materials and labour",
+   "subtopics": [
+    {
+     "name": "Cost classification and behaviour",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Inventory valuation (FIFO and AVCO)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Just-in-time inventory management",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Labour remuneration",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Absorption costing",
+   "subtopics": [
+    {
+     "name": "Pricing and decisions",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Overhead allocation and apportionment",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Overhead absorption rates",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Under- and over-absorption",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Job, batch and unit costing",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Purpose and features of absorption costing",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Marginal costing and CVP analysis",
+   "subtopics": [
+    {
+     "name": "Marginal costing decisions",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Contribution and target profit",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Break-even and margin of safety",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "CVP uses, assumptions and limitations",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Marginal versus absorption profit",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Budgeting and budgetary control",
+   "subtopics": [
+    {
+     "name": "Cash budgets",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Functional and master budgets",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Purpose of budgeting",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Flexible budgets",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "The accounting cycle",
+   "subtopics": [
+    {
+     "name": "Types of business organisation",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Capital and revenue expenditure",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Double entry and books of prime entry",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Trial balance",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Accounting equation",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Clubs and societies",
+   "subtopics": [
+    {
+     "name": "Income and expenditure account",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Trading activities (cafe, bar, events)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Club accounts principles and decisions",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Accumulated fund and membership fees",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Company financial statements and IAS adjustments",
+   "subtopics": [
+    {
+     "name": "Corrections and draft profit adjustments",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    },
+    {
+     "name": "Impairment, revaluation, IAS 16 and IAS 2",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Provisions, contingencies and events after the reporting period",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Dividend decisions",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Prior period adjustments",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Research and development and intangibles",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Business purchase and merger",
+   "subtopics": [
+    {
+     "name": "Partnership or sole trader acquired by a company",
+     "target": 19,
+     "existing": 0,
+     "to_write": 19
+    },
+    {
+     "name": "Goodwill and purchase consideration",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Merger of businesses",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Investment appraisal",
+   "subtopics": [
+    {
+     "name": "Investment decision and sensitivity",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Net present value",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Net cash flows",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Internal rate of return",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Accounting rate of return",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Payback period",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Consignment and joint ventures",
+   "subtopics": [
+    {
+     "name": "Joint ventures",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Auditing and stewardship",
+   "subtopics": [
+    {
+     "name": "Auditing and stewardship",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Manufacturing accounts",
+   "subtopics": [
+    {
+     "name": "Factory profit and unrealised profit",
+     "target": 23,
+     "existing": 0,
+     "to_write": 23
+    },
+    {
+     "name": "Manufacturing account",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    }
+   ]
+  },
+  {
+   "topic": "Activity based costing",
+   "subtopics": [
+    {
+     "name": "Cost drivers and ABC pricing",
+     "target": 25,
+     "existing": 0,
+     "to_write": 25
+    },
+    {
+     "name": "ABC versus absorption costing",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Statements of cash flows",
+   "subtopics": [
+    {
+     "name": "Statement of cash flows (IAS 7)",
+     "target": 28,
+     "existing": 0,
+     "to_write": 28
+    },
+    {
+     "name": "Uses of cash flow statements",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Standard costing and variances",
+   "subtopics": [
+    {
+     "name": "Variance calculation and reconciliation",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Reasons for variances and decisions",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    }
+   ]
+  },
+  {
+   "topic": "Computerised accounting systems",
+   "subtopics": [
+    {
+     "name": "Computerised systems and data security",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  }
+ ]
+}

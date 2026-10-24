@@ -1,0 +1,1146 @@
+{
+ "code": "9701",
+ "name": "Chemistry",
+ "level": "a-level",
+ "papers": {
+  "1": "Paper 1 Multiple Choice",
+  "2": "Paper 2 AS Structured",
+  "3": "Paper 3 Practical",
+  "4": "Paper 4 A Level Structured",
+  "5": "Paper 5 Planning, Analysis & Evaluation"
+ },
+ "guide": "9701-alevel-chemistry.md",
+ "topics": [
+  {
+   "topic": "Atomic structure",
+   "subtopics": [
+    {
+     "name": "Ionisation energies",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Particles, isotopes & ions",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Electronic configuration",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Atomic & ionic radius",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Orbitals & sub-shells",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Atoms, molecules & stoichiometry",
+   "subtopics": [
+    {
+     "name": "Titration calculations",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Mole calculations",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Relative masses (Ar, Mr, isotopic mass)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Reacting masses & gas volumes",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Empirical & molecular formula",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Water of crystallisation & formulae",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Equations & mole ratios",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Percentage yield & atom economy",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Formulae of ions & compounds",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Chemical bonding",
+   "subtopics": [
+    {
+     "name": "Sigma & pi bonds / hybridisation",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Shapes & bond angles (VSEPR)",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Bonding types & properties",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Intermolecular forces & boiling points",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Metallic bonding & properties",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Dot-and-cross diagrams",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Dative bonds & electron pairs",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Giant covalent structures (graphite, diamond)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Hydrogen bonding",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "States of matter",
+   "subtopics": [
+    {
+     "name": "Ideal gas equation",
+     "target": 21,
+     "existing": 0,
+     "to_write": 21
+    },
+    {
+     "name": "Kinetic theory & diffusion",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Ideal & real gases",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Giant structures (lattices)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Chemical energetics",
+   "subtopics": [
+    {
+     "name": "Calorimetry (q = mcΔT), neutralisation & combustion",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Hess's law cycles",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Standard enthalpy changes (definitions)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Bond energies",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Reaction pathway diagrams & activation energy",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Exothermic & endothermic reactions",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Enthalpy calculations from experimental data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Electrochemistry & redox",
+   "subtopics": [
+    {
+     "name": "Standard electrode potentials & cells",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Oxidation numbers & redox",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Electrolysis & Faraday's laws",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Balancing redox equations",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Nernst equation & effect of concentration",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "ΔG and E°cell",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Equilibria (incl. acids, pH, buffers, Ksp)",
+   "subtopics": [
+    {
+     "name": "Kc & Kp calculations",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "pH, Ka, Kw & strong/weak acids",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Solubility product (Ksp) & common ion effect",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Buffers",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Le Chatelier's principle",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Partition coefficients",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Brønsted–Lowry acids & bases",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Dynamic equilibrium",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Industrial equilibria (Haber, Contact)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Reaction kinetics",
+   "subtopics": [
+    {
+     "name": "Rate equations & orders",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Half-life & first-order kinetics",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Homogeneous & heterogeneous catalysis",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Mechanisms & rate-determining step",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Temperature & Boltzmann distribution",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Rate measurement & graphs",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Catalysis",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Rate constant & temperature",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Collision theory (concentration, pressure, surface area)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Activation energy & rate",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Rate & equilibrium (rate of forward/back reactions)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Periodicity (Period 3)",
+   "subtopics": [
+    {
+     "name": "Period 3 oxides & chlorides",
+     "target": 18,
+     "existing": 0,
+     "to_write": 18
+    },
+    {
+     "name": "Periodic trends (radius, IE, electronegativity)",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Structure & melting points across Period 3",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Period 3 elements: reactions with oxygen & chlorine",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Group 2",
+   "subtopics": [
+    {
+     "name": "Thermal decomposition of nitrates & carbonates",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Group 2 solubility & thermal stability trends (A Level)",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Group 2 hydroxide & sulfate solubility",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Group 2 reactions with water & oxygen",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Group 2 reactivity & carbonate stability",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Group 2 compounds & uses",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Group 17",
+   "subtopics": [
+    {
+     "name": "Halide ions: tests & reactions with H2SO4",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Halogen trends (volatility, bond strength, oxidising power)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Chlorine with water / NaOH (disproportionation)",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Halogen displacement reactions",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Chlorine in water treatment",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Halogen compounds & oxidation states",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Nitrogen & sulfur",
+   "subtopics": [
+    {
+     "name": "Nitrogen oxides, pollution & catalytic converters",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Ammonia & ammonium ion",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Sulfur dioxide & acid rain",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Nitrogen: unreactivity",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Nitric acid & nitrates",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Organic introduction & isomerism",
+   "subtopics": [
+    {
+     "name": "Stereoisomerism",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Structural isomerism & nomenclature",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Optical isomerism",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Reaction types & mechanism terms",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Functional groups & classification",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Formulae & skeletal structures",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Homologous series & general formulae",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Halogen compounds",
+   "subtopics": [
+    {
+     "name": "SN1/SN2 & reactivity",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Elimination",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Halogenoarenes vs halogenoalkanes",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Reactions of halogenoalkanes (reagents & conditions)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Nucleophilic substitution mechanism",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Nucleophilic substitution (reactions & products)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Preparation of halogenoalkanes",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Classifying halogenoalkanes",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Hydrocarbons (alkanes, alkenes, arenes)",
+   "subtopics": [
+    {
+     "name": "Arenes: electrophilic substitution",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Alkenes: electrophilic addition",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Alkanes: free-radical substitution",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Alkenes: oxidation with KMnO4",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Alkenes: addition reactions",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Arenes: side-chain oxidation & other reactions",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Alkanes: properties, combustion & cracking",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Arenes: structure & bonding",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Nitrogen compounds",
+   "subtopics": [
+    {
+     "name": "Phenylamine & azo dyes",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Amino acids, peptides & electrophoresis",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Amines: basicity & preparation",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Amides",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Amines & nitriles",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Hydroxy compounds (alcohols, phenol)",
+   "subtopics": [
+    {
+     "name": "Phenol: acidity & reactions",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Alcohols: oxidation",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Alcohols: substitution & dehydration",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Alcohols: reactions",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Alcohols: preparation",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Carbonyl compounds",
+   "subtopics": [
+    {
+     "name": "Tests: 2,4-DNPH, Fehling's, Tollens'",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Nucleophilic addition (HCN)",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Tri-iodomethane test",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Carbonyl structure & reactions",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Carboxylic acids & derivatives",
+   "subtopics": [
+    {
+     "name": "Acyl chlorides",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Relative acidity (acids, phenols, alcohols)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Esters: formation & hydrolysis",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Reduction with LiAlH4/NaBH4",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Carboxylic acids: reactions",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Carboxylic acids: preparation",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Polymerisation",
+   "subtopics": [
+    {
+     "name": "Addition polymers",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Condensation polymers (polyesters/polyamides)",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Polymer properties & degradability",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Analytical techniques",
+   "subtopics": [
+    {
+     "name": "Proton (1H) NMR",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Mass spectrometry",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Infrared spectroscopy",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Chromatography (TLC, GC)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Carbon-13 NMR",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Organic synthesis",
+   "subtopics": [
+    {
+     "name": "Multi-step synthesis routes",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Distinguishing tests for functional groups",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Deducing structures from data",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Functional group identification",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Transition element complexes",
+   "subtopics": [
+    {
+     "name": "Ligand exchange & stability constants",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Complex ions: ligands, shapes & coordination number",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Isomerism in complexes",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Colour & d-orbital splitting",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Transition elements",
+   "subtopics": [
+    {
+     "name": "Redox titrations with transition-metal ions",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Transition element properties (variable oxidation states, catalysis)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "d-orbitals & electronic configuration of ions",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    }
+   ]
+  },
+  {
+   "topic": "Chemical energetics (A Level: lattice energy, Born–Haber, hydration)",
+   "subtopics": [
+    {
+     "name": "Lattice energy & Born–Haber cycles",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Enthalpies of solution & hydration",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Electron affinity & ionisation energy (A Level)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Entropy & Gibbs free energy",
+   "subtopics": [
+    {
+     "name": "Gibbs free energy & feasibility",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Entropy changes",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Practical skills",
+   "subtopics": [
+    {
+     "name": "Planning: method & apparatus",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Evaluation: errors, reliability & improvements",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Planning: preparing standard solutions & dilutions",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Graph plotting & line of best fit",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Data processing (tables, sig. figs)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Titration: recording, accuracy & mean titre",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Qualitative analysis: cations, anions & gases",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Anomalous results",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Gradient, intercept & tangents",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Planning: variables & hypothesis",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Percentage error & uncertainty",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Organic practical techniques (reflux, filtration, purity)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Graph interpretation & conclusions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Planning: safety",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Rates experiment: recording & processing",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Gas collection experiment: recording & processing",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Thermochemistry experiment: recording & processing",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Qualitative analysis: organic functional groups",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,247 @@
+{
+ "code": "0625",
+ "name": "Physics",
+ "level": "igcse",
+ "papers": {
+  "2": "Paper 2 Multiple Choice (Extended)",
+  "4": "Paper 4 Theory (Extended)",
+  "5": "Paper 5 Practical",
+  "6": "Paper 6 Alternative to Practical"
+ },
+ "guide": "0625-igcse-physics.md",
+ "topics": [
+  {
+   "topic": "Motion, forces & energy",
+   "subtopics": [
+    {
+     "name": "Energy, work & power",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Motion (kinematics)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Forces & Newton's laws (incl. circular motion)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Mass, weight & density",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Momentum & impulse",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Physical quantities & measurement (incl. vectors)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Turning effect & centre of gravity",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Energy resources",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Pressure",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Springs & deformation",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Thermal physics",
+   "subtopics": [
+    {
+     "name": "Thermal properties & temperature",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Kinetic particle model & gases",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Thermal energy transfer",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    }
+   ]
+  },
+  {
+   "topic": "Waves",
+   "subtopics": [
+    {
+     "name": "Light: reflection & refraction",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "General wave properties",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Lenses & dispersion",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Electromagnetic spectrum",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Sound",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Electricity & magnetism",
+   "subtopics": [
+    {
+     "name": "Circuits & components",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Electromagnetic effects",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Current, p.d., e.m.f. & resistance",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Electric charge & static",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Electrical energy & power",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Magnetism",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Digital electronics (logic gates, 2022 only)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Electrical safety",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Nuclear physics",
+   "subtopics": [
+    {
+     "name": "Radioactivity",
+     "target": 21,
+     "existing": 0,
+     "to_write": 21
+    },
+    {
+     "name": "Atom & nucleus (incl. fission/fusion)",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    }
+   ]
+  },
+  {
+   "topic": "Practical skills",
+   "subtopics": [
+    {
+     "name": "Graph & data analysis",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Measurement technique & recording",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Experimental planning & evaluation",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Space physics",
+   "subtopics": [
+    {
+     "name": "Stars & the Universe",
+     "target": 17,
+     "existing": 0,
+     "to_write": 17
+    },
+    {
+     "name": "Earth & Solar System",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    }
+   ]
+  }
+ ]
+}

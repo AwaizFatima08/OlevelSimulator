@@ -1,0 +1,192 @@
+{
+ "code": "0450",
+ "name": "Business Studies",
+ "level": "igcse",
+ "papers": {
+  "1": "Paper 1 Short Answer and Data Response",
+  "2": "Paper 2 Case Study"
+ },
+ "guide": "0450-igcse-business-studies.md",
+ "topics": [
+  {
+   "topic": "Financial information and decisions",
+   "subtopics": [
+    {
+     "name": "Analysis of accounts",
+     "target": 10,
+     "existing": 10,
+     "to_write": 0
+    },
+    {
+     "name": "Business finance: needs and sources",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Income statements",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Cash-flow forecasting and working capital",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Statement of financial position",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "People in business",
+   "subtopics": [
+    {
+     "name": "Recruitment, selection and training",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    },
+    {
+     "name": "Organisation and management",
+     "target": 9,
+     "existing": 9,
+     "to_write": 0
+    },
+    {
+     "name": "Motivating employees",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Internal and external communication",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Marketing",
+   "subtopics": [
+    {
+     "name": "Marketing mix",
+     "target": 16,
+     "existing": 16,
+     "to_write": 0
+    },
+    {
+     "name": "Market research",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Marketing, competition and the customer",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Marketing strategy",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "External influences on business activity",
+   "subtopics": [
+    {
+     "name": "Environmental and ethical issues",
+     "target": 12,
+     "existing": 12,
+     "to_write": 0
+    },
+    {
+     "name": "Business and the international economy",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    },
+    {
+     "name": "Economic issues",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Operations management",
+   "subtopics": [
+    {
+     "name": "Costs, scale of production and break-even analysis",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    },
+    {
+     "name": "Production of goods and services",
+     "target": 10,
+     "existing": 10,
+     "to_write": 0
+    },
+    {
+     "name": "Location decisions",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Achieving quality production",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Understanding business activity",
+   "subtopics": [
+    {
+     "name": "Enterprise, business growth and size",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    },
+    {
+     "name": "Types of business organisation",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Business objectives and stakeholder objectives",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Business activity",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Classification of businesses",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  }
+ ]
+}

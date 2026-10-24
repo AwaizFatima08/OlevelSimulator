@@ -1,0 +1,573 @@
+{
+ "code": "9990",
+ "name": "Psychology",
+ "level": "a-level",
+ "papers": {
+  "1": "Paper 1 Approaches, Issues and Debates",
+  "2": "Paper 2 Research Methods",
+  "3": "Paper 3 Specialist Options: Theory",
+  "4": "Paper 4 Specialist Options: Application"
+ },
+ "guide": "9990-alevel-psychology.md",
+ "topics": [
+  {
+   "topic": "Social approach",
+   "subtopics": [
+    {
+     "name": "Piliavin et al. (subway Samaritans)",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Milgram (obedience)",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Yamamoto et al. (chimpanzee helping)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Assumptions of the approach",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Perry et al. (personal space)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Learning approach",
+   "subtopics": [
+    {
+     "name": "Bandura et al. (aggression)",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Saavedra and Silverman (button phobia)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Pepperberg (parrot learning)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Fagen et al. (elephant learning)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Assumptions of the approach",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Biological approach",
+   "subtopics": [
+    {
+     "name": "Dement and Kleitman (sleep and dreams)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Canli et al. (brain scans and emotions)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Schachter and Singer (two factors in emotion)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Hassett et al. (monkey toy preferences)",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Hölzel et al. (mindfulness and brain scans)",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Issues and debates",
+   "subtopics": [
+    {
+     "name": "Comparing core studies",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Application to everyday life",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Ethics",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Individual and situational explanations",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Validity, reliability and generalisability",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Using children in research",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Nature versus nurture",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Cognitive approach",
+   "subtopics": [
+    {
+     "name": "Baron-Cohen et al. (eyes test)",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Andrade (doodling)",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Pozzulo et al. (line-ups)",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Laney et al. (false memory)",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Assumptions of the approach",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Evaluating research",
+   "subtopics": [
+    {
+     "name": "Validity",
+     "target": 19,
+     "existing": 0,
+     "to_write": 19
+    },
+    {
+     "name": "Reliability",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Generalisability",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Objectivity and subjectivity",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Data and descriptive statistics",
+   "subtopics": [
+    {
+     "name": "Graphs and tables",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Quantitative and qualitative data",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Measures of central tendency",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Normal distribution",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Measures of spread",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Hypotheses and variables",
+   "subtopics": [
+    {
+     "name": "Operationalising variables",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Participant and situational variables",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Aims and hypotheses",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Identifying variables",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Research ethics",
+   "subtopics": [
+    {
+     "name": "Human participants",
+     "target": 23,
+     "existing": 0,
+     "to_write": 23
+    },
+    {
+     "name": "Animal research",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    }
+   ]
+  },
+  {
+   "topic": "Sampling",
+   "subtopics": [
+    {
+     "name": "Sampling techniques",
+     "target": 19,
+     "existing": 0,
+     "to_write": 19
+    },
+    {
+     "name": "Populations and samples",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Sample size",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Research methods",
+   "subtopics": [
+    {
+     "name": "Self-reports",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Case studies",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Observations",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Correlations",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Experiments",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Physiological measures",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Experimental designs and controls",
+   "subtopics": [
+    {
+     "name": "Experimental designs",
+     "target": 17,
+     "existing": 0,
+     "to_write": 17
+    },
+    {
+     "name": "Controls and standardisation",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    }
+   ]
+  },
+  {
+   "topic": "Planning a study",
+   "subtopics": [
+    {
+     "name": "Evaluating the design",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Designing an experiment",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Designing a correlational study",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Designing an observation",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Designing a self-report study",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Designing a longitudinal study",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Clinical psychology",
+   "subtopics": [
+    {
+     "name": "Impulse control disorders and non-substance addiction",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Schizophrenia spectrum and psychotic disorders",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Anxiety and fear-related disorders",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Obsessive-compulsive and related disorders",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Mood (affective) disorders",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Consumer psychology",
+   "subtopics": [
+    {
+     "name": "The physical environment",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "The product",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Consumer decision-making",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Advertising",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "The psychological environment",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Health psychology",
+   "subtopics": [
+    {
+     "name": "Health promotion",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Stress",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Pain",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Adherence to medical advice",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "The patient-practitioner relationship",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Organisational psychology",
+   "subtopics": [
+    {
+     "name": "Organisational work conditions",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Satisfaction at work",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Motivation to work",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Leadership and management",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Group behaviour in organisations",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  }
+ ]
+}

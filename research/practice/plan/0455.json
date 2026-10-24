@@ -1,0 +1,270 @@
+{
+ "code": "0455",
+ "name": "Economics",
+ "level": "igcse",
+ "papers": {
+  "1": "Paper 1 Multiple Choice",
+  "2": "Paper 2 Structured Questions"
+ },
+ "guide": "0455-igcse-economics.md",
+ "topics": [
+  {
+   "topic": "The basic economic problem",
+   "subtopics": [
+    {
+     "name": "Factors of production",
+     "target": 12,
+     "existing": 12,
+     "to_write": 0
+    },
+    {
+     "name": "Production possibility curve",
+     "target": 8,
+     "existing": 8,
+     "to_write": 0
+    },
+    {
+     "name": "Opportunity cost",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Nature of the economic problem",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "The allocation of resources",
+   "subtopics": [
+    {
+     "name": "Mixed economic system and intervention",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Price changes",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Price elasticity of demand",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Demand",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Market failure",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Market economic system",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    },
+    {
+     "name": "Price determination",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    },
+    {
+     "name": "Microeconomics and macroeconomics",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    },
+    {
+     "name": "Supply",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    },
+    {
+     "name": "Price elasticity of supply",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Microeconomic decision makers",
+   "subtopics": [
+    {
+     "name": "Workers",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Firms",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Market structure",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Firms and production",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Money and banking",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Firms' costs, revenue and objectives",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Households",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Trade unions",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Government and the macroeconomy",
+   "subtopics": [
+    {
+     "name": "Employment and unemployment",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Fiscal policy",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Inflation and deflation",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Economic growth",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Monetary policy",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Supply-side policy",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Macroeconomic aims",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    },
+    {
+     "name": "Role of government",
+     "target": 1,
+     "existing": 1,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Economic development",
+   "subtopics": [
+    {
+     "name": "Population",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    },
+    {
+     "name": "Living standards",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    },
+    {
+     "name": "Poverty",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Differences in economic development",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "International trade and globalisation",
+   "subtopics": [
+    {
+     "name": "Globalisation, free trade and protection",
+     "target": 10,
+     "existing": 10,
+     "to_write": 0
+    },
+    {
+     "name": "Current account of the balance of payments",
+     "target": 9,
+     "existing": 9,
+     "to_write": 0
+    },
+    {
+     "name": "Foreign exchange rates",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Specialisation and free trade",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    }
+   ]
+  }
+ ]
+}

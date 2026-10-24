@@ -116,17 +116,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the return on capital employed (ROCE) for Year 1 and Year 2. Show your working.",
-    "marks": 2,
-    "answer": "Year 1: 12%; Year 2: 9%",
-    "working": "ROCE = profit for the year ÷ capital employed × 100. Year 1: 2,700,000 ÷ 22,500,000 × 100 = 12% (1). Year 2: 2,520,000 ÷ 28,000,000 × 100 = 9% (1)."
-   },
-   {
-    "label": "b",
-    "text": "Do you think the profitability of Margalla Dairy improved between Year 1 and Year 2? Justify your answer using the data.",
-    "marks": 6,
-    "answer": "Mostly no. Revenue rose by Rs 3 million, but profit for the year fell, the profit margin fell from 15% to 12% and ROCE fell from 12% to 9%. Gross profit margin was 40% in Year 1 and 38% in Year 2. The new equipment raised capital employed, so it is earning less per rupee invested so far; it may improve later once the equipment raises output or cuts waste.",
-    "working": "Up to 2 marks knowledge/application of relevant measures (ROCE, profit margin, gross profit margin, revenue). Up to 2 marks analysis using calculated figures, e.g. GPM 40% → 38%, PM 15% → 12%, ROCE 12% → 9%; higher capital employed from the loan-financed equipment. Up to 2 marks evaluation: justified judgement, e.g. revenue grew but profitability fell; may be short-term because the equipment is new; interest on the loan raises expenses."
+    "text": "Using the appendix, do you think the profitability of Margalla Dairy improved between Year 1 and Year 2? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: Year 1: 12%; Year 2: 9%. Mostly no. Revenue rose by Rs 3 million, but profit for the year fell, the profit margin fell from 15% to 12% and ROCE fell from 12% to 9%. Gross profit margin was 40% in Year 1 and 38% in Year 2. The new equipment raised capital employed, so it is earning less per rupee invested so far; it may improve later once the equipment raises output or cuts waste.",
+    "working": "Calculations: ROCE = profit for the year ÷ capital employed × 100. Year 1: 2,700,000 ÷ 22,500,000 × 100 = 12%. Year 2: 2,520,000 ÷ 28,000,000 × 100 = 9%. Content: ROCE 12% → 9%; profit margin 15% → 12%; gross profit margin 40% → 38%; revenue up Rs 3 m but profit for the year down Rs 180,000; capital employed up because of the loan-financed chilling equipment; loan interest raises expenses; equipment may raise output or cut waste later. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Margalla Dairy, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Margalla Dairy, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "abs(2700000/22500000*100-12)<1e-9 and abs(2520000/28000000*100-9)<1e-9 and abs(7200000/18000000*100-40)<1e-9 and abs(7980000/21000000*100-38)<1e-9 and abs(2700000/18000000*100-15)<1e-9 and abs(2520000/21000000*100-12)<1e-9",
@@ -162,17 +155,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the current ratio, the acid test ratio and the profit margin for each company. Give your answers to 2 decimal places where needed.",
-    "marks": 4,
-    "answer": "Company A: current ratio 1.80, acid test 1.20, profit margin 9%. Company B: current ratio 1.25, acid test 0.45, profit margin 14%.",
-    "working": "A: 900,000 ÷ 500,000 = 1.80; (900,000 − 300,000) ÷ 500,000 = 1.20; 270,000 ÷ 3,000,000 × 100 = 9%. B: 700,000 ÷ 560,000 = 1.25; 250,000 ÷ 560,000 = 0.45; 350,000 ÷ 2,500,000 × 100 = 14%. 4 marks for all six correct; 3 for 4–5; 2 for 2–3; 1 for one correct."
-   },
-   {
-    "label": "b",
-    "text": "Which company should Amina invest in? Justify your answer using your results.",
-    "marks": 4,
-    "answer": "Either, if justified. B is more profitable (profit margin 14% v 9%; gross margin 46% v 40%) but its liquidity is weak (acid test 0.45, current ratio 1.25), so it may struggle to pay debts. A is less profitable but much safer (current ratio 1.80, acid test 1.20). A cautious investor might choose A; one seeking higher returns might choose B, but the liquidity risk could threaten B's survival.",
-    "working": "1 mark: compares profitability using figures. 1 mark: compares liquidity using figures. 2 marks: justified decision that weighs profit against risk and explains why the other company is less suitable (e.g. other information needed: past trends, dividends, share price)."
+    "text": "Using the appendix, which company should Amina invest in? Justify your answer using suitable calculations (for example, current ratio, acid test ratio and profit margin).",
+    "marks": 12,
+    "answer": "Calculations: Company A: current ratio 1.80, acid test 1.20, profit margin 9%. Company B: current ratio 1.25, acid test 0.45, profit margin 14%. Either, if justified. B is more profitable (profit margin 14% v 9%; gross margin 46% v 40%) but its liquidity is weak (acid test 0.45, current ratio 1.25), so it may struggle to pay debts. A is less profitable but much safer (current ratio 1.80, acid test 1.20). A cautious investor might choose A; one seeking higher returns might choose B, but the liquidity risk could threaten B's survival.",
+    "working": "Calculations: A: 900,000 ÷ 500,000 = 1.80; (900,000 − 300,000) ÷ 500,000 = 1.20; 270,000 ÷ 3,000,000 × 100 = 9%. B: 700,000 ÷ 560,000 = 1.25; 250,000 ÷ 560,000 = 0.45; 350,000 ÷ 2,500,000 × 100 = 14%. Content: B more profitable (profit margin 14% v 9%, GPM 46% v 40%); B's liquidity weak (current ratio 1.25, acid test 0.45 — heavy inventory); A safer (1.80, 1.20); profit v risk for an investor; other information needed (trends over several years, dividends, share price). Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Amina's choice between the two companies, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Amina's choice between the two companies, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "abs(900000/500000-1.8)<1e-9 and abs((900000-300000)/500000-1.2)<1e-9 and abs(270000/3000000*100-9)<1e-9 and round(700000/560000,2)==1.25 and round((700000-450000)/560000,2)==0.45 and abs(350000/2500000*100-14)<1e-9 and abs(1150000/2500000*100-46)<1e-9",
@@ -375,17 +361,17 @@
   "parts": [
    {
     "label": "a",
-    "text": "Outline two factors AppNest should consider when choosing a source of finance.",
-    "marks": 4,
-    "answer": "e.g. 1. What the money is for and for how long: finishing the app is a long-term need, so short-term finance is unsuitable. 2. The cost: interest or fees, and whether the owners would give up some ownership or control.",
-    "working": "For each of two factors: 1 mark identify (purpose/time period, amount, cost, legal structure, risk/gearing, control, availability) + 1 mark outline applied to AppNest."
+    "text": "Explain two factors AppNest should consider when choosing a source of finance.",
+    "marks": 8,
+    "answer": "1. What the money is for and for how long: finishing the app is a long-term need, so short-term finance such as an overdraft is unsuitable; using the wrong type could mean repaying before the app earns any revenue. 2. The cost and control: interest or fees reduce the owners' limited cash, while some sources (e.g. investors taking a share) mean giving up ownership and future profit.",
+    "working": "For each of two factors (max 4 each): 1 mark identify (purpose/time period, amount, cost, legal structure, risk/gearing, control, availability); 1 mark apply to AppNest (new app business, $25,000, no revenue yet); 2 marks develop the consequence for AppNest."
    },
    {
     "label": "b",
     "text": "Recommend whether AppNest should use crowdfunding or a bank overdraft. Justify your answer.",
-    "marks": 4,
+    "marks": 12,
     "answer": "Crowdfunding is likely better: an overdraft is for short-term needs, is expensive and can be withdrawn, and a new firm with no profit may not get one. Crowdfunding raises the money from many people online, needs no interest payments and also tests demand and publicises the app. However, the campaign may fail or reveal the idea to rivals.",
-    "working": "1 mark: advantage of chosen method applied. 1 mark: drawback of the rejected method applied. 2 marks: justified recommendation explaining why it is better than the alternative for AppNest."
+    "working": "Content: overdraft — short-term, flexible but expensive, can be withdrawn, hard for a new firm with no profit to obtain; crowdfunding — raises $25,000 from many people online, no interest, tests demand and publicises the app, but campaign may fail and the idea is revealed to rivals; possible rewards owed to backers. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to AppNest, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to AppNest, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks."
    }
   ],
   "author": "HomiLabs",
@@ -401,17 +387,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the annual interest on a loan of Rs 30,000,000, and express it as a percentage of the latest profit for the year.",
-    "marks": 2,
-    "answer": "Rs 3,600,000; 24% of profit",
-    "working": "12% × 30,000,000 = Rs 3,600,000 (1). 3,600,000 ÷ 15,000,000 × 100 = 24% (1)."
-   },
-   {
-    "label": "b",
-    "text": "Recommend how Shandur Hotels Ltd should finance the new hotel. Justify your answer.",
-    "marks": 6,
-    "answer": "e.g. Use the Rs 20 m retained profit plus the Rs 30 m loan. Retained profit has no interest and keeps control. The loan interest of Rs 3.6 m is about 24% of current profit, which is affordable if the new hotel adds profit, and the owners keep full control. Selling 30% of the company would avoid interest but permanently gives away control and future profits. Risk: tourism is seasonal, so cash flow must cover repayments; using all retained profit leaves little for emergencies.",
-    "working": "Up to 2 marks: knowledge of the options with application. Up to 2 marks: analysis of cost/control/risk using the calculation. Up to 2 marks: justified recommendation that explains why the rejected option(s) are less suitable."
+    "text": "Using the appendix, recommend how Shandur Hotels Ltd should finance the new hotel. Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: Rs 3,600,000; 24% of profit. e.g. Use the Rs 20 m retained profit plus the Rs 30 m loan. Retained profit has no interest and keeps control. The loan interest of Rs 3.6 m is about 24% of current profit, which is affordable if the new hotel adds profit, and the owners keep full control. Selling 30% of the company would avoid interest but permanently gives away control and future profits. Risk: tourism is seasonal, so cash flow must cover repayments; using all retained profit leaves little for emergencies.",
+    "working": "Calculations: 12% × 30,000,000 = Rs 3,600,000. 3,600,000 ÷ 15,000,000 × 100 = 24%. Content: retained profit (no interest, keeps control, reduces reserves); loan (interest Rs 3.6 m a year = 24% of latest profit, repayments over 5 years, keeps control, gearing risk with seasonal tourism); new shares (no interest or repayment, but investor owns 30% and takes a share of future profits and control); combinations, e.g. Rs 20 m retained profit + Rs 30 m loan. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Shandur Hotels Ltd, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Shandur Hotels Ltd, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "abs(30000000*12/100-3600000)<1e-9 and abs(30000000*12/100/15000000*100-24)<1e-9",
@@ -683,16 +662,16 @@
    {
     "label": "a",
     "text": "Explain two ways Sweet Delights could finance this cash shortfall.",
-    "marks": 4,
-    "answer": "1. Bank overdraft: borrow up to an agreed limit only when needed and repay from Eid sales; flexible but interest is high. 2. Trade credit from suppliers of sugar and ghee: pay after Eid when cash comes in; no interest but may lose discounts. (Also: short-term loan, owner's savings, ask wedding customers for deposits.)",
-    "working": "For each way: 1 mark identify + 1 mark explanation applied to the seasonal Eid shortfall."
+    "marks": 8,
+    "answer": "1. Bank overdraft: borrow up to an agreed limit only when needed and repay from Eid sales; flexible because the shortfall changes day to day, but interest is high. 2. Trade credit from suppliers of sugar and ghee: pay after Eid when cash comes in, so no interest is paid, but early-payment discounts may be lost and suppliers may refuse at their own busy time. (Also: short-term loan, owner's savings, ask wedding customers for deposits.)",
+    "working": "For each way (max 4 each): 1 mark identify; 1 mark apply to the seasonal Eid shortfall of Rs 400,000; 2 marks explain how it solves the shortfall and its cost or drawback for Sweet Delights."
    },
    {
     "label": "b",
     "text": "Recommend which of your two ways is better for Sweet Delights. Justify your answer.",
-    "marks": 4,
+    "marks": 12,
     "answer": "e.g. An overdraft, because the shortfall is short-term and its size may change from day to day; Sweet Delights only pays interest on the amount used and repays it from Eid sales. Trade credit depends on suppliers agreeing, and suppliers are also busy before Eid. But if suppliers will give 60 days' credit, it is cheaper than an overdraft.",
-    "working": "1 mark: benefit of chosen way. 1 mark: drawback of the alternative. 2 marks: justified recommendation linked to the seasonal nature/size of the shortfall."
+    "working": "Content: short-term and seasonal nature of the Rs 400,000 shortfall; overdraft — interest only on the amount used, repaid from Eid sales, but expensive; trade credit — no interest, but depends on suppliers agreeing and they are busy before Eid; cheaper if suppliers give 60 days' credit. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Sweet Delights, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Sweet Delights, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks."
    }
   ],
   "author": "HomiLabs",
@@ -708,17 +687,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the closing balance for April, May and June if Aqua Clear offers credit.",
-    "marks": 3,
-    "answer": "April −$32,000; May −$22,000; June −$12,000",
-    "working": "April: inflow 0 (April sales paid in May); 6,000 + 0 − 38,000 = −32,000 (1). May: −32,000 + 48,000 − 38,000 = −22,000 (1). June: −22,000 + 48,000 − 38,000 = −12,000 (1)."
-   },
-   {
-    "label": "b",
-    "text": "Do you think Aqua Clear should offer one month's credit to customers? Justify your answer.",
-    "marks": 5,
-    "answer": "For: sales and the monthly net cash flow rise (+$10,000 a month from May compared with +$2,000 now), offices expect credit, so it may win customers from rivals. Against: April has no cash inflow, so the balance falls to −$32,000 and stays negative until July (−$2,000) and only becomes positive in August (+$8,000); it needs an overdraft and pays interest, and some customers may pay late or not at all (bad debts). Judgement: offer credit only if the bank agrees an overdraft of at least $32,000 and customers are checked for credit-worthiness; otherwise the cash-flow risk is too high.",
-    "working": "Up to 2 marks analysis of benefits (higher sales, competitiveness, stronger monthly net cash flow). Up to 2 marks analysis of drawbacks using the forecast (negative balances, overdraft cost, bad debts). 1 mark justified judgement."
+    "text": "Do you think Aqua Clear should offer one month's credit to customers? Justify your answer using suitable calculations (for example, the closing balances for April, May and June).",
+    "marks": 12,
+    "answer": "Calculations: April −$32,000; May −$22,000; June −$12,000. For: sales and the monthly net cash flow rise (+$10,000 a month from May compared with +$2,000 now), offices expect credit, so it may win customers from rivals. Against: April has no cash inflow, so the balance falls to −$32,000 and stays negative until July (−$2,000) and only becomes positive in August (+$8,000); it needs an overdraft and pays interest, and some customers may pay late or not at all (bad debts). Judgement: offer credit only if the bank agrees an overdraft of at least $32,000 and customers are checked for credit-worthiness; otherwise the cash-flow risk is too high.",
+    "working": "Calculations: April: inflow 0 (April sales paid in May); 6,000 + 0 − 38,000 = −32,000. May: −32,000 + 48,000 − 38,000 = −22,000. June: −22,000 + 48,000 − 38,000 = −12,000. Content: closing balances April −$32,000, May −$22,000, June −$12,000 (July −$2,000, August +$8,000); net monthly cash flow rises from +$2,000 to +$10,000 from May; higher sales and competitiveness (offices expect credit); overdraft needed and interest cost; bad debts and late payers; credit checks. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Aqua Clear, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Aqua Clear, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "6000+0-38000==-32000 and -32000+48000-38000==-22000 and -22000+48000-38000==-12000 and -12000+48000-38000==-2000 and -2000+48000-38000==8000",
@@ -795,24 +767,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the working capital for each year.",
-    "marks": 2,
-    "answer": "Year 1: $160,000; Year 2: $110,000",
-    "working": "Year 1: current assets 260,000 − current liabilities 100,000 = $160,000 (1). Year 2: 310,000 − 200,000 = $110,000 (1)."
-   },
-   {
-    "label": "b",
-    "text": "Calculate the acid test ratio for each year.",
-    "marks": 2,
-    "answer": "Year 1: 1.4; Year 2: 0.5",
-    "working": "Year 1: (260,000 − 120,000) ÷ 100,000 = 1.4 (1). Year 2: (310,000 − 210,000) ÷ 200,000 = 0.5 (1)."
-   },
-   {
-    "label": "c",
-    "text": "Do you agree with the owner that the business is in a stronger position? Justify your answer.",
-    "marks": 4,
-    "answer": "No. Working capital fell from $160,000 to $110,000 and the acid test fell from 1.4 to 0.5. Cash fell to only $5,000 while the overdraft rose to $70,000 and payables rose. The extra inventory ties up cash; fans and coolers are seasonal and may not sell quickly. Unless the stock is for a coming summer peak, liquidity is much weaker.",
-    "working": "1 mark each for using two pieces of evidence (WC, acid test, cash, overdraft, payables). 2 marks for a justified judgement (e.g. may be temporary build-up before summer, but risk of not paying debts)."
+    "text": "The owner says, \"We hold more stock than ever, so the business must be in a stronger position.\" Do you agree? Justify your answer using suitable calculations (for example, working capital and the acid test ratio for each year).",
+    "marks": 12,
+    "answer": "Calculations: working capital Year 1 $160,000, Year 2 $110,000; acid test ratio Year 1 1.4, Year 2 0.5. No. Working capital fell from $160,000 to $110,000 and the acid test fell from 1.4 to 0.5. Cash fell to only $5,000 while the overdraft rose to $70,000 and payables rose. The extra inventory ties up cash; fans and coolers are seasonal and may not sell quickly. Unless the stock is for a coming summer peak, liquidity is much weaker.",
+    "working": "Calculations: Year 1: current assets 260,000 − current liabilities 100,000 = $160,000. Year 2: 310,000 − 200,000 = $110,000. Year 1: (260,000 − 120,000) ÷ 100,000 = 1.4. Year 2: (310,000 − 210,000) ÷ 200,000 = 0.5. Content: working capital $160,000 → $110,000; acid test 1.4 → 0.5; cash $60,000 → $5,000; overdraft $10,000 → $70,000; payables up $40,000; inventory ties up cash; fans and coolers are seasonal (stock may be a planned build-up before summer) but risk of being unable to pay debts. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Pak Electricals Ltd, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Pak Electricals Ltd, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "(120000+80000+60000)-(90000+10000)==160000 and (210000+95000+5000)-(130000+70000)==110000 and abs((80000+60000)/(90000+10000)-1.4)<1e-9 and abs((95000+5000)/(130000+70000)-0.5)<1e-9",
@@ -998,17 +956,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the cost per person reached for each option.",
-    "marks": 2,
-    "answer": "TV $0.04; social media $0.03; leaflets $0.16",
-    "working": "Cost ÷ people reached: 36,000 ÷ 900,000 = $0.04; 12,000 ÷ 400,000 = $0.03; 8,000 ÷ 50,000 = $0.16. 2 marks all correct; 1 mark for two correct."
-   },
-   {
-    "label": "b",
-    "text": "Recommend which promotion option(s) GlowSkin should use. Justify your answer.",
-    "marks": 6,
-    "answer": "Social media influencers: cheapest per person ($0.03), and most target customers are 16–30, who use social media most; influencers can show the product being used. TV reaches the most people but uses 90% of the budget and many viewers are outside the target group. Leaflets are expensive per person. Recommendation: influencers, possibly with the leaflets as well (total $20,000), keeping money for later; TV alone leaves little budget.",
-    "working": "Up to 2 marks: knowledge/application of the options. Up to 2 marks: analysis using cost per person and target-market data. Up to 2 marks: justified recommendation explaining why the other options are weaker."
+    "text": "Using the appendix, recommend which promotion option(s) GlowSkin should use for its launch. Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: TV $0.04; social media $0.03; leaflets $0.16. Social media influencers: cheapest per person ($0.03), and most target customers are 16–30, who use social media most; influencers can show the product being used. TV reaches the most people but uses 90% of the budget and many viewers are outside the target group. Leaflets are expensive per person. Recommendation: influencers, possibly with the leaflets as well (total $20,000), keeping money for later; TV alone leaves little budget.",
+    "working": "Calculations: Cost ÷ people reached: 36,000 ÷ 900,000 = $0.04; 12,000 ÷ 400,000 = $0.03; 8,000 ÷ 50,000 = $0.16. Content: cost per person reached TV $0.04, influencers $0.03, leaflets $0.16; 70% of target customers aged 16–30 (heavy social media users); TV uses 90% of the $40,000 budget and reaches many outside the target group; leaflets costly per person but local; combinations within budget (e.g. influencers + leaflets = $20,000). Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to GlowSkin, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to GlowSkin, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "abs(36000/900000-0.04)<1e-9 and abs(12000/400000-0.03)<1e-9 and abs(8000/50000-0.16)<1e-9",
@@ -1085,17 +1036,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the profit for each brand.",
-    "marks": 2,
-    "answer": "Sparkle Rs 540 thousand; Breeze Rs 840 thousand; Bloom Rs 180 thousand",
-    "working": "Revenue − total costs: Sparkle 1,800 − 1,260 = 540; Breeze 2,400 − 1,560 = 840; Bloom 900 − 720 = 180 (Rs thousand). 2 marks all correct; 1 mark for two."
-   },
-   {
-    "label": "b",
-    "text": "Recommend which brand CleanHome Ltd should stop making. Justify your answer.",
-    "marks": 6,
-    "answer": "Sparkle is the likely choice: it is in decline, so its profit of Rs 540 thousand will probably keep falling. Bloom makes the least profit now (Rs 180 thousand) but is in growth, so profits should rise as sales grow and launch costs fall. Breeze is the most profitable and mature, so keeping it gives a steady income. Dropping Sparkle loses some profit in the short term, but its customers might switch to Breeze or the new liquid detergent.",
-    "working": "Up to 2 marks: use of profit figures. Up to 2 marks: analysis using PLC stages (future profits, not just current). Up to 2 marks: justified recommendation that explains why the other brands should be kept."
+    "text": "Using the appendix, recommend which brand CleanHome Ltd should stop making. Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: Sparkle Rs 540 thousand; Breeze Rs 840 thousand; Bloom Rs 180 thousand. Sparkle is the likely choice: it is in decline, so its profit of Rs 540 thousand will probably keep falling. Bloom makes the least profit now (Rs 180 thousand) but is in growth, so profits should rise as sales grow and launch costs fall. Breeze is the most profitable and mature, so keeping it gives a steady income. Dropping Sparkle loses some profit in the short term, but its customers might switch to Breeze or the new liquid detergent.",
+    "working": "Calculations: Revenue − total costs: Sparkle 1,800 − 1,260 = 540; Breeze 2,400 − 1,560 = 840; Bloom 900 − 720 = 180 (Rs thousand). Content: profit Sparkle Rs 540 thousand, Breeze Rs 840 thousand, Bloom Rs 180 thousand; profit margins (Sparkle 30%, Breeze 35%, Bloom 20%); product life cycle stages — decline means falling future profit, growth means rising profit as launch costs fall; customers may switch to other brands or the new liquid detergent. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to CleanHome Ltd, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to CleanHome Ltd, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "1800-1260==540 and 2400-1560==840 and 900-720==180",
@@ -1164,17 +1108,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the expected profit (before other costs) from each option.",
-    "marks": 3,
-    "answer": "A: Rs 2,900,000; B: Rs 6,000,000; C: Rs 5,250,000",
-    "working": "A: (1,200 − 500 − 150) × 8,000 − 1,500,000 = Rs 2,900,000 (1). B: (800 − 500) × 20,000 = Rs 6,000,000 (1). C: (650 − 500) × 35,000 = Rs 5,250,000 (1)."
-   },
-   {
-    "label": "b",
-    "text": "Recommend which channel of distribution Natura should choose. Justify your answer.",
-    "marks": 5,
-    "answer": "Option B: highest expected profit (Rs 6.0 m), and pharmacies give a trusted image for a skincare product; customers can see and test it. Option C gives high volume but the lowest profit per jar (Rs 150) and Natura loses control over where it is sold and how it is displayed. Option A has the best margin and direct customer contact but the lowest profit because of website costs and uncertain online demand for a new brand. B is best for year one, perhaps adding online sales later when the brand is known.",
-    "working": "Up to 2 marks analysis using the calculations (profit, margin per jar, volume). Up to 2 marks non-financial factors (control, image, risk, reliability of forecasts). 1 mark justified recommendation explaining why the other options are weaker."
+    "text": "Using the appendix, recommend which channel of distribution Natura should choose for its first year. Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: A: Rs 2,900,000; B: Rs 6,000,000; C: Rs 5,250,000. Option B: highest expected profit (Rs 6.0 m), and pharmacies give a trusted image for a skincare product; customers can see and test it. Option C gives high volume but the lowest profit per jar (Rs 150) and Natura loses control over where it is sold and how it is displayed. Option A has the best margin and direct customer contact but the lowest profit because of website costs and uncertain online demand for a new brand. B is best for year one, perhaps adding online sales later when the brand is known.",
+    "working": "Calculations: A: (1,200 − 500 − 150) × 8,000 − 1,500,000 = Rs 2,900,000. B: (800 − 500) × 20,000 = Rs 6,000,000. C: (650 − 500) × 35,000 = Rs 5,250,000. Content: expected profit A Rs 2.9 m, B Rs 6.0 m, C Rs 5.25 m; profit per jar (A Rs 550 before website costs, B Rs 300, C Rs 150); control over display and image, trusted pharmacy image for skincare, direct customer contact online, risk and reliability of sales forecasts for a new brand. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Natura, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Natura, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "(1200-500-150)*8000-1500000==2900000 and (800-500)*20000==6000000 and (650-500)*35000==5250000",
@@ -1323,16 +1260,16 @@
    {
     "label": "a",
     "text": "Explain two problems Bolan Travels might have in making sure its market research is accurate.",
-    "marks": 4,
-    "answer": "1. The sample may not represent the target market, e.g. past customers who give an email address may be younger or richer. 2. Questions may be badly written or leading, or people may not answer honestly about how much extra they would pay. (Also: low response rates; out-of-date data; researcher bias.)",
-    "working": "For each problem: 1 mark identify + 1 mark explanation applied to Bolan Travels."
+    "marks": 8,
+    "answer": "1. The sample may not represent the target market: past customers who gave an email address may be younger or richer than other passengers, so the results could overstate demand for the premium service. 2. Questions may be badly written or leading, or people may not answer honestly about how much extra they would pay, so the firm could set the wrong fare. (Also: low response rates; out-of-date data; researcher bias.)",
+    "working": "For each problem (max 4 each): 1 mark identify; 1 mark apply to Bolan Travels' premium coach service; 2 marks explain the consequence for its decision."
    },
    {
     "label": "b",
     "text": "Recommend which research method Bolan Travels should use. Justify your answer.",
-    "marks": 4,
+    "marks": 12,
     "answer": "Online survey: cheap, quick and gives numerical data from many people, so the firm can estimate how many would pay more; but response rates may be low and answers are short. Focus group: gives detailed opinions on seats and Wi-Fi and why people value them, but only 10 people, so may not represent all passengers. Recommendation: the online survey, because the key question is how many customers would pay the higher fare; a focus group could follow to refine features.",
-    "working": "1 mark advantage of chosen method; 1 mark drawback of the other; 2 marks justified recommendation linked to Bolan Travels' decision."
+    "working": "Content: online survey of 2,000 — cheap, quick, numerical data on how many would pay more, but low response rate and short answers; focus group of 10 — detailed opinions on seats and Wi-Fi and why, but small and may not represent all passengers; the key question is how many would pay the higher fare; a focus group could follow. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Bolan Travels, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Bolan Travels, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks."
    }
   ],
   "author": "HomiLabs",
@@ -1374,17 +1311,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "For every 1,000 gym members, calculate the expected profit (revenue − production cost) at each price.",
-    "marks": 3,
-    "answer": "Rs 150: Rs 36,000; Rs 200: Rs 27,500",
-    "working": "Rs 150: 600 buyers × (150 − 90) = Rs 36,000 (1). Rs 200: 250 buyers × (200 − 90) = Rs 27,500 (2: 1 for 250 buyers, 1 for profit)."
-   },
-   {
-    "label": "b",
-    "text": "Should HealthyBite rely on these survey results to choose its price? Justify your answer.",
-    "marks": 5,
-    "answer": "The results suggest Rs 150 gives more profit (Rs 36,000 v Rs 27,500 per 1,000 members) and more customers. But only gym members who use the internet were asked, so the sample excludes other possible buyers; people often say they will buy but do not; answers for one bar per person ignore how often people buy; competitors' prices are not considered. Judgement: use the results as a guide (Rs 150 looks better) but test-market in a few gyms before deciding.",
-    "working": "Up to 2 marks analysis of what the data shows, using calculations. Up to 2 marks limitations of the survey (sample bias, stated v actual behaviour, frequency, competitors). 1 mark justified judgement."
+    "text": "Should HealthyBite rely on these survey results to choose the price of its protein bar? Justify your answer using suitable calculations (for example, the expected profit per 1,000 gym members at each price).",
+    "marks": 12,
+    "answer": "Calculations: Rs 150: Rs 36,000; Rs 200: Rs 27,500. The results suggest Rs 150 gives more profit (Rs 36,000 v Rs 27,500 per 1,000 members) and more customers. But only gym members who use the internet were asked, so the sample excludes other possible buyers; people often say they will buy but do not; answers for one bar per person ignore how often people buy; competitors' prices are not considered. Judgement: use the results as a guide (Rs 150 looks better) but test-market in a few gyms before deciding.",
+    "working": "Calculations: Rs 150: 600 buyers × (150 − 90) = Rs 36,000. Rs 200: 250 buyers × (200 − 90) = Rs 27,500. Content: per 1,000 gym members, Rs 150 → 600 buyers × Rs 60 = Rs 36,000; Rs 200 → 250 buyers × Rs 110 = Rs 27,500; limitations — only online gym members sampled, stated v actual behaviour, frequency of purchase ignored, competitors' prices not considered; test marketing. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to HealthyBite, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to HealthyBite, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "round(0.6*1000*(150-90))==36000 and round(0.25*1000*(200-90))==27500",
@@ -1579,16 +1509,16 @@
    {
     "label": "a",
     "text": "Explain two ways laws may control Sukoon Herbal Teas' marketing in the European Union.",
-    "marks": 4,
-    "answer": "1. Laws against misleading advertising: it cannot claim the tea 'cures' headaches unless this is proved, so adverts must change. 2. Labelling and food-safety laws: packs must show ingredients, weight and allergy information correctly, which may need new packaging and testing. (Also: rules on product safety, weights and measures, consumer rights to refunds.)",
-    "working": "For each way: 1 mark identify the legal control + 1 mark explain its effect on Sukoon."
+    "marks": 8,
+    "answer": "1. Laws against misleading advertising: Sukoon cannot claim the tea 'cures' headaches unless this is proved, so its adverts must change, which may weaken its main selling point. 2. Labelling and food-safety laws: packs must show ingredients, weight and allergy information correctly, which may need new packaging and testing and raises costs. (Also: rules on product safety, weights and measures, consumer rights to refunds.)",
+    "working": "For each way (max 4 each): 1 mark identify the legal control; 1 mark apply to Sukoon's tea or its 'cures' claim; 2 marks explain the effect on Sukoon's marketing or costs."
    },
    {
     "label": "b",
     "text": "Recommend which option Sukoon Herbal Teas should choose to enter the German market. Justify your answer.",
-    "marks": 4,
+    "marks": 12,
     "answer": "Licensing: low cost and risk; the German company already knows EU labelling laws and has distribution to shops, and Sukoon receives royalties. But it loses control of quality and receives only a share of the profit. Own shops: full control and all the profit, but very expensive, slow, and Sukoon lacks local knowledge. Recommendation: licensing at first, with strict quality terms in the contract, because it reduces legal and financial risk in an unfamiliar market.",
-    "working": "1 mark advantage of chosen option; 1 mark drawback of the other; 2 marks justified recommendation applied to Sukoon."
+    "working": "Content: licensing — low cost and risk, German partner knows EU labelling laws and has distribution, royalties, but less control of quality and only a share of profit; own shops — full control and all the profit, but very expensive, slow and lacks local knowledge; strict quality terms in a licence contract. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Sukoon Herbal Teas, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Sukoon Herbal Teas, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks."
    }
   ],
   "author": "HomiLabs",
@@ -1737,17 +1667,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the break-even output and the expected profit at each price.",
-    "marks": 4,
-    "answer": "At $80: break-even 4,000, profit $60,000. At $90: break-even 3,000, profit $88,000.",
-    "working": "$80: 120,000 ÷ 30 = 4,000 (1); 30 × 6,000 − 120,000 = $60,000 (1). $90: 120,000 ÷ 40 = 3,000 (1); 40 × 5,200 − 120,000 = $88,000 (1)."
-   },
-   {
-    "label": "b",
-    "text": "Should Sun Shade raise its price to $90? Justify your answer.",
-    "marks": 4,
-    "answer": "Yes, probably: profit rises from $60,000 to $88,000, break-even falls from 4,000 to 3,000 and the margin of safety rises from 2,000 to 2,200. But the forecast fall in sales may be wrong; if rivals keep lower prices, sales could fall more, and lower sales could cost market share in the long term. Judgement: raise the price if the research is reliable, and monitor sales.",
-    "working": "1 mark: uses profit comparison. 1 mark: uses break-even/margin of safety. 2 marks: justified decision noting risks (reliability of forecast, competitors, market share)."
+    "text": "Should Sun Shade raise its price to $90? Justify your answer using suitable calculations (for example, the break-even output and expected profit at each price).",
+    "marks": 12,
+    "answer": "Calculations: At $80: break-even 4,000, profit $60,000. At $90: break-even 3,000, profit $88,000. Yes, probably: profit rises from $60,000 to $88,000, break-even falls from 4,000 to 3,000 and the margin of safety rises from 2,000 to 2,200. But the forecast fall in sales may be wrong; if rivals keep lower prices, sales could fall more, and lower sales could cost market share in the long term. Judgement: raise the price if the research is reliable, and monitor sales.",
+    "working": "Calculations: $80: 120,000 ÷ 30 = 4,000; 30 × 6,000 − 120,000 = $60,000. $90: 120,000 ÷ 40 = 3,000; 40 × 5,200 − 120,000 = $88,000. Content: $80: break-even 4,000, profit $60,000, margin of safety 2,000; $90: break-even 3,000, profit $88,000, margin of safety 2,200; reliability of the market-research forecast; rivals' prices; market share in the long term. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Sun Shade, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Sun Shade, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "120000/(80-50)==4000 and 120000/(90-50)==3000 and (80-50)*6000-120000==60000 and (90-50)*5200-120000==88000 and 6000-120000/(80-50)==2000 and 5200-120000/(90-50)==2200",
@@ -1764,17 +1687,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the break-even output and the expected annual profit for each machine.",
-    "marks": 4,
-    "answer": "A: break-even 20,000 cases, profit $100,000. B: break-even 20,000 cases, profit $160,000.",
-    "working": "A: 200,000 ÷ (25 − 15) = 20,000 (1); 10 × 30,000 − 200,000 = $100,000 (1). B: 320,000 ÷ (25 − 9) = 20,000 (1); 16 × 30,000 − 320,000 = $160,000 (1)."
-   },
-   {
-    "label": "b",
-    "text": "Recommend which machine Pure Pour should buy. Justify your answer.",
-    "marks": 4,
-    "answer": "Both break even at 20,000 cases, but above that B earns $16 per case instead of $10, so at 30,000 cases B gives $60,000 more profit. Risk: below 20,000 cases B makes bigger losses (higher fixed costs), and sales depend on weather. Unless sales are likely to fall below 20,000, choose B; it may also need fewer workers, though breakdowns of an automated machine could stop production.",
-    "working": "1 mark: compares break-even. 1 mark: compares profit/contribution. 2 marks: justified recommendation considering risk below break-even and the reliability of the sales forecast."
+    "text": "Recommend which bottling machine Pure Pour should buy. Justify your answer using suitable calculations (for example, the break-even output and expected annual profit for each machine).",
+    "marks": 12,
+    "answer": "Calculations: A: break-even 20,000 cases, profit $100,000. B: break-even 20,000 cases, profit $160,000. Both break even at 20,000 cases, but above that B earns $16 per case instead of $10, so at 30,000 cases B gives $60,000 more profit. Risk: below 20,000 cases B makes bigger losses (higher fixed costs), and sales depend on weather. Unless sales are likely to fall below 20,000, choose B; it may also need fewer workers, though breakdowns of an automated machine could stop production.",
+    "working": "Calculations: A: 200,000 ÷ (25 − 15) = 20,000; 10 × 30,000 − 200,000 = $100,000. B: 320,000 ÷ (25 − 9) = 20,000; 16 × 30,000 − 320,000 = $160,000. Content: both break even at 20,000 cases; profit A $100,000, B $160,000 at 30,000 cases; contribution $10 v $16 per case; B's higher fixed costs mean bigger losses below break-even; weather makes sales uncertain; automation — fewer workers, breakdown risk. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Pure Pour, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Pure Pour, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "200000/(25-15)==20000 and 320000/(25-9)==20000 and (25-15)*30000-200000==100000 and (25-9)*30000-320000==160000",
@@ -1791,17 +1707,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the break-even output, margin of safety and expected profit for each product.",
-    "marks": 4,
-    "answer": "X: break-even 8,000, margin of safety 4,000, profit $24,000. Y: break-even 7,500, margin of safety 1,500, profit $27,000.",
-    "working": "X: contribution $6; 48,000 ÷ 6 = 8,000; 12,000 − 8,000 = 4,000; 6 × 12,000 − 48,000 = $24,000. Y: contribution $18; 135,000 ÷ 18 = 7,500; 9,000 − 7,500 = 1,500; 18 × 9,000 − 135,000 = $27,000. 4 marks all six correct; 3 for 4–5; 2 for 2–3; 1 for one."
-   },
-   {
-    "label": "b",
-    "text": "Recommend which product Aroma Kitchenware should make. Justify your answer.",
-    "marks": 4,
-    "answer": "Y gives slightly more profit ($27,000 v $24,000), but its margin of safety is only 1,500 units (17% of forecast) compared with 4,000 (33%) for X. If sales are 20% below forecast, X still makes a profit (9,600 units → $9,600) but Y makes a loss (7,200 units → −$5,400). X is the safer choice unless the forecast for Y is very reliable; the extra $3,000 profit from Y is small for the extra risk.",
-    "working": "1 mark: compares profit. 1 mark: compares margin of safety/risk. 2 marks: justified recommendation explaining why the other product is weaker (may consider reliability of forecasts, fit with existing range)."
+    "text": "Using the appendix, recommend which product Aroma Kitchenware should make. Justify your answer using suitable calculations (for example, break-even output, margin of safety and expected profit for each product).",
+    "marks": 12,
+    "answer": "Calculations: X: break-even 8,000, margin of safety 4,000, profit $24,000. Y: break-even 7,500, margin of safety 1,500, profit $27,000. Y gives slightly more profit ($27,000 v $24,000), but its margin of safety is only 1,500 units (17% of forecast) compared with 4,000 (33%) for X. If sales are 20% below forecast, X still makes a profit (9,600 units → $9,600) but Y makes a loss (7,200 units → −$5,400). X is the safer choice unless the forecast for Y is very reliable; the extra $3,000 profit from Y is small for the extra risk.",
+    "working": "Calculations: X: contribution $6; 48,000 ÷ 6 = 8,000; 12,000 − 8,000 = 4,000; 6 × 12,000 − 48,000 = $24,000. Y: contribution $18; 135,000 ÷ 18 = 7,500; 9,000 − 7,500 = 1,500; 18 × 9,000 − 135,000 = $27,000. Content: X break-even 8,000, margin of safety 4,000 (33%), profit $24,000; Y break-even 7,500, margin of safety 1,500 (17%), profit $27,000; if sales are 20% below forecast X still profits, Y makes a loss; reliability of forecasts; fit with existing range. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Aroma Kitchenware, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Aroma Kitchenware, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "48000/(15-9)==8000 and 12000-48000/(15-9)==4000 and (15-9)*12000-48000==24000 and 135000/(40-22)==7500 and 9000-135000/(40-22)==1500 and (40-22)*9000-135000==27000 and (15-9)*12000*0.8-48000==9600 and (40-22)*9000*0.8-135000==-5400 and round(1500/9000*100)==17 and round(4000/12000*100)==33",
@@ -2039,16 +1948,16 @@
    {
     "label": "a",
     "text": "Explain two benefits to Golden Biscuits Ltd of using flow production for its best-selling biscuit.",
-    "marks": 4,
-    "answer": "1. Lower average costs: machines run continuously without stopping for cleaning and changeover, and ingredients can be bought in bulk. 2. Higher output and consistent quality: automated line makes identical biscuits quickly to meet growing demand.",
-    "working": "For each benefit: 1 mark identify + 1 mark explanation applied to the biscuit factory."
+    "marks": 8,
+    "answer": "1. Lower average costs: machines run continuously without stopping for cleaning and changeover, and ingredients can be bought in bulk, so each biscuit costs less and prices can be competitive. 2. Higher output and consistent quality: an automated line makes identical biscuits quickly, so the firm can meet growing demand without losing sales.",
+    "working": "For each benefit (max 4 each): 1 mark identify; 1 mark apply to the biscuit factory (changeovers, high demand); 2 marks develop the consequence (costs, profit, meeting demand)."
    },
    {
     "label": "b",
     "text": "Recommend whether Golden Biscuits Ltd should introduce flow production for this biscuit. Justify your answer.",
-    "marks": 4,
+    "marks": 12,
     "answer": "Yes, if demand stays high: the line already runs this biscuit almost constantly, so flow production uses the equipment fully and cuts unit costs. Risks: high cost of the new line; if tastes change, a dedicated line is inflexible; workers may find tasks repetitive. Because demand is large and stable, the cost savings and output are likely to outweigh the risk; keep batch production for the other types.",
-    "working": "1 mark benefit applied; 1 mark drawback/risk applied; 2 marks justified recommendation linked to the level and stability of demand."
+    "working": "Content: line already runs this biscuit almost constantly, so flow uses equipment fully and cuts unit costs; high cost of the new line; inflexible if tastes change; repetitive work and motivation; keep batch production for other types; level and stability of demand. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Golden Biscuits Ltd, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Golden Biscuits Ltd, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks."
    }
   ],
   "author": "HomiLabs",
@@ -2222,17 +2131,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the total annual cost of each site.",
-    "marks": 2,
-    "answer": "Site A: Rs 21,000,000; Site B: Rs 21,300,000",
-    "working": "A: 1,800,000 + 40 × 420,000 + 2,400,000 = Rs 21,000,000 (1). B: 1,200,000 + 40 × 480,000 + 900,000 = Rs 21,300,000 (1)."
-   },
-   {
-    "label": "b",
-    "text": "Recommend which site Fresh Pack Ltd should choose. Justify your answer.",
-    "marks": 6,
-    "answer": "The costs are very close (A is Rs 300,000 cheaper, about 1.4%), so other factors decide. Site A is near the fruit farms, so fresh supplies arrive quickly and wages are lower, but it is further from the port and transport costs are much higher, and fuel price rises would hurt. Site B is near the port, has skilled workers and lower transport costs, but congestion may delay shipments. Recommendation: either with justification, e.g. B, because export deadlines and skilled packing workers matter more than a 1.4% cost difference, and transport costs are the most likely to rise.",
-    "working": "Up to 2 marks: use of the cost data. Up to 2 marks: analysis of non-financial factors (suppliers, port access, labour, congestion). Up to 2 marks: justified recommendation explaining why the other site is weaker."
+    "text": "Using the appendix, recommend which site Fresh Pack Ltd should choose for its new warehouse. Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: Site A: Rs 21,000,000; Site B: Rs 21,300,000. The costs are very close (A is Rs 300,000 cheaper, about 1.4%), so other factors decide. Site A is near the fruit farms, so fresh supplies arrive quickly and wages are lower, but it is further from the port and transport costs are much higher, and fuel price rises would hurt. Site B is near the port, has skilled workers and lower transport costs, but congestion may delay shipments. Recommendation: either with justification, e.g. B, because export deadlines and skilled packing workers matter more than a 1.4% cost difference, and transport costs are the most likely to rise.",
+    "working": "Calculations: A: 1,800,000 + 40 × 420,000 + 2,400,000 = Rs 21,000,000. B: 1,200,000 + 40 × 480,000 + 900,000 = Rs 21,300,000. Content: total annual cost A Rs 21.0 m, B Rs 21.3 m (difference Rs 300,000, about 1.4%); A near fruit farms with lower wages and rent v higher transport costs; B near the port with skilled workers and low transport costs v congestion delays; export deadlines; fuel price risk. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Fresh Pack Ltd, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Fresh Pack Ltd, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "1800000+40*420000+2400000==21000000 and 1200000+40*480000+900000==21300000 and round(300000/21300000*100,1)==1.4",
@@ -2249,17 +2151,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the difference in total annual wage costs between Country P and Country Q.",
-    "marks": 2,
-    "answer": "$360,000 a year (Q is more expensive)",
-    "working": "Difference per worker per month = 460 − 310 = $150 (M1); 150 × 12 × 200 = $360,000 (A1)."
-   },
-   {
-    "label": "b",
-    "text": "Recommend which country SolarWave plc should choose for its new factory. Justify your answer.",
-    "marks": 6,
-    "answer": "Country Q: although wages cost $360,000 a year more, the grant of $500,000 covers well over one year of the difference; the large, growing market means panels can be sold locally, and making them inside the country avoids the 25% tariff that imported panels would face. Political stability reduces the risk of disruption. Country P has lower wages and no tariff barrier to worry about, but a small market and unrest. Recommendation: Q, because market access and stability outweigh the higher wage bill.",
-    "working": "Up to 2 marks: use of data including the calculation and the grant. Up to 2 marks: analysis of tariffs/market size/stability. Up to 2 marks: justified recommendation explaining why the other country is weaker."
+    "text": "Using the appendix, recommend which country SolarWave plc should choose for its new factory. Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: $360,000 a year (Q is more expensive). Country Q: although wages cost $360,000 a year more, the grant of $500,000 covers well over one year of the difference; the large, growing market means panels can be sold locally, and making them inside the country avoids the 25% tariff that imported panels would face. Political stability reduces the risk of disruption. Country P has lower wages and no tariff barrier to worry about, but a small market and unrest. Recommendation: Q, because market access and stability outweigh the higher wage bill.",
+    "working": "Calculations: Difference per worker per month = 460 − 310 = $150; 150 × 12 × 200 = $360,000. Content: wage bill difference $360,000 a year (Q dearer); $500,000 grant in Q covers more than one year of the difference; 25% tariff in Q protects panels made inside Q; large, growing market in Q v small market in P; political stability v unrest. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to SolarWave plc, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to SolarWave plc, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "(460-310)*12*200==360000",
@@ -2374,17 +2269,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the number of faulty shirts per month before and after training, and the monthly saving in cost.",
-    "marks": 3,
-    "answer": "Before 800; after 350; saving Rs 292,500 per month",
-    "working": "3.2% × 25,000 = 800 (1); 1.4% × 25,000 = 350 (1); (800 − 350) × 650 = Rs 292,500 (1)."
-   },
-   {
-    "label": "b",
-    "text": "Should Hamza Garments pay for the training course? Justify your answer.",
-    "marks": 5,
-    "answer": "Yes: the monthly saving of Rs 292,500 is more than the one-off cost of Rs 250,000, so the training pays for itself in under a month; fewer faults also improve reputation with buyers, and trained workers may feel more valued. But the fault rate of 1.4% is only the training company's claim; workers may forget the training or leave; production time is lost during the course. Judgement: pay for it, as even a much smaller improvement would cover the cost, but monitor fault rates afterwards.",
-    "working": "Up to 2 marks: analysis using the calculation. Up to 2 marks: other factors (reliability of claim, staff turnover, reputation, motivation). 1 mark: justified judgement."
+    "text": "Should Hamza Garments pay for the training course? Justify your answer using suitable calculations (for example, the number of faulty shirts before and after training and the monthly saving).",
+    "marks": 12,
+    "answer": "Calculations: Before 800; after 350; saving Rs 292,500 per month. Yes: the monthly saving of Rs 292,500 is more than the one-off cost of Rs 250,000, so the training pays for itself in under a month; fewer faults also improve reputation with buyers, and trained workers may feel more valued. But the fault rate of 1.4% is only the training company's claim; workers may forget the training or leave; production time is lost during the course. Judgement: pay for it, as even a much smaller improvement would cover the cost, but monitor fault rates afterwards.",
+    "working": "Calculations: 3.2% × 25,000 = 800; 1.4% × 25,000 = 350; (800 − 350) × 650 = Rs 292,500. Content: faulty shirts 800 → 350 a month; saving Rs 292,500 a month v one-off cost Rs 250,000 (pays back in under a month); reputation with buyers, motivation; reliability of the training company's claim, staff turnover, lost production time; monitoring fault rates. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Hamza Garments, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Hamza Garments, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "round(25000*3.2/100)==800 and round(25000*1.4/100)==350 and round((25000*3.2/100-25000*1.4/100)*650)==292500",
@@ -2592,17 +2480,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the difference in annual salary cost between the two applicants. Show your working.",
-    "marks": 2,
-    "answer": "PKR 300,000 per year (Bilal costs more)",
-    "working": "M1: (120,000 − 95,000) = 25,000 per month. A1: 25,000 × 12 = PKR 300,000."
-   },
-   {
-    "label": "b",
-    "text": "Which applicant should Sindh Snacks choose? Justify your answer using Appendix 1.",
-    "marks": 6,
-    "answer": "Amina: knows the machines, workers and procedures; cheaper by PKR 300,000 a year; safety committee shows leadership; promotion motivates other operators. But no supervisory experience and fewer qualifications; may find it hard to manage former colleagues. Bilal: has 3 years of supervisory experience and food science knowledge which may improve quality; brings new ideas. But costs more, needs induction, may not stay if relocation fails. Judgement e.g. Amina, because she knows the factory and the shift workers, and the saving can pay for supervisory training, which reduces the main risk.",
-    "working": "Up to 2 marks for analysis of each applicant (using appendix data). 2 marks for a justified decision that explains why the other applicant is less suitable. A decision with no reasoning earns no evaluation marks."
+    "text": "Which applicant should Sindh Snacks choose as production supervisor? Justify your answer using suitable calculations and Appendix 1.",
+    "marks": 12,
+    "answer": "Calculations: PKR 300,000 per year (Bilal costs more). Amina: knows the machines, workers and procedures; cheaper by PKR 300,000 a year; safety committee shows leadership; promotion motivates other operators. But no supervisory experience and fewer qualifications; may find it hard to manage former colleagues. Bilal: has 3 years of supervisory experience and food science knowledge which may improve quality; brings new ideas. But costs more, needs induction, may not stay if relocation fails. Judgement e.g. Amina, because she knows the factory and the shift workers, and the saving can pay for supervisory training, which reduces the main risk.",
+    "working": "Calculations: (120,000 − 95,000) = 25,000 per month. 25,000 × 12 = PKR 300,000. Content: Bilal costs PKR 300,000 a year more; Amina — internal, knows machines and workers, safety committee leadership, motivates others, but no supervisory experience and may struggle to manage former colleagues; Bilal — 3 years' supervisory experience and food-science degree, new ideas, but dearer, needs induction and relocation. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Sindh Snacks, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Sindh Snacks, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "(120000-95000)*12 == 300000",
@@ -2619,17 +2500,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the total cost of Option A. Show your working.",
-    "marks": 2,
-    "answer": "$17,400",
-    "working": "M1: cost per person = 850 + 5 × 120 = $1,450. A1: 12 × 1,450 = $17,400."
-   },
-   {
-    "label": "b",
-    "text": "Option B costs $3,900. Which option should CodeNest choose? Justify your answer.",
-    "marks": 6,
-    "answer": "Option B is $13,500 cheaper and the training is directly related to CodeNest's own systems and projects; developers keep producing while learning. However, the senior developer's bad habits may be passed on, and his own work suffers. Option A gives expert, structured training and possibly recognised qualifications, but costs more and developers are away for 5 days. Judgement, e.g. Option B because CodeNest's systems are specific to the company, so an outside course may not cover them, and the saving of $13,500 is large.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. Credit use of the $13,500 difference (17,400 − 3,900)."
+    "text": "Option B costs $3,900. Which option should CodeNest choose to train its new developers? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: $17,400. Option B is $13,500 cheaper and the training is directly related to CodeNest's own systems and projects; developers keep producing while learning. However, the senior developer's bad habits may be passed on, and his own work suffers. Option A gives expert, structured training and possibly recognised qualifications, but costs more and developers are away for 5 days. Judgement, e.g. Option B because CodeNest's systems are specific to the company, so an outside course may not cover them, and the saving of $13,500 is large.",
+    "working": "Calculations: cost per person = 850 + 5 × 120 = $1,450. 12 × 1,450 = $17,400. Content: Option A costs 12 × (850 + 5 × 120) = $17,400, so B is $13,500 cheaper; B uses CodeNest's own systems and developers keep working, but the senior developer's output falls and bad habits may pass on; A gives expert, structured training and possibly qualifications, but costs more and developers miss 5 days. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to CodeNest, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to CodeNest, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "12*(850+5*120) == 17400 and 12*(850+5*120) - (1500+2400) == 13500",
@@ -2672,17 +2546,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the total redundancy payments Chenab Weaving would make. Show your working.",
-    "marks": 2,
-    "answer": "PKR 5,400,000",
-    "working": "M1: 3 × 45,000 = 135,000 per worker. A1: 135,000 × 40 = PKR 5,400,000."
-   },
-   {
-    "label": "b",
-    "text": "Should Chenab Weaving buy the automated looms? Justify your answer using calculations.",
-    "marks": 6,
-    "answer": "Annual wage saving = 40 × 45,000 × 12 = PKR 21.6 million; net saving after running costs = 21.6 − 9 = PKR 12.6 million a year, so the PKR 35.4 million total cost (30 m looms + 5.4 m redundancy) is covered in under 3 years. Looms may also improve quality and output. Against: large outlay may need a loan; remaining workers may be demotivated or strike; bad publicity locally; staff need training to use looms. Judgement with reasoning, e.g. buy, because the cost is recovered in about 2.8 years, but communicate with workers and the union first.",
-    "working": "Up to 2 marks for correct supporting calculations (wage saving PKR 21.6 m, net saving PKR 12.6 m). Up to 2 marks for analysis of drawbacks. 2 marks for a justified decision."
+    "text": "Should Chenab Weaving buy the automated looms? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: PKR 5,400,000. Annual wage saving = 40 × 45,000 × 12 = PKR 21.6 million; net saving after running costs = 21.6 − 9 = PKR 12.6 million a year, so the PKR 35.4 million total cost (30 m looms + 5.4 m redundancy) is covered in under 3 years. Looms may also improve quality and output. Against: large outlay may need a loan; remaining workers may be demotivated or strike; bad publicity locally; staff need training to use looms. Judgement with reasoning, e.g. buy, because the cost is recovered in about 2.8 years, but communicate with workers and the union first.",
+    "working": "Calculations: 3 × 45,000 = 135,000 per worker. 135,000 × 40 = PKR 5,400,000. Content: redundancy pay PKR 5.4 m; wage saving 40 × 45,000 × 12 = PKR 21.6 m a year; net saving PKR 12.6 m a year after running costs; total outlay PKR 35.4 m recovered in about 2.8 years; quality and output; loan finance; morale, union action, local reputation, training. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Chenab Weaving, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Chenab Weaving, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "40*3*45000 == 5400000 and 40*45000*12 - 9000000 == 12600000",
@@ -2896,17 +2763,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the annual saving in salaries from delayering. Show your working.",
-    "marks": 2,
-    "answer": "$302,400",
-    "working": "M1: 6 × 4,200 = $25,200 per month. A1: × 12 = $302,400."
-   },
-   {
-    "label": "b",
-    "text": "Do you think delayering will benefit Gulf Express Logistics? Justify your answer.",
-    "marks": 6,
-    "answer": "Benefits: saves $302,400 a year; shorter chain of command so faster communication between depots and senior managers; depot managers have more responsibility, which may motivate them. Drawbacks: the operations director's span of control widens to 18 depot managers, so supervision becomes harder; remaining managers may be overloaded; redundancy costs and lower morale; fewer promotion steps. Judgement with reason, e.g. yes if depot managers are experienced and trained, because the saving is large and decisions would be quicker.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. Credit use of the calculated saving."
+    "text": "Do you think delayering will benefit Gulf Express Logistics? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: $302,400. Benefits: saves $302,400 a year; shorter chain of command so faster communication between depots and senior managers; depot managers have more responsibility, which may motivate them. Drawbacks: the operations director's span of control widens to 18 depot managers, so supervision becomes harder; remaining managers may be overloaded; redundancy costs and lower morale; fewer promotion steps. Judgement with reason, e.g. yes if depot managers are experienced and trained, because the saving is large and decisions would be quicker.",
+    "working": "Calculations: 6 × 4,200 = $25,200 per month. × 12 = $302,400. Content: saving 6 × 4,200 × 12 = $302,400 a year; shorter chain of command and faster communication; more responsibility and motivation for depot managers; but the operations director's span of control widens to 18; overload; redundancy costs; fewer promotion steps; morale. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Gulf Express Logistics, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Gulf Express Logistics, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "6*4200*12 == 302400",
@@ -2923,17 +2783,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the extra annual wage cost if the 8% pay rise is accepted. Show your working.",
-    "marks": 2,
-    "answer": "PKR 7,488,000",
-    "working": "M1: 150 × 52,000 × 12 = PKR 93.6 million a year. A1: 8% of 93.6 m = PKR 7,488,000."
-   },
-   {
-    "label": "b",
-    "text": "Should the managers accept the union's demand? Justify your answer.",
-    "marks": 6,
-    "answer": "Accept: avoids a strike that would stop production and lose orders; workers are more motivated; helps keep skilled welders. Reject: the rise costs about PKR 7.5 m, a quarter of last year's PKR 30 m profit; may have to raise prices and lose customers; could offer a smaller rise or a rise linked to productivity. Judgement, e.g. negotiate a lower rise (such as 5%) linked to output targets, because a strike would cost more than the rise but the full 8% cuts profit by 25%.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. Credit comparison of 7.488 m with the 30 m profit (about 25%)."
+    "text": "Should the managers accept the union's demand for an 8% pay rise? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: PKR 7,488,000. Accept: avoids a strike that would stop production and lose orders; workers are more motivated; helps keep skilled welders. Reject: the rise costs about PKR 7.5 m, a quarter of last year's PKR 30 m profit; may have to raise prices and lose customers; could offer a smaller rise or a rise linked to productivity. Judgement, e.g. negotiate a lower rise (such as 5%) linked to output targets, because a strike would cost more than the rise but the full 8% cuts profit by 25%.",
+    "working": "Calculations: 150 × 52,000 × 12 = PKR 93.6 million a year. 8% of 93.6 m = PKR 7,488,000. Content: wage bill 150 × 52,000 × 12 = PKR 93.6 m; 8% rise = PKR 7.488 m, about 25% of last year's PKR 30 m profit; strike risk (lost production and orders); motivation and keeping skilled workers; price rises and competitiveness; negotiating a smaller or productivity-linked rise. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Indus Steel Fabricators, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Indus Steel Fabricators, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "round(150*52000*12*0.08) == 7488000 and round(7488000/30000000*100) == 25",
@@ -3055,17 +2908,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the annual cost of Option 1 if the target is met every month. Show your working.",
-    "marks": 2,
-    "answer": "PKR 2,160,000",
-    "working": "M1: 5% × 3.6 m = PKR 180,000 per month. A1: × 12 = PKR 2,160,000."
-   },
-   {
-    "label": "b",
-    "text": "Which option should Indus Insurance choose? Justify your answer.",
-    "marks": 6,
-    "answer": "Option 1: directly linked to sales, so it may raise sales quickly; only paid if targets are met; but costs up to PKR 2.16 m a year, may encourage mis-selling, and the effect fades (Herzberg: money is a hygiene factor). Option 2: cheaper (PKR 0.9 m); satisfies esteem and self-actualisation needs; builds skills that help selling; but the effect on sales is slower and some trained staff may leave for rivals. Judgement with reasoning, e.g. Option 2, because it costs less than half of Option 1 and gives long-term motivation, unless sales must rise immediately.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. Credit comparison of 2.16 m with 0.9 m."
+    "text": "Which option should Indus Insurance choose to motivate its sales staff? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: PKR 2,160,000. Option 1: directly linked to sales, so it may raise sales quickly; only paid if targets are met; but costs up to PKR 2.16 m a year, may encourage mis-selling, and the effect fades (Herzberg: money is a hygiene factor). Option 2: cheaper (PKR 0.9 m); satisfies esteem and self-actualisation needs; builds skills that help selling; but the effect on sales is slower and some trained staff may leave for rivals. Judgement with reasoning, e.g. Option 2, because it costs less than half of Option 1 and gives long-term motivation, unless sales must rise immediately.",
+    "working": "Calculations: 5% × 3.6 m = PKR 180,000 per month. × 12 = PKR 2,160,000. Content: Option 1 costs up to 5% × 3.6 m × 12 = PKR 2.16 m a year, paid only if targets are met, quick link to sales, risk of mis-selling, money as a hygiene factor; Option 2 costs PKR 0.9 m, meets esteem and self-actualisation needs, builds selling skills, slower effect, trained staff may leave. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Indus Insurance, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Indus Insurance, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "round(3600000*0.05*12) == 2160000",
@@ -3186,17 +3032,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the annual cost of Option 1. Show your working.",
-    "marks": 2,
-    "answer": "PKR 1,080,000",
-    "working": "M1: 60 × 1,500 = PKR 90,000 per month. A1: × 12 = PKR 1,080,000."
-   },
-   {
-    "label": "b",
-    "text": "Which option should CareWell Hospitals choose? Justify your answer.",
-    "marks": 6,
-    "answer": "Option 1: written record, but one-way, costs PKR 1.08 m a year and news is up to a month old. Option 2: first-year cost PKR 950,000, then only PKR 150,000 a year; instant updates to staff on shifts; can allow feedback; but some staff may not check it. Option 3: two-way, staff can ask questions, but takes nurses away from patients and messages may differ between wards. Judgement, e.g. Option 2, because it is cheaper than the newsletter from the first year and reaches shift workers quickly; urgent policy changes could still be explained at meetings.",
-    "working": "Up to 4 marks for analysis of the options (credit the comparison PKR 1.08 m vs 0.95 m). 2 marks for a justified choice explaining why the other options are weaker."
+    "text": "Which communication method should CareWell Hospitals choose? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: PKR 1,080,000. Option 1: written record, but one-way, costs PKR 1.08 m a year and news is up to a month old. Option 2: first-year cost PKR 950,000, then only PKR 150,000 a year; instant updates to staff on shifts; can allow feedback; but some staff may not check it. Option 3: two-way, staff can ask questions, but takes nurses away from patients and messages may differ between wards. Judgement, e.g. Option 2, because it is cheaper than the newsletter from the first year and reaches shift workers quickly; urgent policy changes could still be explained at meetings.",
+    "working": "Calculations: 60 × 1,500 = PKR 90,000 per month. × 12 = PKR 1,080,000. Content: Option 1 costs 60 × 1,500 × 12 = PKR 1.08 m a year, one-way and up to a month old; Option 2 costs PKR 950,000 in year 1 then PKR 150,000 a year, instant, reaches shift workers, allows feedback, but some staff may not check it; Option 3 two-way with questions, but takes staff from patients and messages may differ between wards. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to CareWell Hospitals, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to CareWell Hospitals, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "60*1500*12 == 1080000 and 800000+150000 == 950000",
@@ -3448,17 +3287,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the extra annual cost of buying all the coffee from Supplier Y. Show your working.",
-    "marks": 2,
-    "answer": "$10,800",
-    "working": "M1: 20,000 × 4.50 = $90,000. A1: 12% × 90,000 = $10,800."
-   },
-   {
-    "label": "b",
-    "text": "Should Bean There switch to Supplier Y? Justify your answer.",
-    "marks": 6,
-    "answer": "Switch: protects reputation; fair-trade logo can be used in promotion and may attract young professionals who care about ethics; may justify slightly higher prices; avoids risk of boycott. Stay: extra $10,800 a year raises costs and reduces profit; customers may not notice or pay more; Supplier X may improve. Judgement, e.g. switch, because the extra cost is small compared with the risk to the brand and could be covered by a very small price rise per cup.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. Credit use of the $10,800 figure."
+    "text": "Should Bean There switch to Supplier Y? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: $10,800. Switch: protects reputation; fair-trade logo can be used in promotion and may attract young professionals who care about ethics; may justify slightly higher prices; avoids risk of boycott. Stay: extra $10,800 a year raises costs and reduces profit; customers may not notice or pay more; Supplier X may improve. Judgement, e.g. switch, because the extra cost is small compared with the risk to the brand and could be covered by a very small price rise per cup.",
+    "working": "Calculations: 20,000 × 4.50 = $90,000. 12% × 90,000 = $10,800. Content: extra cost 12% × 20,000 × 4.50 = $10,800 a year; fair-trade logo in promotion, appeal to ethically minded young professionals, reputation and boycott risk, possible small price rise per cup; higher costs and lower profit, customers may not notice or pay more. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Bean There, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Bean There, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "round(20000*4.5*0.12) == 10800",
@@ -3475,17 +3307,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate how many months it would take for the savings to repay the cost of the panels. Show your working.",
-    "marks": 2,
-    "answer": "40 months",
-    "working": "M1: 18,000,000 ÷ 450,000. A1: 40 months."
-   },
-   {
-    "label": "b",
-    "text": "Should Kohinoor Spinning Mills install the solar panels? Justify your answer.",
-    "marks": 6,
-    "answer": "For: saves PKR 5.4 m a year; cost recovered in 40 months (about 3 years 4 months) and panels last much longer; less pollution so better image with buyers; protects against rising grid prices and power cuts. Against: PKR 18 m loan means interest costs; savings may be less on cloudy days; money cannot be used for new machinery (opportunity cost). Judgement, e.g. install, because savings repay the cost in just over 3 years while panels last far longer, as long as loan interest is affordable.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. "
+    "text": "Should Kohinoor Spinning Mills install the solar panels? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: 40 months. For: saves PKR 5.4 m a year; cost recovered in 40 months (about 3 years 4 months) and panels last much longer; less pollution so better image with buyers; protects against rising grid prices and power cuts. Against: PKR 18 m loan means interest costs; savings may be less on cloudy days; money cannot be used for new machinery (opportunity cost). Judgement, e.g. install, because savings repay the cost in just over 3 years while panels last far longer, as long as loan interest is affordable.",
+    "working": "Calculations: 18,000,000 ÷ 450,000. 40 months. Content: payback 18,000,000 ÷ 450,000 = 40 months; saving PKR 5.4 m a year; panels last much longer than the payback; protection from grid price rises and power cuts; image with buyers; loan interest; lower output on cloudy days; opportunity cost (machinery). Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Kohinoor Spinning Mills, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Kohinoor Spinning Mills, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "18000000/450000 == 40 and 450000*12 == 5400000",
@@ -3765,17 +3590,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate how much more the order would cost in rupees if paid in three months at the forecast exchange rate. Show your working.",
-    "marks": 2,
-    "answer": "PKR 1,250,000 more",
-    "working": "M1: now 500,000 × 39 = PKR 19.5 m; later 500,000 × 41.5 = PKR 20.75 m. A1: difference PKR 1.25 m."
-   },
-   {
-    "label": "b",
-    "text": "Should Lahore Lights pay now or in three months? Justify your answer.",
-    "marks": 6,
-    "answer": "Pay now: avoids the forecast extra PKR 1.25 m cost; certainty about cost for pricing. But uses most cash, so cash-flow problems (cannot pay wages or other suppliers); risk if goods arrive late or faulty. Pay later: keeps cash; forecast may be wrong and the rupee could strengthen. Judgement, e.g. pay now only if an overdraft can cover short-term needs, because the saving (about 6% of the order) is large; otherwise protect cash flow.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. Credit use of PKR 1.25 m."
+    "text": "Should Lahore Lights pay its Chinese supplier now or in three months? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: PKR 1,250,000 more. Pay now: avoids the forecast extra PKR 1.25 m cost; certainty about cost for pricing. But uses most cash, so cash-flow problems (cannot pay wages or other suppliers); risk if goods arrive late or faulty. Pay later: keeps cash; forecast may be wrong and the rupee could strengthen. Judgement, e.g. pay now only if an overdraft can cover short-term needs, because the saving (about 6% of the order) is large; otherwise protect cash flow.",
+    "working": "Calculations: now 500,000 × 39 = PKR 19.5 m; later 500,000 × 41.5 = PKR 20.75 m. difference PKR 1.25 m. Content: now PKR 19.5 m, later PKR 20.75 m at the forecast rate (PKR 1.25 m, about 6% more); certainty for pricing; paying now uses most cash — cash-flow risk, risk if goods are late or faulty; forecast may be wrong; overdraft option. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Lahore Lights, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Lahore Lights, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "500000*41.5 - 500000*39 == 1250000",
@@ -3792,17 +3610,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the difference in annual labour cost between Country A and Country B for 800 workers. Show your working.",
-    "marks": 2,
-    "answer": "$1,344,000 a year (Country B is cheaper)",
-    "working": "M1: A: 800 × 300 × 12 = $2,880,000; B: 800 × 160 × 12 = $1,536,000. A1: difference $1,344,000."
-   },
-   {
-    "label": "b",
-    "text": "Which country should Threadline choose? Justify your answer using Appendix 2.",
-    "marks": 6,
-    "answer": "Country B: labour about $1.34 m a year cheaper; 5-year tax holiday increases profit. But power cuts stop production and port delays mean late deliveries to European shops, which matters for fashion. Country A: higher wages but reliable infrastructure, skilled workers for quality, low export tariffs to Europe. Judgement, e.g. Country A if Threadline sells quality fashion where speed matters; Country B if it competes on low price and can buy generators.",
-    "working": "Up to 4 marks for analysis of both countries using appendix data (including the calculation). 2 marks for a justified choice explaining why the other country is weaker."
+    "text": "Which country should Threadline choose for its new garment factory? Justify your answer using suitable calculations and Appendix 2.",
+    "marks": 12,
+    "answer": "Calculations: $1,344,000 a year (Country B is cheaper). Country B: labour about $1.34 m a year cheaper; 5-year tax holiday increases profit. But power cuts stop production and port delays mean late deliveries to European shops, which matters for fashion. Country A: higher wages but reliable infrastructure, skilled workers for quality, low export tariffs to Europe. Judgement, e.g. Country A if Threadline sells quality fashion where speed matters; Country B if it competes on low price and can buy generators.",
+    "working": "Calculations: A: 800 × 300 × 12 = $2,880,000; B: 800 × 160 × 12 = $1,536,000. difference $1,344,000. Content: labour cost A $2.88 m, B $1.536 m a year (B $1,344,000 cheaper); B's 5-year tax holiday v power cuts and port delays (late deliveries to European shops); A's reliable infrastructure, skilled workers for quality fabrics, low export tariffs to Europe; fit with Threadline's market (quality fashion v low price). Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Threadline, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Threadline, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "800*300*12 - 800*160*12 == 1344000",
@@ -3985,17 +3796,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the forecast sales revenue under Option 1. Show your working.",
-    "marks": 2,
-    "answer": "PKR 96,750,000",
-    "working": "M1: new price 50,000 × 0.9 = PKR 45,000. A1: 2,150 × 45,000 = PKR 96,750,000."
-   },
-   {
-    "label": "b",
-    "text": "Which option should Comfort Home Furniture choose? Justify your answer.",
-    "marks": 6,
-    "answer": "Option 1: revenue falls from PKR 100 m to PKR 96.75 m even though more items are sold, and the forecast may be optimistic in a recession; but it keeps staff and customers. Option 2: saves 8 × 60,000 × 12 = PKR 5.76 m a year; but customer service may fall, remaining staff demotivated, redundancy payments, and staff are lost for when the economy recovers. Note: revenue is not profit – selling 150 more items also adds to costs, so Option 1's effect on profit is worse than the PKR 3.25 m revenue fall suggests. Judgement, e.g. Option 2, because Option 1 reduces revenue by PKR 3.25 m while Option 2 cuts costs by PKR 5.76 m; or a justified alternative.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. Credit supporting calculations (revenue change PKR 3.25 m; saving PKR 5.76 m)."
+    "text": "Which option should Comfort Home Furniture choose? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: PKR 96,750,000. Option 1: revenue falls from PKR 100 m to PKR 96.75 m even though more items are sold, and the forecast may be optimistic in a recession; but it keeps staff and customers. Option 2: saves 8 × 60,000 × 12 = PKR 5.76 m a year; but customer service may fall, remaining staff demotivated, redundancy payments, and staff are lost for when the economy recovers. Note: revenue is not profit – selling 150 more items also adds to costs, so Option 1's effect on profit is worse than the PKR 3.25 m revenue fall suggests. Judgement, e.g. Option 2, because Option 1 reduces revenue by PKR 3.25 m while Option 2 cuts costs by PKR 5.76 m; or a justified alternative.",
+    "working": "Calculations: new price 50,000 × 0.9 = PKR 45,000. 2,150 × 45,000 = PKR 96,750,000. Content: Option 1 revenue 2,150 × 45,000 = PKR 96.75 m v PKR 100 m now (fall of PKR 3.25 m, and extra items add costs); Option 2 saves 8 × 60,000 × 12 = PKR 5.76 m a year; reliability of the sales forecast in a recession; customer service, morale, redundancy pay, losing staff before recovery. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Comfort Home Furniture, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Comfort Home Furniture, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "2150*50000*0.9 == 96750000 and 8*60000*12 == 5760000",
@@ -4247,17 +4051,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "For each option, calculate the forecast annual profit as a percentage of the cost of the option. Give answers correct to 1 decimal place.",
-    "marks": 2,
-    "answer": "Option 1: 24.0%; Option 2: 18.2%",
-    "working": "B1: Option 1: (3 × 6) ÷ (3 × 25) × 100 = 18 ÷ 75 × 100 = 24.0%. B1: Option 2: 20 ÷ 110 × 100 = 18.2%."
-   },
-   {
-    "label": "b",
-    "text": "Which option should Bread Basket choose? Justify your answer using your calculations.",
-    "marks": 6,
-    "answer": "Option 1: higher return (24.0%), cheaper (PKR 75 m), keeps Bread Basket's own culture and quality, but slower and the forecast profit for new bakeries is uncertain. Option 2: lower return (18.2%) and costs PKR 110 m, but gains 5 bakeries at once with a known profit record, removes a competitor and gives more market share; may bring integration problems. Judgement, e.g. Option 1, because it gives a higher return for less money, unless Bread Basket needs to grow quickly to block competitors.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. Credit use of both percentages."
+    "text": "Which option should Bread Basket choose? Justify your answer using suitable calculations (for example, forecast annual profit as a percentage of the cost of each option).",
+    "marks": 12,
+    "answer": "Calculations: Option 1: 24.0%; Option 2: 18.2%. Option 1: higher return (24.0%), cheaper (PKR 75 m), keeps Bread Basket's own culture and quality, but slower and the forecast profit for new bakeries is uncertain. Option 2: lower return (18.2%) and costs PKR 110 m, but gains 5 bakeries at once with a known profit record, removes a competitor and gives more market share; may bring integration problems. Judgement, e.g. Option 1, because it gives a higher return for less money, unless Bread Basket needs to grow quickly to block competitors.",
+    "working": "Calculations: Option 1: (3 × 6) ÷ (3 × 25) × 100 = 18 ÷ 75 × 100 = 24.0%. Option 2: 20 ÷ 110 × 100 = 18.2%. Content: Option 1 = 18 ÷ 75 × 100 = 24.0%; Option 2 = 20 ÷ 110 × 100 = 18.2%; internal growth cheaper and keeps culture/quality but slower and forecast uncertain; takeover gives 5 bakeries at once with a known profit record, removes a rival, more market share, but integration problems and higher cost. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Bread Basket, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Bread Basket, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "round(3*6/(3*25)*100, 1) == 24.0 and round(20/110*100, 1) == 18.2",
@@ -4274,17 +4071,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate Zain's forecast monthly profit. Show your working.",
-    "marks": 2,
-    "answer": "PKR 1,000,000",
-    "working": "M1: revenue 300 × 26 × 350 = 2,730,000; ingredients 300 × 26 × 120 = 936,000; fixed costs 794,000. A1: 2,730,000 − 936,000 − 794,000 = PKR 1,000,000."
-   },
-   {
-    "label": "b",
-    "text": "Do you think the bank should lend Zain the PKR 6 million? Justify your answer.",
-    "marks": 6,
-    "answer": "For: forecast profit of PKR 1 m a month (PKR 12 m a year) would easily cover repayments; plan shows he has thought about costs. Against: forecasts may be optimistic – 300 juices every day may be unrealistic for a new business, especially in winter; no evidence of market research or competitors; Zain's experience unknown; the loan is large and he may have no collateral. Judgement, e.g. lend only if Zain shows market research supporting the sales forecast and offers security, because profit is very sensitive to the number of juices sold.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. "
+    "text": "Do you think the bank should lend Zain the PKR 6 million? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: PKR 1,000,000. For: forecast profit of PKR 1 m a month (PKR 12 m a year) would easily cover repayments; plan shows he has thought about costs. Against: forecasts may be optimistic – 300 juices every day may be unrealistic for a new business, especially in winter; no evidence of market research or competitors; Zain's experience unknown; the loan is large and he may have no collateral. Judgement, e.g. lend only if Zain shows market research supporting the sales forecast and offers security, because profit is very sensitive to the number of juices sold.",
+    "working": "Calculations: revenue 300 × 26 × 350 = 2,730,000; ingredients 300 × 26 × 120 = 936,000; fixed costs 794,000. 2,730,000 − 936,000 − 794,000 = PKR 1,000,000. Content: revenue PKR 2.73 m, ingredients PKR 0.936 m, fixed costs PKR 0.794 m, forecast profit PKR 1 m a month (PKR 12 m a year); repayments easily covered if forecasts are right; but 300 juices a day may be optimistic (new business, winter), no market research or competitor evidence, experience and collateral unknown; profit very sensitive to sales. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to the bank's decision about Zain, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to the bank's decision about Zain, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "300*26*350 - 300*26*120 - (250000+400000+144000) == 1000000",
@@ -4458,17 +4248,10 @@
   "parts": [
    {
     "label": "a",
-    "text": "Calculate the total amount Omar would pay the franchisor in the first year. Show your working.",
-    "marks": 2,
-    "answer": "$55,000",
-    "working": "M1: royalty 5% × 300,000 = $15,000. A1: 40,000 + 15,000 = $55,000."
-   },
-   {
-    "label": "b",
-    "text": "Should Omar buy the franchise or open under his own brand? Justify your answer.",
-    "marks": 6,
-    "answer": "Franchise: well-known brand attracts customers from the first day; training and support useful as Omar has no restaurant experience; proven menu and suppliers; banks may lend more readily. But costs $55,000 in year 1 and royalties every year; less control over menu, prices and decor; must follow franchisor rules. Own brand: keeps all profit and full control, but higher risk of failure and must build customer awareness. Judgement, e.g. franchise, because Omar's lack of experience makes failure likely without support, and the brand reduces risk despite the $55,000 cost.",
-    "working": "Up to 2 marks for knowledge/analysis of points for, up to 2 for points against, 2 marks for a justified judgement that explains why one side outweighs the other in this context. "
+    "text": "Should Omar buy the franchise or open under his own brand? Justify your answer using suitable calculations.",
+    "marks": 12,
+    "answer": "Calculations: $55,000. Franchise: well-known brand attracts customers from the first day; training and support useful as Omar has no restaurant experience; proven menu and suppliers; banks may lend more readily. But costs $55,000 in year 1 and royalties every year; less control over menu, prices and decor; must follow franchisor rules. Own brand: keeps all profit and full control, but higher risk of failure and must build customer awareness. Judgement, e.g. franchise, because Omar's lack of experience makes failure likely without support, and the brand reduces risk despite the $55,000 cost.",
+    "working": "Calculations: royalty 5% × 300,000 = $15,000. 40,000 + 15,000 = $55,000. Content: first-year payment 40,000 + 5% × 300,000 = $55,000; franchise — known brand, training and support for an inexperienced owner, proven menu and suppliers, easier bank loans, but fees every year and less control; own brand — keeps all profit and control, but higher risk of failure and must build awareness. Mark bands (12; knowledge 2, application 2, analysis 4, evaluation 4): Level 3 (9–12): developed analysis of both sides / all options applied to Omar, using the data, and a justified decision that explains why the rejected option(s) are weaker. Level 2 (5–8): advantages and disadvantages analysed and applied to Omar, with a decision that is only partly justified or one-sided. Level 1 (1–4): relevant knowledge with little application or analysis; a decision with no reasoning earns no evaluation marks. Correct calculations count towards application and analysis; follow through an earlier calculation error."
    }
   ],
   "check": "40000 + round(0.05*300000) == 55000",

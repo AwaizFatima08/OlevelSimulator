@@ -1,0 +1,203 @@
+{
+ "code": "0452",
+ "name": "Accounting",
+ "level": "igcse",
+ "papers": {
+  "1": "Paper 1 Multiple Choice",
+  "2": "Paper 2 Structured Written Paper"
+ },
+ "guide": "0452-igcse-accounting.md",
+ "topics": [
+  {
+   "topic": "The fundamentals of accounting",
+   "subtopics": [
+    {
+     "name": "Purpose of accounting and book-keeping",
+     "target": 19,
+     "existing": 19,
+     "to_write": 0
+    },
+    {
+     "name": "The accounting equation",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Sources and recording of data",
+   "subtopics": [
+    {
+     "name": "Cash book and petty cash book",
+     "target": 13,
+     "existing": 13,
+     "to_write": 0
+    },
+    {
+     "name": "Double entry and ledger accounts",
+     "target": 9,
+     "existing": 9,
+     "to_write": 0
+    },
+    {
+     "name": "Books of prime entry",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Business documents",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Verification of accounting records",
+   "subtopics": [
+    {
+     "name": "Correction of errors and suspense accounts",
+     "target": 17,
+     "existing": 17,
+     "to_write": 0
+    },
+    {
+     "name": "Bank reconciliation",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Control accounts",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Trial balance",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Accounting procedures",
+   "subtopics": [
+    {
+     "name": "Irrecoverable debts and provision for doubtful debts",
+     "target": 8,
+     "existing": 9,
+     "to_write": 0
+    },
+    {
+     "name": "Depreciation and disposal of non-current assets",
+     "target": 8,
+     "existing": 8,
+     "to_write": 0
+    },
+    {
+     "name": "Accruals and prepayments",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Valuation of inventory",
+     "target": 5,
+     "existing": 4,
+     "to_write": 1
+    },
+    {
+     "name": "Capital and revenue expenditure and receipts",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Preparation of financial statements",
+   "subtopics": [
+    {
+     "name": "Partnerships",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Incomplete records",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Manufacturing accounts",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Limited companies",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Clubs and societies",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Sole traders",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Analysis and interpretation",
+   "subtopics": [
+    {
+     "name": "Interpretation and decision-making",
+     "target": 18,
+     "existing": 18,
+     "to_write": 0
+    },
+    {
+     "name": "Calculation of accounting ratios",
+     "target": 10,
+     "existing": 10,
+     "to_write": 0
+    },
+    {
+     "name": "Users, inter-firm comparison and limitations",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Accounting principles and policies",
+   "subtopics": [
+    {
+     "name": "Accounting principles",
+     "target": 24,
+     "existing": 25,
+     "to_write": 0
+    },
+    {
+     "name": "Accounting policies",
+     "target": 6,
+     "existing": 5,
+     "to_write": 1
+    }
+   ]
+  }
+ ]
+}

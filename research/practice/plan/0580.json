@@ -1,0 +1,461 @@
+{
+ "code": "0580",
+ "name": "Mathematics",
+ "level": "igcse",
+ "papers": {
+  "1": "Paper 1 Core (non-calculator from 2025)",
+  "2": "Paper 2 Extended (non-calculator from 2025)",
+  "3": "Paper 3 Core (calculator)",
+  "4": "Paper 4 Extended (calculator)"
+ },
+ "guide": "0580-igcse-maths.md",
+ "topics": [
+  {
+   "topic": "Number",
+   "subtopics": [
+    {
+     "name": "Money & interest",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Fractions, decimals & recurring decimals",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Percentages",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Factors, multiples & primes (HCF/LCM)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Sets & Venn diagrams",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Ratio & proportion",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Rates (speed, density, pressure)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Limits of accuracy (bounds)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Four operations & order of operations",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Standard form",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Time",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Indices (numerical)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Estimation & rounding",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Types of number",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Exponential growth & decay",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Using a calculator",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Surds",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Ordering",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Powers & roots",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Statistics",
+   "subtopics": [
+    {
+     "name": "Averages & range",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Charts, tables & diagrams",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Cumulative frequency & box plots",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Scatter diagrams",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Histograms",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Mensuration",
+   "subtopics": [
+    {
+     "name": "Surface area & volume",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    },
+    {
+     "name": "Circles, arcs & sectors",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Area & perimeter",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Units of measure",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Probability",
+   "subtopics": [
+    {
+     "name": "Combined events (trees, tables, Venn)",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Single-event probability",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Relative & expected frequency",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Conditional probability",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Algebra & graphs",
+   "subtopics": [
+    {
+     "name": "Graphs of functions (tables, plotting, solving)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Expanding, factorising & simplifying",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Sequences",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Linear equations & forming equations",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Functions",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Simultaneous equations",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Substitution, formulae & rearranging",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Differentiation",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Algebraic fractions",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Quadratics (solve, formula, completing the square)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Inequalities (incl. graphical regions)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Graphs in practical situations",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Algebraic indices",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Direct & inverse proportion",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Sketching curves",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Geometry",
+   "subtopics": [
+    {
+     "name": "Angles, parallel lines & polygons",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Circle theorems",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Similarity & congruence",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Scale drawings & bearings",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Geometrical terms & shape properties",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Symmetry",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Constructions & loci",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Transformations & vectors",
+   "subtopics": [
+    {
+     "name": "Transformations",
+     "target": 19,
+     "existing": 0,
+     "to_write": 19
+    },
+    {
+     "name": "Vectors (column, magnitude)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Vector geometry",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Trigonometry",
+   "subtopics": [
+    {
+     "name": "Sine & cosine rules, ½ab sin C",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Right-angled trigonometry",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "3D Pythagoras & trigonometry",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Exact values, trig graphs & equations",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Pythagoras",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Coordinate geometry",
+   "subtopics": [
+    {
+     "name": "Equation of a straight line",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Perpendicular lines & bisectors",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Length & midpoint",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Coordinates & drawing linear graphs",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Gradient",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  }
+ ]
+}

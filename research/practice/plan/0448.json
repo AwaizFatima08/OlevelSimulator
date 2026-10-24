@@ -1,0 +1,466 @@
+{
+ "code": "0448",
+ "name": "Pakistan Studies",
+ "level": "igcse",
+ "papers": {
+  "1": "Paper 1 History and Culture of Pakistan",
+  "2": "Paper 2 Environment of Pakistan"
+ },
+ "guide": "0448-igcse-pakistan-studies.md",
+ "topics": [
+  {
+   "topic": "The emergence of Pakistan 1906–1947",
+   "subtopics": [
+    {
+     "name": "Constitutional proposals and the Pakistan idea 1927–1935",
+     "target": 9,
+     "existing": 7,
+     "to_write": 2
+    },
+    {
+     "name": "Road to independence 1940–1947",
+     "target": 8,
+     "existing": 5,
+     "to_write": 3
+    },
+    {
+     "name": "Partition of Bengal and the Muslim League 1905–1906",
+     "target": 6,
+     "existing": 5,
+     "to_write": 1
+    },
+    {
+     "name": "1937 elections and Congress Rule",
+     "target": 5,
+     "existing": 4,
+     "to_write": 1
+    },
+    {
+     "name": "Reforms and protest 1909–1919",
+     "target": 2,
+     "existing": 4,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Cultural and historical background to the Pakistan Movement",
+   "subtopics": [
+    {
+     "name": "British expansion and the East India Company",
+     "target": 12,
+     "existing": 9,
+     "to_write": 3
+    },
+    {
+     "name": "Religious revival movements",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "War of Independence 1857",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Mughal decline and the Marathas",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    },
+    {
+     "name": "Sir Syed Ahmad Khan and the Aligarh Movement",
+     "target": 2,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Indian National Congress 1885",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Nationhood 1947–1999",
+   "subtopics": [
+    {
+     "name": "Early years of Pakistan 1947–1958",
+     "target": 5,
+     "existing": 4,
+     "to_write": 1
+    },
+    {
+     "name": "Yahya Khan and the separation of East Pakistan 1969–1971",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    },
+    {
+     "name": "Civilian governments and Musharraf 1988–1999",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    },
+    {
+     "name": "Relations with India, China, Afghanistan and Bangladesh",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Relations with the USA, USSR/Russia and UK",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Zia-ul-Haq 1977–1988",
+     "target": 3,
+     "existing": 2,
+     "to_write": 1
+    },
+    {
+     "name": "Zulfikar Ali Bhutto 1971–1977",
+     "target": 2,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Ayub Khan 1958–1969",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Foreign policy of individual governments",
+     "target": 2,
+     "existing": 1,
+     "to_write": 1
+    },
+    {
+     "name": "UN, world organisations and the Muslim world",
+     "target": 1,
+     "existing": 2,
+     "to_write": 0
+    },
+    {
+     "name": "Language, education and culture since 1947",
+     "target": 1,
+     "existing": 2,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Transport and communications",
+   "subtopics": [
+    {
+     "name": "Air transport and airports",
+     "target": 9,
+     "existing": 7,
+     "to_write": 2
+    },
+    {
+     "name": "Railways",
+     "target": 7,
+     "existing": 4,
+     "to_write": 3
+    },
+    {
+     "name": "Roads and motorways",
+     "target": 5,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Seaports and dry ports",
+     "target": 5,
+     "existing": 4,
+     "to_write": 1
+    },
+    {
+     "name": "Transport and economic development",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Industrial development",
+   "subtopics": [
+    {
+     "name": "Large-scale manufacturing and location",
+     "target": 12,
+     "existing": 8,
+     "to_write": 4
+    },
+    {
+     "name": "Industrial growth policy (EPZs, SEZs, estates)",
+     "target": 8,
+     "existing": 6,
+     "to_write": 2
+    },
+    {
+     "name": "Cottage and small-scale industry",
+     "target": 5,
+     "existing": 4,
+     "to_write": 1
+    },
+    {
+     "name": "Informal sector",
+     "target": 5,
+     "existing": 2,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "The land of Pakistan",
+   "subtopics": [
+    {
+     "name": "Mountains and natural topography",
+     "target": 9,
+     "existing": 7,
+     "to_write": 2
+    },
+    {
+     "name": "Rivers and floodplains",
+     "target": 9,
+     "existing": 10,
+     "to_write": 0
+    },
+    {
+     "name": "Deserts",
+     "target": 8,
+     "existing": 8,
+     "to_write": 0
+    },
+    {
+     "name": "Location and provinces",
+     "target": 4,
+     "existing": 5,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Climate",
+   "subtopics": [
+    {
+     "name": "Climate graphs, regions and seasons",
+     "target": 12,
+     "existing": 9,
+     "to_write": 3
+    },
+    {
+     "name": "Climate extremes and hazards",
+     "target": 11,
+     "existing": 10,
+     "to_write": 1
+    },
+    {
+     "name": "Temperature factors",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Rainfall, monsoon and depressions",
+     "target": 2,
+     "existing": 6,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Power resources",
+   "subtopics": [
+    {
+     "name": "Coal, oil and natural gas",
+     "target": 9,
+     "existing": 8,
+     "to_write": 1
+    },
+    {
+     "name": "Solar, wind and other renewables",
+     "target": 9,
+     "existing": 11,
+     "to_write": 0
+    },
+    {
+     "name": "Energy supply and demand",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Thermal power",
+     "target": 3,
+     "existing": 2,
+     "to_write": 1
+    },
+    {
+     "name": "Hydel power",
+     "target": 2,
+     "existing": 2,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Agriculture",
+   "subtopics": [
+    {
+     "name": "Major crops",
+     "target": 14,
+     "existing": 9,
+     "to_write": 5
+    },
+    {
+     "name": "Agricultural problems, land reform and output",
+     "target": 7,
+     "existing": 10,
+     "to_write": 0
+    },
+    {
+     "name": "Types of farming and farming systems",
+     "target": 6,
+     "existing": 6,
+     "to_write": 0
+    },
+    {
+     "name": "Livestock farming",
+     "target": 3,
+     "existing": 5,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Water resources",
+   "subtopics": [
+    {
+     "name": "Water supply, shortage and pollution",
+     "target": 19,
+     "existing": 11,
+     "to_write": 8
+    },
+    {
+     "name": "Irrigation methods",
+     "target": 7,
+     "existing": 9,
+     "to_write": 0
+    },
+    {
+     "name": "Waterlogging and salinity",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Population and employment",
+   "subtopics": [
+    {
+     "name": "Employment and unemployment",
+     "target": 7,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Urbanisation and living conditions",
+     "target": 6,
+     "existing": 4,
+     "to_write": 2
+    },
+    {
+     "name": "Population growth and structure",
+     "target": 5,
+     "existing": 7,
+     "to_write": 0
+    },
+    {
+     "name": "Migration",
+     "target": 5,
+     "existing": 5,
+     "to_write": 0
+    },
+    {
+     "name": "Population distribution and density",
+     "target": 4,
+     "existing": 4,
+     "to_write": 0
+    },
+    {
+     "name": "Literacy, health and development",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Mineral resources",
+   "subtopics": [
+    {
+     "name": "Distribution and uses of minerals",
+     "target": 19,
+     "existing": 19,
+     "to_write": 0
+    },
+    {
+     "name": "Extraction methods and impacts",
+     "target": 11,
+     "existing": 11,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Trade",
+   "subtopics": [
+    {
+     "name": "Trading partners and balance of trade",
+     "target": 16,
+     "existing": 12,
+     "to_write": 4
+    },
+    {
+     "name": "Factors affecting trade",
+     "target": 11,
+     "existing": 12,
+     "to_write": 0
+    },
+    {
+     "name": "Imports and exports",
+     "target": 3,
+     "existing": 6,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Forestry and natural vegetation",
+   "subtopics": [
+    {
+     "name": "Deforestation and sustainable forestry",
+     "target": 24,
+     "existing": 19,
+     "to_write": 5
+    },
+    {
+     "name": "Forest and vegetation types",
+     "target": 6,
+     "existing": 11,
+     "to_write": 0
+    }
+   ]
+  }
+ ]
+}

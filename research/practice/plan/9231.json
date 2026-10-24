@@ -1,0 +1,638 @@
+{
+ "code": "9231",
+ "name": "Further Mathematics",
+ "level": "a-level",
+ "papers": {
+  "1": "Paper 1 Further Pure Mathematics 1",
+  "2": "Paper 2 Further Pure Mathematics 2",
+  "3": "Paper 3 Further Mechanics",
+  "4": "Paper 4 Further Probability & Statistics"
+ },
+ "guide": "9231-alevel-further-maths.md",
+ "topics": [
+  {
+   "topic": "Summation of series",
+   "subtopics": [
+    {
+     "name": "Method of differences",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Standard results (MF19)",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Sum to infinity & convergence",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Vectors",
+   "subtopics": [
+    {
+     "name": "Distances (point, plane, skew lines)",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Equations of planes",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Angles between lines & planes",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Lines & planes: intersection, parallel",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Proof by induction",
+   "subtopics": [
+    {
+     "name": "Sequences & inequalities",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    },
+    {
+     "name": "nth derivatives",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Divisibility",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Matrix powers",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Roots of polynomial equations",
+   "subtopics": [
+    {
+     "name": "Symmetric functions & power sums",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Transformed equations",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Rational functions and graphs",
+   "subtopics": [
+    {
+     "name": "Stationary points & range",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Inequalities",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Curve sketching",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Asymptotes",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Related graphs (modulus, reciprocal)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Polar coordinates",
+   "subtopics": [
+    {
+     "name": "Area enclosed",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Greatest distance & tangent conditions",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Sketching polar curves",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Polar-Cartesian conversion",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Matrices",
+   "subtopics": [
+    {
+     "name": "Invariant points & lines",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Inverse, determinant & matrix algebra",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Geometric transformations",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Area scale factor",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Integration",
+   "subtopics": [
+    {
+     "name": "Rectangles, bounds & limits of sums",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    },
+    {
+     "name": "Reduction formulae",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Substitution & standard integrals",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Arc length",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Surface area of revolution",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Hyperbolic functions",
+   "subtopics": [
+    {
+     "name": "Definitions & identities",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Hyperbolic equations",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Differential equations",
+   "subtopics": [
+    {
+     "name": "Second order: constant coefficients",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "First order: integrating factor",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Substitution to reduce a DE",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Long-term behaviour",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Differentiation",
+   "subtopics": [
+    {
+     "name": "Implicit differentiation",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Parametric differentiation",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Maclaurin series",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Derivatives of hyperbolic & inverse functions",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Complex numbers",
+   "subtopics": [
+    {
+     "name": "De Moivre: multiple angles & powers",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Solving polynomials via de Moivre",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "nth roots & roots of unity",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Summing series with complex numbers",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Matrices (eigenvalues and eigenvectors)",
+   "subtopics": [
+    {
+     "name": "Diagonalisation",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Cayley-Hamilton (characteristic equation)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Systems of equations & geometric meaning",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Eigenvalues & eigenvectors",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Hooke's law",
+   "subtopics": [
+    {
+     "name": "Elastic energy & motion",
+     "target": 23,
+     "existing": 0,
+     "to_write": 23
+    },
+    {
+     "name": "Equilibrium with elastic forces",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    }
+   ]
+  },
+  {
+   "topic": "Circular motion",
+   "subtopics": [
+    {
+     "name": "Horizontal circles",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Leaving the surface / string slack",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Vertical circles (energy & reaction)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Linear motion under a variable force",
+   "subtopics": [
+    {
+     "name": "Force depending on velocity",
+     "target": 19,
+     "existing": 0,
+     "to_write": 19
+    },
+    {
+     "name": "Force depending on time",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Force depending on displacement",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Equilibrium of a rigid body",
+   "subtopics": [
+    {
+     "name": "Centre of mass of composite bodies",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Suspension, toppling & sliding",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Friction & moments",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Momentum",
+   "subtopics": [
+    {
+     "name": "Oblique collisions of spheres",
+     "target": 19,
+     "existing": 0,
+     "to_write": 19
+    },
+    {
+     "name": "Collision with a barrier",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Direct collisions & energy",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Motion of a projectile",
+   "subtopics": [
+    {
+     "name": "Two projectiles",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Equation of trajectory",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Direction & speed during flight",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Range, height & time of flight",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Inference using normal and t-distributions",
+   "subtopics": [
+    {
+     "name": "Two-sample tests for means",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Confidence intervals",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Paired-sample t-test",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "One-sample t-test",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Probability generating functions",
+   "subtopics": [
+    {
+     "name": "Mean & variance from a PGF",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "PGF of a sum of independent variables",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Finding & using a PGF",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    }
+   ]
+  },
+  {
+   "topic": "Continuous random variables",
+   "subtopics": [
+    {
+     "name": "Expectation & variance",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "PDF & CDF",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Median, quartiles & percentiles",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Distribution of Y = g(X)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    }
+   ]
+  },
+  {
+   "topic": "Chi-squared tests",
+   "subtopics": [
+    {
+     "name": "Goodness of fit",
+     "target": 20,
+     "existing": 0,
+     "to_write": 20
+    },
+    {
+     "name": "Contingency tables (independence)",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    }
+   ]
+  },
+  {
+   "topic": "Non-parametric tests",
+   "subtopics": [
+    {
+     "name": "Wilcoxon signed-rank test",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    },
+    {
+     "name": "Sign test",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Wilcoxon rank-sum test",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Choice of test & assumptions",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1357 @@
+{
+ "code": "9700",
+ "name": "Biology",
+ "level": "a-level",
+ "papers": {
+  "1": "Paper 1 Multiple Choice",
+  "2": "Paper 2 AS Structured",
+  "3": "Paper 3 Practical",
+  "4": "Paper 4 A Level Structured",
+  "5": "Paper 5 Planning, Analysis & Evaluation"
+ },
+ "guide": "9700-alevel-biology.md",
+ "topics": [
+  {
+   "topic": "Cell structure",
+   "subtopics": [
+    {
+     "name": "Cell ultrastructure & organelles",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Microscopy, magnification & resolution",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Prokaryotes & viruses",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    }
+   ]
+  },
+  {
+   "topic": "Biological molecules",
+   "subtopics": [
+    {
+     "name": "Proteins (incl. haemoglobin & collagen)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Carbohydrates",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Lipids",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Water",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Biochemical tests",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: graphs & charts",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: explaining results with biology",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Enzymes",
+   "subtopics": [
+    {
+     "name": "Mode of action & specificity",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Factors affecting enzyme activity",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Enzyme inhibition",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Vmax, Km & immobilised enzymes",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: graphs & charts",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: explaining results with biology",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: recording results in a table",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: risk assessment",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Cell membranes & transport",
+   "subtopics": [
+    {
+     "name": "Membrane structure & cell signalling",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Diffusion, osmosis & water potential",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Active transport, endo- & exocytosis",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Surface area : volume",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: graphs & charts",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: recording results in a table",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: explaining results with biology",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: measurement, graticule & magnification",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: risk assessment",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "The mitotic cell cycle",
+   "subtopics": [
+    {
+     "name": "Mitosis & the cell cycle",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Chromosome structure & telomeres",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Stem cells & cancer",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Skill: measurement, graticule & magnification",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Nucleic acids & protein synthesis",
+   "subtopics": [
+    {
+     "name": "Transcription & translation",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Structure of DNA, RNA & ATP",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "DNA replication",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Gene mutation",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Transport in plants",
+   "subtopics": [
+    {
+     "name": "Translocation (phloem)",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Water uptake & transpiration",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Structure of xylem & phloem",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Skill: biological drawing",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Xerophytes",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: observing & comparing specimens",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: measurement, graticule & magnification",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: explaining results with biology",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Transport in mammals",
+   "subtopics": [
+    {
+     "name": "Blood cells, haemoglobin & gas transport",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Heart & cardiac cycle",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Blood vessels & circulation",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Tissue fluid",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: graphs & charts",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: explaining results with biology",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Gas exchange",
+   "subtopics": [
+    {
+     "name": "Gas exchange system: structure & tissues",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Alveoli & gas exchange",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Infectious diseases",
+   "subtopics": [
+    {
+     "name": "Diseases, pathogens & transmission",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Antibiotics & resistance",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: graphs & charts",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: risk assessment",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Immunity",
+   "subtopics": [
+    {
+     "name": "Lymphocytes & antibodies",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Vaccination & types of immunity",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Monoclonal antibodies",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Phagocytes & the immune response",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Inherited change",
+   "subtopics": [
+    {
+     "name": "Genetic crosses (mono/dihybrid, sex linkage, codominance, epistasis)",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Control of gene expression",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Meiosis & genetic variation",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Chi-squared test",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: risk assessment",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Homeostasis",
+   "subtopics": [
+    {
+     "name": "Kidney & osmoregulation",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Stomata & abscisic acid",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Blood glucose & cell signalling",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Test strips & biosensors",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Principles of homeostasis & feedback",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Photosynthesis",
+   "subtopics": [
+    {
+     "name": "Chloroplast structure & pigments",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Limiting factors",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Light-dependent stage",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Calvin cycle (light-independent stage)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: explaining results with biology",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: graphs & charts",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: risk assessment",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Energy & respiration",
+   "subtopics": [
+    {
+     "name": "Glycolysis, link reaction & Krebs cycle",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Oxidative phosphorylation & mitochondria",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Anaerobic respiration",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Respiratory substrates, RQ & respirometers",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "ATP & energy",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: explaining results with biology",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: graphs & charts",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Genetic technology",
+   "subtopics": [
+    {
+     "name": "Recombinant DNA & GM organisms",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Gene therapy & genetic screening",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "PCR, electrophoresis & sequencing",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Microarrays & bioinformatics",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: explaining results with biology",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Selection & evolution",
+   "subtopics": [
+    {
+     "name": "Natural & artificial selection",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Speciation, drift & molecular evidence",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Variation, SD & t-test",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Hardy-Weinberg",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Control & coordination",
+   "subtopics": [
+    {
+     "name": "Neurones & action potentials",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Muscle contraction & neuromuscular junction",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Plant responses & hormones",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Endocrine vs nervous system",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Synapses",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Sensory receptors & reflexes",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Classification, biodiversity & conservation",
+   "subtopics": [
+    {
+     "name": "Conservation & threats",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Classification, domains & kingdoms",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Biodiversity, sampling & indices",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: risk assessment",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: hypotheses & predictions",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Practical skills (generic)",
+   "subtopics": [
+    {
+     "name": "Skill: conclusions & interpreting data",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Skill: planning a method",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Skill: variables & controls",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Skill: errors, reliability & improvements",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Skill: recording results in a table",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: graphs & charts",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: calculations & data processing",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Skill: risk assessment",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    },
+    {
+     "name": "Skill: measurement, graticule & magnification",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  }
+ ]
+}
