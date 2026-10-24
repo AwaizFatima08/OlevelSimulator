@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "2026-10.6",
+ "version": "2026-10.7",
  "label": "May/June 2022 to May/June 2026",
  "sessions": [
   "2022-MJ",
@@ -127,7 +127,7 @@
    "level": "a-level",
    "name": "Biology",
    "file": "/data/9700.json",
-   "bytes": 1026080,
+   "bytes": 1171406,
    "questions": 1750
   },
   {
@@ -271,7 +271,7 @@
    "level": "igcse",
    "name": "ICT",
    "file": "/data/0417.json",
-   "bytes": 33575,
+   "bytes": 563418,
    "questions": 123
   },
   {
@@ -303,7 +303,7 @@
    "level": "a-level",
    "name": "Further Mathematics",
    "file": "/data/9231.json",
-   "bytes": 65409,
+   "bytes": 667554,
    "questions": 252
   },
   {
@@ -311,7 +311,7 @@
    "level": "a-level",
    "name": "Computer Science",
    "file": "/data/9618.json",
-   "bytes": 69711,
+   "bytes": 789085,
    "questions": 247
   },
   {
@@ -319,7 +319,7 @@
    "level": "a-level",
    "name": "Economics",
    "file": "/data/9708.json",
-   "bytes": 128823,
+   "bytes": 527382,
    "questions": 632
   },
   {
@@ -327,7 +327,7 @@
    "level": "a-level",
    "name": "Accounting",
    "file": "/data/9706.json",
-   "bytes": 86999,
+   "bytes": 997564,
    "questions": 353
   },
   {
@@ -335,7 +335,7 @@
    "level": "a-level",
    "name": "Business",
    "file": "/data/9609.json",
-   "bytes": 43113,
+   "bytes": 308519,
    "questions": 137
   },
   {
@@ -343,7 +343,7 @@
    "level": "a-level",
    "name": "Psychology",
    "file": "/data/9990.json",
-   "bytes": 89060,
+   "bytes": 652398,
    "questions": 397
   }
  ]
