@@ -425,7 +425,9 @@ def _txt(text):
     lines = [esc(ln) for ln in bidi_lines(text)]
     if len(lines) == 1:
         return lines[0]
-    return "".join(f'<span class="ln" dir="auto">{ln}</span>' for ln in lines)
+    # Blocks laid out with spaces (pseudocode indentation, accounts, tables) keep their columns in a fixed-width font.
+    cls = "ln mono" if any(ln.startswith("  ") or "   " in ln for ln in lines) else "ln"
+    return "".join(f'<span class="{cls}" dir="auto">{ln}</span>' for ln in lines)
 
 
 def practice_section(subj, t):

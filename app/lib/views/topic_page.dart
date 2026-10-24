@@ -187,7 +187,15 @@ class _BidiText extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    if (!_arabicScript.hasMatch(text)) return Text(text, style: style);
+    if (!_arabicScript.hasMatch(text)) {
+      // Pseudocode indentation, accounts and tables keep their columns in a fixed-width font.
+      final laidOut = text.contains('\n  ') || text.contains('   ') || text.startsWith('  ');
+      if (!laidOut) return Text(text, style: style);
+      return SingleChildScrollView(
+        scrollDirection: Axis.horizontal,
+        child: Text(text, style: (style ?? const TextStyle()).copyWith(fontFamily: 'monospace', fontSize: 13)),
+      );
+    }
     final pieces = <String>[
       for (final ln in text.split('\n'))
         if (_latinWord.hasMatch(ln)) ...ln.split(_scriptSwitch).where((x) => x.isNotEmpty) else ln,
