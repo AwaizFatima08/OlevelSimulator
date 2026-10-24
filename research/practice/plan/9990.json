@@ -62,9 +62,10 @@
     },
     {
      "name": "Pepperberg (parrot learning)",
-     "target": 6,
+     "target": 0,
      "existing": 0,
-     "to_write": 6
+     "to_write": 0,
+     "note": "no longer examined / not a real subtopic"
     },
     {
      "name": "Fagen et al. (elephant learning)",
@@ -91,15 +92,17 @@
     },
     {
      "name": "Canli et al. (brain scans and emotions)",
-     "target": 7,
+     "target": 0,
      "existing": 0,
-     "to_write": 7
+     "to_write": 0,
+     "note": "no longer examined / not a real subtopic"
     },
     {
      "name": "Schachter and Singer (two factors in emotion)",
-     "target": 6,
+     "target": 0,
      "existing": 0,
-     "to_write": 6
+     "to_write": 0,
+     "note": "no longer examined / not a real subtopic"
     },
     {
      "name": "Hassett et al. (monkey toy preferences)",

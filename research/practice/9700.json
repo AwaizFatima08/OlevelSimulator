@@ -13784,5 +13784,3302 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "9700-g5-001",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "During which stage of mitosis do the centromeres divide and the sister chromatids move to opposite poles of the cell?\nA prophase\nB metaphase\nC anaphase\nD telophase",
+    "marks": 1,
+    "answer": "C anaphase",
+    "working": "In anaphase the centromeres split and spindle microtubules shorten, pulling the chromatids (now chromosomes) to opposite poles. B is wrong: at metaphase the chromosomes are lined up on the equator but the chromatids are still joined."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-002",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Tomato cells have a diploid number of 24 chromosomes. How many chromatids are present in one tomato cell at metaphase of mitosis?\nA 12\nB 24\nC 48\nD 96",
+    "marks": 1,
+    "answer": "C 48",
+    "working": "DNA was replicated in S phase, so each of the 24 chromosomes consists of two sister chromatids: 24 × 2 = 48. B is the number of chromosomes, not chromatids."
+   }
+  ],
+  "check": "24*2 == 48",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-003",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A cell in G1 of interphase contains 16 arbitrary units of DNA. How much DNA is in the cell at the end of G2, and in each daughter cell immediately after cytokinesis?\nA end of G2 16; each daughter cell 8\nB end of G2 32; each daughter cell 16\nC end of G2 32; each daughter cell 32\nD end of G2 16; each daughter cell 16",
+    "marks": 1,
+    "answer": "B end of G2 32; each daughter cell 16",
+    "working": "DNA is replicated in S phase so G2 has 2 × 16 = 32 units; mitosis shares this equally, so each daughter has 16 units, the same as the parent in G1. A halves the DNA as if this were meiosis."
+   }
+  ],
+  "check": "16*2 == 32 and 32//2 == 16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-004",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which statement about mitosis is correct?\nA Homologous chromosomes pair up during prophase.\nB The daughter cells are genetically identical to the parent cell.\nC The chromosome number is halved in each daughter cell.\nD Crossing over between chromatids produces new combinations of alleles.",
+    "marks": 1,
+    "answer": "B The daughter cells are genetically identical to the parent cell.",
+    "working": "Mitosis produces two genetically identical nuclei with the same chromosome number as the parent. A, C and D all describe meiosis."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-005",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A student made a squash of a stained garlic root tip and counted the cells in each stage of the cell cycle.\nInterphase 412; prophase 46; metaphase 18; anaphase 9; telophase 15.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mitotic index of this root tip. Give your answer to 3 decimal places.",
+    "marks": 2,
+    "answer": "0.176",
+    "working": "M1 cells in mitosis = 46 + 18 + 9 + 15 = 88; total = 500. A1 mitotic index = 88/500 = 0.176."
+   },
+   {
+    "label": "b",
+    "text": "The cell cycle in this root tip lasts 24 hours. Assuming the number of cells seen in a stage is proportional to the time spent in that stage, calculate how long the cells spend in metaphase. Give your answer in minutes to the nearest minute.",
+    "marks": 2,
+    "answer": "52 minutes",
+    "working": "M1 18/500 × 24 × 60; A1 = 51.8 ≈ 52 min."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why a root tip, rather than a region 2 cm behind the tip, was used to find the mitotic index.",
+    "marks": 1,
+    "answer": "The root tip contains a meristem where cells are actively dividing, so many cells are in mitosis.",
+    "working": "B1 meristem / zone of cell division at the tip; cells further back are elongating or differentiating and no longer divide."
+   }
+  ],
+  "check": "round(88/500,3) == 0.176 and round(18/500*24*60) == 52",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-006",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A farmer in Punjab cuts his hand on a sickle. Over the next ten days the skin heals.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State three roles of mitosis in multicellular organisms.",
+    "marks": 3,
+    "answer": "Any three of: growth; repair of damaged tissue; replacement of worn-out cells; asexual reproduction; clonal expansion of lymphocytes in an immune response.",
+    "working": "1 mark each for any three of: growth (increase in cell number); repair / wound healing; replacement of cells such as skin or gut lining or red blood cell precursors; asexual reproduction (e.g. potato tubers, Hydra budding); clonal expansion of B and T lymphocytes."
+   },
+   {
+    "label": "b",
+    "text": "Explain why it is important that the daughter cells produced by mitosis are genetically identical to the parent cell when skin is repaired after a cut.",
+    "marks": 2,
+    "answer": "The new cells must have the same genes so they can produce the same proteins and function as skin cells; genetic stability keeps the tissue working and avoids harmful mutations.",
+    "working": "B1 same genetic information / same alleles as the parent cells; B1 so new cells can carry out the same function / make the same proteins as the cells they replace."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-007",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the behaviour of the chromosomes during prophase and metaphase of mitosis.",
+    "marks": 3,
+    "answer": "Prophase: chromosomes condense / shorten and thicken and become visible as two sister chromatids joined at a centromere; nuclear envelope breaks down. Metaphase: chromosomes attach to spindle microtubules at their centromeres/kinetochores and line up on the equator.",
+    "working": "1 mark each for any three of: chromosomes condense / coil / become visible (prophase); each seen as two chromatids joined at the centromere; nuclear envelope / nucleolus disappears so chromosomes lie in the cytoplasm; spindle fibres attach at centromere / kinetochore; chromosomes lined up on the equator / metaphase plate."
+   },
+   {
+    "label": "b",
+    "text": "Describe what happens during telophase.",
+    "marks": 2,
+    "answer": "Chromosomes arrive at the poles and uncoil / decondense; a nuclear envelope reforms around each group, giving two nuclei; spindle breaks down.",
+    "working": "1 mark each for any two of: chromatids reach poles; chromosomes uncoil / become less visible; nuclear envelope and nucleolus reform; spindle disappears."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-008",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Colchicine prevents tubulin molecules joining together to form microtubules. Explain why cells treated with colchicine do not complete mitosis.",
+    "marks": 3,
+    "answer": "No spindle forms, so chromosomes cannot attach to spindle fibres, cannot line up at the equator, and chromatids cannot be pulled apart to the poles in anaphase.",
+    "working": "B1 spindle (fibres) made of microtubules cannot form; B1 chromosomes not attached at centromeres / cannot line up at equator; B1 sister chromatids not separated / pulled to opposite poles (so mitosis halts at metaphase)."
+   },
+   {
+    "label": "b",
+    "text": "Onion root tips were placed in colchicine for 4 hours and then squashed. Suggest and explain how the mitotic index and the percentage of dividing cells in metaphase would differ from untreated root tips.",
+    "marks": 2,
+    "answer": "Mitotic index higher and a higher proportion of dividing cells in metaphase, because cells keep entering mitosis but become stuck at metaphase and cannot leave it.",
+    "working": "B1 higher proportion of dividing cells in metaphase (and mitotic index increases); B1 cells continue to enter mitosis but cannot progress beyond metaphase so accumulate."
+   },
+   {
+    "label": "c",
+    "text": "Some cancer drugs act in a similar way to colchicine. Suggest why patients receiving these drugs often lose hair.",
+    "marks": 1,
+    "answer": "Hair follicle cells divide rapidly, so their mitosis is also blocked.",
+    "working": "B1 hair follicle cells divide frequently by mitosis and are affected as well as cancer cells."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-009",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Mammalian cells growing in culture were synchronised so that they all began the cell cycle at the same time. The mean mass of DNA per cell (arbitrary units) was measured.\ntime 0 h: 10\ntime 4 h: 10\ntime 8 h: 10\ntime 10 h: 13\ntime 12 h: 17\ntime 14 h: 20\ntime 16 h: 20\ntime 18 h: 20\ntime 18.5 h: 10\ntime 22 h: 10",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the time interval during which S phase occurs. Explain your answer.",
+    "marks": 2,
+    "answer": "8 to 14 hours; DNA mass doubles from 10 to 20 a.u. as DNA is replicated.",
+    "working": "B1 8–14 h; B1 DNA content rises / doubles, showing DNA replication."
+   },
+   {
+    "label": "b",
+    "text": "Explain the change in DNA mass between 18 and 18.5 hours.",
+    "marks": 2,
+    "answer": "The DNA mass halves because the cell divides (telophase / cytokinesis): each daughter cell receives one copy of each chromosome, i.e. half the replicated DNA.",
+    "working": "B1 DNA halves from 20 to 10; B1 sister chromatids separated into two nuclei / cytokinesis produces two cells, each with the original DNA content."
+   },
+   {
+    "label": "c",
+    "text": "Using the data, calculate the length of G1 for these cells, assuming the next cycle begins at 18.5 hours and is the same as the first. State one other assumption you have made.",
+    "marks": 2,
+    "answer": "8 hours; assumes all cells are synchronised / DNA starts to rise immediately at the end of G1.",
+    "working": "B1 G1 = time from start of cycle to start of DNA replication = 8 − 0 = 8 h; B1 assumption: cells synchronised / readings frequent enough to show exact start of S phase."
+   }
+  ],
+  "check": "20 == 2*10 and 8 - 0 == 8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-010",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how cytokinesis differs in an animal cell and a plant cell.",
+    "marks": 2,
+    "answer": "Animal: cell membrane pinches in to form a cleavage furrow that divides the cytoplasm. Plant: vesicles from Golgi form a cell plate across the equator, which becomes the new cell wall.",
+    "working": "B1 animal: cleavage furrow / membrane constricts inwards; B1 plant: cell plate / new cell wall built from the centre outwards (from vesicles)."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why a plant cell cannot divide its cytoplasm in the same way as an animal cell.",
+    "marks": 1,
+    "answer": "The rigid cellulose cell wall prevents the cell surface membrane from pinching inwards.",
+    "working": "B1 rigid / cellulose cell wall cannot be constricted."
+   },
+   {
+    "label": "c",
+    "text": "A student observed a cell in a stained root tip squash with two nuclei and a thin line between them across the middle of the cell. State the stage the cell was in.",
+    "marks": 1,
+    "answer": "Late telophase / cytokinesis.",
+    "working": "B1 telophase / cytokinesis (cell plate forming)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-011",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "During a typhoid infection in Karachi, a patient's immune response involves rapid division of lymphocytes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A single activated B-lymphocyte divides by mitosis every 8 hours. Calculate the number of identical cells produced from this one cell after 48 hours, assuming every cell divides each cycle.",
+    "marks": 2,
+    "answer": "64 cells",
+    "working": "M1 number of cycles = 48/8 = 6; A1 2^6 = 64."
+   },
+   {
+    "label": "b",
+    "text": "Explain why it is important that these lymphocytes are produced by mitosis rather than meiosis.",
+    "marks": 2,
+    "answer": "Mitosis gives genetically identical cells, so all of the clone have the same genes for the same specific antibody / receptor that binds the antigen.",
+    "working": "B1 genetically identical / clones; B1 all make the same antibody / have the same receptor complementary to the pathogen's antigen (meiosis would give variation and half the chromosome number)."
+   }
+  ],
+  "check": "2**(48//8) == 64",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-012",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A student looks at a stained onion root tip squash under high power and describes three cells.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the stage shown by each cell. Give one reason for each.\nCell P: chromosomes are short and thick and lie in a line across the middle of the cell; no nuclear envelope is visible.\nCell Q: two groups of V-shaped chromosomes are near opposite ends of the cell, with arms trailing behind.\nCell R: a nucleus with a clear nuclear envelope and a dark nucleolus; no individual chromosomes visible.",
+    "marks": 3,
+    "answer": "P metaphase (chromosomes on the equator); Q anaphase (chromatids being pulled to the poles, centromeres leading); R interphase (intact nucleus, chromatin not condensed).",
+    "working": "1 mark per correct stage with reason: P metaphase – on equator/metaphase plate; Q anaphase – chromatids moving to opposite poles, V shape as centromere leads; R interphase – nuclear envelope and nucleolus visible / chromosomes not condensed."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why most cells in the field of view look like cell R.",
+    "marks": 1,
+    "answer": "Interphase is the longest stage of the cell cycle.",
+    "working": "B1 cells spend most of the cell cycle in interphase."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-013",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Mitosis & the cell cycle",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Paclitaxel binds to microtubules and stops them from shortening. Explain why this prevents a cell from completing anaphase.",
+    "marks": 2,
+    "answer": "Chromatids are separated by shortening of spindle microtubules attached at their centromeres; if microtubules cannot shorten, chromatids are not pulled to opposite poles.",
+    "working": "B1 spindle fibres attached to centromeres / kinetochores must shorten (depolymerise); B1 so chromatids cannot be pulled apart to the poles."
+   },
+   {
+    "label": "b",
+    "text": "In a trial, the mitotic index in a breast tumour fell from 0.21 to 0.06 after treatment, while in the lining of the small intestine it fell from 0.15 to 0.11. Calculate the percentage decrease in mitotic index in the tumour. Give your answer to the nearest whole number.",
+    "marks": 2,
+    "answer": "71 %",
+    "working": "M1 (0.21 − 0.06)/0.21 × 100; A1 = 71.4 ≈ 71 %."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why the drug also reduced the mitotic index in the small intestine and explain one consequence for the patient.",
+    "marks": 2,
+    "answer": "Intestinal lining cells divide rapidly (stem cells constantly replace epithelium), so they are also affected; the gut lining is not replaced, causing poor absorption / diarrhoea / sores.",
+    "working": "B1 intestinal epithelium divides frequently / rapidly; B1 consequence: lining not renewed → damage, diarrhoea, poor absorption of nutrients, infection risk."
+   }
+  ],
+  "check": "round((0.21-0.06)/0.21*100) == 71",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-014",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Chromosome structure & telomeres",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which statement correctly describes telomeres?\nA They are regions of a chromosome where the spindle fibres attach.\nB They are repeated, non-coding base sequences at the ends of chromosomes.\nC They are genes that code for proteins controlling the cell cycle.\nD They are protein molecules around which DNA is wound.",
+    "marks": 1,
+    "answer": "B They are repeated, non-coding base sequences at the ends of chromosomes.",
+    "working": "Telomeres are many repeats of a short non-coding sequence at chromosome ends. A describes the centromere/kinetochore; D describes histones."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-015",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Chromosome structure & telomeres",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the structure of a chromosome as it appears at the start of mitosis.",
+    "marks": 3,
+    "answer": "Two identical sister chromatids joined at a centromere; each chromatid is one long DNA molecule wound around histone proteins (chromatin), tightly coiled / condensed; telomeres at the ends.",
+    "working": "1 mark each for any three of: two (sister) chromatids; joined at centromere; each chromatid contains one DNA molecule (double helix); DNA associated with / wound round histones; condensed / supercoiled; telomeres at ends."
+   },
+   {
+    "label": "b",
+    "text": "State the role of histone proteins in the nucleus.",
+    "marks": 1,
+    "answer": "They package / coil the DNA so the long molecules fit into the nucleus (and help control access to genes).",
+    "working": "B1 DNA wound around histones for packaging / condensing (accept: regulating gene expression)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-016",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Chromosome structure & telomeres",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the ends of a DNA molecule become shorter each time the DNA is replicated, and why this does not normally cause the loss of genes.",
+    "marks": 3,
+    "answer": "DNA polymerase cannot replicate the very end of the lagging strand, so a short length of DNA is lost each replication; the lost DNA comes from the telomere, which is non-coding, so genes are protected.",
+    "working": "B1 the extreme end of the (lagging) strand is not copied; B1 so the chromosome loses a short length each division; B1 the lost section is telomere / non-coding repeats, so no genes are lost (telomeres act as a buffer)."
+   },
+   {
+    "label": "b",
+    "text": "Stem cells in bone marrow continue to divide throughout life. Suggest how their telomeres are kept long.",
+    "marks": 1,
+    "answer": "They have active telomerase, an enzyme that adds repeats back onto the telomeres.",
+    "working": "B1 telomerase adds (telomere) repeats / extends telomeres."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-017",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Chromosome structure & telomeres",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The mean telomere length in white blood cells was measured in healthy volunteers in Lahore.\nage 20 years: 9.8 kb\nage 35 years: 9.2 kb\nage 50 years: 8.5 kb\nage 65 years: 7.9 kb\nage 80 years: 7.4 kb\n(1 kb = 1000 base pairs)",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean rate of telomere shortening between ages 20 and 80, in base pairs per year. Give your answer to the nearest whole number.",
+    "marks": 2,
+    "answer": "40 bp per year",
+    "working": "M1 (9.8 − 7.4) kb / (80 − 20) years = 0.04 kb per year; A1 × 1000 = 40 bp per year."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why telomere shortening may limit the number of times a body cell can divide.",
+    "marks": 2,
+    "answer": "When telomeres become very short, further replication would remove coding DNA / genes, so the cell stops dividing (or dies) to avoid losing genes.",
+    "working": "B1 telomeres eventually too short to protect chromosome ends; B1 genes would be lost / chromosomes unstable, so cell stops dividing (senescence) or undergoes apoptosis."
+   },
+   {
+    "label": "c",
+    "text": "Cancer cells can divide an unlimited number of times. Suggest one feature of telomeres in cancer cells that explains this.",
+    "marks": 1,
+    "answer": "Telomerase is active, so telomeres are maintained at a constant length.",
+    "working": "B1 telomerase active / telomere length maintained."
+   }
+  ],
+  "check": "round((9.8-7.4)/(80-20)*1000) == 40",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-018",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Chromosome structure & telomeres",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The telomere on one chromosome end is 10000 base pairs long and consists of repeats of the sequence TTAGGG. Calculate how many repeats are lost before the telomere reaches a critical length of 4000 base pairs.",
+    "marks": 1,
+    "answer": "1000 repeats",
+    "working": "B1 (10000 − 4000) / 6 = 1000."
+   },
+   {
+    "label": "b",
+    "text": "The telomere loses 60 base pairs at each division. Calculate the number of divisions possible before the critical length is reached.",
+    "marks": 1,
+    "answer": "100 divisions",
+    "working": "B1 6000/60 = 100."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why a short repeated sequence is better at protecting chromosome ends than a gene would be.",
+    "marks": 2,
+    "answer": "The repeats do not code for anything, so losing some of them has no effect on protein synthesis; the many repeats provide a long buffer that can be shortened many times.",
+    "working": "B1 non-coding, so loss does not change any polypeptide; B1 many repeats so a long length can be lost over many divisions before genes are reached."
+   }
+  ],
+  "check": "(10000-4000)//6 == 1000 and (10000-4000)//60 == 100",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-019",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Stem cells & cancer",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which statement describes a stem cell?\nA a cell that can no longer divide and has a specialised function\nB a cell that can divide by mitosis to give cells that can differentiate into specialised cells\nC a cell that divides only by meiosis to produce gametes\nD a cell that has lost its nucleus to make room for haemoglobin",
+    "marks": 1,
+    "answer": "B a cell that can divide by mitosis to give cells that can differentiate into specialised cells",
+    "working": "Stem cells self-renew by mitosis and their daughter cells can differentiate. A describes a fully differentiated cell; D a red blood cell."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-020",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Stem cells & cancer",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Lung cancer is one of the most common cancers in men in Pakistan, and most cases are linked to smoking cigarettes, bidis or shisha.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a mutation in a gene that controls cell division can lead to the formation of a tumour.",
+    "marks": 3,
+    "answer": "The mutated gene produces a faulty protein (or no protein), so mitosis is no longer controlled; the cell divides repeatedly and uncontrollably; its daughter cells inherit the mutation, forming a mass of cells (tumour).",
+    "working": "1 mark each for any three of: mutation changes the protein that regulates the cell cycle; cell divides by mitosis without control / continuously; daughter cells have the same mutation (clone); mass of abnormal cells = tumour; cells do not respond to signals to stop dividing / undergo apoptosis."
+   },
+   {
+    "label": "b",
+    "text": "Tobacco smoke contains carcinogens. State what is meant by a carcinogen.",
+    "marks": 1,
+    "answer": "A substance or agent that causes cancer (by increasing the rate of mutation of DNA).",
+    "working": "B1 agent / substance that causes cancer / mutations leading to cancer."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-021",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Stem cells & cancer",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State where stem cells that produce blood cells are found in an adult.",
+    "marks": 1,
+    "answer": "Bone marrow (red marrow).",
+    "working": "B1 bone marrow."
+   },
+   {
+    "label": "b",
+    "text": "Children with thalassaemia major in Pakistan may be treated with a bone marrow transplant from a matched sibling. Explain how the donor stem cells can cure the condition.",
+    "marks": 3,
+    "answer": "Donor stem cells settle in the bone marrow, divide by mitosis to self-renew, and differentiate into red blood cells containing normal haemoglobin, so regular blood transfusions are no longer needed.",
+    "working": "B1 donor stem cells divide by mitosis / self-renew; B1 differentiate into (red) blood cells; B1 these have normal genes / make normal haemoglobin (for life, so transfusions no longer needed)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-022",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Stem cells & cancer",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Suggest two differences between the behaviour of the cells in a malignant tumour and the cells of normal tissue.",
+    "marks": 2,
+    "answer": "Malignant cells divide uncontrollably/more often and do not stop dividing on contact or by apoptosis; they can spread (metastasise) into other tissues; they do not differentiate normally.",
+    "working": "1 mark each for any two of: divide more often / without control; do not undergo apoptosis; not specialised / undifferentiated; invade other tissues / spread through blood or lymph; telomerase active / unlimited divisions."
+   },
+   {
+    "label": "b",
+    "text": "Explain why exposure to radiation, such as UV light in a sunny region, increases the risk of skin cancer.",
+    "marks": 2,
+    "answer": "UV damages DNA in skin cells, causing mutations; if the mutation affects genes controlling the cell cycle, cells divide uncontrollably.",
+    "working": "B1 UV is a mutagen / damages DNA (base sequence changed); B1 in genes controlling cell division, causing uncontrolled mitosis."
+   },
+   {
+    "label": "c",
+    "text": "Explain why cancer is not an infectious disease.",
+    "marks": 1,
+    "answer": "It is not caused by a pathogen and cannot be passed from person to person.",
+    "working": "B1 not caused by a pathogen / not transmissible."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-023",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Stem cells & cancer",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what is meant by cell differentiation.",
+    "marks": 2,
+    "answer": "The process by which an unspecialised cell becomes specialised for a particular function, by switching on (expressing) some genes and not others.",
+    "working": "B1 cell becomes specialised (changes structure for a function); B1 only certain genes expressed."
+   },
+   {
+    "label": "b",
+    "text": "Explain why stem cells taken from an early embryo can produce more types of cell than stem cells taken from adult bone marrow.",
+    "marks": 2,
+    "answer": "Embryonic stem cells have not yet started to differentiate, so they can express any genes and form any cell type; adult marrow stem cells are already partly committed and can form only blood cell types.",
+    "working": "B1 embryonic cells can form (almost) all cell types / are totipotent or pluripotent; B1 adult stem cells only form a limited range (multipotent), e.g. blood cells."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-024",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Skill: measurement, graticule & magnification",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A student calibrated an eyepiece graticule using a stage micrometer in which each division is 0.01 mm. Using the ×40 objective, 40 eyepiece units lined up exactly with 25 stage micrometer divisions.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the length of one eyepiece graticule unit, in µm.",
+    "marks": 2,
+    "answer": "6.25 µm",
+    "working": "M1 25 × 0.01 mm = 0.25 mm = 250 µm; A1 250/40 = 6.25 µm."
+   },
+   {
+    "label": "b",
+    "text": "A cell in metaphase measured 4 eyepiece units from one end to the other. Calculate its actual length in µm.",
+    "marks": 1,
+    "answer": "25 µm",
+    "working": "B1 4 × 6.25 = 25 µm (accept 25.0 µm)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the eyepiece graticule must be calibrated again if the student changes to a higher-power objective lens.",
+    "marks": 1,
+    "answer": "The graticule scale stays the same size but the specimen is magnified more, so each eyepiece unit represents a smaller actual length.",
+    "working": "B1 each eyepiece unit corresponds to a different (smaller) distance on the specimen at a different magnification."
+   }
+  ],
+  "check": "abs(25*0.01*1000/40 - 6.25) < 1e-9 and abs(4*6.25 - 25) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-025",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "Sections of a mung bean root were cut at different distances behind the tip, and the mitotic index of each section was found.\n1 mm: 0.18\n2 mm: 0.12\n3 mm: 0.05\n4 mm: 0.01\n5 mm: 0.00",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the relationship shown by the data.",
+    "marks": 2,
+    "answer": "As distance from the tip increases, mitotic index decreases; it falls from 0.18 at 1 mm to 0 at 5 mm, falling most steeply between 2 and 3 mm.",
+    "working": "B1 negative trend / mitotic index decreases with distance; B1 data quote with units, e.g. 0.18 at 1 mm to 0.00 at 5 mm."
+   },
+   {
+    "label": "b",
+    "text": "A student concluded that no cell division takes place more than 4 mm from the root tip. Evaluate this conclusion.",
+    "marks": 2,
+    "answer": "Partly supported: mitotic index is 0 at 5 mm, but 0.01 at 4 mm and only one root/one sample was used and only a limited number of cells counted, so some dividing cells may be missed beyond 4 mm.",
+    "working": "B1 supported because MI is 0.00 at 5 mm / 0.01 at 4 mm; B1 limitation: only one root / small sample / no readings between 4 and 5 mm / no repeats, so cannot be sure."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-026",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Skill: errors, reliability & improvements",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A student wanted to find the mitotic index of onion root tips. She cut 1 cm from the end of one root, heated it in hydrochloric acid, stained it, placed it on a slide under a coverslip and pressed gently. She counted the dividing and non-dividing cells in one field of view at ×100 magnification.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two sources of error in this procedure and suggest an improvement for each.",
+    "marks": 4,
+    "answer": "e.g. (1) cells overlapping because the squash was too thick → press harder / thinner squash so cells form a single layer; (2) only one field of view counted → count several fields of view / at least 200 cells from several root tips; (3) difficult to decide the stage of some cells (e.g. early prophase vs interphase) → use agreed criteria / higher magnification; (4) different root tips from different bulbs / different ages → use roots of the same length taken at the same time.",
+    "working": "For each of two errors: B1 error stated in terms of this method; B1 matching improvement. Credit: overlapping cells / thick squash; small sample of cells / one field of view; subjective identification of stages; cells counted twice when moving the slide; roots of different lengths."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-027",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Skill: planning a method",
+  "paper": "5",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe a method the student could use to investigate the effect of temperature on the mitotic index of garlic root tips. Your method should be detailed enough for another person to follow.",
+    "marks": 6,
+    "answer": "Grow garlic cloves with roots in water at 5 different temperatures (e.g. 10, 15, 20, 25, 30 °C) in incubators/water baths for the same time; cut 5 mm tips at the same time of day; hydrolyse in 1 mol dm⁻³ HCl at 60 °C for a fixed time; stain (e.g. acetic orcein / toluidine blue); squash; count cells in mitosis and total cells (at least 200 per tip, several fields); MI = dividing ÷ total; at least 3 roots per temperature; calculate mean MI.",
+    "working": "1 mark each for any six of: IV with at least 5 temperatures and stated range; method of keeping temperature constant (incubator / thermostatic water bath); time roots grown at each temperature standardised; same variety / size of clove; tips cut to same length at same time of day; hydrolysis with HCl, fixed concentration, temperature and time; stain named; squash to a single layer; count number in mitosis and total (≥ 200 cells, random fields); calculate mitotic index; replicates ≥ 3 roots per temperature and mean."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-028",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Skill: variables & controls",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student investigated the effect of the concentration of caffeine solution on the mitotic index of onion root tips.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the independent variable and the dependent variable in this investigation.",
+    "marks": 2,
+    "answer": "Independent: concentration of caffeine. Dependent: mitotic index (number of cells in mitosis ÷ total cells counted).",
+    "working": "B1 IV caffeine concentration; B1 DV mitotic index."
+   },
+   {
+    "label": "b",
+    "text": "State three variables that should be standardised, and explain why one of them must be kept constant.",
+    "marks": 3,
+    "answer": "e.g. temperature; time in solution; length of root tip cut; type/age of onion; hydrolysis time and acid concentration; stain and time in stain. Explanation e.g. temperature affects enzyme activity and the rate of mitosis, so would change mitotic index.",
+    "working": "B1 × 2 for any three valid standardised variables (two correct = 1 mark, three = 2 marks); B1 valid explanation for one."
+   },
+   {
+    "label": "c",
+    "text": "Describe a suitable control for this investigation.",
+    "marks": 1,
+    "answer": "Roots grown in distilled water with no caffeine, treated in the same way.",
+    "working": "B1 0 % caffeine / distilled water, all other conditions the same."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-029",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Skill: hypotheses & predictions",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A researcher compares the mitotic index of bean root tips grown in a plant growth regulator solution with those grown in water.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State a null hypothesis for this investigation.",
+    "marks": 1,
+    "answer": "There is no significant difference between the mean mitotic index of root tips grown in the plant growth regulator and those grown in water.",
+    "working": "B1 no significant difference in mean mitotic index between the two treatments (must name both groups and the measured variable)."
+   },
+   {
+    "label": "b",
+    "text": "The plant growth regulator is thought to stimulate cell division. Make a prediction about the results and explain it.",
+    "marks": 2,
+    "answer": "Mean mitotic index will be higher in the treated roots, because more cells will enter mitosis at any one time if division is stimulated.",
+    "working": "B1 prediction: higher mitotic index with regulator; B1 explanation: more cells dividing / shorter cell cycle so greater proportion in mitosis."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-030",
+  "topic": "The mitotic cell cycle",
+  "subtopic": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Mitotic index (%) of 10 garlic root tips grown at each of two temperatures.\n25 °C: 14.2, 15.8, 13.9, 16.1, 15.0, 14.7, 15.5, 16.4, 14.9, 15.3\n15 °C: 11.6, 12.9, 12.1, 13.4, 11.2, 12.5, 13.0, 11.9, 12.7, 12.2",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The standard deviation for root tips grown at 25 °C is 0.80 and for those at 15 °C is 0.68. Calculate the mean mitotic index (as a percentage) for each group.",
+    "marks": 2,
+    "answer": "25 °C: 15.18 %; 15 °C: 12.35 %",
+    "working": "B1 25 °C mean = 151.8/10 = 15.18; B1 15 °C mean = 123.5/10 = 12.35."
+   },
+   {
+    "label": "b",
+    "text": "Use the formula t = |x̄₁ − x̄₂| ÷ √(s₁²/n₁ + s₂²/n₂) to calculate the value of t. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "t = 8.52",
+    "working": "M1 √(0.80²/10 + 0.68²/10) = 0.3320; A1 2.83/that = 8.52 (using unrounded SDs gives 8.52; accept 8.4–8.6)."
+   },
+   {
+    "label": "c",
+    "text": "The critical value of t at p = 0.05 for 18 degrees of freedom is 2.10. State what the student can conclude.",
+    "marks": 2,
+    "answer": "t (about 8.5) is greater than 2.10, so the null hypothesis is rejected: the difference in mean mitotic index between 25 °C and 15 °C is significant (probability of it being due to chance is less than 5 %).",
+    "working": "B1 calculated t > critical value 2.10 (df = 10 + 10 − 2 = 18); B1 reject null hypothesis / difference is significant, not due to chance (p < 0.05)."
+   }
+  ],
+  "check": "abs(sum([14.2, 15.8, 13.9, 16.1, 15.0, 14.7, 15.5, 16.4, 14.9, 15.3])/10 - 15.18) < 0.005 and abs(sum([11.6, 12.9, 12.1, 13.4, 11.2, 12.5, 13.0, 11.9, 12.7, 12.2])/10 - 12.35) < 0.005 and 8.4 < (15.18-12.35)/math.sqrt(0.80**2/10+0.68**2/10) < 8.6 and 10+10-2 == 18",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-031",
+  "topic": "Infectious diseases",
+  "subtopic": "Diseases, pathogens & transmission",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which row correctly matches the disease with the type of causative organism?\nA cholera – virus; malaria – protoctist\nB tuberculosis – bacterium; HIV/AIDS – virus\nC malaria – bacterium; measles – virus\nD tuberculosis – protoctist; cholera – bacterium",
+    "marks": 1,
+    "answer": "B tuberculosis – bacterium; HIV/AIDS – virus",
+    "working": "TB is caused by the bacterium Mycobacterium tuberculosis (or M. bovis) and HIV/AIDS by a virus. Malaria is caused by the protoctist Plasmodium and cholera by the bacterium Vibrio cholerae, so A, C and D each contain an error."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-032",
+  "topic": "Infectious diseases",
+  "subtopic": "Diseases, pathogens & transmission",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "After heavy monsoon floods, health officials want to reduce the spread of cholera in a camp for displaced families. Which measure would be most effective?\nA spraying insecticide to kill mosquitoes\nB giving every person the BCG vaccine\nC supplying chlorinated water and building proper latrines\nD isolating people who are coughing",
+    "marks": 1,
+    "answer": "C supplying chlorinated water and building proper latrines",
+    "working": "Cholera is spread by the faecal–oral route in water or food contaminated with Vibrio cholerae, so clean water and sanitation break transmission. A targets malaria; B and D target TB, which is airborne."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-033",
+  "topic": "Infectious diseases",
+  "subtopic": "Diseases, pathogens & transmission",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which cells are infected and destroyed by HIV, leading to AIDS?\nA red blood cells\nB helper T-lymphocytes\nC neutrophils\nD plasma cells",
+    "marks": 1,
+    "answer": "B helper T-lymphocytes",
+    "working": "HIV infects helper T-lymphocytes (which carry the CD4 receptor), so their number falls and the immune system cannot respond to other pathogens. D is wrong: plasma cells are not the main target, although antibody production falls because helper T-cells are lost."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-034",
+  "topic": "Infectious diseases",
+  "subtopic": "Diseases, pathogens & transmission",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Floods in Sindh were followed by many cases of acute watery diarrhoea, some of which were confirmed as cholera.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the causative organism of cholera.",
+    "marks": 1,
+    "answer": "Vibrio cholerae",
+    "working": "B1 Vibrio cholerae (correct spelling of genus)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why cholera outbreaks often follow floods.",
+    "marks": 2,
+    "answer": "Floods mix sewage with drinking-water supplies, so water is contaminated with faeces containing Vibrio cholerae; people drink the water or eat food washed in it.",
+    "working": "B1 sewage / faeces contaminate drinking water (pipes and latrines overflow); B1 bacteria ingested in water or food (faecal–oral route)."
+   },
+   {
+    "label": "c",
+    "text": "Suggest two ways in which the spread of cholera could be reduced in flood-affected villages.",
+    "marks": 2,
+    "answer": "Any two of: boiling or chlorinating drinking water; providing clean bottled/tanker water; building latrines away from water sources; handwashing with soap; cooking food thoroughly; oral vaccination; treating sewage.",
+    "working": "1 mark each for any two valid measures."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-035",
+  "topic": "Infectious diseases",
+  "subtopic": "Diseases, pathogens & transmission",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how tuberculosis (TB) is transmitted between people.",
+    "marks": 2,
+    "answer": "By airborne droplets: an infected person coughs or sneezes droplets containing Mycobacterium tuberculosis which are inhaled by others, especially in close contact.",
+    "working": "B1 droplets / aerosol released when infected person coughs, sneezes or talks; B1 inhaled by uninfected person."
+   },
+   {
+    "label": "b",
+    "text": "Explain why TB spreads more easily in crowded, poorly ventilated housing.",
+    "marks": 2,
+    "answer": "People are close together for long periods, so droplets reach others; poor ventilation means droplets stay in the air longer, so more bacteria are inhaled.",
+    "working": "B1 close contact / many people sharing small rooms; B1 droplets not dispersed / remain in the air."
+   },
+   {
+    "label": "c",
+    "text": "State how people can be infected with Mycobacterium bovis, and one way of preventing this.",
+    "marks": 2,
+    "answer": "Drinking unpasteurised milk (or eating undercooked meat) from infected cattle; prevent by pasteurising or boiling milk / testing and slaughtering infected cattle.",
+    "working": "B1 unpasteurised / raw milk or meat from infected cattle; B1 pasteurise / boil milk or test cattle herds."
+   },
+   {
+    "label": "d",
+    "text": "Explain why people who are HIV positive are more likely to develop active TB.",
+    "marks": 1,
+    "answer": "HIV destroys helper T-cells, so the immune system cannot control the TB bacteria.",
+    "working": "B1 fewer helper T-cells / weakened immune system so cannot fight M. tuberculosis."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-036",
+  "topic": "Infectious diseases",
+  "subtopic": "Diseases, pathogens & transmission",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the vector of malaria and describe how it transmits the disease.",
+    "marks": 3,
+    "answer": "The female Anopheles mosquito; when she takes a blood meal from an infected person she takes in Plasmodium gametocytes (sexual stages); they develop in the mosquito and the infective stages move to her salivary glands; she injects them in saliva when she bites another person.",
+    "working": "B1 female Anopheles mosquito; B1 takes up Plasmodium in blood from an infected person; B1 parasites injected (with saliva / anticoagulant) into the blood of the next person bitten."
+   },
+   {
+    "label": "b",
+    "text": "Explain why it has been difficult to develop a fully effective vaccine against malaria.",
+    "marks": 2,
+    "answer": "Plasmodium is a eukaryote with many stages in its life cycle, each with different antigens; it spends time inside liver cells and red blood cells, hidden from the immune system; antigens vary between strains.",
+    "working": "1 mark each for any two of: different antigens at each stage of life cycle; parasite lives inside host cells (liver, red blood cells) so not exposed to antibodies; antigenic variation / many strains; short time in the blood before entering cells."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why malaria cases in parts of Pakistan rise sharply in the months after the monsoon.",
+    "marks": 2,
+    "answer": "Standing water after the rains provides breeding sites for mosquitoes, and warm temperatures speed up mosquito and parasite development, so the vector population and transmission increase.",
+    "working": "B1 stagnant water / pools → more mosquito breeding sites (larvae); B1 warm and humid conditions → more mosquitoes / faster development of Plasmodium in the mosquito."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-037",
+  "topic": "Infectious diseases",
+  "subtopic": "Diseases, pathogens & transmission",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the type of causative organism of HIV/AIDS and two ways in which HIV is transmitted.",
+    "marks": 3,
+    "answer": "Virus (retrovirus). Any two of: unprotected sexual intercourse; sharing needles; transfusion of unscreened blood; from mother to baby across the placenta, at birth or in breast milk.",
+    "working": "B1 virus; 1 mark each for any two transmission routes."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why screening donated blood for HIV is important in a hospital blood bank.",
+    "marks": 1,
+    "answer": "Infected blood would transmit HIV directly into the recipient's bloodstream.",
+    "working": "B1 transfusion of infected blood passes the virus straight into the recipient."
+   },
+   {
+    "label": "c",
+    "text": "Explain why it is difficult to stop the spread of HIV by giving the antibiotics that are used to treat TB.",
+    "marks": 1,
+    "answer": "Antibiotics do not affect viruses: HIV has no cell wall or bacterial ribosomes / enzymes for the antibiotic to act on.",
+    "working": "B1 antibiotics target bacterial structures / metabolism; viruses lack these."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-038",
+  "topic": "Infectious diseases",
+  "subtopic": "Diseases, pathogens & transmission",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "In one year a city with a population of 2 400 000 recorded 6 360 new cases of tuberculosis.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of new TB cases per 100 000 people in this city in that year.",
+    "marks": 2,
+    "answer": "265 per 100 000",
+    "working": "M1 6360/2400000 × 100 000; A1 = 265."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why health departments give the number of cases per 100 000 people rather than the total number of cases.",
+    "marks": 1,
+    "answer": "It allows comparison between places or years with different population sizes.",
+    "working": "B1 allows fair comparison between populations of different sizes."
+   },
+   {
+    "label": "c",
+    "text": "Suggest two reasons why TB is difficult to eradicate in large cities.",
+    "marks": 2,
+    "answer": "Any two of: overcrowding; poor ventilation; people do not complete the long course of treatment; multidrug-resistant strains; HIV co-infection; poverty / malnutrition; people may carry the bacteria without symptoms (latent TB).",
+    "working": "1 mark each for any two."
+   }
+  ],
+  "check": "round(6360/2400000*100000) == 265",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-039",
+  "topic": "Infectious diseases",
+  "subtopic": "Diseases, pathogens & transmission",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A town introduced a piped, chlorinated water supply. In the two years before the project there were 1840 reported cases of cholera; in the two years after it there were 412.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage decrease in the number of cases of cholera after the project. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "77.6 %",
+    "working": "M1 (1840 − 412) / 1840 × 100; A1 77.6 %."
+   },
+   {
+    "label": "b",
+    "text": "Cases did not fall to zero. Suggest two reasons for this.",
+    "marks": 2,
+    "answer": "Any two of: some people still drank untreated water from wells/canals; poor hygiene or contaminated food spread infection; infected visitors / carriers without symptoms; pipes damaged so supply contaminated; some households not connected.",
+    "working": "1 mark each for any two valid reasons linked to cholera transmission."
+   },
+   {
+    "label": "c",
+    "text": "A health worker said the fall in cases proves that the water project caused the decrease. Give one reason why this might not be correct.",
+    "marks": 1,
+    "answer": "Other factors could also have changed, e.g. a vaccination campaign, hygiene education, weather (fewer floods), or improved reporting.",
+    "working": "B1 another variable changed at the same time / correlation does not show causation (with example)."
+   }
+  ],
+  "check": "round((1840-412)/1840*100,1) == 77.6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-040",
+  "topic": "Infectious diseases",
+  "subtopic": "Antibiotics & resistance",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Why is penicillin not effective against measles?\nA The measles virus has a cell wall made of chitin.\nB Viruses have no peptidoglycan cell wall for penicillin to act on.\nC The measles virus produces penicillinase that breaks down penicillin.\nD Penicillin cannot enter the blood.",
+    "marks": 1,
+    "answer": "B Viruses have no peptidoglycan cell wall for penicillin to act on.",
+    "working": "Penicillin stops bacteria building peptidoglycan cell walls; viruses have no cell wall or metabolism of their own, so penicillin has no target. C is wrong because penicillinase is made by some bacteria, not viruses."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-041",
+  "topic": "Infectious diseases",
+  "subtopic": "Antibiotics & resistance",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how penicillin kills bacteria that are growing and dividing.",
+    "marks": 3,
+    "answer": "Penicillin inhibits the enzymes that form cross-links between peptidoglycan chains in the cell wall; new wall is weak; water enters by osmosis and the weakened wall cannot withstand the pressure, so the cell bursts (lysis).",
+    "working": "B1 inhibits enzymes (transpeptidases) that make cross-links in peptidoglycan; B1 cell wall weakened as it grows; B1 water enters by osmosis → cell bursts / osmotic lysis."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why penicillin does not harm human cells.",
+    "marks": 1,
+    "answer": "Human cells do not have cell walls / peptidoglycan.",
+    "working": "B1 human (animal) cells lack a cell wall / peptidoglycan."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-042",
+  "topic": "Infectious diseases",
+  "subtopic": "Antibiotics & resistance",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a population of bacteria becomes resistant to an antibiotic.",
+    "marks": 4,
+    "answer": "A random mutation produces an allele giving resistance (e.g. an enzyme that breaks down the antibiotic); the antibiotic kills susceptible bacteria; resistant bacteria survive and reproduce by binary fission; the resistance allele is passed on so its frequency increases; plasmids carrying the gene can be passed to other bacteria by conjugation.",
+    "working": "1 mark each for any four of: mutation (random) gives resistance gene / allele; antibiotic is a selection pressure; non-resistant bacteria killed; resistant bacteria survive and reproduce; allele passed to offspring (vertical) so frequency increases; resistance genes on plasmids transferred between bacteria (horizontal / conjugation)."
+   },
+   {
+    "label": "b",
+    "text": "Typhoid fever caused by Salmonella Typhi strains resistant to many antibiotics has spread in parts of Pakistan. Suggest why antibiotics sold without a prescription contribute to this.",
+    "marks": 2,
+    "answer": "People take antibiotics they do not need (e.g. for viral fevers) or take incomplete courses, so bacteria are exposed to antibiotics more often, giving more selection for resistant strains.",
+    "working": "B1 overuse / unnecessary use / wrong antibiotic / incomplete course; B1 increases selection pressure so resistant bacteria survive and multiply."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-043",
+  "topic": "Infectious diseases",
+  "subtopic": "Antibiotics & resistance",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State three ways in which the development of antibiotic resistance can be reduced.",
+    "marks": 3,
+    "answer": "Any three of: only prescribe antibiotics for bacterial infections; complete the full course; do not sell antibiotics without prescription; use narrow-spectrum antibiotics where possible; limit antibiotics in farming / for animal growth; rotate antibiotics; improve hygiene and infection control in hospitals so fewer infections need treating.",
+    "working": "1 mark each for any three."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a patient should finish the full course of an antibiotic even after feeling better.",
+    "marks": 2,
+    "answer": "Some bacteria, often the more resistant ones, may still be alive; stopping early lets them survive and multiply, so the infection returns and resistant bacteria increase.",
+    "working": "B1 not all bacteria killed / partly resistant ones survive; B1 they reproduce, increasing the proportion of resistant bacteria / infection returns."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-044",
+  "topic": "Infectious diseases",
+  "subtopic": "Antibiotics & resistance",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "Paper discs (6 mm diameter) soaked in four antibiotics, P, Q, R and S, were placed on an agar plate spread with a non-pathogenic strain of bacterium. After 24 hours at 25 °C the diameter of each clear zone (including the disc) was measured.\nP: 24 mm\nQ: 18 mm\nR: 6 mm\nS: 30 mm",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the area of the clear zone around antibiotic P, not including the disc. Use π = 3.142 and give your answer to the nearest mm².",
+    "marks": 2,
+    "answer": "424 mm²",
+    "working": "M1 π(12² − 3²) = 3.142 × 135; A1 = 424 mm²."
+   },
+   {
+    "label": "b",
+    "text": "State which antibiotic is most effective against this bacterium and which one the bacterium is resistant to. Give reasons.",
+    "marks": 2,
+    "answer": "S is most effective (largest clear zone, 30 mm); the bacterium is resistant to R (no clear zone beyond the 6 mm disc).",
+    "working": "B1 S, largest zone of inhibition; B1 R, zone diameter equals disc diameter so no bacteria killed."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why the size of the clear zone is not always a reliable guide to which antibiotic a doctor should use.",
+    "marks": 1,
+    "answer": "Antibiotics diffuse through agar at different rates (molecule size), and different starting concentrations were used; it also may behave differently in the body.",
+    "working": "B1 any one: different diffusion rates / molecular size / concentration in disc / effect in the body (toxicity, absorption) differs from agar."
+   }
+  ],
+  "check": "round(3.142*(12**2-3**2)) == 424 and 30 == max([24, 18, 6, 30])",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-045",
+  "topic": "Infectious diseases",
+  "subtopic": "Antibiotics & resistance",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A hospital laboratory in Lahore recorded the percentage of Escherichia coli isolates from patients that were resistant to one class of antibiotic.\n2017: 12 %\n2019: 31 %\n2021: 54 %\n2023: 68 %",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the trend shown by the data.",
+    "marks": 2,
+    "answer": "The percentage of resistant isolates increased every year, from 12 % in 2017 to 68 % in 2023; the largest rise was between 2019 and 2021 (23 percentage points).",
+    "working": "B1 increase throughout; B1 data quote with years, e.g. 12 % (2017) to 68 % (2023)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mean increase in percentage of resistant isolates per year between 2017 and 2023.",
+    "marks": 1,
+    "answer": "9.3 percentage points per year",
+    "working": "B1 (68 − 12)/6 = 9.3."
+   },
+   {
+    "label": "c",
+    "text": "Explain why hospital wards may contain a higher proportion of resistant bacteria than the general community.",
+    "marks": 2,
+    "answer": "Antibiotics are used heavily in hospitals, giving strong selection for resistant bacteria; many ill / immunocompromised patients close together allow resistant bacteria to spread between them (via hands, equipment).",
+    "working": "B1 high antibiotic use = strong selection pressure; B1 transmission between patients / staff / equipment, patients with weak immune systems."
+   }
+  ],
+  "check": "round((68-12)/(2023-2017),1) == 9.3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-046",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "The percentage of households using insecticide-treated bed nets and the number of malaria cases per 1000 people in one year were recorded for five villages.\nVillage A: bed nets 15 %; cases 41 per 1000\nVillage B: bed nets 32 %; cases 30 per 1000\nVillage C: bed nets 48 %; cases 22 per 1000\nVillage D: bed nets 66 %; cases 15 per 1000\nVillage E: bed nets 81 %; cases 9 per 1000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the relationship between bed-net use and malaria cases.",
+    "marks": 2,
+    "answer": "Negative correlation: as the percentage of households using bed nets increases, the number of malaria cases per 1000 people decreases, from 41 at 15 % to 9 at 81 %.",
+    "working": "B1 negative correlation / inverse relationship; B1 data quoted with units."
+   },
+   {
+    "label": "b",
+    "text": "A newspaper reported that 'bed nets cause the fall in malaria'. Discuss whether the data support this claim.",
+    "marks": 3,
+    "answer": "Data show a strong negative correlation, and bed nets prevent mosquito bites, so it is plausible; but correlation does not prove causation: other factors may differ between villages (e.g. distance from water, insecticide spraying, wealth, access to treatment, altitude); only five villages; one year of data.",
+    "working": "B1 supports: strong negative correlation / biologically plausible because nets stop mosquito bites at night; B1 correlation ≠ causation; B1 named other variable not controlled or small sample / no statistics."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-047",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A school in Peshawar ran a handwashing campaign. The mean number of episodes of diarrhoea per child per year, with standard error (SE), was recorded.\nbefore campaign: mean 3.8, SE 0.4\nafter campaign: mean 2.1, SE 0.5",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The 95 % confidence intervals are mean ± 2 × SE. Calculate the 95 % confidence interval for each period.",
+    "marks": 2,
+    "answer": "Before: 3.0 to 4.6; after: 1.1 to 3.1 cases per child per year",
+    "working": "B1 before 3.8 ± 0.8 = 3.0–4.6; B1 after 2.1 ± 1.0 = 1.1–3.1."
+   },
+   {
+    "label": "b",
+    "text": "Use your answers to discuss whether the campaign significantly reduced diarrhoea.",
+    "marks": 2,
+    "answer": "The intervals overlap (3.0–3.1), so the difference may not be significant; the mean did fall, but we cannot be confident the decrease is real rather than due to chance.",
+    "working": "B1 confidence intervals overlap; B1 so difference not shown to be significant (although mean is lower)."
+   }
+  ],
+  "check": "abs((3.8-2*0.4)-3.0)<1e-9 and abs((3.8+2*0.4)-4.6)<1e-9 and abs((2.1-2*0.5)-1.1)<1e-9 and abs((2.1+2*0.5)-3.1)<1e-9 and 3.8-0.8 < 2.1+1.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-048",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: planning a method",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Neem (Azadirachta indica) leaves are traditionally used in Pakistan as an antiseptic.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the student could investigate the effect of the concentration of neem leaf extract on the growth of the bacterium Bacillus subtilis. Include how the results would be recorded and processed.",
+    "marks": 7,
+    "answer": "Make a stock extract (e.g. 20 g leaves blended in 100 cm³ distilled water, filtered and sterilised by filtration); dilute to five concentrations (e.g. 100, 80, 60, 40, 20 % plus 0 % control) using distilled water; spread the same volume (0.1 cm³) of the same culture on nutrient agar plates using aseptic technique; soak 6 mm sterile paper discs in each concentration for the same time and place them on the agar; incubate at 25 °C for 48 h; measure diameter of clear zone in two directions at right angles and calculate mean / area; three replicate plates per concentration; calculate mean; plot graph of zone diameter against concentration.",
+    "working": "1 mark each for any seven of: preparation of extract and dilution method with volumes; at least 5 concentrations and suitable range; control discs soaked in distilled water; same volume / density of bacterial culture spread on each plate; same type and depth of agar; same disc size and soaking time; incubation temperature (≤ 30 °C) and time stated; measure clear zone diameter (mean of two perpendicular diameters) or area; at least 3 replicates and calculate mean; aseptic technique (flame loop, sterile equipment, lid taped not sealed); record in table and plot graph."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-049",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: planning a method",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student wants to find out which concentration of ethanol in a hand sanitiser is most effective at killing bacteria.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how you would prepare 20 cm³ of each of 70 %, 60 %, 50 % and 40 % ethanol solutions from a 70 % stock solution and distilled water.",
+    "marks": 2,
+    "answer": "70 %: 20 cm³ stock + 0 water; 60 %: 17.1 cm³ stock + 2.9 cm³ water; 50 %: 14.3 cm³ stock + 5.7 cm³ water; 40 %: 11.4 cm³ stock + 8.6 cm³ water.",
+    "working": "M1 volume of stock = (required % ÷ 70) × 20; A1 all four correct (to 1 decimal place)."
+   },
+   {
+    "label": "b",
+    "text": "Describe how the student could use these solutions to compare their effect on the number of bacteria on the hands.",
+    "marks": 4,
+    "answer": "Volunteer presses fingertips on a nutrient agar plate (before); applies a fixed volume (e.g. 2 cm³) of one concentration for a fixed time (30 s), lets hands dry, presses fingertips on a second plate (after); incubate plates at 25 °C for 48 h; count colonies; calculate percentage reduction; repeat with several volunteers/days for each concentration; tape lid, do not open plates.",
+    "working": "1 mark each for any four of: before and after samples on agar; same volume of sanitiser and same rubbing time; same fingers / same pressure and time of contact; incubation ≤ 30 °C for a stated time; count colonies and calculate % reduction; repeats / several volunteers; safety (lids taped, plates autoclaved after)."
+   }
+  ],
+  "check": "abs(60/70*20-17.1)<0.05 and abs(50/70*20-14.3)<0.05 and abs(40/70*20-11.4)<0.05",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-050",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: errors, reliability & improvements",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A student placed paper discs soaked in different antibiotics on agar plates spread with bacteria. After incubation she measured the diameter of each clear zone with a ruler. The edges of some zones were blurred and some zones were oval rather than circular.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two sources of error in measuring the clear zones and suggest an improvement for each.",
+    "marks": 4,
+    "answer": "e.g. zones are not perfect circles → measure two diameters at right angles and take the mean; edge of the clear zone is blurred → use a hand lens / measure against a dark background with a fixed criterion; ruler measured only to the nearest mm → use digital calipers; discs not equally soaked → soak for a fixed time and drain on filter paper.",
+    "working": "For each of two: B1 error relevant to this experiment; B1 improvement that would reduce it."
+   },
+   {
+    "label": "b",
+    "text": "Explain why each antibiotic should be tested on three separate plates.",
+    "marks": 1,
+    "answer": "To identify anomalous results and calculate a mean, making the results more reliable.",
+    "working": "B1 identify anomalies / calculate mean / check repeatability."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-051",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: errors, reliability & improvements",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Researchers asked 40 families in a village whether they washed their hands with soap before eating and how many times family members had had diarrhoea in the past year. They concluded that handwashing halves the risk of diarrhoea.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Suggest three limitations of this survey that could make the conclusion unreliable.",
+    "marks": 3,
+    "answer": "Any three of: data on handwashing were self-reported (people may overstate); small sample size; households not randomly chosen; other variables (water source, sanitation, income, family size) not controlled; diarrhoea recalled from memory over a long period; cause of diarrhoea not confirmed by laboratory tests.",
+    "working": "1 mark each for any three."
+   },
+   {
+    "label": "b",
+    "text": "Suggest one improvement to the study design.",
+    "marks": 1,
+    "answer": "e.g. larger random sample; observe handwashing directly; match households for water source; confirm cases by stool tests; record cases weekly.",
+    "working": "B1 any valid improvement linked to a limitation in (a)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-052",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: variables & controls",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student compares the antibacterial effect of four brands of mouthwash using paper discs on agar plates spread with a harmless bacterium.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the independent and dependent variables.",
+    "marks": 2,
+    "answer": "Independent: type of mouthwash. Dependent: diameter (or area) of the clear zone around each disc.",
+    "working": "B1 IV type of mouthwash; B1 DV clear zone diameter / area."
+   },
+   {
+    "label": "b",
+    "text": "State two variables that should be standardised and how each could be controlled.",
+    "marks": 2,
+    "answer": "e.g. volume of bacterial culture – use a pipette to spread 0.1 cm³; temperature of incubation – incubator at 25 °C; size of discs – cut with the same hole punch; soaking time – 10 minutes timed with a stopwatch.",
+    "working": "1 mark each for a variable with its method of control (max 2)."
+   },
+   {
+    "label": "c",
+    "text": "Describe a suitable control and explain its purpose.",
+    "marks": 1,
+    "answer": "Disc soaked in sterile distilled water, to show that the paper disc itself does not inhibit growth.",
+    "working": "B1 disc in sterile water and showing any clear zone is due to the mouthwash."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-053",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: variables & controls",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "Health researchers compared the number of cases of measles in children who had received two doses of measles vaccine and in children who had not, in a district of Balochistan.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the independent variable and the dependent variable in this study.",
+    "marks": 2,
+    "answer": "Independent: whether children received the vaccine (vaccinated or not). Dependent: number / percentage of children who developed measles.",
+    "working": "B1 IV vaccination status; B1 DV incidence / percentage with measles."
+   },
+   {
+    "label": "b",
+    "text": "Suggest two variables that the researchers should try to match between the two groups and explain why matching is necessary.",
+    "marks": 3,
+    "answer": "Any two of: age; nutrition / health status; living conditions (crowding); area / exposure to cases; access to health care; plus explanation: these also affect the chance of catching measles, so must be similar for a valid comparison.",
+    "working": "1 mark each for any two valid variables; B1 explanation that they could affect the dependent variable / make the comparison fair."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-054",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "The number of malaria cases in a rural health centre was recorded in each season of one year.\nWinter (Dec–Feb): 48; spring (Mar–May): 112; summer and monsoon (Jun–Aug): 186; autumn (Sep–Nov): 74.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State a null hypothesis for this test.",
+    "marks": 1,
+    "answer": "There is no difference between the numbers of malaria cases in the four seasons (cases are evenly spread through the year); any difference is due to chance.",
+    "working": "B1 no (significant) difference between observed number of cases in each season / cases distributed equally."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the value of χ² using χ² = Σ (O − E)²/E. Give your answer to 1 decimal place.",
+    "marks": 3,
+    "answer": "χ² = 103.0",
+    "working": "B1 E = 420/4 = 105 for each season; M1 (O − E)²/E values: 30.94, 0.47, 62.49, 9.15; A1 sum = 103.0."
+   },
+   {
+    "label": "c",
+    "text": "The critical value of χ² at p = 0.05 for 3 degrees of freedom is 7.82. Explain what the result shows.",
+    "marks": 2,
+    "answer": "χ² (103.0) is much greater than 7.82, so the null hypothesis is rejected; the difference between seasons is significant (p < 0.05) – malaria cases are not evenly spread through the year.",
+    "working": "B1 χ² > critical value (df = 4 − 1 = 3); B1 reject null hypothesis / significant difference between seasons, not due to chance."
+   }
+  ],
+  "check": "abs(sum([(x-105.0)**2/105.0 for x in [48, 112, 186, 74]]) - 103.0) < 0.05 and 105.0 == sum([48, 112, 186, 74])/4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-055",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "Clear zone diameters (mm) around eight discs soaked in garlic extract on plates of a harmless bacterium:\n14.5, 16.0, 15.5, 13.0, 17.0, 15.0, 14.0, 16.5",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean diameter of the clear zone.",
+    "marks": 1,
+    "answer": "15.19 mm",
+    "working": "B1 121.5/8 = 15.1875 ≈ 15.19 mm."
+   },
+   {
+    "label": "b",
+    "text": "The standard deviation is 1.33 mm. Calculate the standard error, SE = s ÷ √n. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "0.47 mm",
+    "working": "M1 1.33 / √8; A1 0.47 mm."
+   },
+   {
+    "label": "c",
+    "text": "The 95 % confidence interval for a second extract was 11.2 to 12.3 mm. Calculate the 95 % confidence interval (mean ± 2 × SE) for this extract and state whether the difference between the two extracts is likely to be significant.",
+    "marks": 2,
+    "answer": "14.2 to 16.1 mm; the intervals do not overlap, so the difference is likely to be significant.",
+    "working": "B1 15.19 ± 0.94 = 14.2–16.1 mm; B1 no overlap with 11.2–12.3 so difference likely significant."
+   }
+  ],
+  "check": "abs(sum([14.5, 16.0, 15.5, 13.0, 17.0, 15.0, 14.0, 16.5])/8 - 15.1875) < 1e-4 and abs(1.33/math.sqrt(8) - 0.47) < 0.005 and abs(15.1875-2*0.47 - 14.2) < 0.05 and 15.1875-0.94 > 12.3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-056",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: calculations & data processing",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A water sample from a village well was diluted in a serial dilution so that the final tube was a 10⁻⁵ dilution of the original. 0.1 cm³ of this tube was spread on nutrient agar and incubated. 47 colonies grew.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of bacteria per cm³ in the original water sample. Give your answer in standard form.",
+    "marks": 3,
+    "answer": "4.7 × 10⁷ bacteria per cm³",
+    "working": "M1 colonies per cm³ of diluted sample = 47 / 0.1 = 470; M1 × dilution factor 10⁵; A1 4.7 × 10⁷ per cm³."
+   },
+   {
+    "label": "b",
+    "text": "State one assumption made in this calculation.",
+    "marks": 1,
+    "answer": "Each colony grew from a single bacterium / all bacteria were able to grow on the agar.",
+    "working": "B1 one colony = one cell (cells not clumped) or all viable cells grow."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the plate from the 10⁻³ dilution, which had colonies that had merged into one another, was not used.",
+    "marks": 1,
+    "answer": "Overlapping colonies cannot be counted accurately.",
+    "working": "B1 colonies merge / too many to count individually."
+   }
+  ],
+  "check": "abs(47/0.1*10**5 - 4.7e7) < 1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-057",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: calculations & data processing",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A district recorded 960 new cases of a disease in 2015, when its population was 1 200 000, and 735 cases in 2024, when its population was 1 500 000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the incidence of the disease per 100 000 people in each year.",
+    "marks": 2,
+    "answer": "2015: 80; 2024: 49 per 100 000",
+    "working": "B1 960/1 200 000 × 100 000 = 80; B1 735/1 500 000 × 100 000 = 49."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage change in incidence between 2015 and 2024.",
+    "marks": 2,
+    "answer": "−38.8 % (a decrease of 38.8 %)",
+    "working": "M1 (49 − 80)/80 × 100; A1 -38.8 %."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the change in the total number of cases gives a misleading impression of the change in risk of infection.",
+    "marks": 1,
+    "answer": "The population grew, so the number of cases per person (the risk) fell more than the total number of cases suggests.",
+    "working": "B1 population size changed, so cases per 100 000 is the fair measure."
+   }
+  ],
+  "check": "round(960/1200000*100000) == 80 and round(735/1500000*100000) == 49 and round((49-80)/80*100,1) == -38.8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-058",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: hypotheses & predictions",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student investigates whether honey from the Swat valley inhibits the growth of bacteria. Wells are cut in agar plates spread with bacteria and filled with honey diluted to different concentrations.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State a hypothesis that could be tested in this investigation.",
+    "marks": 1,
+    "answer": "The greater the concentration of honey, the larger the area of the clear zone around the well (the fewer bacteria grow).",
+    "working": "B1 testable statement linking honey concentration to bacterial growth / clear zone size, with direction."
+   },
+   {
+    "label": "b",
+    "text": "Predict the results you would expect if manuka-type honey contains an antibacterial substance in addition to its high sugar concentration, compared with a sugar solution of the same concentration. Explain your prediction.",
+    "marks": 2,
+    "answer": "Honey would give larger clear zones than sugar solution of the same concentration, because both cause water loss from bacteria by osmosis, but honey also contains an extra antibacterial substance.",
+    "working": "B1 larger zones with honey than with sugar solution; B1 osmotic effect is the same in both so the extra inhibition is due to the antibacterial substance."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-059",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: graphs & charts",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "Set 1: diameter of clear zones around five different antibiotics.\nSet 2: number of new cases of dengue fever in a city each week for 12 weeks.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the type of graph that should be drawn for each data set. Explain each choice.",
+    "marks": 2,
+    "answer": "Set 1: bar chart, because the independent variable (type of antibiotic) is categoric / discontinuous. Set 2: line graph, because both variables (time and number of cases) are continuous.",
+    "working": "B1 bar chart for categoric data; B1 line graph for continuous data."
+   },
+   {
+    "label": "b",
+    "text": "Describe how the line graph for Set 2 should be drawn.",
+    "marks": 3,
+    "answer": "Time on the x-axis, number of new cases on the y-axis; axes labelled with units; linear scale using more than half the grid; points plotted accurately as small crosses; points joined with ruled straight lines (point to point) as intermediate values are not known.",
+    "working": "1 mark each for any three of: independent variable (week) on x-axis; both axes fully labelled with units; even scale using most of the grid; points plotted precisely (× or ⊙); point-to-point ruled lines (no extrapolation)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-060",
+  "topic": "Infectious diseases",
+  "subtopic": "Skill: risk assessment",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A student cultures bacteria from a soil sample on nutrient agar plates and tests the effect of an antibacterial cream. Loops are sterilised in a Bunsen flame and the bench is wiped with 70 % ethanol.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two hazards in this investigation and describe how the risk from each could be reduced.",
+    "marks": 4,
+    "answer": "e.g. Bacteria could be pathogenic / contaminants may grow → use a non-pathogenic strain, aseptic technique, tape lid with two strips (not sealed all round), incubate at ≤ 30 °C, never open plates, autoclave after use. Flame / ethanol for sterilising loop is flammable → keep ethanol away from Bunsen, tie back hair. Hot agar → use heat-proof gloves.",
+    "working": "For each of two hazards: B1 hazard identified; B1 appropriate precaution."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-061",
+  "topic": "Energy & respiration",
+  "subtopic": "Glycolysis, link reaction & Krebs cycle",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State where glycolysis takes place in a cell.",
+    "marks": 1,
+    "answer": "Cytoplasm (cytosol).",
+    "working": "B1 cytoplasm."
+   },
+   {
+    "label": "b",
+    "text": "Describe the main stages of glycolysis.",
+    "marks": 4,
+    "answer": "Glucose is phosphorylated using 2 ATP to form hexose (fructose) bisphosphate; this splits (lysis) into two triose phosphate molecules; each triose phosphate is oxidised by removal of hydrogen, which reduces NAD; each is converted to pyruvate, producing 2 ATP per triose phosphate by substrate-level phosphorylation (net gain 2 ATP per glucose).",
+    "working": "1 mark each for any four of: phosphorylation of glucose using 2 ATP; hexose bisphosphate formed; splits into 2 triose phosphates; dehydrogenation / oxidation of triose phosphate; NAD reduced (2 reduced NAD per glucose); pyruvate formed; 4 ATP produced, net gain of 2 ATP; substrate-level phosphorylation."
+   },
+   {
+    "label": "c",
+    "text": "Explain why glycolysis would stop if there were no NAD available.",
+    "marks": 1,
+    "answer": "NAD is needed to accept hydrogen when triose phosphate is oxidised, so this step could not happen.",
+    "working": "B1 no hydrogen acceptor for oxidation of triose phosphate."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-062",
+  "topic": "Energy & respiration",
+  "subtopic": "Glycolysis, link reaction & Krebs cycle",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State how pyruvate enters the mitochondrial matrix.",
+    "marks": 1,
+    "answer": "By active transport (across the mitochondrial membranes).",
+    "working": "B1 active transport."
+   },
+   {
+    "label": "b",
+    "text": "Describe what happens to pyruvate in the link reaction.",
+    "marks": 3,
+    "answer": "Pyruvate is decarboxylated (CO₂ removed) and dehydrogenated (hydrogen removed, reducing NAD); the remaining 2-carbon acetyl group combines with coenzyme A to form acetyl coenzyme A.",
+    "working": "B1 decarboxylation / CO₂ released; B1 dehydrogenation / NAD reduced; B1 acetyl group + coenzyme A → acetyl CoA."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why this stage is called the link reaction.",
+    "marks": 1,
+    "answer": "It links glycolysis (in the cytoplasm) to the Krebs cycle (in the matrix).",
+    "working": "B1 connects glycolysis and the Krebs cycle."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-063",
+  "topic": "Energy & respiration",
+  "subtopic": "Glycolysis, link reaction & Krebs cycle",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A simplified Krebs cycle is described in words.\nStep 1: acetyl coenzyme A (2C) combines with compound W (4C) to form a 6-carbon compound.\nStep 2: the 6-carbon compound loses CO₂ and hydrogen, forming a 5-carbon compound.\nStep 3: the 5-carbon compound loses CO₂ and hydrogen, forming a 4-carbon compound; ATP is also made.\nStep 4: the 4-carbon compound is converted back to W, with further removal of hydrogen.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name compound W and the 6-carbon compound formed in step 1.",
+    "marks": 2,
+    "answer": "W = oxaloacetate; 6-carbon compound = citrate.",
+    "working": "B1 oxaloacetate; B1 citrate."
+   },
+   {
+    "label": "b",
+    "text": "Identify the steps in which decarboxylation occurs and state what is meant by dehydrogenation.",
+    "marks": 2,
+    "answer": "Steps 2 and 3 (6C → 5C and 5C → 4C); dehydrogenation is the removal of hydrogen atoms from a substrate, which are accepted by NAD or FAD.",
+    "working": "B1 steps 2 and 3; B1 removal of hydrogen (by dehydrogenase enzymes) – accepted by NAD/FAD."
+   },
+   {
+    "label": "c",
+    "text": "The Krebs cycle does not use oxygen directly. Explain why it stops when oxygen is not available.",
+    "marks": 2,
+    "answer": "Oxygen is the final electron acceptor in the electron transport chain; without it reduced NAD and FAD cannot be reoxidised, so there is no NAD / FAD to accept hydrogen in the Krebs cycle.",
+    "working": "B1 oxygen is the final electron / hydrogen acceptor in the ETC; B1 NAD and FAD not regenerated so dehydrogenation in the Krebs cycle stops."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-064",
+  "topic": "Energy & respiration",
+  "subtopic": "Glycolysis, link reaction & Krebs cycle",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Succinate dehydrogenase is a Krebs cycle enzyme, bound to the inner mitochondrial membrane, that removes hydrogen from succinate and reduces FAD.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Malonate has a similar shape to succinate. Suggest how malonate inhibits succinate dehydrogenase.",
+    "marks": 2,
+    "answer": "It is a competitive inhibitor: it binds to the active site of succinate dehydrogenase, so succinate cannot bind and fewer enzyme–substrate complexes form.",
+    "working": "B1 binds to the active site (competitive inhibition); B1 prevents succinate binding / fewer E–S complexes."
+   },
+   {
+    "label": "b",
+    "text": "Explain why adding malonate to isolated mitochondria reduces their uptake of oxygen.",
+    "marks": 3,
+    "answer": "The Krebs cycle slows / stops, so less reduced FAD (and NAD) is produced; fewer electrons enter the electron transport chain; less oxygen is needed as the final electron acceptor.",
+    "working": "B1 Krebs cycle slows / succinate not converted to fumarate; B1 less reduced FAD / NAD produced; B1 fewer electrons passed to oxygen at the end of the ETC, so less oxygen reduced to water."
+   },
+   {
+    "label": "c",
+    "text": "Suggest how the effect of malonate could be reversed in the experiment.",
+    "marks": 1,
+    "answer": "Add a high concentration of succinate.",
+    "working": "B1 increase succinate concentration (out-competes inhibitor)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-065",
+  "topic": "Energy & respiration",
+  "subtopic": "Glycolysis, link reaction & Krebs cycle",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "The products of each stage of aerobic respiration per molecule of glucose (net values) are:\nglycolysis: 2 reduced NAD, 0 reduced FAD, 2 ATP, 0 CO₂\nlink reaction: 2 reduced NAD, 0 reduced FAD, 0 ATP, 2 CO₂\nKrebs cycle (two turns): 6 reduced NAD, 2 reduced FAD, 2 ATP, 4 CO₂",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Complete the totals for one molecule of glucose: number of reduced NAD, reduced FAD, ATP (by substrate-level phosphorylation) and CO₂ produced.",
+    "marks": 2,
+    "answer": "reduced NAD 10; reduced FAD 2; ATP 4; CO₂ 6",
+    "working": "B1 NAD 10 and FAD 2; B1 ATP 4 (net) and CO₂ 6."
+   },
+   {
+    "label": "b",
+    "text": "Assume that each reduced NAD gives 2.5 ATP and each reduced FAD gives 1.5 ATP by oxidative phosphorylation. Calculate the maximum yield of ATP from one molecule of glucose.",
+    "marks": 2,
+    "answer": "32 ATP",
+    "working": "M1 10 × 2.5 + 2 × 1.5 = 28; A1 + 4 = 32."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why the actual yield of ATP in a cell is usually lower than this.",
+    "marks": 2,
+    "answer": "Some protons leak back across the inner membrane without passing through ATP synthase; energy is used to transport pyruvate, ADP and phosphate into the mitochondrion (and ATP out); some reduced NAD from glycolysis passes its hydrogen to carriers giving less ATP.",
+    "working": "1 mark each for any two of: proton leak across inner membrane; energy (ATP / proton gradient) used for active transport of pyruvate, ADP, Pi, ATP; reduced NAD from cytoplasm gives fewer ATP; some energy released as heat."
+   }
+  ],
+  "check": "2+2+6 == 10 and 0+0+2 == 2 and 2+0+2 == 4 and 0+2+4 == 6 and 10*2.5+2*1.5+4 == 32.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-066",
+  "topic": "Energy & respiration",
+  "subtopic": "Glycolysis, link reaction & Krebs cycle",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Yeast cells were supplied with glucose in which all the carbon atoms were the radioactive isotope ¹⁴C, in well-aerated conditions. Samples were taken every few seconds and analysed for radioactive compounds.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Suggest the order in which radioactivity would first appear in pyruvate, acetyl coenzyme A, citrate and the 5-carbon compound of the Krebs cycle. Explain your answer.",
+    "marks": 2,
+    "answer": "Pyruvate → acetyl coenzyme A → citrate → 5-carbon compound; glucose is broken down to pyruvate in glycolysis, pyruvate forms acetyl CoA in the link reaction, the acetyl group joins oxaloacetate to form citrate (6C), and citrate is then decarboxylated and dehydrogenated to the 5-carbon compound.",
+    "working": "B1 correct order; B1 explanation linked to glycolysis → link reaction → Krebs cycle (citrate formed before it is converted to the 5C compound). Note: labelled CO₂ would appear as early as acetyl CoA, from the link reaction."
+   },
+   {
+    "label": "b",
+    "text": "When the experiment was repeated with yeast in the absence of oxygen, radioactivity appeared in pyruvate, ethanal, ethanol and CO₂, but not in citrate. Explain these results.",
+    "marks": 3,
+    "answer": "Without oxygen the ETC stops so reduced NAD is not reoxidised in mitochondria; the link reaction and Krebs cycle stop, so no citrate; pyruvate is decarboxylated to ethanal (releasing labelled CO₂) and ethanal is reduced to ethanol by reduced NAD, regenerating NAD for glycolysis.",
+    "working": "1 mark each for any three of: no oxygen as final acceptor → Krebs cycle / link reaction stop; so no citrate; pyruvate decarboxylated to ethanal (labelled CO₂); ethanal reduced to ethanol using reduced NAD; NAD regenerated so glycolysis continues."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-067",
+  "topic": "Energy & respiration",
+  "subtopic": "Oxidative phosphorylation & mitochondria",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how the structure of a mitochondrion is related to its function in aerobic respiration.",
+    "marks": 4,
+    "answer": "Inner membrane folded into cristae → large surface area for electron carriers and ATP synthase; inner membrane impermeable to protons so a gradient can be maintained; small intermembrane space so proton concentration builds up quickly; matrix contains enzymes for the link reaction and Krebs cycle, and contains NAD, FAD and its own DNA and ribosomes to make some proteins.",
+    "working": "1 mark each for any four of: cristae give large surface area; for ETC / ATP synthase; inner membrane impermeable to H⁺; small intermembrane space for high H⁺ concentration; matrix enzymes for link reaction and Krebs cycle; matrix has coenzymes / NAD / FAD; own DNA and 70S ribosomes; outer membrane has transport proteins for pyruvate."
+   },
+   {
+    "label": "b",
+    "text": "Heart muscle cells have mitochondria with many more cristae than mitochondria in skin cells. Suggest why.",
+    "marks": 1,
+    "answer": "Heart muscle contracts continuously and needs a lot of ATP, so it needs more ETC and ATP synthase.",
+    "working": "B1 more ATP needed for constant contraction → more sites for oxidative phosphorylation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-068",
+  "topic": "Energy & respiration",
+  "subtopic": "Oxidative phosphorylation & mitochondria",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the energy in reduced NAD is used to synthesise ATP by oxidative phosphorylation.",
+    "marks": 6,
+    "answer": "Reduced NAD gives hydrogen to the first carrier on the inner membrane; hydrogen splits into H⁺ and an electron; electrons pass along a chain of carriers in a series of redox reactions; energy released is used to pump H⁺ from the matrix into the intermembrane space; a proton gradient forms; H⁺ diffuse back through ATP synthase (chemiosmosis); this provides energy to combine ADP and Pi; oxygen is the final electron acceptor, combining with electrons and H⁺ to form water.",
+    "working": "1 mark each for any six of: NAD reoxidised / hydrogen released at inner membrane (cristae); H → H⁺ + e⁻; electrons passed along carriers (ETC), redox reactions; energy released pumps H⁺ into intermembrane space; proton (electrochemical) gradient; H⁺ flow back through ATP synthase by facilitated diffusion / chemiosmosis; ADP + Pi → ATP; oxygen final electron acceptor; forms water."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-069",
+  "topic": "Energy & respiration",
+  "subtopic": "Oxidative phosphorylation & mitochondria",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "The compound 2,4-dinitrophenol (DNP) makes the inner mitochondrial membrane permeable to protons. It was once sold as a slimming drug but caused deaths.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why DNP reduces the production of ATP.",
+    "marks": 2,
+    "answer": "Protons leak back into the matrix through the membrane instead of through ATP synthase, so the proton gradient is lost and ATP synthase cannot make ATP.",
+    "working": "B1 H⁺ return without passing through ATP synthase / proton gradient dissipated; B1 so less chemiosmosis / ADP not phosphorylated."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why the rate of oxygen uptake by the cells increased when DNP was added, and why the body temperature of people who took DNP rose.",
+    "marks": 3,
+    "answer": "The electron transport chain continues (or speeds up) because there is no build-up of protons to slow it, so more oxygen is used as final acceptor; energy from electron transport is released as heat instead of being used to make ATP; cells respire more substrate to try to meet ATP demand.",
+    "working": "B1 ETC still runs / faster because back-pressure of proton gradient removed; B1 more oxygen reduced to water; B1 energy released as heat rather than trapped in ATP (more substrate respired)."
+   },
+   {
+    "label": "c",
+    "text": "Brown fat cells in newborn babies contain a protein that lets protons pass through the inner membrane. Suggest the advantage of this.",
+    "marks": 1,
+    "answer": "Generates heat to maintain body temperature.",
+    "working": "B1 produces heat (thermoregulation) instead of ATP."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-070",
+  "topic": "Energy & respiration",
+  "subtopic": "Oxidative phosphorylation & mitochondria",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The complete oxidation of one mole of glucose releases 2870 kJ. Hydrolysis of one mole of ATP releases 30.5 kJ. Using a yield of 32 ATP per glucose, calculate the efficiency of aerobic respiration. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "34.0 %",
+    "working": "M1 32 × 30.5 = 976 kJ; A1 976/2870 × 100 = 34.0 %."
+   },
+   {
+    "label": "b",
+    "text": "State what happens to the rest of the energy.",
+    "marks": 1,
+    "answer": "It is released as heat.",
+    "working": "B1 heat (helps maintain body temperature in mammals and birds)."
+   },
+   {
+    "label": "c",
+    "text": "Anaerobic respiration in muscle produces only 2 ATP per glucose. Calculate the efficiency of anaerobic respiration, assuming the same 2870 kJ per mole of glucose, and suggest why this comparison is not entirely fair.",
+    "marks": 2,
+    "answer": "2.1 %; much of the energy is still in lactate, which can be oxidised later, so the energy is not all lost.",
+    "working": "B1 2 × 30.5/2870 × 100 = 2.1 %; B1 lactate still contains chemical energy / can be converted back to pyruvate and respired."
+   }
+  ],
+  "check": "round(32*30.5/2870*100,1) == 34.0 and round(2*30.5/2870*100,1) == 2.1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-071",
+  "topic": "Energy & respiration",
+  "subtopic": "Oxidative phosphorylation & mitochondria",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Cyanide binds to the last carrier in the electron transport chain so that electrons cannot be passed to oxygen. Explain why cyanide quickly stops ATP production in the mitochondria.",
+    "marks": 3,
+    "answer": "Electrons cannot leave the chain, so carriers stay reduced and the chain stops; no protons are pumped, so no proton gradient and ATP synthase stops; reduced NAD and FAD cannot be reoxidised, so the Krebs cycle and link reaction also stop.",
+    "working": "B1 electron flow along ETC stops (carriers remain reduced); B1 no H⁺ pumped / no proton gradient so no ATP synthesis by ATP synthase; B1 NAD / FAD not regenerated → Krebs cycle and link reaction stop."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why the concentration of lactate in the blood rises in a person poisoned with cyanide.",
+    "marks": 2,
+    "answer": "Cells can only make ATP by glycolysis; to regenerate NAD, pyruvate is reduced to lactate by lactate dehydrogenase, so lactate accumulates.",
+    "working": "B1 cells rely on anaerobic respiration / glycolysis only; B1 pyruvate converted to lactate to reoxidise NAD."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-072",
+  "topic": "Energy & respiration",
+  "subtopic": "Anaerobic respiration",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare anaerobic respiration in yeast with anaerobic respiration in mammalian muscle.",
+    "marks": 4,
+    "answer": "Similarities: both start with glycolysis, both reoxidise reduced NAD, both produce 2 ATP per glucose. Differences: yeast produces ethanol and CO₂, muscle produces lactate and no CO₂; yeast pathway has two steps (pyruvate decarboxylated to ethanal by pyruvate decarboxylase, then ethanal reduced to ethanol by alcohol dehydrogenase), muscle has one step (pyruvate reduced to lactate by lactate dehydrogenase); lactate can be converted back to pyruvate, ethanol is not converted back to pyruvate and is lost from the cells.",
+    "working": "1 mark each for any four, at least one similarity and one difference: both use glycolysis / net 2 ATP; both regenerate NAD; yeast ethanol + CO₂ vs muscle lactate; hydrogen acceptor ethanal vs pyruvate; enzymes named (pyruvate decarboxylase & alcohol dehydrogenase vs lactate dehydrogenase); decarboxylation only in yeast; lactate reconverted in liver vs ethanol not converted back."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the regeneration of NAD is essential for anaerobic respiration.",
+    "marks": 1,
+    "answer": "NAD is needed for glycolysis to continue (to oxidise triose phosphate), which is the only source of ATP.",
+    "working": "B1 so glycolysis can continue producing ATP."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-073",
+  "topic": "Energy & respiration",
+  "subtopic": "Anaerobic respiration",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Rice is grown in flooded paddy fields across Punjab and Sindh.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how rice plants are adapted to grow with their roots in flooded paddy fields with very little oxygen.",
+    "marks": 4,
+    "answer": "Aerenchyma (large air spaces) in stems and roots allow oxygen to diffuse from the leaves to the roots; roots tolerate high ethanol concentrations; roots have high levels of alcohol dehydrogenase so ethanol is broken down / anaerobic respiration continues; stems grow rapidly to keep leaves above water; shallow roots / leaves have water-repellent surfaces trapping air.",
+    "working": "1 mark each for any four of: aerenchyma / air spaces; oxygen diffuses to roots from aerial parts; root cells tolerant of ethanol; high alcohol dehydrogenase activity; respire anaerobically producing ethanol; fast-growing stems keep leaves above water; air film on leaf surfaces."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why rice roots can respire anaerobically for long periods but most crop roots cannot.",
+    "marks": 1,
+    "answer": "In most crops ethanol builds up to toxic levels, killing the root cells.",
+    "working": "B1 ethanol toxicity in other species / rice breaks down or tolerates ethanol."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-074",
+  "topic": "Energy & respiration",
+  "subtopic": "Anaerobic respiration",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A sprinter's blood lactate concentration was measured before, during and after a 400 m race.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Assuming aerobic respiration yields 32 ATP per glucose and anaerobic respiration 2 ATP, calculate how many times faster glucose must be broken down anaerobically to give the same rate of ATP production.",
+    "marks": 1,
+    "answer": "16 times",
+    "working": "B1 32/2 = 16."
+   },
+   {
+    "label": "b",
+    "text": "Explain why blood lactate concentration rises during a 400 m sprint and continues to rise for a few minutes after the race.",
+    "marks": 3,
+    "answer": "During the sprint oxygen supply to muscles cannot meet demand, so muscle cells respire anaerobically and pyruvate is reduced to lactate; lactate diffuses into the blood; after the race lactate still diffuses out of muscle cells into the blood before the liver removes it.",
+    "working": "B1 insufficient oxygen supply to muscle / demand for ATP exceeds aerobic supply; B1 lactate produced from pyruvate (to regenerate NAD); B1 lactate continues to diffuse from muscle into blood after exercise (removal by liver slower)."
+   },
+   {
+    "label": "c",
+    "text": "Describe what happens to lactate after exercise.",
+    "marks": 2,
+    "answer": "Lactate is carried in the blood to the liver, oxidised back to pyruvate (using oxygen – the oxygen debt), which is either respired aerobically or converted to glucose / glycogen.",
+    "working": "B1 transported to liver; B1 converted to pyruvate, then respired or converted to glucose / glycogen (requires extra oxygen)."
+   }
+  ],
+  "check": "32//2 == 16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-075",
+  "topic": "Energy & respiration",
+  "subtopic": "Respiratory substrates, RQ & respirometers",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define respiratory quotient (RQ).",
+    "marks": 1,
+    "answer": "RQ = volume of carbon dioxide produced ÷ volume of oxygen used in the same time.",
+    "working": "B1 CO₂ given out ÷ O₂ taken in."
+   },
+   {
+    "label": "b",
+    "text": "The equation for the complete oxidation of the lipid tripalmitin is\n2C₅₁H₉₈O₆ + 145O₂ → 102CO₂ + 98H₂O\nCalculate the RQ of tripalmitin. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "0.70",
+    "working": "M1 102/145; A1 0.70."
+   },
+   {
+    "label": "c",
+    "text": "State the RQ you would expect for respiration of carbohydrate and of protein.",
+    "marks": 2,
+    "answer": "Carbohydrate 1.0; protein about 0.9.",
+    "working": "B1 carbohydrate 1.0; B1 protein 0.9 (accept 0.8–0.9)."
+   }
+  ],
+  "check": "round(102/145,2) == 0.70",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-076",
+  "topic": "Energy & respiration",
+  "subtopic": "Respiratory substrates, RQ & respirometers",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Two respirometers contained equal masses of germinating sunflower seeds at 25 °C. Tube A contained potassium hydroxide solution; tube B contained water instead. In 20 minutes the liquid in the capillary of tube A moved 36 mm towards the seeds and in tube B it moved 9 mm towards the seeds. Both capillaries had the same diameter.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the liquid moves towards the seeds in tube A.",
+    "marks": 2,
+    "answer": "The seeds take in oxygen for aerobic respiration; the CO₂ they release is absorbed by potassium hydroxide, so the volume of gas falls and the pressure decreases.",
+    "working": "B1 oxygen used in respiration; B1 CO₂ absorbed by KOH so gas volume / pressure in the tube decreases."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the RQ of the seeds.",
+    "marks": 2,
+    "answer": "0.75",
+    "working": "M1 O₂ uptake = 36 mm; CO₂ output = 36 − 9 = 27 mm; A1 RQ = 27/36 = 0.75."
+   },
+   {
+    "label": "c",
+    "text": "Suggest which respiratory substrate the seeds were mainly using. Explain your answer.",
+    "marks": 1,
+    "answer": "A mixture of lipid and carbohydrate (or mainly lipid), because 0.75 is between 0.7 (lipid) and 1.0 (carbohydrate) and close to 0.7.",
+    "working": "B1 lipid (with some carbohydrate), RQ between 0.7 and 1.0 / close to 0.7."
+   }
+  ],
+  "check": "(36-9)/36 == 0.75",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-077",
+  "topic": "Energy & respiration",
+  "subtopic": "Respiratory substrates, RQ & respirometers",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A respirometer containing 5.0 g of germinating mung bean seeds and soda lime was kept at 30 °C. The coloured liquid in the capillary tube (internal radius 0.5 mm) moved 24 mm in 10 minutes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the rate of oxygen uptake in mm³ per gram per hour. Give your answer to 3 significant figures.",
+    "marks": 3,
+    "answer": "22.6 mm³ g⁻¹ h⁻¹",
+    "working": "M1 volume = π r² l = π × 0.5² × 24 = 18.85 mm³; M1 ÷ 5.0 g ÷ (10/60) h; A1 22.6."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a thermobarometer (an identical tube with glass beads instead of seeds) should be set up alongside the respirometer.",
+    "marks": 2,
+    "answer": "Changes in temperature or atmospheric pressure would make the liquid move even without respiration; the thermobarometer measures this movement so it can be subtracted (or used to correct the readings).",
+    "working": "B1 temperature / atmospheric pressure changes alter gas volume; B1 allows correction of readings for these changes."
+   },
+   {
+    "label": "c",
+    "text": "During the first two days of germination of castor bean seeds, which store mainly lipid, the RQ was 0.71; by day 10, when the seedlings had green leaves, it was 0.98. Suggest an explanation.",
+    "marks": 2,
+    "answer": "At first the seeds respire stored lipid (RQ about 0.7); later the lipid stores are used up and the seedlings photosynthesise, so they respire carbohydrate (RQ about 1.0).",
+    "working": "B1 early: lipid stores respired; B1 later: carbohydrate (from photosynthesis / converted from lipid) respired."
+   }
+  ],
+  "check": "abs(math.pi*0.5**2*24/5.0/(10/60) - 22.6) < 0.05",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-078",
+  "topic": "Energy & respiration",
+  "subtopic": "ATP & energy",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the structure of an ATP molecule.",
+    "marks": 2,
+    "answer": "Adenine (a base) joined to ribose (a pentose sugar) and three phosphate groups.",
+    "working": "B1 adenine + ribose; B1 three phosphate groups."
+   },
+   {
+    "label": "b",
+    "text": "Explain why ATP is described as the universal energy currency of cells.",
+    "marks": 3,
+    "answer": "It is used for energy transfer in all organisms / cells; hydrolysis of ATP to ADP and Pi releases energy in small, manageable amounts; it is water soluble and easily transported within cells; it is quickly re-made from ADP and Pi; one molecule type can be used by many different reactions.",
+    "working": "1 mark each for any three of: found in all living cells; hydrolysis releases a small, suitable amount of energy (about 30 kJ mol⁻¹); single step reaction, quick; soluble / moves easily in cell; easily regenerated; links energy-releasing and energy-requiring reactions."
+   },
+   {
+    "label": "c",
+    "text": "Name the two ways ATP is synthesised in respiration.",
+    "marks": 1,
+    "answer": "Substrate-level phosphorylation and oxidative phosphorylation (chemiosmosis).",
+    "working": "B1 both named."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-079",
+  "topic": "Energy & respiration",
+  "subtopic": "ATP & energy",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Mean energy values of respiratory substrates (kJ g⁻¹): carbohydrate 15.8; lipid 39.4; protein 17.0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate how many times more energy is released per gram from lipid than from carbohydrate. Give your answer to 2 significant figures.",
+    "marks": 1,
+    "answer": "2.5 times",
+    "working": "B1 39.4/15.8 = 2.494 ≈ 2.5."
+   },
+   {
+    "label": "b",
+    "text": "Explain why lipids release more energy per gram than carbohydrates when respired.",
+    "marks": 3,
+    "answer": "Lipids contain more hydrogen atoms per unit mass (fatty acids are long hydrocarbon chains); most energy comes from oxidising hydrogen in the ETC: more hydrogen means more reduced NAD/FAD, more protons pumped and more ATP; carbohydrates contain more oxygen and are already partly oxidised.",
+    "working": "1 mark each for any three of: more H atoms per gram in lipid; hydrogen carried by NAD / FAD to ETC; more protons pumped / greater proton gradient; more ATP produced by oxidative phosphorylation; carbohydrates contain proportionally more oxygen."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why migratory birds such as Siberian cranes that fly to Pakistan each winter store lipid rather than carbohydrate before migration.",
+    "marks": 1,
+    "answer": "Lipid gives more energy per unit mass, so the bird carries less weight for the same energy store (and produces metabolic water).",
+    "working": "B1 more energy per gram so lighter load (accept metabolic water)."
+   }
+  ],
+  "check": "round(39.4/15.8,1) == 2.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-080",
+  "topic": "Energy & respiration",
+  "subtopic": "ATP & energy",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "An adult body contains about 250 g of ATP at any one time, yet hydrolyses about 70 kg of ATP per day.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean number of times each ATP molecule is resynthesised from ADP and Pi per day.",
+    "marks": 1,
+    "answer": "280 times",
+    "working": "B1 70 × 1000 / 250 = 280."
+   },
+   {
+    "label": "b",
+    "text": "The relative molecular mass of ATP is 507. Hydrolysis of one mole releases 30.5 kJ. Calculate the energy released per day by hydrolysis of ATP, in kJ, to 3 significant figures.",
+    "marks": 2,
+    "answer": "4210 kJ",
+    "working": "M1 moles = 70 000/507 = 138.1 mol; A1 × 30.5 = 4211 ≈ 4210 kJ."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why cells do not store large amounts of ATP.",
+    "marks": 2,
+    "answer": "ATP is unstable / readily hydrolysed so cannot be stored for long; it is quickly regenerated from ADP and Pi when needed, so a small pool recycled rapidly is enough; energy is stored instead in glycogen or lipid.",
+    "working": "1 mark each for any two of: ATP unstable / hydrolyses easily; rapid turnover from ADP + Pi makes storage unnecessary; would affect water potential / takes up space; energy stored as glycogen / starch / lipid instead."
+   }
+  ],
+  "check": "round(70*1000/250) == 280 and round(70*1000/507*30.5, -1) == 4210",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-081",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: planning a method",
+  "paper": "5",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Methylene blue is a redox indicator that turns colourless when it is reduced by the hydrogen released by dehydrogenase enzymes in respiring yeast. Describe a method to investigate the effect of temperature on the rate of respiration of yeast using methylene blue.",
+    "marks": 7,
+    "answer": "Prepare yeast suspension (e.g. 10 g dried yeast in 100 cm³ of 5 % glucose solution) and leave to activate; place 10 cm³ yeast suspension in tubes in thermostatically controlled water baths at 5 temperatures (e.g. 20, 30, 40, 50, 60 °C) for 10 min to equilibrate; add 1 cm³ of 0.05 % methylene blue, mix by inverting once, start timer; record time for blue colour to disappear (compare with a colour standard of yeast suspension without indicator); do not shake (oxygen would reoxidise the dye); control: boiled yeast; rate = 1/time; 3 repeats at each temperature and mean; standardise yeast concentration, glucose concentration and volume, dye volume and concentration.",
+    "working": "1 mark each for any seven of: at least 5 temperatures with suitable range; method of controlling temperature (water bath, thermometer check); equilibration of yeast and dye separately before mixing; same volume and concentration of yeast suspension; same concentration of glucose; same volume of methylene blue; measure time taken to decolourise; end point standardised (colour standard); avoid shaking / cover with liquid paraffin to keep oxygen out; control with boiled yeast; rate = 1/t; 3 repeats and mean; safety (e.g. methylene blue stains, hot water)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-082",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: planning a method",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A student wants to find out whether yeast respires glucose, sucrose, maltose and lactose at different rates.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how you would make 50 cm³ of a 2 % sugar solution of each sugar, from solid sugar and distilled water.",
+    "marks": 2,
+    "answer": "Weigh 1.0 g of sugar, dissolve in some distilled water and make up to 50 cm³ in a volumetric flask (or measuring cylinder).",
+    "working": "M1 2 g per 100 cm³ → 1.0 g per 50 cm³; A1 dissolve and make up to total volume 50 cm³."
+   },
+   {
+    "label": "b",
+    "text": "Describe how the student could compare the rate of respiration of yeast with each sugar by measuring carbon dioxide production.",
+    "marks": 4,
+    "answer": "Mix the same volume (e.g. 20 cm³) of each sugar solution with the same mass of yeast (e.g. 1 g) in a flask connected to a gas syringe; keep at 30 °C in a water bath; allow 5 min to equilibrate; measure volume of gas collected every minute for 10 min (or total volume in a fixed time); rate = volume ÷ time; control with water and no sugar; repeat 3 times.",
+    "working": "1 mark each for any four of: same yeast mass / suspension volume; same volume and concentration of each sugar; collect CO₂ in gas syringe / inverted measuring cylinder over water; constant temperature water bath; equilibration time; measure volume over a fixed time / calculate rate; control with no sugar; repeats and mean."
+   }
+  ],
+  "check": "2/100*50 == 1.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-083",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: calculations & data processing",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "The time taken for methylene blue to decolourise in tubes of yeast suspension at different temperatures:\n20 °C: 480 s\n30 °C: 300 s\n40 °C: 190 s\n50 °C: 120 s\n60 °C: 260 s",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the rate of respiration at each temperature as 1000/t, where t is time in seconds. Give your answers to 1 decimal place.",
+    "marks": 2,
+    "answer": "20 °C: 2.1; 30 °C: 3.3; 40 °C: 5.3; 50 °C: 8.3; 60 °C: 3.8 (arbitrary units)",
+    "working": "M1 1000/t for each; A1 all five correct to 1 d.p."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage increase in rate between 20 °C and 50 °C, using unrounded rates. Give your answer to the nearest whole number.",
+    "marks": 2,
+    "answer": "300 %",
+    "working": "M1 (1000/120 − 1000/480) ÷ (1000/480) × 100 = (8.333 − 2.083)/2.083 × 100; A1 300 % (allow 295 % from rounded rates 8.3 and 2.1)."
+   }
+  ],
+  "check": "[round(1000/t,1) for t in [480, 300, 190, 120, 260]] == [2.1, 3.3, 5.3, 8.3, 3.8] and round((1000/120-1000/480)/(1000/480)*100) == 300",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-084",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: calculations & data processing",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A respirometer containing 2.0 g of woodlice and soda lime was set up at 20 °C. The distance moved by the liquid in the capillary (radius 0.4 mm) from the start was recorded.\n1 min: 8 mm\n2 min: 17 mm\n3 min: 25 mm\n4 min: 33 mm\n5 min: 42 mm",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the volume of oxygen absorbed between the readings at 1 minute and 5 minutes. Use V = πr²l and give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "17.1 mm³",
+    "working": "M1 l = 42 − 8 = 34 mm; A1 π × 0.4² × 34 = 17.1 mm³."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the rate of oxygen uptake in mm³ per gram per hour. Give your answer to 3 significant figures.",
+    "marks": 2,
+    "answer": "128 mm³ g⁻¹ h⁻¹",
+    "working": "M1 17.09/4 min × 60 = per hour; ÷ 2.0 g; A1 128."
+   }
+  ],
+  "check": "abs(math.pi*0.4**2*34 - 17.1) < 0.05 and abs(math.pi*0.4**2*34/4*60/2.0 - 128.0) < 0.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-085",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: errors, reliability & improvements",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A student measured the oxygen uptake of germinating seeds using a simple respirometer on the laboratory bench next to a sunny window. She sealed the tube with a rubber bung, started timing immediately and took one reading of the position of the liquid after 15 minutes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify three sources of error in this investigation and suggest an improvement for each.",
+    "marks": 6,
+    "answer": "e.g. room temperature changed during the experiment → place respirometer in a thermostatically controlled water bath; no thermobarometer, so pressure changes not allowed for → set up a control tube with glass beads of the same volume; leaks at joints → seal with petroleum jelly and test for leaks; difficult to read meniscus position → use a scale with mm divisions and read at eye level / mark with fine pen; seeds not given time to equilibrate → leave for 10 min with tap open before starting; only one reading → repeat three times.",
+    "working": "For each of three: B1 error relevant to this method; B1 matching improvement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-086",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: variables & controls",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student used respirometers to investigate the effect of temperature on the rate of respiration of fly maggots.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the independent variable, the dependent variable and two standardised variables.",
+    "marks": 3,
+    "answer": "IV: temperature. DV: rate of oxygen uptake (distance moved by liquid per minute). Standardised (any two): mass of maggots; number / age / species of maggots; volume and mass of soda lime; diameter of capillary; time allowed to equilibrate; time of measurement.",
+    "working": "B1 IV temperature; B1 DV rate of oxygen uptake / distance per unit time; B1 any two standardised variables."
+   },
+   {
+    "label": "b",
+    "text": "Suggest a control for this experiment and explain why it is needed.",
+    "marks": 2,
+    "answer": "A respirometer with an equal volume of glass beads (or dead maggots) instead of living maggots, to show that movement of the liquid is due to respiration and to correct for temperature and pressure changes.",
+    "working": "B1 tube with glass beads / no living organisms; B1 shows changes are due to respiration / allows correction."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-087",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: explaining results with biology",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Yeast was added to a sealed flask containing 5 % glucose solution at 30 °C. The total volume of CO₂ released (cm³) was recorded every 10 hours.\n0 h: 0\n10 h: 4\n20 h: 11\n30 h: 19\n40 h: 24\n50 h: 26\n60 h: 26",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the changes in the total volume of CO₂ produced over the 60 hours.",
+    "marks": 2,
+    "answer": "CO₂ production rose slowly at first (0–10 h), then rapidly between 10 and 30 h, then slowed and stopped at 26 cm³ after 50 h.",
+    "working": "B1 initial slow increase then rapid increase; B1 levels off / no further increase at 26 cm³ from 50 h."
+   },
+   {
+    "label": "b",
+    "text": "Explain these results using your knowledge of respiration in yeast.",
+    "marks": 4,
+    "answer": "At first the yeast population is small / adjusting, so little CO₂; yeast then multiplies and respires glucose rapidly, aerobically while oxygen lasts then anaerobically, releasing CO₂ in the link reaction and Krebs cycle and by decarboxylation of pyruvate to ethanal; CO₂ production stops because glucose is used up and/or ethanol accumulates to a toxic concentration, killing yeast / inhibiting enzymes.",
+    "working": "1 mark each for any four of: lag – few yeast cells / enzymes being synthesised; population increases so more respiration; oxygen used up so anaerobic respiration (fermentation); CO₂ from decarboxylation (pyruvate → ethanal, or Krebs cycle while aerobic); glucose substrate runs out; ethanol accumulates and is toxic / denatures enzymes; pH falls as CO₂ dissolves."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-088",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: graphs & charts",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "The volume of oxygen absorbed by 20 g of germinating pea seeds was measured.\n0 min: 0.0 cm³\n2 min: 1.8 cm³\n4 min: 3.6 cm³\n6 min: 5.5 cm³\n8 min: 7.3 cm³\n10 min: 9.0 cm³",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how you would plot these results on a graph.",
+    "marks": 3,
+    "answer": "Time (min) on the x-axis and volume of oxygen absorbed (cm³) on the y-axis; both axes labelled with units; scale using more than half the grid with even intervals; points plotted as small crosses; line of best fit drawn (points lie close to a straight line).",
+    "working": "1 mark each for any three of: correct axes orientation; labels with units; suitable linear scale using > half the grid; accurate plotting; ruled line of best fit (or point to point if justified)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the rate of oxygen uptake between 2 and 8 minutes, in cm³ per minute, to 2 significant figures.",
+    "marks": 2,
+    "answer": "0.92 cm³ min⁻¹",
+    "working": "M1 (7.3 − 1.8)/(8 − 2); A1 = 0.917 ≈ 0.92."
+   }
+  ],
+  "check": "round((7.3-1.8)/(8-2),2) == 0.92",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-089",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: hypotheses & predictions",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student plans to measure the rate of CO₂ production by yeast in glucose solutions of 0, 1, 2, 4, 8 and 16 %.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State a suitable hypothesis for this investigation.",
+    "marks": 1,
+    "answer": "The rate of respiration of yeast increases as glucose concentration increases (until a maximum is reached).",
+    "working": "B1 testable hypothesis linking glucose concentration and rate, with direction."
+   },
+   {
+    "label": "b",
+    "text": "Predict the shape of the graph of rate of CO₂ production against glucose concentration and explain your prediction.",
+    "marks": 3,
+    "answer": "Rate increases steeply at low glucose concentrations, then levels off at high concentrations; at low concentration glucose is the limiting factor; at high concentration enzymes / glucose transport proteins are saturated (or yeast concentration limits), so rate cannot rise further; very high concentrations may decrease the rate by causing water loss by osmosis.",
+    "working": "B1 rises then levels off (plateau); B1 glucose limiting at low concentration / more collisions with enzymes; B1 enzymes / carrier proteins saturated or another factor limiting at high concentration (allow fall due to osmotic water loss)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-090",
+  "topic": "Energy & respiration",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "Rate of oxygen uptake by germinating wheat grains (mm³ g⁻¹ h⁻¹) at different temperatures:\n10 °C: 4.2\n20 °C: 8.1\n30 °C: 15.6\n40 °C: 18.0\n50 °C: 6.3",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the effect of temperature on the rate of oxygen uptake.",
+    "marks": 2,
+    "answer": "Rate increases from 4.2 at 10 °C to a maximum of 18.0 at 40 °C, then falls sharply to 6.3 at 50 °C.",
+    "working": "B1 increase up to 40 °C, then decrease; B1 data quoted with units, e.g. maximum 18.0 mm³ g⁻¹ h⁻¹ at 40 °C."
+   },
+   {
+    "label": "b",
+    "text": "Explain the results between 40 °C and 50 °C.",
+    "marks": 2,
+    "answer": "Respiratory enzymes (dehydrogenases, ATP synthase) are denatured: hydrogen bonds break, the active site changes shape so fewer enzyme–substrate complexes form.",
+    "working": "B1 enzymes denatured / bonds in tertiary structure broken; B1 active site shape changed, substrate no longer fits."
+   },
+   {
+    "label": "c",
+    "text": "A student concluded that the optimum temperature for respiration in these seeds is 40 °C. Evaluate this conclusion.",
+    "marks": 2,
+    "answer": "The highest rate recorded was at 40 °C, but the true optimum could be anywhere between 30 and 50 °C because readings were taken only every 10 °C; more readings between 35 and 45 °C would be needed; no repeats shown.",
+    "working": "B1 highest rate at 40 °C so supports; B1 large intervals — optimum could be between 30 and 50 °C / need smaller intervals / repeats."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-091",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "One student in Islamabad skipped for different lengths of time and measured her pulse rate immediately afterwards, resting for 15 minutes between trials.\n0 min: 72 beats per minute\n1 min: 98 beats per minute\n2 min: 118 beats per minute\n3 min: 131 beats per minute\n4 min: 134 beats per minute",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the relationship between the duration of skipping and the pulse rate.",
+    "marks": 2,
+    "answer": "Pulse rate increases as duration increases, from 72 beats per minute at rest to 134 after 4 minutes; the increase gets smaller each minute and the rate levels off between 3 and 4 minutes.",
+    "working": "B1 positive relationship / increases; B1 levels off (increase of only 3 between 3 and 4 min) with data quote."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage increase in pulse rate after 2 minutes compared with resting.",
+    "marks": 2,
+    "answer": "64 %",
+    "working": "M1 (118 − 72)/72 × 100; A1 63.9 ≈ 64 %."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why these results cannot be used to draw a conclusion about all students.",
+    "marks": 1,
+    "answer": "Only one student was tested (no repeats, no range of ages, fitness or sex).",
+    "working": "B1 single individual / small sample."
+   }
+  ],
+  "check": "round((118-72)/72*100) == 64",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-092",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "100 wheat grains were placed on filter paper soaked in sodium chloride solutions of different concentration. The percentage that germinated after 7 days was recorded.\n0 mmol dm⁻³: 96 %\n50 mmol dm⁻³: 90 %\n100 mmol dm⁻³: 71 %\n150 mmol dm⁻³: 38 %\n200 mmol dm⁻³: 9 %",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State a conclusion that can be drawn from the data.",
+    "marks": 1,
+    "answer": "Increasing salt concentration decreases the percentage germination of wheat seeds (most sharply above 50 mmol dm⁻³).",
+    "working": "B1 higher salt concentration → lower germination."
+   },
+   {
+    "label": "b",
+    "text": "Use your knowledge of water potential to explain the results.",
+    "marks": 3,
+    "answer": "Salt lowers the water potential of the solution; the water potential gradient between the solution and the seed is reduced (or reversed), so less water enters the seed by osmosis; water is needed to activate enzymes / mobilise food stores (e.g. amylase hydrolysing starch) so fewer seeds germinate.",
+    "working": "B1 solution has lower (more negative) water potential; B1 less water absorbed by osmosis / imbibition; B1 water needed for enzyme activity / hydrolysis of stores / cell expansion."
+   },
+   {
+    "label": "c",
+    "text": "Farmers in parts of Punjab have soils that are becoming more saline. Suggest one further investigation that would help them choose which wheat variety to plant.",
+    "marks": 1,
+    "answer": "Compare germination (or growth) of several varieties at the same salt concentrations found in their soil.",
+    "working": "B1 compare different varieties at a range of salt concentrations / test using their own soil samples."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-093",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A student measured the light intensity and the height of 12 plants of one species growing along a path from under trees into open ground. Spearman's rank correlation coefficient, rs, was calculated as 0.81.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what the value of rs shows about the relationship between the two variables.",
+    "marks": 1,
+    "answer": "A strong positive correlation: plants receiving more light grew taller.",
+    "working": "B1 strong positive correlation."
+   },
+   {
+    "label": "b",
+    "text": "The critical value of rs at p = 0.05 for 12 pairs of readings is 0.587. State what the student can conclude.",
+    "marks": 2,
+    "answer": "0.81 > 0.587 so the null hypothesis (no correlation) is rejected; the positive correlation is significant – the probability it is due to chance is less than 5 %.",
+    "working": "B1 compares rs with critical value correctly; B1 reject null / significant correlation (not due to chance)."
+   },
+   {
+    "label": "c",
+    "text": "The student then concluded that light intensity causes plants to grow taller. Explain why this conclusion is not fully justified by the data.",
+    "marks": 2,
+    "answer": "Correlation does not show cause; other factors that vary with light in the field (e.g. soil moisture, temperature, nutrient levels, trampling) were not controlled and may affect height.",
+    "working": "B1 correlation ≠ causation; B1 named uncontrolled variable that could vary with position."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-094",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Potato cylinders were left in sucrose solutions for 24 hours. The mean percentage change in mass was:\n0 mol dm⁻³: +12.4 %\n0.2 mol dm⁻³: +5.8 %\n0.4 mol dm⁻³: −1.6 %\n0.6 mol dm⁻³: −7.9 %\n0.8 mol dm⁻³: −12.1 %",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Estimate the sucrose concentration at which there would be no change in mass, assuming a straight line between the two readings either side of zero. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "0.36 mol dm⁻³",
+    "working": "M1 between 0.2 (+5.8 %) and 0.4 (−1.6 %): 0.2 + 5.8/7.4 × 0.2; A1 0.36 mol dm⁻³."
+   },
+   {
+    "label": "b",
+    "text": "Explain what this concentration tells you about the potato tissue.",
+    "marks": 2,
+    "answer": "At this concentration the water potential of the sucrose solution equals the water potential of the potato cells, so there is no net movement of water by osmosis.",
+    "working": "B1 water potential of tissue = water potential of solution; B1 no net osmosis / no net water movement."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the results are given as percentage change in mass rather than change in mass.",
+    "marks": 1,
+    "answer": "The cylinders had different starting masses, so percentage change allows a fair comparison.",
+    "working": "B1 different initial masses."
+   }
+  ],
+  "check": "round(0.2+5.8/(5.8+1.6)*0.2,2) == 0.36",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-095",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A student counted the stomata in ten fields of view on each surface of bean (Phaseolus) leaves.\nupper surface: mean 36 stomata per mm², standard deviation 9\nlower surface: mean 248 stomata per mm², standard deviation 22",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare the stomatal density on the two surfaces.",
+    "marks": 2,
+    "answer": "The lower surface has many more stomata (mean 248 per mm²) than the upper surface (mean 36 per mm²), about seven times as many; the lower surface also shows more variation (SD 22 compared with 9).",
+    "working": "B1 lower surface has more stomata, with figures; B1 comparison of spread (SD) or ratio ≈ 7 times."
+   },
+   {
+    "label": "b",
+    "text": "Suggest an advantage to the plant of having most stomata on the lower surface.",
+    "marks": 1,
+    "answer": "Less water loss by transpiration, because the lower surface is shaded and cooler / not in direct sunlight.",
+    "working": "B1 reduces water loss (cooler, shaded, less air movement)."
+   }
+  ],
+  "check": "round(248/36) == 7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-096",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: conclusions & interpreting data",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Students measured their reaction time using a ruler-drop test after drinking either an energy drink or water.\nenergy drink: mean 0.250 s, standard error 0.007 s\nwater: mean 0.270 s, standard error 0.0085 s",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the 95 % confidence interval (mean ± 2 × SE) for each group.",
+    "marks": 2,
+    "answer": "Energy drink: 0.236 to 0.264 s; water: 0.253 to 0.287 s",
+    "working": "B1 0.250 ± 0.014 = 0.236–0.264 s; B1 0.270 ± 0.017 = 0.253–0.287 s."
+   },
+   {
+    "label": "b",
+    "text": "The company that makes the drink claims that it 'significantly improves reaction time'. Use the data to evaluate this claim.",
+    "marks": 3,
+    "answer": "Mean reaction time is shorter after the drink (0.250 s compared with 0.270 s), but the confidence intervals overlap (0.253–0.264 s), so the difference is not shown to be significant; also the sample size, whether the trial was blind, and other variables (sleep, time of day, practice effect) are not stated.",
+    "working": "B1 mean is lower with drink; B1 confidence intervals overlap so difference not significant; B1 further limitation (sample size / no placebo or blinding / practice effect / variables not controlled)."
+   }
+  ],
+  "check": "abs(0.250-2*0.007-0.236)<1e-9 and abs(0.250+2*0.007-0.264)<1e-9 and abs(0.270-2*0.0085-0.253)<1e-9 and abs(0.270+2*0.0085-0.287)<1e-9 and 0.253 < 0.264",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-097",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: planning a method",
+  "paper": "5",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe a method to investigate the effect of pH on the activity of catalase in potato tissue. Catalase breaks down hydrogen peroxide into water and oxygen.",
+    "marks": 6,
+    "answer": "Use buffer solutions at pH 4, 5, 6, 7, 8, 9; cut potato into discs of equal size (cork borer, same diameter and thickness) or use same mass of blended potato; place discs with 5 cm³ of buffer in a boiling tube connected to a gas syringe / upturned measuring cylinder in water; add 5 cm³ of 3 % hydrogen peroxide (same volume and concentration); keep at 25 °C in a water bath; measure volume of oxygen collected in 2 minutes; repeat 3 times at each pH and calculate mean; calculate rate.",
+    "working": "1 mark each for any six of: at least 5 pH values using buffers; same mass / surface area of potato; same volume and concentration of H₂O₂; constant temperature with water bath; collect O₂ in gas syringe or by displacement of water (or count bubbles / measure foam height); measure volume in fixed time / calculate rate; control (boiled potato or no potato); equilibrate tubes before mixing; 3 repeats and mean; safety: goggles as H₂O₂ is an irritant."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-098",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: planning a method",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Using a 1.0 mol dm⁻³ sucrose solution and distilled water, describe how to make 10 cm³ of each of 1.0, 0.8, 0.6, 0.4 and 0.2 mol dm⁻³ sucrose solutions. Present the volumes in a table.",
+    "marks": 2,
+    "answer": "1.0 mol dm⁻³: 10.0 cm³ sucrose + 0.0 cm³ water; 0.8 mol dm⁻³: 8.0 cm³ sucrose + 2.0 cm³ water; 0.6 mol dm⁻³: 6.0 cm³ sucrose + 4.0 cm³ water; 0.4 mol dm⁻³: 4.0 cm³ sucrose + 6.0 cm³ water; 0.2 mol dm⁻³: 2.0 cm³ sucrose + 8.0 cm³ water",
+    "working": "B1 correct volumes of stock (concentration ÷ 1.0 × 10 cm³); B1 correct water volumes making 10 cm³ each, table with headings and units."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a simple dilution was used here rather than a serial dilution.",
+    "marks": 1,
+    "answer": "The concentrations form an even (linear) series; a serial dilution gives concentrations that fall by the same factor each time (e.g. halving).",
+    "working": "B1 equal intervals needed / serial dilution gives proportional (e.g. 1.0, 0.5, 0.25) concentrations."
+   }
+  ],
+  "check": "abs(1.0/1.0*10 - 10.0) < 1e-9 and abs(10-10.0-0.0) < 1e-9 and abs(0.8/1.0*10 - 8.0) < 1e-9 and abs(10-8.0-2.0) < 1e-9 and abs(0.6/1.0*10 - 6.0) < 1e-9 and abs(10-6.0-4.0) < 1e-9 and abs(0.4/1.0*10 - 4.0) < 1e-9 and abs(10-4.0-6.0) < 1e-9 and abs(0.2/1.0*10 - 2.0) < 1e-9 and abs(10-2.0-8.0) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-099",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: planning a method",
+  "paper": "5",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the student could investigate the effect of light intensity on the rate of photosynthesis of the pondweed Hydrilla. Include how variables will be controlled and how the results will be processed.",
+    "marks": 7,
+    "answer": "Place a 5 cm piece of Hydrilla (cut end up) in a boiling tube of 0.2 % sodium hydrogencarbonate solution at 25 °C in a water bath; place a lamp at distances 10, 20, 30, 40, 50 cm (light intensity ∝ 1/d²); use a heat filter / glass of water between lamp and plant; darken the room; allow 5 min to adjust at each distance; count bubbles per minute or collect gas in a photosynthometer / measure length of gas bubble in capillary for 5 min; repeat 3 times and calculate mean rate; plot rate against 1/d².",
+    "working": "1 mark each for any seven of: light intensity varied by lamp distance (≥ 5 distances) and relationship 1/d²; same length / mass of pondweed, same species; constant temperature (water bath / heat shield); excess CO₂ / same concentration of NaHCO₃; other light excluded (dark room); acclimatisation time at each intensity; measure O₂ volume (photosynthometer) or bubble count in fixed time; calculate rate; repeats ≥ 3 and mean; graph of rate against light intensity; safety (lamp hot, electricity near water)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-100",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: planning a method",
+  "paper": "5",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe a method the ecologist could use to compare the abundance of a grass species in a grazed and an ungrazed area of a hillside in the Margalla Hills.",
+    "marks": 6,
+    "answer": "Mark out a 20 m × 20 m area in each site; use random number tables to generate coordinates; place a 0.5 m × 0.5 m quadrat at each coordinate; estimate percentage cover of the grass (or count plants / use a 100-point frame) in each quadrat; at least 20 quadrats per area; sites matched for slope, aspect, altitude and soil type; calculate mean percentage cover for each area; use a t-test to see whether the difference is significant.",
+    "working": "1 mark each for any six of: two areas of equal size marked out; random sampling method (random numbers / coordinates on grid); quadrat size stated; abundance measure (percentage cover / frequency / density) described; at least 10 quadrats per area; areas matched for slope / aspect / soil / altitude; same time of year; calculate mean (and SD); t-test to compare means."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-101",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: planning a method",
+  "paper": "5",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe a method to investigate the effect of temperature on the permeability of beetroot cell membranes, using a colorimeter to measure the amount of red pigment that leaks out.",
+    "marks": 6,
+    "answer": "Cut beetroot cylinders with a cork borer and cut to equal lengths (e.g. 1 cm); rinse in distilled water until no more pigment leaks; place one cylinder in 10 cm³ of distilled water in tubes in water baths at 20, 30, 40, 50, 60, 70 °C for 30 min; remove cylinders, shake tubes; zero colorimeter with distilled water using a blue-green filter; measure absorbance of each solution; 3 repeats at each temperature; calculate mean absorbance.",
+    "working": "1 mark each for any six of: cylinders of same size / surface area (cork borer and ruler); rinsed to remove pigment from cut cells; same volume of water; at least 5 temperatures (range up to ~70 °C) in water baths; water equilibrated before adding cylinders; same time in water; colorimeter zeroed with distilled water / blank; appropriate filter (blue-green); absorbance (or transmission) recorded; repeats and mean."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-102",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A student measured the mean length of leaf hairs (µm) on plants of one species growing at different heights above the valley floor (m) along a hillside in the Swat valley.\nheight 120 m: hair length 14.0 µm\nheight 250 m: hair length 13.1 µm\nheight 380 m: hair length 16.2 µm\nheight 510 m: hair length 18.5 µm\nheight 640 m: hair length 17.9 µm\nheight 770 m: hair length 21.4 µm\nheight 900 m: hair length 24.0 µm\nheight 1030 m: hair length 22.8 µm",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Spearman's rank correlation coefficient, rs, using rs = 1 − 6Σd² ÷ (n³ − n). Show your working. Give your answer to 2 decimal places.",
+    "marks": 3,
+    "answer": "rs = 0.93",
+    "working": "B1 ranks for height 1–8; ranks for leaf length 2, 1, 3, 5, 4, 6, 8, 7; M1 Σd² = 6; A1 rs = 1 − 6 × 6/(512 − 8) = 0.93."
+   },
+   {
+    "label": "b",
+    "text": "The critical value at p = 0.05 for 8 pairs of readings is 0.738. State and explain the conclusion.",
+    "marks": 2,
+    "answer": "rs = 0.93 > 0.738, so reject the null hypothesis: there is a significant positive correlation between height above the valley floor and leaf hair length.",
+    "working": "B1 compares with critical value; B1 significant positive correlation / reject null hypothesis."
+   },
+   {
+    "label": "c",
+    "text": "Explain why Spearman's rank was a suitable test for these data.",
+    "marks": 1,
+    "answer": "The investigation looks for a correlation between two variables measured on the same plants / data may not be normally distributed; at least 5 (here 8) pairs.",
+    "working": "B1 testing for correlation between two variables (non-normally distributed data / paired readings)."
+   }
+  ],
+  "check": "(1-2)**2+(2-1)**2+(3-3)**2+(4-5)**2+(5-4)**2+(6-6)**2+(7-8)**2+(8-7)**2 == 6 and round(1-6*6/(8**3-8),2) == 0.93 and 1-6*6/(8**3-8) > 0.738",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-103",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A student counted the number of seeds in six pea pods from one plant: 23, 27, 25, 31, 22, 28.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean number of seeds per pod.",
+    "marks": 1,
+    "answer": "26",
+    "working": "B1 156/6 = 26."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the standard deviation using s = √[Σ(x − x̄)² ÷ (n − 1)]. Give your answer to 2 decimal places.",
+    "marks": 3,
+    "answer": "3.35",
+    "working": "M1 deviations: -3, 1, -1, 5, -4, 2; M1 Σ(x − x̄)² = 56; A1 √(56/5) = 3.35."
+   },
+   {
+    "label": "c",
+    "text": "State what the standard deviation shows about the data.",
+    "marks": 1,
+    "answer": "It shows the spread of the values around the mean (about 68 % of values lie within one SD of the mean).",
+    "working": "B1 spread / variation of data about the mean."
+   }
+  ],
+  "check": "sum([23, 27, 25, 31, 22, 28])/6 == 26 and round(math.sqrt(sum([(i-26)**2 for i in [23, 27, 25, 31, 22, 28]])/5),2) == 3.35",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-104",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+  "paper": "5",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For each investigation, name the most suitable statistical test and give a reason.\n(i) comparing the mean body length of two populations of snails\n(ii) testing whether the number of hours of sunshine is correlated with the number of butterflies seen\n(iii) testing whether the observed numbers of red-flowered and white-flowered plants fit an expected 3 : 1 ratio",
+    "marks": 3,
+    "answer": "(i) t-test – compares two means of continuous, normally distributed data; (ii) Spearman's rank correlation – tests for a correlation between two variables; (iii) chi-squared test – compares observed and expected frequencies of categories.",
+    "working": "B1 each test with reason."
+   },
+   {
+    "label": "b",
+    "text": "State the null hypothesis for investigation (i).",
+    "marks": 1,
+    "answer": "There is no significant difference between the mean body lengths of the two snail populations.",
+    "working": "B1 no significant difference between the means of the two named populations."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-105",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: statistics (SD, SE, CI, t-test, Spearman, chi-squared)",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Wing lengths (in arbitrary units) of fruit flies reared at two temperatures.\n28 °C: n = 7, mean 68.4, standard deviation 4.1\n18 °C: n = 9, mean 74.9, standard deviation 5.3",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the value of t using t = |x̄₁ − x̄₂| ÷ √(s₁²/n₁ + s₂²/n₂). Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "t = 2.77",
+    "working": "M1 √(4.1²/7 + 5.3²/9) = 2.350; A1 6.5/2.350 = 2.77."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the number of degrees of freedom.",
+    "marks": 1,
+    "answer": "14",
+    "working": "B1 7 + 9 − 2 = 14."
+   },
+   {
+    "label": "c",
+    "text": "The critical value of t at p = 0.05 for this number of degrees of freedom is 2.145. State and explain what the result shows.",
+    "marks": 2,
+    "answer": "t = 2.77 > 2.145, so the null hypothesis is rejected: the mean wing length of flies reared at 18 °C is significantly greater than at 28 °C (less than 5 % probability that the difference is due to chance).",
+    "working": "B1 t greater than critical value; B1 significant difference / reject null hypothesis, with direction."
+   }
+  ],
+  "check": "round((74.9-68.4)/math.sqrt(4.1**2/7+5.3**2/9),2) == 2.77 and 7+9-2 == 14 and (74.9-68.4)/math.sqrt(4.1**2/7+5.3**2/9) > 2.145",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-106",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: variables & controls",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student investigates the effect of hydrogen peroxide concentration on the rate of oxygen production by catalase in pieces of liver.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the independent variable and the dependent variable.",
+    "marks": 2,
+    "answer": "Independent: concentration of hydrogen peroxide. Dependent: volume of oxygen produced in 1 minute (rate of reaction).",
+    "working": "B1 IV H₂O₂ concentration; B1 DV volume of O₂ per unit time."
+   },
+   {
+    "label": "b",
+    "text": "State three variables that must be standardised.",
+    "marks": 2,
+    "answer": "Any three of: temperature; pH; mass / surface area of liver or potato (concentration of catalase); volume of hydrogen peroxide; time of measurement; source of enzyme.",
+    "working": "Three correct = 2 marks; two correct = 1 mark."
+   },
+   {
+    "label": "c",
+    "text": "Explain why temperature must be kept constant.",
+    "marks": 1,
+    "answer": "Temperature affects the kinetic energy of molecules and hence the rate of enzyme activity, so a change would affect the volume of oxygen produced.",
+    "working": "B1 temperature changes rate of collisions / enzyme activity, altering the DV."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-107",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: variables & controls",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A student investigates the effect of temperature on the percentage germination of okra seeds using Petri dishes placed in incubators at 15, 20, 25, 30 and 35 °C.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For each of the following variables, describe how the student could keep it constant.\n(i) the volume of water available to the seeds\n(ii) light\n(iii) the type of seed",
+    "marks": 3,
+    "answer": "(i) add the same volume (e.g. 10 cm³) of water to each dish using a syringe / measuring cylinder, and cover dishes to prevent evaporation; (ii) keep all dishes in the dark (or same light) inside incubators; (iii) use seeds of the same variety from the same packet, of similar size.",
+    "working": "B1 each variable with a practical method."
+   },
+   {
+    "label": "b",
+    "text": "Explain why at least 20 seeds should be used in each dish.",
+    "marks": 1,
+    "answer": "Germination varies between individual seeds; a larger sample reduces the effect of a few non-viable seeds, making the percentage more reliable.",
+    "working": "B1 reduces effect of individual variation / non-viable seeds, results more representative."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-108",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: variables & controls",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A researcher compares the resting heart rate of adults in Lahore who walk for at least 30 minutes a day with those who do not exercise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two variables, other than exercise, that could affect resting heart rate in this study, and explain why each should be taken into account.",
+    "marks": 4,
+    "answer": "e.g. age – heart rate changes with age; sex – mean resting rates differ; caffeine / smoking – stimulates heart rate; body mass / fitness level; time of day; stress; medication. Each must be matched or recorded because it would change heart rate independently of exercise.",
+    "working": "For each of two: B1 variable; B1 explanation of its effect on heart rate / why it must be matched."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why it is difficult to standardise all variables in investigations using humans.",
+    "marks": 1,
+    "answer": "People differ genetically and in lifestyle, and it is unethical or impractical to control their diet and activity completely.",
+    "working": "B1 natural variation / ethical or practical limits on controlling lifestyle."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-109",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: variables & controls",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A student tested the hydrolysis of starch by amylase.\nTube A: starch + amylase\nTube B: starch + amylase that had been boiled and cooled\nTube C: starch + distilled water\nSamples were tested with iodine solution every minute.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the purpose of tube B and of tube C.",
+    "marks": 2,
+    "answer": "Tube B (boiled amylase) shows that the disappearance of starch is due to active enzyme and not to the heat treatment / other substances in the solution; tube C (no enzyme, water) shows that starch does not break down on its own (and that the iodine test works).",
+    "working": "B1 B: confirms the effect is due to active (non-denatured) enzyme; B1 C: shows starch is stable without enzyme / acts as a colour standard."
+   },
+   {
+    "label": "b",
+    "text": "The student found that starch disappeared slowly in tube B as well as tube A. Suggest an explanation and how the method could be improved.",
+    "marks": 2,
+    "answer": "The amylase in tube B was not fully denatured (not boiled long enough, or allowed to cool and some enzyme remained active); boil for at least 10 minutes in a water bath / check the boiled solution reached 100 °C.",
+    "working": "B1 enzyme not completely denatured; B1 improvement: boil for longer / at 100 °C for a set time."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-110",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: errors, reliability & improvements",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A student cut one potato cylinder for each sucrose concentration, weighed it on a balance reading to 0.1 g, left it in an open beaker of solution for 2 hours, then dried it with a paper towel and weighed it again.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two sources of error in this procedure and suggest how each could be reduced.",
+    "marks": 4,
+    "answer": "e.g. cylinders blotted differently, so different amounts of surface water → blot each cylinder in the same way (roll once on paper towel); cylinders cut to slightly different lengths / some with skin → use a ruler and scalpel, remove skin; balance reading only to 0.1 g → use a balance reading to 0.01 g; solutions evaporated → cover tubes; only one cylinder per concentration → use three cylinders per concentration.",
+    "working": "For each of two: B1 error; B1 improvement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-111",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: errors, reliability & improvements",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A student mixed starch and amylase and every 30 seconds placed a drop of the mixture into iodine solution on a white tile. She recorded the time when the drop no longer turned blue-black.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the timing of the end point is a source of error.",
+    "marks": 2,
+    "answer": "Deciding when the blue-black colour has disappeared is subjective, as the colour changes gradually; samples are only taken every 30 s, so the true end point could be up to 30 s earlier.",
+    "working": "B1 judging colour change is subjective / gradual; B1 sampling interval means end point time is imprecise (±30 s)."
+   },
+   {
+    "label": "b",
+    "text": "Suggest two improvements that would make the measurement of the end point more accurate.",
+    "marks": 2,
+    "answer": "Use a colorimeter to measure absorbance of samples; take samples more frequently (e.g. every 10 s); compare with a colour standard (iodine in water); have the same person judge the end point against a white tile.",
+    "working": "1 mark each for any two."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-112",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: errors, reliability & improvements",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "The time taken for a piece of milk agar to clear after protease was added was measured five times at 35 °C: 42 s, 45 s, 44 s, 61 s, 43 s.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the anomalous result and calculate the mean of the remaining results.",
+    "marks": 2,
+    "answer": "61 s is anomalous; mean = 43.5 s",
+    "working": "B1 61 s identified (much higher than others); B1 (42 + 45 + 44 + 43)/4 = 43.5 s."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage error in the mean if it had been calculated including the anomalous result.",
+    "marks": 2,
+    "answer": "8.0 %",
+    "working": "M1 mean with 61 = 47; (47 − 43.5)/43.5 × 100; A1 8.0 %."
+   },
+   {
+    "label": "c",
+    "text": "Suggest one possible cause of the anomalous result in this experiment.",
+    "marks": 1,
+    "answer": "e.g. timer started late / end point misjudged; temperature of the water bath dropped; less enzyme added in that repeat; tube not mixed.",
+    "working": "B1 any plausible cause linked to the procedure."
+   }
+  ],
+  "check": "sum([42,45,44,43])/4 == 43.5 and round((sum([42, 45, 44, 61, 43])/5-43.5)/43.5*100,1) == 8.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-113",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: recording results in a table",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A student heated test tubes of glucose solution with Benedict's solution and recorded the time taken for the mixture to turn brick-red.\n0.5 % glucose: 150, 142, 149 seconds\n1.0 % glucose: 97, 94, 98 seconds\n2.0 % glucose: 60, 63, 59 seconds\n4.0 % glucose: 38, 36, 40 seconds",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Prepare a table to record these results, including the mean time for each concentration (to the nearest second).",
+    "marks": 4,
+    "answer": "Columns: concentration of glucose / % | time to turn brick-red / s: trial 1, trial 2, trial 3 | mean time / s. Means: 0.5 % 147 s; 1.0 % 96 s; 2.0 % 61 s; 4.0 % 38 s.",
+    "working": "B1 independent variable in first column with units in heading only; B1 dependent variable heading with unit (s), three trial columns; B1 all raw data entered correctly; B1 means correct to the nearest second, consistent decimal places."
+   }
+  ],
+  "check": "round((150+142+149)/3) == 147 and round((97+94+98)/3) == 96 and round((60+63+59)/3) == 61 and round((38+36+40)/3) == 38",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-114",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: recording results in a table",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A student recorded the mean length of bean shoots grown at different light intensities in this table (columns separated by | ):\nResults | Light\n4 cm | low\n5.5 cm | medium\n6.25 cm | high",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify three faults in the way the table has been drawn and state how each should be corrected.",
+    "marks": 3,
+    "answer": "1 Units written in the body of the table (cm) – units should be in the column heading only; 2 inconsistent number of decimal places (4, 5.5, 6.25) – record all to the same precision (e.g. 1 d.p.); 3 the independent variable is not in the first column – put light intensity first; 4 the heading 'Results' is not a variable name – use 'mean length of shoot / cm'.",
+    "working": "1 mark each for any three faults with correction."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-115",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: graphs & charts",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "Percentage change in mass of onion tissue in salt solutions:\n0 mol dm⁻³: +8.2 %\n0.1 mol dm⁻³: +4.9 %\n0.2 mol dm⁻³: +2.1 %\n0.3 mol dm⁻³: −1.0 %\n0.4 mol dm⁻³: −3.8 %\n0.5 mol dm⁻³: −6.9 %",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how you would draw a graph of these results.",
+    "marks": 3,
+    "answer": "Concentration (mol dm⁻³) on the x-axis, percentage change in mass on the y-axis, with the x-axis crossing at 0 % and the y-axis extending to negative values; axes labelled with units; scales even and using more than half the grid; points plotted as small crosses; ruled line of best fit (or smooth curve) through the points.",
+    "working": "1 mark each for any three of: correct axes with labels and units; negative values shown / x-axis at y = 0; suitable linear scales; accurate plotting; line of best fit (not extended beyond data)."
+   },
+   {
+    "label": "b",
+    "text": "Describe how you would use your graph to find the concentration of salt solution at which there is no change in mass, and explain why the line of best fit should be used rather than the two plotted points nearest to zero.",
+    "marks": 2,
+    "answer": "Find where the line of best fit crosses the line of 0 % change in mass (the x-axis) and read the concentration vertically down from that point; the line of best fit uses all six readings, so it reduces the effect of an error in any single reading.",
+    "working": "B1 read the x-value where the line crosses 0 % change (draw a vertical guide line to the x-axis); B1 line of best fit is based on all the data / averages out random errors in individual points (answer about 0.27 mol dm⁻³)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-116",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: graphs & charts",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A student in Faisalabad grew tomato plants with three different fertilisers, A, B and C, and calculated the mean yield per plant and the standard error for each.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the type of chart that should be drawn and describe how the error bars should be added.",
+    "marks": 3,
+    "answer": "A bar chart (fertiliser type is categoric); bars of equal width, not touching; each bar height = mean yield; error bars drawn as a vertical line from mean − 2SE to mean + 2SE (95 % CI) with short horizontal caps.",
+    "working": "B1 bar chart because categoric independent variable; B1 bars separated, labelled axes with units; B1 error bars extend 2 × SE (or 1 SD as stated) above and below the mean."
+   },
+   {
+    "label": "b",
+    "text": "The error bars for fertilisers A and B overlap but those for B and C do not. State what this suggests.",
+    "marks": 2,
+    "answer": "The difference between A and B may not be significant (could be due to chance); the difference between B and C is likely to be significant.",
+    "working": "B1 A and B not significantly different; B1 B and C probably significantly different."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-117",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: calculations & data processing",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A piece of carrot tissue had a mass of 2.45 g. After 4 hours in distilled water its mass was 2.71 g.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage change in mass. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "+10.6 %",
+    "working": "M1 (2.71 − 2.45)/2.45 × 100; A1 10.6 % (increase)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mean rate of mass change in g per hour over the 4 hours.",
+    "marks": 1,
+    "answer": "0.065 g per hour",
+    "working": "B1 0.26/4 = 0.065 g h⁻¹."
+   }
+  ],
+  "check": "round((2.71-2.45)/2.45*100,1) == 10.6 and round((2.71-2.45)/4,3) == 0.065",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-118",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: calculations & data processing",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Numbers of five species of invertebrate found in leaf litter samples from a garden in Multan: 34, 21, 12, 8, 5.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Simpson's index of diversity, D = 1 − Σ(n/N)². Give your answer to 2 decimal places.",
+    "marks": 3,
+    "answer": "D = 0.71",
+    "working": "B1 N = 80; M1 Σ(n/N)² = 0.2859; A1 D = 0.71."
+   },
+   {
+    "label": "b",
+    "text": "A second plot near a busy road had D = 0.42. Compare the diversity of the two plots.",
+    "marks": 1,
+    "answer": "The first plot (0.71) is more diverse than the plot near the road (0.42), because D closer to 1 means higher diversity.",
+    "working": "B1 first plot more diverse; higher D = greater diversity."
+   }
+  ],
+  "check": "round(1-sum([(i/80)**2 for i in [34, 21, 12, 8, 5]]),2) == 0.71 and sum([34, 21, 12, 8, 5]) == 80",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-119",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: risk assessment",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "Students cut samples of potato, apple and onion with scalpels, crushed them with water, and tested the extracts with iodine solution and with Benedict's solution in a boiling water bath.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify three hazards in this practical and state a precaution for each.",
+    "marks": 3,
+    "answer": "e.g. scalpel – sharp, cut on a tile away from the body; hot water bath / boiling water – scalds, use tongs and a test-tube holder; Benedict's solution (copper sulfate) – irritant, wear goggles and wash skin; iodine solution – stains / irritant, wear gloves and goggles; glassware breaking – handle with care, sweep up with brush.",
+    "working": "1 mark each for any three hazards with matching precautions."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9700-g5-120",
+  "topic": "Practical skills (generic)",
+  "subtopic": "Skill: measurement, graticule & magnification",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A photomicrograph of a leaf epidermis has a scale bar labelled 100 µm that is 25 mm long. One epidermal cell measures 38 mm long on the photomicrograph.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the actual length of the cell, in µm.",
+    "marks": 2,
+    "answer": "152 µm",
+    "working": "M1 38/25 × 100; A1 152 µm."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the magnification of the photomicrograph.",
+    "marks": 1,
+    "answer": "×250",
+    "working": "B1 25 mm = 25000 µm; 25000/100 = ×250."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why measuring several cells and finding the mean gives a better estimate of cell length.",
+    "marks": 1,
+    "answer": "Cells vary in size and may be cut at different angles; a mean reduces the effect of this variation.",
+    "working": "B1 variation between cells / sectioning angle."
+   }
+  ],
+  "check": "38/25*100 == 152.0 and 25*1000/100 == 250.0",
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]
