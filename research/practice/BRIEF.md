@@ -26,7 +26,7 @@ comes first.
   "A …\nB …\nC …\nD …"; `marks` 1; `answer` is the letter plus the option text; `working` explains why it is right and
   why the main distractor is wrong. Exactly one option is correct; distractors are plausible.
 - Long writing tasks (essays, compositions, directed writing, summaries, 'Was … the most important reason?' answers,
-  extended programming tasks, case-study decisions): ONE part at the real exam mark from the analysis (up to 30), as a
+  extended programming tasks, case-study decisions): ONE part at the real exam mark from the analysis (up to 40), as a
   student would meet it; `working` gives the content points and what each mark band needs. Do not split them.
 - Other structured/theory questions: 1–6 marks per part, 2–8 per question, command words as in the analysis (State, Describe,
   Explain, Calculate, Suggest…). For "explain"/"describe" answers, give the mark points the answer must contain

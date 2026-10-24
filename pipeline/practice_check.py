@@ -58,8 +58,8 @@ def main(code, path=None):
         for p in parts:
             if not LABEL_OK.match(str(p.get("label", ""))):
                 err(f"bad part label {p.get('label')!r}")
-            if not isinstance(p.get("marks"), int) or not 1 <= p["marks"] <= 30:
-                err(f"part {p.get('label')}: marks must be an int 1–30")
+            if not isinstance(p.get("marks"), int) or not 1 <= p["marks"] <= 40:
+                err(f"part {p.get('label')}: marks must be an int 1–40")
             for k in ("text", "answer"):
                 if not str(p.get(k, "")).strip():
                     err(f"part {p.get('label')}: missing {k}")

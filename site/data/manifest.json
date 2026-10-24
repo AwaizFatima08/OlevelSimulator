@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "2026-10.7",
+ "version": "2026-10.8",
  "label": "May/June 2022 to May/June 2026",
  "sessions": [
   "2022-MJ",
@@ -255,7 +255,7 @@
    "level": "igcse",
    "name": "English (First Language)",
    "file": "/data/0500.json",
-   "bytes": 20060,
+   "bytes": 683578,
    "questions": 72
   },
   {
@@ -263,7 +263,7 @@
    "level": "igcse",
    "name": "English as a Second Language",
    "file": "/data/0510.json",
-   "bytes": 76375,
+   "bytes": 1018661,
    "questions": 417
   },
   {
@@ -295,7 +295,7 @@
    "level": "igcse",
    "name": "Urdu as a Second Language",
    "file": "/data/0539.json",
-   "bytes": 36790,
+   "bytes": 841477,
    "questions": 200
   },
   {

@@ -21,6 +21,12 @@ Live URL: https://cambridgesimulator.homilabs.org. See README.md, docs/architect
   Listing kit: docs/play-listing.md, graphics in store/. Next versionCode ≥ 2.
 - Cambridge permission enquiry (showing real past-paper questions) sent 23 Oct 2026 to Publisher.Relations@cambridge.org
   (draft: docs/cambridge-permission-email.md). No question text/images until a written yes. Expect ~3 weeks.
+- Practice questions (HomiLabs originals, not Cambridge): 15,368 across all 39 subjects (≥30 per topic), live since
+  release 2026-10.8 (25 Oct 2026). Source research/practice/<code>.json; brief BRIEF.md; targets plan/; validate with
+  `python3 pipeline/practice_check.py <code>`; new writer files merge with practice_merge.py. The 7 identical IGCSE
+  twins are copied from O Level by practice_twins.py (edit the O Level file, then rerun). All marked reviewed=false:
+  Islamiyat, Urdu, Pakistan Studies, Psychology and the biology subjects most need a teacher's review.
+- App: Practice tab is in the code but ships only with app 0.2.0 (versionCode 2); data packs are now ~21 MB.
 - Release builds: `bash scripts/build_release.sh` (upload key in .secrets/, key.properties gitignored).
 - Tested on Galaxy Tab S9 FE (Android 16) and Oppo CPH2743 (Android 16, 320 dp + text 1.15); 13 tests pass.
 - Question CSVs: the 12 original syllabuses cover every variant; the other subjects use variant 2 of each written paper.
