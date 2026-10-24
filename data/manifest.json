@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "2026-10.5",
+ "version": "2026-10.6",
  "label": "May/June 2022 to May/June 2026",
  "sessions": [
   "2022-MJ",
@@ -103,7 +103,7 @@
    "level": "a-level",
    "name": "Mathematics",
    "file": "/data/9709.json",
-   "bytes": 605551,
+   "bytes": 955131,
    "questions": 1481
   },
   {
@@ -111,7 +111,7 @@
    "level": "a-level",
    "name": "Physics",
    "file": "/data/9702.json",
-   "bytes": 407560,
+   "bytes": 1188668,
    "questions": 1768
   },
   {
@@ -119,7 +119,7 @@
    "level": "a-level",
    "name": "Chemistry",
    "file": "/data/9701.json",
-   "bytes": 528079,
+   "bytes": 1271068,
    "questions": 1679
   },
   {
@@ -127,7 +127,7 @@
    "level": "a-level",
    "name": "Biology",
    "file": "/data/9700.json",
-   "bytes": 409877,
+   "bytes": 1026080,
    "questions": 1750
   },
   {

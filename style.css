@@ -178,3 +178,4 @@ abbr { text-decoration: none; border-bottom: 1px dotted var(--muted); }
 .pq-ans li { margin: 8px 0; }
 .working { font-size: 14px; color: var(--muted); margin-top: 2px; }
 .ln { display: block; }
+.ln.mono { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; font-size: 13px; white-space: pre; overflow-x: auto; }
