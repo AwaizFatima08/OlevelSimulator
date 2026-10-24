@@ -150,6 +150,46 @@ class Subtopic {
       );
 }
 
+/// An original practice question written by HomiLabs (not a Cambridge question).
+class PracticePart {
+  const PracticePart({required this.label, required this.text, required this.marks, required this.answer, this.working = ''});
+  final String label;
+  final String text;
+  final int marks;
+  final String answer;
+  final String working;
+
+  factory PracticePart.fromJson(Map<String, dynamic> j) => PracticePart(
+        label: j['label'] as String,
+        text: j['text'] as String,
+        marks: (j['marks'] as num).toInt(),
+        answer: j['answer'] as String,
+        working: j['working'] as String? ?? '',
+      );
+}
+
+class PracticeQuestion {
+  const PracticeQuestion(
+      {required this.id, required this.subtopic, required this.paper, required this.difficulty, this.stem = '', required this.parts});
+  final String id;
+  final String subtopic;
+  final String paper;
+  final String difficulty;
+  final String stem;
+  final List<PracticePart> parts;
+
+  int get marks => parts.fold(0, (a, p) => a + p.marks);
+
+  factory PracticeQuestion.fromJson(Map<String, dynamic> j) => PracticeQuestion(
+        id: j['id'] as String,
+        subtopic: j['subtopic'] as String,
+        paper: j['paper'] as String,
+        difficulty: j['difficulty'] as String,
+        stem: j['stem'] as String? ?? '',
+        parts: [for (final p in j['parts'] as List) PracticePart.fromJson(p as Map<String, dynamic>)],
+      );
+}
+
 class Topic {
   const Topic({
     required this.name,
@@ -158,6 +198,7 @@ class Topic {
     required this.sessions,
     required this.subtopics,
     required this.questions,
+    this.practice = const [],
   });
   final String name;
   final String slug;
@@ -165,6 +206,7 @@ class Topic {
   final int sessions;
   final List<Subtopic> subtopics;
   final List<Question> questions;
+  final List<PracticeQuestion> practice;
 
   factory Topic.fromJson(Map<String, dynamic> j) {
     final qs = [for (final q in j['questions'] as List) Question.fromJson(q as Map<String, dynamic>)]
@@ -176,6 +218,9 @@ class Topic {
       sessions: (j['sessions'] as num).toInt(),
       subtopics: [for (final s in j['subtopics'] as List) Subtopic.fromJson(s as Map<String, dynamic>)],
       questions: qs,
+      practice: [
+        for (final p in (j['practice'] as List? ?? const [])) PracticeQuestion.fromJson(p as Map<String, dynamic>)
+      ],
     );
   }
 }

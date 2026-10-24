@@ -1,0 +1,433 @@
+{
+ "code": "5070",
+ "name": "Chemistry",
+ "papers": {
+  "1": "Paper 1 Multiple Choice",
+  "2": "Paper 2 Theory",
+  "3": "Paper 3 Practical",
+  "4": "Paper 4 Alternative to Practical"
+ },
+ "guide": "5070-chemistry.md",
+ "topics": [
+  {
+   "topic": "Experimental techniques & chemical analysis",
+   "subtopics": [
+    {
+     "name": "Tests for ions, gases & water",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Practical planning & evaluation",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Titration technique",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Results tables, graphs & data analysis",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Apparatus, measurement & gas collection",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Separation, purification & purity",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Chromatography",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "States of matter",
+   "subtopics": [
+    {
+     "name": "Kinetic particle theory & changes of state",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Diffusion",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Atoms, elements & compounds",
+   "subtopics": [
+    {
+     "name": "Ions & ionic bonding",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Atomic structure & isotopes",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Simple covalent molecules",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Metallic bonding",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Structure and properties compared",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Giant covalent structures",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Elements, compounds & mixtures",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Stoichiometry",
+   "subtopics": [
+    {
+     "name": "Concentration & titration calculations",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Moles & reacting masses",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Formulae & equations (incl. ionic)",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Gas volumes (molar volume)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Empirical & molecular formulae",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Percentage yield, purity & composition",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Relative masses (Ar, Mr)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Electrochemistry",
+   "subtopics": [
+    {
+     "name": "Electrolysis: products & electrode equations",
+     "target": 23,
+     "existing": 0,
+     "to_write": 23
+    },
+    {
+     "name": "Cells & hydrogen fuel cells",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Electroplating & industrial electrolysis",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Chemical energetics",
+   "subtopics": [
+    {
+     "name": "Energy profiles & activation energy",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Exothermic & endothermic",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Bond energy calculations",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    }
+   ]
+  },
+  {
+   "topic": "Chemical reactions (rates, equilibrium, redox)",
+   "subtopics": [
+    {
+     "name": "Rate of reaction",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Reversible reactions & equilibrium",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Redox, oxidation number, oxidising & reducing agents",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Industrial processes (Haber, Contact) & sulfur compounds",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Physical & chemical change",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Acids, bases & salts",
+   "subtopics": [
+    {
+     "name": "Preparation of salts & solubility",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Strong/weak acids & pH",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Properties of acids & bases",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Types of oxide",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Metals",
+   "subtopics": [
+    {
+     "name": "Extraction of metals",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Properties & uses of metals",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Reactivity series & displacement",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Corrosion & rust prevention",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Alloys",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "The Periodic Table",
+   "subtopics": [
+    {
+     "name": "Transition elements",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Group VII",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Arrangement & periodic trends",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Noble gases",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Group I",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Chemistry of the environment",
+   "subtopics": [
+    {
+     "name": "Air quality & pollutants",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Water (treatment, tests, pollution)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Climate change & carbon cycle",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Fertilisers",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Composition of air",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Organic chemistry",
+   "subtopics": [
+    {
+     "name": "Polymers (addition, condensation, proteins)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Carboxylic acids & esters",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Formulae, naming, homologous series & isomers",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Alcohols",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Alkenes",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Fuels, petroleum & cracking",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Alkanes",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  }
+ ]
+}

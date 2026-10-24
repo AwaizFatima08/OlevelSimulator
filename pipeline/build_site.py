@@ -75,6 +75,21 @@ def session_label(s):
     return f"{year} {SESSION_NAMES.get(code, code)}"
 
 
+PRACTICE = ROOT / "research" / "practice"
+DIFF_ORDER = {"core": 0, "standard": 1, "challenge": 2}
+
+
+def load_practice(code):
+    """HomiLabs original practice questions for a subject, grouped by (cleaned) topic name."""
+    f = PRACTICE / f"{code}.json"
+    if not f.exists():
+        return {}
+    out = defaultdict(list)
+    for q in json.loads(f.read_text()):
+        out[clean_topic(q["topic"])].append(q)
+    return out
+
+
 def load_subject(subj):
     rows = list(csv.DictReader((RESEARCH / f"{subj['code']}-questions.csv").open()))
     sessions = sorted({r["session"] for r in rows}, key=session_key)
@@ -136,7 +151,13 @@ def load_subject(subj):
     for r in rows:
         variants[(r["session"], r["paper"])].add(r["variant"])
     all_variants = sum(len(v) > 1 for v in variants.values()) > len(variants) / 2
+    practice = load_practice(subj["code"])
+    for t in topic_list:
+        order = {st["name"]: i for i, st in enumerate(t["subtopics"])}
+        t["practice"] = sorted(practice.get(t["name"], []),
+                               key=lambda q: (order.get(q["subtopic"], 99), DIFF_ORDER.get(q["difficulty"], 9), q["id"]))
     return {"rows": len(rows), "sessions": sessions, "topics": topic_list, "all_variants": all_variants,
+            "practice_count": sum(len(t["practice"]) for t in topic_list),
             "question_count": len({q["id"] for qs in by_topic.values() for q in qs})}
 
 
@@ -342,6 +363,7 @@ def build_topic(subj, d, t):
                        f'<ul class="chips">{items}</ul></details>')
     chips = "".join(f'<button type="button" class="chip" data-year-chip="{y}" aria-pressed="false">{y}</button>' for y in years)
     paper_opts = "".join(f'<option value="{p}">{esc(subj["papers"].get(p, "Paper " + p))}</option>' for p in t["papers"])
+    practice_html = practice_section(subj, t)
     subs_rows = "".join(
         f'<tr><td>{esc(s["name"])} {badge(s["sessions"], total)}</td><td class="num">{s["marks"]:g}</td>'
         f'<td class="num">{s["sessions"]}/{total}</td></tr>' for s in t["subtopics"])
@@ -351,7 +373,7 @@ def build_topic(subj, d, t):
   <h1>{esc(t['name'])} {badge(t['sessions'], total)}</h1>
   <p class="lede">{len(t['questions'])} questions · about {t['share']:.0f}% of the marks we indexed · examined in {t['sessions']} of {total} sessions.</p>
 </header>
-<nav class="tabs" aria-label="Sections"><a href="#by-year">Questions by year</a><a href="#similar">Similar questions</a><a href="#subtopics">Subtopics</a></nav>
+<nav class="tabs" aria-label="Sections"><a href="#by-year">Questions by year</a>{'<a href="#practice">Practice questions</a>' if t["practice"] else ''}<a href="#similar">Similar questions</a><a href="#subtopics">Subtopics</a></nav>
 <section id="by-year">
   <h2>Questions by year</h2>
   <div class="filters" data-filters>
@@ -363,7 +385,7 @@ def build_topic(subj, d, t):
   <p class="note">Find the full paper on the <a href="{official_url(subj)}" rel="noopener">official Cambridge past-papers page</a>
   or ask your school. “Paper 42” means Paper 4, variant 2.</p>
 </section>
-<section id="similar">
+{practice_html}<section id="similar">
   <h2>Similar questions</h2>
   <p>Questions that test the same subtopic in different years. Practise them together to master one skill.</p>
   {''.join(similar) or '<p class="note">No subtopic in this topic has appeared in more than one session yet.</p>'}
@@ -379,6 +401,63 @@ def build_topic(subj, d, t):
          f"{subj_title(subj)} {t['name']}: {len(t['questions'])} past paper questions from 2022 to {RELEASE['latest_session']} "
          f"by year, with similar questions grouped by subtopic.",
          body, crumbs=[("Home", "/"), (subj_title(subj), subj_path(subj)), (t["name"], f"{subj_path(subj)}{t['slug']}/")])
+
+
+_URDU = re.compile(r"[\u0600-\u06FF]")
+_LATIN = re.compile(r"[A-Za-z]{3}")
+# Where a mixed line switches script: "…کیجیے۔ (Translate …)" or "… word. اردو …"
+_SCRIPT_SWITCH = re.compile(r"(?<=[۔؟:])\s+(?=[(A-Za-z])|\s+(?=\([A-Za-z])|(?<=[.?!)])\s+(?=[\u0600-\u06FF])")
+
+
+def bidi_lines(text):
+    """Splits text into lines, and mixed Urdu/English lines into one piece per script."""
+    out = []
+    for ln in text.split("\n"):
+        if _URDU.search(ln) and _LATIN.search(ln):
+            out.extend(x for x in _SCRIPT_SWITCH.split(ln) if x)
+        else:
+            out.append(ln)
+    return out
+
+
+def _txt(text):
+    """Each line gets its own direction, so Urdu and English lines in one block both read correctly."""
+    lines = [esc(ln) for ln in bidi_lines(text)]
+    if len(lines) == 1:
+        return lines[0]
+    return "".join(f'<span class="ln" dir="auto">{ln}</span>' for ln in lines)
+
+
+def practice_section(subj, t):
+    """Original HomiLabs questions for this topic, answers hidden until the student opens them."""
+    if not t["practice"]:
+        return ""
+    cards = []
+    for i, q in enumerate(t["practice"], 1):
+        total = sum(p["marks"] for p in q["parts"])
+        pname = subj["papers"].get(q["paper"], "")
+        paper = f'Paper {q["paper"]} style' + (" · no calculator" if "non-calculator" in pname
+                                               else " · calculator" if "calculator" in pname else "")
+        parts = "".join(
+            f'<li><span class="p-label">({esc(p["label"])})</span> <span class="p-text" dir="auto">{_txt(p["text"])}</span>'
+            f' <span class="p-marks">[{p["marks"]}]</span></li>' for p in q["parts"])
+        answers = "".join(
+            f'<li dir="auto"><strong>({esc(p["label"])})</strong> {_txt(p["answer"])}'
+            + (f'<div class="working" dir="auto">{_txt(p["working"])}</div>' if p.get("working") else "") + "</li>"
+            for p in q["parts"])
+        stem = f'<p class="stem" dir="auto">{_txt(q["stem"])}</p>' if q.get("stem") else ""
+        cards.append(
+            f'<article class="pq" id="{esc(q["id"])}"><header><span class="pq-n">Q{i}</span>'
+            f'<span class="pq-meta">{esc(q["subtopic"])} · {esc(q["difficulty"].capitalize())} · {esc(paper)} · {total} marks</span>'
+            f'</header>{stem}<ol class="pq-parts">{parts}</ol>'
+            f'<details class="pq-ans"><summary>Show answer</summary><ol>{answers}</ol></details></article>')
+    return f"""<section id="practice">
+  <h2>Practice questions</h2>
+  <p class="note">Original practice questions written by HomiLabs in the exam style. They are not Cambridge past paper
+  questions. Try each one before opening the answer.</p>
+  {''.join(cards)}
+</section>
+"""
 
 
 SKIP_SECTION = re.compile(r"method|sample|caveat|how the sample", re.I)
@@ -482,6 +561,8 @@ def build_data(data):
             "web_url": BASE_URL + subj_path(subj), "guide_url": f"{BASE_URL}{subj_path(subj)}guide/",
             "topics": [{
                 "name": t["name"], "slug": t["slug"], "share": round(t["share"], 1), "sessions": t["sessions"],
+                **({"practice": [{k: q[k] for k in ("id", "subtopic", "paper", "difficulty", "stem", "parts") if k in q}
+                                 for q in t["practice"]]} if t["practice"] else {}),
                 "subtopics": [{"name": s["name"], "marks": s["marks"], "sessions": s["sessions"], "questions": s["qids"]}
                               for s in t["subtopics"]],
                 "questions": [{"id": q["id"], "session": q["session"], "paper": q["paper"], "variant": q["variant"],

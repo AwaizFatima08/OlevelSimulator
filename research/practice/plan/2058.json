@@ -1,0 +1,284 @@
+{
+ "code": "2058",
+ "name": "Islamiyat",
+ "papers": {
+  "1": "Paper 1",
+  "2": "Paper 2"
+ },
+ "guide": "2058-islamiyat.md",
+ "topics": [
+  {
+   "topic": "Major themes of the Qur'an",
+   "subtopics": [
+    {
+     "name": "Thematic essay on the set passages",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "God's relationship with the created world",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "God's relationship with His messengers",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "God in Himself",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "History and importance of the Qur'an",
+   "subtopics": [
+    {
+     "name": "Revelation of the Qur'an",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Compilation and preservation of the Qur'an",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "The Qur'an as a source of Islamic law",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    }
+   ]
+  },
+  {
+   "topic": "Life and importance of the Prophet (pbuh)",
+   "subtopics": [
+    {
+     "name": "Makkan period: preaching and opposition",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Madina period: community, treaties and diplomacy",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Battles and expeditions",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Conquest of Makka and final years",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Migration and the move to Madina",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Early life before prophethood",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "The first Islamic community",
+   "subtopics": [
+    {
+     "name": "Companions of the Prophet (pbuh)",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Family and descendants of the Prophet (pbuh)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Wives of the Prophet (pbuh)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Emigrants (Muhajirun) and Helpers (Ansar)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Scribes of the Prophet (pbuh)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Major teachings of the Hadiths",
+   "subtopics": [
+    {
+     "name": "Set Hadiths: teachings about belief",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Set Hadiths: putting teachings into action",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Set Hadiths essay: personal and communal guidance",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "History and importance of the Hadiths",
+   "subtopics": [
+    {
+     "name": "The Hadiths and other sources of Islamic law",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Isnad, matn and classification of Hadiths",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Compilation and collections of Hadiths",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "The Rightly Guided Caliphs",
+   "subtopics": [
+    {
+     "name": "Caliphate of 'Umar",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Caliphate of 'Ali",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Caliphs compared: leadership and martyrdom",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Caliphate of Abu Bakr",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Caliphate of 'Uthman",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "The Pillars of Islam",
+   "subtopics": [
+    {
+     "name": "Prayer (salat)",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Pilgrimage (hajj) and sacrifice",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Festivals and days of special significance",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Jihad",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "The Articles of Faith",
+   "subtopics": [
+    {
+     "name": "Oneness of God (tawhid)",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Prophets and revealed books",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Life after death and the Day of Judgement",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Angels",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Predestination and divine decree",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  }
+ ]
+}

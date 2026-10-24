@@ -22,3 +22,6 @@ releases/
 *.keystore
 *.jks
 key.properties
+
+# practice-question writer files (merged into research/practice/<code>.json)
+research/practice/parts/

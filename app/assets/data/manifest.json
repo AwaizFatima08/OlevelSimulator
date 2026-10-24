@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "2026-10.2",
+ "version": "2026-10.3",
  "label": "May/June 2022 to May/June 2026",
  "sessions": [
   "2022-MJ",
@@ -13,7 +13,7 @@
   "2025-ON",
   "2026-MJ"
  ],
- "built": "2026-10-20",
+ "built": "2026-10-25",
  "site": "https://cambridgesimulator.homilabs.org",
  "levels": [
   {
@@ -39,7 +39,7 @@
    "level": "o-level",
    "name": "Mathematics D",
    "file": "/data/4024.json",
-   "bytes": 150130,
+   "bytes": 358365,
    "questions": 716
   },
   {
@@ -47,7 +47,7 @@
    "level": "o-level",
    "name": "Physics",
    "file": "/data/5054.json",
-   "bytes": 205571,
+   "bytes": 417397,
    "questions": 993
   },
   {
@@ -55,7 +55,7 @@
    "level": "o-level",
    "name": "Chemistry",
    "file": "/data/5070.json",
-   "bytes": 250507,
+   "bytes": 561306,
    "questions": 984
   },
   {
@@ -63,7 +63,7 @@
    "level": "o-level",
    "name": "Biology",
    "file": "/data/5090.json",
-   "bytes": 218275,
+   "bytes": 807866,
    "questions": 932
   },
   {
@@ -135,7 +135,7 @@
    "level": "o-level",
    "name": "Additional Mathematics",
    "file": "/data/4037.json",
-   "bytes": 48614,
+   "bytes": 319494,
    "questions": 203
   },
   {
@@ -143,7 +143,7 @@
    "level": "o-level",
    "name": "Computer Science",
    "file": "/data/2210.json",
-   "bytes": 44269,
+   "bytes": 369014,
    "questions": 149
   },
   {
@@ -151,7 +151,7 @@
    "level": "o-level",
    "name": "Economics",
    "file": "/data/2281.json",
-   "bytes": 73833,
+   "bytes": 255553,
    "questions": 315
   },
   {
@@ -159,7 +159,7 @@
    "level": "o-level",
    "name": "Accounting",
    "file": "/data/7707.json",
-   "bytes": 73439,
+   "bytes": 263895,
    "questions": 360
   },
   {
@@ -167,7 +167,7 @@
    "level": "o-level",
    "name": "Business Studies",
    "file": "/data/7115.json",
-   "bytes": 33160,
+   "bytes": 251811,
    "questions": 72
   },
   {
@@ -175,7 +175,7 @@
    "level": "o-level",
    "name": "English Language",
    "file": "/data/1123.json",
-   "bytes": 23349,
+   "bytes": 531481,
    "questions": 102
   },
   {
@@ -183,7 +183,7 @@
    "level": "o-level",
    "name": "Pakistan Studies",
    "file": "/data/2059.json",
-   "bytes": 41650,
+   "bytes": 601908,
    "questions": 90
   },
   {
@@ -191,7 +191,7 @@
    "level": "o-level",
    "name": "Islamiyat",
    "file": "/data/2058.json",
-   "bytes": 23160,
+   "bytes": 420342,
    "questions": 90
   },
   {
@@ -199,7 +199,7 @@
    "level": "o-level",
    "name": "Urdu First Language",
    "file": "/data/3247.json",
-   "bytes": 9562,
+   "bytes": 524281,
    "questions": 35
   },
   {
@@ -207,7 +207,7 @@
    "level": "o-level",
    "name": "Urdu Second Language",
    "file": "/data/3248.json",
-   "bytes": 56778,
+   "bytes": 597085,
    "questions": 322
   },
   {

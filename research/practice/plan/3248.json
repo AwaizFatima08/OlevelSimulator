@@ -1,0 +1,189 @@
+{
+ "code": "3248",
+ "name": "Urdu Second Language",
+ "papers": {
+  "1": "Paper 1 (Composition and Translation until 2023; Reading and Writing from 2024)",
+  "2": "Paper 2 (Language Usage, Summary and Comprehension until 2023; Grammar, Writing and Translation from 2024)"
+ },
+ "guide": "3248-urdu-second-language.md",
+ "topics": [
+  {
+   "topic": "Directed writing",
+   "subtopics": [
+    {
+     "name": "Article from a poster prompt",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Informal email",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Formal email",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    }
+   ]
+  },
+  {
+   "topic": "Composition",
+   "subtopics": [
+    {
+     "name": "Opinion article (agree or disagree)",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Informal letter",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Speech",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Dialogue",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Translation into Urdu",
+   "subtopics": [
+    {
+     "name": "English passage into Urdu",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Vocabulary and idioms",
+   "subtopics": [
+    {
+     "name": "Idioms used in sentences",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Grammar and sentence transformation",
+   "subtopics": [
+    {
+     "name": "Rewrite sentence keeping meaning",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Change to present tense",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Replace words with antonyms",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Negative to positive sentences",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Change to future tense",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Cloze",
+   "subtopics": [
+    {
+     "name": "Multiple-choice cloze",
+     "target": 21,
+     "existing": 0,
+     "to_write": 21
+    },
+    {
+     "name": "Word-bank cloze",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    }
+   ]
+  },
+  {
+   "topic": "Summary writing",
+   "subtopics": [
+    {
+     "name": "Summary from notes (about 100 words)",
+     "target": 17,
+     "existing": 0,
+     "to_write": 17
+    },
+    {
+     "name": "Guided summary under headings",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    }
+   ]
+  },
+  {
+   "topic": "Reading comprehension",
+   "subtopics": [
+    {
+     "name": "Passage A short answers",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Passage B short answers",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Paragraph matching (A-D)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Note-making under headings",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Short-answer questions",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  }
+ ]
+}

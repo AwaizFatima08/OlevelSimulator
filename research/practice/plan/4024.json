@@ -1,0 +1,446 @@
+{
+ "code": "4024",
+ "name": "Mathematics D",
+ "papers": {
+  "1": "Paper 1 (non-calculator from 2025)",
+  "2": "Paper 2 (calculator)"
+ },
+ "guide": "4024-maths-d.md",
+ "topics": [
+  {
+   "topic": "Number",
+   "subtopics": [
+    {
+     "name": "Money & interest",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Percentages",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Fractions & decimals",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Sets & Venn diagrams",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Bounds & accuracy",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Powers roots & surds",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Standard form",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Primes factors HCF & LCM",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Rates & speed",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Ratio & proportion",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Rounding & estimation",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Integers & directed numbers",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Ordering & FDP conversion",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Time",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Units & measures",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Types of number",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Exponential growth & decay",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Order of operations",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Calculator use & order of operations",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Geometry",
+   "subtopics": [
+    {
+     "name": "Circle theorems",
+     "target": 6,
+     "existing": 3,
+     "to_write": 3
+    },
+    {
+     "name": "Angles & polygons",
+     "target": 6,
+     "existing": 3,
+     "to_write": 3
+    },
+    {
+     "name": "Congruence & similarity",
+     "target": 6,
+     "existing": 3,
+     "to_write": 3
+    },
+    {
+     "name": "Scale drawing & bearings",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    },
+    {
+     "name": "Constructions & loci",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    },
+    {
+     "name": "Symmetry",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Geometrical terms",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Properties of shapes",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Mensuration",
+   "subtopics": [
+    {
+     "name": "Surface area & volume",
+     "target": 16,
+     "existing": 3,
+     "to_write": 13
+    },
+    {
+     "name": "Arcs & sectors",
+     "target": 7,
+     "existing": 3,
+     "to_write": 4
+    },
+    {
+     "name": "Area & perimeter",
+     "target": 5,
+     "existing": 3,
+     "to_write": 2
+    },
+    {
+     "name": "Nets & 3D shapes",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Statistics",
+   "subtopics": [
+    {
+     "name": "Cumulative frequency & box plots",
+     "target": 7,
+     "existing": 3,
+     "to_write": 4
+    },
+    {
+     "name": "Averages & range",
+     "target": 5,
+     "existing": 3,
+     "to_write": 2
+    },
+    {
+     "name": "Histograms",
+     "target": 5,
+     "existing": 3,
+     "to_write": 2
+    },
+    {
+     "name": "Grouped data & mean",
+     "target": 5,
+     "existing": 3,
+     "to_write": 2
+    },
+    {
+     "name": "Charts & tables",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    },
+    {
+     "name": "Scatter diagrams",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Probability",
+   "subtopics": [
+    {
+     "name": "Combined events",
+     "target": 18,
+     "existing": 3,
+     "to_write": 15
+    },
+    {
+     "name": "Relative & expected frequency",
+     "target": 6,
+     "existing": 3,
+     "to_write": 3
+    },
+    {
+     "name": "Single events",
+     "target": 6,
+     "existing": 3,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Algebra",
+   "subtopics": [
+    {
+     "name": "Graphs of functions",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Algebraic fractions",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Quadratic equations",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Algebraic manipulation & factorising",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Sequences",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Functions",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Equations",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Substitution & formulae",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Kinematic & real-life graphs",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Inequalities & regions",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Simultaneous equations",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Indices (algebraic)",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Direct & inverse proportion",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Transformations & vectors",
+   "subtopics": [
+    {
+     "name": "Vectors",
+     "target": 17,
+     "existing": 3,
+     "to_write": 14
+    },
+    {
+     "name": "Transformations",
+     "target": 13,
+     "existing": 3,
+     "to_write": 10
+    }
+   ]
+  },
+  {
+   "topic": "Trigonometry",
+   "subtopics": [
+    {
+     "name": "Sine & cosine rules",
+     "target": 13,
+     "existing": 3,
+     "to_write": 10
+    },
+    {
+     "name": "Pythagoras",
+     "target": 5,
+     "existing": 3,
+     "to_write": 2
+    },
+    {
+     "name": "3D trigonometry & elevation",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    },
+    {
+     "name": "Right-angled trigonometry",
+     "target": 4,
+     "existing": 3,
+     "to_write": 1
+    },
+    {
+     "name": "Bearings",
+     "target": 3,
+     "existing": 3,
+     "to_write": 0
+    },
+    {
+     "name": "Trig graphs & exact values",
+     "target": 1,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  },
+  {
+   "topic": "Coordinate geometry",
+   "subtopics": [
+    {
+     "name": "Perpendicular & parallel lines",
+     "target": 13,
+     "existing": 3,
+     "to_write": 10
+    },
+    {
+     "name": "Length midpoint & gradient",
+     "target": 10,
+     "existing": 3,
+     "to_write": 7
+    },
+    {
+     "name": "Equation of a line",
+     "target": 5,
+     "existing": 3,
+     "to_write": 2
+    },
+    {
+     "name": "Straight-line graphs",
+     "target": 2,
+     "existing": 3,
+     "to_write": 0
+    }
+   ]
+  }
+ ]
+}

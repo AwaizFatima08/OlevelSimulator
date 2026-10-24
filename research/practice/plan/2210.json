@@ -1,0 +1,325 @@
+{
+ "code": "2210",
+ "name": "Computer Science",
+ "papers": {
+  "1": "Paper 1 Computer Systems",
+  "2": "Paper 2 Algorithms, Programming and Logic"
+ },
+ "guide": "2210-computer-science.md",
+ "topics": [
+  {
+   "topic": "Hardware",
+   "subtopics": [
+    {
+     "name": "Primary, secondary, virtual and cloud storage",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "CPU components and the fetch-decode-execute cycle",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Input and output devices",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "CPU performance, cores, cache and embedded systems",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Sensors and microprocessor control",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Network hardware and addressing (NIC, MAC, IP, router)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Software",
+   "subtopics": [
+    {
+     "name": "Programming languages, translators and IDEs",
+     "target": 18,
+     "existing": 0,
+     "to_write": 18
+    },
+    {
+     "name": "System and application software, operating system functions",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Interrupts",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Data representation",
+   "subtopics": [
+    {
+     "name": "Number systems and conversions",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Binary addition, overflow, shifts and two's complement",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Lossy and lossless compression",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Data storage units and file size calculations",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Representing text, sound and images",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "The internet and its uses",
+   "subtopics": [
+    {
+     "name": "Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Security solutions (SSL, firewalls, proxy servers, backups)",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Cyber security threats",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Digital currency and blockchain",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Data transmission",
+   "subtopics": [
+    {
+     "name": "Error detection (parity, checksum, echo check, check digit, ARQ)",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "Transmission methods (serial/parallel, simplex/duplex, USB)",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Symmetric and asymmetric encryption",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Packets and packet switching",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Boolean logic",
+   "subtopics": [
+    {
+     "name": "Logic circuits, expressions and problem statements",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Logic gate symbols and truth tables",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Programming",
+   "subtopics": [
+    {
+     "name": "Extended programming task (15-mark scenario)",
+     "target": 12,
+     "existing": 0,
+     "to_write": 12
+    },
+    {
+     "name": "String handling and operators",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Data types, variables, constants, selection and iteration",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Pre-release material tasks (old syllabus)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "File handling",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Procedures, functions and library routines",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Arrays",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Maintainable programs",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Algorithm design and problem-solving",
+   "subtopics": [
+    {
+     "name": "Validation and verification",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Trace tables",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Writing, completing and explaining algorithms and flowcharts",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Finding and correcting errors in algorithms",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Standard methods (totalling, counting, max/min, linear search, bubble sort)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Program development life cycle, decomposition and design methods",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Test data",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Databases",
+   "subtopics": [
+    {
+     "name": "Queries (SQL, query-by-example in 2022)",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Tables, fields, records, primary keys and data types",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    }
+   ]
+  },
+  {
+   "topic": "Automated and emerging technologies",
+   "subtopics": [
+    {
+     "name": "Artificial intelligence, expert systems and machine learning",
+     "target": 20,
+     "existing": 0,
+     "to_write": 20
+    },
+    {
+     "name": "Robotics",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Automated systems",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  }
+ ]
+}

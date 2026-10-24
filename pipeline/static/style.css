@@ -160,3 +160,21 @@ abbr { text-decoration: none; border-bottom: 1px dotted var(--muted); }
 /* Footer */
 .foot { border-top: 1px solid var(--line); margin-top: 48px; padding: 24px 0 40px; background: var(--band); }
 .foot p { max-width: 80ch; }
+
+/* Practice questions (HomiLabs originals) */
+.pq { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; margin: 14px 0; }
+.pq header { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; margin-bottom: 6px; }
+.pq-n { font-weight: 700; }
+.pq-meta { font-size: 13px; color: var(--muted); }
+.pq .stem { margin: 6px 0; white-space: normal; }
+.pq-parts { list-style: none; padding: 0; margin: 6px 0; }
+.pq-parts li { margin: 8px 0; display: flex; gap: 6px; flex-wrap: wrap; }
+.p-label { font-weight: 600; }
+.p-text { flex: 1 1 60%; }
+.p-marks { color: var(--muted); font-size: 14px; white-space: nowrap; margin-left: auto; }
+.pq-ans { margin-top: 8px; border-top: 1px dashed var(--line); padding-top: 8px; }
+.pq-ans summary { cursor: pointer; color: var(--accent); font-weight: 600; font-size: 14px; }
+.pq-ans ol { list-style: none; padding: 0; }
+.pq-ans li { margin: 8px 0; }
+.working { font-size: 14px; color: var(--muted); margin-top: 2px; }
+.ln { display: block; }

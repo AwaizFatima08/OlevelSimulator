@@ -12,12 +12,22 @@ class TopicPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final total = subject.sessions.length;
+    final hasPractice = topic.practice.isNotEmpty;
     return DefaultTabController(
-      length: 3,
+      length: hasPractice ? 4 : 3,
       child: Scaffold(
         appBar: AppBar(
           title: Text(topic.name),
-          bottom: const TabBar(tabs: [Tab(text: 'By year'), Tab(text: 'Similar'), Tab(text: 'Subtopics')]),
+          bottom: TabBar(
+            isScrollable: hasPractice,
+            tabAlignment: hasPractice ? TabAlignment.start : null,
+            tabs: [
+              const Tab(text: 'By year'),
+              if (hasPractice) const Tab(text: 'Practice'),
+              const Tab(text: 'Similar'),
+              const Tab(text: 'Subtopics'),
+            ],
+          ),
         ),
         body: Column(
           children: [
@@ -37,6 +47,7 @@ class TopicPage extends StatelessWidget {
             Expanded(
               child: TabBarView(children: [
                 _ByYear(subject: subject, topic: topic),
+                if (hasPractice) _Practice(subject: subject, topic: topic),
                 _Similar(subject: subject, topic: topic),
                 _Subtopics(subject: subject, topic: topic),
               ]),
@@ -128,6 +139,132 @@ class _ByYearState extends State<_ByYear> with AutomaticKeepAliveClientMixin {
         Text('"Paper 42" means Paper 4, variant 2. Tap a question for details.',
             style: Theme.of(context).textTheme.bodySmall),
       ],
+    );
+  }
+}
+
+class _Practice extends StatelessWidget {
+  const _Practice({required this.subject, required this.topic});
+  final Subject subject;
+  final Topic topic;
+
+  @override
+  Widget build(BuildContext context) {
+    final qs = topic.practice;
+    return ListView.builder(
+      padding: const EdgeInsets.fromLTRB(16, 8, 16, 32),
+      itemCount: qs.length + 1,
+      itemBuilder: (context, i) {
+        if (i == 0) {
+          return Padding(
+            padding: const EdgeInsets.only(bottom: 8),
+            child: Text(
+                'Original practice questions written by HomiLabs in the exam style. They are not Cambridge past '
+                'paper questions. Try each one before showing the answer.',
+                style: Theme.of(context).textTheme.bodyMedium),
+          );
+        }
+        return _PracticeCard(subject: subject, number: i, question: qs[i - 1]);
+      },
+    );
+  }
+}
+
+final _arabicScript = RegExp(r'[\u0600-\u06FF]');
+final _latinWord = RegExp(r'[A-Za-z]{3}');
+// Where a mixed line switches script: "…کیجیے۔ (Translate …)" or "… word. اردو …" (same rule as build_site.py).
+final _scriptSwitch = RegExp(r'(?<=[۔؟:])\s+(?=[(A-Za-z])|\s+(?=\([A-Za-z])|(?<=[.?!)])\s+(?=[\u0600-\u06FF])');
+
+/// Urdu text (stems, parts, answers) reads right to left.
+TextDirection _dir(String s) => _arabicScript.hasMatch(s) ? TextDirection.rtl : TextDirection.ltr;
+
+/// Text whose lines may be Urdu, English or both; each line (and each script within a mixed line) gets its own
+/// direction and alignment.
+class _BidiText extends StatelessWidget {
+  const _BidiText(this.text, {this.style});
+  final String text;
+  final TextStyle? style;
+
+  @override
+  Widget build(BuildContext context) {
+    if (!_arabicScript.hasMatch(text)) return Text(text, style: style);
+    final pieces = <String>[
+      for (final ln in text.split('\n'))
+        if (_latinWord.hasMatch(ln)) ...ln.split(_scriptSwitch).where((x) => x.isNotEmpty) else ln,
+    ];
+    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+      for (final x in pieces)
+        Text(x, textDirection: _dir(x), textAlign: TextAlign.start, style: style),
+    ]);
+  }
+}
+
+class _PracticeCard extends StatefulWidget {
+  const _PracticeCard({required this.subject, required this.number, required this.question});
+  final Subject subject;
+  final int number;
+  final PracticeQuestion question;
+
+  @override
+  State<_PracticeCard> createState() => _PracticeCardState();
+}
+
+class _PracticeCardState extends State<_PracticeCard> {
+  bool _open = false;
+
+  @override
+  Widget build(BuildContext context) {
+    final q = widget.question;
+    final theme = Theme.of(context);
+    final muted = TextStyle(color: theme.colorScheme.onSurfaceVariant);
+    final pname = widget.subject.paperName(q.paper);
+    final calc = pname.contains('non-calculator') ? ' · no calculator' : pname.contains('calculator') ? ' · calculator' : '';
+    final level = q.difficulty.isEmpty ? '' : q.difficulty[0].toUpperCase() + q.difficulty.substring(1);
+    return Card(
+      margin: const EdgeInsets.only(bottom: 10),
+      child: Padding(
+        padding: const EdgeInsets.fromLTRB(14, 12, 14, 6),
+        child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+          Text('Q${widget.number}  ·  ${q.subtopic}', style: const TextStyle(fontWeight: FontWeight.w600)),
+          Text('$level · Paper ${q.paper} style$calc · ${q.marks} marks', style: muted.copyWith(fontSize: 13)),
+          if (q.stem.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 8), child: _BidiText(q.stem)),
+          for (final p in q.parts)
+            Padding(
+              padding: const EdgeInsets.only(top: 8),
+              child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                Text('(${p.label}) ', style: const TextStyle(fontWeight: FontWeight.w600)),
+                Expanded(child: _BidiText(p.text)),
+                Text('  [${p.marks}]', style: muted),
+              ]),
+            ),
+          Align(
+            alignment: Alignment.centerLeft,
+            child: TextButton.icon(
+              onPressed: () => setState(() => _open = !_open),
+              icon: Icon(_open ? Icons.visibility_off_outlined : Icons.visibility_outlined, size: 18),
+              label: Text(_open ? 'Hide answer' : 'Show answer'),
+            ),
+          ),
+          if (_open)
+            Container(
+              width: double.infinity,
+              margin: const EdgeInsets.only(bottom: 8),
+              padding: const EdgeInsets.all(10),
+              decoration: BoxDecoration(
+                  color: theme.colorScheme.surfaceContainerHighest, borderRadius: BorderRadius.circular(8)),
+              child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                for (final p in q.parts)
+                  Padding(
+                    padding: const EdgeInsets.symmetric(vertical: 4),
+                    child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+                      _BidiText('(${p.label}) ${p.answer}', style: const TextStyle(fontWeight: FontWeight.w600)),
+                      if (p.working.isNotEmpty) _BidiText(p.working, style: muted.copyWith(fontSize: 13)),
+                    ]),
+                  ),
+              ]),
+            ),
+        ]),
+      ),
     );
   }
 }

@@ -1,0 +1,736 @@
+{
+ "code": "5090",
+ "name": "Biology",
+ "papers": {
+  "1": "Paper 1 Multiple Choice",
+  "2": "Paper 2 Theory",
+  "3": "Paper 3 Practical",
+  "4": "Paper 4 Alternative to Practical",
+  "6": "Paper 6 Alternative to Practical (2022)"
+ },
+ "guide": "5090-biology.md",
+ "topics": [
+  {
+   "topic": "Biological molecules",
+   "subtopics": [
+    {
+     "name": "Food tests",
+     "target": 23,
+     "existing": 0,
+     "to_write": 23
+    },
+    {
+     "name": "Structure of carbohydrates, proteins & fats",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Water & elements",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Cells",
+   "subtopics": [
+    {
+     "name": "Microscopy & magnification",
+     "target": 17,
+     "existing": 0,
+     "to_write": 17
+    },
+    {
+     "name": "Cell structure & organelles",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Specialised cells & levels of organisation",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Movement into & out of cells",
+   "subtopics": [
+    {
+     "name": "Osmosis",
+     "target": 19,
+     "existing": 0,
+     "to_write": 19
+    },
+    {
+     "name": "Active transport",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Diffusion",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Enzymes",
+   "subtopics": [
+    {
+     "name": "Enzyme investigations",
+     "target": 16,
+     "existing": 0,
+     "to_write": 16
+    },
+    {
+     "name": "Enzyme action & specificity",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Effect of temperature",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Effect of pH",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Plant nutrition",
+   "subtopics": [
+    {
+     "name": "Limiting factors & rate investigations",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Mineral ions",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Leaf structure",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Photosynthesis equation & products",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Starch test on leaves",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Leaf structure (option)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Human nutrition",
+   "subtopics": [
+    {
+     "name": "Physical & chemical digestion",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Balanced diet & deficiencies",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Digestive system & organs",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Absorption & villi",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Assimilation & liver",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Balanced diet & deficiencies (option)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Transport in plants",
+   "subtopics": [
+    {
+     "name": "Transpiration & factors",
+     "target": 14,
+     "existing": 0,
+     "to_write": 14
+    },
+    {
+     "name": "Water uptake & root hairs",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Xylem & phloem structure",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Translocation",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Transpiration & factors (option)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Transport in humans",
+   "subtopics": [
+    {
+     "name": "Blood components",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Coronary heart disease & exercise",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Heart structure & function",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Blood vessels",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Circulatory system & double circulation",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Blood components (option)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Lymph & tissue fluid",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Blood vessels (option)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Respiration",
+   "subtopics": [
+    {
+     "name": "Anaerobic respiration (yeast/muscle)",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    },
+    {
+     "name": "Respiration investigations & respirometers",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Aerobic respiration",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    }
+   ]
+  },
+  {
+   "topic": "Gas exchange",
+   "subtopics": [
+    {
+     "name": "Breathing mechanism",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Gas exchange surfaces & alveoli",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Inspired vs expired air",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Smoking & lungs",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    }
+   ]
+  },
+  {
+   "topic": "Excretion",
+   "subtopics": [
+    {
+     "name": "Kidney & nephron",
+     "target": 18,
+     "existing": 0,
+     "to_write": 18
+    },
+    {
+     "name": "Urea & deamination",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Dialysis & transplants (option)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Kidney & nephron (option)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    },
+    {
+     "name": "Dialysis & transplants",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Coordination & response",
+   "subtopics": [
+    {
+     "name": "Eye & sense organs",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Homeostasis: temperature & skin",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Nervous system & reflex arc",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Tropisms & plant hormones",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Homeostasis: blood glucose",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Synapses",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Hormones",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Hormones (option)",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Drugs",
+   "subtopics": [
+    {
+     "name": "Medicinal drugs & antibiotics",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Misused drugs (alcohol, heroin, nicotine, steroids)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Characteristics & classification",
+   "subtopics": [
+    {
+     "name": "Classification & keys",
+     "target": 30,
+     "existing": 0,
+     "to_write": 30
+    }
+   ]
+  },
+  {
+   "topic": "Biotechnology & genetic modification",
+   "subtopics": [
+    {
+     "name": "Microorganisms in biotechnology & fermenters",
+     "target": 17,
+     "existing": 0,
+     "to_write": 17
+    },
+    {
+     "name": "Genetic modification",
+     "target": 13,
+     "existing": 0,
+     "to_write": 13
+    }
+   ]
+  },
+  {
+   "topic": "Organisms & environment",
+   "subtopics": [
+    {
+     "name": "Food chains & webs",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Energy flow & pyramids",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Populations & sampling",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Carbon cycle",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Nitrogen cycle",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Nitrogen cycle (option)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Disease & immunity",
+   "subtopics": [
+    {
+     "name": "Antibodies, immunity & vaccination",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Pathogens & transmission",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Specific diseases (cholera etc.)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Body defences",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Pathogens & transmission (option)",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Human influences on ecosystems",
+   "subtopics": [
+    {
+     "name": "Conservation & sustainability",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Water pollution & eutrophication",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Air pollution & climate change",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Habitat destruction & deforestation",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Food production & agriculture",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Food production & agriculture (option)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Reproduction",
+   "subtopics": [
+    {
+     "name": "Fertilisation, seeds & germination",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Flower structure & pollination",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Asexual vs sexual",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Menstrual cycle & hormones",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Pregnancy, placenta & birth",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Human reproductive organs & gametes",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Contraception & STIs",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Variation & selection",
+   "subtopics": [
+    {
+     "name": "Natural selection & resistance",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Adaptive features",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Continuous & discontinuous variation",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Selective breeding",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Mutation",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Inheritance",
+   "subtopics": [
+    {
+     "name": "Monohybrid crosses & pedigrees",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Chromosomes, genes & DNA",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Mitosis & meiosis",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Protein synthesis",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Codominance & blood groups",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Practical skills (generic)",
+   "subtopics": [
+    {
+     "name": "Graphs & tables",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Biological drawing",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Apparatus, measurement & safety",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Errors, reliability & improvements",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Variables, controls & planning",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  }
+ ]
+}

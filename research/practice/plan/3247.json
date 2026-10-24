@@ -1,0 +1,141 @@
+{
+ "code": "3247",
+ "name": "Urdu First Language",
+ "papers": {},
+ "guide": "3247-urdu-first-language.md",
+ "topics": [
+  {
+   "topic": "Reading comprehension",
+   "subtopics": [
+    {
+     "name": "Views of people in the passage",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Solutions, measures and advice",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Reasons and causes",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Facts, details and effects",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Personal evaluation",
+     "target": 1,
+     "existing": 0,
+     "to_write": 1
+    }
+   ]
+  },
+  {
+   "topic": "Composition (essay writing)",
+   "subtopics": [
+    {
+     "name": "Argumentative essay",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Discursive essay",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    },
+    {
+     "name": "Descriptive essay",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Narrative essay (story continuation)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    }
+   ]
+  },
+  {
+   "topic": "Unseen passage (literary appreciation)",
+   "subtopics": [
+    {
+     "name": "Unseen poem",
+     "target": 23,
+     "existing": 0,
+     "to_write": 23
+    },
+    {
+     "name": "Unseen prose extract",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    }
+   ]
+  },
+  {
+   "topic": "Poetry (set texts)",
+   "subtopics": [
+    {
+     "name": "Ghazal: style and mood",
+     "target": 15,
+     "existing": 0,
+     "to_write": 15
+    },
+    {
+     "name": "Humorous and satirical poetry",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Nazm: message and themes",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    }
+   ]
+  },
+  {
+   "topic": "Prose (set texts)",
+   "subtopics": [
+    {
+     "name": "Humorous essay",
+     "target": 11,
+     "existing": 0,
+     "to_write": 11
+    },
+    {
+     "name": "Short story (afsana)",
+     "target": 9,
+     "existing": 0,
+     "to_write": 9
+    },
+    {
+     "name": "Serious essay (mazmoon)",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Letters (khutoot)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+{
+ "code": "1123",
+ "name": "English Language",
+ "papers": {
+  "1": "Paper 1 (Writing until 2023, Reading from 2024)",
+  "2": "Paper 2 (Reading until 2023, Writing from 2024)"
+ },
+ "guide": "1123-english-language.md",
+ "topics": [
+  {
+   "topic": "Directed writing",
+   "subtopics": [
+    {
+     "name": "Formal letter",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Speech",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Email",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Report",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    }
+   ]
+  },
+  {
+   "topic": "Composition",
+   "subtopics": [
+    {
+     "name": "Descriptive (scene, place or event)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Narrative (given sentence)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Narrative (story prompt)",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Argumentative",
+     "target": 6,
+     "existing": 0,
+     "to_write": 6
+    },
+    {
+     "name": "Descriptive (people or things)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  },
+  {
+   "topic": "Summary writing",
+   "subtopics": [
+    {
+     "name": "Continuous summary",
+     "target": 22,
+     "existing": 0,
+     "to_write": 22
+    },
+    {
+     "name": "Note-making (content points)",
+     "target": 8,
+     "existing": 0,
+     "to_write": 8
+    }
+   ]
+  },
+  {
+   "topic": "Reading for ideas",
+   "subtopics": [
+    {
+     "name": "Opinion response using a text",
+     "target": 20,
+     "existing": 0,
+     "to_write": 20
+    },
+    {
+     "name": "Identifying advice in a passage",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    }
+   ]
+  },
+  {
+   "topic": "Reading for meaning",
+   "subtopics": [
+    {
+     "name": "Literal retrieval",
+     "target": 10,
+     "existing": 0,
+     "to_write": 10
+    },
+    {
+     "name": "Feelings with supporting evidence",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Own-words explanation",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Inference",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Vocabulary in context (MCQ)",
+     "target": 4,
+     "existing": 0,
+     "to_write": 4
+    },
+    {
+     "name": "Finding a word or phrase",
+     "target": 2,
+     "existing": 0,
+     "to_write": 2
+    }
+   ]
+  },
+  {
+   "topic": "Writer's use of language",
+   "subtopics": [
+    {
+     "name": "Meaning and effect of phrases",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Extended language analysis",
+     "target": 7,
+     "existing": 0,
+     "to_write": 7
+    },
+    {
+     "name": "Effect of a word or phrase",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Impressions conveyed",
+     "target": 5,
+     "existing": 0,
+     "to_write": 5
+    },
+    {
+     "name": "Suggestion to the reader",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    },
+    {
+     "name": "Word choice (why X rather than Y)",
+     "target": 3,
+     "existing": 0,
+     "to_write": 3
+    }
+   ]
+  }
+ ]
+}
