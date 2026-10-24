@@ -107,8 +107,8 @@
     {
      "name": "Valuation of inventory",
      "target": 5,
-     "existing": 4,
-     "to_write": 1
+     "existing": 5,
+     "to_write": 0
     },
     {
      "name": "Capital and revenue expenditure and receipts",
@@ -194,8 +194,8 @@
     {
      "name": "Accounting policies",
      "target": 6,
-     "existing": 5,
-     "to_write": 1
+     "existing": 6,
+     "to_write": 0
     }
    ]
   }

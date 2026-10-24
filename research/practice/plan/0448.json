@@ -14,26 +14,26 @@
     {
      "name": "Constitutional proposals and the Pakistan idea 1927–1935",
      "target": 9,
-     "existing": 7,
-     "to_write": 2
+     "existing": 9,
+     "to_write": 0
     },
     {
      "name": "Road to independence 1940–1947",
      "target": 8,
-     "existing": 5,
-     "to_write": 3
+     "existing": 8,
+     "to_write": 0
     },
     {
      "name": "Partition of Bengal and the Muslim League 1905–1906",
      "target": 6,
-     "existing": 5,
-     "to_write": 1
+     "existing": 6,
+     "to_write": 0
     },
     {
      "name": "1937 elections and Congress Rule",
      "target": 5,
-     "existing": 4,
-     "to_write": 1
+     "existing": 5,
+     "to_write": 0
     },
     {
      "name": "Reforms and protest 1909–1919",
@@ -49,8 +49,8 @@
     {
      "name": "British expansion and the East India Company",
      "target": 12,
-     "existing": 9,
-     "to_write": 3
+     "existing": 12,
+     "to_write": 0
     },
     {
      "name": "Religious revival movements",
@@ -67,8 +67,8 @@
     {
      "name": "Mughal decline and the Marathas",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 0
     },
     {
      "name": "Sir Syed Ahmad Khan and the Aligarh Movement",
@@ -90,20 +90,20 @@
     {
      "name": "Early years of Pakistan 1947–1958",
      "target": 5,
-     "existing": 4,
-     "to_write": 1
+     "existing": 5,
+     "to_write": 0
     },
     {
      "name": "Yahya Khan and the separation of East Pakistan 1969–1971",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 0
     },
     {
      "name": "Civilian governments and Musharraf 1988–1999",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 0
     },
     {
      "name": "Relations with India, China, Afghanistan and Bangladesh",
@@ -120,8 +120,8 @@
     {
      "name": "Zia-ul-Haq 1977–1988",
      "target": 3,
-     "existing": 2,
-     "to_write": 1
+     "existing": 3,
+     "to_write": 0
     },
     {
      "name": "Zulfikar Ali Bhutto 1971–1977",
@@ -138,8 +138,8 @@
     {
      "name": "Foreign policy of individual governments",
      "target": 2,
-     "existing": 1,
-     "to_write": 1
+     "existing": 2,
+     "to_write": 0
     },
     {
      "name": "UN, world organisations and the Muslim world",
@@ -161,14 +161,14 @@
     {
      "name": "Air transport and airports",
      "target": 9,
-     "existing": 7,
-     "to_write": 2
+     "existing": 9,
+     "to_write": 0
     },
     {
      "name": "Railways",
      "target": 7,
-     "existing": 4,
-     "to_write": 3
+     "existing": 7,
+     "to_write": 0
     },
     {
      "name": "Roads and motorways",
@@ -179,14 +179,14 @@
     {
      "name": "Seaports and dry ports",
      "target": 5,
-     "existing": 4,
-     "to_write": 1
+     "existing": 5,
+     "to_write": 0
     },
     {
      "name": "Transport and economic development",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 0
     }
    ]
   },
@@ -196,26 +196,26 @@
     {
      "name": "Large-scale manufacturing and location",
      "target": 12,
-     "existing": 8,
-     "to_write": 4
+     "existing": 12,
+     "to_write": 0
     },
     {
      "name": "Industrial growth policy (EPZs, SEZs, estates)",
      "target": 8,
-     "existing": 6,
-     "to_write": 2
+     "existing": 8,
+     "to_write": 0
     },
     {
      "name": "Cottage and small-scale industry",
      "target": 5,
-     "existing": 4,
-     "to_write": 1
+     "existing": 5,
+     "to_write": 0
     },
     {
      "name": "Informal sector",
      "target": 5,
-     "existing": 2,
-     "to_write": 3
+     "existing": 5,
+     "to_write": 0
     }
    ]
   },
@@ -225,8 +225,8 @@
     {
      "name": "Mountains and natural topography",
      "target": 9,
-     "existing": 7,
-     "to_write": 2
+     "existing": 9,
+     "to_write": 0
     },
     {
      "name": "Rivers and floodplains",
@@ -254,14 +254,14 @@
     {
      "name": "Climate graphs, regions and seasons",
      "target": 12,
-     "existing": 9,
-     "to_write": 3
+     "existing": 12,
+     "to_write": 0
     },
     {
      "name": "Climate extremes and hazards",
      "target": 11,
-     "existing": 10,
-     "to_write": 1
+     "existing": 11,
+     "to_write": 0
     },
     {
      "name": "Temperature factors",
@@ -283,8 +283,8 @@
     {
      "name": "Coal, oil and natural gas",
      "target": 9,
-     "existing": 8,
-     "to_write": 1
+     "existing": 9,
+     "to_write": 0
     },
     {
      "name": "Solar, wind and other renewables",
@@ -301,8 +301,8 @@
     {
      "name": "Thermal power",
      "target": 3,
-     "existing": 2,
-     "to_write": 1
+     "existing": 3,
+     "to_write": 0
     },
     {
      "name": "Hydel power",
@@ -318,8 +318,8 @@
     {
      "name": "Major crops",
      "target": 14,
-     "existing": 9,
-     "to_write": 5
+     "existing": 14,
+     "to_write": 0
     },
     {
      "name": "Agricultural problems, land reform and output",
@@ -347,8 +347,8 @@
     {
      "name": "Water supply, shortage and pollution",
      "target": 19,
-     "existing": 11,
-     "to_write": 8
+     "existing": 19,
+     "to_write": 0
     },
     {
      "name": "Irrigation methods",
@@ -376,8 +376,8 @@
     {
      "name": "Urbanisation and living conditions",
      "target": 6,
-     "existing": 4,
-     "to_write": 2
+     "existing": 6,
+     "to_write": 0
     },
     {
      "name": "Population growth and structure",
@@ -428,8 +428,8 @@
     {
      "name": "Trading partners and balance of trade",
      "target": 16,
-     "existing": 12,
-     "to_write": 4
+     "existing": 16,
+     "to_write": 0
     },
     {
      "name": "Factors affecting trade",
@@ -451,8 +451,8 @@
     {
      "name": "Deforestation and sustainable forestry",
      "target": 24,
-     "existing": 19,
-     "to_write": 5
+     "existing": 24,
+     "to_write": 0
     },
     {
      "name": "Forest and vegetation types",

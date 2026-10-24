@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "2026-10.4",
+ "version": "2026-10.5",
  "label": "May/June 2022 to May/June 2026",
  "sessions": [
   "2022-MJ",
@@ -71,7 +71,7 @@
    "level": "igcse",
    "name": "Mathematics",
    "file": "/data/0580.json",
-   "bytes": 449990,
+   "bytes": 609338,
    "questions": 2103
   },
   {
@@ -79,7 +79,7 @@
    "level": "igcse",
    "name": "Physics",
    "file": "/data/0625.json",
-   "bytes": 288625,
+   "bytes": 507955,
    "questions": 1475
   },
   {
@@ -87,7 +87,7 @@
    "level": "igcse",
    "name": "Chemistry",
    "file": "/data/0620.json",
-   "bytes": 326220,
+   "bytes": 630493,
    "questions": 1365
   },
   {
@@ -95,7 +95,7 @@
    "level": "igcse",
    "name": "Biology",
    "file": "/data/0610.json",
-   "bytes": 309084,
+   "bytes": 927931,
    "questions": 1317
   },
   {
@@ -103,7 +103,7 @@
    "level": "a-level",
    "name": "Mathematics",
    "file": "/data/9709.json",
-   "bytes": 344406,
+   "bytes": 605551,
    "questions": 1481
   },
   {
@@ -223,7 +223,7 @@
    "level": "igcse",
    "name": "Computer Science",
    "file": "/data/0478.json",
-   "bytes": 372333,
+   "bytes": 395640,
    "questions": 162
   },
   {
@@ -239,7 +239,7 @@
    "level": "igcse",
    "name": "Accounting",
    "file": "/data/0452.json",
-   "bytes": 264031,
+   "bytes": 267442,
    "questions": 360
   },
   {
@@ -279,7 +279,7 @@
    "level": "igcse",
    "name": "Pakistan Studies",
    "file": "/data/0448.json",
-   "bytes": 544868,
+   "bytes": 677721,
    "questions": 50
   },
   {

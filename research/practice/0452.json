@@ -5670,5 +5670,64 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "0452-g1-001",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Rabia owns a clothing shop in Lahore. Her financial year ended on 30 June 2026. On that date she counted the following inventory.\n\nLawn suits: 120 suits. Cost price Rs 2,400 each plus carriage inwards of Rs 50 each. Normal selling price Rs 3,800 each.\nLeather sandals: 80 pairs. Cost price Rs 1,750 each plus carriage inwards of Rs 30 each. They were damaged by a water leak. After repairs costing Rs 150 per pair they can be sold for Rs 1,600 per pair.\nWool shawls: 45 shawls. Cost price Rs 3,200 each (no carriage). They will be sold through an agent for Rs 4,000 each; the agent takes a commission of 10% of the selling price.\n\nRabia's bookkeeper had valued all the inventory at cost including carriage inwards.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the rule used to value inventory at the end of a financial year.",
+    "marks": 1,
+    "answer": "Inventory is valued at the lower of cost and net realisable value.",
+    "working": "B1 lower of cost and net realisable value (both terms needed)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the correct value of Rabia's closing inventory on 30 June 2026. Show your workings for each item.",
+    "marks": 4,
+    "answer": "Rs 554,000",
+    "working": "Lawn suits: cost 2,450 < NRV 3,800 → 120 × 2,450 = Rs 294,000 (B1). Sandals: cost 1,780; NRV 1,600 − 150 = 1,450 → 80 × 1,450 = Rs 116,000 (B1). Shawls: cost 3,200; NRV 4,000 − 400 = 3,600 → 45 × 3,200 = Rs 144,000 (B1). Total Rs 554,000 (B1 own figure)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the effect on Rabia's gross profit for the year of the bookkeeper's valuation, stating whether gross profit was overstated or understated.",
+    "marks": 2,
+    "answer": "Gross profit overstated by Rs 26,400",
+    "working": "Bookkeeper's value at cost = Rs 580,400 (M1). Closing inventory too high by Rs 580,400 − 554,000 = Rs 26,400, so cost of sales too low and gross profit overstated by Rs 26,400 (A1)."
+   },
+   {
+    "label": "d",
+    "text": "Name the accounting principle that is applied when inventory is reduced to its net realisable value. Explain why this principle is applied.",
+    "marks": 2,
+    "answer": "Prudence: profits and assets should not be overstated, so the expected loss is recognised now.",
+    "working": "B1 prudence. B1 explanation: assets/profits must not be overstated; losses are recognised as soon as they are expected (profits only when realised)."
+   }
+  ],
+  "check": "554000 == 120*min(2400+50, 3800) + 80*min(1750+30, 1600-150) + 45*min(3200, 4000-0.1*4000) and 26400 == (120*2450 + 80*1780 + 45*3200) - 554000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0452-g1-002",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A listed company in Kenya prepares its annual financial statements under International Financial Reporting Standards and uses the same layout and methods every year. As a result, an investor can judge the company's performance against previous years and against a rival company in the same industry.\n\nWhich characteristic of useful financial information does this mainly describe?\nA comparability\nB relevance\nC reliability\nD understandability",
+    "marks": 1,
+    "answer": "A comparability",
+    "working": "Using the same standards and methods each year and the same standards as other firms allows users to compare over time and between businesses: comparability. D is wrong: understandability means information is presented clearly so users with reasonable knowledge can follow it, not that it can be compared. B (helps decisions/timely) and C (free from error and bias) do not describe comparison."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]

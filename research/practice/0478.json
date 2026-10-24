@@ -7931,5 +7931,419 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "0478-g1-001",
+  "topic": "Data representation",
+  "subtopic": "Number systems and conversions",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "An engineer in a textile factory in Faisalabad is testing the microcontroller in a weaving machine. A memory address in the microcontroller is shown on her laptop as the hexadecimal number 3FA.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Convert the address 3FA to a 12-bit binary number.",
+    "marks": 2,
+    "answer": "0011 1111 1010",
+    "working": "M1: each hex digit converted to 4 bits (3 → 0011, F → 1111, A → 1010). A1: correct 12-bit number."
+   },
+   {
+    "label": "b",
+    "text": "Convert the address 3FA to denary. Show your working.",
+    "marks": 2,
+    "answer": "1018",
+    "working": "M1: 3 × 256 + 15 × 16 + 10 × 1 (or from the binary place values 512 + 256 + 128 + 64 + 32 + 16 + 8 + 2). A1: 1018."
+   },
+   {
+    "label": "c",
+    "text": "State, in hexadecimal, the address of the next memory location after 3FA.",
+    "marks": 1,
+    "answer": "3FB",
+    "working": "B1: 3FB."
+   },
+   {
+    "label": "d",
+    "text": "Give one reason why the engineer reads memory addresses in hexadecimal rather than in binary.",
+    "marks": 1,
+    "answer": "Hexadecimal is shorter and easier to read and remember than a long binary string, so mistakes are less likely (each hex digit stands for exactly 4 bits, so it converts easily back to binary).",
+    "working": "1 mark for any one of: shorter / fewer digits; easier for humans to read, remember or type; fewer errors when copying; converts directly to binary (1 digit = 4 bits)."
+   }
+  ],
+  "check": "0b001111111010 == 1018 and 3*256 + 15*16 + 10 == 1018 and 3*256 + 15*16 + 11 == 1018 + 1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-002",
+  "topic": "The internet and its uses",
+  "subtopic": "HTML structure and presentation (old syllabus)",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "The webmaster of a school in Quetta is building a notice page for the school website using HTML.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by the structure of a web page written in HTML.",
+    "marks": 1,
+    "answer": "The structure is the layout and content of the page: which elements it contains (headings, paragraphs, images, links, tables) and where they appear.",
+    "working": "1 mark for: the layout / content / elements of the page and where they are placed (e.g. headings, paragraphs, images)."
+   },
+   {
+    "label": "b",
+    "text": "State what is meant by the presentation of a web page.",
+    "marks": 1,
+    "answer": "The presentation is the formatting or style of the content, for example its colours, fonts and text sizes.",
+    "working": "1 mark for: how the content looks / its formatting or style (colour, font, size, background)."
+   },
+   {
+    "label": "c",
+    "text": "Give two examples of presentation that the webmaster could set for the school's notice page.",
+    "marks": 2,
+    "answer": "Any two of: the background colour; the font (typeface) of the text; the text size; the colour of the headings; borders or spacing around elements.",
+    "working": "1 mark each for any two valid presentation features (colour, font, font size, background, border, alignment/spacing)."
+   },
+   {
+    "label": "d",
+    "text": "For each change below, state whether it changes the structure or the presentation of the notice page.\n(i) A new paragraph giving the date of the sports day is added.\n(ii) The headings are made larger and changed to dark blue.",
+    "marks": 2,
+    "answer": "(i) Structure\n(ii) Presentation",
+    "working": "1 mark each: (i) structure – new content/element added to the page; (ii) presentation – only the size and colour (style) of existing content change."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-003",
+  "topic": "The internet and its uses",
+  "subtopic": "HTML structure and presentation (old syllabus)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Part of the HTML file for the home page of an online shop in Karachi is shown below. Line numbers are given for reference only.\n1 <html>\n2 <head>\n3 <title>Bazaar Deals</title>\n4 <link rel=\"stylesheet\" href=\"shop.css\">\n5 </head>\n6 <body>\n7 <h1 style=\"color: green;\">Eid Sale</h1>\n8 <p>All brass lamps are 20% off this week.</p>\n9 <img src=\"lamp.jpg\" alt=\"Brass lamp\">\n10 </body>\n11 </html>",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the two lines of this file that deal with presentation rather than structure.",
+    "marks": 2,
+    "answer": "Line 4: <link rel=\"stylesheet\" href=\"shop.css\">\nLine 7: <h1 style=\"color: green;\">Eid Sale</h1> (the style attribute)",
+    "working": "1 mark: the link to the stylesheet (line 4). 1 mark: the inline style attribute on the heading (line 7)."
+   },
+   {
+    "label": "b",
+    "text": "Describe what line 4 does when the page is loaded in a browser.",
+    "marks": 2,
+    "answer": "It tells the browser to load the external stylesheet file shop.css and apply the presentation rules in it (colours, fonts, sizes) to the elements of this page.",
+    "working": "1 mark: links / loads the external file shop.css. 1 mark: the styles in it are applied to the page's content."
+   },
+   {
+    "label": "c",
+    "text": "The shop has 30 pages and wants every main heading on all of them to be green. Explain why it is better to put this rule in shop.css than to use a style attribute like the one on line 7 in every page.",
+    "marks": 3,
+    "answer": "If the rule is in shop.css it is written once and every page that links to the file uses it, so all 30 headings look the same. To change the colour later, only one line in one file needs editing instead of 30 pages, which saves time and avoids missing a page. It also keeps the HTML files containing only structure, so they are shorter and easier to maintain.",
+    "working": "1 mark each for any three of: written once / reused by all pages; consistent appearance; a later change is made in one place only; less chance of error (missing a page); HTML kept for structure only / shorter, easier to maintain; smaller total download as the CSS file can be cached."
+   },
+   {
+    "label": "d",
+    "text": "State where the text in line 3 is displayed by the browser.",
+    "marks": 1,
+    "answer": "In the browser tab (title bar), not in the body of the page.",
+    "working": "1 mark: browser tab / title bar."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-004",
+  "topic": "Software",
+  "subtopic": "Ethics and software licensing (old syllabus)",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "Mehwish downloads a photo-editing program for her laptop. The program is shareware.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by copyright.",
+    "marks": 1,
+    "answer": "Copyright is the legal right of the creator (owner) of a work, such as a program, to control how it is copied, used and distributed.",
+    "working": "1 mark: legal protection / right of the owner or creator to stop others copying or distributing the work without permission."
+   },
+   {
+    "label": "b",
+    "text": "Describe what is meant by shareware.",
+    "marks": 3,
+    "answer": "Shareware is software that users can try free of charge for a limited trial period (or with some features disabled). To keep using it, or to unlock all features, the user must pay for a licence. It is still protected by copyright and the source code is not supplied, so users may not modify it.",
+    "working": "1 mark each for any three of: free to try / free trial; limited time or limited features; must pay (register / buy a licence) to continue or get full version; protected by copyright; source code not available / cannot be modified."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-005",
+  "topic": "Software",
+  "subtopic": "Ethics and software licensing (old syllabus)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Freeware and free software are two different ways of distributing programs.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For each statement, write whether it applies to freeware only, free software only, both, or neither.\n(i) The user may study and change the source code.\n(ii) The program is protected by copyright.\n(iii) The user must pay once a 30-day trial has ended.\n(iv) The source code is normally not supplied to the user.",
+    "marks": 4,
+    "answer": "(i) Free software only\n(ii) Both\n(iii) Neither\n(iv) Freeware only",
+    "working": "1 mark for each correct answer. (iii) describes shareware, so it is neither. Free software is still copyrighted; its licence gives users the freedom to run, study, change and redistribute it."
+   },
+   {
+    "label": "b",
+    "text": "A programmer in Nairobi releases a mobile app for farmers as free software. Explain one benefit to the programmer of doing this.",
+    "marks": 2,
+    "answer": "Other programmers can read and improve the source code, so bugs are found and fixed and new features are added at no cost to her, making the app better (and more widely used).",
+    "working": "1 mark for a benefit, 1 mark for expansion. Accept: others can find/fix bugs or add features (1) so the app improves without extra cost/time to her (1); or the app spreads widely (1) building her reputation (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-006",
+  "topic": "Software",
+  "subtopic": "Ethics and software licensing (old syllabus)",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A software company in Lahore sells an accounting program to shops. It finds that unlicensed copies of the program are being used in many markets.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by software piracy.",
+    "marks": 1,
+    "answer": "Copying, distributing or using software without the permission of the copyright owner (without a valid licence).",
+    "working": "1 mark: illegal copying / use / distribution of software without a licence or permission."
+   },
+   {
+    "label": "b",
+    "text": "Describe three methods the software company could use to reduce the illegal copying of its accounting program.",
+    "marks": 3,
+    "answer": "Any three of: a unique product key or activation code that must be entered during installation; online activation that links the licence to one device, so the same key cannot be used on many computers; a licence agreement that the user must accept before installing; a dongle that must be plugged in for the program to run; digital rights management / encryption that stops the files being copied and used.",
+    "working": "1 mark each for any three described methods: product key / activation code; online registration or activation tied to a device; licence agreement; dongle; DRM / copy protection / encryption of files."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-007",
+  "topic": "Software",
+  "subtopic": "Ethics and software licensing (old syllabus)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A software house in Karachi is developing a delivery-tracking app. Three things happen during the project.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by computer ethics.",
+    "marks": 1,
+    "answer": "A set of principles (moral rules) about what is right and wrong when using computers.",
+    "working": "1 mark: moral principles / rules of acceptable behaviour for using computers and software."
+   },
+   {
+    "label": "b",
+    "text": "For each action below, explain why it is unethical, and state any law or licence it breaks.\n(i) Faraz copies large sections of program code he wrote for his previous employer into the new product, without permission.\n(ii) The office manager buys one single-user licence for a graphics program and installs it on all 20 office computers.\n(iii) A network technician reads customers' private messages stored on the company server because he is curious.",
+    "marks": 6,
+    "answer": "(i) The code belongs to the previous employer, not Faraz; reusing it without permission breaks the employer's copyright (intellectual property theft / plagiarism).\n(ii) A single-user licence allows installation on one computer only; installing it on 20 computers breaks the licence agreement and is software piracy, and the developer loses income.\n(iii) He has access to the server only to do his job; reading private messages breaks customers' privacy and trust and misuses his access (it may break data protection law).",
+    "working": "2 marks per action: (i) code owned by the previous employer (1); copyright / intellectual property infringed or plagiarism (1). (ii) licence allows one machine only (1); breach of licence / piracy, developer loses money (1). (iii) invasion of privacy / breach of confidentiality (1); misuse of authorised access / may break data protection law (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-008",
+  "topic": "Software",
+  "subtopic": "Ethics and software licensing (old syllabus)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A group of university students in Kuala Lumpur has written a timetable app. They are deciding whether to distribute it as freeware, shareware or free software.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The students hope to earn money from the app in future. Explain why distributing it as shareware would help them do this.",
+    "marks": 2,
+    "answer": "Users can try the app free, which attracts many of them; after the trial (or to unlock all features) they must pay for a licence, which brings income to the students.",
+    "working": "1 mark: free trial attracts users / lets them see its value. 1 mark: users must pay to continue or to get the full version, giving income."
+   },
+   {
+    "label": "b",
+    "text": "Explain one drawback to the students of releasing the app as free software instead.",
+    "marks": 2,
+    "answer": "The source code must be made available and anyone may copy, change and redistribute it, so a competitor could release their own version (even sell it) and the students would find it hard to earn money from their work.",
+    "working": "1 mark: source code available / others may modify and redistribute. 1 mark: so others could copy or compete with it and the students lose control or income."
+   },
+   {
+    "label": "c",
+    "text": "The students used a code library written by another programmer. Explain what plagiarism is and how they can make sure they do not plagiarise the library.",
+    "marks": 2,
+    "answer": "Plagiarism is presenting someone else's work or ideas as your own. They should credit (acknowledge) the library's author in the app and documentation and follow the terms of the library's licence.",
+    "working": "1 mark: definition – using another person's work and claiming it as your own. 1 mark: acknowledge / credit the author and keep to the library's licence terms."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-009",
+  "topic": "Hardware",
+  "subtopic": "Primary, secondary, virtual and cloud storage",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A newspaper in Peshawar keeps 15 years of photographs on a single external hard disk drive in its office. The editor is thinking of moving the whole archive to cloud storage.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two benefits to the newspaper of moving its photo archive to cloud storage.",
+    "marks": 4,
+    "answer": "1. The photos can be reached from any device with an internet connection, so reporters working away from the office can find and use old photos.\n2. The cloud provider keeps copies on servers in other places and backs them up, so the archive is safe if the office drive fails or the office suffers fire, theft or flooding.\n(Also accept: storage can be increased easily when needed without buying new drives; the provider looks after maintenance and security of the hardware.)",
+    "working": "2 marks per benefit (1 for the benefit, 1 for expansion linked to the newspaper), for any two of: access from anywhere / any device; off-site copies and provider backups protect against loss of the single drive; easily scalable capacity; no hardware to buy or maintain."
+   },
+   {
+    "label": "b",
+    "text": "Explain two drawbacks of using cloud storage for the archive.",
+    "marks": 4,
+    "answer": "1. An internet connection is needed; if it is slow or down, photos cannot be accessed, and uploading 15 years of large image files may take a long time.\n2. The photos are held by a third party, so the newspaper depends on the provider's security and reliability; data could be hacked or lost if the provider has an outage or closes.\n(Also accept: a monthly or yearly fee must be paid for as long as the service is used.)",
+    "working": "2 marks per drawback (1 + 1 expansion), for any two of: needs internet access / limited by bandwidth; security and privacy depend on a third party; provider outage or failure; ongoing subscription cost."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-010",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Pre-release style scenario (practise as if you had programmed it beforehand):\nA cricket academy in Sialkot measures the speed of every delivery in km/h at a fast-bowling camp. There are 8 bowlers and each bowls 6 deliveries.\nTask 1 – store the names of the 8 bowlers, then input the 6 speeds for each bowler. A speed is valid only if it is from 60 to 160 km/h.\nTask 2 – calculate and output each bowler's name and average speed, rounded to one decimal place.\nTask 3 – find and output the fastest single delivery of the camp and the name of the bowler who bowled it.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write pseudocode to declare the arrays needed for Task 1. Use BowlerName to store the 8 names and Speed to store the 6 speeds of each bowler.",
+    "marks": 2,
+    "answer": "DECLARE BowlerName : ARRAY[1:8] OF STRING\nDECLARE Speed : ARRAY[1:8, 1:6] OF REAL",
+    "working": "1 mark: BowlerName as a 1D array of 8 strings. 1 mark: Speed as a 2D array 8 × 6 of REAL."
+   },
+   {
+    "label": "b",
+    "text": "Write pseudocode for the part of Task 1 that inputs and validates one speed and stores it in Speed[B, D], where B is the bowler number and D the delivery number.",
+    "marks": 3,
+    "answer": "OUTPUT \"Enter speed in km/h\"\nINPUT S\nWHILE S < 60 OR S > 160 DO\n    OUTPUT \"Invalid – speed must be from 60 to 160\"\n    INPUT S\nENDWHILE\nSpeed[B, D] ← S",
+    "working": "1 mark: prompt and input. 1 mark: loop with the correct range check (< 60 OR > 160) and an error message with re-input. 1 mark: valid value stored in Speed[B, D]."
+   },
+   {
+    "label": "c",
+    "text": "State which of these inputs your validation would reject: 58, 60, 160, 172.5",
+    "marks": 1,
+    "answer": "58 and 172.5",
+    "working": "1 mark for both values and no others (60 and 160 are boundary values that are accepted)."
+   },
+   {
+    "label": "d",
+    "text": "In Task 2, Usman's six speeds are 132.4, 138.0, 141.6, 129.9, 135.2 and 137.5. Calculate his average speed, rounded to one decimal place.",
+    "marks": 2,
+    "answer": "135.8 km/h",
+    "working": "M1: total 814.6 ÷ 6 (= 135.766…). A1: 135.8."
+   },
+   {
+    "label": "e",
+    "text": "Explain how your program would carry out Task 3.",
+    "marks": 3,
+    "answer": "Set Fastest to the first speed, Speed[1, 1], and FastBowler to 1. Use nested loops to visit every bowler (1 to 8) and every delivery (1 to 6). If Speed[B, D] is greater than Fastest, store it in Fastest and store B in FastBowler. After the loops output BowlerName[FastBowler] and Fastest.",
+    "working": "1 mark: initialise the highest value (first element or 0) with a variable for the bowler. 1 mark: nested loops through all 48 speeds comparing each with the highest so far and updating both variables. 1 mark: output the name (using the stored index) and the speed."
+   }
+  ],
+  "check": "round((132.4 + 138.0 + 141.6 + 129.9 + 135.2 + 137.5) / 6, 1) == 135.8 and abs((132.4 + 138.0 + 141.6 + 129.9 + 135.2 + 137.5) - 814.6) < 1e-9 and [x for x in [58, 60, 160, 172.5] if x < 60 or x > 160] == [58, 172.5]",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-011",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Pre-release style scenario (practise as if you had programmed it beforehand):\nA coach company runs three trips a day from Lahore to Islamabad, leaving at 07:00, 13:00 and 19:00 (departures 1, 2 and 3). Each coach has 40 seats.\nTask 1 – set up an array SeatsLeft[1:3] with every value set to 40, and set the day's takings to 0.\nTask 2 – for a booking, input the departure (1 to 3) and the number of adult and child passengers. An adult ticket costs Rs 2800 and a child ticket Rs 1400. A group of 6 or more passengers gets 10% off the total cost. Refuse the booking if there are not enough seats left. Otherwise output the cost, update the seats left and add the cost to the takings.\nTask 3 – at the end of the day, output the total takings and the departure time that carried the most passengers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write an algorithm in pseudocode for Task 2. Assume the array SeatsLeft[1:3] and a REAL variable Takings have already been set up in Task 1.",
+    "marks": 6,
+    "answer": "REPEAT\n    OUTPUT \"Departure (1, 2 or 3)\"\n    INPUT Dep\nUNTIL Dep >= 1 AND Dep <= 3\nOUTPUT \"Number of adults\"\nINPUT Adults\nOUTPUT \"Number of children\"\nINPUT Children\nTotal ← Adults + Children\nIF Total < 1 OR Total > SeatsLeft[Dep] THEN\n    OUTPUT \"Booking not possible – seats left: \", SeatsLeft[Dep]\nELSE\n    Cost ← Adults * 2800 + Children * 1400\n    IF Total >= 6 THEN\n        Cost ← Cost * 0.9\n    ENDIF\n    SeatsLeft[Dep] ← SeatsLeft[Dep] - Total\n    Takings ← Takings + Cost\n    OUTPUT \"Cost: Rs \", Cost\nENDIF",
+    "working": "1 mark each for: input and validation of the departure (1 to 3); input of adults and children with total calculated; check that 1 ≤ total ≤ seats left, with a message if not; cost = adults × 2800 + children × 1400; 10% discount only when total ≥ 6; seats left reduced and takings increased, with cost output."
+   },
+   {
+    "label": "b",
+    "text": "A family books 4 adult and 3 child tickets on one departure. Calculate the cost of the booking. Show your working.",
+    "marks": 2,
+    "answer": "Rs 13 860",
+    "working": "M1: 4 × 2800 + 3 × 1400 = 15 400. A1: 7 passengers ≥ 6 so 10% off: 15 400 × 0.9 = 13 860."
+   },
+   {
+    "label": "c",
+    "text": "A departure has 9 seats left. Give one normal, one boundary and one erroneous value to test the total number of passengers in a booking, and state the expected result of each.",
+    "marks": 3,
+    "answer": "Normal: 4 – booking accepted.\nBoundary: 9 – booking accepted (the largest group that fits; 10 would be rejected).\nErroneous: 15 (or −2, or \"two\") – booking rejected with an error message.",
+    "working": "1 mark each: a normal value between 1 and 9 with 'accepted'; a boundary value (9 or 1 accepted, or 10 / 0 rejected) with the correct result; an erroneous value (well outside the range or wrong type) with 'rejected'."
+   },
+   {
+    "label": "d",
+    "text": "Explain how Task 3 can find the departure with the most passengers, using SeatsLeft.",
+    "marks": 3,
+    "answer": "For each departure the passengers carried = 40 − SeatsLeft[d]. Set Most to the passengers on departure 1 and BestDep to 1, then loop through departures 2 to 3; if a departure's passengers is greater than Most, update Most and BestDep. Finally output the departure time for BestDep and Most.",
+    "working": "1 mark: passengers calculated as 40 − SeatsLeft (or the smallest SeatsLeft used). 1 mark: loop comparing each departure with the highest so far and storing which departure it is. 1 mark: output of the departure and the number of passengers (with total takings)."
+   }
+  ],
+  "check": "4*2800 + 3*1400 == 15400 and round((4*2800 + 3*1400) * 0.9) == 13860 and 4 + 3 >= 6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0478-g1-012",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A farmers' cooperative in Punjab keeps records of its fields in a table called CROPS.\nFieldID | Farmer | Crop | Acres | Tonnes | Irrigated\nF01 | Aslam | Wheat | 6.5 | 19.5 | TRUE\nF02 | Bushra | Cotton | 4.0 | 3.2 | FALSE\nF03 | Daud | Wheat | 3.5 | 8.4 | FALSE\nF04 | Farah | Rice | 8.0 | 28.8 | TRUE\nF05 | Ghulam | Wheat | 5.0 | 16.0 | TRUE\nF06 | Hamid | Cotton | 7.5 | 7.5 | TRUE\nF07 | Iqra | Rice | 2.5 | 6.0 | FALSE",
+  "parts": [
+   {
+    "label": "a(i)",
+    "text": "Write an SQL query to output the total number of tonnes produced by irrigated wheat fields.",
+    "marks": 3,
+    "answer": "SELECT SUM(Tonnes)\nFROM CROPS\nWHERE Crop = 'Wheat' AND Irrigated = TRUE;",
+    "working": "1 mark: SELECT SUM(Tonnes). 1 mark: FROM CROPS. 1 mark: WHERE Crop = 'Wheat' AND Irrigated = TRUE (text in quotes)."
+   },
+   {
+    "label": "a(ii)",
+    "text": "State the value your query returns.",
+    "marks": 1,
+    "answer": "35.5",
+    "working": "B1: 19.5 + 16.0 = 35.5 (F01 and F05; F03 is not irrigated)."
+   },
+   {
+    "label": "b",
+    "text": "Write the output of this query:\nSELECT Farmer, Acres\nFROM CROPS\nWHERE Acres > 5 OR Crop = 'Rice'\nORDER BY Acres DESC;",
+    "marks": 3,
+    "answer": "Farah | 8.0\nHamid | 7.5\nAslam | 6.5\nIqra | 2.5",
+    "working": "1 mark: the correct four records only (Ghulam's 5.0 is not > 5). 1 mark: only Farmer and Acres shown. 1 mark: in descending order of Acres."
+   },
+   {
+    "label": "c",
+    "text": "State the value returned by:\nSELECT COUNT(FieldID)\nFROM CROPS\nWHERE Irrigated = FALSE;",
+    "marks": 1,
+    "answer": "3",
+    "working": "B1: 3 (F02, F03, F07)."
+   }
+  ],
+  "check": "abs(sum([r[4] for r in [('F01','Aslam','Wheat',6.5,19.5,True),('F02','Bushra','Cotton',4.0,3.2,False),('F03','Daud','Wheat',3.5,8.4,False),('F04','Farah','Rice',8.0,28.8,True),('F05','Ghulam','Wheat',5.0,16.0,True),('F06','Hamid','Cotton',7.5,7.5,True),('F07','Iqra','Rice',2.5,6.0,False)] if r[2] == 'Wheat' and r[5]]) - 35.5) < 1e-9 and [(r[1], r[3]) for r in sorted([r for r in [('F01','Aslam','Wheat',6.5,19.5,True),('F02','Bushra','Cotton',4.0,3.2,False),('F03','Daud','Wheat',3.5,8.4,False),('F04','Farah','Rice',8.0,28.8,True),('F05','Ghulam','Wheat',5.0,16.0,True),('F06','Hamid','Cotton',7.5,7.5,True),('F07','Iqra','Rice',2.5,6.0,False)] if r[3] > 5 or r[2] == 'Rice'], key=lambda r: -r[3])] == [('Farah', 8.0), ('Hamid', 7.5), ('Aslam', 6.5), ('Iqra', 2.5)] and len([r for r in [('F02',False),('F03',False),('F07',False),('F01',True),('F04',True),('F05',True),('F06',True)] if not r[1]]) == 3",
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]

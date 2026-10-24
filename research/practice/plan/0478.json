@@ -14,8 +14,8 @@
     {
      "name": "Number systems and conversions",
      "target": 12,
-     "existing": 11,
-     "to_write": 1
+     "existing": 12,
+     "to_write": 0
     },
     {
      "name": "Binary addition, overflow, shifts and two's complement",
@@ -67,8 +67,8 @@
     {
      "name": "HTML structure and presentation (old syllabus)",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 0
     },
     {
      "name": "Digital currency and blockchain",
@@ -96,8 +96,8 @@
     {
      "name": "Ethics and software licensing (old syllabus)",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 0
     },
     {
      "name": "Interrupts",
@@ -130,8 +130,8 @@
     {
      "name": "Primary, secondary, virtual and cloud storage",
      "target": 9,
-     "existing": 8,
-     "to_write": 1
+     "existing": 9,
+     "to_write": 0
     },
     {
      "name": "CPU components and the fetch-decode-execute cycle",
@@ -177,8 +177,8 @@
     {
      "name": "Pre-release material tasks (old syllabus)",
      "target": 5,
-     "existing": 3,
-     "to_write": 2
+     "existing": 5,
+     "to_write": 0
     },
     {
      "name": "String handling and operators",
@@ -271,8 +271,8 @@
     {
      "name": "Queries (SQL, query-by-example in 2022)",
      "target": 17,
-     "existing": 16,
-     "to_write": 1
+     "existing": 17,
+     "to_write": 0
     },
     {
      "name": "Tables, fields, records, primary keys and data types",
