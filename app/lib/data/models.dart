@@ -77,7 +77,19 @@ class Manifest {
       );
 
   /// True when [other] is a newer release than this one.
-  bool isOlderThan(Manifest other) => other.version.compareTo(version) > 0;
+  bool isOlderThan(Manifest other) => compareVersions(other.version, version) > 0;
+}
+
+/// Compares release versions such as "2026-10.9" and "2026-10.10" number by number (a plain string compare would put
+/// "2026-10.10" before "2026-10.9"). Non-numeric pieces fall back to text order.
+int compareVersions(String a, String b) {
+  final pa = a.split(RegExp(r'[-.]')), pb = b.split(RegExp(r'[-.]'));
+  for (var i = 0; i < pa.length && i < pb.length; i++) {
+    final na = int.tryParse(pa[i]), nb = int.tryParse(pb[i]);
+    final c = (na != null && nb != null) ? na.compareTo(nb) : pa[i].compareTo(pb[i]);
+    if (c != 0) return c;
+  }
+  return pa.length.compareTo(pb.length);
 }
 
 class Question {

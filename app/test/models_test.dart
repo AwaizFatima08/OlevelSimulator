@@ -14,7 +14,7 @@ void main() {
   final manifest = Manifest.fromJson(_asset('manifest.json'));
 
   test('manifest lists every pack and its levels', () {
-    expect(manifest.version, matches(RegExp(r'^\d{4}-\d{2}(\.\d+)?$')));
+    expect(manifest.version, matches(RegExp(r'^\d{4}-\d{2}(\.\d+)*$')));
     expect(manifest.levels.map((l) => l.id), containsAll(['o-level', 'igcse', 'a-level']));
     expect(manifest.packs, isNotEmpty);
     for (final p in manifest.packs) {

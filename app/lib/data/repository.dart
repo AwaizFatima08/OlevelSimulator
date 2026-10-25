@@ -35,7 +35,7 @@ class ContentRepository {
     final prefs = await SharedPreferences.getInstance();
     final savedVersion = prefs.getString(_prefsVersion);
     final savedDir = prefs.getString(_prefsDir);
-    if (savedVersion != null && savedDir != null && savedVersion.compareTo(bundled.version) > 0) {
+    if (savedVersion != null && savedDir != null && compareVersions(savedVersion, bundled.version) > 0) {
       try {
         _manifest = Manifest.fromJson(await _readJson(savedDir, 'manifest.json'));
         _dir = savedDir;
