@@ -180,3 +180,5 @@ abbr { text-decoration: none; border-bottom: 1px dotted var(--muted); }
 .ln { display: block; }
 .ln.mono { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, monospace; font-size: 13px; white-space: pre; overflow-x: auto; }
 .q-official { font-size: 13px; white-space: nowrap; margin-left: 6px; }
+.notice { margin: 16px 0 4px; padding: 12px 14px; border-left: 4px solid var(--accent); background: var(--band); border-radius: 8px; font-size: 14px; }
+.notice p { margin: 0; }

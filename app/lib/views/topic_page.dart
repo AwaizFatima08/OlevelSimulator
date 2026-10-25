@@ -59,6 +59,34 @@ class TopicPage extends StatelessWidget {
   }
 }
 
+/// What a topic page is (and is not): an analysis with references, plus original practice questions.
+class _AboutTopic extends StatelessWidget {
+  const _AboutTopic({required this.hasPractice});
+  final bool hasPractice;
+
+  @override
+  Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    return Container(
+      margin: const EdgeInsets.only(top: 8, bottom: 10),
+      padding: const EdgeInsets.all(12),
+      decoration: BoxDecoration(
+        color: scheme.surfaceContainerHighest,
+        borderRadius: BorderRadius.circular(10),
+        border: Border(left: BorderSide(color: scheme.primary, width: 4)),
+      ),
+      child: Text(
+        'This topic page is an analysis: it shows where questions on this topic appeared in Cambridge past papers, '
+        'with their marks, but not the questions themselves. Where Cambridge publishes a paper on its website, the '
+        'question links to it; other papers are not public, and your school can get them from Cambridge.'
+        '${hasPractice ? ' To practise now, open the Practice tab: original exam-style questions by HomiLabs, '
+            'with answers and mark schemes.' : ''}',
+        style: Theme.of(context).textTheme.bodySmall,
+      ),
+    );
+  }
+}
+
 class _ByYear extends StatefulWidget {
   const _ByYear({required this.subject, required this.topic});
   final Subject subject;
@@ -102,6 +130,7 @@ class _ByYearState extends State<_ByYear> with AutomaticKeepAliveClientMixin {
     return ListView(
       padding: const EdgeInsets.fromLTRB(16, 4, 16, 32),
       children: [
+        _AboutTopic(hasPractice: widget.topic.practice.isNotEmpty),
         SingleChildScrollView(
           scrollDirection: Axis.horizontal,
           child: Row(children: [
@@ -136,7 +165,9 @@ class _ByYearState extends State<_ByYear> with AutomaticKeepAliveClientMixin {
         ...children,
         if (shown.isEmpty) const Padding(padding: EdgeInsets.all(24), child: Text('No questions match this filter.')),
         const SizedBox(height: 12),
-        Text('"Paper 42" means Paper 4, variant 2. Tap a question for details.',
+        Text(
+            'References only, not question text. Tap a question to open the official paper where Cambridge publishes '
+            'it; for other papers, ask your school. "Paper 42" means Paper 4, variant 2.',
             style: Theme.of(context).textTheme.bodySmall),
       ],
     );
@@ -159,8 +190,9 @@ class _Practice extends StatelessWidget {
           return Padding(
             padding: const EdgeInsets.only(bottom: 8),
             child: Text(
-                'Original practice questions written by HomiLabs in the exam style. They are not Cambridge past '
-                'paper questions. Try each one before showing the answer.',
+                'Original questions written by HomiLabs in the style of the exam, with answers and mark schemes. They '
+                'are not Cambridge past paper questions and have not been reviewed by Cambridge. Try each one before '
+                'showing the answer.',
                 style: Theme.of(context).textTheme.bodyMedium),
           );
         }
@@ -297,7 +329,9 @@ class _Similar extends StatelessWidget {
     return ListView(
       padding: const EdgeInsets.fromLTRB(16, 8, 16, 32),
       children: [
-        Text('Questions that test the same subtopic in different years. Practise them together.',
+        Text(
+            'Questions that test the same subtopic in different years, grouped so you can work on one skill at a time. '
+            'References only: find each question in its paper.',
             style: Theme.of(context).textTheme.bodyMedium),
         const SizedBox(height: 8),
         for (final (st, qs) in groups)

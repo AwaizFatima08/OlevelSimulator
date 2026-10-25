@@ -375,6 +375,8 @@ def build_topic(subj, d, t):
     chips = "".join(f'<button type="button" class="chip" data-year-chip="{y}" aria-pressed="false">{y}</button>' for y in years)
     paper_opts = "".join(f'<option value="{p}">{esc(subj["papers"].get(p, "Paper " + p))}</option>' for p in t["papers"])
     practice_html = practice_section(subj, t)
+    practice_line = (' To practise now, try the <a href="#practice">practice questions</a>: original exam-style questions'
+                     ' written by HomiLabs for this topic, with answers and mark schemes.') if t["practice"] else ""
     subs_rows = "".join(
         f'<tr><td>{esc(s["name"])} {badge(s["sessions"], total)}</td><td class="num">{s["marks"]:g}</td>'
         f'<td class="num">{s["sessions"]}/{total}</td></tr>' for s in t["subtopics"])
@@ -385,6 +387,12 @@ def build_topic(subj, d, t):
   <p class="lede">{len(t['questions'])} questions · about {t['share']:.0f}% of the marks we indexed · examined in {t['sessions']} of {total} sessions.</p>
 </header>
 <nav class="tabs" aria-label="Sections"><a href="#by-year">Questions by year</a>{'<a href="#practice">Practice questions</a>' if t["practice"] else ''}<a href="#similar">Similar questions</a><a href="#subtopics">Subtopics</a></nav>
+<aside class="notice" role="note">
+  <p><strong>About this page.</strong> This page is a topic analysis: it shows where questions on this topic appeared in
+  Cambridge past papers, with their marks, but not the questions themselves. Where Cambridge publishes a paper on its own
+  website, the question has an <strong>Official paper ↗</strong> link. Other papers are not public; your school can get
+  them from Cambridge.{practice_line}</p>
+</aside>
 <section id="by-year">
   <h2>Questions by year</h2>
   <div class="filters" data-filters>
@@ -393,16 +401,19 @@ def build_topic(subj, d, t):
   </div>
   {year_html}
   <p class="empty" hidden>No questions match this filter.</p>
-  <p class="note">Find the full paper on the <a href="{official_url(subj)}" rel="noopener">official Cambridge past-papers page</a>
-  or ask your school. “Paper 42” means Paper 4, variant 2.</p>
+  <p class="note">References only, not question text. Open <strong>Official paper ↗</strong> where Cambridge publishes the paper,
+  or see the <a href="{official_url(subj)}" rel="noopener">official Cambridge past-papers page</a>; for other papers, ask your
+  school. “Paper 42” means Paper 4, variant 2.</p>
 </section>
 {practice_html}<section id="similar">
   <h2>Similar questions</h2>
-  <p>Questions that test the same subtopic in different years. Practise them together to master one skill.</p>
+  <p>Questions that test the same subtopic in different years, grouped so you can work on one skill at a time.</p>
+  <p class="note">References only: find each question in its paper (official link where available, otherwise through your school).</p>
   {''.join(similar) or '<p class="note">No subtopic in this topic has appeared in more than one session yet.</p>'}
 </section>
 <section id="subtopics">
   <h2>Subtopics</h2>
+  <p class="note">Our analysis of how often each subtopic was examined and how many marks it carried, 2022 to {esc(RELEASE['latest_session'])}.</p>
   <div class="table-wrap"><table class="topics"><thead><tr><th>Subtopic</th><th class="num">Marks indexed</th><th class="num">Sessions</th></tr></thead>
   <tbody>{subs_rows}</tbody></table></div>
 </section>
@@ -466,8 +477,8 @@ def practice_section(subj, t):
             f'<details class="pq-ans"><summary>Show answer</summary><ol>{answers}</ol></details></article>')
     return f"""<section id="practice">
   <h2>Practice questions</h2>
-  <p class="note">Original practice questions written by HomiLabs in the exam style. They are not Cambridge past paper
-  questions. Try each one before opening the answer.</p>
+  <p class="note">Original questions written by HomiLabs in the style of the exam, with answers and mark schemes. They are not
+  Cambridge past paper questions and have not been reviewed by Cambridge. Try each one before opening the answer.</p>
   {''.join(cards)}
 </section>
 """
