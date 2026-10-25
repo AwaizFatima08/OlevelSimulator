@@ -1,7 +1,8 @@
-# Cambridge IGCSE Question Simulator (folder O_Level)
+# Question Simulator (folder O_Level)
 
 Non-profit study site + planned Android app. Repo: https://github.com/AwaizFatima08/OlevelSimulator (PUBLIC).
-Live URL: https://cambridgesimulator.homilabs.org. See README.md, docs/architecture.md, docs/release-checklist.md.
+Live URL: https://questionsimulator.homilabs.org (since 26 Oct 2026; the old cambridgesimulator.homilabs.org
+301-redirects pages there and still serves /data/ for installed 0.1.0 apps — keep both hPanel Git deployments). See README.md, docs/architecture.md, docs/release-checklist.md.
 
 ## Rules
 - `papers/` holds Cambridge past papers for local analysis only. Never commit, upload or publish them, or any
@@ -14,7 +15,7 @@ Live URL: https://cambridgesimulator.homilabs.org. See README.md, docs/architect
 - Release every six months via docs/release-checklist.md; bump `pipeline/release.json`.
 - Publishing (push to `deploy`, hPanel changes) only with Homi's OK in chat.
 
-## Status (20 Oct 2026)
+## Status (26 Oct 2026)
 - Website: release 2026-10.2 (39 subjects, 22,383 questions) live since 20 Oct 2026 (redeployed via hPanel GIT after the
   Hostinger outage). Hostinger auto-deploy did not fire on push that day: after publish.sh, check the live manifest and Redeploy if needed.
   Fallback: `python3 scripts/ftp_publish.py` (needs an FTP password set in hPanel → FTP Accounts; Homi signs in with Google).
@@ -22,8 +23,9 @@ Live URL: https://cambridgesimulator.homilabs.org. See README.md, docs/architect
   release 1 (0.1.0) sent for review 20 Oct 2026, managed publishing off (goes live when approved), 178 countries.
   Listing kit: docs/play-listing.md, graphics in store/. Next versionCode ≥ 2.
 - Cambridge permission enquiry sent 23 Oct 2026; REFUSED (reply received by 25 Oct 2026, docs/cambridge-permission-email.md):
-  no permission for stand-alone platforms that reproduce, organise or give access to Cambridge questions. Their marks
-  "Cambridge"/"IGCSE" are still in the site name and subdomain — rename under consideration.
+  no permission for stand-alone platforms that reproduce, organise or give access to Cambridge questions. Site renamed
+  "Question Simulator" (release 2026-10.9); "Cambridge"/"IGCSE" only used descriptively. Questions from papers Cambridge
+  publishes itself link to its PDF (tools/fetch_official_links.py → pipeline/official_papers.json; rerun each release).
 - Practice questions (HomiLabs originals, not Cambridge): 15,368 across all 39 subjects (≥30 per topic), live since
   release 2026-10.8 (25 Oct 2026). Source research/practice/<code>.json; brief BRIEF.md; targets plan/; validate with
   `python3 pipeline/practice_check.py <code>`; new writer files merge with practice_merge.py. The 7 identical IGCSE
