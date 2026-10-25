@@ -49,3 +49,16 @@ Notes for Homi (not part of the email):
   £600 (101+) per application, charged even if refused; processing takes about 3 weeks. This email is the step before that.
 - Until a written yes arrives, the app and website stay as they are (references and analysis only).
 - Pearson Edexcel equivalent, if ever needed: copyrightPQS@pearson.com.
+
+---
+
+## Reply (received by 25 Oct 2026) — permission refused
+
+From Jayne Neale, Support Officer, Publisher Relations, Cambridge University Press & Assessment. Summary: permission is
+not granted for the reproduction of Cambridge past paper questions within the app or website. The permissions process
+is mainly for approved extracts in published educational resources; permission is not normally granted for stand-alone
+digital products or platforms whose primary purpose is to reproduce, organise, deliver or provide access to collections
+of Cambridge examination questions.
+
+Consequences: no question text or images, ever; references + HomiLabs-original practice questions only; links go to
+cambridgeinternational.org only (never to mirror sites). Consider removing "Cambridge"/"IGCSE" from the product name.
