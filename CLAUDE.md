@@ -20,8 +20,10 @@ Live URL: https://questionsimulator.homilabs.org (since 26 Oct 2026; the old cam
   Hostinger outage). Hostinger auto-deploy did not fire on push that day: after publish.sh, check the live manifest and Redeploy if needed.
   Fallback: `python3 scripts/ftp_publish.py` (needs an FTP password set in hPanel → FTP Accounts; Homi signs in with Google).
 - Google Play: "Question Simulator: Exam Prep", app id 4972626578894733558 (HomiLabs org account), production
-  release 1 (0.1.0) sent for review 20 Oct 2026, managed publishing off (goes live when approved), 178 countries.
-  Listing kit: docs/play-listing.md, graphics in store/. Next versionCode ≥ 2.
+  release 1 (0.1.0) live in 178 countries. Release 2 (0.2.0: practice questions, new name/site, official links)
+  sent for review 26 Oct 2026, full roll-out, managed publishing off (goes live when approved); privacy URL moved to
+  questionsimulator.homilabs.org in the same review. Listing kit: docs/play-listing.md, graphics in store/.
+  Next versionCode ≥ 3. App compares release versions numerically from 0.2.0 (0.1.0 compares as text).
 - Cambridge permission enquiry sent 23 Oct 2026; REFUSED (reply received by 25 Oct 2026, docs/cambridge-permission-email.md):
   no permission for stand-alone platforms that reproduce, organise or give access to Cambridge questions. Site renamed
   "Question Simulator" (release 2026-10.9); "Cambridge"/"IGCSE" only used descriptively. Questions from papers Cambridge
@@ -31,7 +33,6 @@ Live URL: https://questionsimulator.homilabs.org (since 26 Oct 2026; the old cam
   `python3 pipeline/practice_check.py <code>`; new writer files merge with practice_merge.py. The 7 identical IGCSE
   twins are copied from O Level by practice_twins.py (edit the O Level file, then rerun). All marked reviewed=false:
   Islamiyat, Urdu, Pakistan Studies, Psychology and the biology subjects most need a teacher's review.
-- App: Practice tab is in the code but ships only with app 0.2.0 (versionCode 2); data packs are now ~21 MB.
 - Release builds: `bash scripts/build_release.sh` (upload key in .secrets/, key.properties gitignored).
 - Tested on Galaxy Tab S9 FE (Android 16) and Oppo CPH2743 (Android 16, 320 dp + text 1.15); 13 tests pass.
 - Question CSVs: the 12 original syllabuses cover every variant; the other subjects use variant 2 of each written paper.
