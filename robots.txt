@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://cambridgesimulator.homilabs.org/sitemap.xml
+Sitemap: https://questionsimulator.homilabs.org/sitemap.xml

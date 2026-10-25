@@ -1,4 +1,4 @@
-// Cambridge IGCSE Question Simulator: topic table search and question filters. No tracking, no storage beyond this page.
+// Question Simulator: topic table search and question filters. No tracking, no storage beyond this page.
 document.addEventListener("DOMContentLoaded", () => {
   // Topic search on subject pages.
   document.querySelectorAll("[data-filter-table]").forEach((input) => {

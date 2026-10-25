@@ -1,5 +1,9 @@
 # Force HTTPS, custom 404, sensible caching (HTML/JSON always fresh so releases show at once)
 RewriteEngine On
+# The site moved from cambridgesimulator.homilabs.org (Oct 2026). Pages redirect; /data/ stays for installed 0.1.0 apps.
+RewriteCond %{HTTP_HOST} ^cambridgesimulator\.homilabs\.org$ [NC]
+RewriteCond %{REQUEST_URI} !^/data/
+RewriteRule ^ https://questionsimulator.homilabs.org%{REQUEST_URI} [L,R=301]
 RewriteCond %{HTTPS} off
 RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 ErrorDocument 404 /404.html
