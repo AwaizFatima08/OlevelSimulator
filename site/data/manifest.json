@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "2026-10.9.1",
+ "version": "2026-10.9.2",
  "label": "May/June 2022 to May/June 2026",
  "sessions": [
   "2022-MJ",
@@ -13,7 +13,7 @@
   "2025-ON",
   "2026-MJ"
  ],
- "built": "2026-10-25",
+ "built": "2026-10-26",
  "site": "https://questionsimulator.homilabs.org",
  "levels": [
   {

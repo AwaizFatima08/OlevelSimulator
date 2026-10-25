@@ -251,6 +251,52 @@ class _PracticeCard extends StatefulWidget {
 
 class _PracticeCardState extends State<_PracticeCard> {
   bool _open = false;
+  final _picked = <String, String>{}; // part label → option letter the student tapped
+
+  /// Multiple-choice part: tap an option to check it; the answer and explanation then open.
+  Widget _mcq(BuildContext context, PracticePart p) {
+    final m = p.mcq!;
+    final picked = _picked[p.label];
+    final scheme = Theme.of(context).colorScheme;
+    return Column(crossAxisAlignment: CrossAxisAlignment.stretch, children: [
+      if (m.question.trim().isNotEmpty) _BidiText(m.question),
+      const SizedBox(height: 6),
+      for (final (letter, option) in m.options)
+        Padding(
+          padding: const EdgeInsets.only(bottom: 6),
+          child: OutlinedButton(
+            style: OutlinedButton.styleFrom(
+              alignment: Alignment.centerLeft,
+              padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 10),
+              backgroundColor: picked == null
+                  ? null
+                  : letter == m.answer
+                      ? Colors.green.withValues(alpha: 0.15)
+                      : letter == picked
+                          ? scheme.error.withValues(alpha: 0.12)
+                          : null,
+              side: BorderSide(
+                  color: picked != null && letter == m.answer
+                      ? Colors.green
+                      : picked == letter
+                          ? scheme.error
+                          : scheme.outlineVariant),
+            ),
+            onPressed: picked != null ? null : () => setState(() {
+              _picked[p.label] = letter;
+              _open = true;
+            }),
+            child: Row(children: [
+              Text('$letter  ', style: const TextStyle(fontWeight: FontWeight.w700)),
+              Expanded(child: _BidiText(option)),
+            ]),
+          ),
+        ),
+      if (picked != null)
+        Text(picked == m.answer ? 'Correct!' : 'Not quite: the answer is ${m.answer}.',
+            style: TextStyle(fontWeight: FontWeight.w600, color: picked == m.answer ? Colors.green : scheme.error)),
+    ]);
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -266,14 +312,14 @@ class _PracticeCardState extends State<_PracticeCard> {
         padding: const EdgeInsets.fromLTRB(14, 12, 14, 6),
         child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
           Text('Q${widget.number}  ·  ${q.subtopic}', style: const TextStyle(fontWeight: FontWeight.w600)),
-          Text('$level · Paper ${q.paper} style$calc · ${q.marks} marks', style: muted.copyWith(fontSize: 13)),
+          Text('$level · Paper ${q.paper} style$calc · ${q.marks} mark${q.marks == 1 ? '' : 's'}', style: muted.copyWith(fontSize: 13)),
           if (q.stem.isNotEmpty) Padding(padding: const EdgeInsets.only(top: 8), child: _BidiText(q.stem)),
           for (final p in q.parts)
             Padding(
               padding: const EdgeInsets.only(top: 8),
               child: Row(crossAxisAlignment: CrossAxisAlignment.start, children: [
                 Text('(${p.label}) ', style: const TextStyle(fontWeight: FontWeight.w600)),
-                Expanded(child: _BidiText(p.text)),
+                Expanded(child: p.mcq == null ? _BidiText(p.text) : _mcq(context, p)),
                 Text('  [${p.marks}]', style: muted),
               ]),
             ),

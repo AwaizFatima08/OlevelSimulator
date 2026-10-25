@@ -176,6 +176,30 @@ class PracticePart {
   final String answer;
   final String working;
 
+  static final _option = RegExp(r'^\s*\(?([A-D])[\s.)]\s*(\S.*)$');
+  static final _answerLetter = RegExp(r'^\s*\(?([A-D])\b');
+
+  /// For a multiple-choice part: the question lines, the options (letter → text) and the correct letter.
+  ({String question, List<(String, String)> options, String answer})? get mcq {
+    final lines = text.split('\n');
+    final opts = <(String, String)>[];
+    int? first;
+    for (var i = 0; i < lines.length; i++) {
+      final m = _option.firstMatch(lines[i]);
+      if (m != null) {
+        first ??= i;
+        opts.add((m.group(1)!, m.group(2)!));
+      }
+    }
+    final letters = [for (final o in opts) o.$1];
+    final ans = _answerLetter.firstMatch(answer)?.group(1);
+    final sorted = [...letters]..sort();
+    if (opts.length < 3 || letters.join() != sorted.join() || letters.first != 'A' || ans == null || !letters.contains(ans)) {
+      return null;
+    }
+    return (question: lines.sublist(0, first).join('\n'), options: opts, answer: ans);
+  }
+
   factory PracticePart.fromJson(Map<String, dynamic> j) => PracticePart(
         label: j['label'] as String,
         text: j['text'] as String,

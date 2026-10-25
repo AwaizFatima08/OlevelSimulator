@@ -49,3 +49,24 @@ document.addEventListener("DOMContentLoaded", () => {
     apply();
   }));
 });
+
+// Practice multiple-choice: tap an option to check it; the explanation opens with "Show answer".
+document.querySelectorAll(".mcq").forEach((box) => {
+  const result = box.nextElementSibling;
+  box.addEventListener("click", (e) => {
+    const btn = e.target.closest(".opt");
+    if (!btn || box.dataset.done) return;
+    box.dataset.done = "1";
+    const right = btn.dataset.k === box.dataset.answer;
+    box.querySelectorAll(".opt").forEach((o) => {
+      o.disabled = true;
+      if (o.dataset.k === box.dataset.answer) o.classList.add("right");
+    });
+    if (!right) btn.classList.add("wrong");
+    result.hidden = false;
+    result.textContent = right ? "Correct!" : `Not quite: the answer is ${box.dataset.answer}.`;
+    result.className = "mcq-result " + (right ? "ok" : "no");
+    const details = box.closest(".pq")?.querySelector(".pq-ans");
+    if (details) details.open = true;
+  });
+});

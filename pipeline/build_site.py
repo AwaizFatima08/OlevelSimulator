@@ -452,6 +452,34 @@ def _txt(text):
     return "".join(f'<span class="{cls}" dir="auto">{ln}</span>' for ln in lines)
 
 
+_OPTION = re.compile(r"^\s*\(?([A-D])[\s.)]\s*(\S.*)$")
+_ANSWER_LETTER = re.compile(r"^\s*\(?([A-D])\b")
+
+
+def mcq_options(part):
+    """(question lines, [(letter, option text)], answer letter) for a multiple-choice part, else None."""
+    lines = part["text"].split("\n")
+    opts = [(m.group(1), m.group(2), i) for i, ln in enumerate(lines) if (m := _OPTION.match(ln))]
+    letters = [o[0] for o in opts]
+    ans = _ANSWER_LETTER.match(part["answer"])
+    if len(opts) < 3 or letters != sorted(letters) or letters[0] != "A" or not ans or ans.group(1) not in letters:
+        return None
+    first = opts[0][2]
+    return lines[:first], [(o[0], o[1]) for o in opts], ans.group(1)
+
+
+def part_body(part):
+    """Part text; multiple-choice options become buttons the student can tap (checked in app.js)."""
+    mcq = mcq_options(part)
+    if not mcq:
+        return _txt(part["text"])
+    question, opts, answer = mcq
+    buttons = "".join(f'<button type="button" class="opt" data-k="{k}"><b>{k}</b> <span dir="auto">{esc(v)}</span></button>'
+                      for k, v in opts)
+    return (f'{_txt(chr(10).join(question))}<span class="mcq" data-answer="{answer}">{buttons}</span>'
+            f'<span class="mcq-result" role="status" hidden></span>')
+
+
 def practice_section(subj, t):
     """Original HomiLabs questions for this topic, answers hidden until the student opens them."""
     if not t["practice"]:
@@ -463,7 +491,7 @@ def practice_section(subj, t):
         paper = f'Paper {q["paper"]} style' + (" · no calculator" if "non-calculator" in pname
                                                else " · calculator" if "calculator" in pname else "")
         parts = "".join(
-            f'<li><span class="p-label">({esc(p["label"])})</span> <span class="p-text" dir="auto">{_txt(p["text"])}</span>'
+            f'<li><span class="p-label">({esc(p["label"])})</span> <span class="p-text" dir="auto">{part_body(p)}</span>'
             f' <span class="p-marks">[{p["marks"]}]</span></li>' for p in q["parts"])
         answers = "".join(
             f'<li dir="auto"><strong>({esc(p["label"])})</strong> {_txt(p["answer"])}'
@@ -472,7 +500,7 @@ def practice_section(subj, t):
         stem = f'<p class="stem" dir="auto">{_txt(q["stem"])}</p>' if q.get("stem") else ""
         cards.append(
             f'<article class="pq" id="{esc(q["id"])}"><header><span class="pq-n">Q{i}</span>'
-            f'<span class="pq-meta">{esc(q["subtopic"])} · {esc(q["difficulty"].capitalize())} · {esc(paper)} · {total} marks</span>'
+            f'<span class="pq-meta">{esc(q["subtopic"])} · {esc(q["difficulty"].capitalize())} · {esc(paper)} · {total} mark{"" if total == 1 else "s"}</span>'
             f'</header>{stem}<ol class="pq-parts">{parts}</ol>'
             f'<details class="pq-ans"><summary>Show answer</summary><ol>{answers}</ol></details></article>')
     return f"""<section id="practice">
