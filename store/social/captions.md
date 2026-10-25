@@ -15,7 +15,7 @@ Files in `store/social/`:
 
 Pick your subject, open a topic, and see every time it came up from May/June 2022 to May/June 2026: which paper, which question, how many marks — plus similar questions to practise one skill across years.
 
-✅ 39 subjects, 22,383 questions — Maths, Physics, Chemistry, Biology, Add Maths, Computer Science, Economics, Accounting, Business, English, Pakistan Studies, Islamiyat, Urdu and more
+✅ 39 subjects, 26,340 questions — Maths, Physics, Chemistry, Biology, Add Maths, Computer Science, Economics, Accounting, Business, English, Pakistan Studies, Islamiyat, Urdu and more
 ✅ "Banker" topics that come up almost every session
 ✅ Filter by year and paper · tick questions done · save for later
 ✅ Works offline · no ads · no sign-up
@@ -31,7 +31,7 @@ A free, non-profit project by HomiLabs. Not affiliated with Cambridge University
 
 ## Instagram Reel caption
 Stuck on past papers? Practise by topic 📚
-39 O Level, IGCSE & A Level subjects · 22,383 questions · year by year since 2022 · banker topics · similar questions.
+39 O Level, IGCSE & A Level subjects · 26,340 questions · year by year since 2022 · banker topics · similar questions.
 Free, no ads, works offline.
 📲 Android: "Question Simulator: Exam Prep" on Google Play (link in bio)
 🌐 questionsimulator.homilabs.org

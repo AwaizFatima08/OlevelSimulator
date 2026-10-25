@@ -80,7 +80,7 @@ def facebook_post():
     d.text((168, 120), "FREE · NON-PROFIT · NO ADS", font=font(SANS_B, 22), fill=GREEN)
     d.text((64, 190), "Past paper questions,", font=font(SERIF_B, 66), fill=INK)
     d.text((64, 268), "sorted by topic and year", font=font(SERIF_B, 66), fill=GREEN)
-    d.text((66, 360), "O Level · IGCSE · A Level  —  39 subjects, 22,383 questions", font=font(SANS, 29), fill=MUTED)
+    d.text((66, 360), "O Level · IGCSE · A Level  —  39 subjects, 26,340 questions", font=font(SANS, 29), fill=MUTED)
     d.text((66, 400), "May/June 2022 to May/June 2026", font=font(SANS, 29), fill=MUTED)
     # Two phones, slightly overlapping.
     p1, p2 = phone(PHONE / "1-home.png", 330), phone(PHONE / "3-by-year.png", 330)

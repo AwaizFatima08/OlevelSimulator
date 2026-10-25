@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "version": "2026-10.9.2",
+ "version": "2026-10.9.3",
  "label": "May/June 2022 to May/June 2026",
  "sessions": [
   "2022-MJ",
@@ -79,24 +79,24 @@
    "level": "igcse",
    "name": "Physics",
    "file": "/data/0625.json",
-   "bytes": 513343,
-   "questions": 1475
+   "bytes": 764953,
+   "questions": 2846
   },
   {
    "code": "0620",
    "level": "igcse",
    "name": "Chemistry",
    "file": "/data/0620.json",
-   "bytes": 636959,
-   "questions": 1365
+   "bytes": 968804,
+   "questions": 2659
   },
   {
    "code": "0610",
    "level": "igcse",
    "name": "Biology",
    "file": "/data/0610.json",
-   "bytes": 933711,
-   "questions": 1317
+   "bytes": 1203027,
+   "questions": 2609
   },
   {
    "code": "9709",

@@ -91,7 +91,9 @@
    "slug": "physics",
    "guide": "0625-igcse-physics.md",
    "papers": {
+    "1": "Paper 1 Multiple Choice (Core)",
     "2": "Paper 2 Multiple Choice (Extended)",
+    "3": "Paper 3 Theory (Core)",
     "4": "Paper 4 Theory (Extended)",
     "5": "Paper 5 Practical",
     "6": "Paper 6 Alternative to Practical"
@@ -104,7 +106,9 @@
    "slug": "chemistry",
    "guide": "0620-igcse-chemistry.md",
    "papers": {
+    "1": "Paper 1 Multiple Choice (Core)",
     "2": "Paper 2 Multiple Choice (Extended)",
+    "3": "Paper 3 Theory (Core)",
     "4": "Paper 4 Theory (Extended)",
     "5": "Paper 5 Practical",
     "6": "Paper 6 Alternative to Practical"
@@ -117,7 +121,9 @@
    "slug": "biology",
    "guide": "0610-igcse-biology.md",
    "papers": {
+    "1": "Paper 1 Multiple Choice (Core)",
     "2": "Paper 2 Multiple Choice (Extended)",
+    "3": "Paper 3 Theory (Core)",
     "4": "Paper 4 Theory (Extended)",
     "5": "Paper 5 Practical",
     "6": "Paper 6 Alternative to Practical"

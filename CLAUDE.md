@@ -16,9 +16,9 @@ Live URL: https://questionsimulator.homilabs.org (since 26 Oct 2026; the old cam
 - Publishing (push to `deploy`, hPanel changes) only with Homi's OK in chat.
 
 ## Status (26 Oct 2026)
-- Website: release 2026-10.2 (39 subjects, 22,383 questions) live since 20 Oct 2026 (redeployed via hPanel GIT after the
-  Hostinger outage). Hostinger auto-deploy did not fire on push that day: after publish.sh, check the live manifest and Redeploy if needed.
-  Fallback: `python3 scripts/ftp_publish.py` (needs an FTP password set in hPanel → FTP Accounts; Homi signs in with Google).
+- Website: release 2026-10.9.3 (39 subjects, 26,340 indexed questions incl. IGCSE Core Papers 1/3 of 0625/0620/0610,
+  added 26 Oct 2026). Hostinger auto-deploy usually fires on push; after publish.sh check the live manifest and
+  Redeploy in hPanel if needed. Fallback: `python3 scripts/ftp_publish.py` (needs an FTP password from hPanel).
 - Google Play: "Question Simulator: Exam Prep", app id 4972626578894733558 (HomiLabs org account), production
   release 1 (0.1.0) live in 178 countries. Release 2 (0.2.0: practice questions, new name/site, official links)
   sent for review 26 Oct 2026, full roll-out, managed publishing off (goes live when approved); privacy URL moved to

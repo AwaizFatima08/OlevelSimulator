@@ -461,7 +461,9 @@ The route with **22 + 42 + 52** is within ±4 marks of these figures. For exampl
 
 ## 7. Core route (P1 / P3): brief note
 
-- **Not tagged item by item.**
+> **Update 26 Oct 2026:** the Core papers (Papers 11–13 and 31–33, all nine sessions) are now tagged item by item and included in the question index and topic pages. The topic shares above were computed before that and describe the Extended papers.
+
+
 - **Same structure as Extended:** P1 is 40 MCQs in 45 minutes, P3 is 80 marks in 1 h 15 min, and Core candidates sit the same P5/P6.
 - **Space physics** has appeared in every P12 and P32 since 2023, judging by keyword hits for planets, orbits and galaxies.
 - **Logic gates** never appeared on Core papers, even in 2022.

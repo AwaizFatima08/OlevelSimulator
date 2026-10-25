@@ -9,7 +9,7 @@ Question descriptions below are paraphrased, not quoted.
 - **Sessions:** 9 (May/June and Oct/Nov 2022 to 2025, plus May/June 2026).
 - **Main sample (Extended route):** variant 2 of Papers 2, 4 and 6 (22, 42, 62) in every session, every question part tagged. That is 27 papers and 1,440 marks.
 - **Practical Test (Paper 5):** variant 52 tagged for June 2023, June 2025 and June 2026 (120 marks; `paper = 5` in the CSV).
-- **Core (Papers 1 and 3):** cover pages, thresholds and an overlap check only (section 12).
+- **Core (Papers 1 and 3):** tagged item by item since 26 Oct 2026 (section 12).
 - **Marks:** MCQ items are 1 mark each. For Papers 4–6 the marks come from the `[n]` markers in the question paper, read by a script. **Every paper adds up exactly to its cover total** (40 / 80 / 40 / 40), and each question matches its `[Total: n]` line where one is printed.
 - **Classification:** each part goes to **one** topic and subtopic, chosen by what earns the marks:
   - a magnification or unit-conversion part goes to *Cells / Magnification & size*; a food-test method or result goes to *Biological molecules / Food tests*;
@@ -472,10 +472,13 @@ Moderate (4–5 sessions, usually one MCQ or a 1–2 mark part):
 
 ## 12. Core route (Papers 1 and 3): brief note
 
+> **Update 26 Oct 2026:** the Core papers (Papers 11–13 and 31–33, all nine sessions) are now tagged item by item and included in the question index and topic pages. The topic shares above were computed before that and describe the Extended papers.
+
+
 - **Paper 1** has 40 MCQ items in 45 minutes; **Paper 3** has 80 marks of structured questions in 1 h 15 min (typically 6–8 questions). Core is capped at grade C.
 - **Core thresholds:** C needs 110–123 of 200 weighted (55–62 %): 23–27 out of 40 on P1 and 42–49 out of 80 on P3.
 - **Overlap with Extended:** up to Nov 2023, P12 and P22 shared about 7–17 near-identical item stems per session. From June 2024 the text matching finds none, so Core MCQ appears to be written separately now. P32 and P42 share no part wording in any session. (Approximate: based on matching question text, not a full tagging.)
-- P3 asks the same syllabus topics with simpler demands: word equations rather than balanced ones (for example the photosynthesis word equation in June 2024), more naming and labelling, and no supplement content (no protein synthesis detail, no water potential, no sex-linked diagrams). The Extended topic order above is a fair guide, but the Core papers were not tagged.
+- P3 asks the same syllabus topics with simpler demands: word equations rather than balanced ones (for example the photosynthesis word equation in June 2024), more naming and labelling, and no supplement content (no protein synthesis detail, no water potential, no sex-linked diagrams). The Extended topic order above is a fair guide; the Core papers are now tagged too (see the update note).
 
 ## 13. Comparison with O Level Biology 5090
 
@@ -511,4 +514,4 @@ Moderate (4–5 sessions, usually one MCQ or a 1–2 mark part):
 - The 2022 comparison rests on two sessions only.
 - The style counts in section 8 come from command-word matching and are approximate.
 - The examiner-report evidence covers 2022, June 2023 and June 2025 only. There is no threshold sheet for June 2024.
-- Core papers were not tagged.
+- Core papers were tagged later (26 Oct 2026).

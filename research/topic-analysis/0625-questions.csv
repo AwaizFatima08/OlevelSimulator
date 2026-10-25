@@ -2879,3 +2879,2186 @@ session,paper,variant,question,part,topic,subtopic,marks
 2026-MJ,6,3,3,(c)(iv),Practical skills,Experimental planning & evaluation,2
 2026-MJ,6,3,3,(d),Practical skills,Graph & data analysis,2
 2026-MJ,6,3,4,-,Practical skills,Experimental planning & evaluation,7
+2022-MJ,1,1,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-MJ,1,1,2,-,"Motion, forces & energy",Motion (kinematics),1
+2022-MJ,1,1,3,-,"Motion, forces & energy",Motion (kinematics),1
+2022-MJ,1,1,4,-,"Motion, forces & energy","Mass, weight & density",1
+2022-MJ,1,1,5,-,"Motion, forces & energy","Mass, weight & density",1
+2022-MJ,1,1,6,-,"Motion, forces & energy",Springs & deformation,1
+2022-MJ,1,1,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-MJ,1,1,8,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-MJ,1,1,9,-,"Motion, forces & energy","Energy, work & power",1
+2022-MJ,1,1,10,-,"Motion, forces & energy","Energy, work & power",1
+2022-MJ,1,1,11,-,"Motion, forces & energy",Pressure,1
+2022-MJ,1,1,12,-,"Motion, forces & energy",Pressure,1
+2022-MJ,1,1,13,-,Thermal physics,Kinetic particle model & gases,1
+2022-MJ,1,1,14,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,1,1,15,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,1,1,16,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,1,1,17,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,1,1,18,-,Thermal physics,Thermal energy transfer,1
+2022-MJ,1,1,19,-,Thermal physics,Thermal energy transfer,1
+2022-MJ,1,1,20,-,Waves,General wave properties,1
+2022-MJ,1,1,21,-,Waves,General wave properties,1
+2022-MJ,1,1,22,-,Waves,Light: reflection & refraction,1
+2022-MJ,1,1,23,-,Waves,Lenses & dispersion,1
+2022-MJ,1,1,24,-,Waves,Electromagnetic spectrum,1
+2022-MJ,1,1,25,-,Waves,Electromagnetic spectrum,1
+2022-MJ,1,1,26,-,Electricity & magnetism,Magnetism,1
+2022-MJ,1,1,27,-,Electricity & magnetism,Magnetism,1
+2022-MJ,1,1,28,-,Electricity & magnetism,Electric charge & static,1
+2022-MJ,1,1,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,1,1,30,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,1,1,31,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,1,1,32,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,1,1,33,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,1,1,34,-,Electricity & magnetism,Electrical safety,1
+2022-MJ,1,1,35,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,1,1,36,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,1,1,37,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,1,1,38,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-MJ,1,1,39,-,Nuclear physics,Radioactivity,1
+2022-MJ,1,1,40,-,Nuclear physics,Radioactivity,1
+2022-MJ,1,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-MJ,1,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2022-MJ,1,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2022-MJ,1,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2022-MJ,1,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2022-MJ,1,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-MJ,1,2,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-MJ,1,2,8,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-MJ,1,2,9,-,"Motion, forces & energy","Energy, work & power",1
+2022-MJ,1,2,10,-,"Motion, forces & energy","Energy, work & power",1
+2022-MJ,1,2,11,-,"Motion, forces & energy",Pressure,1
+2022-MJ,1,2,12,-,"Motion, forces & energy",Pressure,1
+2022-MJ,1,2,13,-,Thermal physics,Kinetic particle model & gases,1
+2022-MJ,1,2,14,-,Thermal physics,Kinetic particle model & gases,1
+2022-MJ,1,2,15,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,1,2,16,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,1,2,17,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,1,2,18,-,Thermal physics,Thermal energy transfer,1
+2022-MJ,1,2,19,-,Thermal physics,Thermal energy transfer,1
+2022-MJ,1,2,20,-,Waves,General wave properties,1
+2022-MJ,1,2,21,-,Waves,General wave properties,1
+2022-MJ,1,2,22,-,Waves,Light: reflection & refraction,1
+2022-MJ,1,2,23,-,Waves,Lenses & dispersion,1
+2022-MJ,1,2,24,-,Waves,Electromagnetic spectrum,1
+2022-MJ,1,2,25,-,Waves,Electromagnetic spectrum,1
+2022-MJ,1,2,26,-,Electricity & magnetism,Magnetism,1
+2022-MJ,1,2,27,-,Electricity & magnetism,Magnetism,1
+2022-MJ,1,2,28,-,Electricity & magnetism,Electric charge & static,1
+2022-MJ,1,2,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,1,2,30,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,1,2,31,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,1,2,32,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,1,2,33,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,1,2,34,-,Electricity & magnetism,Electrical safety,1
+2022-MJ,1,2,35,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,1,2,36,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,1,2,37,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,1,2,38,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-MJ,1,2,39,-,Nuclear physics,Radioactivity,1
+2022-MJ,1,2,40,-,Nuclear physics,Radioactivity,1
+2022-MJ,1,3,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-MJ,1,3,2,-,"Motion, forces & energy",Motion (kinematics),1
+2022-MJ,1,3,3,-,"Motion, forces & energy",Motion (kinematics),1
+2022-MJ,1,3,4,-,"Motion, forces & energy","Mass, weight & density",1
+2022-MJ,1,3,5,-,"Motion, forces & energy","Mass, weight & density",1
+2022-MJ,1,3,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-MJ,1,3,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-MJ,1,3,8,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-MJ,1,3,9,-,"Motion, forces & energy","Energy, work & power",1
+2022-MJ,1,3,10,-,"Motion, forces & energy","Energy, work & power",1
+2022-MJ,1,3,11,-,"Motion, forces & energy",Pressure,1
+2022-MJ,1,3,12,-,"Motion, forces & energy",Pressure,1
+2022-MJ,1,3,13,-,Thermal physics,Kinetic particle model & gases,1
+2022-MJ,1,3,14,-,Thermal physics,Kinetic particle model & gases,1
+2022-MJ,1,3,15,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,1,3,16,-,Thermal physics,Kinetic particle model & gases,1
+2022-MJ,1,3,17,-,Thermal physics,Thermal properties & temperature,1
+2022-MJ,1,3,18,-,Thermal physics,Thermal energy transfer,1
+2022-MJ,1,3,19,-,Thermal physics,Thermal energy transfer,1
+2022-MJ,1,3,20,-,Waves,General wave properties,1
+2022-MJ,1,3,21,-,Waves,General wave properties,1
+2022-MJ,1,3,22,-,Waves,Light: reflection & refraction,1
+2022-MJ,1,3,23,-,Waves,Lenses & dispersion,1
+2022-MJ,1,3,24,-,Waves,Electromagnetic spectrum,1
+2022-MJ,1,3,25,-,Waves,Sound,1
+2022-MJ,1,3,26,-,Electricity & magnetism,Magnetism,1
+2022-MJ,1,3,27,-,Electricity & magnetism,Magnetism,1
+2022-MJ,1,3,28,-,Electricity & magnetism,Electric charge & static,1
+2022-MJ,1,3,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,1,3,30,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,1,3,31,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,1,3,32,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,1,3,33,-,Electricity & magnetism,Circuits & components,1
+2022-MJ,1,3,34,-,Electricity & magnetism,Electrical safety,1
+2022-MJ,1,3,35,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,1,3,36,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,1,3,37,-,Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,1,3,38,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-MJ,1,3,39,-,Nuclear physics,Radioactivity,1
+2022-MJ,1,3,40,-,Nuclear physics,Radioactivity,1
+2022-ON,1,1,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-ON,1,1,2,-,"Motion, forces & energy",Motion (kinematics),1
+2022-ON,1,1,3,-,"Motion, forces & energy","Mass, weight & density",1
+2022-ON,1,1,4,-,"Motion, forces & energy","Mass, weight & density",1
+2022-ON,1,1,5,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-ON,1,1,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-ON,1,1,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-ON,1,1,8,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,1,1,9,-,"Motion, forces & energy",Energy resources,1
+2022-ON,1,1,10,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,1,1,11,-,"Motion, forces & energy",Pressure,1
+2022-ON,1,1,12,-,Thermal physics,Kinetic particle model & gases,1
+2022-ON,1,1,13,-,Thermal physics,Kinetic particle model & gases,1
+2022-ON,1,1,14,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,1,1,15,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,1,1,16,-,Thermal physics,Thermal energy transfer,1
+2022-ON,1,1,17,-,Thermal physics,Thermal energy transfer,1
+2022-ON,1,1,18,-,Waves,General wave properties,1
+2022-ON,1,1,19,-,Waves,Lenses & dispersion,1
+2022-ON,1,1,20,-,Waves,Light: reflection & refraction,1
+2022-ON,1,1,21,-,Waves,Light: reflection & refraction,1
+2022-ON,1,1,22,-,Waves,Electromagnetic spectrum,1
+2022-ON,1,1,23,-,Waves,Electromagnetic spectrum,1
+2022-ON,1,1,24,-,Waves,Sound,1
+2022-ON,1,1,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,1,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,1,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,1,28,-,Electricity & magnetism,Electric charge & static,1
+2022-ON,1,1,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,1,30,-,Electricity & magnetism,Circuits & components,1
+2022-ON,1,1,31,-,Electricity & magnetism,Circuits & components,1
+2022-ON,1,1,32,-,Electricity & magnetism,Circuits & components,1
+2022-ON,1,1,33,-,Electricity & magnetism,Electrical safety,1
+2022-ON,1,1,34,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,1,1,35,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,1,1,36,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,1,1,37,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,1,1,38,-,Nuclear physics,Radioactivity,1
+2022-ON,1,1,39,-,Nuclear physics,Radioactivity,1
+2022-ON,1,1,40,-,Nuclear physics,Radioactivity,1
+2022-ON,1,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-ON,1,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2022-ON,1,2,3,-,"Motion, forces & energy","Mass, weight & density",1
+2022-ON,1,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2022-ON,1,2,5,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-ON,1,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-ON,1,2,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-ON,1,2,8,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,1,2,9,-,"Motion, forces & energy",Energy resources,1
+2022-ON,1,2,10,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,1,2,11,-,"Motion, forces & energy",Pressure,1
+2022-ON,1,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2022-ON,1,2,13,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,1,2,14,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,1,2,15,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,1,2,16,-,Waves,Electromagnetic spectrum,1
+2022-ON,1,2,17,-,Thermal physics,Thermal energy transfer,1
+2022-ON,1,2,18,-,Waves,General wave properties,1
+2022-ON,1,2,19,-,Waves,Lenses & dispersion,1
+2022-ON,1,2,20,-,Waves,Light: reflection & refraction,1
+2022-ON,1,2,21,-,Waves,Light: reflection & refraction,1
+2022-ON,1,2,22,-,Waves,Electromagnetic spectrum,1
+2022-ON,1,2,23,-,Waves,Electromagnetic spectrum,1
+2022-ON,1,2,24,-,Waves,Sound,1
+2022-ON,1,2,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,2,26,-,Electricity & magnetism,Circuits & components,1
+2022-ON,1,2,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,2,28,-,Electricity & magnetism,Electric charge & static,1
+2022-ON,1,2,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,2,30,-,Electricity & magnetism,Circuits & components,1
+2022-ON,1,2,31,-,Electricity & magnetism,Circuits & components,1
+2022-ON,1,2,32,-,Electricity & magnetism,Electrical safety,1
+2022-ON,1,2,33,-,Electricity & magnetism,Electrical safety,1
+2022-ON,1,2,34,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,1,2,35,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,1,2,36,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,1,2,37,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,1,2,38,-,Nuclear physics,Radioactivity,1
+2022-ON,1,2,39,-,Nuclear physics,Radioactivity,1
+2022-ON,1,2,40,-,Nuclear physics,Radioactivity,1
+2022-ON,1,3,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-ON,1,3,2,-,"Motion, forces & energy",Motion (kinematics),1
+2022-ON,1,3,3,-,"Motion, forces & energy","Mass, weight & density",1
+2022-ON,1,3,4,-,"Motion, forces & energy","Mass, weight & density",1
+2022-ON,1,3,5,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-ON,1,3,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-ON,1,3,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2022-ON,1,3,8,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,1,3,9,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,1,3,10,-,"Motion, forces & energy","Energy, work & power",1
+2022-ON,1,3,11,-,"Motion, forces & energy",Pressure,1
+2022-ON,1,3,12,-,Thermal physics,Kinetic particle model & gases,1
+2022-ON,1,3,13,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,1,3,14,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,1,3,15,-,Thermal physics,Thermal properties & temperature,1
+2022-ON,1,3,16,-,Waves,Electromagnetic spectrum,1
+2022-ON,1,3,17,-,Thermal physics,Thermal energy transfer,1
+2022-ON,1,3,18,-,Waves,General wave properties,1
+2022-ON,1,3,19,-,Waves,Lenses & dispersion,1
+2022-ON,1,3,20,-,Waves,Light: reflection & refraction,1
+2022-ON,1,3,21,-,Waves,Lenses & dispersion,1
+2022-ON,1,3,22,-,Waves,Electromagnetic spectrum,1
+2022-ON,1,3,23,-,Waves,Electromagnetic spectrum,1
+2022-ON,1,3,24,-,Waves,Sound,1
+2022-ON,1,3,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,3,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,3,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,3,28,-,Electricity & magnetism,Electric charge & static,1
+2022-ON,1,3,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,1,3,30,-,Electricity & magnetism,Circuits & components,1
+2022-ON,1,3,31,-,Electricity & magnetism,Circuits & components,1
+2022-ON,1,3,32,-,Electricity & magnetism,Circuits & components,1
+2022-ON,1,3,33,-,Electricity & magnetism,Electrical safety,1
+2022-ON,1,3,34,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,1,3,35,-,Electricity & magnetism,Electromagnetic effects,1
+2022-ON,1,3,36,-,Electricity & magnetism,Magnetism,1
+2022-ON,1,3,37,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,1,3,38,-,Nuclear physics,Radioactivity,1
+2022-ON,1,3,39,-,Nuclear physics,Radioactivity,1
+2022-ON,1,3,40,-,Nuclear physics,Radioactivity,1
+2023-MJ,1,1,1,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,1,1,2,-,"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,1,1,3,-,"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,1,1,4,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,1,1,5,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,1,1,6,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,1,1,7,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-MJ,1,1,8,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,1,1,9,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,1,1,10,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,1,1,11,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,1,1,12,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,1,1,13,-,"Motion, forces & energy",Pressure,1
+2023-MJ,1,1,14,-,Thermal physics,Kinetic particle model & gases,1
+2023-MJ,1,1,15,-,Thermal physics,Thermal properties & temperature,1
+2023-MJ,1,1,16,-,Thermal physics,Thermal energy transfer,1
+2023-MJ,1,1,17,-,Waves,General wave properties,1
+2023-MJ,1,1,18,-,Waves,Light: reflection & refraction,1
+2023-MJ,1,1,19,-,Waves,Lenses & dispersion,1
+2023-MJ,1,1,20,-,Waves,Lenses & dispersion,1
+2023-MJ,1,1,21,-,Waves,Electromagnetic spectrum,1
+2023-MJ,1,1,22,-,Waves,Sound,1
+2023-MJ,1,1,23,-,Electricity & magnetism,Magnetism,1
+2023-MJ,1,1,24,-,Electricity & magnetism,Electric charge & static,1
+2023-MJ,1,1,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-MJ,1,1,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-MJ,1,1,27,-,Electricity & magnetism,Circuits & components,1
+2023-MJ,1,1,28,-,Electricity & magnetism,Circuits & components,1
+2023-MJ,1,1,29,-,Electricity & magnetism,Circuits & components,1
+2023-MJ,1,1,30,-,Electricity & magnetism,Electrical safety,1
+2023-MJ,1,1,31,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,1,32,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,1,33,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,1,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,1,1,35,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,1,1,36,-,Nuclear physics,Radioactivity,1
+2023-MJ,1,1,37,-,Nuclear physics,Radioactivity,1
+2023-MJ,1,1,38,-,Space physics,Earth & Solar System,1
+2023-MJ,1,1,39,-,Space physics,Stars & the Universe,1
+2023-MJ,1,1,40,-,Space physics,Stars & the Universe,1
+2023-MJ,1,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2023-MJ,1,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,1,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,1,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,1,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,1,2,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,1,2,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,1,2,8,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,1,2,9,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,1,2,10,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,1,2,11,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,1,2,12,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,1,2,13,-,"Motion, forces & energy",Pressure,1
+2023-MJ,1,2,14,-,Thermal physics,Kinetic particle model & gases,1
+2023-MJ,1,2,15,-,Thermal physics,Thermal properties & temperature,1
+2023-MJ,1,2,16,-,Thermal physics,Thermal energy transfer,1
+2023-MJ,1,2,17,-,Waves,General wave properties,1
+2023-MJ,1,2,18,-,Waves,Light: reflection & refraction,1
+2023-MJ,1,2,19,-,Waves,Lenses & dispersion,1
+2023-MJ,1,2,20,-,Waves,Lenses & dispersion,1
+2023-MJ,1,2,21,-,Waves,Electromagnetic spectrum,1
+2023-MJ,1,2,22,-,Waves,Sound,1
+2023-MJ,1,2,23,-,Electricity & magnetism,Magnetism,1
+2023-MJ,1,2,24,-,Electricity & magnetism,Electric charge & static,1
+2023-MJ,1,2,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-MJ,1,2,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-MJ,1,2,27,-,Electricity & magnetism,Electrical energy & power,1
+2023-MJ,1,2,28,-,Electricity & magnetism,Circuits & components,1
+2023-MJ,1,2,29,-,Electricity & magnetism,Circuits & components,1
+2023-MJ,1,2,30,-,Electricity & magnetism,Electrical safety,1
+2023-MJ,1,2,31,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,2,33,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,1,2,35,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,1,2,36,-,Nuclear physics,Radioactivity,1
+2023-MJ,1,2,37,-,Nuclear physics,Radioactivity,1
+2023-MJ,1,2,38,-,Space physics,Earth & Solar System,1
+2023-MJ,1,2,39,-,Space physics,Stars & the Universe,1
+2023-MJ,1,2,40,-,Space physics,Stars & the Universe,1
+2023-MJ,1,3,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2023-MJ,1,3,2,-,"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,1,3,3,-,"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,1,3,4,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,1,3,5,-,"Motion, forces & energy","Mass, weight & density",1
+2023-MJ,1,3,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-MJ,1,3,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,1,3,8,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,1,3,9,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,1,3,10,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,1,3,11,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,1,3,12,-,"Motion, forces & energy","Energy, work & power",1
+2023-MJ,1,3,13,-,"Motion, forces & energy",Pressure,1
+2023-MJ,1,3,14,-,Thermal physics,Kinetic particle model & gases,1
+2023-MJ,1,3,15,-,Thermal physics,Kinetic particle model & gases,1
+2023-MJ,1,3,16,-,Thermal physics,Thermal energy transfer,1
+2023-MJ,1,3,17,-,Waves,General wave properties,1
+2023-MJ,1,3,18,-,Waves,Light: reflection & refraction,1
+2023-MJ,1,3,19,-,Waves,Lenses & dispersion,1
+2023-MJ,1,3,20,-,Waves,Lenses & dispersion,1
+2023-MJ,1,3,21,-,Waves,Electromagnetic spectrum,1
+2023-MJ,1,3,22,-,Waves,Sound,1
+2023-MJ,1,3,23,-,Electricity & magnetism,Magnetism,1
+2023-MJ,1,3,24,-,Electricity & magnetism,Electric charge & static,1
+2023-MJ,1,3,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-MJ,1,3,26,-,Electricity & magnetism,Electrical energy & power,1
+2023-MJ,1,3,27,-,Electricity & magnetism,Circuits & components,1
+2023-MJ,1,3,28,-,Electricity & magnetism,Circuits & components,1
+2023-MJ,1,3,29,-,Electricity & magnetism,Electrical safety,1
+2023-MJ,1,3,30,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,3,31,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,3,32,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,3,33,-,Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,1,3,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,1,3,35,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,1,3,36,-,Nuclear physics,Radioactivity,1
+2023-MJ,1,3,37,-,Nuclear physics,Radioactivity,1
+2023-MJ,1,3,38,-,Space physics,Earth & Solar System,1
+2023-MJ,1,3,39,-,Space physics,Stars & the Universe,1
+2023-MJ,1,3,40,-,Space physics,Stars & the Universe,1
+2023-ON,1,1,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2023-ON,1,1,2,-,"Motion, forces & energy",Motion (kinematics),1
+2023-ON,1,1,3,-,"Motion, forces & energy","Mass, weight & density",1
+2023-ON,1,1,4,-,"Motion, forces & energy","Mass, weight & density",1
+2023-ON,1,1,5,-,"Motion, forces & energy","Mass, weight & density",1
+2023-ON,1,1,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-ON,1,1,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-ON,1,1,8,-,"Motion, forces & energy","Energy, work & power",1
+2023-ON,1,1,9,-,"Motion, forces & energy",Energy resources,1
+2023-ON,1,1,10,-,"Motion, forces & energy","Energy, work & power",1
+2023-ON,1,1,11,-,"Motion, forces & energy",Pressure,1
+2023-ON,1,1,12,-,Thermal physics,Kinetic particle model & gases,1
+2023-ON,1,1,13,-,Thermal physics,Kinetic particle model & gases,1
+2023-ON,1,1,14,-,Thermal physics,Thermal properties & temperature,1
+2023-ON,1,1,15,-,Thermal physics,Thermal energy transfer,1
+2023-ON,1,1,16,-,Thermal physics,Thermal energy transfer,1
+2023-ON,1,1,17,-,Waves,General wave properties,1
+2023-ON,1,1,18,-,Waves,General wave properties,1
+2023-ON,1,1,19,-,Waves,Lenses & dispersion,1
+2023-ON,1,1,20,-,Waves,Light: reflection & refraction,1
+2023-ON,1,1,21,-,Waves,Lenses & dispersion,1
+2023-ON,1,1,22,-,Waves,Electromagnetic spectrum,1
+2023-ON,1,1,23,-,Waves,Sound,1
+2023-ON,1,1,24,-,Electricity & magnetism,Magnetism,1
+2023-ON,1,1,25,-,Electricity & magnetism,Electric charge & static,1
+2023-ON,1,1,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,1,1,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,1,1,28,-,Electricity & magnetism,Electric charge & static,1
+2023-ON,1,1,29,-,Electricity & magnetism,Circuits & components,1
+2023-ON,1,1,30,-,Electricity & magnetism,Electrical safety,1
+2023-ON,1,1,31,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,1,1,32,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,1,1,33,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,1,1,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,1,1,35,-,Nuclear physics,Radioactivity,1
+2023-ON,1,1,36,-,Nuclear physics,Radioactivity,1
+2023-ON,1,1,37,-,Nuclear physics,Radioactivity,1
+2023-ON,1,1,38,-,Space physics,Earth & Solar System,1
+2023-ON,1,1,39,-,Space physics,Stars & the Universe,1
+2023-ON,1,1,40,-,Space physics,Stars & the Universe,1
+2023-ON,1,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2023-ON,1,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2023-ON,1,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2023-ON,1,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2023-ON,1,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2023-ON,1,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-ON,1,2,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-ON,1,2,8,-,"Motion, forces & energy","Energy, work & power",1
+2023-ON,1,2,9,-,"Motion, forces & energy",Energy resources,1
+2023-ON,1,2,10,-,"Motion, forces & energy","Energy, work & power",1
+2023-ON,1,2,11,-,"Motion, forces & energy",Pressure,1
+2023-ON,1,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2023-ON,1,2,13,-,Thermal physics,Kinetic particle model & gases,1
+2023-ON,1,2,14,-,Thermal physics,Thermal properties & temperature,1
+2023-ON,1,2,15,-,Thermal physics,Thermal properties & temperature,1
+2023-ON,1,2,16,-,Thermal physics,Thermal energy transfer,1
+2023-ON,1,2,17,-,Waves,General wave properties,1
+2023-ON,1,2,18,-,Waves,General wave properties,1
+2023-ON,1,2,19,-,Waves,Lenses & dispersion,1
+2023-ON,1,2,20,-,Waves,Light: reflection & refraction,1
+2023-ON,1,2,21,-,Waves,Lenses & dispersion,1
+2023-ON,1,2,22,-,Waves,Electromagnetic spectrum,1
+2023-ON,1,2,23,-,Waves,Sound,1
+2023-ON,1,2,24,-,Electricity & magnetism,Magnetism,1
+2023-ON,1,2,25,-,Electricity & magnetism,Circuits & components,1
+2023-ON,1,2,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,1,2,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,1,2,28,-,Electricity & magnetism,Electric charge & static,1
+2023-ON,1,2,29,-,Electricity & magnetism,Circuits & components,1
+2023-ON,1,2,30,-,Electricity & magnetism,Electrical safety,1
+2023-ON,1,2,31,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,1,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,1,2,33,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,1,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,1,2,35,-,Nuclear physics,Radioactivity,1
+2023-ON,1,2,36,-,Nuclear physics,Radioactivity,1
+2023-ON,1,2,37,-,Nuclear physics,Radioactivity,1
+2023-ON,1,2,38,-,Space physics,Earth & Solar System,1
+2023-ON,1,2,39,-,Space physics,Earth & Solar System,1
+2023-ON,1,2,40,-,Space physics,Stars & the Universe,1
+2023-ON,1,3,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2023-ON,1,3,2,-,"Motion, forces & energy",Motion (kinematics),1
+2023-ON,1,3,3,-,"Motion, forces & energy","Mass, weight & density",1
+2023-ON,1,3,4,-,"Motion, forces & energy","Mass, weight & density",1
+2023-ON,1,3,5,-,"Motion, forces & energy","Mass, weight & density",1
+2023-ON,1,3,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-ON,1,3,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-ON,1,3,8,-,"Motion, forces & energy","Energy, work & power",1
+2023-ON,1,3,9,-,"Motion, forces & energy",Energy resources,1
+2023-ON,1,3,10,-,"Motion, forces & energy","Energy, work & power",1
+2023-ON,1,3,11,-,"Motion, forces & energy",Pressure,1
+2023-ON,1,3,12,-,Thermal physics,Kinetic particle model & gases,1
+2023-ON,1,3,13,-,Thermal physics,Kinetic particle model & gases,1
+2023-ON,1,3,14,-,Thermal physics,Thermal properties & temperature,1
+2023-ON,1,3,15,-,Thermal physics,Thermal properties & temperature,1
+2023-ON,1,3,16,-,Thermal physics,Thermal energy transfer,1
+2023-ON,1,3,17,-,Waves,General wave properties,1
+2023-ON,1,3,18,-,Waves,General wave properties,1
+2023-ON,1,3,19,-,Waves,Lenses & dispersion,1
+2023-ON,1,3,20,-,Waves,Light: reflection & refraction,1
+2023-ON,1,3,21,-,Waves,Lenses & dispersion,1
+2023-ON,1,3,22,-,Waves,Electromagnetic spectrum,1
+2023-ON,1,3,23,-,Waves,Sound,1
+2023-ON,1,3,24,-,Electricity & magnetism,Magnetism,1
+2023-ON,1,3,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,1,3,26,-,Electricity & magnetism,Electric charge & static,1
+2023-ON,1,3,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,1,3,28,-,Electricity & magnetism,Electric charge & static,1
+2023-ON,1,3,29,-,Electricity & magnetism,Circuits & components,1
+2023-ON,1,3,30,-,Electricity & magnetism,Electrical safety,1
+2023-ON,1,3,31,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,1,3,32,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,1,3,33,-,Electricity & magnetism,Electromagnetic effects,1
+2023-ON,1,3,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,1,3,35,-,Nuclear physics,Radioactivity,1
+2023-ON,1,3,36,-,Nuclear physics,Radioactivity,1
+2023-ON,1,3,37,-,Nuclear physics,Radioactivity,1
+2023-ON,1,3,38,-,Space physics,Earth & Solar System,1
+2023-ON,1,3,39,-,Space physics,Stars & the Universe,1
+2023-ON,1,3,40,-,Space physics,Stars & the Universe,1
+2024-MJ,1,1,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2024-MJ,1,1,2,-,"Motion, forces & energy","Mass, weight & density",1
+2024-MJ,1,1,3,-,"Motion, forces & energy","Mass, weight & density",1
+2024-MJ,1,1,4,-,"Motion, forces & energy",Springs & deformation,1
+2024-MJ,1,1,5,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-MJ,1,1,6,-,"Motion, forces & energy","Energy, work & power",1
+2024-MJ,1,1,7,-,"Motion, forces & energy","Energy, work & power",1
+2024-MJ,1,1,8,-,"Motion, forces & energy",Pressure,1
+2024-MJ,1,1,9,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,1,10,-,Thermal physics,Kinetic particle model & gases,1
+2024-MJ,1,1,11,-,Thermal physics,Kinetic particle model & gases,1
+2024-MJ,1,1,12,-,Thermal physics,Kinetic particle model & gases,1
+2024-MJ,1,1,13,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,1,14,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,1,15,-,Thermal physics,Thermal energy transfer,1
+2024-MJ,1,1,16,-,Waves,General wave properties,1
+2024-MJ,1,1,17,-,Waves,General wave properties,1
+2024-MJ,1,1,18,-,Waves,General wave properties,1
+2024-MJ,1,1,19,-,Waves,Light: reflection & refraction,1
+2024-MJ,1,1,20,-,Waves,Electromagnetic spectrum,1
+2024-MJ,1,1,21,-,Waves,Electromagnetic spectrum,1
+2024-MJ,1,1,22,-,Waves,Sound,1
+2024-MJ,1,1,23,-,Waves,Sound,1
+2024-MJ,1,1,24,-,Electricity & magnetism,Magnetism,1
+2024-MJ,1,1,25,-,Electricity & magnetism,Electric charge & static,1
+2024-MJ,1,1,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-MJ,1,1,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-MJ,1,1,28,-,Electricity & magnetism,Circuits & components,1
+2024-MJ,1,1,29,-,Electricity & magnetism,Electrical safety,1
+2024-MJ,1,1,30,-,Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,1,1,31,-,Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,1,1,32,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,1,1,33,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,1,1,34,-,Nuclear physics,Radioactivity,1
+2024-MJ,1,1,35,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,1,1,36,-,Nuclear physics,Radioactivity,1
+2024-MJ,1,1,37,-,Space physics,Earth & Solar System,1
+2024-MJ,1,1,38,-,Space physics,Earth & Solar System,1
+2024-MJ,1,1,39,-,Space physics,Stars & the Universe,1
+2024-MJ,1,1,40,-,Space physics,Stars & the Universe,1
+2024-MJ,1,2,1,-,"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,1,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,1,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,1,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2024-MJ,1,2,5,-,"Motion, forces & energy",Springs & deformation,1
+2024-MJ,1,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-MJ,1,2,7,-,"Motion, forces & energy","Energy, work & power",1
+2024-MJ,1,2,8,-,"Motion, forces & energy",Pressure,1
+2024-MJ,1,2,9,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,2,10,-,Thermal physics,Kinetic particle model & gases,1
+2024-MJ,1,2,11,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,2,12,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,2,13,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,2,14,-,Thermal physics,Thermal energy transfer,1
+2024-MJ,1,2,15,-,Thermal physics,Thermal energy transfer,1
+2024-MJ,1,2,16,-,Waves,General wave properties,1
+2024-MJ,1,2,17,-,Waves,General wave properties,1
+2024-MJ,1,2,18,-,Waves,Light: reflection & refraction,1
+2024-MJ,1,2,19,-,Waves,Lenses & dispersion,1
+2024-MJ,1,2,20,-,Waves,Lenses & dispersion,1
+2024-MJ,1,2,21,-,Waves,Electromagnetic spectrum,1
+2024-MJ,1,2,22,-,Waves,Sound,1
+2024-MJ,1,2,23,-,Waves,Sound,1
+2024-MJ,1,2,24,-,Electricity & magnetism,Magnetism,1
+2024-MJ,1,2,25,-,Electricity & magnetism,Magnetism,1
+2024-MJ,1,2,26,-,Electricity & magnetism,Electrical energy & power,1
+2024-MJ,1,2,27,-,Electricity & magnetism,Electric charge & static,1
+2024-MJ,1,2,28,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-MJ,1,2,29,-,Electricity & magnetism,Circuits & components,1
+2024-MJ,1,2,30,-,Electricity & magnetism,Electrical safety,1
+2024-MJ,1,2,31,-,Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,1,2,32,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,1,2,33,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,1,2,34,-,Nuclear physics,Radioactivity,1
+2024-MJ,1,2,35,-,Nuclear physics,Radioactivity,1
+2024-MJ,1,2,36,-,Nuclear physics,Radioactivity,1
+2024-MJ,1,2,37,-,Space physics,Earth & Solar System,1
+2024-MJ,1,2,38,-,Space physics,Earth & Solar System,1
+2024-MJ,1,2,39,-,Space physics,Stars & the Universe,1
+2024-MJ,1,2,40,-,Space physics,Stars & the Universe,1
+2024-MJ,1,3,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2024-MJ,1,3,2,-,"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,1,3,3,-,"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,1,3,4,-,"Motion, forces & energy","Mass, weight & density",1
+2024-MJ,1,3,5,-,"Motion, forces & energy","Mass, weight & density",1
+2024-MJ,1,3,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-MJ,1,3,7,-,"Motion, forces & energy","Energy, work & power",1
+2024-MJ,1,3,8,-,"Motion, forces & energy",Pressure,1
+2024-MJ,1,3,9,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,3,10,-,Thermal physics,Kinetic particle model & gases,1
+2024-MJ,1,3,11,-,Thermal physics,Kinetic particle model & gases,1
+2024-MJ,1,3,12,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,3,13,-,Thermal physics,Thermal properties & temperature,1
+2024-MJ,1,3,14,-,Thermal physics,Thermal energy transfer,1
+2024-MJ,1,3,15,-,Thermal physics,Thermal energy transfer,1
+2024-MJ,1,3,16,-,Waves,General wave properties,1
+2024-MJ,1,3,17,-,Waves,General wave properties,1
+2024-MJ,1,3,18,-,Waves,Lenses & dispersion,1
+2024-MJ,1,3,19,-,Waves,Light: reflection & refraction,1
+2024-MJ,1,3,20,-,Waves,Electromagnetic spectrum,1
+2024-MJ,1,3,21,-,Waves,Electromagnetic spectrum,1
+2024-MJ,1,3,22,-,Waves,Sound,1
+2024-MJ,1,3,23,-,Waves,Sound,1
+2024-MJ,1,3,24,-,Electricity & magnetism,Magnetism,1
+2024-MJ,1,3,25,-,Electricity & magnetism,Magnetism,1
+2024-MJ,1,3,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-MJ,1,3,27,-,Electricity & magnetism,Electrical energy & power,1
+2024-MJ,1,3,28,-,Electricity & magnetism,Circuits & components,1
+2024-MJ,1,3,29,-,Electricity & magnetism,Electrical safety,1
+2024-MJ,1,3,30,-,Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,1,3,31,-,Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,1,3,32,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,1,3,33,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,1,3,34,-,Nuclear physics,Radioactivity,1
+2024-MJ,1,3,35,-,Nuclear physics,Radioactivity,1
+2024-MJ,1,3,36,-,Nuclear physics,Radioactivity,1
+2024-MJ,1,3,37,-,Space physics,Earth & Solar System,1
+2024-MJ,1,3,38,-,Space physics,Stars & the Universe,1
+2024-MJ,1,3,39,-,Space physics,Stars & the Universe,1
+2024-MJ,1,3,40,-,Space physics,Stars & the Universe,1
+2024-ON,1,1,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2024-ON,1,1,2,-,"Motion, forces & energy",Motion (kinematics),1
+2024-ON,1,1,3,-,"Motion, forces & energy",Motion (kinematics),1
+2024-ON,1,1,4,-,"Motion, forces & energy","Mass, weight & density",1
+2024-ON,1,1,5,-,"Motion, forces & energy","Mass, weight & density",1
+2024-ON,1,1,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-ON,1,1,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-ON,1,1,8,-,"Motion, forces & energy","Energy, work & power",1
+2024-ON,1,1,9,-,"Motion, forces & energy","Energy, work & power",1
+2024-ON,1,1,10,-,"Motion, forces & energy","Energy, work & power",1
+2024-ON,1,1,11,-,"Motion, forces & energy",Pressure,1
+2024-ON,1,1,12,-,Thermal physics,Kinetic particle model & gases,1
+2024-ON,1,1,13,-,Thermal physics,Kinetic particle model & gases,1
+2024-ON,1,1,14,-,Thermal physics,Thermal properties & temperature,1
+2024-ON,1,1,15,-,Thermal physics,Thermal properties & temperature,1
+2024-ON,1,1,16,-,Thermal physics,Thermal energy transfer,1
+2024-ON,1,1,17,-,Waves,General wave properties,1
+2024-ON,1,1,18,-,Waves,General wave properties,1
+2024-ON,1,1,19,-,Waves,Light: reflection & refraction,1
+2024-ON,1,1,20,-,Waves,Lenses & dispersion,1
+2024-ON,1,1,21,-,Waves,Lenses & dispersion,1
+2024-ON,1,1,22,-,Waves,Electromagnetic spectrum,1
+2024-ON,1,1,23,-,Waves,Sound,1
+2024-ON,1,1,24,-,Electricity & magnetism,Magnetism,1
+2024-ON,1,1,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-ON,1,1,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-ON,1,1,27,-,Electricity & magnetism,Electrical energy & power,1
+2024-ON,1,1,28,-,Electricity & magnetism,Circuits & components,1
+2024-ON,1,1,29,-,Electricity & magnetism,Circuits & components,1
+2024-ON,1,1,30,-,Electricity & magnetism,Electrical safety,1
+2024-ON,1,1,31,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,1,32,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,1,33,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,1,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-ON,1,1,35,-,Nuclear physics,Radioactivity,1
+2024-ON,1,1,36,-,Nuclear physics,Radioactivity,1
+2024-ON,1,1,37,-,Nuclear physics,Radioactivity,1
+2024-ON,1,1,38,-,Space physics,Earth & Solar System,1
+2024-ON,1,1,39,-,Space physics,Stars & the Universe,1
+2024-ON,1,1,40,-,Space physics,Stars & the Universe,1
+2024-ON,1,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2024-ON,1,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2024-ON,1,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2024-ON,1,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2024-ON,1,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2024-ON,1,2,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-ON,1,2,7,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-ON,1,2,8,-,"Motion, forces & energy","Energy, work & power",1
+2024-ON,1,2,9,-,"Motion, forces & energy",Energy resources,1
+2024-ON,1,2,10,-,"Motion, forces & energy","Energy, work & power",1
+2024-ON,1,2,11,-,"Motion, forces & energy",Pressure,1
+2024-ON,1,2,12,-,Thermal physics,Thermal properties & temperature,1
+2024-ON,1,2,13,-,Thermal physics,Kinetic particle model & gases,1
+2024-ON,1,2,14,-,Thermal physics,Thermal properties & temperature,1
+2024-ON,1,2,15,-,Thermal physics,Thermal properties & temperature,1
+2024-ON,1,2,16,-,Thermal physics,Thermal energy transfer,1
+2024-ON,1,2,17,-,Waves,General wave properties,1
+2024-ON,1,2,18,-,Waves,General wave properties,1
+2024-ON,1,2,19,-,Waves,Light: reflection & refraction,1
+2024-ON,1,2,20,-,Waves,Lenses & dispersion,1
+2024-ON,1,2,21,-,Waves,Lenses & dispersion,1
+2024-ON,1,2,22,-,Space physics,Stars & the Universe,1
+2024-ON,1,2,23,-,Waves,Sound,1
+2024-ON,1,2,24,-,Electricity & magnetism,Magnetism,1
+2024-ON,1,2,25,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-ON,1,2,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-ON,1,2,27,-,Electricity & magnetism,Electrical energy & power,1
+2024-ON,1,2,28,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-ON,1,2,29,-,Electricity & magnetism,Circuits & components,1
+2024-ON,1,2,30,-,Electricity & magnetism,Electrical safety,1
+2024-ON,1,2,31,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,2,33,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,2,34,-,Nuclear physics,Radioactivity,1
+2024-ON,1,2,35,-,Nuclear physics,Radioactivity,1
+2024-ON,1,2,36,-,Nuclear physics,Radioactivity,1
+2024-ON,1,2,37,-,Nuclear physics,Radioactivity,1
+2024-ON,1,2,38,-,Space physics,Earth & Solar System,1
+2024-ON,1,2,39,-,Space physics,Stars & the Universe,1
+2024-ON,1,2,40,-,Space physics,Stars & the Universe,1
+2024-ON,1,3,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2024-ON,1,3,2,-,"Motion, forces & energy",Motion (kinematics),1
+2024-ON,1,3,3,-,"Motion, forces & energy",Motion (kinematics),1
+2024-ON,1,3,4,-,"Motion, forces & energy","Mass, weight & density",1
+2024-ON,1,3,5,-,"Motion, forces & energy","Mass, weight & density",1
+2024-ON,1,3,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-ON,1,3,7,-,"Motion, forces & energy",Springs & deformation,1
+2024-ON,1,3,8,-,"Motion, forces & energy","Energy, work & power",1
+2024-ON,1,3,9,-,"Motion, forces & energy",Energy resources,1
+2024-ON,1,3,10,-,"Motion, forces & energy","Energy, work & power",1
+2024-ON,1,3,11,-,"Motion, forces & energy",Pressure,1
+2024-ON,1,3,12,-,Thermal physics,Kinetic particle model & gases,1
+2024-ON,1,3,13,-,Thermal physics,Kinetic particle model & gases,1
+2024-ON,1,3,14,-,Thermal physics,Thermal properties & temperature,1
+2024-ON,1,3,15,-,Thermal physics,Thermal properties & temperature,1
+2024-ON,1,3,16,-,Thermal physics,Thermal energy transfer,1
+2024-ON,1,3,17,-,Waves,General wave properties,1
+2024-ON,1,3,18,-,Waves,General wave properties,1
+2024-ON,1,3,19,-,Waves,Light: reflection & refraction,1
+2024-ON,1,3,20,-,Waves,Lenses & dispersion,1
+2024-ON,1,3,21,-,Waves,Lenses & dispersion,1
+2024-ON,1,3,22,-,Waves,Electromagnetic spectrum,1
+2024-ON,1,3,23,-,Waves,Sound,1
+2024-ON,1,3,24,-,Electricity & magnetism,Magnetism,1
+2024-ON,1,3,25,-,Electricity & magnetism,Electric charge & static,1
+2024-ON,1,3,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2024-ON,1,3,27,-,Electricity & magnetism,Electrical energy & power,1
+2024-ON,1,3,28,-,Electricity & magnetism,Circuits & components,1
+2024-ON,1,3,29,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,3,30,-,Electricity & magnetism,Electrical safety,1
+2024-ON,1,3,31,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,3,32,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,3,33,-,Electricity & magnetism,Electromagnetic effects,1
+2024-ON,1,3,34,-,Nuclear physics,Radioactivity,1
+2024-ON,1,3,35,-,Nuclear physics,Radioactivity,1
+2024-ON,1,3,36,-,Nuclear physics,Radioactivity,1
+2024-ON,1,3,37,-,Nuclear physics,Radioactivity,1
+2024-ON,1,3,38,-,Space physics,Earth & Solar System,1
+2024-ON,1,3,39,-,Space physics,Stars & the Universe,1
+2024-ON,1,3,40,-,Space physics,Stars & the Universe,1
+2025-MJ,1,1,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-MJ,1,1,2,-,"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,1,1,3,-,"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,1,1,4,-,"Motion, forces & energy","Mass, weight & density",1
+2025-MJ,1,1,5,-,"Motion, forces & energy","Mass, weight & density",1
+2025-MJ,1,1,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2025-MJ,1,1,7,-,"Motion, forces & energy","Energy, work & power",1
+2025-MJ,1,1,8,-,"Motion, forces & energy",Energy resources,1
+2025-MJ,1,1,9,-,"Motion, forces & energy","Energy, work & power",1
+2025-MJ,1,1,10,-,"Motion, forces & energy",Pressure,1
+2025-MJ,1,1,11,-,Thermal physics,Thermal properties & temperature,1
+2025-MJ,1,1,12,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,1,1,13,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,1,1,14,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,1,1,15,-,Thermal physics,Thermal properties & temperature,1
+2025-MJ,1,1,16,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,1,1,17,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,1,1,18,-,Waves,General wave properties,1
+2025-MJ,1,1,19,-,Waves,General wave properties,1
+2025-MJ,1,1,20,-,Waves,General wave properties,1
+2025-MJ,1,1,21,-,Waves,Light: reflection & refraction,1
+2025-MJ,1,1,22,-,Waves,Light: reflection & refraction,1
+2025-MJ,1,1,23,-,Waves,Sound,1
+2025-MJ,1,1,24,-,Waves,Sound,1
+2025-MJ,1,1,25,-,Electricity & magnetism,Magnetism,1
+2025-MJ,1,1,26,-,Electricity & magnetism,Electric charge & static,1
+2025-MJ,1,1,27,-,Electricity & magnetism,Electrical energy & power,1
+2025-MJ,1,1,28,-,Electricity & magnetism,Electrical safety,1
+2025-MJ,1,1,29,-,Electricity & magnetism,Magnetism,1
+2025-MJ,1,1,30,-,Electricity & magnetism,Electric charge & static,1
+2025-MJ,1,1,31,-,Electricity & magnetism,Circuits & components,1
+2025-MJ,1,1,32,-,Electricity & magnetism,Electromagnetic effects,1
+2025-MJ,1,1,33,-,Electricity & magnetism,Electromagnetic effects,1
+2025-MJ,1,1,34,-,Nuclear physics,Radioactivity,1
+2025-MJ,1,1,35,-,Nuclear physics,Radioactivity,1
+2025-MJ,1,1,36,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,1,1,37,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,1,1,38,-,Space physics,Earth & Solar System,1
+2025-MJ,1,1,39,-,Space physics,Stars & the Universe,1
+2025-MJ,1,1,40,-,Space physics,Stars & the Universe,1
+2025-MJ,1,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-MJ,1,2,2,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-MJ,1,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,1,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2025-MJ,1,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2025-MJ,1,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2025-MJ,1,2,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2025-MJ,1,2,8,-,"Motion, forces & energy","Energy, work & power",1
+2025-MJ,1,2,9,-,"Motion, forces & energy",Energy resources,1
+2025-MJ,1,2,10,-,Thermal physics,Thermal properties & temperature,1
+2025-MJ,1,2,11,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,1,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,1,2,13,-,Thermal physics,Thermal properties & temperature,1
+2025-MJ,1,2,14,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,1,2,15,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,1,2,16,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,1,2,17,-,Waves,General wave properties,1
+2025-MJ,1,2,18,-,Waves,General wave properties,1
+2025-MJ,1,2,19,-,Waves,Light: reflection & refraction,1
+2025-MJ,1,2,20,-,Waves,Lenses & dispersion,1
+2025-MJ,1,2,21,-,Waves,Electromagnetic spectrum,1
+2025-MJ,1,2,22,-,Waves,Electromagnetic spectrum,1
+2025-MJ,1,2,23,-,Waves,Sound,1
+2025-MJ,1,2,24,-,Electricity & magnetism,Magnetism,1
+2025-MJ,1,2,25,-,Electricity & magnetism,Electric charge & static,1
+2025-MJ,1,2,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-MJ,1,2,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-MJ,1,2,28,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-MJ,1,2,29,-,Electricity & magnetism,Circuits & components,1
+2025-MJ,1,2,30,-,Electricity & magnetism,Circuits & components,1
+2025-MJ,1,2,31,-,Electricity & magnetism,Electrical safety,1
+2025-MJ,1,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2025-MJ,1,2,33,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,1,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,1,2,35,-,Nuclear physics,Radioactivity,1
+2025-MJ,1,2,36,-,Nuclear physics,Radioactivity,1
+2025-MJ,1,2,37,-,Nuclear physics,Radioactivity,1
+2025-MJ,1,2,38,-,Space physics,Earth & Solar System,1
+2025-MJ,1,2,39,-,Space physics,Earth & Solar System,1
+2025-MJ,1,2,40,-,Space physics,Stars & the Universe,1
+2025-MJ,1,3,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-MJ,1,3,2,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-MJ,1,3,3,-,"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,1,3,4,-,"Motion, forces & energy","Mass, weight & density",1
+2025-MJ,1,3,5,-,"Motion, forces & energy","Mass, weight & density",1
+2025-MJ,1,3,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2025-MJ,1,3,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2025-MJ,1,3,8,-,"Motion, forces & energy","Energy, work & power",1
+2025-MJ,1,3,9,-,"Motion, forces & energy",Energy resources,1
+2025-MJ,1,3,10,-,Thermal physics,Thermal properties & temperature,1
+2025-MJ,1,3,11,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,1,3,12,-,Thermal physics,Kinetic particle model & gases,1
+2025-MJ,1,3,13,-,Thermal physics,Thermal properties & temperature,1
+2025-MJ,1,3,14,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,1,3,15,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,1,3,16,-,Thermal physics,Thermal energy transfer,1
+2025-MJ,1,3,17,-,Waves,General wave properties,1
+2025-MJ,1,3,18,-,Waves,General wave properties,1
+2025-MJ,1,3,19,-,Waves,Light: reflection & refraction,1
+2025-MJ,1,3,20,-,Waves,Lenses & dispersion,1
+2025-MJ,1,3,21,-,Waves,Electromagnetic spectrum,1
+2025-MJ,1,3,22,-,Waves,Electromagnetic spectrum,1
+2025-MJ,1,3,23,-,Waves,Sound,1
+2025-MJ,1,3,24,-,Electricity & magnetism,Magnetism,1
+2025-MJ,1,3,25,-,Electricity & magnetism,Electric charge & static,1
+2025-MJ,1,3,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-MJ,1,3,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-MJ,1,3,28,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-MJ,1,3,29,-,Electricity & magnetism,Circuits & components,1
+2025-MJ,1,3,30,-,Electricity & magnetism,Circuits & components,1
+2025-MJ,1,3,31,-,Electricity & magnetism,Electrical safety,1
+2025-MJ,1,3,32,-,Electricity & magnetism,Electromagnetic effects,1
+2025-MJ,1,3,33,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,1,3,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,1,3,35,-,Nuclear physics,Radioactivity,1
+2025-MJ,1,3,36,-,Nuclear physics,Radioactivity,1
+2025-MJ,1,3,37,-,Nuclear physics,Radioactivity,1
+2025-MJ,1,3,38,-,Space physics,Earth & Solar System,1
+2025-MJ,1,3,39,-,Space physics,Earth & Solar System,1
+2025-MJ,1,3,40,-,Space physics,Stars & the Universe,1
+2025-ON,1,1,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-ON,1,1,2,-,"Motion, forces & energy",Motion (kinematics),1
+2025-ON,1,1,3,-,"Motion, forces & energy","Mass, weight & density",1
+2025-ON,1,1,4,-,"Motion, forces & energy","Mass, weight & density",1
+2025-ON,1,1,5,-,"Motion, forces & energy","Mass, weight & density",1
+2025-ON,1,1,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2025-ON,1,1,7,-,"Motion, forces & energy","Energy, work & power",1
+2025-ON,1,1,8,-,"Motion, forces & energy","Energy, work & power",1
+2025-ON,1,1,9,-,"Motion, forces & energy",Energy resources,1
+2025-ON,1,1,10,-,"Motion, forces & energy",Pressure,1
+2025-ON,1,1,11,-,Thermal physics,Thermal properties & temperature,1
+2025-ON,1,1,12,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,1,1,13,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,1,1,14,-,Thermal physics,Thermal energy transfer,1
+2025-ON,1,1,15,-,Thermal physics,Thermal energy transfer,1
+2025-ON,1,1,16,-,Thermal physics,Thermal energy transfer,1
+2025-ON,1,1,17,-,Waves,General wave properties,1
+2025-ON,1,1,18,-,Waves,General wave properties,1
+2025-ON,1,1,19,-,Waves,Light: reflection & refraction,1
+2025-ON,1,1,20,-,Waves,Light: reflection & refraction,1
+2025-ON,1,1,21,-,Waves,Lenses & dispersion,1
+2025-ON,1,1,22,-,Waves,Electromagnetic spectrum,1
+2025-ON,1,1,23,-,Waves,Sound,1
+2025-ON,1,1,24,-,Electricity & magnetism,Magnetism,1
+2025-ON,1,1,25,-,Electricity & magnetism,Electric charge & static,1
+2025-ON,1,1,26,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,1,1,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,1,1,28,-,Electricity & magnetism,Circuits & components,1
+2025-ON,1,1,29,-,Electricity & magnetism,Circuits & components,1
+2025-ON,1,1,30,-,Electricity & magnetism,Electrical safety,1
+2025-ON,1,1,31,-,Electricity & magnetism,Electromagnetic effects,1
+2025-ON,1,1,32,-,Electricity & magnetism,Electromagnetic effects,1
+2025-ON,1,1,33,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-ON,1,1,34,-,Nuclear physics,Radioactivity,1
+2025-ON,1,1,35,-,Nuclear physics,Radioactivity,1
+2025-ON,1,1,36,-,Nuclear physics,Radioactivity,1
+2025-ON,1,1,37,-,Nuclear physics,Radioactivity,1
+2025-ON,1,1,38,-,Space physics,Earth & Solar System,1
+2025-ON,1,1,39,-,Space physics,Stars & the Universe,1
+2025-ON,1,1,40,-,Space physics,Stars & the Universe,1
+2025-ON,1,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-ON,1,2,2,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-ON,1,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2025-ON,1,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2025-ON,1,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2025-ON,1,2,6,-,"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2025-ON,1,2,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2025-ON,1,2,8,-,"Motion, forces & energy","Energy, work & power",1
+2025-ON,1,2,9,-,"Motion, forces & energy","Energy, work & power",1
+2025-ON,1,2,10,-,"Motion, forces & energy",Pressure,1
+2025-ON,1,2,11,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,1,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,1,2,13,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,1,2,14,-,Thermal physics,Thermal properties & temperature,1
+2025-ON,1,2,15,-,Thermal physics,Thermal energy transfer,1
+2025-ON,1,2,16,-,Thermal physics,Thermal energy transfer,1
+2025-ON,1,2,17,-,Thermal physics,Thermal energy transfer,1
+2025-ON,1,2,18,-,Waves,General wave properties,1
+2025-ON,1,2,19,-,Waves,General wave properties,1
+2025-ON,1,2,20,-,Waves,Light: reflection & refraction,1
+2025-ON,1,2,21,-,Waves,Light: reflection & refraction,1
+2025-ON,1,2,22,-,Waves,Lenses & dispersion,1
+2025-ON,1,2,23,-,Waves,Lenses & dispersion,1
+2025-ON,1,2,24,-,Waves,Electromagnetic spectrum,1
+2025-ON,1,2,25,-,Waves,Sound,1
+2025-ON,1,2,26,-,Electricity & magnetism,Magnetism,1
+2025-ON,1,2,27,-,Electricity & magnetism,Electric charge & static,1
+2025-ON,1,2,28,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,1,2,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,1,2,30,-,Electricity & magnetism,Electrical energy & power,1
+2025-ON,1,2,31,-,Electricity & magnetism,Circuits & components,1
+2025-ON,1,2,32,-,Electricity & magnetism,Electromagnetic effects,1
+2025-ON,1,2,33,-,Electricity & magnetism,Electromagnetic effects,1
+2025-ON,1,2,34,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-ON,1,2,35,-,Nuclear physics,Radioactivity,1
+2025-ON,1,2,36,-,Nuclear physics,Radioactivity,1
+2025-ON,1,2,37,-,Nuclear physics,Radioactivity,1
+2025-ON,1,2,38,-,Space physics,Earth & Solar System,1
+2025-ON,1,2,39,-,Space physics,Stars & the Universe,1
+2025-ON,1,2,40,-,Space physics,Stars & the Universe,1
+2025-ON,1,3,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-ON,1,3,2,-,"Motion, forces & energy",Motion (kinematics),1
+2025-ON,1,3,3,-,"Motion, forces & energy","Mass, weight & density",1
+2025-ON,1,3,4,-,"Motion, forces & energy","Mass, weight & density",1
+2025-ON,1,3,5,-,"Motion, forces & energy",Springs & deformation,1
+2025-ON,1,3,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2025-ON,1,3,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2025-ON,1,3,8,-,"Motion, forces & energy","Energy, work & power",1
+2025-ON,1,3,9,-,"Motion, forces & energy","Energy, work & power",1
+2025-ON,1,3,10,-,"Motion, forces & energy",Pressure,1
+2025-ON,1,3,11,-,Thermal physics,Thermal properties & temperature,1
+2025-ON,1,3,12,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,1,3,13,-,Thermal physics,Thermal properties & temperature,1
+2025-ON,1,3,14,-,Thermal physics,Kinetic particle model & gases,1
+2025-ON,1,3,15,-,Thermal physics,Thermal properties & temperature,1
+2025-ON,1,3,16,-,Thermal physics,Thermal energy transfer,1
+2025-ON,1,3,17,-,Thermal physics,Thermal energy transfer,1
+2025-ON,1,3,18,-,Waves,General wave properties,1
+2025-ON,1,3,19,-,Waves,General wave properties,1
+2025-ON,1,3,20,-,Waves,Light: reflection & refraction,1
+2025-ON,1,3,21,-,Waves,Light: reflection & refraction,1
+2025-ON,1,3,22,-,Waves,Lenses & dispersion,1
+2025-ON,1,3,23,-,Waves,Lenses & dispersion,1
+2025-ON,1,3,24,-,Waves,Sound,1
+2025-ON,1,3,25,-,Waves,Sound,1
+2025-ON,1,3,26,-,Electricity & magnetism,Electric charge & static,1
+2025-ON,1,3,27,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,1,3,28,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,1,3,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,1,3,30,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,1,3,31,-,Electricity & magnetism,Electrical energy & power,1
+2025-ON,1,3,32,-,Electricity & magnetism,Circuits & components,1
+2025-ON,1,3,33,-,Electricity & magnetism,Electrical safety,1
+2025-ON,1,3,34,-,Electricity & magnetism,Electromagnetic effects,1
+2025-ON,1,3,35,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-ON,1,3,36,-,Nuclear physics,Radioactivity,1
+2025-ON,1,3,37,-,Nuclear physics,Radioactivity,1
+2025-ON,1,3,38,-,Space physics,Earth & Solar System,1
+2025-ON,1,3,39,-,Space physics,Stars & the Universe,1
+2025-ON,1,3,40,-,Space physics,Stars & the Universe,1
+2026-MJ,1,1,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2026-MJ,1,1,2,-,"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,1,1,3,-,"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,1,1,4,-,"Motion, forces & energy","Mass, weight & density",1
+2026-MJ,1,1,5,-,"Motion, forces & energy","Mass, weight & density",1
+2026-MJ,1,1,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2026-MJ,1,1,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2026-MJ,1,1,8,-,"Motion, forces & energy","Energy, work & power",1
+2026-MJ,1,1,9,-,"Motion, forces & energy","Energy, work & power",1
+2026-MJ,1,1,10,-,"Motion, forces & energy",Pressure,1
+2026-MJ,1,1,11,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,1,1,12,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,1,1,13,-,Thermal physics,Thermal properties & temperature,1
+2026-MJ,1,1,14,-,Thermal physics,Thermal properties & temperature,1
+2026-MJ,1,1,15,-,Thermal physics,Thermal properties & temperature,1
+2026-MJ,1,1,16,-,Thermal physics,Thermal energy transfer,1
+2026-MJ,1,1,17,-,Thermal physics,Thermal energy transfer,1
+2026-MJ,1,1,18,-,Waves,General wave properties,1
+2026-MJ,1,1,19,-,Waves,General wave properties,1
+2026-MJ,1,1,20,-,Waves,General wave properties,1
+2026-MJ,1,1,21,-,Waves,Light: reflection & refraction,1
+2026-MJ,1,1,22,-,Waves,Lenses & dispersion,1
+2026-MJ,1,1,23,-,Waves,Lenses & dispersion,1
+2026-MJ,1,1,24,-,Space physics,Stars & the Universe,1
+2026-MJ,1,1,25,-,Waves,Sound,1
+2026-MJ,1,1,26,-,Electricity & magnetism,Magnetism,1
+2026-MJ,1,1,27,-,Electricity & magnetism,Magnetism,1
+2026-MJ,1,1,28,-,Electricity & magnetism,Electric charge & static,1
+2026-MJ,1,1,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2026-MJ,1,1,30,-,Electricity & magnetism,Electrical energy & power,1
+2026-MJ,1,1,31,-,Electricity & magnetism,Circuits & components,1
+2026-MJ,1,1,32,-,Electricity & magnetism,Circuits & components,1
+2026-MJ,1,1,33,-,Electricity & magnetism,Electrical safety,1
+2026-MJ,1,1,34,-,Electricity & magnetism,Electrical safety,1
+2026-MJ,1,1,35,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,1,1,36,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,1,1,37,-,Nuclear physics,Radioactivity,1
+2026-MJ,1,1,38,-,Nuclear physics,Radioactivity,1
+2026-MJ,1,1,39,-,Space physics,Earth & Solar System,1
+2026-MJ,1,1,40,-,Space physics,Stars & the Universe,1
+2026-MJ,1,2,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2026-MJ,1,2,2,-,"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,1,2,3,-,"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,1,2,4,-,"Motion, forces & energy","Mass, weight & density",1
+2026-MJ,1,2,5,-,"Motion, forces & energy","Mass, weight & density",1
+2026-MJ,1,2,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2026-MJ,1,2,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2026-MJ,1,2,8,-,"Motion, forces & energy","Energy, work & power",1
+2026-MJ,1,2,9,-,"Motion, forces & energy","Energy, work & power",1
+2026-MJ,1,2,10,-,"Motion, forces & energy",Pressure,1
+2026-MJ,1,2,11,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,1,2,12,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,1,2,13,-,Thermal physics,Thermal properties & temperature,1
+2026-MJ,1,2,14,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,1,2,15,-,Thermal physics,Thermal properties & temperature,1
+2026-MJ,1,2,16,-,Thermal physics,Thermal energy transfer,1
+2026-MJ,1,2,17,-,Thermal physics,Thermal energy transfer,1
+2026-MJ,1,2,18,-,Waves,General wave properties,1
+2026-MJ,1,2,19,-,Waves,General wave properties,1
+2026-MJ,1,2,20,-,Waves,Light: reflection & refraction,1
+2026-MJ,1,2,21,-,Waves,Light: reflection & refraction,1
+2026-MJ,1,2,22,-,Waves,Lenses & dispersion,1
+2026-MJ,1,2,23,-,Waves,Electromagnetic spectrum,1
+2026-MJ,1,2,24,-,Waves,Electromagnetic spectrum,1
+2026-MJ,1,2,25,-,Waves,Sound,1
+2026-MJ,1,2,26,-,Waves,Sound,1
+2026-MJ,1,2,27,-,Electricity & magnetism,Magnetism,1
+2026-MJ,1,2,28,-,Electricity & magnetism,Electric charge & static,1
+2026-MJ,1,2,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2026-MJ,1,2,30,-,Electricity & magnetism,Electrical energy & power,1
+2026-MJ,1,2,31,-,Electricity & magnetism,Circuits & components,1
+2026-MJ,1,2,32,-,Electricity & magnetism,Electrical safety,1
+2026-MJ,1,2,33,-,Electricity & magnetism,Electrical safety,1
+2026-MJ,1,2,34,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,1,2,35,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,1,2,36,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,1,2,37,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,1,2,38,-,Nuclear physics,Radioactivity,1
+2026-MJ,1,2,39,-,Nuclear physics,Radioactivity,1
+2026-MJ,1,2,40,-,Space physics,Stars & the Universe,1
+2026-MJ,1,3,1,-,"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2026-MJ,1,3,2,-,"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,1,3,3,-,"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,1,3,4,-,"Motion, forces & energy","Mass, weight & density",1
+2026-MJ,1,3,5,-,"Motion, forces & energy","Mass, weight & density",1
+2026-MJ,1,3,6,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2026-MJ,1,3,7,-,"Motion, forces & energy",Turning effect & centre of gravity,1
+2026-MJ,1,3,8,-,"Motion, forces & energy","Energy, work & power",1
+2026-MJ,1,3,9,-,"Motion, forces & energy","Energy, work & power",1
+2026-MJ,1,3,10,-,"Motion, forces & energy",Pressure,1
+2026-MJ,1,3,11,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,1,3,12,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,1,3,13,-,Thermal physics,Thermal properties & temperature,1
+2026-MJ,1,3,14,-,Thermal physics,Kinetic particle model & gases,1
+2026-MJ,1,3,15,-,Thermal physics,Thermal properties & temperature,1
+2026-MJ,1,3,16,-,Thermal physics,Thermal energy transfer,1
+2026-MJ,1,3,17,-,Thermal physics,Thermal energy transfer,1
+2026-MJ,1,3,18,-,Waves,General wave properties,1
+2026-MJ,1,3,19,-,Waves,General wave properties,1
+2026-MJ,1,3,20,-,Waves,Light: reflection & refraction,1
+2026-MJ,1,3,21,-,Waves,Light: reflection & refraction,1
+2026-MJ,1,3,22,-,Waves,Lenses & dispersion,1
+2026-MJ,1,3,23,-,Waves,Electromagnetic spectrum,1
+2026-MJ,1,3,24,-,Waves,Electromagnetic spectrum,1
+2026-MJ,1,3,25,-,Waves,Sound,1
+2026-MJ,1,3,26,-,Waves,Sound,1
+2026-MJ,1,3,27,-,Electricity & magnetism,Magnetism,1
+2026-MJ,1,3,28,-,Electricity & magnetism,Electric charge & static,1
+2026-MJ,1,3,29,-,Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2026-MJ,1,3,30,-,Electricity & magnetism,Electrical energy & power,1
+2026-MJ,1,3,31,-,Electricity & magnetism,Circuits & components,1
+2026-MJ,1,3,32,-,Electricity & magnetism,Electrical safety,1
+2026-MJ,1,3,33,-,Electricity & magnetism,Electrical safety,1
+2026-MJ,1,3,34,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,1,3,35,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,1,3,36,-,Electricity & magnetism,Electromagnetic effects,1
+2026-MJ,1,3,37,-,Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,1,3,38,-,Nuclear physics,Radioactivity,1
+2026-MJ,1,3,39,-,Nuclear physics,Radioactivity,1
+2026-MJ,1,3,40,-,Space physics,Stars & the Universe,1
+2022-MJ,3,1,1,(a)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),3
+2022-MJ,3,1,1,(a)(ii),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2022-MJ,3,1,1,(a)(iii),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2022-MJ,3,1,1,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-MJ,3,1,2,(a)(i),"Motion, forces & energy",Motion (kinematics),2
+2022-MJ,3,1,2,(a)(ii),"Motion, forces & energy",Motion (kinematics),2
+2022-MJ,3,1,2,(b)(i),"Motion, forces & energy",Motion (kinematics),2
+2022-MJ,3,1,2,(b)(ii),"Motion, forces & energy",Motion (kinematics),3
+2022-MJ,3,1,3,(a)(i),"Motion, forces & energy",Pressure,2
+2022-MJ,3,1,3,(a)(ii),"Motion, forces & energy","Mass, weight & density",2
+2022-MJ,3,1,3,(b),"Motion, forces & energy",Pressure,3
+2022-MJ,3,1,4,(a),"Motion, forces & energy","Energy, work & power",3
+2022-MJ,3,1,4,(b),"Motion, forces & energy",Turning effect & centre of gravity,3
+2022-MJ,3,1,5,(a),"Motion, forces & energy",Energy resources,3
+2022-MJ,3,1,5,(b),"Motion, forces & energy",Energy resources,2
+2022-MJ,3,1,5,(c),"Motion, forces & energy",Energy resources,2
+2022-MJ,3,1,6,(a)(i),Thermal physics,Thermal energy transfer,1
+2022-MJ,3,1,6,(a)(ii),Thermal physics,Thermal properties & temperature,3
+2022-MJ,3,1,6,(b),Thermal physics,Kinetic particle model & gases,6
+2022-MJ,3,1,7,(a)(i),Waves,General wave properties,1
+2022-MJ,3,1,7,(a)(ii),Waves,General wave properties,1
+2022-MJ,3,1,7,(b)(i),Waves,General wave properties,2
+2022-MJ,3,1,7,(b)(ii),Waves,General wave properties,1
+2022-MJ,3,1,7,(c)(i),Waves,Electromagnetic spectrum,1
+2022-MJ,3,1,7,(c)(ii),Waves,Electromagnetic spectrum,1
+2022-MJ,3,1,8,(a),Electricity & magnetism,Magnetism,3
+2022-MJ,3,1,8,(b),Electricity & magnetism,Magnetism,3
+2022-MJ,3,1,9,(a),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",2
+2022-MJ,3,1,9,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2022-MJ,3,1,9,(c),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",2
+2022-MJ,3,1,9,(d),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",2
+2022-MJ,3,1,10,(a),Electricity & magnetism,Electrical safety,4
+2022-MJ,3,1,10,(b),Electricity & magnetism,Electromagnetic effects,3
+2022-MJ,3,1,11,(a),Nuclear physics,Radioactivity,2
+2022-MJ,3,1,11,(b),Nuclear physics,Radioactivity,2
+2022-MJ,3,2,1,(a),"Motion, forces & energy",Motion (kinematics),2
+2022-MJ,3,2,1,(b)(i),"Motion, forces & energy",Motion (kinematics),2
+2022-MJ,3,2,1,(b)(ii),"Motion, forces & energy",Motion (kinematics),3
+2022-MJ,3,2,1,(b)(iii),"Motion, forces & energy",Motion (kinematics),2
+2022-MJ,3,2,2,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),3
+2022-MJ,3,2,2,(b),"Motion, forces & energy","Mass, weight & density",3
+2022-MJ,3,2,3,(a)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),3
+2022-MJ,3,2,3,(a)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-MJ,3,2,3,(a)(iii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-MJ,3,2,3,(b),"Motion, forces & energy",Turning effect & centre of gravity,3
+2022-MJ,3,2,4,(a)(i),"Motion, forces & energy",Energy resources,2
+2022-MJ,3,2,4,(a)(ii),"Motion, forces & energy","Energy, work & power",2
+2022-MJ,3,2,4,(b),Electricity & magnetism,Electromagnetic effects,3
+2022-MJ,3,2,4,(c),Electricity & magnetism,Electromagnetic effects,2
+2022-MJ,3,2,5,(a)(i),Thermal physics,Thermal energy transfer,2
+2022-MJ,3,2,5,(a)(ii),Thermal physics,Thermal energy transfer,2
+2022-MJ,3,2,5,(b),Thermal physics,Thermal properties & temperature,3
+2022-MJ,3,2,5,(c)(i),Thermal physics,Kinetic particle model & gases,1
+2022-MJ,3,2,5,(c)(ii),Thermal physics,Kinetic particle model & gases,2
+2022-MJ,3,2,6,(a)(i),Waves,Electromagnetic spectrum,2
+2022-MJ,3,2,6,(a)(ii),Waves,Electromagnetic spectrum,1
+2022-MJ,3,2,6,(b),Waves,General wave properties,1
+2022-MJ,3,2,6,(c),Waves,Electromagnetic spectrum,2
+2022-MJ,3,2,6,(d),Waves,General wave properties,2
+2022-MJ,3,2,7,(a)(i),Waves,Light: reflection & refraction,1
+2022-MJ,3,2,7,(a)(ii),Waves,Light: reflection & refraction,1
+2022-MJ,3,2,7,(b)(i),Waves,Lenses & dispersion,2
+2022-MJ,3,2,7,(b)(ii),Waves,Lenses & dispersion,1
+2022-MJ,3,2,8,(a)(i),Electricity & magnetism,Electric charge & static,1
+2022-MJ,3,2,8,(a)(ii),Electricity & magnetism,Magnetism,1
+2022-MJ,3,2,8,(b),Electricity & magnetism,Magnetism,1
+2022-MJ,3,2,8,(c)(i),Electricity & magnetism,Electric charge & static,1
+2022-MJ,3,2,8,(c)(ii),Electricity & magnetism,Electric charge & static,2
+2022-MJ,3,2,9,(a),Electricity & magnetism,Circuits & components,4
+2022-MJ,3,2,9,(b)(i),Electricity & magnetism,Circuits & components,1
+2022-MJ,3,2,9,(b)(ii),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2022-MJ,3,2,10,(a),Electricity & magnetism,Electromagnetic effects,3
+2022-MJ,3,2,10,(b)(i),Electricity & magnetism,Electromagnetic effects,2
+2022-MJ,3,2,10,(b)(ii),Electricity & magnetism,Electromagnetic effects,2
+2022-MJ,3,2,11,(a),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2022-MJ,3,2,11,(b),Nuclear physics,Radioactivity,2
+2022-MJ,3,3,1,(a)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-MJ,3,3,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2022-MJ,3,3,1,(b),"Motion, forces & energy",Motion (kinematics),3
+2022-MJ,3,3,1,(c)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-MJ,3,3,1,(c)(ii),"Motion, forces & energy",Motion (kinematics),3
+2022-MJ,3,3,2,(a)(i),"Motion, forces & energy","Energy, work & power",2
+2022-MJ,3,3,2,(a)(ii),"Motion, forces & energy","Energy, work & power",1
+2022-MJ,3,3,2,(b)(i),"Motion, forces & energy","Energy, work & power",1
+2022-MJ,3,3,2,(b)(ii),"Motion, forces & energy","Energy, work & power",2
+2022-MJ,3,3,2,(b)(iii),"Motion, forces & energy","Energy, work & power",2
+2022-MJ,3,3,2,(c),"Motion, forces & energy","Mass, weight & density",3
+2022-MJ,3,3,3,(a),"Motion, forces & energy",Pressure,2
+2022-MJ,3,3,3,(b)(i),"Motion, forces & energy","Mass, weight & density",3
+2022-MJ,3,3,3,(b)(ii),"Motion, forces & energy",Pressure,4
+2022-MJ,3,3,4,(a),Thermal physics,Thermal properties & temperature,2
+2022-MJ,3,3,4,(b)(i),Thermal physics,Kinetic particle model & gases,1
+2022-MJ,3,3,4,(b)(ii),Thermal physics,Kinetic particle model & gases,3
+2022-MJ,3,3,5,(a),Thermal physics,Thermal properties & temperature,1
+2022-MJ,3,3,5,(b)(i),Thermal physics,Thermal energy transfer,1
+2022-MJ,3,3,5,(b)(ii),Thermal physics,Thermal energy transfer,1
+2022-MJ,3,3,5,(c),Thermal physics,Thermal energy transfer,4
+2022-MJ,3,3,6,(a),Waves,Light: reflection & refraction,1
+2022-MJ,3,3,6,(b)(i),Waves,Light: reflection & refraction,2
+2022-MJ,3,3,6,(b)(ii),Waves,Light: reflection & refraction,3
+2022-MJ,3,3,7,(a)(i),Waves,Electromagnetic spectrum,1
+2022-MJ,3,3,7,(a)(ii),Waves,Electromagnetic spectrum,1
+2022-MJ,3,3,7,(a)(iii),Waves,Electromagnetic spectrum,1
+2022-MJ,3,3,7,(a)(iv),Waves,Sound,1
+2022-MJ,3,3,7,(b),Waves,Electromagnetic spectrum,2
+2022-MJ,3,3,7,(c),Waves,General wave properties,2
+2022-MJ,3,3,8,(a)(i),Electricity & magnetism,Electromagnetic effects,3
+2022-MJ,3,3,8,(a)(ii),Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,3,3,8,(a)(iii),Electricity & magnetism,Electromagnetic effects,1
+2022-MJ,3,3,8,(b),Electricity & magnetism,Circuits & components,3
+2022-MJ,3,3,9,(a),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,3,3,9,(b)(i),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,3,3,9,(b)(ii),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-MJ,3,3,9,(c)(i),Electricity & magnetism,Circuits & components,3
+2022-MJ,3,3,9,(c)(ii),Electricity & magnetism,Circuits & components,1
+2022-MJ,3,3,9,(c)(iii),Electricity & magnetism,Circuits & components,2
+2022-MJ,3,3,10,(a),Nuclear physics,Radioactivity,3
+2022-MJ,3,3,10,(b)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-MJ,3,3,10,(b)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-MJ,3,3,10,(b)(iii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-MJ,3,3,10,(c),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,3,1,1,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-ON,3,1,1,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),4
+2022-ON,3,1,1,(c),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),4
+2022-ON,3,1,2,(a),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),3
+2022-ON,3,1,2,(b)(i),"Motion, forces & energy",Motion (kinematics),1
+2022-ON,3,1,2,(b)(ii),"Motion, forces & energy",Motion (kinematics),3
+2022-ON,3,1,2,(c),"Motion, forces & energy",Motion (kinematics),3
+2022-ON,3,1,3,(a),"Motion, forces & energy",Turning effect & centre of gravity,3
+2022-ON,3,1,3,(b)(i),"Motion, forces & energy","Energy, work & power",2
+2022-ON,3,1,3,(b)(ii),"Motion, forces & energy","Energy, work & power",1
+2022-ON,3,1,4,(a),"Motion, forces & energy","Mass, weight & density",2
+2022-ON,3,1,4,(b),"Motion, forces & energy","Energy, work & power",1
+2022-ON,3,1,4,(c),"Motion, forces & energy",Pressure,5
+2022-ON,3,1,5,(a)(i),"Motion, forces & energy",Pressure,3
+2022-ON,3,1,5,(a)(ii),"Motion, forces & energy",Pressure,1
+2022-ON,3,1,5,(b)(i),Thermal physics,Kinetic particle model & gases,2
+2022-ON,3,1,5,(b)(ii),Thermal physics,Kinetic particle model & gases,2
+2022-ON,3,1,6,(a)(i),Waves,General wave properties,1
+2022-ON,3,1,6,(a)(ii),Waves,General wave properties,2
+2022-ON,3,1,6,(b),Waves,General wave properties,3
+2022-ON,3,1,6,(c)(i),Waves,General wave properties,1
+2022-ON,3,1,6,(c)(ii),Waves,General wave properties,2
+2022-ON,3,1,7,(a),Electricity & magnetism,Magnetism,2
+2022-ON,3,1,7,(b),Electricity & magnetism,Magnetism,3
+2022-ON,3,1,8,(a),Electricity & magnetism,Circuits & components,4
+2022-ON,3,1,8,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2022-ON,3,1,8,(c),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2022-ON,3,1,9,(a)(i),Electricity & magnetism,Electrical safety,1
+2022-ON,3,1,9,(a)(ii),Electricity & magnetism,Electrical safety,2
+2022-ON,3,1,9,(b),Electricity & magnetism,Electromagnetic effects,3
+2022-ON,3,1,9,(c)(i),Electricity & magnetism,Electromagnetic effects,1
+2022-ON,3,1,9,(c)(ii),Electricity & magnetism,Electromagnetic effects,1
+2022-ON,3,1,9,(c)(iii),Electricity & magnetism,Electromagnetic effects,1
+2022-ON,3,1,10,(a),Nuclear physics,Radioactivity,3
+2022-ON,3,1,10,(b),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2022-ON,3,1,10,(c),Nuclear physics,Radioactivity,3
+2022-ON,3,2,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2022-ON,3,2,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2022-ON,3,2,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),1
+2022-ON,3,2,1,(a)(iv),"Motion, forces & energy",Motion (kinematics),3
+2022-ON,3,2,1,(b)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-ON,3,2,1,(b)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-ON,3,2,1,(b)(iii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2022-ON,3,2,1,(c),"Motion, forces & energy","Mass, weight & density",3
+2022-ON,3,2,2,(a)(i),"Motion, forces & energy",Pressure,1
+2022-ON,3,2,2,(a)(ii),"Motion, forces & energy",Pressure,2
+2022-ON,3,2,2,(b),"Motion, forces & energy",Pressure,1
+2022-ON,3,2,2,(c),"Motion, forces & energy",Pressure,1
+2022-ON,3,2,2,(d),"Motion, forces & energy",Pressure,1
+2022-ON,3,2,3,(a)(i),Thermal physics,Thermal properties & temperature,1
+2022-ON,3,2,3,(a)(ii),Thermal physics,Thermal properties & temperature,1
+2022-ON,3,2,3,(a)(iii),Thermal physics,Thermal properties & temperature,1
+2022-ON,3,2,3,(b)(i),Thermal physics,Thermal properties & temperature,1
+2022-ON,3,2,3,(b)(ii),Thermal physics,Thermal properties & temperature,1
+2022-ON,3,2,4,(a)(i),Thermal physics,Thermal properties & temperature,1
+2022-ON,3,2,4,(a)(ii),Thermal physics,Thermal properties & temperature,3
+2022-ON,3,2,4,(b),Thermal physics,Thermal energy transfer,4
+2022-ON,3,2,5,(a)(i),Waves,General wave properties,1
+2022-ON,3,2,5,(a)(ii),Waves,General wave properties,1
+2022-ON,3,2,5,(b),Waves,General wave properties,1
+2022-ON,3,2,5,(c),Waves,General wave properties,1
+2022-ON,3,2,5,(d)(i),Waves,Electromagnetic spectrum,2
+2022-ON,3,2,5,(d)(ii),Waves,Electromagnetic spectrum,1
+2022-ON,3,2,5,(e)(i),Waves,Electromagnetic spectrum,1
+2022-ON,3,2,5,(e)(ii),Waves,Electromagnetic spectrum,1
+2022-ON,3,2,6,(a)(i),Waves,Light: reflection & refraction,1
+2022-ON,3,2,6,(a)(ii),Waves,Light: reflection & refraction,1
+2022-ON,3,2,6,(a)(iii),Waves,Light: reflection & refraction,1
+2022-ON,3,2,6,(b),Waves,Light: reflection & refraction,2
+2022-ON,3,2,6,(c)(i),Waves,Light: reflection & refraction,2
+2022-ON,3,2,6,(c)(ii),Waves,Light: reflection & refraction,1
+2022-ON,3,2,7,(a)(i),Electricity & magnetism,Magnetism,1
+2022-ON,3,2,7,(a)(ii),Electricity & magnetism,Magnetism,1
+2022-ON,3,2,7,(a)(iii),Electricity & magnetism,Electromagnetic effects,2
+2022-ON,3,2,7,(a)(iv),Electricity & magnetism,Magnetism,1
+2022-ON,3,2,7,(b)(i),Electricity & magnetism,Magnetism,1
+2022-ON,3,2,7,(b)(ii),Electricity & magnetism,Magnetism,1
+2022-ON,3,2,8,(a),Electricity & magnetism,Circuits & components,3
+2022-ON,3,2,8,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",4
+2022-ON,3,2,9,(a),Electricity & magnetism,Electromagnetic effects,1
+2022-ON,3,2,9,(b),Electricity & magnetism,Electromagnetic effects,1
+2022-ON,3,2,9,(c),Electricity & magnetism,Electromagnetic effects,1
+2022-ON,3,2,9,(d),Electricity & magnetism,Electromagnetic effects,3
+2022-ON,3,2,9,(e),Electricity & magnetism,Electromagnetic effects,1
+2022-ON,3,2,10,(a)(i),Electricity & magnetism,Electromagnetic effects,2
+2022-ON,3,2,10,(a)(ii),Electricity & magnetism,Electromagnetic effects,1
+2022-ON,3,2,10,(b),Electricity & magnetism,Electromagnetic effects,2
+2022-ON,3,2,11,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,3,2,11,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,3,2,11,(a)(iii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,3,2,11,(b),Nuclear physics,Radioactivity,1
+2022-ON,3,2,11,(c),Nuclear physics,Radioactivity,2
+2022-ON,3,3,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2022-ON,3,3,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2022-ON,3,3,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),2
+2022-ON,3,3,1,(b),"Motion, forces & energy",Motion (kinematics),3
+2022-ON,3,3,2,(a)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2022-ON,3,3,2,(a)(ii),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),3
+2022-ON,3,3,2,(b)(i),"Motion, forces & energy","Mass, weight & density",1
+2022-ON,3,3,2,(b)(ii),"Motion, forces & energy","Mass, weight & density",4
+2022-ON,3,3,2,(b)(iii),"Motion, forces & energy","Mass, weight & density",3
+2022-ON,3,3,3,(a),"Motion, forces & energy","Energy, work & power",3
+2022-ON,3,3,3,(b)(i),"Motion, forces & energy","Energy, work & power",2
+2022-ON,3,3,3,(b)(ii),"Motion, forces & energy","Energy, work & power",1
+2022-ON,3,3,4,(a)(i),Thermal physics,Thermal properties & temperature,1
+2022-ON,3,3,4,(a)(ii),Thermal physics,Thermal properties & temperature,2
+2022-ON,3,3,4,(b),Thermal physics,Thermal properties & temperature,3
+2022-ON,3,3,4,(c),Thermal physics,Kinetic particle model & gases,4
+2022-ON,3,3,5,(a)(i),Waves,Light: reflection & refraction,1
+2022-ON,3,3,5,(a)(ii),Waves,Light: reflection & refraction,1
+2022-ON,3,3,5,(a)(iii),Waves,Light: reflection & refraction,2
+2022-ON,3,3,5,(b)(i),Waves,Lenses & dispersion,2
+2022-ON,3,3,5,(b)(ii),Waves,Lenses & dispersion,1
+2022-ON,3,3,6,(a),Waves,Lenses & dispersion,1
+2022-ON,3,3,6,(b),Waves,Lenses & dispersion,2
+2022-ON,3,3,6,(c),Waves,Lenses & dispersion,1
+2022-ON,3,3,6,(d),Waves,Lenses & dispersion,2
+2022-ON,3,3,7,(a)(i),Waves,Sound,1
+2022-ON,3,3,7,(a)(ii),Waves,Sound,3
+2022-ON,3,3,7,(b)(i),Waves,Sound,1
+2022-ON,3,3,7,(b)(ii),Waves,Sound,3
+2022-ON,3,3,8,(a),Waves,Electromagnetic spectrum,3
+2022-ON,3,3,8,(b),Waves,General wave properties,2
+2022-ON,3,3,8,(c),Nuclear physics,Radioactivity,2
+2022-ON,3,3,9,(a)(i),Electricity & magnetism,Electrical safety,3
+2022-ON,3,3,9,(a)(ii),Electricity & magnetism,Electrical safety,2
+2022-ON,3,3,9,(b)(i),Electricity & magnetism,Circuits & components,1
+2022-ON,3,3,9,(b)(ii),Electricity & magnetism,Electrical safety,1
+2022-ON,3,3,9,(b)(iii),Electricity & magnetism,Electrical safety,1
+2022-ON,3,3,9,(b)(iv),Electricity & magnetism,Electrical safety,1
+2022-ON,3,3,9,(c),Electricity & magnetism,Electrical safety,1
+2022-ON,3,3,10,(a)(i),Nuclear physics,Radioactivity,1
+2022-ON,3,3,10,(a)(ii),Nuclear physics,Radioactivity,1
+2022-ON,3,3,10,(a)(iii),Nuclear physics,Radioactivity,1
+2022-ON,3,3,10,(b)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,3,3,10,(b)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2022-ON,3,3,10,(c),Nuclear physics,Radioactivity,2
+2023-MJ,3,1,1,(a),"Motion, forces & energy",Motion (kinematics),3
+2023-MJ,3,1,1,(b),"Motion, forces & energy",Motion (kinematics),3
+2023-MJ,3,1,1,(c),"Motion, forces & energy",Motion (kinematics),2
+2023-MJ,3,1,2,(a),"Motion, forces & energy",Pressure,4
+2023-MJ,3,1,2,(b),"Motion, forces & energy",Turning effect & centre of gravity,3
+2023-MJ,3,1,2,(c),"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,3,1,2,(d),"Motion, forces & energy",Turning effect & centre of gravity,1
+2023-MJ,3,1,3,(a),"Motion, forces & energy",Energy resources,3
+2023-MJ,3,1,3,(b),"Motion, forces & energy",Energy resources,2
+2023-MJ,3,1,4,(a)(i),"Motion, forces & energy","Energy, work & power",3
+2023-MJ,3,1,4,(a)(ii),"Motion, forces & energy","Energy, work & power",1
+2023-MJ,3,1,4,(a)(iii),"Motion, forces & energy","Energy, work & power",2
+2023-MJ,3,1,4,(b),"Motion, forces & energy","Energy, work & power",3
+2023-MJ,3,1,5,(a),Thermal physics,Kinetic particle model & gases,3
+2023-MJ,3,1,5,(b),Thermal physics,Kinetic particle model & gases,2
+2023-MJ,3,1,6,(a),Waves,General wave properties,2
+2023-MJ,3,1,6,(b),Waves,General wave properties,3
+2023-MJ,3,1,6,(c),Waves,General wave properties,2
+2023-MJ,3,1,7,(a),Waves,Lenses & dispersion,2
+2023-MJ,3,1,7,(b),Waves,Electromagnetic spectrum,1
+2023-MJ,3,1,7,(c)(i),Waves,Electromagnetic spectrum,1
+2023-MJ,3,1,7,(c)(ii),Waves,Electromagnetic spectrum,1
+2023-MJ,3,1,8,(a),Electricity & magnetism,Magnetism,1
+2023-MJ,3,1,8,(b),Electricity & magnetism,Magnetism,4
+2023-MJ,3,1,9,(a),Electricity & magnetism,Circuits & components,2
+2023-MJ,3,1,9,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2023-MJ,3,1,9,(c),Electricity & magnetism,Circuits & components,1
+2023-MJ,3,1,10,(a)(i),Electricity & magnetism,Electromagnetic effects,2
+2023-MJ,3,1,10,(a)(ii),Electricity & magnetism,Electromagnetic effects,2
+2023-MJ,3,1,10,(b),Electricity & magnetism,Electromagnetic effects,3
+2023-MJ,3,1,11,(a),Nuclear physics,Atom & nucleus (incl. fission/fusion),4
+2023-MJ,3,1,11,(b),Nuclear physics,Radioactivity,3
+2023-MJ,3,1,12,(a),Space physics,Earth & Solar System,2
+2023-MJ,3,1,12,(b),Space physics,Earth & Solar System,2
+2023-MJ,3,1,12,(c),Space physics,Stars & the Universe,2
+2023-MJ,3,1,12,(d),Space physics,Stars & the Universe,1
+2023-MJ,3,2,1,(a)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2023-MJ,3,2,1,(a)(ii),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2023-MJ,3,2,1,(b),"Motion, forces & energy","Mass, weight & density",3
+2023-MJ,3,2,2,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,3,2,2,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,3,2,2,(a)(iii),"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,3,2,2,(b),"Motion, forces & energy",Motion (kinematics),3
+2023-MJ,3,2,2,(c)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-MJ,3,2,2,(c)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2023-MJ,3,2,3,(a),"Motion, forces & energy","Energy, work & power",3
+2023-MJ,3,2,3,(b),"Motion, forces & energy","Energy, work & power",3
+2023-MJ,3,2,3,(c),"Motion, forces & energy",Pressure,3
+2023-MJ,3,2,4,(a)(i),Thermal physics,Kinetic particle model & gases,3
+2023-MJ,3,2,4,(a)(ii),Thermal physics,Kinetic particle model & gases,1
+2023-MJ,3,2,4,(b)(i),Thermal physics,Kinetic particle model & gases,1
+2023-MJ,3,2,4,(b)(ii),Thermal physics,Kinetic particle model & gases,1
+2023-MJ,3,2,4,(c),Thermal physics,Thermal energy transfer,2
+2023-MJ,3,2,5,(a)(i),Waves,Sound,3
+2023-MJ,3,2,5,(a)(ii),Waves,Sound,2
+2023-MJ,3,2,5,(b),Waves,Sound,3
+2023-MJ,3,2,6,(a)(i),Waves,Light: reflection & refraction,1
+2023-MJ,3,2,6,(a)(ii),Waves,Light: reflection & refraction,2
+2023-MJ,3,2,6,(b),Waves,Light: reflection & refraction,3
+2023-MJ,3,2,7,(a)(i),Electricity & magnetism,Magnetism,2
+2023-MJ,3,2,7,(a)(ii),Electricity & magnetism,Magnetism,1
+2023-MJ,3,2,7,(b)(i),Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,3,2,7,(b)(ii),Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,3,2,8,(a),Electricity & magnetism,Circuits & components,2
+2023-MJ,3,2,8,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2023-MJ,3,2,8,(c),Electricity & magnetism,Electrical energy & power,3
+2023-MJ,3,2,9,(a),Electricity & magnetism,Electrical safety,3
+2023-MJ,3,2,9,(b)(i),Electricity & magnetism,Electromagnetic effects,1
+2023-MJ,3,2,9,(b)(ii),Electricity & magnetism,Electromagnetic effects,4
+2023-MJ,3,2,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,3,2,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,3,2,10,(b),Nuclear physics,Radioactivity,2
+2023-MJ,3,2,10,(c),Nuclear physics,Radioactivity,3
+2023-MJ,3,2,11,(a),Space physics,Earth & Solar System,2
+2023-MJ,3,2,11,(b),Space physics,Earth & Solar System,4
+2023-MJ,3,3,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,3,3,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,3,3,1,(b)(i),"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,3,3,1,(b)(ii),"Motion, forces & energy",Motion (kinematics),1
+2023-MJ,3,3,1,(c),"Motion, forces & energy",Motion (kinematics),3
+2023-MJ,3,3,2,(a)(i),"Motion, forces & energy",Energy resources,1
+2023-MJ,3,3,2,(a)(ii),"Motion, forces & energy",Energy resources,1
+2023-MJ,3,3,2,(b),"Motion, forces & energy",Energy resources,2
+2023-MJ,3,3,3,(a)(i),"Motion, forces & energy",Turning effect & centre of gravity,3
+2023-MJ,3,3,3,(a)(ii),"Motion, forces & energy",Turning effect & centre of gravity,3
+2023-MJ,3,3,3,(b),"Motion, forces & energy","Mass, weight & density",3
+2023-MJ,3,3,4,(a)(i),Thermal physics,Thermal properties & temperature,1
+2023-MJ,3,3,4,(a)(ii),Thermal physics,Kinetic particle model & gases,2
+2023-MJ,3,3,4,(b),Thermal physics,Kinetic particle model & gases,3
+2023-MJ,3,3,4,(c),"Motion, forces & energy",Pressure,3
+2023-MJ,3,3,5,(a),Waves,General wave properties,2
+2023-MJ,3,3,5,(b)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2023-MJ,3,3,5,(b)(ii),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2023-MJ,3,3,5,(b)(iii),Waves,General wave properties,2
+2023-MJ,3,3,5,(c),Waves,General wave properties,3
+2023-MJ,3,3,6,(a)(i),Waves,Electromagnetic spectrum,2
+2023-MJ,3,3,6,(a)(ii),Waves,Electromagnetic spectrum,2
+2023-MJ,3,3,6,(b)(i),Waves,Electromagnetic spectrum,1
+2023-MJ,3,3,6,(b)(ii),Waves,Electromagnetic spectrum,1
+2023-MJ,3,3,7,(a),Waves,Light: reflection & refraction,4
+2023-MJ,3,3,7,(b),Waves,Lenses & dispersion,3
+2023-MJ,3,3,8,(a),Electricity & magnetism,Circuits & components,3
+2023-MJ,3,3,8,(b)(i),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2023-MJ,3,3,8,(b)(ii),Electricity & magnetism,Electrical energy & power,4
+2023-MJ,3,3,9,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),3
+2023-MJ,3,3,9,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2023-MJ,3,3,9,(b),Nuclear physics,Radioactivity,1
+2023-MJ,3,3,9,(c)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,3,3,9,(c)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-MJ,3,3,10,(a)(i),Space physics,Earth & Solar System,2
+2023-MJ,3,3,10,(a)(ii),Space physics,Earth & Solar System,1
+2023-MJ,3,3,10,(a)(iii),Space physics,Earth & Solar System,2
+2023-MJ,3,3,10,(a)(iv),Space physics,Stars & the Universe,2
+2023-MJ,3,3,10,(b),Space physics,Earth & Solar System,3
+2023-ON,3,1,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2023-ON,3,1,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),3
+2023-ON,3,1,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),2
+2023-ON,3,1,1,(b),"Motion, forces & energy",Motion (kinematics),1
+2023-ON,3,1,2,(a),"Motion, forces & energy","Mass, weight & density",4
+2023-ON,3,1,2,(b),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2023-ON,3,1,2,(c),"Motion, forces & energy",Turning effect & centre of gravity,4
+2023-ON,3,1,3,(a),Thermal physics,Kinetic particle model & gases,2
+2023-ON,3,1,3,(b),Thermal physics,Kinetic particle model & gases,3
+2023-ON,3,1,3,(c)(i),Thermal physics,Thermal energy transfer,1
+2023-ON,3,1,3,(c)(ii),Thermal physics,Thermal energy transfer,3
+2023-ON,3,1,3,(c)(iii),Thermal physics,Thermal properties & temperature,1
+2023-ON,3,1,4,(a)(i),Waves,General wave properties,1
+2023-ON,3,1,4,(a)(ii),Waves,General wave properties,2
+2023-ON,3,1,4,(b),Waves,General wave properties,1
+2023-ON,3,1,4,(c)(i),Waves,General wave properties,1
+2023-ON,3,1,4,(c)(ii),Waves,General wave properties,1
+2023-ON,3,1,5,(a),Waves,Electromagnetic spectrum,2
+2023-ON,3,1,5,(b),Waves,Electromagnetic spectrum,2
+2023-ON,3,1,5,(c),Waves,Electromagnetic spectrum,2
+2023-ON,3,1,6,(a),"Motion, forces & energy",Energy resources,3
+2023-ON,3,1,6,(b),Electricity & magnetism,Electrical energy & power,4
+2023-ON,3,1,6,(c),Electricity & magnetism,Electromagnetic effects,2
+2023-ON,3,1,7,(a),Waves,Lenses & dispersion,1
+2023-ON,3,1,7,(b),Waves,Lenses & dispersion,1
+2023-ON,3,1,7,(c),Waves,Lenses & dispersion,3
+2023-ON,3,1,8,(a),Electricity & magnetism,Magnetism,3
+2023-ON,3,1,8,(b),Electricity & magnetism,Electromagnetic effects,4
+2023-ON,3,1,9,(a)(i),Electricity & magnetism,Circuits & components,1
+2023-ON,3,1,9,(a)(ii),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,3,1,9,(a)(iii),Electricity & magnetism,Circuits & components,2
+2023-ON,3,1,9,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2023-ON,3,1,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,3,1,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,3,1,10,(b),Nuclear physics,Radioactivity,3
+2023-ON,3,1,11,(a),Space physics,Earth & Solar System,3
+2023-ON,3,1,11,(b),Space physics,Stars & the Universe,4
+2023-ON,3,1,11,(c),Space physics,Stars & the Universe,1
+2023-ON,3,2,1,(a)(i),"Motion, forces & energy",Motion (kinematics),2
+2023-ON,3,2,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2023-ON,3,2,1,(b)(i),"Motion, forces & energy",Motion (kinematics),1
+2023-ON,3,2,1,(b)(ii),"Motion, forces & energy",Motion (kinematics),2
+2023-ON,3,2,1,(c),"Motion, forces & energy",Motion (kinematics),3
+2023-ON,3,2,2,(a),"Motion, forces & energy","Energy, work & power",1
+2023-ON,3,2,2,(b)(i),"Motion, forces & energy","Energy, work & power",2
+2023-ON,3,2,2,(b)(ii),"Motion, forces & energy","Energy, work & power",1
+2023-ON,3,2,3,(a),"Motion, forces & energy",Turning effect & centre of gravity,3
+2023-ON,3,2,3,(b)(i),"Motion, forces & energy",Turning effect & centre of gravity,3
+2023-ON,3,2,3,(b)(ii),"Motion, forces & energy",Springs & deformation,2
+2023-ON,3,2,4,(a),"Motion, forces & energy","Mass, weight & density",2
+2023-ON,3,2,4,(b)(i),"Motion, forces & energy","Energy, work & power",3
+2023-ON,3,2,4,(b)(ii),"Motion, forces & energy","Energy, work & power",2
+2023-ON,3,2,5,(a),"Motion, forces & energy",Energy resources,2
+2023-ON,3,2,5,(b),"Motion, forces & energy",Energy resources,2
+2023-ON,3,2,6,(a),Thermal physics,Thermal energy transfer,2
+2023-ON,3,2,6,(b),Thermal physics,Thermal energy transfer,4
+2023-ON,3,2,7,(a),Waves,Sound,1
+2023-ON,3,2,7,(b)(i),Waves,Sound,1
+2023-ON,3,2,7,(b)(ii),Waves,Sound,3
+2023-ON,3,2,7,(c),Waves,Sound,2
+2023-ON,3,2,8,(a),Waves,General wave properties,2
+2023-ON,3,2,8,(b)(i),Waves,Lenses & dispersion,1
+2023-ON,3,2,8,(b)(ii),Waves,Lenses & dispersion,1
+2023-ON,3,2,8,(b)(iii),Waves,Lenses & dispersion,1
+2023-ON,3,2,8,(b)(iv),Waves,Lenses & dispersion,1
+2023-ON,3,2,8,(b)(v),Waves,Lenses & dispersion,3
+2023-ON,3,2,9,(a)(i),Electricity & magnetism,Electrical safety,1
+2023-ON,3,2,9,(a)(ii),Electricity & magnetism,Electrical energy & power,3
+2023-ON,3,2,9,(b),Electricity & magnetism,Electrical energy & power,3
+2023-ON,3,2,10,(a)(i),Electricity & magnetism,Magnetism,1
+2023-ON,3,2,10,(a)(ii),Electricity & magnetism,Magnetism,1
+2023-ON,3,2,10,(a)(iii),Electricity & magnetism,Magnetism,1
+2023-ON,3,2,10,(b),Electricity & magnetism,Electromagnetic effects,4
+2023-ON,3,2,11,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,3,2,11,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,3,2,11,(b)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,3,2,11,(b)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,3,2,11,(c),Nuclear physics,Radioactivity,2
+2023-ON,3,2,12,(a),Space physics,Earth & Solar System,2
+2023-ON,3,2,12,(b),Space physics,Earth & Solar System,2
+2023-ON,3,2,12,(c),Space physics,Earth & Solar System,2
+2023-ON,3,3,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2023-ON,3,3,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),2
+2023-ON,3,3,1,(b),"Motion, forces & energy",Motion (kinematics),2
+2023-ON,3,3,1,(c),"Motion, forces & energy",Motion (kinematics),3
+2023-ON,3,3,1,(d),"Motion, forces & energy",Motion (kinematics),2
+2023-ON,3,3,2,(a)(i),"Motion, forces & energy","Energy, work & power",1
+2023-ON,3,3,2,(a)(ii),"Motion, forces & energy","Energy, work & power",2
+2023-ON,3,3,2,(b)(i),"Motion, forces & energy","Energy, work & power",3
+2023-ON,3,3,2,(b)(ii),"Motion, forces & energy",Energy resources,1
+2023-ON,3,3,3,(a),"Motion, forces & energy","Mass, weight & density",2
+2023-ON,3,3,3,(b),"Motion, forces & energy","Mass, weight & density",4
+2023-ON,3,3,3,(c),"Motion, forces & energy","Mass, weight & density",2
+2023-ON,3,3,4,(a)(i),Thermal physics,Thermal energy transfer,1
+2023-ON,3,3,4,(a)(ii),Thermal physics,Thermal energy transfer,2
+2023-ON,3,3,4,(a)(iii),Thermal physics,Thermal energy transfer,1
+2023-ON,3,3,4,(b),Thermal physics,Thermal energy transfer,4
+2023-ON,3,3,5,(a)(i),Waves,Electromagnetic spectrum,2
+2023-ON,3,3,5,(a)(ii),Waves,Electromagnetic spectrum,2
+2023-ON,3,3,5,(b)(i),Waves,Electromagnetic spectrum,1
+2023-ON,3,3,5,(b)(ii),Waves,Electromagnetic spectrum,1
+2023-ON,3,3,6,(a)(i),Waves,Light: reflection & refraction,1
+2023-ON,3,3,6,(a)(ii),Waves,Light: reflection & refraction,2
+2023-ON,3,3,6,(b),Waves,Lenses & dispersion,2
+2023-ON,3,3,6,(c),Waves,Lenses & dispersion,2
+2023-ON,3,3,7,(a),Electricity & magnetism,Circuits & components,1
+2023-ON,3,3,7,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2023-ON,3,3,7,(c),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2023-ON,3,3,7,(d),Electricity & magnetism,Electrical energy & power,3
+2023-ON,3,3,7,(e),Electricity & magnetism,Circuits & components,1
+2023-ON,3,3,8,(a),Electricity & magnetism,Electromagnetic effects,3
+2023-ON,3,3,8,(b),Electricity & magnetism,Electromagnetic effects,2
+2023-ON,3,3,9,(a),Electricity & magnetism,Electromagnetic effects,1
+2023-ON,3,3,9,(b)(i),Electricity & magnetism,Electromagnetic effects,3
+2023-ON,3,3,9,(b)(ii),Electricity & magnetism,Electromagnetic effects,2
+2023-ON,3,3,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,3,3,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,3,3,10,(a)(iii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2023-ON,3,3,10,(b),Nuclear physics,Radioactivity,2
+2023-ON,3,3,11,(a)(i),Space physics,Earth & Solar System,1
+2023-ON,3,3,11,(a)(ii),Space physics,Earth & Solar System,1
+2023-ON,3,3,11,(a)(iii),Space physics,Earth & Solar System,1
+2023-ON,3,3,11,(a)(iv),Space physics,Stars & the Universe,2
+2023-ON,3,3,11,(b)(i),Space physics,Stars & the Universe,1
+2023-ON,3,3,11,(b)(ii),Space physics,Earth & Solar System,3
+2024-MJ,3,1,1,(a)(i),"Motion, forces & energy",Motion (kinematics),2
+2024-MJ,3,1,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,3,1,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),3
+2024-MJ,3,1,1,(b),"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,3,1,2,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2024-MJ,3,1,2,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),3
+2024-MJ,3,1,3,(a)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2024-MJ,3,1,3,(a)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-MJ,3,1,3,(a)(iii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-MJ,3,1,3,(b),"Motion, forces & energy",Turning effect & centre of gravity,4
+2024-MJ,3,1,4,(a),"Motion, forces & energy",Energy resources,2
+2024-MJ,3,1,4,(b)(i),"Motion, forces & energy",Energy resources,3
+2024-MJ,3,1,4,(b)(ii),"Motion, forces & energy",Energy resources,2
+2024-MJ,3,1,4,(c),"Motion, forces & energy",Energy resources,1
+2024-MJ,3,1,5,(a),Thermal physics,Kinetic particle model & gases,3
+2024-MJ,3,1,5,(b)(i),"Motion, forces & energy","Energy, work & power",3
+2024-MJ,3,1,5,(b)(ii),Thermal physics,Kinetic particle model & gases,2
+2024-MJ,3,1,6,(a),Thermal physics,Thermal energy transfer,2
+2024-MJ,3,1,6,(b)(i),Waves,General wave properties,3
+2024-MJ,3,1,6,(b)(ii),Waves,Electromagnetic spectrum,2
+2024-MJ,3,1,7,(a)(i),Waves,Light: reflection & refraction,1
+2024-MJ,3,1,7,(a)(ii),Waves,Light: reflection & refraction,1
+2024-MJ,3,1,7,(b)(i),Waves,Lenses & dispersion,2
+2024-MJ,3,1,7,(b)(ii),Waves,Lenses & dispersion,1
+2024-MJ,3,1,7,(c)(i),Waves,Lenses & dispersion,1
+2024-MJ,3,1,7,(c)(ii),Waves,Lenses & dispersion,2
+2024-MJ,3,1,8,(a)(i),Electricity & magnetism,Magnetism,1
+2024-MJ,3,1,8,(a)(ii),Electricity & magnetism,Circuits & components,2
+2024-MJ,3,1,8,(b)(i),Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,3,1,8,(b)(ii),Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,3,1,8,(c),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2024-MJ,3,1,9,(a)(i),Electricity & magnetism,Electrical safety,2
+2024-MJ,3,1,9,(a)(ii),Electricity & magnetism,Electrical safety,1
+2024-MJ,3,1,9,(b)(i),Electricity & magnetism,Electromagnetic effects,3
+2024-MJ,3,1,9,(b)(ii),Electricity & magnetism,Electromagnetic effects,3
+2024-MJ,3,1,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2024-MJ,3,1,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,3,1,10,(b),Nuclear physics,Radioactivity,1
+2024-MJ,3,1,10,(c),Nuclear physics,Radioactivity,2
+2024-MJ,3,1,11,(a),Space physics,Earth & Solar System,2
+2024-MJ,3,1,11,(b),Space physics,Stars & the Universe,1
+2024-MJ,3,1,11,(c),Space physics,Stars & the Universe,3
+2024-MJ,3,2,1,(a),"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,3,2,1,(b),"Motion, forces & energy",Motion (kinematics),1
+2024-MJ,3,2,1,(c),"Motion, forces & energy",Motion (kinematics),3
+2024-MJ,3,2,2,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),4
+2024-MJ,3,2,2,(b),"Motion, forces & energy","Mass, weight & density",4
+2024-MJ,3,2,3,(a),"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-MJ,3,2,3,(b),"Motion, forces & energy","Mass, weight & density",2
+2024-MJ,3,2,3,(c)(i),"Motion, forces & energy",Turning effect & centre of gravity,3
+2024-MJ,3,2,3,(c)(ii),"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-MJ,3,2,4,(a)(i),"Motion, forces & energy","Energy, work & power",2
+2024-MJ,3,2,4,(a)(ii),"Motion, forces & energy","Energy, work & power",1
+2024-MJ,3,2,4,(b)(i),"Motion, forces & energy",Energy resources,3
+2024-MJ,3,2,4,(b)(ii),"Motion, forces & energy",Energy resources,2
+2024-MJ,3,2,5,(a),Thermal physics,Kinetic particle model & gases,3
+2024-MJ,3,2,5,(b)(i),Thermal physics,Kinetic particle model & gases,2
+2024-MJ,3,2,5,(b)(ii),Thermal physics,Kinetic particle model & gases,1
+2024-MJ,3,2,5,(c),"Motion, forces & energy",Pressure,3
+2024-MJ,3,2,6,(a),Waves,General wave properties,3
+2024-MJ,3,2,6,(b),Waves,General wave properties,3
+2024-MJ,3,2,6,(c)(i),Waves,Electromagnetic spectrum,1
+2024-MJ,3,2,6,(c)(ii),Waves,Electromagnetic spectrum,1
+2024-MJ,3,2,6,(c)(iii),Waves,Electromagnetic spectrum,1
+2024-MJ,3,2,7,(a),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2024-MJ,3,2,7,(b),Electricity & magnetism,Circuits & components,3
+2024-MJ,3,2,8,(a),Electricity & magnetism,Electrical energy & power,4
+2024-MJ,3,2,8,(b)(i),Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,3,2,8,(b)(ii),Electricity & magnetism,Electromagnetic effects,3
+2024-MJ,3,2,9,(a),Electricity & magnetism,Electrical safety,2
+2024-MJ,3,2,9,(b)(i),Electricity & magnetism,Electrical safety,1
+2024-MJ,3,2,9,(b)(ii),Electricity & magnetism,Electrical safety,2
+2024-MJ,3,2,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,3,2,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,3,2,10,(b),Nuclear physics,Radioactivity,3
+2024-MJ,3,2,11,(a)(i),Space physics,Earth & Solar System,1
+2024-MJ,3,2,11,(a)(ii),Space physics,Earth & Solar System,3
+2024-MJ,3,2,11,(a)(iii),Space physics,Earth & Solar System,4
+2024-MJ,3,2,11,(b),Space physics,Stars & the Universe,2
+2024-MJ,3,3,1,(a)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-MJ,3,3,1,(a)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-MJ,3,3,1,(a)(iii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-MJ,3,3,1,(b)(i),"Motion, forces & energy",Motion (kinematics),3
+2024-MJ,3,3,1,(b)(ii),"Motion, forces & energy","Energy, work & power",4
+2024-MJ,3,3,2,(a),"Motion, forces & energy",Turning effect & centre of gravity,3
+2024-MJ,3,3,2,(b),"Motion, forces & energy",Turning effect & centre of gravity,2
+2024-MJ,3,3,3,(a)(i),"Motion, forces & energy",Energy resources,1
+2024-MJ,3,3,3,(a)(ii),"Motion, forces & energy",Energy resources,1
+2024-MJ,3,3,3,(b)(i),Electricity & magnetism,Electromagnetic effects,1
+2024-MJ,3,3,3,(b)(ii),Electricity & magnetism,Electromagnetic effects,2
+2024-MJ,3,3,3,(c),"Motion, forces & energy",Energy resources,4
+2024-MJ,3,3,4,(a)(i),Thermal physics,Kinetic particle model & gases,1
+2024-MJ,3,3,4,(a)(ii),Thermal physics,Kinetic particle model & gases,2
+2024-MJ,3,3,4,(a)(iii),Thermal physics,Kinetic particle model & gases,2
+2024-MJ,3,3,4,(b)(i),Thermal physics,Thermal properties & temperature,1
+2024-MJ,3,3,4,(b)(ii),Thermal physics,Thermal properties & temperature,2
+2024-MJ,3,3,5,(a),Thermal physics,Thermal energy transfer,3
+2024-MJ,3,3,5,(b)(i),Thermal physics,Thermal energy transfer,1
+2024-MJ,3,3,5,(b)(ii),Thermal physics,Thermal energy transfer,1
+2024-MJ,3,3,6,(a),Waves,General wave properties,1
+2024-MJ,3,3,6,(b)(i),Waves,General wave properties,1
+2024-MJ,3,3,6,(b)(ii),Waves,General wave properties,1
+2024-MJ,3,3,6,(c),Waves,General wave properties,3
+2024-MJ,3,3,7,(a)(i),Waves,Light: reflection & refraction,1
+2024-MJ,3,3,7,(a)(ii),Waves,Light: reflection & refraction,2
+2024-MJ,3,3,7,(b),Waves,Lenses & dispersion,1
+2024-MJ,3,3,7,(c),Waves,Light: reflection & refraction,2
+2024-MJ,3,3,8,(a),Electricity & magnetism,Circuits & components,2
+2024-MJ,3,3,8,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2024-MJ,3,3,8,(c),Electricity & magnetism,Electrical energy & power,4
+2024-MJ,3,3,9,(a),Electricity & magnetism,Magnetism,2
+2024-MJ,3,3,9,(b),Electricity & magnetism,Electromagnetic effects,3
+2024-MJ,3,3,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,3,3,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,3,3,10,(b),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-MJ,3,3,10,(c)(i),Nuclear physics,Radioactivity,1
+2024-MJ,3,3,10,(c)(ii),Nuclear physics,Radioactivity,3
+2024-MJ,3,3,10,(c)(iii),Nuclear physics,Radioactivity,1
+2024-MJ,3,3,11,(a),Space physics,Earth & Solar System,2
+2024-MJ,3,3,11,(b)(i),Space physics,Stars & the Universe,1
+2024-MJ,3,3,11,(b)(ii),Space physics,Stars & the Universe,1
+2024-MJ,3,3,11,(c)(i),Space physics,Stars & the Universe,1
+2024-MJ,3,3,11,(c)(ii),Space physics,Stars & the Universe,1
+2024-MJ,3,3,11,(d),Space physics,Earth & Solar System,3
+2024-ON,3,1,1,(a),"Motion, forces & energy",Motion (kinematics),1
+2024-ON,3,1,1,(b),"Motion, forces & energy",Motion (kinematics),3
+2024-ON,3,1,1,(c),"Motion, forces & energy",Motion (kinematics),3
+2024-ON,3,1,2,(a),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2024-ON,3,1,2,(b)(i),"Motion, forces & energy","Energy, work & power",3
+2024-ON,3,1,2,(b)(ii),"Motion, forces & energy","Energy, work & power",2
+2024-ON,3,1,2,(c),"Motion, forces & energy",Pressure,3
+2024-ON,3,1,3,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),4
+2024-ON,3,1,3,(b),"Motion, forces & energy","Mass, weight & density",3
+2024-ON,3,1,4,(a)(i),"Motion, forces & energy","Energy, work & power",1
+2024-ON,3,1,4,(a)(ii),"Motion, forces & energy","Energy, work & power",1
+2024-ON,3,1,4,(b),Electricity & magnetism,Electrical energy & power,4
+2024-ON,3,1,4,(c),"Motion, forces & energy",Energy resources,3
+2024-ON,3,1,5,(a),Thermal physics,Kinetic particle model & gases,3
+2024-ON,3,1,5,(b),Thermal physics,Kinetic particle model & gases,2
+2024-ON,3,1,6,(a),Waves,Sound,1
+2024-ON,3,1,6,(b),Waves,Sound,3
+2024-ON,3,1,7,(a)(i),Waves,General wave properties,1
+2024-ON,3,1,7,(a)(ii),Waves,General wave properties,1
+2024-ON,3,1,7,(a)(iii),Waves,General wave properties,1
+2024-ON,3,1,7,(a)(iv),Waves,General wave properties,1
+2024-ON,3,1,7,(b),Waves,General wave properties,2
+2024-ON,3,1,7,(c),Waves,General wave properties,2
+2024-ON,3,1,7,(d),Waves,General wave properties,3
+2024-ON,3,1,8,(a)(i),Waves,Lenses & dispersion,1
+2024-ON,3,1,8,(a)(ii),Waves,Lenses & dispersion,1
+2024-ON,3,1,8,(a)(iii),Waves,Lenses & dispersion,2
+2024-ON,3,1,8,(b)(i),Waves,Electromagnetic spectrum,2
+2024-ON,3,1,8,(b)(ii),Waves,Electromagnetic spectrum,1
+2024-ON,3,1,8,(b)(iii),Waves,Electromagnetic spectrum,1
+2024-ON,3,1,9,(a),Electricity & magnetism,Electric charge & static,2
+2024-ON,3,1,9,(b),Electricity & magnetism,Electric charge & static,3
+2024-ON,3,1,10,(a),Electricity & magnetism,Electrical energy & power,3
+2024-ON,3,1,10,(b),Electricity & magnetism,Electrical safety,2
+2024-ON,3,1,10,(c),Electricity & magnetism,Electromagnetic effects,3
+2024-ON,3,1,11,(a),Space physics,Earth & Solar System,2
+2024-ON,3,1,11,(b),Space physics,Earth & Solar System,4
+2024-ON,3,2,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2024-ON,3,2,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2024-ON,3,2,1,(b),"Motion, forces & energy",Motion (kinematics),1
+2024-ON,3,2,1,(c),"Motion, forces & energy",Motion (kinematics),4
+2024-ON,3,2,2,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),3
+2024-ON,3,2,2,(b)(i),"Motion, forces & energy","Mass, weight & density",1
+2024-ON,3,2,2,(b)(ii),"Motion, forces & energy","Mass, weight & density",2
+2024-ON,3,2,2,(c),"Motion, forces & energy","Mass, weight & density",3
+2024-ON,3,2,3,(a)(i),"Motion, forces & energy",Turning effect & centre of gravity,3
+2024-ON,3,2,3,(a)(ii),"Motion, forces & energy",Turning effect & centre of gravity,1
+2024-ON,3,2,3,(b),"Motion, forces & energy","Energy, work & power",4
+2024-ON,3,2,4,(a)(i),"Motion, forces & energy",Energy resources,1
+2024-ON,3,2,4,(a)(ii),"Motion, forces & energy",Energy resources,1
+2024-ON,3,2,4,(b)(i),"Motion, forces & energy","Energy, work & power",1
+2024-ON,3,2,4,(b)(ii),"Motion, forces & energy","Energy, work & power",1
+2024-ON,3,2,4,(c),"Motion, forces & energy",Energy resources,2
+2024-ON,3,2,5,(a),Thermal physics,Kinetic particle model & gases,2
+2024-ON,3,2,5,(b),Thermal physics,Kinetic particle model & gases,4
+2024-ON,3,2,6,(a),Thermal physics,Thermal energy transfer,3
+2024-ON,3,2,6,(b)(i),Thermal physics,Thermal energy transfer,2
+2024-ON,3,2,6,(b)(ii),Thermal physics,Thermal energy transfer,2
+2024-ON,3,2,7,(a),Waves,General wave properties,1
+2024-ON,3,2,7,(b)(i),Waves,General wave properties,2
+2024-ON,3,2,7,(b)(ii),Waves,General wave properties,1
+2024-ON,3,2,7,(c),Waves,General wave properties,3
+2024-ON,3,2,8,(a),Electricity & magnetism,Electric charge & static,3
+2024-ON,3,2,8,(b),Electricity & magnetism,Electric charge & static,2
+2024-ON,3,2,9,(a),Electricity & magnetism,Electromagnetic effects,2
+2024-ON,3,2,9,(b),Electricity & magnetism,Electromagnetic effects,3
+2024-ON,3,2,9,(c),Electricity & magnetism,Electrical safety,2
+2024-ON,3,2,10,(a)(i),Nuclear physics,Radioactivity,2
+2024-ON,3,2,10,(a)(ii),Nuclear physics,Radioactivity,1
+2024-ON,3,2,10,(a)(iii),Nuclear physics,Radioactivity,1
+2024-ON,3,2,10,(b)(i),Nuclear physics,Radioactivity,2
+2024-ON,3,2,10,(b)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2024-ON,3,2,11,(a)(i),Space physics,Earth & Solar System,2
+2024-ON,3,2,11,(a)(ii),Space physics,Earth & Solar System,2
+2024-ON,3,2,11,(a)(iii),Space physics,Earth & Solar System,3
+2024-ON,3,2,11,(b)(i),Space physics,Earth & Solar System,1
+2024-ON,3,2,11,(b)(ii),Space physics,Earth & Solar System,1
+2024-ON,3,2,11,(b)(iii),Space physics,Stars & the Universe,1
+2024-ON,3,3,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2024-ON,3,3,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),3
+2024-ON,3,3,1,(b)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2024-ON,3,3,1,(b)(ii),"Motion, forces & energy",Motion (kinematics),3
+2024-ON,3,3,1,(c)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2024-ON,3,3,1,(c)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2024-ON,3,3,2,(a),"Motion, forces & energy",Springs & deformation,3
+2024-ON,3,3,2,(b)(i),"Motion, forces & energy",Springs & deformation,2
+2024-ON,3,3,2,(b)(ii),"Motion, forces & energy",Springs & deformation,1
+2024-ON,3,3,3,(a),"Motion, forces & energy","Mass, weight & density",3
+2024-ON,3,3,3,(b),"Motion, forces & energy",Pressure,3
+2024-ON,3,3,4,(a),"Motion, forces & energy","Energy, work & power",1
+2024-ON,3,3,4,(b)(i),"Motion, forces & energy","Energy, work & power",1
+2024-ON,3,3,4,(b)(ii),"Motion, forces & energy","Energy, work & power",1
+2024-ON,3,3,4,(b)(iii),"Motion, forces & energy","Energy, work & power",1
+2024-ON,3,3,5,(a)(i),Thermal physics,Thermal properties & temperature,3
+2024-ON,3,3,5,(a)(ii),Thermal physics,Kinetic particle model & gases,2
+2024-ON,3,3,5,(b)(i),Thermal physics,Thermal energy transfer,1
+2024-ON,3,3,5,(b)(ii),Thermal physics,Thermal energy transfer,2
+2024-ON,3,3,5,(c),Thermal physics,Thermal energy transfer,2
+2024-ON,3,3,6,(a),Waves,General wave properties,1
+2024-ON,3,3,6,(b)(i),Waves,General wave properties,1
+2024-ON,3,3,6,(b)(ii),Waves,General wave properties,1
+2024-ON,3,3,6,(b)(iii),Waves,General wave properties,3
+2024-ON,3,3,7,(a),Waves,Electromagnetic spectrum,3
+2024-ON,3,3,7,(b)(i),Waves,Electromagnetic spectrum,1
+2024-ON,3,3,7,(b)(ii),Space physics,Earth & Solar System,2
+2024-ON,3,3,7,(b)(iii),"Motion, forces & energy",Energy resources,1
+2024-ON,3,3,7,(b)(iv),"Motion, forces & energy","Energy, work & power",1
+2024-ON,3,3,8,(a)(i),Electricity & magnetism,Circuits & components,1
+2024-ON,3,3,8,(a)(ii),Electricity & magnetism,Circuits & components,1
+2024-ON,3,3,8,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2024-ON,3,3,8,(c),Electricity & magnetism,Electrical energy & power,4
+2024-ON,3,3,9,(a),Electricity & magnetism,Electromagnetic effects,2
+2024-ON,3,3,9,(b),Electricity & magnetism,Electromagnetic effects,3
+2024-ON,3,3,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2024-ON,3,3,10,(a)(ii),Nuclear physics,Radioactivity,1
+2024-ON,3,3,10,(b),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2024-ON,3,3,10,(c),Nuclear physics,Radioactivity,2
+2024-ON,3,3,10,(d),Nuclear physics,Radioactivity,1
+2024-ON,3,3,11,(a)(i),Space physics,Earth & Solar System,1
+2024-ON,3,3,11,(a)(ii),Space physics,Earth & Solar System,1
+2024-ON,3,3,11,(a)(iii),Space physics,Earth & Solar System,3
+2024-ON,3,3,11,(b),Space physics,Stars & the Universe,3
+2025-MJ,3,1,1,(a),"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,3,1,1,(b),"Motion, forces & energy",Motion (kinematics),3
+2025-MJ,3,1,1,(c)(i),"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,3,1,1,(c)(ii),"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,3,1,1,(d),"Motion, forces & energy",Motion (kinematics),3
+2025-MJ,3,1,2,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-MJ,3,1,2,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2025-MJ,3,1,2,(c),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2025-MJ,3,1,3,(a),"Motion, forces & energy","Mass, weight & density",2
+2025-MJ,3,1,3,(b),"Motion, forces & energy",Turning effect & centre of gravity,4
+2025-MJ,3,1,4,(a)(i),"Motion, forces & energy","Energy, work & power",3
+2025-MJ,3,1,4,(a)(ii),"Motion, forces & energy","Energy, work & power",2
+2025-MJ,3,1,4,(b),"Motion, forces & energy",Energy resources,3
+2025-MJ,3,1,5,(a),Thermal physics,Thermal energy transfer,2
+2025-MJ,3,1,5,(b),Thermal physics,Thermal energy transfer,4
+2025-MJ,3,1,6,(a)(i),Waves,Light: reflection & refraction,1
+2025-MJ,3,1,6,(a)(ii),Waves,Light: reflection & refraction,1
+2025-MJ,3,1,6,(a)(iii),Waves,Light: reflection & refraction,1
+2025-MJ,3,1,6,(b)(i),Waves,Lenses & dispersion,1
+2025-MJ,3,1,6,(b)(ii),Waves,Lenses & dispersion,2
+2025-MJ,3,1,7,(a)(i),Waves,General wave properties,1
+2025-MJ,3,1,7,(a)(ii),Waves,General wave properties,2
+2025-MJ,3,1,7,(b)(i),Waves,Electromagnetic spectrum,2
+2025-MJ,3,1,7,(b)(ii),Waves,General wave properties,3
+2025-MJ,3,1,8,(a),Electricity & magnetism,Circuits & components,2
+2025-MJ,3,1,8,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2025-MJ,3,1,8,(c),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-MJ,3,1,8,(d),Electricity & magnetism,Circuits & components,2
+2025-MJ,3,1,9,(a),Electricity & magnetism,Electrical energy & power,3
+2025-MJ,3,1,9,(b),Electricity & magnetism,Electrical energy & power,3
+2025-MJ,3,1,9,(c),Electricity & magnetism,Electromagnetic effects,3
+2025-MJ,3,1,9,(d),Electricity & magnetism,Electrical safety,3
+2025-MJ,3,1,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,3,1,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2025-MJ,3,1,10,(b),Nuclear physics,Radioactivity,3
+2025-MJ,3,1,11,(a)(i),Space physics,Earth & Solar System,1
+2025-MJ,3,1,11,(a)(ii),Space physics,Stars & the Universe,1
+2025-MJ,3,1,11,(b),Space physics,Stars & the Universe,1
+2025-MJ,3,1,11,(c),Space physics,Stars & the Universe,3
+2025-MJ,3,2,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,3,2,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,3,2,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),3
+2025-MJ,3,2,1,(b)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2025-MJ,3,2,1,(b)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2025-MJ,3,2,2,(a),"Motion, forces & energy","Mass, weight & density",3
+2025-MJ,3,2,2,(b),"Motion, forces & energy","Energy, work & power",4
+2025-MJ,3,2,2,(c),"Motion, forces & energy","Energy, work & power",2
+2025-MJ,3,2,3,(a),"Motion, forces & energy",Turning effect & centre of gravity,4
+2025-MJ,3,2,3,(b),"Motion, forces & energy",Pressure,3
+2025-MJ,3,2,4,(a)(i),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,2,4,(a)(ii),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,2,4,(a)(iii),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,2,4,(a)(iv),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,2,4,(b)(i),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,2,4,(b)(ii),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,2,5,(a),Waves,General wave properties,3
+2025-MJ,3,2,5,(b)(i),Waves,Light: reflection & refraction,1
+2025-MJ,3,2,5,(b)(ii),Waves,Lenses & dispersion,3
+2025-MJ,3,2,6,(a)(i),Thermal physics,Thermal energy transfer,2
+2025-MJ,3,2,6,(a)(ii),Thermal physics,Thermal energy transfer,1
+2025-MJ,3,2,6,(b),Thermal physics,Thermal energy transfer,4
+2025-MJ,3,2,7,(a),Waves,General wave properties,2
+2025-MJ,3,2,7,(b),Space physics,Earth & Solar System,3
+2025-MJ,3,2,7,(c)(i),Waves,Electromagnetic spectrum,1
+2025-MJ,3,2,7,(c)(ii),Waves,Electromagnetic spectrum,1
+2025-MJ,3,2,8,(a),Electricity & magnetism,Electrical safety,1
+2025-MJ,3,2,8,(b),Electricity & magnetism,Circuits & components,2
+2025-MJ,3,2,8,(c),Electricity & magnetism,Electrical energy & power,3
+2025-MJ,3,2,9,(a),Electricity & magnetism,Circuits & components,1
+2025-MJ,3,2,9,(b)(i),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2025-MJ,3,2,9,(b)(ii),Electricity & magnetism,Circuits & components,2
+2025-MJ,3,2,9,(c),Electricity & magnetism,Circuits & components,1
+2025-MJ,3,2,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,3,2,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,3,2,10,(b),Nuclear physics,Radioactivity,3
+2025-MJ,3,2,10,(c),Nuclear physics,Radioactivity,2
+2025-MJ,3,2,11,(a),Space physics,Earth & Solar System,2
+2025-MJ,3,2,11,(b)(i),Space physics,Stars & the Universe,2
+2025-MJ,3,2,11,(b)(ii),Space physics,Stars & the Universe,1
+2025-MJ,3,2,11,(c)(i),Space physics,Stars & the Universe,1
+2025-MJ,3,2,11,(c)(ii),Space physics,Earth & Solar System,3
+2025-MJ,3,3,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,3,3,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2025-MJ,3,3,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),3
+2025-MJ,3,3,1,(b)(i),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2025-MJ,3,3,1,(b)(ii),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),1
+2025-MJ,3,3,2,(a),"Motion, forces & energy","Mass, weight & density",3
+2025-MJ,3,3,2,(b),"Motion, forces & energy","Energy, work & power",4
+2025-MJ,3,3,2,(c),"Motion, forces & energy","Energy, work & power",2
+2025-MJ,3,3,3,(a),"Motion, forces & energy",Turning effect & centre of gravity,4
+2025-MJ,3,3,3,(b),"Motion, forces & energy",Pressure,3
+2025-MJ,3,3,4,(a)(i),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,3,4,(a)(ii),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,3,4,(a)(iii),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,3,4,(a)(iv),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,3,4,(b)(i),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,3,4,(b)(ii),Thermal physics,Kinetic particle model & gases,1
+2025-MJ,3,3,5,(a),Waves,General wave properties,3
+2025-MJ,3,3,5,(b)(i),Waves,Light: reflection & refraction,1
+2025-MJ,3,3,5,(b)(ii),Waves,Lenses & dispersion,3
+2025-MJ,3,3,6,(a)(i),Thermal physics,Thermal energy transfer,2
+2025-MJ,3,3,6,(a)(ii),Thermal physics,Thermal energy transfer,1
+2025-MJ,3,3,6,(b),Thermal physics,Thermal energy transfer,4
+2025-MJ,3,3,7,(a),Waves,General wave properties,2
+2025-MJ,3,3,7,(b),Space physics,Earth & Solar System,3
+2025-MJ,3,3,7,(c)(i),Waves,Electromagnetic spectrum,1
+2025-MJ,3,3,7,(c)(ii),Waves,Electromagnetic spectrum,1
+2025-MJ,3,3,8,(a),Electricity & magnetism,Electrical safety,1
+2025-MJ,3,3,8,(b),Electricity & magnetism,Circuits & components,2
+2025-MJ,3,3,8,(c),Electricity & magnetism,Electrical energy & power,3
+2025-MJ,3,3,9,(a),Electricity & magnetism,Circuits & components,1
+2025-MJ,3,3,9,(b)(i),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2025-MJ,3,3,9,(b)(ii),Electricity & magnetism,Circuits & components,2
+2025-MJ,3,3,9,(c),Electricity & magnetism,Circuits & components,1
+2025-MJ,3,3,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,3,3,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-MJ,3,3,10,(b),Nuclear physics,Radioactivity,3
+2025-MJ,3,3,10,(c),Nuclear physics,Radioactivity,2
+2025-MJ,3,3,11,(a),Space physics,Earth & Solar System,2
+2025-MJ,3,3,11,(b)(i),Space physics,Stars & the Universe,2
+2025-MJ,3,3,11,(b)(ii),Space physics,Stars & the Universe,1
+2025-MJ,3,3,11,(c)(i),Space physics,Stars & the Universe,1
+2025-MJ,3,3,11,(c)(ii),Space physics,Earth & Solar System,3
+2025-ON,3,1,1,(a),"Motion, forces & energy",Motion (kinematics),3
+2025-ON,3,1,1,(b)(i),"Motion, forces & energy",Motion (kinematics),1
+2025-ON,3,1,1,(b)(ii),"Motion, forces & energy",Motion (kinematics),1
+2025-ON,3,1,2,(a)(i),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2025-ON,3,1,2,(a)(ii),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),3
+2025-ON,3,1,2,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),2
+2025-ON,3,1,3,(a),"Motion, forces & energy","Mass, weight & density",2
+2025-ON,3,1,3,(b)(i),"Motion, forces & energy",Springs & deformation,2
+2025-ON,3,1,3,(b)(ii),"Motion, forces & energy",Springs & deformation,2
+2025-ON,3,1,4,(a)(i),"Motion, forces & energy","Energy, work & power",3
+2025-ON,3,1,4,(a)(ii),"Motion, forces & energy","Energy, work & power",2
+2025-ON,3,1,4,(b),"Motion, forces & energy","Energy, work & power",3
+2025-ON,3,1,5,(a),Thermal physics,Kinetic particle model & gases,3
+2025-ON,3,1,5,(b),Thermal physics,Kinetic particle model & gases,3
+2025-ON,3,1,5,(c),"Motion, forces & energy",Pressure,3
+2025-ON,3,1,6,(a)(i),Waves,Electromagnetic spectrum,2
+2025-ON,3,1,6,(a)(ii),Waves,Electromagnetic spectrum,1
+2025-ON,3,1,6,(a)(iii),Waves,Electromagnetic spectrum,1
+2025-ON,3,1,6,(b),Waves,General wave properties,3
+2025-ON,3,1,7,(a),Electricity & magnetism,Magnetism,2
+2025-ON,3,1,7,(b),Electricity & magnetism,Magnetism,1
+2025-ON,3,1,7,(c)(i),Electricity & magnetism,Electric charge & static,2
+2025-ON,3,1,7,(c)(ii),Electricity & magnetism,Electric charge & static,2
+2025-ON,3,1,8,(a),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2025-ON,3,1,8,(b),Electricity & magnetism,Electromagnetic effects,3
+2025-ON,3,1,8,(c),Electricity & magnetism,Electrical energy & power,4
+2025-ON,3,1,8,(d),Electricity & magnetism,Electrical energy & power,3
+2025-ON,3,1,9,(a),Electricity & magnetism,Circuits & components,1
+2025-ON,3,1,9,(b),Electricity & magnetism,Circuits & components,2
+2025-ON,3,1,9,(c),Electricity & magnetism,Circuits & components,3
+2025-ON,3,1,10,(a),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2025-ON,3,1,10,(b),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2025-ON,3,1,10,(c),Nuclear physics,Radioactivity,3
+2025-ON,3,1,11,(a),Space physics,Earth & Solar System,1
+2025-ON,3,1,11,(b),Space physics,Earth & Solar System,3
+2025-ON,3,1,11,(c),Space physics,Earth & Solar System,3
+2025-ON,3,2,1,(a)(i),"Motion, forces & energy",Motion (kinematics),2
+2025-ON,3,2,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2025-ON,3,2,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),3
+2025-ON,3,2,1,(b),"Motion, forces & energy",Motion (kinematics),3
+2025-ON,3,2,2,(a),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2025-ON,3,2,2,(b),"Motion, forces & energy",Pressure,3
+2025-ON,3,2,2,(c),"Motion, forces & energy","Mass, weight & density",3
+2025-ON,3,2,3,(a),"Motion, forces & energy","Energy, work & power",2
+2025-ON,3,2,3,(b),"Motion, forces & energy","Energy, work & power",3
+2025-ON,3,2,3,(c)(i),"Motion, forces & energy","Energy, work & power",3
+2025-ON,3,2,3,(c)(ii),"Motion, forces & energy","Energy, work & power",4
+2025-ON,3,2,4,(a),Waves,Sound,3
+2025-ON,3,2,4,(b),Waves,Sound,4
+2025-ON,3,2,4,(c),Waves,Sound,3
+2025-ON,3,2,5,(a)(i),"Motion, forces & energy","Mass, weight & density",1
+2025-ON,3,2,5,(a)(ii),"Motion, forces & energy","Mass, weight & density",3
+2025-ON,3,2,5,(b)(i),Thermal physics,Thermal properties & temperature,1
+2025-ON,3,2,5,(b)(ii),Thermal physics,Kinetic particle model & gases,3
+2025-ON,3,2,5,(c),Thermal physics,Thermal properties & temperature,1
+2025-ON,3,2,6,(a),Waves,Lenses & dispersion,1
+2025-ON,3,2,6,(b),Waves,Lenses & dispersion,1
+2025-ON,3,2,6,(c),Waves,Lenses & dispersion,1
+2025-ON,3,2,6,(d),Waves,Lenses & dispersion,2
+2025-ON,3,2,6,(e),Waves,Lenses & dispersion,1
+2025-ON,3,2,7,(a),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,3,2,7,(b)(i),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2025-ON,3,2,7,(b)(ii),Electricity & magnetism,Electrical energy & power,3
+2025-ON,3,2,7,(c),Electricity & magnetism,Circuits & components,1
+2025-ON,3,2,8,(a)(i),Electricity & magnetism,Electromagnetic effects,2
+2025-ON,3,2,8,(a)(ii),Electricity & magnetism,Electromagnetic effects,2
+2025-ON,3,2,8,(b),Electricity & magnetism,Electromagnetic effects,2
+2025-ON,3,2,9,(a),Nuclear physics,Radioactivity,2
+2025-ON,3,2,9,(b)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),2
+2025-ON,3,2,9,(b)(ii),Nuclear physics,Radioactivity,3
+2025-ON,3,2,10,(a)(i),Space physics,Earth & Solar System,1
+2025-ON,3,2,10,(a)(ii),Space physics,Earth & Solar System,1
+2025-ON,3,2,10,(a)(iii),Space physics,Earth & Solar System,1
+2025-ON,3,2,10,(b),Space physics,Stars & the Universe,2
+2025-ON,3,3,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2025-ON,3,3,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),1
+2025-ON,3,3,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),3
+2025-ON,3,3,1,(b),"Motion, forces & energy","Mass, weight & density",3
+2025-ON,3,3,2,(a),"Motion, forces & energy",Turning effect & centre of gravity,3
+2025-ON,3,3,2,(b),"Motion, forces & energy","Energy, work & power",3
+2025-ON,3,3,2,(c),"Motion, forces & energy","Energy, work & power",4
+2025-ON,3,3,3,(a),"Motion, forces & energy","Mass, weight & density",4
+2025-ON,3,3,3,(b),"Motion, forces & energy","Mass, weight & density",2
+2025-ON,3,3,4,(a)(i),Thermal physics,Thermal properties & temperature,1
+2025-ON,3,3,4,(a)(ii),Thermal physics,Thermal properties & temperature,1
+2025-ON,3,3,4,(a)(iii),Thermal physics,Thermal properties & temperature,1
+2025-ON,3,3,4,(a)(iv),Thermal physics,Thermal properties & temperature,1
+2025-ON,3,3,4,(b)(i),Thermal physics,Thermal properties & temperature,3
+2025-ON,3,3,4,(b)(ii),Thermal physics,Thermal properties & temperature,1
+2025-ON,3,3,5,(a),"Motion, forces & energy",Energy resources,4
+2025-ON,3,3,5,(b)(i),Waves,Electromagnetic spectrum,1
+2025-ON,3,3,5,(b)(ii),Waves,General wave properties,3
+2025-ON,3,3,5,(c),Waves,Electromagnetic spectrum,2
+2025-ON,3,3,6,(a),Waves,Lenses & dispersion,1
+2025-ON,3,3,6,(b),Waves,Lenses & dispersion,1
+2025-ON,3,3,6,(c),Waves,Lenses & dispersion,2
+2025-ON,3,3,6,(d),Waves,Lenses & dispersion,2
+2025-ON,3,3,7,(a)(i),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",1
+2025-ON,3,3,7,(a)(ii),Electricity & magnetism,Circuits & components,3
+2025-ON,3,3,7,(b)(i),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2025-ON,3,3,7,(b)(ii),Electricity & magnetism,Electrical energy & power,3
+2025-ON,3,3,8,(a),Electricity & magnetism,Electromagnetic effects,2
+2025-ON,3,3,8,(b),Electricity & magnetism,Electromagnetic effects,2
+2025-ON,3,3,8,(c),Electricity & magnetism,Electromagnetic effects,3
+2025-ON,3,3,9,(a),Nuclear physics,Atom & nucleus (incl. fission/fusion),3
+2025-ON,3,3,9,(b),Nuclear physics,Radioactivity,3
+2025-ON,3,3,9,(c),Nuclear physics,Radioactivity,2
+2025-ON,3,3,10,(a),Space physics,Earth & Solar System,3
+2025-ON,3,3,10,(b)(i),Space physics,Stars & the Universe,2
+2025-ON,3,3,10,(b)(ii),Space physics,Stars & the Universe,2
+2026-MJ,3,1,1,(a),"Motion, forces & energy",Motion (kinematics),3
+2026-MJ,3,1,1,(b)(i),"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,3,1,1,(b)(ii),"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,3,1,1,(c),"Motion, forces & energy",Motion (kinematics),3
+2026-MJ,3,1,2,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),3
+2026-MJ,3,1,2,(b),"Motion, forces & energy","Mass, weight & density",3
+2026-MJ,3,1,3,(a),"Motion, forces & energy",Turning effect & centre of gravity,2
+2026-MJ,3,1,3,(b),"Motion, forces & energy",Pressure,3
+2026-MJ,3,1,3,(c),"Motion, forces & energy",Forces & Newton's laws (incl. circular motion),2
+2026-MJ,3,1,4,(a)(i),"Motion, forces & energy","Energy, work & power",1
+2026-MJ,3,1,4,(a)(ii),Electricity & magnetism,Electrical energy & power,3
+2026-MJ,3,1,4,(a)(iii),"Motion, forces & energy","Energy, work & power",2
+2026-MJ,3,1,4,(b)(i),"Motion, forces & energy",Energy resources,4
+2026-MJ,3,1,4,(b)(ii),"Motion, forces & energy",Energy resources,2
+2026-MJ,3,1,5,(a),Thermal physics,Thermal energy transfer,2
+2026-MJ,3,1,5,(b),Thermal physics,Kinetic particle model & gases,3
+2026-MJ,3,1,5,(c),Thermal physics,Kinetic particle model & gases,2
+2026-MJ,3,1,6,(a)(i),Waves,Electromagnetic spectrum,1
+2026-MJ,3,1,6,(a)(ii),Waves,General wave properties,2
+2026-MJ,3,1,6,(a)(iii),Waves,General wave properties,3
+2026-MJ,3,1,6,(b)(i),Waves,Electromagnetic spectrum,1
+2026-MJ,3,1,6,(b)(ii),Waves,Electromagnetic spectrum,1
+2026-MJ,3,1,7,(a)(i),Waves,Light: reflection & refraction,1
+2026-MJ,3,1,7,(a)(ii),Waves,Light: reflection & refraction,1
+2026-MJ,3,1,7,(b)(i),Waves,Light: reflection & refraction,1
+2026-MJ,3,1,7,(b)(ii),Waves,Light: reflection & refraction,1
+2026-MJ,3,1,8,(a),Electricity & magnetism,Circuits & components,2
+2026-MJ,3,1,8,(b),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2026-MJ,3,1,8,(c),Electricity & magnetism,Circuits & components,3
+2026-MJ,3,1,9,(a),Electricity & magnetism,Magnetism,1
+2026-MJ,3,1,9,(b),Electricity & magnetism,Magnetism,2
+2026-MJ,3,1,9,(c)(i),Electricity & magnetism,Electromagnetic effects,2
+2026-MJ,3,1,9,(c)(ii),Electricity & magnetism,Electromagnetic effects,2
+2026-MJ,3,1,10,(a)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,3,1,10,(a)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,3,1,10,(b),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,3,1,10,(c),Nuclear physics,Radioactivity,1
+2026-MJ,3,1,11,(a)(i),Space physics,Earth & Solar System,3
+2026-MJ,3,1,11,(a)(ii),Space physics,Earth & Solar System,1
+2026-MJ,3,1,11,(a)(iii),Space physics,Earth & Solar System,1
+2026-MJ,3,1,11,(b),Space physics,Stars & the Universe,4
+2026-MJ,3,2,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,3,2,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),2
+2026-MJ,3,2,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),3
+2026-MJ,3,2,1,(b),"Motion, forces & energy",Motion (kinematics),4
+2026-MJ,3,2,2,(a)(i),"Motion, forces & energy","Energy, work & power",4
+2026-MJ,3,2,2,(a)(ii),"Motion, forces & energy","Mass, weight & density",3
+2026-MJ,3,2,2,(b),"Motion, forces & energy",Pressure,4
+2026-MJ,3,2,3,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2026-MJ,3,2,3,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),4
+2026-MJ,3,2,3,(c),"Motion, forces & energy","Mass, weight & density",3
+2026-MJ,3,2,4,(a)(i),Thermal physics,Thermal properties & temperature,1
+2026-MJ,3,2,4,(a)(ii),Thermal physics,Kinetic particle model & gases,3
+2026-MJ,3,2,4,(b)(i),Thermal physics,Kinetic particle model & gases,1
+2026-MJ,3,2,4,(b)(ii),Thermal physics,Kinetic particle model & gases,1
+2026-MJ,3,2,5,(a)(i),Thermal physics,Thermal energy transfer,1
+2026-MJ,3,2,5,(a)(ii),Thermal physics,Thermal energy transfer,2
+2026-MJ,3,2,5,(a)(iii),Thermal physics,Thermal energy transfer,1
+2026-MJ,3,2,5,(b),Thermal physics,Thermal energy transfer,3
+2026-MJ,3,2,6,(a),Waves,Electromagnetic spectrum,2
+2026-MJ,3,2,6,(b),Waves,Electromagnetic spectrum,1
+2026-MJ,3,2,6,(c),Waves,Electromagnetic spectrum,1
+2026-MJ,3,2,6,(d),Waves,Electromagnetic spectrum,1
+2026-MJ,3,2,6,(e),Space physics,Stars & the Universe,2
+2026-MJ,3,2,7,(a)(i),Waves,Light: reflection & refraction,1
+2026-MJ,3,2,7,(a)(ii),Waves,Light: reflection & refraction,1
+2026-MJ,3,2,7,(a)(iii),Waves,Light: reflection & refraction,1
+2026-MJ,3,2,7,(a)(iv),Waves,Light: reflection & refraction,2
+2026-MJ,3,2,7,(b)(i),Waves,Lenses & dispersion,1
+2026-MJ,3,2,7,(b)(ii),Waves,Lenses & dispersion,1
+2026-MJ,3,2,7,(b)(iii),Waves,Lenses & dispersion,1
+2026-MJ,3,2,7,(b)(iv),Waves,Lenses & dispersion,1
+2026-MJ,3,2,8,(a),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2026-MJ,3,2,8,(b),Electricity & magnetism,Electrical energy & power,3
+2026-MJ,3,2,8,(c),Electricity & magnetism,Electrical safety,1
+2026-MJ,3,2,8,(d),Electricity & magnetism,Electrical safety,2
+2026-MJ,3,2,8,(e),Electricity & magnetism,Electrical safety,1
+2026-MJ,3,2,9,(a),Nuclear physics,Radioactivity,3
+2026-MJ,3,2,9,(b)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,3,2,9,(b)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,3,2,9,(c),Nuclear physics,Radioactivity,2
+2026-MJ,3,2,10,(a),Space physics,Earth & Solar System,1
+2026-MJ,3,2,10,(b),Space physics,Earth & Solar System,1
+2026-MJ,3,2,10,(c),Space physics,Earth & Solar System,3
+2026-MJ,3,3,1,(a)(i),"Motion, forces & energy",Motion (kinematics),1
+2026-MJ,3,3,1,(a)(ii),"Motion, forces & energy",Motion (kinematics),2
+2026-MJ,3,3,1,(a)(iii),"Motion, forces & energy",Motion (kinematics),3
+2026-MJ,3,3,1,(b),"Motion, forces & energy",Motion (kinematics),4
+2026-MJ,3,3,2,(a)(i),"Motion, forces & energy","Energy, work & power",4
+2026-MJ,3,3,2,(a)(ii),"Motion, forces & energy","Mass, weight & density",3
+2026-MJ,3,3,2,(b),"Motion, forces & energy",Pressure,4
+2026-MJ,3,3,3,(a),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),1
+2026-MJ,3,3,3,(b),"Motion, forces & energy",Physical quantities & measurement (incl. vectors),4
+2026-MJ,3,3,3,(c),"Motion, forces & energy","Mass, weight & density",3
+2026-MJ,3,3,4,(a)(i),Thermal physics,Thermal properties & temperature,1
+2026-MJ,3,3,4,(a)(ii),Thermal physics,Kinetic particle model & gases,3
+2026-MJ,3,3,4,(b)(i),Thermal physics,Kinetic particle model & gases,1
+2026-MJ,3,3,4,(b)(ii),Thermal physics,Kinetic particle model & gases,1
+2026-MJ,3,3,5,(a)(i),Thermal physics,Thermal energy transfer,1
+2026-MJ,3,3,5,(a)(ii),Thermal physics,Thermal energy transfer,2
+2026-MJ,3,3,5,(a)(iii),Thermal physics,Thermal energy transfer,1
+2026-MJ,3,3,5,(b),Thermal physics,Thermal energy transfer,3
+2026-MJ,3,3,6,(a),Waves,Electromagnetic spectrum,2
+2026-MJ,3,3,6,(b),Waves,Electromagnetic spectrum,1
+2026-MJ,3,3,6,(c),Waves,Electromagnetic spectrum,1
+2026-MJ,3,3,6,(d),Waves,Electromagnetic spectrum,1
+2026-MJ,3,3,6,(e),Space physics,Stars & the Universe,2
+2026-MJ,3,3,7,(a)(i),Waves,Light: reflection & refraction,1
+2026-MJ,3,3,7,(a)(ii),Waves,Light: reflection & refraction,1
+2026-MJ,3,3,7,(a)(iii),Waves,Light: reflection & refraction,1
+2026-MJ,3,3,7,(a)(iv),Waves,Light: reflection & refraction,2
+2026-MJ,3,3,7,(b)(i),Waves,Lenses & dispersion,1
+2026-MJ,3,3,7,(b)(ii),Waves,Lenses & dispersion,1
+2026-MJ,3,3,7,(b)(iii),Waves,Lenses & dispersion,1
+2026-MJ,3,3,7,(b)(iv),Waves,Lenses & dispersion,1
+2026-MJ,3,3,8,(a),Electricity & magnetism,"Current, p.d., e.m.f. & resistance",3
+2026-MJ,3,3,8,(b),Electricity & magnetism,Electrical energy & power,3
+2026-MJ,3,3,8,(c),Electricity & magnetism,Electrical safety,1
+2026-MJ,3,3,8,(d),Electricity & magnetism,Electrical safety,2
+2026-MJ,3,3,8,(e),Electricity & magnetism,Electrical safety,1
+2026-MJ,3,3,9,(a),Nuclear physics,Radioactivity,3
+2026-MJ,3,3,9,(b)(i),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,3,3,9,(b)(ii),Nuclear physics,Atom & nucleus (incl. fission/fusion),1
+2026-MJ,3,3,9,(c),Nuclear physics,Radioactivity,2
+2026-MJ,3,3,10,(a),Space physics,Earth & Solar System,1
+2026-MJ,3,3,10,(b),Space physics,Earth & Solar System,1
+2026-MJ,3,3,10,(c),Space physics,Earth & Solar System,3

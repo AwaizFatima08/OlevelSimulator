@@ -8,7 +8,7 @@ Per-part data: `0620-questions.csv` (1,063 rows: session, paper, variant, questi
 - **Sessions:** 9 (May/June and Oct/Nov 2022 to 2025, plus May/June 2026).
 - **Main sample (Extended route):** variant 2 of Papers 2, 4 and 6 (22, 42, 62) in every session, every question part tagged. That is 27 papers and 1,440 marks.
 - **Practical Test (Paper 5):** variant 52 tagged for June 2023, June 2025 and June 2026 (120 marks).
-- **Core (Papers 1 and 3):** cover pages, thresholds and a quick overlap check only (section 12).
+- **Core (Papers 1 and 3):** tagged item by item since 26 Oct 2026 (section 12).
 - **Marks:** MCQ items are 1 mark each. For Papers 4–6 the marks come from the `[n]` markers in the question paper, read by a script. **Every paper adds up exactly to its cover total** (40 / 80 / 40 / 40), and every question matches its `[Total: n]` line.
 - **Classification:** each part goes to **one** topic and subtopic, chosen by the skill that earns the marks (the same rules as the 5070 analysis):
   - a calculation of Ar from isotope abundances goes to *Atomic structure & isotopes*; a mole, concentration or gas-volume calculation goes to *Stoichiometry*;
@@ -478,10 +478,13 @@ These come up in every Paper 6:
 
 ## 12. Core route (Papers 1 and 3): brief note
 
+> **Update 26 Oct 2026:** the Core papers (Papers 11–13 and 31–33, all nine sessions) are now tagged item by item and included in the question index and topic pages. The topic shares above were computed before that and describe the Extended papers.
+
+
 - **Paper 1** has 40 MCQ items in 45 minutes; **Paper 3** has 80 marks of structured questions in 1 h 15 min, typically 8 questions of 8–13 marks. Core is capped at grade C.
 - **Core thresholds:** C needs 98–110 of 200 weighted (about half). That is 21–23 out of 40 on P1 and 40–46 out of 80 on P3.
 - **Overlap with Extended:** up to Nov 2023, P12 and P22 shared roughly 10–18 identical item stems per session. From June 2024 the matching finds almost none, so the Core MCQ appears to be written separately now. (This is approximate: it is based on matching question text, not a full tagging.)
-- The Core papers follow the same syllabus topics without the supplement content (no bond-energy calculations, oxidation numbers or condensation polymers). The Extended topic weights above are a reasonable guide to the order of topics, but the Core papers were not tagged.
+- The Core papers follow the same syllabus topics without the supplement content (no bond-energy calculations, oxidation numbers or condensation polymers). The Extended topic weights above are a reasonable guide to the order of topics; the Core papers are now tagged too (see the update note).
 
 ## 13. Comparison with O Level Chemistry 5070
 
@@ -514,4 +517,4 @@ These come up in every Paper 6:
 - The 2022 comparison rests on two sessions only.
 - The style counts in section 8a come from keyword matching and are approximate.
 - The examiner-report evidence covers 2022, June 2023 and June 2025 only. There is no threshold sheet for June 2024.
-- Core papers were not tagged.
+- Core papers were tagged later (26 Oct 2026).
