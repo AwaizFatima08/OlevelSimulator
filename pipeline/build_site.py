@@ -237,6 +237,15 @@ def subj_title(subj):
     return f"{LEVELS[subj['level']]['short']} {subj['name']} ({subj['code']})"
 
 
+OFFICIAL_PAPERS = json.loads((PIPE / "official_papers.json").read_text()) if (PIPE / "official_papers.json").exists() else {}
+
+
+def official_paper(subj, q):
+    """Direct link to Cambridge's own copy of this question paper, when Cambridge publishes it (tools/fetch_official_links.py)."""
+    papers = OFFICIAL_PAPERS.get(subj["code"], {})
+    return papers.get(f"{q['session']}-{q['paper']}{q['variant']}") or papers.get(f"{q['session']}-0{q['paper']}")
+
+
 def paper_ref(q):
     return f"Paper {q['paper']}{q['variant']}"
 
@@ -251,6 +260,8 @@ def question_li(subj, q):
             f'<span class="q-ref"><strong>{esc(session_label(q["session"]))}</strong> · '
             f'<abbr title="{esc(paper_name)}">{esc(paper_ref(q))}</abbr> · {esc(label)}</span>'
             f'<span class="q-marks">{esc(marks)}</span>'
+            + (f'<a class="q-official" href="{esc(link)}" rel="noopener" target="_blank">Official paper ↗</a>'
+               if (link := official_paper(subj, q)) else "") +
             f'<span class="q-subs">{esc(subs)}</span></li>')
 
 
@@ -569,7 +580,9 @@ def build_data(data):
                               for s in t["subtopics"]],
                 "questions": [{"id": q["id"], "session": q["session"], "paper": q["paper"], "variant": q["variant"],
                                "number": q["number"], "parts": q["parts"], "marks": q["marks"],
-                               "subtopics": sorted(q["subtopics"])} for q in t["questions"]],
+                               "subtopics": sorted(q["subtopics"]),
+                               **({"official": link} if (link := official_paper(subj, q)) else {})}
+                              for q in t["questions"]],
             } for t in d["topics"]],
         }
         name = f"{subj['code']}.json"

@@ -5,7 +5,7 @@ import 'data/user_store.dart';
 import 'views/home_page.dart';
 
 const appName = 'Question Simulator';
-const appFullName = 'Cambridge IGCSE Question Simulator';
+const appFullName = 'Question Simulator';
 const appVersion = '0.1.0';
 
 /// Gives every page access to the content repository and the on-device store.

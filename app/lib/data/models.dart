@@ -68,7 +68,7 @@ class Manifest {
         version: j['version'] as String,
         label: j['label'] as String,
         sessions: List<String>.from(j['sessions'] as List),
-        site: (j['site'] as String?) ?? 'https://cambridgesimulator.homilabs.org',
+        site: (j['site'] as String?) ?? 'https://questionsimulator.homilabs.org',
         levels: [for (final l in (j['levels'] as List? ?? const [])) Level.fromJson(l as Map<String, dynamic>)],
         packs: [for (final p in j['packs'] as List) PackInfo.fromJson(p as Map<String, dynamic>)],
         comingSoon: [
@@ -90,6 +90,7 @@ class Question {
     required this.parts,
     required this.marks,
     required this.subtopics,
+    this.officialUrl,
   });
   final String id; // e.g. 0625_s24_42_q7
   final String session; // e.g. 2024-MJ
@@ -99,6 +100,9 @@ class Question {
   final List<String> parts;
   final double marks;
   final List<String> subtopics;
+
+  /// Cambridge's own public copy of this question paper, when it publishes one (most papers are not public).
+  final String? officialUrl;
 
   int get year => int.parse(session.substring(0, 4));
   bool get isOctNov => session.endsWith('ON');
@@ -132,6 +136,7 @@ class Question {
         parts: List<String>.from(j['parts'] as List),
         marks: (j['marks'] as num).toDouble(),
         subtopics: List<String>.from(j['subtopics'] as List),
+        officialUrl: j['official'] as String?,
       );
 }
 
@@ -271,6 +276,7 @@ class Subject {
       parts: _sortedParts({for (final q in slices) ...q.parts}),
       marks: slices.fold(0.0, (sum, q) => sum + q.marks),
       subtopics: {for (final q in slices) ...q.subtopics}.toList(),
+      officialUrl: first.officialUrl,
     );
   }
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Upload site/ to the cambridgesimulator.homilabs.org web root over FTP (fallback when hPanel Git deploy is down).
+"""Upload site/ to the questionsimulator.homilabs.org web root over FTP (fallback when hPanel Git deploy is down).
 
 Run it in a terminal; it asks for the FTP username and password (the password is never echoed or stored):
     python3 scripts/ftp_publish.py
@@ -17,8 +17,9 @@ from pathlib import Path
 
 HOST = "ftp.homilabs.org"
 SITE = Path(__file__).resolve().parent.parent / "site"
-LIVE = "https://cambridgesimulator.homilabs.org/data/manifest.json"
+LIVE = "https://questionsimulator.homilabs.org/data/manifest.json"
 CANDIDATES = [
+    "domains/questionsimulator.homilabs.org/public_html",
     "domains/cambridgesimulator.homilabs.org/public_html",
     "domains/homilabs.org/public_html/cambridgesimulator",
     "public_html/cambridgesimulator",

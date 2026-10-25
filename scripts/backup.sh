@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# backup.sh — three-layer backup for Cambridge IGCSE Question Simulator
+# backup.sh — three-layer backup for Question Simulator
 #
 #   Layer 1: local copy    -> /mnt/storage/project_backups/Olevel_Simulator/
 #   Layer 2: Google Drive  -> https://drive.google.com/drive/folders/14NEUa8owGT5R1R7RFuGvbIgUPalARd8g

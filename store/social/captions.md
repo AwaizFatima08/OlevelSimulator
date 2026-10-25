@@ -2,7 +2,7 @@
 
 Links (the Play link works once Google approves the app; check it opens before posting):
 - Google Play: https://play.google.com/store/apps/details?id=com.homilabs.questionsimulator
-- Website: https://cambridgesimulator.homilabs.org
+- Website: https://questionsimulator.homilabs.org
 
 Files in `store/social/`:
 - `facebook-post-1080x1350.png` — feed image with the install QR and website (also fine for an Instagram feed post)
@@ -21,7 +21,7 @@ Pick your subject, open a topic, and see every time it came up from May/June 202
 ✅ Works offline · no ads · no sign-up
 
 📲 Android app: scan the QR or search "Question Simulator: Exam Prep" on Google Play
-🌐 Website: https://cambridgesimulator.homilabs.org
+🌐 Website: https://questionsimulator.homilabs.org
 
 Please share with students, parents and teachers 🙏
 
@@ -34,17 +34,17 @@ Stuck on past papers? Practise by topic 📚
 39 O Level, IGCSE & A Level subjects · 22,383 questions · year by year since 2022 · banker topics · similar questions.
 Free, no ads, works offline.
 📲 Android: "Question Simulator: Exam Prep" on Google Play (link in bio)
-🌐 cambridgesimulator.homilabs.org
+🌐 questionsimulator.homilabs.org
 
 #olevels #igcse #alevels #pastpapers #examprep #studygram #studytips #pakistanstudents #studentlife
 
 (Instagram captions don't make links clickable: put the Play link or website in the bio / a link sticker.)
 
 ## TikTok caption (≤150 chars shown)
-Past papers sorted by topic & year 📚 O Level · IGCSE · A Level — free, no ads. cambridgesimulator.homilabs.org #igcse #olevels #alevels #pastpapers #studytok
+Past papers sorted by topic & year 📚 O Level · IGCSE · A Level — free, no ads. questionsimulator.homilabs.org #igcse #olevels #alevels #pastpapers #studytok
 
 ## Facebook Reel caption
-Past paper questions by topic and year — free for O Level, IGCSE & A Level students. Android: "Question Simulator: Exam Prep" on Google Play · Web: cambridgesimulator.homilabs.org
+Past paper questions by topic and year — free for O Level, IGCSE & A Level students. Android: "Question Simulator: Exam Prep" on Google Play · Web: questionsimulator.homilabs.org
 
 ## Posting notes
 - Post after the app is approved, so the QR and Play link open the listing.

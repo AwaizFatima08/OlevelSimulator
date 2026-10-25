@@ -7,7 +7,7 @@ Agreed 20 Oct 2026. Non-profit, no ads, no accounts, no tracking.
 homi-nas (private)                                   Hostinger (public)                  Students
 papers/ (PDFs, never published)
    │
-pipeline: fetch → extract → tag → link similar → review → build ──► cambridgesimulator.homilabs.org ──► Web
+pipeline: fetch → extract → tag → link similar → review → build ──► questionsimulator.homilabs.org ──► Web
                                                                     /data/manifest.json + <code>.json ──► Android app (offline)
 ```
 - Static site only: plain HTML, one stylesheet, one small script. Cheap, fast on mobile data, nothing to patch.

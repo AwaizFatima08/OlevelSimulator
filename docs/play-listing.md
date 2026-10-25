@@ -6,8 +6,8 @@ Package `com.homilabs.questionsimulator` (permanent). Developer: HomiLabs (org a
 - **App name (≤30):** Question Simulator: Exam Prep
 - **Short description (≤80):** Past paper questions by topic & year for O Level, IGCSE and A Level students.
 - **Category:** Education · **Tags:** Education, Study aids
-- **Email:** homilabs.smc@gmail.com · **Website:** https://cambridgesimulator.homilabs.org
-- **Privacy policy:** https://cambridgesimulator.homilabs.org/about/#privacy
+- **Email:** homilabs.smc@gmail.com · **Website:** https://questionsimulator.homilabs.org
+- **Privacy policy:** https://questionsimulator.homilabs.org/about/#privacy
 
 ### Full description (≤4000)
 Free, non-profit study aid that sorts recent O Level, IGCSE and A Level past paper questions by topic and year.

@@ -16,7 +16,7 @@ import 'models.dart';
 class ContentRepository {
   ContentRepository({http.Client? client, this.siteUrl = defaultSite}) : _client = client ?? http.Client();
 
-  static const defaultSite = 'https://cambridgesimulator.homilabs.org';
+  static const defaultSite = 'https://questionsimulator.homilabs.org';
   static const _prefsVersion = 'content_version';
   static const _prefsDir = 'content_dir';
 

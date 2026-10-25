@@ -21,7 +21,7 @@ SERIF_B = "/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf"
 SANS = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 SANS_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 PLAY_TITLE = "Question Simulator: Exam Prep"
-WEBSITE = "cambridgesimulator.homilabs.org"
+WEBSITE = "questionsimulator.homilabs.org"
 DISCLAIMER = "Independent, non-profit project by HomiLabs. Not affiliated with Cambridge University Press & Assessment."
 
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # publish.sh — rebuild site/ and push it to the `deploy` branch of the GitHub repo.
-# Hostinger's Git auto-deployment for cambridgesimulator.homilabs.org pulls that branch into the
+# Hostinger's Git auto-deployment for questionsimulator.homilabs.org pulls that branch into the
 # subdomain's web root. Afterwards flush the CDN cache in hPanel.
 #
 # Run:  bash /mnt/storage/projects/O_Level/scripts/publish.sh

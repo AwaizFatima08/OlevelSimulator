@@ -95,8 +95,10 @@ Future<void> showQuestionSheet(BuildContext context, Subject subject, Question q
                   _row(context, 'Subtopics', q.subtopics.join(', ')),
                   const SizedBox(height: 8),
                   Text(
-                    'Find this question in the ${q.sessionLabel} paper ${q.paper}${q.variant}. '
-                    'Get the paper from the official Cambridge website or your school.',
+                    q.officialUrl != null
+                        ? 'Cambridge publishes this paper on its website: open it to see the question.'
+                        : 'Find this question in the ${q.sessionLabel} paper ${q.paper}${q.variant}. '
+                            'Get the paper from the official Cambridge website or your school.',
                     style: text.bodySmall,
                   ),
                   const SizedBox(height: 16),
@@ -111,6 +113,12 @@ Future<void> showQuestionSheet(BuildContext context, Subject subject, Question q
                       icon: Icon(saved ? Icons.bookmark : Icons.bookmark_outline),
                       label: Text(saved ? 'Saved' : 'Save'),
                     ),
+                    if (q.officialUrl != null)
+                      FilledButton.icon(
+                        onPressed: () => openLink(context, q.officialUrl!),
+                        icon: const Icon(Icons.picture_as_pdf_outlined),
+                        label: const Text('Official paper'),
+                      ),
                     OutlinedButton.icon(
                       onPressed: () => openLink(context, subject.officialUrl),
                       icon: const Icon(Icons.open_in_new),
