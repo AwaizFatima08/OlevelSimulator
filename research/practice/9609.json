@@ -12223,5 +12223,2638 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "9609-h1-001",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'brand loyalty'.",
+    "marks": 2,
+    "answer": "Customers' repeated purchase of one brand, based on trust or preference, rather than switching to competitors' brands.",
+    "working": "1 mark: repeat purchase of the same brand; 1 mark: based on trust, preference or commitment rather than habit or price alone."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-002",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Hazara Dairy launched Sweet Sip flavoured milk in 2023. Annual sales (thousands of bottles):\n2023: 120\n2024: 310\n2025: 290\n2026: 150\nThe company is deciding how to respond to the falling sales.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the stage of the product life cycle that Sweet Sip is in during 2026.",
+    "marks": 1,
+    "answer": "Decline",
+    "working": "1 mark: decline (sales fall after the peak in 2024)."
+   },
+   {
+    "label": "b",
+    "text": "Explain one action Hazara Dairy could take to extend the life of Sweet Sip.",
+    "marks": 3,
+    "answer": "Any one action, for example a new flavour or smaller pack to win back buyers and attract new ones, a relaunch in new regions, or a short price promotion. The explanation must say how this would raise sales again.",
+    "working": "1 mark: a valid action identified (new flavours, repackaging, new markets, promotion, price cut). 2 marks: explained and applied to Sweet Sip, e.g. a new flavour renews interest among existing drinkers and attracts new ones, so sales stop falling."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-003",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse one reason why a Karachi clothing retailer, Mehr Textiles, might use one family brand name for all its new products rather than a separate brand name for each product.",
+    "marks": 5,
+    "answer": "Reason: an established name gives new products the trust and awareness that customers already have in Mehr Textiles, so less spending is needed to launch each product. Chain: launch costs fall and sales build faster, so each new line earns back its development cost sooner.",
+    "working": "1 mark: a reason identified (lower promotion cost, instant recognition, reputation transfers to new lines). Up to 4 marks for developing a chain of consequences in the Mehr Textiles context. No marks for a generic list of branding advantages with no link to Mehr Textiles."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-004",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "NovaCool, a Peshawar appliance company, tested a prototype solar-powered cooler with 400 consumers. 260 said they would buy it at Rs 2,500, 60 said they might buy it, and 80 said they would not.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage of the 400 consumers who said they would buy the cooler at Rs 2,500.",
+    "marks": 2,
+    "answer": "65 %",
+    "working": "1 mark: 260 ÷ 400; 1 mark: × 100 = 65 %."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why this test result may not give an accurate forecast of national sales.",
+    "marks": 3,
+    "answer": "Stated intention to buy often overstates actual purchasing, and a sample of 400 people in one city may not represent the whole country, so national sales could be higher or lower than the forecast.",
+    "working": "1 mark: a valid reason (stated intention is not actual buying; small or unrepresentative sample; prototype not final). 2 marks: explained and applied to NovaCool and its Peshawar test."
+   }
+  ],
+  "check": "round(260/400*100,1) == 65.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-005",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one reason why a mobile-phone company might prefer a line extension (a new model sold under its existing brand name) to launching a completely new brand.",
+    "marks": 3,
+    "answer": "A line extension uses the brand's existing reputation and loyal customers, so awareness builds faster and promotion costs are lower, which reduces the risk of the new model failing.",
+    "working": "1 mark: a reason identified (lower cost, existing awareness, lower risk). 2 marks: explained, e.g. loyal customers are more likely to buy the new model because they already trust the brand."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-006",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "CoolCo sold its new mango ice-cream for the first time in 2024. Unit sales rose from 48,000 in 2024 to 66,000 in 2025.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage change in unit sales between 2024 and 2025.",
+    "marks": 3,
+    "answer": "An increase of 37.5 %.",
+    "working": "1 mark: change = 66,000 − 48,000 = 18,000; 1 mark: ÷ 48,000; 1 mark: × 100 = 37.5 % (an increase)."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why CoolCo may find it hard to sustain this growth rate.",
+    "marks": 3,
+    "answer": "Launch growth usually slows as the product moves towards maturity, because early buyers have already bought and rival brands copy the idea, so more sales must come from price-sensitive or less-keen customers.",
+    "working": "1 mark: valid knowledge (product life cycle maturity, competition, saturation of early adopters). 2 marks: applied to CoolCo's mango ice-cream, e.g. rival brands launch similar flavours."
+   }
+  ],
+  "check": "round((66000-48000)/48000*100,1) == 37.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-007",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a new private language school in Multan should invest in a distinctive brand identity or in better teacher training to attract students.",
+    "marks": 20,
+    "answer": "Points: a clear brand (name, logo, values) builds recognition and can justify higher fees, but it is slow to build and costs money; teacher quality drives word-of-mouth, exam results and repeat enrolment, which are hard to copy; a new school has little reputation yet so training may pay off faster; the best answer depends on local competition and the school's target market; a justified judgement that links the two options to Multan parents and students.",
+    "working": "Analyse (8): cause-and-effect chains for each investment, in Multan context. Evaluate (12): weigh the two options against each other, consider the time lag and cost, reach a supported judgement. Level 4 (17-20): sustained, balanced, justified judgement. Level 3 (13-16): good analysis and some evaluation. Level 2 (7-12): mostly description. Level 1 (1-6): limited, unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-008",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'brand extension'.",
+    "marks": 2,
+    "answer": "Using an existing, established brand name for a new product in a different product category or market.",
+    "working": "1 mark: uses an existing brand name; 1 mark: applied to a new product in another category or market."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-009",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse one risk to a restaurant chain in Islamabad of extending its brand into a range of ready-meals sold in supermarkets.",
+    "marks": 5,
+    "answer": "Risk: if the ready-meals are poor or cost more than expected, the chain's reputation for quality could be damaged, so loyal diners may stop trusting the restaurant. Chain: fewer restaurant visits follow, so the core business suffers.",
+    "working": "1 mark: risk identified (brand dilution, damage to reputation, cannibalisation). Up to 4 marks for developing the chain of consequences for the Islamabad restaurant chain."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-010",
+  "topic": "Marketing",
+  "subtopic": "Product, branding and new product development",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Anwar Foods sells a premium range of nut snacks through supermarkets in Lahore. The premium brand has strong loyalty among urban professionals. Sales of the premium range have grown by 4 % a year for three years. A rival has launched a budget range priced 40 % below Anwar's average price.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise Anwar Foods on whether it should launch a low-priced sub-brand for price-sensitive shoppers, or should extend its premium brand into those markets instead.",
+    "marks": 20,
+    "answer": "Points: a separate budget sub-brand reaches new buyers without diluting the premium image, but can cannibalise premium sales and needs its own marketing spend; extending the premium brand keeps one identity but risks damage to its quality image and to the price premium; a rival budget range priced 40 % below Anwar's means the segment is real; a justified recommendation with conditions (for example a test launch in one city, a clear price gap, a monitored cannibalisation rate).",
+    "working": "Level 4 (17-20): a clear, justified recommendation that weighs both options against the data and the premium brand image, with conditions. Level 3 (13-16): sound analysis and some evaluation, recommendation present. Level 2 (7-12): description with limited judgement. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-011",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "ComfortStep sells trainers in Lahore. When its price rose from Rs 3,600 to Rs 4,320 a pair, the quantity demanded fell from 5,000 pairs to 4,250 pairs a month.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the price elasticity of demand (PED) for ComfortStep trainers. Give your answer to 2 decimal places and include the sign.",
+    "marks": 3,
+    "answer": "PED = −0.75",
+    "working": "1 mark: % change in quantity = −15 % (4,250 − 5,000 = −750, ÷ 5,000); 1 mark: % change in price = +20 % (720 ÷ 3,600); 1 mark: PED = −15 ÷ 20 = −0.75."
+   },
+   {
+    "label": "b",
+    "text": "State whether demand is elastic or inelastic, and explain what the price rise did to ComfortStep's total revenue.",
+    "marks": 3,
+    "answer": "Inelastic (PED between 0 and −1). Total revenue rose from Rs 18,000,000 to Rs 18,360,000 because the price rise was larger, in percentage terms, than the fall in quantity demanded.",
+    "working": "1 mark: inelastic. 2 marks: revenue rises (or explained by price × quantity: 3,600 × 5,000 = 18,000,000; 4,320 × 4,250 = 18,360,000), with the reason that the fall in quantity was proportionally smaller."
+   }
+  ],
+  "check": "round(((4250-5000)/5000)/((4320-3600)/3600),2) == -0.75",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-012",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Royal Tours sells holiday packages to Murree and Swat. When average household income in its target market rose by 8 %, demand for its holidays rose by 20 %.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the income elasticity of demand (YED) for Royal Tours holidays.",
+    "marks": 3,
+    "answer": "YED = +2.5",
+    "working": "1 mark: % change in demand = +20 %; 1 mark: % change in income = +8 %; 1 mark: 20 ÷ 8 = 2.5."
+   },
+   {
+    "label": "b",
+    "text": "State whether holidays are a normal or inferior good, and whether they are a luxury or a necessity. Give the reason.",
+    "marks": 2,
+    "answer": "Normal good (YED is positive) and a luxury (YED is above +1, so demand rises more than income does).",
+    "working": "1 mark: normal good (positive YED). 1 mark: luxury (YED greater than +1, so the demand rise is proportionally larger than the income rise)."
+   }
+  ],
+  "check": "round(20/8,1) == 2.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-013",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Dhaka Coffee Works sells instant coffee. When the price of a rival instant tea fell by 10 %, sales of Dhaka Coffee fell by 6 %.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cross elasticity of demand (XED) between instant coffee and the rival tea, and state whether the two products are substitutes or complements.",
+    "marks": 3,
+    "answer": "XED = +0.6; the goods are substitutes.",
+    "working": "1 mark: % change in quantity of coffee = −6 %; 1 mark: % change in price of tea = −10 %; 1 mark: XED = −6 ÷ −10 = +0.6 and positive XED means substitutes (both moved in the same direction)."
+   }
+  ],
+  "check": "round((-6)/(-10),1) == 0.6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-014",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A bakery in Faisalabad recorded quarterly sales (thousand units) as follows.\nYear 1: Q1 120, Q2 150, Q3 170, Q4 140\nYear 2: Q1 130, Q2 165, Q3 185, Q4 155\nYear 3: Q1 145, Q2 180, Q3 200, Q4 165",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the four-quarter moving average for the four quarters Year 1 Q1 to Year 1 Q4.",
+    "marks": 2,
+    "answer": "145 thousand units",
+    "working": "1 mark: (120 + 150 + 170 + 140) = 580; 1 mark: ÷ 4 = 145."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the four-quarter moving average for Year 1 Q2 to Year 2 Q1.",
+    "marks": 2,
+    "answer": "147.5 thousand units",
+    "working": "1 mark: (150 + 170 + 140 + 130) = 590; 1 mark: ÷ 4 = 147.5."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a moving average is used to identify the trend in sales data.",
+    "marks": 3,
+    "answer": "A moving average averages out seasonal and random fluctuations, so the underlying direction of sales (up or down) is easier to see.",
+    "working": "1 mark: smooths out seasonal or irregular variation. 2 marks: explained, e.g. the peaks and troughs of each year are averaged out, so the long-term trend shows clearly."
+   }
+  ],
+  "check": "abs(sum([120,150,170,140])/4 - 145) < 1e-9 and abs(sum([150,170,140,130])/4 - 147.5) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-015",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "3",
+  "difficulty": "challenge",
+  "stem": "A supermarket in Lahore uses the trend equation T = 1,200 + 45t, where t = 1 for Year 1 Quarter 1, t = 2 for Year 1 Quarter 2 and so on. The average seasonal variations (additive model) are: Quarter 1 −150, Quarter 2 +80, Quarter 3 +20 and Quarter 4 +50.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the trend value for Year 4 Quarter 2.",
+    "marks": 2,
+    "answer": "1,830 (trend = 1,200 + 45 × 14)",
+    "working": "1 mark: t = 14 for Year 4 Quarter 2 (3 years × 4 quarters + 2); 1 mark: T = 1,200 + 45 × 14 = 1,830."
+   },
+   {
+    "label": "b",
+    "text": "Forecast sales for Year 4 Quarter 2 using the additive model.",
+    "marks": 2,
+    "answer": "1,910 units",
+    "working": "1 mark: trend 1,830; 1 mark: + seasonal variation of +80 = 1,910."
+   },
+   {
+    "label": "c",
+    "text": "Explain one limitation of using a straight-line trend equation to forecast a supermarket's sales.",
+    "marks": 3,
+    "answer": "Past trends may not continue (for example if a new competitor opens nearby), so the forecast can be wrong; a straight line also ignores changes in the rate of growth.",
+    "working": "1 mark: valid limitation (trend may change; straight line ignores seasonality or economic change; relies on past data). 2 marks: applied to the Lahore supermarket."
+   }
+  ],
+  "check": "(1200 + 45*14) + 80 == 1910",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-016",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Qamar Air is an airline in Pakistan. Its leisure fares average Rs 18,000 and it carries 24,000 leisure passengers a month. It plans to cut leisure fares by 10 %. The estimated PED for leisure travel is −1.5.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the forecast change in monthly leisure revenue (Rs) and the percentage change.",
+    "marks": 4,
+    "answer": "Revenue rises from Rs 432,000,000 to Rs 447,120,000, an increase of Rs 15,120,000 (+3.5 %).",
+    "working": "1 mark: % change in passengers = −1.5 × −10 = +15 %, so 24,000 × 1.15 = 27,600; 1 mark: new fare = 18,000 × 0.9 = 16,200; 1 mark: revenue = 27,600 × 16,200 = 447,120,000; 1 mark: change = Rs 15,120,000 = +3.5 % (from 432,000,000)."
+   },
+   {
+    "label": "b",
+    "text": "Explain one non-price factor that could affect how many leisure passengers Qamar Air gains from the fare cut.",
+    "marks": 3,
+    "answer": "Competitors may cut their fares too, which would reduce the gain; or the timing of school holidays or Eid travel may increase demand regardless of price.",
+    "working": "1 mark: valid factor (competitor response, timing or season, advertising, income). 2 marks: explained and applied to Qamar Air."
+   }
+  ],
+  "check": "round((16200*27600)/(18000*24000)*100 - 100, 1) == 3.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-017",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'income elasticity of demand'.",
+    "marks": 2,
+    "answer": "The responsiveness of demand to a change in consumers' income: the percentage change in quantity demanded divided by the percentage change in income.",
+    "working": "1 mark: responsiveness of demand to income; 1 mark: defined as % change in quantity demanded ÷ % change in income."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-018",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one reason why demand for bottled water in Peshawar in summer may be more price elastic than demand for table salt.",
+    "marks": 3,
+    "answer": "Bottled water has many close substitutes (tap water, other drinks, filtered water in homes), so when its price rises buyers can easily switch; salt is a small, necessary item with few substitutes, so demand hardly changes.",
+    "working": "1 mark: knowledge of determinants of PED (substitutes, necessity, share of income). 2 marks: applied to bottled water (many substitutes; can be avoided in cool weather) and salt (few substitutes, cheap, necessary)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-019",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether moving averages are a reliable basis for forecasting the sales of a new smartphone model in its first year on the market.",
+    "marks": 12,
+    "answer": "Points: moving averages smooth out fluctuations and reveal trend, which is useful for established products; but a new product has little past data, so averages from the first months are unreliable; the averages lag behind real changes, so they cannot predict a sudden rise or fall; a launch is affected by marketing and competitors, which moving averages ignore; better to combine with market research or test sales; a justified judgement.",
+    "working": "Level 4 (10-12): balanced evaluation with a justified conclusion that a moving average alone is weak for a new product, and a suggested improvement. Level 3 (7-9): good points with some judgement. Level 2 (4-6): description with limited evaluation. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-020",
+  "topic": "Marketing",
+  "subtopic": "Elasticity and sales forecasting",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two limitations of using past sales data to forecast demand for a new bakery product launched in Faisalabad.",
+    "marks": 8,
+    "answer": "Two limitations, each developed: (1) a new product has no past sales, so the forecast is based on guesses or on a different product; (2) past sales may not continue, for example because of changing tastes, a rival bakery opening or price changes; (3) sales from a launch are unusually high or low at first (novelty effect), which distorts the trend; (4) seasonal patterns may be hard to read from a short history.",
+    "working": "4 marks each for two limitations: 1 mark identified, up to 3 marks for chain of consequences in the Faisalabad bakery context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-021",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'marketing strategy'.",
+    "marks": 2,
+    "answer": "A plan of how a business will use its marketing mix and resources to achieve its marketing objectives, for a chosen target market.",
+    "working": "1 mark: a plan or long-term approach; 1 mark: using the marketing mix and resources to achieve marketing objectives in a target market."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-022",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two marketing objectives that a Lahore private school could set for the next academic year.",
+    "marks": 2,
+    "answer": "Any two, for example: increase the number of enrolments by 10 %; raise awareness of the school among parents in three new areas; improve the rate of re-enrolment; launch a new bilingual programme in a year.",
+    "working": "1 mark each for any two specific, relevant marketing objectives (sales, market share, awareness, retention, new product), appropriate to a school."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-023",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why marketing objectives should be SMART (specific, measurable, achievable, realistic and time-bound).",
+    "marks": 3,
+    "answer": "Objectives that are measurable and time-bound let managers check progress and judge whether the marketing strategy has worked; objectives that are vague cannot be monitored or used to motivate staff.",
+    "working": "1 mark: knowledge of SMART; 2 marks: explained, e.g. a measurable, time-bound target lets the firm see whether its campaign reached the goal in the period."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-024",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A tea company in Karachi sells 240,000 packs of its green tea a year. The total market for green tea in the city is 2,000,000 packs a year (assuming the market size stays the same). The company's marketing objective is to raise its market share to 15 %.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the firm's current market share.",
+    "marks": 1,
+    "answer": "12 %",
+    "working": "1 mark: 240,000 ÷ 2,000,000 × 100 = 12 %."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the increase in units sold needed to reach the target share of 15 %, and the percentage increase.",
+    "marks": 3,
+    "answer": "An increase of 60,000 units, which is a 25 % increase on current sales.",
+    "working": "1 mark: target units = 15 % × 2,000,000 = 300,000; 1 mark: increase = 300,000 − 240,000 = 60,000 units; 1 mark: 60,000 ÷ 240,000 × 100 = 25 %."
+   }
+  ],
+  "check": "round(240000/2000000*100,1) == 12.0 and round(0.15*2000000-240000,0) == 60000 and round(60000/240000*100,1) == 25.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-025",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse one reason why a bakery chain might set a marketing objective of increasing its market share rather than increasing its profit margin.",
+    "marks": 5,
+    "answer": "Reason: in a growing market, a larger share builds scale and bargaining power with suppliers, which can lower unit costs and so raise profit later. Chain: lower costs and stronger distribution let the chain win more shoppers, so profit rises over time even if margins are cut in the short run.",
+    "working": "1 mark: reason identified (scale, supplier power, brand presence, entry barriers). Up to 4 marks for developing the chain of consequences in the bakery-chain context."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-026",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two factors a low-cost airline should consider when setting its marketing strategy for a new route between Lahore and Dubai.",
+    "marks": 8,
+    "answer": "Factor 1: price sensitivity of leisure and business travellers, which affects whether the airline can compete on fares and where it advertises. Factor 2: competition from full-service airlines and other low-cost carriers on the route, which affects the marketing objective (share or load factor). Each factor should be developed with a chain of consequences for the airline.",
+    "working": "4 marks each for two factors: 1 mark identified, up to 3 marks developed in the airline context (cause, effect on marketing mix or objective, consequence). Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-027",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Bolan Textiles, based in Faisalabad, sells ready-made cotton shirts in Pakistan. Its domestic sales have grown by only 2 % a year for three years. It has a loyal customer base and a small existing export order from a UAE buyer.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise Bolan Textiles on whether, over the next two years, it should pursue a market penetration strategy in Pakistan or a market development strategy by exporting its ready-made shirts to the UAE.",
+    "marks": 20,
+    "answer": "Penetration: builds on the brand and existing distribution, lower risk and cost, but the domestic market may be saturated and price-competitive. Development: new revenue from a larger market, but needs export knowledge, compliance, agents, and exchange-rate exposure. Recommendation should be justified against the company's resources and objectives, with conditions (for example a pilot export order or a clear target share).",
+    "working": "Level 4 (17-20): clear recommendation supported by a balanced comparison and conditions. Level 3 (13-16): sound analysis, some evaluation, recommendation present. Level 2 (7-12): mostly description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-028",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a coordinated marketing mix is essential for an e-commerce start-up selling handmade jewellery online in Pakistan.",
+    "marks": 12,
+    "answer": "Points: a coordinated mix (product, price, promotion, place) gives a consistent brand message, so customers trust the brand; without it, low prices and high-quality images may conflict; but a start-up with a small budget may need to focus on one or two elements (for example social media promotion and a strong website) first; the value of coordination depends on the target market; a justified judgement.",
+    "working": "Level 4 (10-12): balanced evaluation with a justified judgement, linked to e-commerce and a start-up budget. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-029",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why marketing objectives should be consistent with the overall objectives of the business.",
+    "marks": 3,
+    "answer": "If marketing objectives conflict with the business's overall aims, resources are wasted; for example, a sales target that needs a price cut may reduce profit, which the business has said is its main aim.",
+    "working": "1 mark: knowledge (marketing supports business objectives, resources are shared). 2 marks: explained with an example of conflict (sales growth versus profit, growth versus cash)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-030",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A cinema in Islamabad sells tickets at Rs 850 each. Its marketing objective is to earn Rs 35,000,000 in ticket revenue next year. It is considering a campaign costing Rs 2,000,000 to attract more visitors.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of tickets the cinema must sell to reach the target revenue of Rs 35,000,000. Give your answer to the nearest whole ticket (round up).",
+    "marks": 3,
+    "answer": "41,177 tickets",
+    "working": "1 mark: target revenue ÷ ticket price = 35,000,000 ÷ 850 = 41,176.47; 1 mark: round up to 41,177; 1 mark: method shown clearly."
+   }
+  ],
+  "check": "-(-35000000 // 850) == 41177",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-031",
+  "topic": "Marketing",
+  "subtopic": "Marketing objectives and strategy",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Zaiqa Juices, a Karachi company, set the objective of doubling its annual sales within three years. Sales were Rs 1.2 million in 2023 and Rs 2.1 million in 2026. The company spent heavily on social-media advertising and sampling in shopping malls. The market for juices in Karachi grew by 30 % over the same period.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate how effective the marketing strategy of Zaiqa Juices was in meeting its objective of doubling sales between 2023 and 2026, using the data above.",
+    "marks": 20,
+    "answer": "Points: sales rose from Rs 1.2 million to Rs 2.1 million, an increase of 75 %, so the doubling target was missed. But the market grew by 30 %, so Zaiqa's share rose: its sales grew about 35 % faster than the market (1.75 ÷ 1.30 ≈ 1.35). The campaign therefore gained share even though the target was not met. A judgement should also weigh the cost of the advertising and sampling against the gain, the effect of price changes and competitor activity, and whether doubling sales in three years was a realistic objective; a recommendation for future objectives (for example a SMART share target).",
+    "working": "Level 4 (17-20): well-supported judgement that uses the figures (75 % sales growth against 30 % market growth, so share rose) and discusses whether the objective was realistic and what the campaign cost; recommendation. Level 3 (13-16): sound evaluation with some use of data. Level 2 (7-12): description with limited evaluation. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "round(2.1/1.2*100-100,1) == 75.0 and round((2.1/1.2)/1.3,2) == 1.35"
+ },
+ {
+  "id": "9609-h1-032",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'unique selling point (USP)'.",
+    "marks": 2,
+    "answer": "A feature or benefit of a product that is different from competitors' products and that is used to attract customers.",
+    "working": "1 mark: feature or benefit that is distinctive; 1 mark: differs from competitors' products and is used in marketing."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-033",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'mass marketing'.",
+    "marks": 2,
+    "answer": "Selling one standard product to the whole market, using the same marketing mix for all customers, rather than targeting a segment.",
+    "working": "1 mark: one standard product for the whole market; 1 mark: same marketing mix for all customers (no segment focus)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-034",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Total sales of jarred honey in Pakistan are 4,800,000 jars a year. An organic honey brand sells 96,000 jars a year, all through health-food shops and online.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the niche honey brand's share of the total jar market.",
+    "marks": 2,
+    "answer": "2 %",
+    "working": "1 mark: 96,000 ÷ 4,800,000; 1 mark: × 100 = 2 %."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why niche marketing can be a suitable strategy for a small honey brand with a 2 % share.",
+    "marks": 3,
+    "answer": "Niche marketing lets a small firm focus on a group of buyers (for example, organic-honey buyers) who will pay a premium, so it does not need to compete with large brands for the mass market.",
+    "working": "1 mark: knowledge (niche, focused target group, premium pricing). 2 marks: explained and applied, e.g. with 2 % of the market, a mass campaign would be too expensive, but organic-honey buyers can be reached through specialist stores."
+   }
+  ],
+  "check": "round(96000/4800000*100,1) == 2.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-035",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse one benefit to a Chitral honey producer of using niche marketing rather than mass marketing.",
+    "marks": 5,
+    "answer": "Benefit: a niche of buyers who value pure, local honey will pay a higher price, which raises profit per jar. Chain: higher margins allow the producer to fund better packaging and certification, so it can keep its premium position against cheaper mass brands.",
+    "working": "1 mark: benefit identified (higher price, loyalty, less competition). Up to 4 marks for developing the chain of consequences in the Chitral context."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-036",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the demand for cement is a derived demand.",
+    "marks": 3,
+    "answer": "Demand for cement does not come from the cement itself but from construction activity; when builders need more houses and roads, demand for cement rises, so the demand depends on demand for buildings.",
+    "working": "1 mark: knowledge (demand comes from demand for another good). 2 marks: explained with cement and construction (buildings, roads)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-037",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether mass marketing is better than niche marketing for a new soft-drink company launching a cola across Pakistan.",
+    "marks": 12,
+    "answer": "Points: mass marketing reaches a large market and gains economies of scale in advertising, but it needs a large budget and faces strong rivals with established shelf space; niche marketing lowers costs and suits a small firm, but a niche may be too small for profit; the strength of the company's brand, pricing and distribution; a justified judgement, e.g. a mass launch only if the budget is adequate.",
+    "working": "Level 4 (10-12): balanced and justified judgement with reference to a national launch and the firm's resources. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-038",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'customer retention'.",
+    "marks": 2,
+    "answer": "Keeping existing customers buying from the business over time, rather than losing them to competitors.",
+    "working": "1 mark: keeping existing customers; 1 mark: buying again over time rather than switching."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-039",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two features that a hair salon in Lahore could use to build a unique selling point.",
+    "marks": 2,
+    "answer": "Any two, e.g. a signature treatment that no other salon offers; a trained specialist in bridal hair; a guarantee of satisfaction; eco-friendly products.",
+    "working": "1 mark each for any two features that differ from rival salons and could be promoted to customers."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-040",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two benefits to a hair salon in Lahore of using customer relationship marketing (CRM).",
+    "marks": 8,
+    "answer": "Benefit 1: loyalty points or reminders increase repeat visits, so each customer is worth more over time. Benefit 2: data on customer preferences lets the salon target offers, so promotion is cheaper and more effective. Each benefit should be developed with a chain of cause and effect.",
+    "working": "4 marks each for two benefits: 1 mark identified, up to 3 marks developed in the salon context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-041",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether CRM is more effective than mass advertising for a coffee-shop chain in Islamabad that wants to increase visits by its existing customers.",
+    "marks": 20,
+    "answer": "Points: CRM targets existing customers, so promotions are cheaper per customer and loyalty builds repeat visits; mass advertising builds awareness among new customers but its effect on existing customers is hard to measure; the chain may need both, since CRM alone may not attract new buyers; the cost of CRM systems and data protection rules; the judgement must be linked to the chain's objective (existing visits) and its budget.",
+    "working": "Level 4 (17-20): balanced evaluation, justified judgement tied to the objective and budget. Level 3 (13-16): sound analysis, some evaluation. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-042",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'secondary research'.",
+    "marks": 2,
+    "answer": "Research using data that already exists, collected by someone else for another purpose, such as government statistics or industry reports.",
+    "working": "1 mark: data that already exists; 1 mark: collected by others for a different purpose (e.g. government data, trade reports)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-043",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'random sample'.",
+    "marks": 2,
+    "answer": "A sample in which every member of the population has an equal chance of being selected.",
+    "working": "1 mark: sample taken from the population; 1 mark: every member has an equal chance of selection."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-044",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A cooking-oil company surveyed 600 households in Karachi. Of these, 228 said they would switch to a new brand if it were priced 10 % lower than their current brand.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage of respondents who said they would switch brands.",
+    "marks": 3,
+    "answer": "38 %",
+    "working": "1 mark: 228 ÷ 600; 1 mark: 0.38; 1 mark: × 100 = 38 %."
+   }
+  ],
+  "check": "round(228/600*100,1) == 38.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-045",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one advantage of using quota sampling rather than random sampling for a survey of shoppers by a new juice company in Karachi.",
+    "marks": 3,
+    "answer": "Quota sampling is quicker and cheaper because interviewers can approach people in shopping areas until each quota (such as age groups) is filled, so the sample reflects the main groups in the market.",
+    "working": "1 mark: advantage identified (cheaper, quicker, easier to get a mix of groups). 2 marks: explained and applied to shoppers in Karachi, e.g. interviewers can fill age quotas on a busy weekend."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-046",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A college in Multan has 3,200 students: 1,400 boys and 1,800 girls. A market researcher for a stationery company wants a sample of 160 students.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate how many boys and how many girls should be in a proportionate stratified sample of 160 students.",
+    "marks": 4,
+    "answer": "70 boys and 90 girls",
+    "working": "1 mark: boys: 1,400 ÷ 3,200 × 160 = 70; 1 mark: girls: 1,800 ÷ 3,200 × 160 = 90; 1 mark: check total 160; 1 mark: method stated (proportionate to population)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a stratified sample is more representative than a simple random sample of the same size.",
+    "marks": 3,
+    "answer": "A stratified sample makes sure each group is included in the same proportion as in the population, so small groups are not missed by chance.",
+    "working": "1 mark: knowledge (groups included in proportion); 2 marks: explained, e.g. a random sample could contain too few girls by chance."
+   }
+  ],
+  "check": "round(1400/3200*160) == 70 and round(1800/3200*160) == 90",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-047",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether focus groups are a reliable method of testing a new spice blend before it is launched.",
+    "marks": 12,
+    "answer": "Points: focus groups give detailed reasons and reactions and let the firm see how people react to taste and packaging; but they have small samples, a dominant speaker can distort the views, and what people say may not match buying behaviour; a taste test with a larger sample or a supermarket trial gives better evidence; a justified judgement, e.g. a focus group is a useful first stage but not sufficient alone.",
+    "working": "Level 4 (10-12): balanced evaluation with a justified conclusion and a suggested improvement. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-048",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two reasons why the results of a questionnaire given to 50 customers of a bookshop in Peshawar may be unreliable.",
+    "marks": 8,
+    "answer": "Reason 1: a sample of 50 is small and may not represent all customers, so the results may not match the whole customer base. Reason 2: customers who choose to answer may differ from those who do not (self-selection), or the questions may lead respondents to answer in a certain way. Each reason should be developed with a chain of consequences for the bookshop's decisions.",
+    "working": "4 marks each for two reasons: 1 mark identified, up to 3 marks developed in the bookshop context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-049",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse one limitation of using secondary data to plan the opening of a new bakery in Faisalabad.",
+    "marks": 5,
+    "answer": "Limitation: secondary data (for example national census figures) may be out of date or collected for a different area, so the bakery may misjudge local demand. Chain: the bakery could choose the wrong location or product mix and lose money in the first year.",
+    "working": "1 mark: limitation identified (out of date, not local, collected for another purpose, not specific). Up to 4 marks for developing the chain of consequences in the Faisalabad context."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-050",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify one example of primary market research that a fabric shop in Multan could carry out.",
+    "marks": 1,
+    "answer": "Any one: a questionnaire given to customers in the shop; a focus group of regular customers; a survey of local tailors.",
+    "working": "1 mark: a valid example of primary research (collected first-hand for this purpose)."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why the shop might prefer primary research to secondary research for deciding which new fabrics to stock.",
+    "marks": 3,
+    "answer": "Primary research gives up-to-date information about the shop's own customers and local tastes, which published statistics may not show.",
+    "working": "1 mark: knowledge (specific, up-to-date data). 2 marks: applied to the shop's local fabric choices."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-051",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise a Lahore fitness-app start-up on how to divide a research budget of Rs 2,000,000 between secondary (desk) research and primary (field) research before it launches.",
+    "marks": 20,
+    "answer": "Points: desk research is cheap and gives market size and competitor data; field research (surveys, focus groups, a beta trial) gives direct evidence on the app's features and price, and is essential for a new product; the split should reflect what is still unknown, so most of the budget should go to field research; recommended allocation with a justification (for example Rs 300,000 secondary and Rs 1,700,000 primary), plus how to check the results are reliable (sample size, representative sample).",
+    "working": "Level 4 (17-20): a justified split, with clear reasons, reliability of data, and a sensible plan. Level 3 (13-16): sound analysis and a recommendation. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-052",
+  "topic": "Marketing",
+  "subtopic": "Market research",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A supermarket chain posted 500 questionnaires about its loyalty card to customers in Rawalpindi. 135 were returned completed.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the response rate of a postal questionnaire in which 500 questionnaires were sent and 135 were returned.",
+    "marks": 2,
+    "answer": "27 %",
+    "working": "1 mark: 135 ÷ 500; 1 mark: × 100 = 27 %."
+   },
+   {
+    "label": "b",
+    "text": "Explain one problem a low response rate could cause for the reliability of the research.",
+    "marks": 3,
+    "answer": "Those who replied may hold stronger views than those who did not (non-response bias), so the results may not represent all customers.",
+    "working": "1 mark: knowledge (non-response bias / unrepresentative sample). 2 marks: explained and applied to the postal questionnaire."
+   }
+  ],
+  "check": "round(135/500*100,1) == 27.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-053",
+  "topic": "Marketing",
+  "subtopic": "Nature of marketing (demand, mass/niche, USP, CRM)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'niche marketing'.",
+    "marks": 2,
+    "answer": "Targeting a small, specialised segment of the market with a product designed to meet its particular needs.",
+    "working": "1 mark: small, specialised segment; 1 mark: product designed for that segment's particular needs."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-054",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A Sialkot leather-goods company had 1,200 overseas customers in 2024 and 1,860 in 2026.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in the number of overseas customers from 2024 to 2026.",
+    "marks": 2,
+    "answer": "55 %",
+    "working": "1 mark: (1,860 − 1,200) = 660; 1 mark: 660 ÷ 1,200 × 100 = 55 %."
+   }
+  ],
+  "check": "round((1860-1200)/1200*100,1) == 55.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-055",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'exporting'.",
+    "marks": 2,
+    "answer": "Selling goods or services produced in one country to customers in another country.",
+    "working": "1 mark: selling goods or services; 1 mark: to customers in another country, produced at home."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-056",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'licensing' as a method of entering a foreign market.",
+    "marks": 2,
+    "answer": "A foreign firm pays a fee or royalty to use the company's brand, technology or product design, and produces or sells the product in its own market.",
+    "working": "1 mark: foreign firm pays fee or royalty; 1 mark: to use the company's brand, technology or product in its own market."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-057",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one advantage to a Pakistani food company of entering the Malaysian market through a joint venture with a local firm rather than exporting.",
+    "marks": 3,
+    "answer": "A local partner knows the market, the distribution channels and the buyers' tastes, so the company can adapt its products and reach shoppers faster, while sharing the costs and the risk.",
+    "working": "1 mark: advantage identified (local knowledge, shared costs and risk, faster access to distribution). 2 marks: explained and applied to the Malaysian food market."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-058",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two barriers a Pakistani fashion brand could face when entering the UAE market.",
+    "marks": 8,
+    "answer": "Barrier 1: cultural and language differences in advertising and product design, which may need adapting. Barrier 2: strong competition from established international brands and local retailers, which makes gaining shelf space and customers costly. Each should be developed with a chain of consequences for the brand.",
+    "working": "4 marks each for two barriers: 1 mark identified, up to 3 marks developed in the UAE fashion context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-059",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the term 'standardised marketing' and give one reason a global brand might use it.",
+    "marks": 3,
+    "answer": "Standardised marketing uses the same product and marketing mix in every country, so the business keeps one brand image and saves costs of adapting the product or message.",
+    "working": "1 mark: knowledge of standardised (same product and mix worldwide). 2 marks: explained, with one reason such as economies of scale or a single brand image."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-060",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A Sialkot sports-goods company ships 4,000 units of a training ball to a Dubai distributor at a price of $12 each. The exchange rate is 1 US dollar = Rs 280.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the rupee revenue from the Dubai shipment. Show your working.",
+    "marks": 3,
+    "answer": "Rs 13,440,000",
+    "working": "1 mark: 4,000 × $12 = $48,000; 1 mark: × 280 = Rs 13,440,000; 1 mark: units are in dollars then converted to rupees."
+   }
+  ],
+  "check": "4000*12*280 == 13440000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-061",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one reason why a company might adapt its product before selling it in an overseas market.",
+    "marks": 3,
+    "answer": "Customers in another country may have different tastes, climate needs or legal standards, so a product that is adapted (for example less spicy or with a different voltage) is more likely to sell.",
+    "working": "1 mark: knowledge (different tastes, legal rules, culture, climate). 2 marks: explained and applied to a specific product and market."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-062",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two ways in which a rise in the value of the rupee against the US dollar could affect a Pakistani leather exporter.",
+    "marks": 8,
+    "answer": "Way 1: the exporter's dollar sales convert into fewer rupees, so its rupee revenue and margins fall unless it raises its dollar price, which may reduce demand. Way 2: imported machinery and materials priced in dollars become cheaper in rupees, which may lower production costs. Each should be developed with a chain of consequences.",
+    "working": "4 marks each for two ways: 1 mark identified, up to 3 marks developed in the leather-exporter context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-063",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a Karachi-based restaurant chain should enter the Dubai market through a franchise agreement rather than by opening its own restaurants.",
+    "marks": 12,
+    "answer": "Points: a franchise needs little investment and spreads risk, and the local franchisee knows the market; but the chain loses control over food quality and brand image, and it earns only a share of the franchisee's sales; own restaurants give full control but need high capital, staff and site costs; the right choice depends on the chain's finance and the value placed on brand control; a justified judgement.",
+    "working": "Level 4 (10-12): balanced evaluation with a justified judgement linked to the chain's resources and brand. Level 3 (7-9): good points with some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-064",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Gulshan Fabrics exports bed sheets and towels from Faisalabad. Its existing customers in the UK are happy with standard products. The company is planning a new range for the UAE and Saudi Arabia, where colours, sizes and retail buyers differ.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise Gulshan Fabrics, a Faisalabad textile company, on whether to adopt a standardised or an adapted marketing mix for its new range of household linen in the UAE and Saudi Arabia.",
+    "marks": 20,
+    "answer": "Points: a standardised mix keeps one brand image, lowers costs and uses economies of scale; an adapted mix matches colours, sizes, religious and cultural tastes, and local retail norms; the two markets differ, so the answer may be a mix of both (standard product core, adapted packaging and promotion); a recommendation with conditions (test sales, a local agent, price points in local currency).",
+    "working": "Level 4 (17-20): a recommendation with clear reasons, weighing cost and local fit, plus conditions. Level 3 (13-16): sound analysis and some judgement. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-065",
+  "topic": "Marketing",
+  "subtopic": "International marketing",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a global brand strategy is suitable for a fast-food chain that wants to expand from Pakistan into five other Asian countries.",
+    "marks": 12,
+    "answer": "Points: a global brand gives recognition, economies of scale in buying and advertising, and a consistent image; but tastes, religious rules (for example halal) and incomes differ, so the menu and pricing may need local adaptation; a hybrid approach (global brand, local menu) may work best; a justified judgement tied to the chain's budget and the countries.",
+    "working": "Level 4 (10-12): balanced evaluation with a justified judgement, referring to the variation between countries. Level 3 (7-9): good points with some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-066",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A bakery sells a loaf for Rs 300. The cost of making each loaf is Rs 240.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage mark-up on the cost of the product.",
+    "marks": 2,
+    "answer": "25 %",
+    "working": "1 mark: (300 − 240) = 60; 1 mark: 60 ÷ 240 × 100 = 25 %."
+   }
+  ],
+  "check": "round((300-240)/240*100,1) == 25.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-067",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'penetration pricing'.",
+    "marks": 2,
+    "answer": "Setting a low price for a new product to win market share quickly, with the intention of raising the price later.",
+    "working": "1 mark: low introductory price; 1 mark: aim is to gain market share quickly, then raise prices."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-068",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'cost-plus pricing'.",
+    "marks": 2,
+    "answer": "Setting a selling price by adding a fixed percentage mark-up (or profit margin) to the cost per unit.",
+    "working": "1 mark: price based on cost per unit; 1 mark: a fixed mark-up or margin is added."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-069",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by competitive pricing and give one reason a supermarket might use it.",
+    "marks": 3,
+    "answer": "Competitive pricing sets prices in line with or below rivals' prices; a supermarket might use it to keep shoppers from switching to a rival store nearby.",
+    "working": "1 mark: definition (prices set against rivals). 2 marks: explained with a reason for a supermarket (retain customers, match rival store prices)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-070",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A Multan confectionery company cuts the price of its biscuit packs by 10 %. As a result, the number of packs sold rises by 25 %.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage change in total revenue.",
+    "marks": 3,
+    "answer": "An increase of 12.5 %.",
+    "working": "1 mark: new quantity = 1.25 × old; 1 mark: new price = 0.9 × old, so new revenue = 0.9 × 1.25 = 1.125 × old; 1 mark: 12.5 % increase."
+   }
+  ],
+  "check": "round((0.9*1.25-1)*100,1) == 12.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-071",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A Karachi garment maker has a cost of Rs 350 per shirt for a new range.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the selling price needed to achieve a mark-up of 40 % on a cost of Rs 350.",
+    "marks": 2,
+    "answer": "Rs 490",
+    "working": "1 mark: 350 × 1.40; 1 mark: Rs 490."
+   }
+  ],
+  "check": "round(350*1.4,0) == 490",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-072",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether penetration pricing or price skimming is the better launch price strategy for a new electric bike brand in Lahore.",
+    "marks": 12,
+    "answer": "Points: penetration gains share quickly and builds volume, but a low price may hurt the brand image and make it hard to raise prices later; skimming earns high margins early from enthusiastic buyers but limits volume and invites rivals; the answer depends on the bike's price elasticity, the cost of production (economies of scale), and the brand's goals; a justified judgement.",
+    "working": "Level 4 (10-12): balanced evaluation linked to the e-bike market and the brand's goals, with a justified judgement. Level 3 (7-9): good points with some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-073",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise a Pakistani mobile-data provider on how to price a new weekly data bundle, so that it attracts new customers without reducing its revenue from existing customers.",
+    "marks": 20,
+    "answer": "Points: penetration pricing wins switchers but risks existing customers moving to the cheaper bundle (cannibalisation); a bundle priced to fence off heavy users, or a price skimming approach for premium packages, protects revenue; the elasticity of demand among light and heavy users may differ; competitor prices and cost per gigabyte; a recommendation with conditions such as a limited launch or a cap on the bundle, with a clear justification.",
+    "working": "Level 4 (17-20): sound, justified recommendation that considers cannibalisation, elasticity and competitor responses. Level 3 (13-16): good analysis and some judgement. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-074",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two factors that a large supermarket in Lahore should consider when setting its prices for fresh vegetables.",
+    "marks": 8,
+    "answer": "Factor 1: the price elasticity of demand for fresh produce, which is likely to be high if rival stores sell similar produce, so price changes can cause large changes in sales. Factor 2: the cost of buying from farmers and the risk of spoilage, which set the minimum price that keeps the store profitable. Each should be developed with a chain of consequences.",
+    "working": "4 marks each for two factors: 1 mark identified, up to 3 marks developed in the supermarket context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-075",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the term 'price discrimination' and give one example of it.",
+    "marks": 3,
+    "answer": "Charging different prices to different customer groups for the same product, for example a cheaper cinema ticket for students or a matinee showing.",
+    "working": "1 mark: definition (different prices for the same product to different groups). 2 marks: explained with a correct example."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-076",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A coffee chain in Islamabad raises the price of its large coffee by 20 %. Its estimated price elasticity of demand for large coffees is −0.5.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage change in total revenue if the price rises by 20 % and the price elasticity of demand is −0.5. Assume elasticity stays constant.",
+    "marks": 4,
+    "answer": "Total revenue rises by 8 %.",
+    "working": "1 mark: % change in quantity = −0.5 × 20 = −10 %; 1 mark: new price × new quantity = 1.20 × 0.90 = 1.08; 1 mark: (1.08 − 1) × 100 = +8 %; 1 mark: clear statement that revenue rises."
+   }
+  ],
+  "check": "round((1.2*(1+(-0.5)*20/100)-1)*100,1) == 8.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-077",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a company should cut its prices in a price war with a rival, or keep its prices and compete on quality and promotion.",
+    "marks": 12,
+    "answer": "Points: a price cut may win sales if demand is elastic and the company can afford lower margins, but rivals may follow and profits fall for both; keeping prices protects margins and image, but sales may be lost if demand is elastic and the rival is cheaper; the company's cost structure, the elasticity of demand and the strength of its brand decide the choice; a justified judgement.",
+    "working": "Level 4 (10-12): balanced evaluation with a justified judgement tied to costs and elasticity. Level 3 (7-9): good points with some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-078",
+  "topic": "Marketing",
+  "subtopic": "Pricing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'psychological pricing'.",
+    "marks": 2,
+    "answer": "Setting a price that appears lower than it is, such as Rs 999 instead of Rs 1,000, to encourage customers to buy.",
+    "working": "1 mark: price set to appear lower (e.g. ending in 9); 1 mark: encourages purchase by psychological effect."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-079",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'sales promotion'.",
+    "marks": 2,
+    "answer": "Short-term incentives, such as discounts, free samples or coupons, used to encourage customers to buy a product now.",
+    "working": "1 mark: short-term incentive; 1 mark: encourages immediate purchase (discounts, samples, coupons)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-080",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'above-the-line promotion'.",
+    "marks": 2,
+    "answer": "Paid promotion through mass media such as television, radio, newspapers or billboards, aimed at a large audience.",
+    "working": "1 mark: paid mass-media advertising; 1 mark: aimed at a large audience."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-081",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'intensive distribution'.",
+    "marks": 2,
+    "answer": "A distribution strategy in which a product is sold through as many retail outlets as possible, to maximise availability.",
+    "working": "1 mark: as many outlets as possible; 1 mark: aim is maximum availability to customers."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-082",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A Multan cooking-oil company ran a two-week discount promotion costing Rs 45,000. Sales in the period rose from 1,200 to 1,500 bottles, and each bottle earns a contribution of Rs 60.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the extra contribution from the extra sales during the campaign.",
+    "marks": 2,
+    "answer": "Rs 18,000",
+    "working": "1 mark: extra units = 1,500 − 1,200 = 300; 1 mark: 300 × Rs 60 = Rs 18,000."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the net gain or loss from the campaign, and state whether it was worthwhile.",
+    "marks": 2,
+    "answer": "A net loss of Rs 27,000, so the campaign was not worthwhile on these figures.",
+    "working": "1 mark: Rs 18,000 − Rs 45,000 = −Rs 27,000; 1 mark: a loss, so not worthwhile (other benefits such as long-term loyalty are not shown in these figures)."
+   }
+  ],
+  "check": "(1500-1200)*60 == 18000 and (1500-1200)*60 - 45000 == -27000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-083",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse one benefit to a food manufacturer of using a push strategy through wholesalers in rural areas.",
+    "marks": 5,
+    "answer": "Benefit: the wholesaler takes on stock and delivery, so the manufacturer reaches many small rural shops without its own sales staff. Chain: more shops stock the product, so customers find it locally and the manufacturer's sales rise with lower distribution costs.",
+    "working": "1 mark: benefit identified (wholesaler handles stock, reach, lower cost). Up to 4 marks for developing the chain of consequences in the rural context."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-084",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a push and a pull promotion strategy.",
+    "marks": 3,
+    "answer": "A push strategy promotes the product to intermediaries (such as wholesalers and retailers) to get them to stock and sell it. A pull strategy promotes directly to final customers, so they demand the product and retailers stock it.",
+    "working": "1 mark: push = promotion through the channel to intermediaries; 1 mark: pull = promotion to end consumers who then demand the product; 1 mark: clear contrast of who is targeted."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-085",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether social media advertising is a better use of a limited budget than television advertising for a private university in Lahore that wants to attract students.",
+    "marks": 12,
+    "answer": "Points: social media is cheap, targets students by age and interests, and allows direct response; but reach is uncertain and it needs regular content; television reaches a wide audience quickly and builds trust, but is expensive and hard to target; the decision depends on the target students' media habits, the budget and the time frame; a justified judgement, e.g. a mix led by social media.",
+    "working": "Level 4 (10-12): balanced evaluation tied to the university's students and budget, with a justified judgement. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-086",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise a tea company on the distribution and promotion strategy it should adopt to sell its new packaged tea in rural areas of Sindh and Punjab, where few shops stock premium brands.",
+    "marks": 20,
+    "answer": "Points: intensive distribution through local general stores and wholesalers gives reach, but needs trade promotion (push) to get shopkeepers to stock; mobile vans and a sales force may cover areas poorly served; pull promotion (sampling, radio, local events) builds demand; cost and margin for small shops; a recommendation tied to the rural market, with a suggested budget split and a test in one district.",
+    "working": "Level 4 (17-20): a clear, justified strategy combining place and promotion, with reasons, costs and a test. Level 3 (13-16): sound analysis and a recommendation. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-087",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse one benefit to a luxury watch brand of using selective distribution rather than intensive distribution.",
+    "marks": 5,
+    "answer": "Benefit: by limiting outlets to carefully chosen jewellers, the brand keeps its image of exclusivity and can charge high prices. Chain: consistent prices and quality of service in the outlets build loyalty and protect margins.",
+    "working": "1 mark: benefit identified (exclusivity, price control, quality of service). Up to 4 marks for developing the chain of consequences for the luxury watch brand."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-088",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what the AIDA model shows about how promotion works.",
+    "marks": 3,
+    "answer": "AIDA shows that promotion should first gain Attention, then create Interest, build Desire and finally prompt Action (a purchase). Each stage leads to the next, so promotion should be designed to move customers through all four.",
+    "working": "1 mark: knowledge of the four stages; 2 marks: explained, e.g. advertising must grab attention before it can create desire to buy."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-089",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one reason why a bottled-drinks company might use sponsorship of a cricket tournament as a form of promotion.",
+    "marks": 3,
+    "answer": "The brand is seen by large television audiences during the tournament, which builds awareness and a positive image linked to a popular sport.",
+    "working": "1 mark: knowledge (sponsorship builds brand awareness and image). 2 marks: applied to cricket and bottled drinks, e.g. large television audience and association with a popular event."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-090",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two reasons why a cosmetics company might use influencer marketing to promote a new skin-care range to young adults in Karachi.",
+    "marks": 8,
+    "answer": "Reason 1: influencers have trusted relationships with followers, so recommendations seem more credible than advertising. Reason 2: influencers reach a target group cheaply and quickly through their own platforms. Each reason should be developed with a chain of consequences.",
+    "working": "4 marks each for two reasons: 1 mark identified, up to 3 marks developed in the Karachi cosmetics context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-091",
+  "topic": "Marketing",
+  "subtopic": "Promotion and distribution",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'direct selling'.",
+    "marks": 2,
+    "answer": "Selling a product directly to the final customer without using intermediaries such as wholesalers or retailers, for example through a company's own website or door-to-door sales.",
+    "working": "1 mark: sold to the final customer without intermediaries; 1 mark: an example (own website, door-to-door, own shop)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-092",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'demographic segmentation'.",
+    "marks": 2,
+    "answer": "Dividing a market into groups based on characteristics such as age, gender, income, occupation, family size or education.",
+    "working": "1 mark: dividing buyers into groups; 1 mark: based on population characteristics (age, income, gender, family size)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-093",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'geographic segmentation'.",
+    "marks": 2,
+    "answer": "Dividing a market into groups by location, such as country, region, city, urban or rural area.",
+    "working": "1 mark: dividing by location; 1 mark: examples of locations (region, city, urban/rural)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-094",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'psychographic segmentation'.",
+    "marks": 2,
+    "answer": "Dividing a market into groups by lifestyle, personality, values, attitudes or interests.",
+    "working": "1 mark: based on lifestyle or personality; 1 mark: values, attitudes or interests."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-095",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the term 'behavioural segmentation' and give one example for a gym.",
+    "marks": 3,
+    "answer": "Behavioural segmentation divides customers by how they use or respond to a product, such as how often they buy, the benefits they seek or their loyalty. For a gym, members who attend five times a week might be targeted with a premium package.",
+    "working": "1 mark: definition (based on buying or usage behaviour). 2 marks: explained with an accurate gym example."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-096",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A café near a university in Quetta has 2,000 regular customers. Of these, 800 are students and the rest are office workers and families.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage of the total customers who are students.",
+    "marks": 2,
+    "answer": "40 %",
+    "working": "1 mark: 800 ÷ 2,000; 1 mark: × 100 = 40 %."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why a business might target students separately from other customers.",
+    "marks": 3,
+    "answer": "Students have different needs and budgets, for example they are more price sensitive and may study at specific times, so a separate offer can attract them more effectively.",
+    "working": "1 mark: knowledge (segments have different needs). 2 marks: explained with reference to students and price or timing."
+   }
+  ],
+  "check": "round(800/2000*100,1) == 40.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-097",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A soft-drinks company surveyed 800 people about a new energy drink. Of 500 respondents aged 18-30, 210 said they had bought it. Of 300 respondents aged 31-50, 90 said they had bought it.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage of each age group that bought the product, and the difference between the two rates in percentage points.",
+    "marks": 4,
+    "answer": "Aged 18-30: 42 %; aged 31-50: 30 %; a difference of 12 percentage points.",
+    "working": "1 mark: 210 ÷ 500 × 100 = 42 %; 1 mark: 90 ÷ 300 × 100 = 30 %; 1 mark: difference = 12 percentage points; 1 mark: correct units stated."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why the younger group might be the better target segment for the product.",
+    "marks": 3,
+    "answer": "The younger group buys at a higher rate, so promotion aimed at them is more likely to produce sales, and they may be more likely to buy again in the future.",
+    "working": "1 mark: a valid reason (higher buying rate, growing future market). 2 marks: applied to the figures."
+   }
+  ],
+  "check": "round(210/500*100,1) == 42.0 and round(90/300*100,1) == 30.0 and round(210/500*100 - 90/300*100,1) == 12.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-098",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'target market'.",
+    "marks": 2,
+    "answer": "The group of customers, within a market, that a business chooses to focus its marketing mix on.",
+    "working": "1 mark: a chosen group of customers; 1 mark: the marketing mix is focused on this group."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-099",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse one benefit to a Lahore bakery of choosing a target market of office workers rather than selling to the whole market.",
+    "marks": 5,
+    "answer": "Benefit: the bakery can design products and times of opening for office workers (for example quick lunches and breakfast boxes), which meets their needs better. Chain: higher sales per customer and repeat orders from offices, so profitability improves.",
+    "working": "1 mark: benefit identified (better fit to needs, focused promotion, repeat orders). Up to 4 marks for developing the chain of consequences in the bakery context."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-100",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two ways in which behavioural segmentation could help a coffee brand in Peshawar decide its promotion for loyal customers.",
+    "marks": 8,
+    "answer": "Way 1: identifying heavy users lets the brand reward them with loyalty points or free drinks, keeping their custom. Way 2: identifying occasional buyers lets the brand send them trial offers to make them buy more often. Each should be developed with a chain of consequences for sales.",
+    "working": "4 marks each for two ways: 1 mark identified, up to 3 marks developed in the coffee-brand context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-101",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a small clothing business with a budget of Rs 500,000 should aim at one narrow market segment or at the mass market.",
+    "marks": 12,
+    "answer": "Points: a narrow segment lets the business use its small budget effectively, build loyalty and avoid large rivals; but the segment may be too small to grow, and the business is exposed if tastes change; the mass market offers scale but needs a large budget for advertising and distribution the firm does not have; the judgement depends on the segment size, competition and the firm's costs.",
+    "working": "Level 4 (10-12): balanced evaluation with a justified judgement tied to the Rs 500,000 budget. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-102",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise a start-up that plans to sell an electric scooter in Karachi on how to segment its market and which segment or segments it should target in its first year.",
+    "marks": 20,
+    "answer": "Points: segmentation by demographic (age, income, students and commuters), geographic (dense urban areas with traffic), behavioural (short-trip commuters, eco-conscious buyers) and psychographic (early adopters) variables; a focus on one or two segments with the best fit with the product and budget; the chosen segments should be large enough and reachable, and the start-up needs a positioning strategy; a justified recommendation with a test or review point.",
+    "working": "Level 4 (17-20): a well-reasoned segmentation with a clear target choice and positioning, justified by the business's resources. Level 3 (13-16): sound segmentation and some justification. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-103",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the term 'positioning' in marketing.",
+    "marks": 3,
+    "answer": "Positioning is the way a brand is placed in customers' minds relative to competitors, based on its image and the benefits it offers.",
+    "working": "1 mark: definition (how the brand is placed in customers' minds); 2 marks: explained relative to competitors, e.g. a brand positioned as the cheapest or as premium."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-104",
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a business should target the mass market instead of segmenting its market, when it sells a basic, low-cost product such as salt or cooking oil in Pakistan.",
+    "marks": 12,
+    "answer": "Points: for basic goods, the needs of most customers are similar, so mass marketing saves the costs of separate campaigns and gives economies of scale; but segmenting by price, region or brand loyalty can still find extra revenue (for example a premium pack for urban buyers); competitors may target niches; a justified judgement that considers the product and the cost of segmenting.",
+    "working": "Level 4 (10-12): balanced evaluation with a justified judgement tied to the nature of the product and costs. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-105",
+  "topic": "Strategic management",
+  "subtopic": "Strategic choice (Ansoff, decision trees, force field)",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "Zaiqa Foods, a Lahore snack company, must choose between two options.\nOption A (premium range): probability 0.6 of a profit of Rs 4,000,000; probability 0.4 of a loss of Rs 1,500,000.\nOption B (safe extension): a certain profit of Rs 1,200,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the expected net value (EMV) of each option, and state which option Zaiqa Foods should choose on financial grounds.",
+    "marks": 4,
+    "answer": "Premium range: EMV = Rs 1,800,000; safe extension: EMV = Rs 1,200,000. Zaiqa Foods should choose the premium range on financial grounds.",
+    "working": "1 mark: premium EMV = 0.6 × 4,000,000 + 0.4 × (−1,500,000); 1 mark: = 1,800,000; 1 mark: safe option EMV = 1,200,000; 1 mark: choice of premium range with the reason that its EMV is higher."
+   }
+  ],
+  "check": "round(0.6*4000000 + 0.4*(-1500000)) == 1800000 and 1200000 < 0.6*4000000 + 0.4*(-1500000)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-106",
+  "topic": "Strategic management",
+  "subtopic": "Strategic choice (Ansoff, decision trees, force field)",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A Karachi printing firm plans to move from paper-based to digital printing. A force field analysis gives the following scores (1 = weak, 5 = strong).\nDriving forces: falling demand for paper-based print 4; lower costs of digital machines 3; customer demand for faster delivery 5.\nRestraining forces: staff resistance to new skills 3; cost of new machines 4.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total score for the driving forces and for the restraining forces, and state whether the change is likely to succeed on these scores.",
+    "marks": 3,
+    "answer": "Driving forces total 12; restraining forces total 7; the change is likely to succeed because the driving forces outweigh the restraining forces.",
+    "working": "1 mark: driving total = 4 + 3 + 5 = 12; 1 mark: restraining total = 3 + 4 = 7; 1 mark: conclusion that the change is likely to succeed (driving more than restraining)."
+   }
+  ],
+  "check": "(4+3+5) == 12 and (3+4) == 7 and (4+3+5) > (3+4)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-107",
+  "topic": "Strategic management",
+  "subtopic": "Strategic choice (Ansoff, decision trees, force field)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Using Ansoff's matrix, analyse two risks for a Multan poultry farm of diversifying into a chain of cafés.",
+    "marks": 8,
+    "answer": "Risk 1: the farm has no experience of running food-service outlets, so it may choose poor locations, menus and staffing. Risk 2: cafés have different customers, costs and suppliers, so the farm's strength in poultry production may not transfer, and the capital spent on the cafés may be lost if they fail.",
+    "working": "4 marks each for two risks: 1 mark identified (diversification is the highest-risk quadrant of Ansoff); up to 3 marks developed in the Multan poultry context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-108",
+  "topic": "Strategic management",
+  "subtopic": "Strategic choice (Ansoff, decision trees, force field)",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A developer in Islamabad is deciding whether to build apartments. The probabilities and net profits (after costs) are: high demand, probability 0.3, net profit Rs 9,000,000; medium demand, probability 0.5, net profit Rs 3,000,000; low demand, probability 0.2, net loss Rs 4,000,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the expected net value of building the apartments. State whether the project has a positive expected value.",
+    "marks": 4,
+    "answer": "EMV = Rs 3,400,000, which is positive.",
+    "working": "1 mark: 0.3 × 9,000,000 = 2,700,000; 1 mark: 0.5 × 3,000,000 = 1,500,000; 1 mark: 0.2 × (−4,000,000) = −800,000; 1 mark: total = 3,400,000 (positive)."
+   }
+  ],
+  "check": "round(0.3*9000000 + 0.5*3000000 + 0.2*(-4000000)) == 3400000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-109",
+  "topic": "Strategic management",
+  "subtopic": "Strategic choice (Ansoff, decision trees, force field)",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a decision tree gives reliable guidance to an online start-up deciding whether to build its own warehouse.",
+    "marks": 12,
+    "answer": "Points: a decision tree sets out options, chance events and probabilities, so the firm sees the financial effect of each option; but the probabilities and outcomes are estimates and may be wrong, a start-up has little data, and the tree ignores qualitative factors such as control of delivery and staff morale; the tree is most useful when combined with sensitivity testing (changing the probabilities) and judgement; a justified conclusion.",
+    "working": "Level 4 (10-12): balanced evaluation that questions the estimates and considers qualitative factors, with a justified conclusion. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-110",
+  "topic": "Strategic management",
+  "subtopic": "Strategic choice (Ansoff, decision trees, force field)",
+  "paper": "3",
+  "difficulty": "challenge",
+  "stem": "A Quetta food company is deciding whether to build a new processing factory now (Option 1) or first run a pilot plant for Rs 500,000 (Option 2). If it builds now, demand is high with probability 0.6, giving a net gain of Rs 5,000,000; demand is low with probability 0.4, giving a net loss of Rs 1,000,000. If it runs the pilot, the pilot succeeds with probability 0.6, and the firm then builds the factory with a net gain of Rs 4,000,000; if the pilot fails (probability 0.4), the firm builds nothing.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the expected net value of building the factory now (Option 1) and of starting with a pilot (Option 2). State which option has the higher expected value.",
+    "marks": 6,
+    "answer": "Option 1: EMV = Rs 2,600,000; Option 2: EMV = Rs 1,900,000. Option 1 has the higher expected value.",
+    "working": "1 mark: Option 1 high demand 0.6 × 5,000,000 = 3,000,000; 1 mark: low demand 0.4 × (−1,000,000) = −400,000; 1 mark: Option 1 EMV = 2,600,000; 1 mark: Option 2 = −500,000 + 0.6 × 4,000,000 (the pilot fails with probability 0.4 and the firm then stops, so no full-launch income); 1 mark: Option 2 = 1,900,000; 1 mark: choice of Option 1 on expected value."
+   }
+  ],
+  "check": "round(0.6*5000000 + 0.4*(-1000000)) == 2600000 and round(-500000 + 0.6*4000000) == 1900000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-111",
+  "topic": "Strategic management",
+  "subtopic": "Strategic choice (Ansoff, decision trees, force field)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Sutlej Sugar Works produces white sugar for domestic markets. Its profits have been flat for three years. The board has capital for one major project only. Estimated net outcomes for each option: (1) expansion of sugar production in existing markets: 0.7 chance of a net gain of Rs 4,000,000 and 0.3 chance of a net loss of Rs 1,000,000; (2) entry to the bio-fuel market: 0.45 chance of a net gain of Rs 9,000,000 and 0.55 chance of a net loss of Rs 2,000,000; (3) acquisition of a smaller rival in another province: 0.6 chance of a net gain of Rs 5,000,000 and 0.4 chance of a net loss of Rs 2,000,000, with integration risk.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise the board of Sutlej Sugar Works on which of its three strategic options it should choose over the next three years: (1) expand production of sugar in existing markets, (2) enter the bio-fuel market, or (3) acquire a smaller rival in another province.",
+    "marks": 20,
+    "answer": "Points: expected net values are Option 1 Rs 2,500,000, Option 2 Rs 2,950,000 and Option 3 Rs 2,200,000, so bio-fuel has the highest expected value; but it carries the largest possible loss (Rs 2,000,000 with a 55 % chance) and moves into an unfamiliar market (diversification); expansion is lower risk but has the lowest gain in its market; the acquisition has integration risk. A recommendation with conditions, for example a pilot bio-fuel plant to test the 0.45 success estimate, or due diligence before any acquisition, with a justified judgement.",
+    "working": "Level 4 (17-20): a clear recommendation supported by the expected values (Rs 2.5m, Rs 2.95m, Rs 2.2m) and an Ansoff-based analysis of each option, with conditions and risks weighed. Level 3 (13-16): sound analysis, some judgement. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "round(0.7*4000000-0.3*1000000) == 2500000 and round(0.45*9000000-0.55*2000000) == 2950000 and round(0.6*5000000-0.4*2000000) == 2200000"
+ },
+ {
+  "id": "9609-h1-112",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'core competence'.",
+    "marks": 2,
+    "answer": "A skill or capability that a business does better than its rivals, and that gives it value in several products or markets.",
+    "working": "1 mark: skill or capability better than rivals; 1 mark: provides value across products or markets."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-113",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'cost leadership'.",
+    "marks": 2,
+    "answer": "A competitive strategy in which a business aims to have the lowest costs in its industry, so it can price lower or earn a higher margin than rivals.",
+    "working": "1 mark: lowest costs in the industry; 1 mark: allows lower prices or higher margins than rivals."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-114",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "Pearl Biscuits, a Pakistani biscuit maker, produces a biscuit for Rs 320 per packet in unit cost. A rival producer has a unit cost of Rs 380 for a similar biscuit.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage by which the unit cost of Pearl Biscuits' new biscuit line is lower than that of the rival.",
+    "marks": 2,
+    "answer": "15.8 %",
+    "working": "1 mark: (380 − 320) = 60; 1 mark: 60 ÷ 380 × 100 = 15.8 %."
+   }
+  ],
+  "check": "round((380-320)/380*100,1) == 15.8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-115",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether differentiation is a more sustainable source of competitive advantage than cost leadership for a Pakistani dairy brand.",
+    "marks": 12,
+    "answer": "Points: differentiation builds brand loyalty and allows premium prices, which rivals find hard to copy, but needs continuous investment in quality and branding; cost leadership depends on scale and can be copied by larger rivals or undercut by imports; a dairy brand with fresh, perishable products has limits on scale; a justified judgement, e.g. differentiation through quality and trust is more sustainable in this market.",
+    "working": "Level 4 (10-12): balanced evaluation with a justified judgement tied to the dairy market and sustainability. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-116",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Nasir Leather Works in Kasur makes hand-stitched leather gloves. It has a skilled workforce of 40 and a loyal group of European buyers who pay high prices. It has no large machinery and its costs are high compared with larger manufacturers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise the owners of Nasir Leather Works on whether to follow a focus strategy, serving only the high-end glove market in Europe, or to broaden into a wider range of leather goods for mass retailers.",
+    "marks": 20,
+    "answer": "Points: focus gives a defensible niche with higher margins and loyal buyers, but relies on one market and one product type; a broad mass-market strategy needs scale and lower costs, which the company lacks; a recommendation weighing the company's capabilities, the margin on the niche, the risk of concentration, and the data given; conditions such as a timetable for review.",
+    "working": "Level 4 (17-20): a justified recommendation weighing both strategies against the firm's capabilities and risk. Level 3 (13-16): sound analysis, some judgement. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-117",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the term 'focus strategy' and give one reason why a small business might choose it.",
+    "marks": 3,
+    "answer": "A focus strategy concentrates on one segment of the market, with products designed for its needs at a low cost or as a differentiated product. A small business might choose it because it can serve a niche well with limited resources.",
+    "working": "1 mark: definition (concentrating on a narrow segment). 2 marks: explained with a reason suited to a small business (limited resources, a niche its skills suit)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-118",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two ways in which innovation can give a business a competitive advantage.",
+    "marks": 8,
+    "answer": "Way 1: a new product that rivals do not have lets the business charge a premium and win customers quickly. Way 2: a new process lowers costs, allowing lower prices or higher margins. Each should be developed with a chain of consequences.",
+    "working": "4 marks each for two ways: 1 mark identified, up to 3 marks developed with consequences. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-119",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'blue ocean strategy'.",
+    "marks": 2,
+    "answer": "A strategy of creating a new market space with little or no competition, by making rivals irrelevant rather than competing head-on in an existing market.",
+    "working": "1 mark: new market space with little competition; 1 mark: making rivals irrelevant rather than competing directly."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-120",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse how a blue ocean strategy could use the ERRC framework (eliminate, reduce, raise, create) for a Karachi bus company that wants to attract middle-class commuters.",
+    "marks": 8,
+    "answer": "Eliminate: crowded features such as standing space; Reduce: on-board extras such as entertainment screens and premium seating, set below the level rivals offer; Raise: comfort, safety and punctuality; Create: online booking and a loyalty scheme. Each choice should be developed with a chain of consequences for the commuters and costs.",
+    "working": "4 marks each for two ERRC actions: 1 mark identified, up to 3 marks developed in the Karachi bus context. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-121",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise a Pakistani tile maker on whether to invest in automation to lower its costs, or in design capability to differentiate its products, over the next three years.",
+    "marks": 20,
+    "answer": "Points: automation lowers cost per tile and suits a volume strategy, but needs large capital and may not beat imports on price; design capability builds a premium brand and loyal architects but is harder to measure; the choice depends on the market, the firm's current costs and its skills; a recommendation with a justified judgement and conditions such as a pilot investment or a review point.",
+    "working": "Level 4 (17-20): a clear, justified recommendation weighing cost and differentiation and their risks. Level 3 (13-16): sound analysis, some judgement. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-122",
+  "topic": "Strategic management",
+  "subtopic": "Corporate strategy and competitive advantage",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a competitive advantage based on a firm's resources can be sustained over the long term when rivals can copy the same resources.",
+    "marks": 12,
+    "answer": "Points: a resource is more sustainable if it is valuable, rare, hard to imitate and not easily substitutable; a brand built over years or a patent can be hard to copy, but a rival can often buy or copy the same resource or produce a substitute; sustained advantage needs continuous innovation and a learning culture; a justified judgement, e.g. advantage can last if the firm keeps renewing its resources.",
+    "working": "Level 4 (10-12): balanced evaluation that applies a test of sustainability (valuable, rare, inimitable) and reaches a justified judgement. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-123",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term 'SWOT analysis'.",
+    "marks": 2,
+    "answer": "A tool that identifies a business's internal strengths and weaknesses and its external opportunities and threats, to inform strategy.",
+    "working": "1 mark: internal strengths and weaknesses; 1 mark: external opportunities and threats used to inform strategy."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-124",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A Lahore furniture maker employs 60 craftspeople. Its strengths are its reputation for hand-made quality and its skilled staff. Its weaknesses include old machinery and a high cost base. Its market is affected by a rise in interest rates, a slowdown in house building, timber price rises and new low-cost rivals from abroad.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify three external threats to a Lahore furniture maker from the information given.",
+    "marks": 3,
+    "answer": "Any three of: rising timber prices, which raise production costs; new low-cost rivals entering from abroad; a slowdown in house building, which reduces orders; higher interest rates, which reduce customers' spending on furniture.",
+    "working": "1 mark each for any three external threats identified from the information."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-125",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one political factor that could affect the expansion of a Pakistani airline into new routes.",
+    "marks": 3,
+    "answer": "Government rules on bilateral air agreements, airport charges or aviation safety standards can limit which routes an airline may fly or raise the cost of flying them.",
+    "working": "1 mark: knowledge of political factor (government regulations, bilateral agreements, taxes on aviation). 2 marks: explained and applied to route expansion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-126",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse two weaknesses of a Peshawar furniture maker that a SWOT analysis would be likely to reveal, and explain how each could affect its strategy.",
+    "marks": 8,
+    "answer": "Weakness 1: outdated machines that lead to higher costs and slower delivery, which may lose orders to rivals with modern equipment. Weakness 2: dependence on one local market and little online presence, so the firm cannot easily grow. Each should be developed with a chain of consequences for strategy.",
+    "working": "4 marks each for two weaknesses: 1 mark identified, up to 3 marks developed with consequences for strategy in the furniture business. Maximum 8 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-127",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A regional courier company in Lahore delivers parcels for e-commerce firms and small shops. Its three largest clients account for 55 % of revenue and can move their business quickly. Several app-based courier start-ups have entered the city with low prices. Drivers can switch to rival firms easily, and fuel prices have risen by 20 % this year. Large online marketplaces run their own delivery services.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Using Porter's five forces and other strategic analysis, advise a regional courier company in Lahore on which strategy it should follow over the next three years, given the forces shown in the data.",
+    "marks": 20,
+    "answer": "Points: the threat of new entrants (app-based couriers with low barriers); the bargaining power of large e-commerce customers who can switch and demand low prices; the bargaining power of suppliers (vehicle and fuel costs); the threat of substitutes (online marketplaces' own delivery); rivalry is intense; a recommendation (for example a focus on business clients with a premium service) justified by the forces and the company's strengths, with conditions.",
+    "working": "Level 4 (17-20): applies at least three of the forces to the data, weighs them, and gives a justified recommendation with conditions. Level 3 (13-16): sound analysis and some judgement. Level 2 (7-12): description or a list of forces. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-128",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how the bargaining power of suppliers could affect the profitability of a Multan textile mill.",
+    "marks": 3,
+    "answer": "If a few suppliers of cotton control supply, they can raise prices and so reduce the mill's margins, particularly if the mill cannot easily switch supplier.",
+    "working": "1 mark: knowledge (suppliers with power raise prices or reduce quality). 2 marks: explained and applied to cotton supply for a Multan mill."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-129",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse one reason why the threat of new entrants may be high for a Karachi online food-delivery platform.",
+    "marks": 5,
+    "answer": "Reason: the business needs little physical capital, since it can use existing restaurants and drivers, and apps are cheap to build. Chain: new rivals can enter quickly and cut prices to win customers, so the platform must spend heavily to keep its share and margins fall.",
+    "working": "1 mark: reason identified (low barriers, cheap technology, no need for own kitchens). Up to 4 marks for developing the chain of consequences in the Karachi context."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-130",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a PEST analysis is a useful tool for an online food-delivery company in Karachi that is planning to expand into Lahore and Islamabad.",
+    "marks": 12,
+    "answer": "Points: PEST identifies factors such as rules on food hygiene and delivery, changes in consumer income, the spread of smartphones and digital payments, and the cost of fuel; it helps the firm plan for the external environment in each city; but PEST gives a list of factors, not priorities, and does not show the firm's own capabilities or competitors, so it should be used with SWOT and competitor analysis; a justified judgement.",
+    "working": "Level 4 (10-12): balanced evaluation that recognises the strengths and limits of PEST and reaches a justified judgement linked to the three cities. Level 3 (7-9): good points, some judgement. Level 2 (4-6): description. Level 1 (1-3): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-131",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Two firms share a city market for bottled juice. The competitor had sales of Rs 6.0 million in 2024 when the total market was Rs 30.0 million. In 2025 its sales were Rs 7.5 million and the total market was Rs 33.0 million.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the competitor's market share in 2024 and in 2025.",
+    "marks": 3,
+    "answer": "20 % in 2024 and about 22.7 % in 2025.",
+    "working": "1 mark: 2024 = 6.0 ÷ 30.0 × 100 = 20 %; 1 mark: 2025 = 7.5 ÷ 33.0 × 100 = 22.7 %; 1 mark: correct units shown."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why the competitor's market share may have risen and one threat this poses to the other firms.",
+    "marks": 3,
+    "answer": "The competitor may have launched a new product or cut its prices, which takes customers from rivals; this threatens the other firms' sales and their market position.",
+    "working": "1 mark: a valid reason (new product, price cut, advertising); 1 mark: a valid threat identified; 1 mark: linked to the other firms' sales or position."
+   }
+  ],
+  "check": "round(6.0/30.0*100,1) == 20.0 and round(7.5/33.0*100,1) == 22.7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-132",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "SWOT findings: strengths: strong brand and recipes, loyal local customers; weaknesses: weak cash flow, limited management time; opportunities: rising incomes among urban families in Lahore; threats: national chains are opening branches in Lahore.\nPEST findings: wage rates in Punjab are rising by 12 % a year; new food-safety rules require testing of all products; energy costs have risen sharply.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Advise the owners of a family bakery chain in Faisalabad on whether to open new branches in Lahore, given the SWOT and PEST findings below.",
+    "marks": 20,
+    "answer": "Points: a SWOT summary (strong brand and recipes, weak cash flow, opportunity from rising urban incomes, threat from national chains moving into Lahore) and PEST findings (local wage rises, new food-safety rules, rising energy costs) are used to weigh the expansion; a recommendation to expand gradually (one or two branches first) or not, with conditions such as cash-flow limits, a reserve fund and a clear success measure; a justified judgement.",
+    "working": "Level 4 (17-20): a justified recommendation that uses both the SWOT and PEST findings, weighs risks, and sets conditions. Level 3 (13-16): sound analysis and some judgement. Level 2 (7-12): description. Level 1 (1-6): unsupported."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-133",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a firm should review its PEST analysis regularly rather than once.",
+    "marks": 3,
+    "answer": "The external environment changes, for example through new taxes, new technology or changing tastes, so an analysis made once may soon be out of date and lead to poor decisions.",
+    "working": "1 mark: the environment changes over time; 2 marks: explained with a relevant example such as a change in government policy or technology that the firm would miss."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9609-h1-134",
+  "topic": "Strategic management",
+  "subtopic": "Strategic analysis (PEST, SWOT)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two opportunities and two threats that a PEST analysis might show for a private school chain in Karachi that is considering online learning.",
+    "marks": 4,
+    "answer": "Opportunities (any two): growing internet access and smartphone use among families; government support for digital education. Threats (any two): unstable electricity and internet supply; rules on data protection for students; families preferring in-person schooling.",
+    "working": "1 mark each for any two opportunities and any two threats identified, each linked to a PEST factor (technology, political, economic or social). Maximum 4 marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Marketing",
+  "subtopic": "Market segmentation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one limitation of dividing a market into very small segments for a cake shop in Lahore.",
+    "marks": 3,
+    "answer": "Very small segments may be too small to be profitable, so the cost of a separate product or campaign for each segment can exceed the extra sales it brings in.",
+    "working": "1 mark: knowledge (segments too small to be profitable; costs of separate marketing). 2 marks: applied to a Lahore cake shop, e.g. a special range for a tiny group of buyers may not cover its costs."
+   }
+  ],
+  "id": "9609-h1-135",
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]
