@@ -27704,5 +27704,3086 @@
   "id": "0417-h5-150",
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "0417-h4-001",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Operating systems and user interfaces",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by multitasking.",
+    "marks": 2,
+    "answer": "Several programs appear to run at the same time because the operating system shares the processor between them, switching quickly from one to another.",
+    "working": "1 mark: more than one program is active or running at once. 1 mark: the OS shares or switches processor time between the programs. Do not accept 'the computer does many things' alone."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-002",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Operating systems and user interfaces",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A railway ticket kiosk in Lahore shows passengers a list of options on the screen, such as 'Buy ticket', 'Check timetable' and 'Cancel'. Choosing an option opens a new list of options. Passengers choose by touching the option on the screen.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the type of user interface described.",
+    "marks": 1,
+    "answer": "Menu-driven interface",
+    "working": "1 mark. The screen shows lists of options that lead to further lists; there are no windows or commands to type."
+   },
+   {
+    "label": "b",
+    "text": "Give one advantage of this interface for a passenger who has never used a computer.",
+    "marks": 1,
+    "answer": "Any one: the options are shown on screen so no commands need to be remembered; each choice leads to a clear next step; very little typing is needed.",
+    "working": "1 mark for one valid advantage linked to the passenger."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-003",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Operating systems and user interfaces",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A school network uses a server. Before a pupil can open the shared folders, the server checks the pupil's user name and password.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the operating system function that checks user names and passwords and controls which folders each user can open.",
+    "marks": 1,
+    "answer": "User management (user accounts and access rights / security)",
+    "working": "1 mark. Accept 'security' if the answer refers to login and access rights."
+   },
+   {
+    "label": "b",
+    "text": "Describe one other function that the operating system on the server performs.",
+    "marks": 2,
+    "answer": "Any one, e.g. file management: it stores, names and organises files on the server's storage; memory management: it allocates RAM to the programs that are running; peripheral management: it handles printing requests from the network.",
+    "working": "1 mark for naming a valid function. 1 mark for a description that relates to the server."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-004",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Operating systems and user interfaces",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A driver in Sindh uses a satellite navigation (satnav) system that responds to spoken commands such as 'Navigate to Hyderabad' while both hands stay on the steering wheel.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how a voice-controlled user interface works.",
+    "marks": 2,
+    "answer": "The user speaks a command into a microphone; the software converts the speech into text and recognises the command; the system carries out the command and responds, for example with speech or a message on the screen.",
+    "working": "1 mark: the user speaks a command that is picked up by a microphone. 1 mark: software recognises and interprets the speech, then carries out the command."
+   },
+   {
+    "label": "b",
+    "text": "Give two drawbacks of this interface for a driver on a busy road.",
+    "marks": 2,
+    "answer": "Any two: background noise (traffic or radio) can cause commands to be misheard; the driver may be distracted by speaking and listening rather than watching the road; commands must be said in the exact form the system expects; a strong accent may be misunderstood.",
+    "working": "1 mark for each valid drawback with a reason."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-005",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Operating systems and user interfaces",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "An Islamabad bank is choosing a user interface for 150 cashiers. Each cashier uses the same five transactions all day: deposit, withdrawal, balance enquiry, transfer and print statement.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss whether a command line interface, a graphical user interface (GUI) or a menu-driven interface is the most suitable for the cashiers.",
+    "marks": 6,
+    "answer": "Sample points. Command line: fast for expert users, but cashiers would have to memorise commands and typing errors are easy to make. GUI: icons and windows are easy to learn, but each transaction may need several clicks and screens and it uses more processing power. Menu-driven: each of the five transactions is one option, quick to learn, and only valid options are shown, so fewer errors; less flexible if new transactions are added. Conclusion: a menu-driven interface (or a simple GUI with large buttons for the five transactions) is most suitable because the work is repetitive, the choices are limited and staff must learn quickly.",
+    "working": "Up to 6 marks: 2 marks for clear points on each interface type linked to this work (command line, GUI and menu-driven, given with reasons), and 2 marks for a balanced conclusion that is justified. Points that describe an interface without linking to cashiers or the five transactions score at most half marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-006",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Operating systems and user interfaces",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A shared laser printer in an office is used by twelve computers on a network. Several people send print jobs at almost the same time.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the role of the operating system in managing these print jobs.",
+    "marks": 4,
+    "answer": "The operating system (with the print spooler) stores each job in a print queue; jobs are printed in order, first in first out; the next job is sent when the printer is ready; status and error messages are shown; users can pause or delete their own waiting jobs; the printer is handled as a peripheral through its driver.",
+    "working": "1 mark each for any four: jobs stored in a queue; queue order is kept; next job sent when printer is free; status or error messages; a job can be paused or deleted; the printer is controlled through the operating system and its driver."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-007",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Types of computer",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A bank uses a very large computer that processes millions of transactions every day. Many branch terminals connect to it at the same time.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name this type of computer.",
+    "marks": 1,
+    "answer": "Mainframe computer",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Give one reason why the bank uses this type of computer rather than a network of desktop computers.",
+    "marks": 2,
+    "answer": "Any one: it can handle very large numbers of users and transactions at the same time; it is very reliable and rarely stops; it processes very large volumes of data quickly and securely.",
+    "working": "2 marks for a valid reason explained in terms of the bank's use. 1 mark for a reason without explanation, such as 'it is faster'."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-008",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Types of computer",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A smartwatch is a type of computer that a user wears on the wrist.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two features that a smartwatch usually has which a laptop does not.",
+    "marks": 2,
+    "answer": "Any two: a small screen worn on the wrist; sensors such as a heart-rate sensor or step counter; it is worn all day and needs no bag; it can be controlled by touch on the small screen.",
+    "working": "1 mark each for a valid feature that a laptop does not normally have."
+   },
+   {
+    "label": "b",
+    "text": "Name one function that a smartwatch and a smartphone both have.",
+    "marks": 1,
+    "answer": "Any one: showing notifications or messages; telling the time or setting alarms; running apps; tracking fitness.",
+    "working": "1 mark for a valid shared function."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-009",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Types of computer",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A school in a rural area of Balochistan is choosing a portable computer for each pupil. The school has a small budget, and the pupils carry the computers between home and school.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two ways in which a netbook differs from a laptop.",
+    "marks": 4,
+    "answer": "Any two: a netbook has a smaller screen and keyboard; a netbook has a less powerful processor, less RAM and smaller storage; a netbook is cheaper and lighter.",
+    "working": "2 marks for each difference: 1 mark for the difference and 1 mark for a description or comparison. Do not accept 'netbooks are smaller' without a comparison to the laptop."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-010",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Types of computer",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A games console is connected to a television in a home. The console is designed to run games and media apps only.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by a 'dedicated' computer.",
+    "marks": 2,
+    "answer": "A computer designed to do one specific job or a small set of jobs, rather than many general-purpose tasks.",
+    "working": "1 mark: designed for one specific purpose. 1 mark: a contrast with a general-purpose computer such as a laptop or desktop."
+   },
+   {
+    "label": "b",
+    "text": "Give one other example of a dedicated computer and state its purpose.",
+    "marks": 2,
+    "answer": "Any valid example with its purpose, e.g. a satnav for navigation; an ATM for withdrawing cash; a digital camera for taking photographs; the controller in a washing machine for running wash programmes.",
+    "working": "1 mark for a valid example. 1 mark for the job it does. Do not accept a laptop, desktop or tablet."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-011",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Types of computer",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A hospital keeps all patient records on a central server. Forty computers in the wards and offices access the records through the hospital network.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name this type of computer and explain one benefit of storing the records centrally.",
+    "marks": 3,
+    "answer": "Server. Benefit: all staff see the same up-to-date copy of each record; there is only one copy, so no conflicting versions; backups and security can be managed from one place.",
+    "working": "1 mark for 'server'. 2 marks for a benefit that is explained (1 mark for the benefit, 1 for the explanation)."
+   },
+   {
+    "label": "b",
+    "text": "Describe two risks of storing all the records on one central server, and one way to reduce each risk.",
+    "marks": 4,
+    "answer": "Any two risks with a reduction: if the server fails, records may be lost or unavailable, so use regular backups and a second server; hackers could reach every record, so use passwords, encryption and a firewall; the network could fail and staff cannot reach the records, so use a backup connection.",
+    "working": "1 mark per valid risk and 1 mark per matching way to reduce it (4 marks maximum)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-012",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Types of computer",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A delivery company gives each driver a rugged tablet with a built-in barcode scanner and GPS. The company is considering using smartphones instead.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the advantages and disadvantages of rugged tablets rather than smartphones for this work.",
+    "marks": 6,
+    "answer": "Advantages of tablets: a larger screen to read delivery details and maps; a rugged case survives drops and rain; built-in scanner and a battery that lasts a full shift; company devices can be managed centrally. Disadvantages: more expensive to buy and repair; heavier and bulkier to carry; they do not fit in a pocket; drivers may already own a smartphone, which is cheaper. A balanced conclusion weighs these points, e.g. a rugged tablet suits a full day of scanning, but cost may favour smartphones for a small company.",
+    "working": "Up to 6 marks: 2 marks for clear advantages linked to deliveries, 2 marks for clear disadvantages linked to deliveries, and 2 marks for a balanced, justified conclusion. Points without a reason or link to deliveries score at most half marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-013",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Types of computer",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A student in Karachi must buy one computer for a year of study. She will write long essays, edit scanned photos for a project and join video lessons. She carries the computer between home and her college every day.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Recommend one type of computer for her. Give two reasons linked to her needs.",
+    "marks": 3,
+    "answer": "Laptop (accept another type only with a valid reason). Reasons: it is light enough to carry each day; it has a full keyboard for long essays; it has enough processing power, RAM and storage for photo editing and video lessons; its battery can last a day at college.",
+    "working": "1 mark for a valid recommendation. 2 marks for two reasons, each linked to her needs (1 mark each)."
+   },
+   {
+    "label": "b",
+    "text": "Give one drawback of this type of computer for her and suggest how to reduce it.",
+    "marks": 2,
+    "answer": "Any valid drawback with a reduction, e.g. laptops cost more than tablets, so buy a good-value or refurbished model; the battery wears down, so keep a charger; the screen is small, so connect a monitor at home.",
+    "working": "1 mark for a valid drawback and 1 mark for a suggestion that reduces it. A drawback without a suggestion scores 1 mark at most."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-014",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A student is revising the parts of the central processing unit (CPU) of a computer.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the part of the CPU that carries out arithmetic and logic operations.",
+    "marks": 1,
+    "answer": "Arithmetic logic unit (ALU)",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "State the purpose of the control unit.",
+    "marks": 2,
+    "answer": "It controls and co-ordinates the operation of the CPU: it fetches instructions from memory, decodes them and sends control signals to the other parts of the computer.",
+    "working": "1 mark for controls or co-ordinates the operations. 1 mark for a valid detail (fetches and decodes instructions, or sends control signals)."
+   },
+   {
+    "label": "c",
+    "text": "Name one other part of the CPU that temporarily holds data or instructions.",
+    "marks": 1,
+    "answer": "Registers (accept: cache memory).",
+    "working": "1 mark. Accept 'registers' or 'cache' as a small store on or very close to the CPU."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-015",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "The motherboard of a desktop computer holds several components.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name two components that are normally fixed to the motherboard.",
+    "marks": 2,
+    "answer": "Any two of: the CPU socket or processor; RAM slots; the chipset; expansion slots; the BIOS/ROM chip.",
+    "working": "1 mark each for a valid component. Accept 'CPU' and 'RAM' only if they are described as sockets or slots on the motherboard."
+   },
+   {
+    "label": "b",
+    "text": "Describe one function of the motherboard.",
+    "marks": 1,
+    "answer": "It connects the components so that they can communicate, for example carrying data and signals between the CPU, memory and other devices.",
+    "working": "1 mark for a valid function."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-016",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A processor has a small amount of cache memory.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by cache memory.",
+    "marks": 2,
+    "answer": "A small and very fast memory, inside or very close to the CPU, that holds frequently used data or instructions so that the CPU does not have to wait for the slower RAM.",
+    "working": "1 mark: small and very fast memory. 1 mark: holds data or instructions the CPU needs often, avoiding waits for RAM."
+   },
+   {
+    "label": "b",
+    "text": "Explain why cache memory is faster than RAM.",
+    "marks": 2,
+    "answer": "Cache is on or close to the CPU, so data travels a shorter distance; it uses faster (more expensive) memory technology than RAM.",
+    "working": "1 mark for being closer to the CPU or on the CPU. 1 mark for faster technology or shorter distance explained."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-017",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Two computers are being compared for a school office.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how the clock speed of a processor affects performance.",
+    "marks": 2,
+    "answer": "The clock speed is the number of clock cycles per second, measured in GHz (billions of cycles per second). A higher clock speed means more instructions can be processed each second, so the processor is faster.",
+    "working": "1 mark: clock speed is cycles or steps per second. 1 mark: higher clock speed means more instructions per second, so faster."
+   },
+   {
+    "label": "b",
+    "text": "A quad-core processor at 2.4 GHz is compared with a single-core processor at 3.0 GHz. Explain why the quad-core processor may still be faster for some tasks.",
+    "marks": 3,
+    "answer": "Four cores can process instructions at the same time, so tasks that can be split between cores (for example video editing) finish sooner; the single core handles only one stream of instructions at a time.",
+    "working": "1 mark: several cores work at the same time. 1 mark: a task can be shared across the cores. 1 mark: the single core handles one stream at a time, so it is slower for suitable tasks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-018",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A computer has 4 GB of RAM.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the amount of RAM in MB. Use 1 GB = 1024 MB.",
+    "marks": 1,
+    "answer": "4096 MB",
+    "working": "1 mark: 4 × 1024 = 4096."
+   },
+   {
+    "label": "b",
+    "text": "Explain why having more RAM usually makes a computer run several programs more smoothly.",
+    "marks": 2,
+    "answer": "RAM holds the programs and data in use, so the computer needs fewer slow reads from the hard disk or SSD; less switching to storage means programs respond faster.",
+    "working": "1 mark: more programs and data kept in fast memory. 1 mark: fewer slow accesses to storage."
+   },
+   {
+    "label": "c",
+    "text": "State why the contents of RAM are lost when the computer is switched off.",
+    "marks": 1,
+    "answer": "RAM is volatile memory, so it needs power to keep its contents.",
+    "working": "1 mark for 'volatile' or 'needs power to keep data'."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "4*1024 == 4096"
+ },
+ {
+  "id": "0417-h4-019",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A CPU runs a program one instruction at a time.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the three stages of the fetch-decode-execute cycle.",
+    "marks": 3,
+    "answer": "Fetch: the next instruction is fetched from memory at the address held in the program counter and placed in the instruction register. Decode: the control unit works out what the instruction means. Execute: the instruction is carried out, for example by the ALU, and the result is stored.",
+    "working": "1 mark for each stage described correctly: fetch from memory (address in PC or into the instruction register); decode by the control unit; execute by the CPU or ALU with the result stored."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-020",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A laptop has 8 GB of RAM. It is running several large programs at once, and the RAM is almost full.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by virtual memory.",
+    "marks": 2,
+    "answer": "Part of the hard disk or SSD is used as if it were extra RAM, so that programs can keep running when the RAM is full.",
+    "working": "1 mark: secondary storage is used as extra memory. 1 mark: this lets programs keep running when RAM is full."
+   },
+   {
+    "label": "b",
+    "text": "State one disadvantage of relying heavily on virtual memory.",
+    "marks": 1,
+    "answer": "Any one: the computer becomes slower because storage is much slower than RAM; the computer may appear to freeze while data is moved; repeated writing can wear out an SSD.",
+    "working": "1 mark for a valid disadvantage."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-021",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A CPU runs at 3.2 GHz, which means 3.2 × 10⁹ clock cycles per second. Each instruction takes 4 clock cycles to complete. Assume the CPU is never idle in the first two parts.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of instructions the CPU completes in one second.",
+    "marks": 2,
+    "answer": "8 × 10⁸ instructions per second (800 000 000).",
+    "working": "M1: 3.2 × 10⁹ cycles ÷ 4 cycles per instruction. A1: 8 × 10⁸ instructions per second."
+   },
+   {
+    "label": "b",
+    "text": "Calculate how many instructions the CPU completes in 2 minutes. Give your answer in standard form.",
+    "marks": 2,
+    "answer": "9.6 × 10¹⁰ instructions",
+    "working": "M1: 8 × 10⁸ × 120 seconds. A1: 9.6 × 10¹⁰."
+   },
+   {
+    "label": "c",
+    "text": "State why this answer is only a theoretical maximum and not the real number of instructions completed.",
+    "marks": 2,
+    "answer": "The processor sometimes waits for data from RAM or input/output, or instructions may take more cycles, so fewer instructions are completed.",
+    "working": "1 mark for a reason the CPU is not always busy (waiting for memory or devices). 1 mark for stating that the real number is lower."
+   }
+  ],
+  "check": "abs(3.2e9/4 - 8e8) < 1 and abs(8e8*120 - 9.6e10) < 1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-022",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A processor makes 1 000 000 requests for data during a program. 920 000 of these requests are found in the cache; the rest must be fetched from RAM.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage of requests found in the cache.",
+    "marks": 2,
+    "answer": "92%",
+    "working": "M1: 920 000 ÷ 1 000 000. A1: 92% (0.92 × 100)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the number of requests that had to be fetched from RAM.",
+    "marks": 1,
+    "answer": "80 000",
+    "working": "1 mark: 1 000 000 − 920 000 = 80 000."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a higher cache hit rate makes the program run faster.",
+    "marks": 3,
+    "answer": "Cache is much faster than RAM, so most data arrives quickly; fewer slow accesses to RAM means the CPU spends less time waiting; so the program finishes sooner.",
+    "working": "1 mark: cache is faster than RAM. 1 mark: fewer slow RAM accesses. 1 mark: less waiting, so the program finishes sooner."
+   }
+  ],
+  "check": "abs(920000/1000000*100 - 92) < 0.001 and 1000000 - 920000 == 80000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-023",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Internal components and memory",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A tablet has 4 GB of RAM and 128 GB of storage. A laptop has 16 GB of RAM and 512 GB of storage. Both devices contain ROM.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why both devices need ROM even though the laptop has more RAM.",
+    "marks": 4,
+    "answer": "ROM holds the start-up (boot) instructions and firmware that the device needs when it is switched on; ROM is non-volatile, so these instructions remain when the power is off; RAM is volatile and cannot store the start-up instructions, and it is cleared at power-off; a larger RAM does not replace the need for ROM because RAM only holds programs and data that are in use.",
+    "working": "1 mark each for any four: ROM stores start-up or boot instructions; ROM is non-volatile so it keeps its contents without power; RAM is volatile so cannot hold start-up instructions; RAM holds programs in use; more RAM does not replace the start-up role of ROM."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-024",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A household has a fridge, lights and a thermostat, each with a sensor and an internet connection. A family member can switch the lights off and check the fridge temperature from a phone while away from home.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name this emerging technology.",
+    "marks": 1,
+    "answer": "Internet of Things (IoT)",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Give one benefit of this technology for the family.",
+    "marks": 1,
+    "answer": "Any one: they can check and control devices from anywhere; electricity is saved by switching off lights remotely; they receive an alert if the fridge becomes too warm.",
+    "working": "1 mark for a valid benefit."
+   },
+   {
+    "label": "c",
+    "text": "Give one risk of this technology for the family.",
+    "marks": 1,
+    "answer": "Any one: the devices could be hacked; the controls stop working if the internet fails; the sensor data reveals when the family is at home.",
+    "working": "1 mark for a valid risk."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-025",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A courier company in Gilgit plans to use drones to deliver small parcels to mountain villages where roads are blocked in winter.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two advantages of using drones for this delivery.",
+    "marks": 2,
+    "answer": "Any two: they can reach villages cut off by roads or snow; they are faster than travelling over mountain roads; no driver is needed; deliveries can be made quickly in an emergency.",
+    "working": "1 mark each for a valid advantage."
+   },
+   {
+    "label": "b",
+    "text": "Give one disadvantage of using drones for this delivery.",
+    "marks": 1,
+    "answer": "Any one: limited battery life and payload (weight), so only small parcels can be carried; strong winds, snow or fog can stop flights; flying rules and privacy concerns may restrict use.",
+    "working": "1 mark for a valid disadvantage."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-026",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A smartphone has a voice assistant that answers spoken questions such as 'What is the weather in Quetta today?'.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what the letters AI stand for.",
+    "marks": 1,
+    "answer": "Artificial Intelligence",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Describe how the voice assistant uses AI to answer the question.",
+    "marks": 2,
+    "answer": "Speech recognition converts the spoken words into text; AI (natural language processing) works out what the question means; the assistant looks up the answer, such as the weather data, and replies with speech or text.",
+    "working": "1 mark: speech is converted into text or commands. 1 mark: the meaning is interpreted and the answer is found from data."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-027",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A bank's computer system checks card transactions. It has been trained on millions of past transactions, some of which were fraud, and it flags new transactions that look similar to past fraud.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the type of AI that learns from past data in this way.",
+    "marks": 1,
+    "answer": "Machine learning",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why this system may flag a genuine transaction as fraudulent.",
+    "marks": 2,
+    "answer": "The system relies on patterns in past data; a genuine but unusual purchase, such as a large payment in a new city, can match a fraud pattern, so it is flagged as a false alarm.",
+    "working": "1 mark: the system uses patterns from past data. 1 mark: an unusual genuine transaction can match the pattern (false positive)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-028",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A farm in rural Punjab needs a replacement plastic part for a water pump. The manufacturer no longer sells the part. A local workshop has a 3D printer that can make the part from a digital design.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two benefits to the farm of making the part with a 3D printer.",
+    "marks": 4,
+    "answer": "Any two with a description: the part can be made locally, so there is no delivery wait; a part no longer sold can still be made from a design; it is cheaper than buying a new pump; the design can be changed to improve the part; only the plastic needed is used.",
+    "working": "2 marks for each benefit: 1 mark for the benefit and 1 mark for an explanation linked to the farm."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-029",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "An electricity company fits smart meters that send a reading to a central computer every 15 minutes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of readings one meter sends in one day.",
+    "marks": 1,
+    "answer": "96 readings",
+    "working": "1 mark: 24 × 60 ÷ 15 = 96."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the number of readings one meter sends in one week (7 days).",
+    "marks": 1,
+    "answer": "672 readings",
+    "working": "1 mark: 96 × 7 = 672."
+   },
+   {
+    "label": "c",
+    "text": "Give one benefit of smart meters to the electricity company and one benefit to a customer.",
+    "marks": 2,
+    "answer": "Company: readings are sent automatically so staff do not need to visit to read the meter; faults and high demand can be spotted quickly. Customer: the bill is based on actual use, so estimated bills are avoided; the customer can see how much electricity is used.",
+    "working": "1 mark for a valid benefit to the company and 1 mark for a valid benefit to the customer."
+   }
+  ],
+  "check": "24*60/15 == 96 and 96*7 == 672",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-030",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A museum in Karachi uses two new technologies. In gallery A, visitors look at a tablet that shows a 3D model of an extinct animal on top of the real floor. In gallery B, visitors wear a headset that shows a completely computer-generated room.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify which gallery uses augmented reality and which uses virtual reality.",
+    "marks": 2,
+    "answer": "Gallery A uses augmented reality. Gallery B uses virtual reality.",
+    "working": "1 mark for each correct identification."
+   },
+   {
+    "label": "b",
+    "text": "Give one drawback of augmented reality for the museum.",
+    "marks": 1,
+    "answer": "Any one: visitors need a suitable tablet or phone; the overlay is hard to see in bright light; the software and 3D models cost money to develop; the overlay may distract from the real exhibits.",
+    "working": "1 mark for a valid drawback."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-031",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A warehouse in Lahore uses robots to carry shelves of goods to packing staff. Each robot follows a route using sensors and is controlled by a central computer.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two ways in which the robots are controlled.",
+    "marks": 2,
+    "answer": "Any two: a central computer sends instructions to the robots over a wireless network; sensors detect obstacles and positions so the robots can avoid collisions; each robot's microprocessor follows a programmed route; markers or GPS-type positioning on the floor tell the robot where it is.",
+    "working": "1 mark each for a valid method of control, with a description of how it works."
+   },
+   {
+    "label": "b",
+    "text": "Give one risk to workers of this system and one way of reducing it.",
+    "marks": 2,
+    "answer": "Risk: a robot may collide with a worker. Reduction: use sensors that stop the robot when a person is near, mark out or fence off the robot routes, or use warning lights.",
+    "working": "1 mark for a valid risk and 1 mark for a matching way to reduce it."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-032",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A hospital in Karachi plans to use AI software to examine chest X-ray images and flag possible signs of disease for a doctor to check.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the benefits and risks of using AI to examine chest X-ray images before a doctor checks them.",
+    "marks": 6,
+    "answer": "Benefits: results can come faster so patients are seen sooner; the AI checks every image consistently and does not tire; it can help where there are few specialists; it may spot patterns that are hard for humans to see. Risks: the AI can make mistakes (false alarms or missed signs) that delay treatment; its accuracy depends on the training data, which may not represent all patients; doctors may rely on it too much; patient data must be kept private and secure. Conclusion: the AI should support the doctor, who must make the final decision.",
+    "working": "Up to 6 marks: 2 marks for clear benefits with reasons, 2 marks for clear risks with reasons, and 2 marks for a balanced conclusion that keeps a human in the final decision."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-033",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A greenhouse sensor records the temperature every 10 minutes, from the reading at 00:00 to the reading at 23:50 on the same day. Each reading is stored as 16 bytes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of readings recorded in one day.",
+    "marks": 2,
+    "answer": "144 readings",
+    "working": "M1: 24 × 60 ÷ 10 = 144. A1: 144 readings."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the total size in bytes of one day's readings.",
+    "marks": 1,
+    "answer": "2304 bytes",
+    "working": "1 mark: 144 × 16 = 2304."
+   },
+   {
+    "label": "c",
+    "text": "Convert the total to kilobytes (1 KB = 1024 bytes). Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "2.25 KB",
+    "working": "M1: 2304 ÷ 1024. A1: 2.25 KB."
+   }
+  ],
+  "check": "24*60/10 == 144 and 144*16 == 2304 and round(2304/1024, 2) == 2.25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-034",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Emerging technologies",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A car company is developing a car that can drive itself on motorways in Pakistan.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the car needs several different sensors and AI, rather than only a camera.",
+    "marks": 5,
+    "answer": "A camera alone is affected by darkness, glare, dust and rain; radar or LIDAR measures the distance and speed of other vehicles even in poor visibility; ultrasonic sensors detect objects very close to the car; GPS gives the car's position; AI combines and interprets the data to recognise lanes, signs and vehicles and to decide what to do; several sensors give a backup if one fails.",
+    "working": "Up to 5 marks, 1 mark each for: a limitation of cameras; a named sensor (radar, LIDAR, ultrasonic or GPS) with its use; AI interprets the combined sensor data to make decisions; the sensors give backup or redundancy if one fails; a clear link to safe driving on motorways."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-035",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A student says: 'My school's computer is slow, so the software must be faulty.'",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two hardware components that could limit the speed of the computer.",
+    "marks": 2,
+    "answer": "Any two: too little RAM; a slow or old processor; a slow hard disk instead of an SSD; a weak graphics card for graphics work.",
+    "working": "1 mark each for a valid hardware component that limits speed."
+   },
+   {
+    "label": "b",
+    "text": "Name the type of software that can remove unused files to free up storage and speed up the computer.",
+    "marks": 1,
+    "answer": "Utility software (for example a disk clean-up utility)",
+    "working": "1 mark. Accept 'disk clean-up utility' or 'utility program'."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-036",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A student connects a new printer to a computer. The printer does not work until the device driver is installed.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the purpose of a device driver.",
+    "marks": 2,
+    "answer": "A device driver is system software that allows the operating system and application programs to communicate with and control a particular hardware device, such as a printer.",
+    "working": "1 mark: software that lets the OS communicate with the device. 1 mark: it controls the device or translates instructions for it."
+   },
+   {
+    "label": "b",
+    "text": "State the type of software that a computer needs to start up and manage the hardware and applications.",
+    "marks": 1,
+    "answer": "Operating system (system software)",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-037",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A computer user wants to protect the computer and keep its files organised.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name two utility programs that help protect the computer or keep its files organised, and give one function of each.",
+    "marks": 4,
+    "answer": "Any two with a function: anti-virus software scans for and removes malware; a backup utility copies files so they can be restored after loss; a disk defragmenter reorganises the files on a hard disk; a file compression utility reduces file sizes.",
+    "working": "2 marks for each: 1 mark for naming a valid utility and 1 mark for its correct function."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-038",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A tablet has an operating system, a note-taking app and a game installed.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State whether the operating system is system software or application software.",
+    "marks": 1,
+    "answer": "System software",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "State the type of software used for the note-taking app and for the game, and give one reason why they are the same type.",
+    "marks": 2,
+    "answer": "Application software for both. Reason: each is a program that helps the user carry out a task (writing notes or playing), rather than managing the hardware.",
+    "working": "1 mark for application software. 1 mark for a valid reason."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-039",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A programmer writes a program in a high-level language.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the difference between a compiler and an interpreter.",
+    "marks": 4,
+    "answer": "A compiler translates the whole program into machine code before it is run and produces a separate executable file; an interpreter translates and runs the program one line or statement at a time; a compiler reports errors after translating the whole program; an interpreter stops at the first line with an error.",
+    "working": "1 mark each for any four: compiler translates the whole program before running; produces an executable or machine-code file; interpreter translates and runs one line at a time; compiler reports errors together; interpreter stops at the first error."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-040",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A small business in Karachi uses anti-virus software on all of its computers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two reasons why the business should use anti-virus software.",
+    "marks": 2,
+    "answer": "Any two: to detect and remove malware and viruses; to protect customer and financial data; to stop malware from stopping the computers from working.",
+    "working": "1 mark each for a valid reason."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the anti-virus software must be updated regularly.",
+    "marks": 1,
+    "answer": "New viruses and malware appear all the time, so the software needs the latest updates to recognise and stop them.",
+    "working": "1 mark: new threats appear, so updates are needed to detect them."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-041",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "The hard disk of a laptop is almost full and the laptop has become slow. The user does not want to delete any personal files.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two steps the user can take with utility software to free space or improve performance.",
+    "marks": 4,
+    "answer": "Any two with a description: use a disk clean-up utility to delete temporary files and empty the recycle bin; use a disk defragmenter to reorganise fragmented files on the hard disk so they are read faster; use a file compression utility to shrink rarely used files; use an uninstall utility to remove programs that are not needed.",
+    "working": "2 marks for each step: 1 mark for naming the utility or action and 1 mark for describing how it helps."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-042",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A home computer runs an operating system, a web browser, a printer driver and a music player.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State which of these items are system software and which are application software.",
+    "marks": 2,
+    "answer": "System software: the operating system and the printer driver. Application software: the web browser and the music player.",
+    "working": "1 mark for both system items named correctly. 1 mark for both application items named correctly."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the printer driver is system software and not application software.",
+    "marks": 2,
+    "answer": "The driver controls and communicates with a hardware device and works with the operating system; it does not carry out a task for the user in the way that an application does.",
+    "working": "1 mark: it controls or communicates with hardware. 1 mark: it works with the OS and is not used directly to do a user task."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-043",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A secondary school in Hyderabad must choose application software for its computer lab. Option 1 is free application software. Option 2 is paid software with a licence fee of Rs 40 000 per year for 200 computers. The school has a small budget.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the advantages and disadvantages of each option for the school.",
+    "marks": 6,
+    "answer": "Free software: no or low licence fee, so it saves money; but support, training and updates may be limited, and it may have fewer features. Paid software: a licence fee is needed, but support, training, regular updates and more features are usually included; the licence may restrict how many computers can use it. Conclusion: the school should choose based on its budget and whether its staff can support the software, e.g. free software if money is very tight and staff can manage it.",
+    "working": "Up to 6 marks: 2 marks for clear advantages and disadvantages of the free option linked to the school, 2 marks for the same for the paid option, and 2 marks for a justified conclusion based on the budget and support."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-044",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A school's computer lab has ten computers that are seven years old. A new version of a photo-editing application can be installed on them, but it will not run properly.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the new software will not run on these computers, referring to the operating system and the hardware.",
+    "marks": 4,
+    "answer": "The application has minimum system requirements; the old computers may not have enough RAM or a fast enough processor; the operating system on them may be too old for the software's requirements; the graphics hardware or drivers may not support the features the software needs, so it cannot run correctly.",
+    "working": "1 mark each for any four: minimum requirements not met; not enough RAM or processor speed; the OS version is too old or not supported; the graphics hardware or drivers do not support the software."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-045",
+  "topic": "Types and components of computer systems",
+  "subtopic": "Hardware and software",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A company uses a database application, a spreadsheet application and a utility that backs up its files every night.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the company should use a utility that backs up its data automatically, and why the backups should be kept in a different location from the computers.",
+    "marks": 5,
+    "answer": "Automatic backup means backups are not forgotten, so little work is lost if a fault happens; a separate location protects the backups from fire, flood, theft or malware on the main computers; a backup kept in another building is still usable if the main site is destroyed; regular test restores check the backups actually work.",
+    "working": "Up to 5 marks, 1 mark each for: automatic backup is reliable and regular; backup is up to date so little data is lost; separate location protects against fire, flood or theft; backups are not infected by malware on the main computers; backups must be checked or restorable."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-046",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A photograph in a school newsletter is 1200 pixels wide and 800 pixels high.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the aspect ratio of the image in the form width : height, in its simplest form.",
+    "marks": 1,
+    "answer": "3 : 2",
+    "working": "1 mark: 1200 : 800 = 3 : 2 (divide both by 400)."
+   },
+   {
+    "label": "b",
+    "text": "The photograph is resized to 600 pixels wide, keeping its aspect ratio. State its new height in pixels.",
+    "marks": 1,
+    "answer": "400 pixels",
+    "working": "1 mark: 800 × 600 ÷ 1200 = 400."
+   }
+  ],
+  "check": "1200/400 == 3 and 800/400 == 2 and 800*600/1200 == 400",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-047",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A square profile picture in a club's member list is 500 pixels wide and 500 pixels high. It is resized to 200 pixels wide with the aspect ratio maintained.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the new height of the picture in pixels.",
+    "marks": 1,
+    "answer": "200 pixels",
+    "working": "1 mark. The picture is square, so the aspect ratio is 1 : 1 and the height must equal the width."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the picture keeps its shape when it is resized in this way.",
+    "marks": 1,
+    "answer": "The aspect ratio is kept, so the width and height are scaled by the same amount.",
+    "working": "1 mark for stating that width and height are reduced by the same proportion (or that the aspect ratio is maintained)."
+   }
+  ],
+  "check": "500*200/500 == 200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-048",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A photograph of a school sports day has a stranger standing at the far right edge of the picture.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the steps to remove the person at the far right edge of the photograph using the crop tool, so that everyone else stays in the picture.",
+    "marks": 3,
+    "answer": "Select the image; choose the crop tool; drag the right-hand crop handle inwards so that the stranger is outside the crop box but everyone else stays inside; apply the crop and check the picture.",
+    "working": "1 mark for selecting the image and opening the crop tool. 1 mark for dragging the correct edge inwards so the stranger is excluded. 1 mark for applying the crop and checking the result."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-049",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A landscape photograph is 1600 pixels wide and 900 pixels high. It is rotated through 90° anticlockwise so that it becomes a portrait picture.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the new width and height of the picture.",
+    "marks": 2,
+    "answer": "Width 900 pixels, height 1600 pixels",
+    "working": "1 mark for width 900. 1 mark for height 1600. Swapping the two values is the effect of a 90° rotation."
+   }
+  ],
+  "check": "1600*900/1600 == 900 and 1600*900/900 == 1600",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-050",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by the resolution of a digital image.",
+    "marks": 2,
+    "answer": "The number of pixels (or dots) used to make up the image. More pixels give more detail.",
+    "working": "1 mark: the number of pixels or dots in the image. 1 mark: more pixels give more detail or a sharper image."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-051",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the type of image that is more suitable for a company logo that must be enlarged to a banner three metres wide without losing quality. Explain why.",
+    "marks": 2,
+    "answer": "Vector image. It is made of mathematical shapes, so it can be scaled to any size without losing quality.",
+    "working": "1 mark for vector. 1 mark for the explanation: stored as shapes or paths, not a fixed grid of pixels."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-052",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the generic file format that stores a short animation of several frames that repeats on a web page, and state one limitation of this format.",
+    "marks": 2,
+    "answer": "GIF. Limitation: it supports only a limited palette of 256 colours, so photographs may lose quality.",
+    "working": "1 mark for GIF. 1 mark for a valid limitation (256 colours or limited palette; not good for detailed photographs)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-053",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the steps to reduce the brightness of a photograph in a photo editor.",
+    "marks": 3,
+    "answer": "Select the image; open the brightness and contrast (or brightness) adjustment; drag the brightness control to the left or enter a lower value; preview the result and apply the change.",
+    "working": "1 mark for opening the adjustment tool with the image selected. 1 mark for lowering the brightness setting. 1 mark for previewing and applying."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-054",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the number of different colours that can be shown with a colour depth of 2 bits.",
+    "marks": 1,
+    "answer": "4",
+    "working": "1 mark: 2 bits gives 2² = 4 colours."
+   },
+   {
+    "label": "b",
+    "text": "State the number of different colours that can be shown with a colour depth of 4 bits.",
+    "marks": 1,
+    "answer": "16",
+    "working": "1 mark: 4 bits gives 2⁴ = 16 colours."
+   }
+  ],
+  "check": "2**2 == 4 and 2**4 == 16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-055",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the enlarged bitmap image looks blocky when it is made much bigger.",
+    "marks": 2,
+    "answer": "A bitmap has a fixed number of pixels; when it is enlarged, each pixel becomes a larger block of one colour, so the individual squares are visible and no new detail is created.",
+    "working": "1 mark: pixels become larger blocks. 1 mark: a fixed number of pixels, so no new detail can be created."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-056",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "An uncompressed image is 1024 pixels wide and 768 pixels high. Its colour depth is 16 bits per pixel.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the file size in bytes of the uncompressed image.",
+    "marks": 2,
+    "answer": "1 572 864 bytes",
+    "working": "M1: 1024 × 768 × 16 bits. A1: 1 572 864 bytes (divide by 8 bits per byte)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the file size in kilobytes (1 KB = 1024 bytes).",
+    "marks": 1,
+    "answer": "1536 KB",
+    "working": "1 mark: 1 572 864 ÷ 1024 = 1536 KB."
+   }
+  ],
+  "check": "1024*768*16/8 == 1572864 and 1572864/1024 == 1536",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-057",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A digital photograph is 3000 pixels wide and 2000 pixels high. It is printed at 300 pixels per inch. Use 1 inch = 2.54 cm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the printed width of the photograph in centimetres. Give your answer to 1 decimal place.",
+    "marks": 3,
+    "answer": "25.4 cm",
+    "working": "M1: 3000 ÷ 300 = 10 inches. M1: 10 × 2.54. A1: 25.4 cm."
+   }
+  ],
+  "check": "abs(3000/300*2.54 - 25.4) < 0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-058",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "An image 1000 pixels wide and 750 pixels high is cropped by removing 100 pixels from the left, 100 pixels from the right, 50 pixels from the top and 50 pixels from the bottom.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the new width and height of the image after cropping, in pixels.",
+    "marks": 2,
+    "answer": "Width 800 pixels, height 650 pixels",
+    "working": "1 mark for width: 1000 − 100 − 100 = 800. 1 mark for height: 750 − 50 − 50 = 650."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage of the original picture area that the crop removes. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "Original area = 750 000 pixels; new area = 520 000 pixels; removed = 230 000 pixels, which is 30.7% of the original area.",
+    "working": "M1: new area 800 × 650 = 520 000 pixels, removed 750 000 − 520 000 = 230 000. A1: 230 000 ÷ 750 000 × 100 = 30.7% (1 d.p.)."
+   }
+  ],
+  "check": "1000-100-100 == 800 and 750-50-50 == 650 and round((1000*750-800*650)/(1000*750)*100, 1) == 30.7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-059",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A photograph of 2000 × 1500 pixels is first cropped to 1600 × 1200 pixels. It is then resized so that its width is 400 pixels, keeping the aspect ratio.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the final height of the image in pixels after cropping and resizing.",
+    "marks": 3,
+    "answer": "300 pixels",
+    "working": "M1: cropped image is 1600 × 1200 (aspect ratio 4 : 3). M1: scale factor 400 ÷ 1600 = 0.25. A1: height 1200 × 0.25 = 300 pixels."
+   }
+  ],
+  "check": "1200*400/1600 == 300",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-060",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A student repeatedly edits and saves a photograph as a JPEG file.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why quality is lost each time the photograph is saved again as a JPEG.",
+    "marks": 2,
+    "answer": "JPEG uses lossy compression, which removes some image data each time it is saved; the removed data cannot be recovered.",
+    "working": "1 mark: JPEG is lossy compression. 1 mark: data is discarded each time and cannot be restored."
+   },
+   {
+    "label": "b",
+    "text": "Name a lossless file format that can be used instead to avoid this loss.",
+    "marks": 1,
+    "answer": "PNG (or TIFF)",
+    "working": "1 mark for PNG or TIFF."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-061",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "An uncompressed image is 500 pixels wide and 400 pixels high. It has a colour depth of 8 bits per pixel.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the file size in kilobytes (1 KB = 1024 bytes). Give your answer to 2 decimal places.",
+    "marks": 3,
+    "answer": "195.31 KB",
+    "working": "M1: 500 × 400 × 8 = 1 600 000 bits. M1: 1 600 000 ÷ 8 = 200 000 bytes. A1: 200 000 ÷ 1024 = 195.31 KB."
+   }
+  ],
+  "check": "round(500*400*8/8/1024, 2) == 195.31",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-062",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write the HTML code to display the image sunset.jpg 480 pixels wide and 320 pixels high, with the alternative text 'Sunset over Gwadar'.",
+    "marks": 3,
+    "answer": "<img src=\"sunset.jpg\" width=\"480\" height=\"320\" alt=\"Sunset over Gwadar\">",
+    "working": "1 mark: img element with src=\"sunset.jpg\". 1 mark: width=\"480\" and height=\"320\". 1 mark: alt attribute with the given text."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-063",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the image edit that reduces the number of colours in a poster image and describe its effect on the file size.",
+    "marks": 3,
+    "answer": "Reduce the colour depth (use fewer bits per pixel or a smaller colour palette). The file size becomes smaller because fewer bits are stored for each pixel.",
+    "working": "1 mark for reducing colour depth or the number of colours. 1 mark for fewer bits per pixel. 1 mark for the smaller file size as a result."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-064",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what happens to the photograph when it is converted to greyscale.",
+    "marks": 1,
+    "answer": "Colour information is removed, so each pixel shows only a shade of grey between black and white.",
+    "working": "1 mark for removing colour so only shades of grey remain."
+   },
+   {
+    "label": "b",
+    "text": "Give one reason why a school might convert a photograph to greyscale.",
+    "marks": 1,
+    "answer": "Any one: it reduces the file size; printing in black and white uses less ink; the photograph may suit a formal or historical look.",
+    "working": "1 mark for a valid reason."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-065",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "An image is 1280 pixels wide and 720 pixels high. It is to be displayed 400 pixels wide on a web page.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the new height of the image in pixels, keeping the aspect ratio.",
+    "marks": 2,
+    "answer": "225 pixels",
+    "working": "M1: 720 × 400 ÷ 1280 (or scale factor 400 ÷ 1280 = 0.3125). A1: 225 pixels."
+   }
+  ],
+  "check": "720*400/1280 == 225",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-066",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A 24-bit uncompressed image is 3840 pixels wide and 2160 pixels high. It is compressed so that the file is one tenth of its uncompressed size.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the compressed file size in MB (1 MB = 1 048 576 bytes). Give your answer to 2 decimal places.",
+    "marks": 4,
+    "answer": "2.37 MB",
+    "working": "M1: 3840 × 2160 × 24 ÷ 8 = 24 883 200 bytes uncompressed. M1: ÷ 10 = 2 488 320 bytes. M1: ÷ 1 048 576. A1: 2.37 MB."
+   }
+  ],
+  "check": "round(3840*2160*24/8/10/1048576, 2) == 2.37",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-067",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "An image is 1200 pixels wide and 900 pixels high. It must fit inside a box that is 500 pixels wide and 400 pixels high, without distorting the picture.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the largest width and height, in whole pixels, that the image can have so that it fits inside the box and keeps its aspect ratio.",
+    "marks": 3,
+    "answer": "Width 500 pixels, height 375 pixels",
+    "working": "M1: scale to the box width: 500 ÷ 1200 = 0.4167; scale to the box height: 400 ÷ 900 = 0.4444. M1: use the smaller scale factor, 0.4167. A1: 500 × 375 pixels."
+   }
+  ],
+  "check": "round(900*500/1200) == 375 and min(500/1200, 400/900) == 500/1200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-068",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A 16-bit colour image is 2000 pixels wide and 1000 pixels high. The device has 3 MB of free storage.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the uncompressed file size in bytes.",
+    "marks": 2,
+    "answer": "4 000 000 bytes",
+    "working": "M1: 2000 × 1000 × 16 ÷ 8. A1: 4 000 000 bytes."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the file size in MB (1 MB = 1 048 576 bytes) and state whether the image can be stored in the 3 MB of free space without compression. Show your working.",
+    "marks": 3,
+    "answer": "3.81 MB, which is larger than 3 MB, so it cannot be stored uncompressed.",
+    "working": "M1: 4 000 000 ÷ 1 048 576 = 3.81 MB. M1: compare with 3 MB. A1: it cannot be stored uncompressed; it must be compressed or resized."
+   }
+  ],
+  "check": "2000*1000*16/8 == 4000000 and round(4000000/1048576, 2) == 3.81 and 4000000/1048576 > 3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-069",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A greeting card is to be printed 10 cm wide and 15 cm high at 200 pixels per inch. Use 1 inch = 2.54 cm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of pixels needed across and down the image. Round to the nearest whole pixel.",
+    "marks": 4,
+    "answer": "787 pixels across and 1181 pixels down",
+    "working": "M1: 10 cm ÷ 2.54 = 3.937 inches; × 200 = 787.4, so 787. M1: 15 cm ÷ 2.54 = 5.906 inches; × 200 = 1181.1, so 1181. A1 and A1 for each correct value."
+   }
+  ],
+  "check": "round(10/2.54*200) == 787 and round(15/2.54*200) == 1181",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-070",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A school in Multan is putting hundreds of photographs of its events on its website. The camera files are very large, and the school wants the gallery to load quickly on a phone.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss how a school should prepare and store its photographs so that the gallery loads quickly on the website but the images still look good.",
+    "marks": 6,
+    "answer": "Sample points: resize each image to the display size needed (not the full camera size); use JPEG for photos and compress to a sensible quality level; keep the aspect ratio; crop unwanted edges; keep the original full-size photos in a separate archive for printing; test the page to check load speed; avoid compressing a photo so much that it looks blocky. Trade-offs: a lower resolution or higher compression gives smaller files and faster loading but less detail; keeping high resolution gives good quality but slower loading and more storage space.",
+    "working": "Up to 6 marks: 2 marks for preparing the images (resize, crop, aspect ratio); 2 marks for compression and file format with reasons; 2 marks for a balanced discussion of the trade-off between quality, file size and loading speed, with a link to the website."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-071",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A logo for a school website is a dark-blue shape on a plain white background. It must sit on a coloured page with no white box around it.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the steps to make the white background of the logo transparent, and state the file format to save the logo in.",
+    "marks": 4,
+    "answer": "Select the background area with the select-by-colour (magic wand) tool or use a background removal tool; delete the selected background so it shows as a checkerboard; check the edges of the logo for any white halo and tidy them; save as a PNG file, which supports transparency.",
+    "working": "1 mark: selecting the background (magic wand or select by colour). 1 mark: deleting it so it becomes transparent. 1 mark: checking and tidying the edges. 1 mark: saving as PNG (not JPEG, which has no transparency)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-072",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A 1920 × 1080 pixel image is placed on a 1024 × 768 pixel slide. The image must fit the full width of the slide and keep its aspect ratio.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the width and height the image occupies on the slide, in pixels, keeping the aspect ratio.",
+    "marks": 3,
+    "answer": "1024 pixels wide and 576 pixels high",
+    "working": "M1: scale factor = 1024 ÷ 1920 = 0.5333 (height 768 ÷ 1080 = 0.7111, which is larger, so the width is the limit). M1: 1080 × 0.5333 = 576. A1: 1024 × 576."
+   }
+  ],
+  "check": "1920*(1024/1920) == 1024 and round(1080*1024/1920) == 576",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-073",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "An uncompressed image is 1000 × 1000 pixels with 8-bit colour depth. The colour depth is reduced to 4 bits per pixel.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the new file size in bytes and the percentage reduction in file size compared with the original.",
+    "marks": 4,
+    "answer": "New file size 500 000 bytes; the file is 50% smaller.",
+    "working": "M1: original size 1000 × 1000 × 8 ÷ 8 = 1 000 000 bytes. M1: new size 1000 × 1000 × 4 ÷ 8 = 500 000 bytes. M1: reduction 500 000 ÷ 1 000 000 × 100. A1: 50%."
+   }
+  ],
+  "check": "1000*1000*4/8 == 500000 and 1000*1000*8/8 == 1000000 and (1000000-500000)/1000000*100 == 50",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-074",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a CSS rule that sets the width of every image in the class 'gallery' to 300 pixels and keeps the aspect ratio by setting the height to adjust automatically.",
+    "marks": 2,
+    "answer": ".gallery { width: 300px; height: auto; }",
+    "working": "1 mark for the selector .gallery (or img.gallery). 1 mark for width: 300px and height: auto."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-075",
+  "topic": "Images",
+  "subtopic": "Editing images",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A photographer saves 200 uncompressed photographs. Each photograph is 4000 pixels wide and 3000 pixels high, with 24-bit colour depth.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total storage needed for 200 photographs, in GB (1 GB = 1 073 741 824 bytes). Give your answer to 2 decimal places.",
+    "marks": 4,
+    "answer": "6.71 GB",
+    "working": "M1: 4000 × 3000 pixels × 3 bytes (24-bit) = 36 000 000 bytes per photo. M1: × 200 = 7 200 000 000 bytes. M1: ÷ 1 073 741 824. A1: 6.71 GB."
+   }
+  ],
+  "check": "round(4000*3000*3*200/1073741824, 2) == 6.71",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-076",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A weather log in Quetta records the daily maximum temperature (°C) in cells B2 to B31 for one month.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in B33 that displays the highest temperature in B2:B31.",
+    "marks": 1,
+    "answer": "=MAX(B2:B31)",
+    "working": "1 mark for =MAX(B2:B31)."
+   },
+   {
+    "label": "b",
+    "text": "Write a formula in B34 that displays the lowest temperature in B2:B31.",
+    "marks": 1,
+    "answer": "=MIN(B2:B31)",
+    "working": "1 mark for =MIN(B2:B31)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-077",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "Cell C5 contains the value 7.849.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the value displayed by =ROUND(C5,1).",
+    "marks": 1,
+    "answer": "7.8",
+    "working": "1 mark: rounds 7.849 to 1 decimal place."
+   },
+   {
+    "label": "b",
+    "text": "State the value displayed by =INT(C5).",
+    "marks": 1,
+    "answer": "7",
+    "working": "1 mark: INT removes the decimal part."
+   },
+   {
+    "label": "c",
+    "text": "State the value displayed by =ROUNDUP(C5,0).",
+    "marks": 1,
+    "answer": "8",
+    "working": "1 mark: rounds away from zero to a whole number."
+   }
+  ],
+  "check": "round(7.849, 1) == 7.8 and math.floor(7.849) == 7 and math.ceil(7.849) == 8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-078",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "Cell B2 contains 25 and cell C2 contains the text 'n/a'. Cell D2 contains the formula =B2+C2 and shows #VALUE!.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the cell shows #VALUE!.",
+    "marks": 1,
+    "answer": "The formula tries to add a number to text ('n/a'), which is not allowed.",
+    "working": "1 mark: the cell contains text where a number is needed."
+   },
+   {
+    "label": "b",
+    "text": "Give one way to make the formula ignore the text so that no error is shown.",
+    "marks": 1,
+    "answer": "Use =SUM(B2,C2) (SUM ignores text), or replace the text with a number or leave the cell blank, or use IF(ISNUMBER(C2),B2+C2,0).",
+    "working": "1 mark for a valid method. Accept any suitable formula that ignores or handles the text."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-079",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A school attendance sheet has the words Present or Absent in cells D2 to D40, one for each pupil.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in D42 that counts the number of cells in D2:D40 that contain the word Absent.",
+    "marks": 2,
+    "answer": "=COUNTIF(D2:D40,\"Absent\")",
+    "working": "1 mark: COUNTIF function. 1 mark: the range D2:D40 and the criterion \"Absent\" in quotation marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-080",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "Column A contains whole numbers. A teacher wants to check whether each number is even or odd.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in B2 that displays Even if the number in A2 is even and Odd if it is odd.",
+    "marks": 2,
+    "answer": "=IF(MOD(A2,2)=0,\"Even\",\"Odd\")",
+    "working": "1 mark: IF with a test on the remainder. 1 mark: MOD(A2,2)=0 with the correct text outputs."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-081",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "Cell B2 contains the reading 42 and cell C2 contains the reading 57.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in D2 that displays the difference between B2 and C2 as a positive number, whichever is larger.",
+    "marks": 2,
+    "answer": "=ABS(B2-C2)",
+    "working": "1 mark: subtracts the two values. 1 mark: ABS gives a positive result."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-082",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A shop's stock sheet has the stock level for each item in column D.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in E2 that displays Reorder if the stock in D2 is less than 20, and OK otherwise.",
+    "marks": 2,
+    "answer": "=IF(D2<20,\"Reorder\",\"OK\")",
+    "working": "1 mark: IF with test D2<20. 1 mark: correct text in quotes for both outcomes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-083",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "Cell A1 contains 5, cell A2 contains the text 'ten' and cell A3 contains 7.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the value displayed by =SUM(A1:A3).",
+    "marks": 1,
+    "answer": "12",
+    "working": "1 mark: SUM ignores the text in A2, so 5 + 7 = 12."
+   },
+   {
+    "label": "b",
+    "text": "State the value displayed by =AVERAGE(A1:A3).",
+    "marks": 1,
+    "answer": "6",
+    "working": "1 mark: AVERAGE ignores the text, so (5 + 7) ÷ 2 = 6."
+   }
+  ],
+  "check": "5+7 == 12 and (5+7)/2 == 6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-084",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "Cells B2 to B6 contain 12, 7, a blank cell, 19 and 4 (in that order).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the value displayed by =MIN(B2:B6).",
+    "marks": 1,
+    "answer": "4",
+    "working": "1 mark: the blank cell is ignored, so the smallest number is 4."
+   }
+  ],
+  "check": "min(12, 7, 19, 4) == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-085",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what the error #NAME? means and give the most likely cause in this formula: =SUMM(B2:B8).",
+    "marks": 2,
+    "answer": "#NAME? means the spreadsheet does not recognise a name in the formula; the most likely cause is the misspelt function name (SUMM instead of SUM).",
+    "working": "1 mark: the name is not recognised. 1 mark: the misspelt function name SUMM (or a missing quotation mark on text) and the correction to SUM."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-086",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a nested IF formula for C2 that displays Long if the number of pages in B2 is more than 500, Medium if it is more than 200, and Short otherwise.",
+    "marks": 3,
+    "answer": "=IF(B2>500,\"Long\",IF(B2>200,\"Medium\",\"Short\"))",
+    "working": "1 mark: the first IF tests more than 500 pages. 1 mark: the second IF tests more than 200 inside the false branch. 1 mark: the final 'Short' text and correct quotation marks and brackets."
+   },
+   {
+    "label": "b",
+    "text": "State the label shown for books of 650, 500, 201 and 120 pages.",
+    "marks": 2,
+    "answer": "Long, Medium, Medium, Short",
+    "working": "1 mark for 650 (Long) and 500 (Medium). 1 mark for 201 (Medium) and 120 (Short)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "stem": "A school library records the number of pages of each book in cell B2."
+ },
+ {
+  "id": "0417-h4-087",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A courier charges Rs 150 per kg for parcels up to 5 kg, and Rs 100 for each extra kg above 5 kg. The weight of a parcel in kg is in cell B2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in C2 that calculates the shipping charge for the weight in B2.",
+    "marks": 3,
+    "answer": "=IF(B2<=5,B2*150,5*150+(B2-5)*100)",
+    "working": "1 mark: IF on weight up to 5 kg. 1 mark: Rs 150 × weight for up to 5 kg. 1 mark: 750 plus Rs 100 for each kg above 5."
+   },
+   {
+    "label": "b",
+    "text": "State the charge for a parcel of 3 kg and for a parcel of 8 kg.",
+    "marks": 2,
+    "answer": "Rs 450 for 3 kg; Rs 1050 for 8 kg",
+    "working": "1 mark for 3 kg: 3 × 150 = 450. 1 mark for 8 kg: 750 + 3 × 100 = 1050."
+   }
+  ],
+  "check": "3*150 == 450 and 5*150 + (8-5)*100 == 1050",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-088",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in D2 that displays Pass if the mark in B2 is at least 40 AND the attendance in C2 is at least 75; otherwise it displays Retake.",
+    "marks": 2,
+    "answer": "=IF(AND(B2>=40,C2>=75),\"Pass\",\"Retake\")",
+    "working": "1 mark: AND with both tests. 1 mark: correct outputs in quotation marks."
+   },
+   {
+    "label": "b",
+    "text": "State the output for each of these pairs (mark, attendance): (45, 80); (50, 70); (35, 90).",
+    "marks": 2,
+    "answer": "Pass; Retake; Retake",
+    "working": "1 mark for the first pair (Pass). 1 mark for the other two (Retake)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-089",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in D2 that displays Free if the age in B2 is 12 or under, or if the ticket type in C2 is Student; otherwise it displays Pay.",
+    "marks": 2,
+    "answer": "=IF(OR(B2<=12,C2=\"Student\"),\"Free\",\"Pay\")",
+    "working": "1 mark: OR with both conditions. 1 mark: the text in quotes and the IF structure."
+   },
+   {
+    "label": "b",
+    "text": "State the output in D2 for these rows: age 9 and type Adult; age 30 and type Student; age 20 and type Adult.",
+    "marks": 1,
+    "answer": "Free; Free; Pay",
+    "working": "1 mark for all three correct."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-090",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "Cell A2 contains a total of minutes, such as 135, for a class project.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in C2 to display the whole number of hours, and a formula in D2 to display the minutes left over, for the number of minutes in A2.",
+    "marks": 3,
+    "answer": "C2: =INT(A2/60); D2: =MOD(A2,60)",
+    "working": "1 mark: INT(A2/60) for whole hours. 1 mark: MOD(A2,60) for the remaining minutes. 1 mark: correct cell references with no decimal part."
+   },
+   {
+    "label": "b",
+    "text": "State the hours and minutes shown when A2 contains 135.",
+    "marks": 1,
+    "answer": "2 hours and 15 minutes",
+    "working": "1 mark: 135 ÷ 60 = 2 remainder 15."
+   }
+  ],
+  "check": "math.floor(135/60) == 2 and 135 % 60 == 15",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-091",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A bakery packs biscuits into boxes. The number of biscuits is in cell B2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in B3 that displays the number of boxes needed for the items in B2, if each box holds 12 items. The number of boxes must be a whole number that is rounded up.",
+    "marks": 2,
+    "answer": "=ROUNDUP(B2/12,0)",
+    "working": "1 mark: divides the number of items by 12. 1 mark: ROUNDUP with 0 decimal places."
+   },
+   {
+    "label": "b",
+    "text": "State the number of boxes displayed when B2 contains 100.",
+    "marks": 1,
+    "answer": "9",
+    "working": "1 mark: 100 ÷ 12 = 8.33, rounded up to 9."
+   }
+  ],
+  "check": "math.ceil(100/12) == 9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-092",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A bakery's sales sheet lists the product name in A2 to A60 and the sales value (Rs) for each row in B2 to B60.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula that totals the sales (Rs) for the product Cake only.",
+    "marks": 2,
+    "answer": "=SUMIF(A2:A60,\"Cake\",B2:B60)",
+    "working": "1 mark: SUMIF. 1 mark: criterion range A2:A60, sum range B2:B60 and \"Cake\" in quotation marks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-093",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "A stationery shop has a price list in A2 to C40. Column A holds the product code, column B the name and column C the price (Rs).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a VLOOKUP formula in F2 that finds the price for the product code typed in E2. Use exact matching.",
+    "marks": 2,
+    "answer": "=VLOOKUP(E2,A2:C40,3,FALSE)",
+    "working": "1 mark: VLOOKUP with lookup value E2 and table A2:C40. 1 mark: column index 3 (price) and FALSE for exact match."
+   },
+   {
+    "label": "b",
+    "text": "State what the formula displays if the code in E2 is not in the table.",
+    "marks": 1,
+    "answer": "#N/A",
+    "working": "1 mark for #N/A (the code cannot be found)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-094",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "stem": "Cells B2 to B20 hold test scores for a class. Several students were absent, so some of their cells are blank.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in B21 to calculate the average of the scores in B2 to B20.",
+    "marks": 1,
+    "answer": "=AVERAGE(B2:B20)",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "State whether the blank cells are counted in the average, and explain your answer.",
+    "marks": 2,
+    "answer": "Blank cells are ignored, so they are not counted: AVERAGE divides the total by the number of cells that contain numbers.",
+    "working": "1 mark: the blanks are not counted. 1 mark: the divisor is the number of numbers, not the number of cells."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-095",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in C2 that displays the share of the total as a percentage (B2 divided by the total of B2 to B6). Use an absolute reference so that the formula can be copied down to C6.",
+    "marks": 3,
+    "answer": "=B2/SUM($B$2:$B$6)",
+    "working": "1 mark: divides B2 by the total. 1 mark: SUM over B2:B6. 1 mark: $B$2:$B$6 is absolute so the total does not change when copied."
+   },
+   {
+    "label": "b",
+    "text": "State the value in C2 if B2 is 250 and the total of B2 to B6 is 1000, formatted as a percentage.",
+    "marks": 1,
+    "answer": "25%",
+    "working": "1 mark: 250 ÷ 1000 = 0.25 = 25%."
+   }
+  ],
+  "check": "250/1000*100 == 25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-096",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "stem": "Column A holds the salary (Rs), column B the performance rating and column C the number of years of service.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in D2 that calculates the bonus: 10% of the salary in A2 if the years in C2 are 5 or more AND the rating in B2 is A; 5% if only one of these conditions is true; otherwise 0.",
+    "marks": 4,
+    "answer": "=IF(AND(C2>=5,B2=\"A\"),A2*0.1,IF(OR(C2>=5,B2=\"A\"),A2*0.05,0))",
+    "working": "1 mark: outer IF on AND (both conditions) giving 10%. 1 mark: inner IF on OR for 5%. 1 mark: the final 0 for neither. 1 mark: correct percentages applied to the salary in A2."
+   },
+   {
+    "label": "b",
+    "text": "State the bonus for these rows (salary, rating, years): (40000, A, 6); (30000, A, 2); (50000, B, 7); (25000, B, 1).",
+    "marks": 2,
+    "answer": "4000; 1500; 2500; 0",
+    "working": "1 mark for the first two (4000 and 1500). 1 mark for the last two (2500 and 0)."
+   }
+  ],
+  "check": "40000*0.1 == 4000 and 30000*0.05 == 1500 and 50000*0.05 == 2500 and 25000*0 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-097",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "stem": "An online shop charges delivery by weight (in kg in cell B2). The price of the item (Rs) is in cell A2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula that calculates the total charge for the delivery: price in A2 plus a delivery charge in B2 of Rs 0 for weight up to 1 kg, Rs 150 for weight over 1 kg up to 5 kg, and Rs 300 for weight over 5 kg.",
+    "marks": 3,
+    "answer": "=A2+IF(B2<=1,0,IF(B2<=5,150,300))",
+    "working": "1 mark: the price is added. 1 mark: nested IF for the 1 kg boundary. 1 mark: the 5 kg boundary gives Rs 300."
+   },
+   {
+    "label": "b",
+    "text": "State the total charge for a price of 2000 and a weight of 3.5 kg, and for a price of 1000 and a weight of 6 kg.",
+    "marks": 2,
+    "answer": "Rs 2150; Rs 1300",
+    "working": "1 mark for each total: 2000 + 150 = 2150; 1000 + 300 = 1300."
+   }
+  ],
+  "check": "2000+150 == 2150 and 1000+300 == 1300",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-098",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in G2 that calculates the mean of only the positive values in B2:B30, without using an array formula.",
+    "marks": 3,
+    "answer": "=SUMIF(B2:B30,\">0\")/COUNTIF(B2:B30,\">0\")",
+    "working": "1 mark: SUMIF of positive values. 1 mark: COUNTIF of positive values as the divisor. 1 mark: the division with correct criteria in quotes."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the formula =AVERAGE(B2:B30) gives a different answer from the formula in part a.",
+    "marks": 2,
+    "answer": "AVERAGE includes the zero and negative values, so the mean is lower (or includes those values in the total and count).",
+    "working": "1 mark: AVERAGE includes all the numbers. 1 mark: this changes the mean when zero or negative values are present."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-099",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "stem": "A stock sheet has the stock level in B2, the reorder level in E2 and a discontinued flag (Yes or No) in D2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in F2 that displays Order now if the stock in B2 is less than the reorder level in E2 and the item is not discontinued (column D is not Yes); Check if the item is discontinued; OK otherwise.",
+    "marks": 3,
+    "answer": "=IF(D2=\"Yes\",\"Check\",IF(B2<E2,\"Order now\",\"OK\"))",
+    "working": "1 mark: the discontinued test is first. 1 mark: the stock less than reorder level test. 1 mark: the correct three outputs in quotes."
+   },
+   {
+    "label": "b",
+    "text": "State the output in F2 for these rows (stock, reorder level, discontinued): (12, 20, No); (35, 20, No); (5, 20, Yes).",
+    "marks": 2,
+    "answer": "Order now; OK; Check",
+    "working": "1 mark for the first two rows. 1 mark for the third row."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-100",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "stem": "A school uses a grade table in F2 to G7, in which the marks in F2 to F7 are in ascending order.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write the formula in B2 that displays the grade for the score in A2 using the table in F2:G7, with approximate matching. F holds the lowest mark for each grade (0, 40, 50, 60, 70, 80) and G holds the grade (U, E, D, C, B, A).",
+    "marks": 3,
+    "answer": "=VLOOKUP(A2,F2:G7,2,TRUE)",
+    "working": "1 mark: VLOOKUP with lookup value A2. 1 mark: the table F2:G7 and column index 2. 1 mark: TRUE for approximate match (sorted lowest mark first)."
+   },
+   {
+    "label": "b",
+    "text": "State the grade displayed for scores 39, 50 and 79.",
+    "marks": 2,
+    "answer": "U; D; B",
+    "working": "1 mark for 39 (U) and 50 (D). 1 mark for 79 (B)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-101",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in D2 that calculates the price after the 20% discount: the discount applies only if the age in C2 is under 18 OR the card in D2 is Yes. Use the price in B2.",
+    "marks": 3,
+    "answer": "=IF(OR(C2<18,D2=\"Yes\"),B2*0.8,B2)",
+    "working": "1 mark: IF with OR for the two conditions. 1 mark: multiplying by 0.8 (20% off). 1 mark: the else value B2 with no discount."
+   },
+   {
+    "label": "b",
+    "text": "State the price shown for a price of 300 for a student aged 16 without a card, and for a price of 300 for an adult aged 30 without a card.",
+    "marks": 2,
+    "answer": "Rs 240; Rs 300",
+    "working": "1 mark for 240 (300 × 0.8). 1 mark for 300 (no discount)."
+   }
+  ],
+  "check": "300*0.8 == 240",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-102",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in E2 that calculates 15% of the total of the amounts in column B for only those rows where column C is marked Yes.",
+    "marks": 3,
+    "answer": "=SUMIF(C2:C40,\"Yes\",B2:B40)*0.15",
+    "working": "1 mark: SUMIF over the amounts in B2:B40. 1 mark: criteria range C2:C40 and \"Yes\". 1 mark: multiply the total by 0.15. The formula is in E2, outside the criteria range, so it is not circular."
+   },
+   {
+    "label": "b",
+    "text": "State the tax when the Yes amounts are 1000 and 2500 and the No amount is 800.",
+    "marks": 2,
+    "answer": "Rs 525",
+    "working": "1 mark for the total of taxable items 3500. 1 mark for 3500 × 0.15 = 525."
+   }
+  ],
+  "check": "(1000+2500)*0.15 == 525",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-103",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write the formula in C2 that calculates the value one year later, if the value in B2 grows by 4% per year.",
+    "marks": 1,
+    "answer": "=B2*1.04 (or =B2*(1+4%))",
+    "working": "1 mark: multiplies B2 by 1.04."
+   },
+   {
+    "label": "b",
+    "text": "B2 holds 10 000. Calculate the value after three years of 4% growth, to 2 decimal places. Show the value after each year.",
+    "marks": 3,
+    "answer": "Year 1: 10 400.00; Year 2: 10 816.00; Year 3: Rs 11 248.64",
+    "working": "1 mark for year 1 (10 400). 1 mark for year 2 (10 816). 1 mark for year 3 (11 248.64, rounded to 2 decimal places)."
+   }
+  ],
+  "check": "round(10000*1.04**3, 2) == 11248.64 and round(10000*1.04**2, 2) == 10816",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-104",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the values displayed by =ROUND(B2,0) and by =INT(B2) when B2 contains −3.4.",
+    "marks": 2,
+    "answer": "ROUND gives −3; INT gives −4",
+    "working": "1 mark for ROUND gives −3 (−3.4 rounds to −3). 1 mark for INT gives −4 (INT returns the next lower whole number)."
+   },
+   {
+    "label": "b",
+    "text": "Explain the difference between ROUND and INT for negative numbers.",
+    "marks": 2,
+    "answer": "ROUND rounds to the nearest whole number; INT always rounds down to the next lower whole number, so −3.4 becomes −4.",
+    "working": "1 mark: ROUND goes to the nearest. 1 mark: INT always goes down (towards negative infinity)."
+   }
+  ],
+  "check": "round(-3.4) == -3 and math.floor(-3.4) == -4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-105",
+  "topic": "Spreadsheets",
+  "subtopic": "Formulas and functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "stem": "Cells B2 to B31 hold the daily maximum temperature (°C) for a month. Cell B33 holds the threshold 35.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a formula in B34 that counts how many days in B2:B31 have a temperature of at least the threshold in B33.",
+    "marks": 2,
+    "answer": "=COUNTIF(B2:B31,\">=\"&B33)",
+    "working": "1 mark: COUNTIF on B2:B31. 1 mark: the criterion \">=\" joined to B33 with &."
+   },
+   {
+    "label": "b",
+    "text": "State the value displayed in B34 if B33 contains 35 and the only values in B2 to B31 that are 35 or more are 35, 36 and 35.",
+    "marks": 1,
+    "answer": "3",
+    "working": "1 mark: three values (35, 36, 35) meet the threshold."
+   }
+  ],
+  "check": "(35>=35)+(36>=35)+(35>=35) == 3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-106",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A house style says every page of a company report must show the logo and the page number in the same place.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the feature of a word processor that repeats the company logo and the page number on every page.",
+    "marks": 1,
+    "answer": "Header and footer",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the logo and page number should be placed in the header and footer rather than typed on each page.",
+    "marks": 2,
+    "answer": "They are set once and repeat automatically on every page, so no page is missed and the position stays the same if the document changes.",
+    "working": "1 mark: they repeat on every page automatically. 1 mark: saves time and keeps the layout consistent."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-107",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what a template is and how it helps a user follow a house style.",
+    "marks": 2,
+    "answer": "A template is a saved document with the house styles, page layout, logo and header and footer already set; a new document based on it starts with the house style applied.",
+    "working": "1 mark: a saved document with styles and layout already set. 1 mark: new documents use the house style automatically, so the user does not need to set it again."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-108",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to apply the paragraph style Heading 2 to one paragraph in a word processor.",
+    "marks": 3,
+    "answer": "Click in or select the paragraph; open the styles gallery or styles pane; click Heading 2 (or choose it from the style list).",
+    "working": "1 mark: select or place the cursor in the paragraph. 1 mark: open the styles gallery or pane. 1 mark: choose Heading 2."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-109",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the difference between a paragraph style and a character style.",
+    "marks": 2,
+    "answer": "A paragraph style formats the whole paragraph (for example font, alignment and spacing); a character style formats only the selected words or characters within a paragraph.",
+    "working": "1 mark: paragraph style applies to the whole paragraph. 1 mark: character style applies only to selected text."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-110",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two items that a corporate house style for an email signature might specify.",
+    "marks": 2,
+    "answer": "Any two: font and font size; colour of the company name; the logo and its size and position; the order of the name, job title and phone number; the disclaimer text.",
+    "working": "1 mark for each valid item."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-111",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a house style for a company's documents should specify the page margins.",
+    "marks": 2,
+    "answer": "Margins keep the layout the same on every document, so that the logo, text and footers appear in the same place and the documents look like one set.",
+    "working": "1 mark: consistent layout across documents. 1 mark: the position of the text and images is the same, so documents look professional and match the printing area."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-112",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State how many points (pt) there are in one inch.",
+    "marks": 1,
+    "answer": "72",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the size of one point in centimetres, correct to 4 decimal places (1 inch = 2.54 cm).",
+    "marks": 2,
+    "answer": "0.0353 cm",
+    "working": "M1: 2.54 ÷ 72. A1: 0.0353 cm."
+   }
+  ],
+  "check": "round(2.54/72, 4) == 0.0353 and 72 == 72",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-113",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two things a house style for a government information leaflet should require so that it is easy to read for people with poor eyesight.",
+    "marks": 2,
+    "answer": "Any two: a larger font size (e.g. 12 pt or more); a sans-serif font; good contrast between the text and the background; left-aligned text, not justified; clear headings.",
+    "working": "1 mark for each valid requirement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-114",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the purpose of a style guide written for the staff of a company.",
+    "marks": 2,
+    "answer": "A style guide sets out the house style rules (fonts, colours, layout and logos) so that all staff produce documents that look consistent and follow the company's identity.",
+    "working": "1 mark: it sets out the rules for fonts, colours, layout or logos. 1 mark: it makes documents consistent across staff and the company's identity."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-115",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the indent setting that indents only the first line of each paragraph.",
+    "marks": 1,
+    "answer": "First line indent",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Describe how to set a first line indent of 1 cm in a body text paragraph style.",
+    "marks": 2,
+    "answer": "Open the paragraph dialogue for the style; in Indentation choose Special: First line; enter 1 cm; apply and update the style.",
+    "working": "1 mark: open the paragraph settings for the style. 1 mark: first line indent of 1 cm set and applied."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-116",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the team should create a paragraph style for footnote text rather than format each footnote by hand. Give two reasons.",
+    "marks": 2,
+    "answer": "A style gives every footnote the same font, size and spacing automatically; changing the style later updates all footnotes at once.",
+    "working": "1 mark for each reason: consistent formatting for all footnotes; one change updates all footnotes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-117",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A house style gives the space after a heading as 24 pt.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Convert the space after a heading into centimetres. Give your answer to 2 decimal places (1 inch = 72 pt and 1 inch = 2.54 cm).",
+    "marks": 2,
+    "answer": "0.85 cm",
+    "working": "M1: 24 ÷ 72 × 2.54 = 0.8467. A1: 0.85 cm."
+   }
+  ],
+  "check": "round(24/72*2.54, 2) == 0.85",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-118",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A newsletter has a text width of 17.0 cm. The text is set in three equal columns with a gap of 0.5 cm between each pair of columns.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the width of each column in centimetres, correct to 2 decimal places.",
+    "marks": 3,
+    "answer": "5.33 cm",
+    "working": "M1: the gaps between columns total 2 × 0.5 = 1.0 cm. M1: 17.0 − 1.0 = 16.0 cm shared between 3 columns. A1: 16.0 ÷ 3 = 5.33 cm."
+   }
+  ],
+  "check": "round((17-2*0.5)/3, 2) == 5.33",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-119",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The brand colour of a company is red 0, green 102, blue 51.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give the six-digit hexadecimal code for this brand colour.",
+    "marks": 2,
+    "answer": "006633",
+    "working": "M1: red 0 = 00; green 102 = 66 (6 × 16 + 6). A1: blue 51 = 33 (3 × 16 + 3). Code 006633."
+   }
+  ],
+  "check": "6*16+6 == 102 and 3*16+3 == 51",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-120",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A house style sets the Title style to 28 pt. The Subheading style must be 70% of the Title size.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the font size of the subheading in points.",
+    "marks": 2,
+    "answer": "19.6 pt",
+    "working": "M1: 28 × 0.70. A1: 19.6 pt."
+   }
+  ],
+  "check": "round(28*0.7, 1) == 19.6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-121",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A café menu in Lahore lists each dish name on the left and its price on the right of each line.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to set a right tab stop at 15 cm so that the price in each menu line is aligned at the right edge of the text.",
+    "marks": 3,
+    "answer": "Open the Tabs dialogue (from the paragraph settings for the style); enter 15 cm as the tab position; choose Right alignment; set; then press Tab before each price and update the style so every paragraph using it has the tab.",
+    "working": "1 mark: open the tab settings. 1 mark: position 15 cm with right alignment. 1 mark: press Tab before the price, and store it in the style so it applies to all menu lines."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-122",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what happens to the sub-style Note-text (based on Body-text) when the font of Body-text is changed, if Note-text has no font set of its own.",
+    "marks": 2,
+    "answer": "Note-text takes the new font from Body-text because it is based on it, so the change is passed on to it automatically.",
+    "working": "1 mark: it inherits the change from the style it is based on. 1 mark: no separate change is needed for each paragraph."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-123",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to insert an automatic page number field in the footer, so that it shows Page 3 on the third page and updates if pages are added.",
+    "marks": 3,
+    "answer": "Double-click the footer; choose Insert Page Number (or Insert Field and then Page); select the position; close the footer to return to the body text.",
+    "working": "1 mark: open the footer for editing. 1 mark: insert a page number field from the menu. 1 mark: the number is a field, so it updates on every page."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-124",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the page size and margins should be set in the page setup, not in a paragraph style.",
+    "marks": 2,
+    "answer": "Page size and margins apply to the whole document or section, not to individual paragraphs; a paragraph style controls only the text within a paragraph.",
+    "working": "1 mark: page setup applies to the whole document or section. 1 mark: a paragraph style only affects text in paragraphs."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-125",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which of these is NOT normally stored as part of a paragraph style?\nA font size\nB line spacing\nC page size\nD indentation",
+    "marks": 1,
+    "answer": "C page size",
+    "working": "Page size is a page setup setting for the whole document or section, not a paragraph property. Font size, line spacing and indentation are all paragraph formatting that a paragraph style normally stores. The main distractor is D, which is a normal paragraph setting."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-126",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss whether a strict corporate house style is appropriate for worksheets written by teachers in one school. Give points for and against.",
+    "marks": 6,
+    "answer": "For: consistent look for students and parents; logo and fonts show the school's identity; readability can be planned for all students. Against: teachers need flexibility for different subjects and layouts; strict rules take time to follow; a worksheet for maths may need diagrams and tables that the style does not cover; a small set of simple rules (fonts, logo, margins) may be better than a full style. Conclusion: a light house style with clear rules for logos and headings, but flexibility for the content.",
+    "working": "Up to 6 marks: 2 marks for clear points for a strict style, 2 marks for clear points against it with reasons, and 2 marks for a justified balanced conclusion that suggests a suitable level of control."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-127",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A house style for a magazine uses four columns, each 5.0 cm wide, with gaps of 0.6 cm between columns. The text width on an A4 page with 2 cm margins is 17 cm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total width of the four columns and the gaps. State whether they fit within a text width of 17 cm.",
+    "marks": 3,
+    "answer": "4 × 5.0 + 3 × 0.6 = 21.8 cm. This is wider than 17 cm, so the four columns do not fit.",
+    "working": "M1: four column widths 4 × 5.0 = 20.0 cm. M1: three gaps 3 × 0.6 = 1.8 cm, total 21.8 cm. A1: it does not fit within 17 cm; at most three such columns can fit."
+   }
+  ],
+  "check": "4*5.0 + 3*0.6 == 21.8 and 21.8 > 17",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-128",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A company's corporate red is red 200, green 16, blue 46.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Convert the colour to its six-digit hexadecimal code. Then give the hex code for the second colour: red 0, green 0, blue 255.",
+    "marks": 3,
+    "answer": "C8102E; 0000FF",
+    "working": "M1: red 200 = C8 (12 × 16 + 8); green 16 = 10; blue 46 = 2E (2 × 16 + 14). A1: C8102E. M1 and A1 for 0000FF (blue 255 = FF)."
+   }
+  ],
+  "check": "12*16+8 == 200 and 1*16+0 == 16 and 2*16+14 == 46 and 15*16+15 == 255",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-129",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A4 paper is 29.7 cm high. The top margin is 2.5 cm and the bottom margin is 2.0 cm. Each line of body text takes up 0.5 cm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of complete lines of text that fit on the page, given that each line takes 0.5 cm.",
+    "marks": 3,
+    "answer": "50 lines",
+    "working": "M1: height available 29.7 − 2.5 − 2.0 = 25.2 cm. M1: 25.2 ÷ 0.5 = 50.4. A1: 50 complete lines (the part-line is not used)."
+   }
+  ],
+  "check": "math.floor((29.7-2.5-2.0)/0.5) == 50",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-130",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the change to the Body style updates the whole document, while changes made to each paragraph by hand do not.",
+    "marks": 3,
+    "answer": "The paragraphs are linked to a style, so changing the style changes every paragraph that uses it; manual formatting is stored only in the paragraph it is applied to, so it does not change with the style.",
+    "working": "1 mark: paragraphs use the style. 1 mark: changing the style changes all linked paragraphs. 1 mark: manual changes stay on individual paragraphs."
+   },
+   {
+    "label": "b",
+    "text": "Give two situations where direct (manual) formatting is needed even when a house style exists.",
+    "marks": 2,
+    "answer": "Any two: a one-off special effect for a single paragraph; a single word in a different colour for emphasis; a special layout for a single page or table that the style does not cover.",
+    "working": "1 mark for each valid situation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-131",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A house style reduces the body text in a report from 12 pt to 10.5 pt.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage reduction in font size.",
+    "marks": 2,
+    "answer": "12.5%",
+    "working": "M1: (12 − 10.5) ÷ 12 × 100. A1: 12.5% reduction."
+   },
+   {
+    "label": "b",
+    "text": "Explain how a designer should set this change so that all body text in the document changes at once.",
+    "marks": 2,
+    "answer": "Change the Body style to 10.5 pt and update it, so every paragraph using the Body style changes.",
+    "working": "1 mark: change the style, not each paragraph. 1 mark: update the style so the document follows it."
+   }
+  ],
+  "check": "round((12-10.5)/12*100, 1) == 12.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-132",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to make the appendix heading always start on a new page, using a paragraph style setting.",
+    "marks": 3,
+    "answer": "Open the paragraph settings for the Appendix heading style; in Line and Page Breaks tick Page break before; apply and update the style.",
+    "working": "1 mark: open the style's paragraph settings. 1 mark: tick Page break before. 1 mark: apply or update the style so every appendix heading uses it."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-133",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a style based on another style lets a designer change a house style quickly, and state one risk of this method.",
+    "marks": 4,
+    "answer": "The designer changes one parent style (e.g. Body) and all styles based on it update automatically, so the whole document changes at once; risk: a change to the parent style can unexpectedly alter other styles or sections that were based on it, so the designer must check the whole document.",
+    "working": "1 mark: styles based on another style inherit changes. 1 mark: one change updates many styles. 1 mark: a valid risk (unexpected changes to linked styles). 1 mark: the designer should check the result."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-134",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a house style can be made to work for a company with offices in Pakistan and in an English-speaking country, given that documents may be printed on different paper sizes.",
+    "marks": 5,
+    "answer": "Use A4 paper for both, or set the paper size in the template as the standard in each office; keep the core house style for fonts, colours, logos and heading styles the same; allow local changes to the text language and the date format; store the styles in one shared template so that every office starts from the same styles; check that each printer uses the set paper size.",
+    "working": "Up to 5 marks, 1 mark each for: a common paper size or local page setup; core styles kept the same in all offices; allowed local changes (language, date format); one shared template; printer or paper check."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h4-135",
+  "topic": "Styles",
+  "subtopic": "Corporate house style",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the steps to set a hanging indent of 0.8 cm for a numbered list style called Terms-list, so that each number sits at the left margin and the text wraps 0.8 cm in.",
+    "marks": 4,
+    "answer": "Open the paragraph settings for Terms-list; in Indentation choose Special: Hanging and enter 0.8 cm, with the left indent set to 0.8 cm; keep the number at the margin with a tab stop at 0.8 cm if needed; click OK and update the style.",
+    "working": "1 mark: open the paragraph settings for the style. 1 mark: left indent 0.8 cm. 1 mark: hanging indent of 0.8 cm (first line at 0). 1 mark: updating or applying the style so the list follows it."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]

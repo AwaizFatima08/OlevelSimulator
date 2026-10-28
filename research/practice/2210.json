@@ -15233,5 +15233,3197 @@
   "check": "40 * 20 * (12 - 8) / 1000 * 30 == 96.0 == 96 and 96 * 50 == 4800",
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "2210-h1-001",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table EMPLOYEES is shown below.\nEmpID | Name | Dept | Salary | Shift\nE1 | Asif | Weaving | 42000 | Day\nE2 | Nargis | Dyeing | 39500 | Night\nE3 | Tariq | Weaving | 45500 | Night\nE4 | Shazia | Finishing | 38000 | Day\nE5 | Hamza | Dyeing | 51000 | Day\n\nWrite the output of: SELECT Name, Salary FROM EMPLOYEES WHERE Dept = 'Weaving';",
+    "marks": 2,
+    "answer": "Asif 42000; Tariq 45500",
+    "working": "1 mark for each correct row (name and salary). Both rows only; no other employees."
+   },
+   {
+    "label": "b",
+    "text": "Write an SQL query that outputs the Name of every employee on the Night shift.",
+    "marks": 2,
+    "answer": "SELECT Name FROM EMPLOYEES WHERE Shift = 'Night';",
+    "working": "1 mark: SELECT Name FROM EMPLOYEES. 1 mark: WHERE Shift = 'Night' (text in quotes, correct field name)."
+   },
+   {
+    "label": "c",
+    "text": "State the output of: SELECT COUNT(*) FROM EMPLOYEES WHERE Salary > 40000 AND Shift = 'Day';",
+    "marks": 1,
+    "answer": "2",
+    "working": "1 mark: 2 (Asif 42000 Day and Hamza 51000 Day; Shazia is below 40000)."
+   }
+  ],
+  "check": "len([s for s, sh in [(42000,'Day'),(39500,'Night'),(45500,'Night'),(38000,'Day'),(51000,'Day')] if s > 40000 and sh == 'Day']) == 2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-002",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table COURSES is shown below.\nCourseCode | Title | Level | Fee | Seats\nC01 | Intro to Python | Beginner | 12000 | 20\nC02 | Web Design | Intermediate | 15500 | 0\nC03 | Data Analysis | Beginner | 18000 | 8\nC04 | Advanced Excel | Advanced | 9500 | 12\nC05 | Network Basics | Beginner | 7000 | 0\n\nWrite an SQL query that outputs the Title and Fee of every course with a Fee from 8000 to 16000 inclusive. Use BETWEEN.",
+    "marks": 3,
+    "answer": "SELECT Title, Fee FROM COURSES WHERE Fee BETWEEN 8000 AND 16000; Output: Intro to Python 12000; Web Design 15500; Advanced Excel 9500.",
+    "working": "1 mark: SELECT Title, Fee FROM COURSES. 1 mark: WHERE Fee BETWEEN 8000 AND 16000. 1 mark: the three correct rows and no others (Data Analysis and Network Basics are excluded)."
+   },
+   {
+    "label": "b",
+    "text": "State the output of: SELECT CourseCode FROM COURSES WHERE Level = 'Beginner' OR Seats = 0;",
+    "marks": 2,
+    "answer": "C01, C02, C03, C05",
+    "working": "1 mark for C01 and C03 (Beginner). 1 mark for C02 and C05 (Seats = 0); no others. Rows may be listed in any order."
+   },
+   {
+    "label": "c",
+    "text": "The OR in part (b) is changed to AND. State the output of the new query.",
+    "marks": 1,
+    "answer": "C05",
+    "working": "1 mark: only C05 (Beginner and Seats = 0). C01, C02 and C03 each fail one of the two conditions."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "sum([f for f in [12000,15500,18000,9500,7000] if 8000 <= f <= 16000]) == 37000"
+ },
+ {
+  "id": "2210-h1-003",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table GARDEN is shown below.\nPlantID | Name | Type | HeightCm | Watered\nG1 | Neem | Tree | 420 | TRUE\nG2 | Rose | Shrub | 95 | FALSE\nG3 | Marigold | Flower | 35 | TRUE\nG4 | Mango | Tree | 380 | FALSE\nG5 | Tulsi | Herb | 45 | TRUE\n\nState the output of: SELECT Name, HeightCm FROM GARDEN WHERE Type = 'Tree' ORDER BY HeightCm;",
+    "marks": 2,
+    "answer": "Mango 380; Neem 420",
+    "working": "1 mark for the two trees; 1 mark for the order (Mango, the shorter, first, because ORDER BY sorts from smallest to largest)."
+   },
+   {
+    "label": "b",
+    "text": "Write an SQL query that outputs the average HeightCm of all plants that have been Watered. Give your answer correct to 2 decimal places.",
+    "marks": 3,
+    "answer": "SELECT AVG(HeightCm) FROM GARDEN WHERE Watered = TRUE; Output: 166.67",
+    "working": "1 mark: SELECT AVG(HeightCm) FROM GARDEN. 1 mark: WHERE Watered = TRUE. 1 mark: 166.67 (the three watered plants are 420, 35 and 45; their total 500 divided by 3)."
+   },
+   {
+    "label": "c",
+    "text": "State the output of: SELECT COUNT(*) FROM GARDEN WHERE Watered = FALSE AND HeightCm > 50;",
+    "marks": 2,
+    "answer": "2",
+    "working": "1 mark: 2 (Rose has 95 cm and Mango has 380 cm; both are not watered). 1 mark for correctly ignoring Marigold and Tulsi (below 50 cm or watered)."
+   }
+  ],
+  "check": "round((420+35+45)/3, 2) == 166.67 and len([1 for w, h in [(True,420),(False,95),(True,35),(False,380),(True,45)] if (not w) and h > 50]) == 2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-004",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table STAFF is shown below.\nStaffNo | Name | Subject | Years | Grade\nS01 | Mahnoor | Maths | 12 | A\nS02 | Saad | Physics | 4 | B\nS03 | Ruqayya | Maths | 7 | A\nS04 | Owen | English | 15 | C\nS05 | Imran | Computing | 9 | B\n\nState the output of: SELECT Name FROM STAFF WHERE Subject = 'Maths';",
+    "marks": 2,
+    "answer": "Mahnoor; Ruqayya",
+    "working": "1 mark for each correct name. No other names."
+   },
+   {
+    "label": "b",
+    "text": "Write an SQL query that outputs every field of the staff who have more than 10 Years of service.",
+    "marks": 2,
+    "answer": "SELECT * FROM STAFF WHERE Years > 10; Output: S01 Mahnoor Maths 12 A and S04 Owen English 15 C",
+    "working": "1 mark: SELECT * FROM STAFF. 1 mark: WHERE Years > 10 (the rows for Mahnoor and Owen)."
+   },
+   {
+    "label": "c",
+    "text": "State how many fields are in the output of the query in part (b).",
+    "marks": 1,
+    "answer": "5",
+    "working": "1 mark: 5 fields (StaffNo, Name, Subject, Years, Grade). SELECT * returns all fields of the table."
+   }
+  ],
+  "check": "len(['StaffNo','Name','Subject','Years','Grade']) == 5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-005",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table RIDES is shown below.\nRideNo | RideName | MinAge | Price | Open\nR1 | Sky Wheel | 8 | 500 | TRUE\nR2 | Pirate Ship | 12 | 750 | TRUE\nR3 | Ghost Train | 10 | 400 | FALSE\nR4 | Bumper Cars | 6 | 300 | TRUE\n\nState the output of: SELECT MAX(Price) FROM RIDES WHERE Open = TRUE;",
+    "marks": 1,
+    "answer": "750",
+    "working": "1 mark: 750 (the closed Ghost Train at 400 is ignored; Pirate Ship has the highest open price)."
+   },
+   {
+    "label": "b",
+    "text": "Write an SQL query that outputs the RideName of every ride with a MinAge less than 10.",
+    "marks": 2,
+    "answer": "SELECT RideName FROM RIDES WHERE MinAge < 10; Output: Sky Wheel, Bumper Cars",
+    "working": "1 mark: SELECT RideName FROM RIDES. 1 mark: WHERE MinAge < 10 (outputs Sky Wheel and Bumper Cars only)."
+   },
+   {
+    "label": "c",
+    "text": "State the output of: SELECT SUM(Price) FROM RIDES WHERE Price BETWEEN 300 AND 500;",
+    "marks": 2,
+    "answer": "1200",
+    "working": "1 mark: identifies the three rides priced 300, 400 and 500 (Sky Wheel, Ghost Train and Bumper Cars). 1 mark: 1200."
+   }
+  ],
+  "check": "max([500, 750, 300]) == 750 and sum([500, 400, 300]) == 1200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-006",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table ROOMS is shown below.\nRoomNo | Floor | Type | Rate | Booked\n101 | 1 | Single | 4500 | FALSE\n205 | 2 | Double | 7200 | TRUE\n310 | 3 | Suite | 15000 | FALSE\n212 | 2 | Single | 4800 | FALSE\n\nWrite an SQL query that outputs the RoomNo and Rate of every room that is a Single or a Double. Use OR.",
+    "marks": 2,
+    "answer": "SELECT RoomNo, Rate FROM ROOMS WHERE Type = 'Single' OR Type = 'Double'; Output: 101 4500; 205 7200; 212 4800",
+    "working": "1 mark: SELECT RoomNo, Rate FROM ROOMS. 1 mark: WHERE Type = 'Single' OR Type = 'Double' (correct quotes and both comparisons)."
+   },
+   {
+    "label": "b",
+    "text": "State the output of: SELECT RoomNo FROM ROOMS WHERE Floor = 2 AND Booked = FALSE;",
+    "marks": 1,
+    "answer": "212",
+    "working": "1 mark: 212 only (205 is on floor 2 but is booked)."
+   },
+   {
+    "label": "c",
+    "text": "Write an SQL query that outputs the number of rooms that are not booked.",
+    "marks": 2,
+    "answer": "SELECT COUNT(*) FROM ROOMS WHERE Booked = FALSE; Output: 3",
+    "working": "1 mark: SELECT COUNT(*) FROM ROOMS with WHERE Booked = FALSE. 1 mark: states the output 3 (rooms 101, 310 and 212)."
+   }
+  ],
+  "check": "len([b for b in [False, True, False, False] if b == False]) == 3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-007",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table PLAYERS is shown below.\nPlayerID | Name | Team | Runs | Wickets\nP01 | Umar | Indus Eagles | 512 | 3\nP02 | Zara | Ravi Hawks | 230 | 18\nP03 | Bilal | Indus Eagles | 88 | 25\nP04 | Mehak | Sutlej Stars | 401 | 7\nP05 | Hira | Ravi Hawks | 136 | 0\n\nWrite an SQL query that outputs the Name and Runs of players in the team 'Ravi Hawks' who have scored more than 100 runs. Sort the output by Runs, highest first.",
+    "marks": 3,
+    "answer": "SELECT Name, Runs FROM PLAYERS WHERE Team = 'Ravi Hawks' AND Runs > 100 ORDER BY Runs DESC; Output: Zara 230; Hira 136",
+    "working": "1 mark: SELECT Name, Runs FROM PLAYERS. 1 mark: WHERE Team = 'Ravi Hawks' AND Runs > 100. 1 mark: ORDER BY Runs DESC (Zara first, then Hira)."
+   },
+   {
+    "label": "b",
+    "text": "State the output of: SELECT Name FROM PLAYERS WHERE Wickets >= 10 OR Runs > 400 ORDER BY Name;",
+    "marks": 2,
+    "answer": "Bilal, Mehak, Umar, Zara",
+    "working": "1 mark for the correct four players (Zara and Bilal for wickets; Umar and Mehak for runs). 1 mark for alphabetical order."
+   },
+   {
+    "label": "c",
+    "text": "Write an SQL query that outputs the highest number of Wickets taken by any player.",
+    "marks": 1,
+    "answer": "SELECT MAX(Wickets) FROM PLAYERS; Output: 25",
+    "working": "1 mark: SELECT MAX(Wickets) FROM PLAYERS."
+   }
+  ],
+  "check": "max([3, 18, 25, 7, 0]) == 25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-008",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table VEHICLES is shown below.\nReg | Make | Year | Fuel | Seats\nV1 | Suzuki | 2019 | Petrol | 5\nV2 | Toyota | 2016 | Diesel | 7\nV3 | Honda | 2021 | Hybrid | 5\nV4 | Hyundai | 2020 | Diesel | 4\nV5 | Kia | 2022 | Petrol | 8\nV6 | Toyota | 2018 | Petrol | 5\n\nA rental company wants the Reg and Make of every vehicle that is not Diesel, has at least 5 seats and was made after 2018. Write the SQL query.",
+    "marks": 3,
+    "answer": "SELECT Reg, Make FROM VEHICLES WHERE Fuel <> 'Diesel' AND Seats >= 5 AND Year > 2018;",
+    "working": "1 mark: SELECT Reg, Make FROM VEHICLES. 1 mark: Fuel <> 'Diesel' (not equal) AND Seats >= 5. 1 mark: AND Year > 2018 (V6 is excluded because 2018 is not after 2018)."
+   },
+   {
+    "label": "b",
+    "text": "State the output of: SELECT Reg FROM VEHICLES WHERE Fuel = 'Diesel' OR Fuel = 'Hybrid' AND Seats >= 5;",
+    "marks": 2,
+    "answer": "V2, V3, V4",
+    "working": "1 mark: AND is evaluated before OR, so the query returns every Diesel vehicle (V2, V4) and every Hybrid vehicle with 5 or more seats (V3). 1 mark: the three registrations."
+   },
+   {
+    "label": "c",
+    "text": "Rewrite the query in part (b) so that it outputs only Diesel or Hybrid vehicles with at least 5 seats. State its output.",
+    "marks": 2,
+    "answer": "SELECT Reg FROM VEHICLES WHERE (Fuel = 'Diesel' OR Fuel = 'Hybrid') AND Seats >= 5; Output: V2, V3",
+    "working": "1 mark: brackets around the OR condition. 1 mark: output V2 and V3 (V4 has only 4 seats)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-009",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table SALES is shown below.\nInvoiceNo | Item | Quantity | UnitPrice | Paid\nI01 | Notebook | 4 | 120 | TRUE\nI02 | Pen | 10 | 25 | FALSE\nI03 | Ruler | 3 | 40 | TRUE\nI04 | Eraser | 6 | 15 | FALSE\nI05 | Notebook | 2 | 120 | FALSE\n\nState the output of: SELECT SUM(Quantity) FROM SALES WHERE Paid = FALSE;",
+    "marks": 2,
+    "answer": "18",
+    "working": "1 mark: identifies the unpaid rows I02, I04 and I05 (quantities 10, 6 and 2). 1 mark: 18."
+   },
+   {
+    "label": "b",
+    "text": "Write an SQL query that outputs the Item of every row where UnitPrice is less than 50 OR Quantity is greater than 5. State the output.",
+    "marks": 3,
+    "answer": "SELECT Item FROM SALES WHERE UnitPrice < 50 OR Quantity > 5; Output: Pen, Ruler, Eraser",
+    "working": "1 mark: SELECT Item FROM SALES. 1 mark: WHERE UnitPrice < 50 OR Quantity > 5. 1 mark: output Pen, Ruler and Eraser (Notebook rows are excluded: price 120 and quantity 4 or 2)."
+   },
+   {
+    "label": "c",
+    "text": "The manager wants the number of rows where UnitPrice is greater than 100 OR the row is unpaid. Write the SQL query and state its output.",
+    "marks": 2,
+    "answer": "SELECT COUNT(*) FROM SALES WHERE UnitPrice > 100 OR Paid = FALSE; Output: 4",
+    "working": "1 mark: SELECT COUNT(*) with the OR condition. 1 mark: output 4 (I01, I02, I04 and I05)."
+   }
+  ],
+  "check": "sum([10, 6, 2]) == 18 and len([1 for up, p in [(120,True),(25,False),(40,True),(15,False),(120,False)] if up > 100 or p == False]) == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-010",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table ASSIGNMENTS is shown below.\nAID | Title | Subject | Marks | Submitted\nA1 | Cell Division | Biology | 18 | TRUE\nA2 | Quadratic Graphs | Maths | 12 | FALSE\nA3 | Water Cycle | Geography | 22 | TRUE\nA4 | Circuit Diagrams | Physics | 15 | TRUE\n\nState the output of: SELECT AVG(Marks) FROM ASSIGNMENTS WHERE Submitted = TRUE; Give your answer correct to 2 decimal places.",
+    "marks": 2,
+    "answer": "18.33",
+    "working": "1 mark: the submitted rows are A1, A3 and A4 (marks 18, 22 and 15). 1 mark: total 55 divided by 3 gives 18.33."
+   },
+   {
+    "label": "b",
+    "text": "Write an SQL query that outputs the Title of every assignment NOT in the subject Maths.",
+    "marks": 2,
+    "answer": "SELECT Title FROM ASSIGNMENTS WHERE Subject <> 'Maths'; Output: Cell Division, Water Cycle, Circuit Diagrams",
+    "working": "1 mark: SELECT Title FROM ASSIGNMENTS. 1 mark: WHERE Subject <> 'Maths'."
+   },
+   {
+    "label": "c",
+    "text": "State the output of: SELECT Title FROM ASSIGNMENTS WHERE Marks > 15 AND Submitted = FALSE;",
+    "marks": 1,
+    "answer": "No rows (empty output)",
+    "working": "1 mark: no rows. Quadratic Graphs has 12 marks and is not submitted, so it fails the Marks > 15 condition."
+   }
+  ],
+  "check": "round((18+22+15)/3, 2) == 18.33",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-011",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table TICKETS is shown below.\nTicketNo | Event | Zone | Price | Sold\nK1 | Cricket Final | VIP | 5000 | TRUE\nK2 | Cricket Final | Stand | 800 | TRUE\nK3 | Music Night | VIP | 3500 | FALSE\nK4 | Music Night | General | 1200 | TRUE\nK5 | Book Fair | General | 300 | TRUE\n\nState the output of: SELECT COUNT(*) FROM TICKETS WHERE Sold = TRUE;",
+    "marks": 1,
+    "answer": "4",
+    "working": "1 mark: 4 tickets are sold (K1, K2, K4, K5)."
+   },
+   {
+    "label": "b",
+    "text": "Write an SQL query that outputs the TicketNo and Event of every ticket in the VIP zone. State the output.",
+    "marks": 2,
+    "answer": "SELECT TicketNo, Event FROM TICKETS WHERE Zone = 'VIP'; Output: K1 Cricket Final; K3 Music Night",
+    "working": "1 mark: correct field names and WHERE Zone = 'VIP'. 1 mark: both rows (K1 and K3)."
+   },
+   {
+    "label": "c",
+    "text": "State the output of: SELECT SUM(Price) FROM TICKETS WHERE Zone = 'VIP';",
+    "marks": 2,
+    "answer": "8500",
+    "working": "1 mark: adds the two VIP prices (5000 and 3500) whether sold or not. 1 mark: 8500."
+   }
+  ],
+  "check": "len([1 for s in [True, True, False, True, True] if s]) == 4 and sum([5000, 3500]) == 8500",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-012",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table BUSES is shown below.\nRouteNo | Origin | Destination | Fare | Seats\nR10 | Lahore | Karachi | 5200 | 40\nR11 | Multan | Karachi | 3100 | 36\nR12 | Lahore | Quetta | 6400 | 30\nR13 | Peshawar | Karachi | 5900 | 40\n\nComplete the SQL query so that it outputs the RouteNo and Fare of every route that ends in Karachi with a Fare greater than 3000.\nSELECT ................ , ................\nFROM BUSES\nWHERE ................ = 'Karachi' ................ Fare > 3000;",
+    "marks": 2,
+    "answer": "SELECT RouteNo, Fare FROM BUSES WHERE Destination = 'Karachi' AND Fare > 3000;",
+    "working": "1 mark: RouteNo and Fare in the SELECT line. 1 mark: Destination and AND in the WHERE line."
+   },
+   {
+    "label": "b",
+    "text": "State the output of the completed query in (a).",
+    "marks": 2,
+    "answer": "R10 5200; R11 3100; R13 5900",
+    "working": "1 mark for R10 and R13. 1 mark for R11 and no route from Lahore or Quetta."
+   },
+   {
+    "label": "c",
+    "text": "State the output of the same query if AND is replaced by OR.",
+    "marks": 2,
+    "answer": "R10, R11, R12, R13",
+    "working": "1 mark: R12 (Lahore to Quetta) is now included because its fare exceeds 3000. 1 mark: all four routes are output, since each is either to Karachi or has a Fare above 3000."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-013",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table CLINIC is shown below.\nPatientID | Age | Ward | Days | Charge\nC1 | 71 | ICU | 4 | 18500\nC2 | 34 | Maternity | 2 | 9200\nC3 | 68 | Cardiology | 6 | 14750\nC4 | 45 | ICU | 2 | 12100\nC5 | 80 | Cardiology | 3 | 8600\n\nWrite an SQL query that outputs the PatientID and Charge of every ICU patient who stayed 3 or more days.",
+    "marks": 2,
+    "answer": "SELECT PatientID, Charge FROM CLINIC WHERE Ward = 'ICU' AND Days >= 3; Output: C1 18500",
+    "working": "1 mark: SELECT PatientID, Charge FROM CLINIC. 1 mark: WHERE Ward = 'ICU' AND Days >= 3 (only C1; C4 stayed only 2 days)."
+   },
+   {
+    "label": "b",
+    "text": "Write an SQL query that outputs the average Charge of patients aged 65 or over. State the output.",
+    "marks": 3,
+    "answer": "SELECT AVG(Charge) FROM CLINIC WHERE Age >= 65; Output: 13950",
+    "working": "1 mark: SELECT AVG(Charge) FROM CLINIC. 1 mark: WHERE Age >= 65 (C1, C3 and C5). 1 mark: 13950 (total 41850 divided by 3)."
+   },
+   {
+    "label": "c",
+    "text": "State the output of: SELECT PatientID FROM CLINIC WHERE Ward = 'ICU' OR Days >= 3; Explain why this query outputs more rows than the query in part (a).",
+    "marks": 3,
+    "answer": "C1, C3, C4, C5. OR returns a row when either condition is true; AND (part a) needs both to be true, so C3, C4 and C5 would be missed.",
+    "working": "1 mark: C1, C3, C4 and C5 output. 1 mark: OR needs only one condition to be true. 1 mark: AND in part (a) excluded C3, C5 (not ICU) and C4 (only 2 days)."
+   }
+  ],
+  "check": "(18500+14750+8600)/3 == 13950",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-014",
+  "topic": "Databases",
+  "subtopic": "Queries (SQL, query-by-example in 2022)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The table HOSTELS is shown below.\nHostelNo | Name | Gender | Rooms | RentPerMonth\nH1 | Jinnah House | Male | 40 | 9000\nH2 | Fatima Hall | Female | 25 | 8500\nH3 | Iqbal Block | Male | 30 | 7200\nH4 | Zainab Wing | Female | 18 | 11000\n\nState the output of: SELECT Name FROM HOSTELS WHERE NOT Gender = 'Male' AND Rooms > 20;",
+    "marks": 2,
+    "answer": "Fatima Hall",
+    "working": "1 mark: NOT Gender = 'Male' selects the female hostels (H2 and H4). 1 mark: only Fatima Hall also has more than 20 rooms."
+   },
+   {
+    "label": "b",
+    "text": "Write an SQL query that outputs the lowest RentPerMonth of all hostels. State the output.",
+    "marks": 2,
+    "answer": "SELECT MIN(RentPerMonth) FROM HOSTELS; Output: 7200",
+    "working": "1 mark: SELECT MIN(RentPerMonth) FROM HOSTELS. 1 mark: 7200."
+   },
+   {
+    "label": "c",
+    "text": "Write an SQL query that outputs the total number of Rooms in the female hostels. State the output.",
+    "marks": 2,
+    "answer": "SELECT SUM(Rooms) FROM HOSTELS WHERE Gender = 'Female'; Output: 43",
+    "working": "1 mark: SUM(Rooms) with WHERE Gender = 'Female'. 1 mark: 43 (25 + 18)."
+   }
+  ],
+  "check": "min([9000, 8500, 7200, 11000]) == 7200 and sum([25, 18]) == 43",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-015",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A pharmacy keeps the table MEDICINE:\nMedCode | Name | Quantity | ExpiryDate | Refrigerated\nM01 | Amoxil | 120 | 31/03/2027 | FALSE\nM02 | Insulin | 40 | 15/01/2027 | TRUE\nM03 | Panadol | 300 | 30/06/2028 | FALSE\nM04 | Vitamin C | 75 | 31/12/2026 | FALSE\n\nState the number of fields and the number of records in MEDICINE.",
+    "marks": 2,
+    "answer": "5 fields; 4 records",
+    "working": "1 mark: 5 fields. 1 mark: 4 records."
+   },
+   {
+    "label": "b",
+    "text": "Give the most suitable data type for each of these fields: MedCode, Quantity, ExpiryDate, Refrigerated.",
+    "marks": 4,
+    "answer": "MedCode: text (alphanumeric); Quantity: integer; ExpiryDate: date/time; Refrigerated: Boolean",
+    "working": "1 mark each. MedCode mixes letters and digits and is not used in calculations, so text (alphanumeric). Quantity is a whole number: integer. ExpiryDate: date/time. Refrigerated is TRUE or FALSE: Boolean."
+   },
+   {
+    "label": "c",
+    "text": "Name the most suitable primary key and give a reason.",
+    "marks": 2,
+    "answer": "MedCode; each medicine has a different code, so no two records can have the same value.",
+    "working": "1 mark: MedCode. 1 mark: it is unique for each record (Name could be repeated for different pack sizes)."
+   }
+  ],
+  "check": "len(['MedCode','Name','Quantity','ExpiryDate','Refrigerated']) == 5 and len(['M01','M02','M03','M04']) == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-016",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A football club stores one record for each member in the table MEMBER with the fields MemberNo, FullName, DateOfBirth, Phone and Position. Some members share the same FullName, and some family members share one Phone number. Name the most suitable primary key and give a reason.",
+    "marks": 2,
+    "answer": "MemberNo; each member is given a different number, so it is unique for every record.",
+    "working": "1 mark: MemberNo. 1 mark: unique for each member, whereas names and phone numbers can repeat."
+   },
+   {
+    "label": "b",
+    "text": "Explain why Phone would not be a suitable primary key for this table.",
+    "marks": 2,
+    "answer": "Family members share one phone number, so the field is not unique and would cause the database to reject records.",
+    "working": "1 mark: a primary key must be unique for every record. 1 mark: family members share a phone number, so duplicate values would appear."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-017",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A shop's table PRICELIST has the fields ItemName, Price, StockCount, IsOnSale and LaunchDate. Example values: Price 450.50, StockCount 12, IsOnSale TRUE, LaunchDate 14/08/2026. Give the most suitable data type for Price and justify your answer.",
+    "marks": 2,
+    "answer": "Real; Price can have decimal places (450.50), and it is not a whole number.",
+    "working": "1 mark: real. 1 mark: the value has a decimal part, so integer would lose the 50 paisa."
+   },
+   {
+    "label": "b",
+    "text": "Give the most suitable data type for StockCount and for LaunchDate.",
+    "marks": 2,
+    "answer": "StockCount: integer; LaunchDate: date/time",
+    "working": "1 mark each. StockCount is a whole number of items, and LaunchDate needs date checks and date calculations."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-018",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hospital table WARDVISIT has a field Discharged that stores TRUE or FALSE only. Name the data type of Discharged.",
+    "marks": 1,
+    "answer": "Boolean",
+    "working": "1 mark: Boolean (a field with two possible values)."
+   },
+   {
+    "label": "b",
+    "text": "Give one other field in a hospital table that would be Boolean, and explain your choice.",
+    "marks": 2,
+    "answer": "For example, Insured (TRUE or FALSE); there are only two possible values.",
+    "working": "1 mark: a sensible field, e.g. IsPregnant or Insured. 1 mark: only two possible values exist, so Boolean is suitable."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-019",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A table BOOKINGS holds 40 records and 6 fields. Two records are deleted and then 5 new records are added. State the number of records now in the table.",
+    "marks": 2,
+    "answer": "43 records",
+    "working": "1 mark: 40 − 2 + 5. 1 mark: 43."
+   },
+   {
+    "label": "b",
+    "text": "A new field called Notes is added to the table. State the number of fields now in the table.",
+    "marks": 1,
+    "answer": "7 fields",
+    "working": "1 mark: 6 + 1 = 7 fields."
+   }
+  ],
+  "check": "40 - 2 + 5 == 43 and 6 + 1 == 7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-020",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A school stores each student's DateOfBirth in a table field. Explain why this field should have the date/time data type rather than the text data type.",
+    "marks": 3,
+    "answer": "A date/time field only accepts valid dates, so an invalid date such as 31/02/2012 is rejected; it can be sorted into date order and used to calculate a student's age.",
+    "working": "1 mark: date/time only accepts valid dates (text would accept invalid values). 1 mark: it can be sorted by date correctly. 1 mark: dates can be used in calculations such as age."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-021",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A table stores a parent's phone number 03214567890 in a field with the integer data type. State what happens to the stored value and suggest the most suitable data type.",
+    "marks": 2,
+    "answer": "The leading zero is lost, so the value is stored as 3214567890, which is wrong. Use text (alphanumeric) because the number is never used in calculations.",
+    "working": "1 mark: leading zero is lost. 1 mark: text (alphanumeric)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-022",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A table ORDERS has the fields OrderID, CustomerName, CustomerPhone, Product and Quantity. The same customer appears in several records with the same name and phone number. Describe one problem that this repeated data causes when a customer changes their phone number.",
+    "marks": 3,
+    "answer": "The phone number must be changed in every record for that customer; if one record is missed, the table holds two different phone numbers for the same customer, so the data is inconsistent.",
+    "working": "1 mark: the phone number must be updated in several records. 1 mark: a missed record leaves the data inconsistent. 1 mark: the same customer can then appear with two different values."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-023",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student database has the primary key StudentID. The table holds 300 records. A user tries to add a new record with the StudentID 105, which already exists in the table. Explain what the database does and why.",
+    "marks": 2,
+    "answer": "The database rejects the new record, because a primary key must be unique and 105 is already used.",
+    "working": "1 mark: the record is rejected (not added). 1 mark: the primary key must be unique for every record."
+   },
+   {
+    "label": "b",
+    "text": "The user then adds a record with the StudentID 1050, which is not used. State what happens to the number of records in the table.",
+    "marks": 1,
+    "answer": "The number of records increases by 1 (to 301).",
+    "working": "1 mark: the record is added, so the count increases by one."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-024",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A café wants a table SALE to record each sale. Fields: SaleNo, SaleDate, Items, Total, CashPaid (TRUE or FALSE). Example Items value: 2 coffees, 1 cake. Give the most suitable data type for each field.",
+    "marks": 4,
+    "answer": "SaleNo: integer (or alphanumeric); SaleDate: date/time; Items: text; Total: real; CashPaid: Boolean",
+    "working": "1 mark each. SaleNo is a number. SaleDate: date/time. Items holds a description, not a calculation: text. Total can have decimals: real. CashPaid has two values: Boolean."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-025",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A database field called Age must hold whole numbers from 5 to 18 only. Describe a validation check that the database could apply to this field, and explain how it prevents an incorrect record.",
+    "marks": 3,
+    "answer": "A range check: the database accepts only values from 5 to 18. A value such as 25 or 3.5 would be rejected, so the record cannot be entered with an invalid age.",
+    "working": "1 mark: range check. 1 mark: values outside 5–18 are rejected. 1 mark: the value must be a whole number, so a decimal such as 3.5 is also rejected by the data type."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-026",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A school stores its STUDENTS table with the fields FirstName, FamilyName, DateOfBirth and Class. Two students share the same FirstName, FamilyName and DateOfBirth. Explain why none of the existing fields can be used as the primary key, and suggest a new field to use instead, giving its data type.",
+    "marks": 4,
+    "answer": "Name, date of birth and class can all be repeated by different students, so none of them is unique. Add a StudentNo field, given a different value for each student. Its data type: integer (or alphanumeric).",
+    "working": "1 mark: FirstName/FamilyName can repeat. 1 mark: DateOfBirth and Class can repeat. 1 mark: add a new unique field, e.g. StudentNo. 1 mark: suitable data type (integer or alphanumeric)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-027",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A shop stores the price of an item as text in the form 'Rs 450'. Explain two problems this causes when the shop wants to add up the prices of items sold.",
+    "marks": 3,
+    "answer": "The database cannot add text values; the 'Rs' prefix must be removed first. A price stored as text may also be sorted or compared incorrectly, for example 'Rs 1200' sorting before 'Rs 900', because text is compared character by character.",
+    "working": "1 mark: text cannot be used in arithmetic or SUM. 1 mark: the 'Rs' text must be removed before calculation. 1 mark: text is sorted alphabetically, not by value."
+   },
+   {
+    "label": "b",
+    "text": "State the most suitable data type for Price and an example of a valid value.",
+    "marks": 1,
+    "answer": "Real, for example 450.00",
+    "working": "1 mark: real, with an example value such as 450.00 (any decimal number is acceptable)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-028",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A supermarket's table PRODUCTS has the fields BarCode, ProductName, Price, Category and Supplier. BarCode is a 13-digit number that can start with 0, for example 0123456789012. Explain whether BarCode can be the primary key and state the most suitable data type for BarCode, giving two reasons.",
+    "marks": 4,
+    "answer": "Yes, BarCode can be the primary key because each product has a different barcode. Use text (alphanumeric): a leading zero would be lost if the field were integer, and the barcode is never used in arithmetic.",
+    "working": "1 mark: unique for each product, so suitable as primary key. 1 mark: text (alphanumeric). 1 mark: leading zero would be lost in an integer. 1 mark: no calculations are done with it."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-029",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A gym's table MEMBERS has 9 fields and 1200 records. The gym adds 2 new fields, deletes 150 records and then adds 80 new records. State the number of fields and the number of records now in the table.",
+    "marks": 3,
+    "answer": "11 fields; 1130 records",
+    "working": "1 mark: 9 + 2 = 11 fields. 1 mark: 1200 − 150 + 80 = 1130 records. 1 mark: both answers stated together."
+   }
+  ],
+  "check": "9 + 2 == 11 and 1200 - 150 + 80 == 1130",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-030",
+  "topic": "Databases",
+  "subtopic": "Tables, fields, records, primary keys and data types",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A weather station table READINGS has the fields ReadingID, Temperature, ReadingTime, Location and Faulty. Example values: Temperature 23.5, ReadingTime 06/10/2026 09:30, Faulty FALSE. Give the most suitable data type for each field.",
+    "marks": 4,
+    "answer": "ReadingID: integer (or alphanumeric); Temperature: real; ReadingTime: date/time; Location: text; Faulty: Boolean. Accept alphanumeric for ReadingID.",
+    "working": "1 mark each. Temperature has decimals: real. ReadingTime holds a date and a time: date/time. Faulty has two values: Boolean. Location is text."
+   },
+   {
+    "label": "b",
+    "text": "Explain why Temperature should be real rather than integer.",
+    "marks": 2,
+    "answer": "Temperatures include decimal values such as 23.5, which an integer field cannot store; storing only whole numbers would lose accuracy.",
+    "working": "1 mark: decimal values exist. 1 mark: integer would round or lose the decimal part."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-031",
+  "topic": "The internet and its uses",
+  "subtopic": "Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student types this address into a browser:\nhttps://ebooks.sciencehub-demo.example/catalogue/science/physics.html?edition=2&lang=en\nState the protocol used.",
+    "marks": 1,
+    "answer": "HTTPS",
+    "working": "1 mark: HTTPS (the secure version of HTTP)."
+   },
+   {
+    "label": "b",
+    "text": "Give the domain name and identify the subdomain in this address (the address is the one in part (a)).",
+    "marks": 2,
+    "answer": "Domain name: sciencehub-demo.example (the full host is ebooks.sciencehub-demo.example); subdomain: ebooks",
+    "working": "1 mark: the domain name sciencehub-demo.example (the main part of the host name). 1 mark: ebooks is the subdomain (the part before the main domain)."
+   },
+   {
+    "label": "c",
+    "text": "Identify the file name and explain what the text after the question mark does.",
+    "marks": 2,
+    "answer": "File name: physics.html. The text after ? is a query string that sends the values edition=2 and lang=en to the web server.",
+    "working": "1 mark: physics.html. 1 mark: the query string passes data (edition and language choices) to the server."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-032",
+  "topic": "The internet and its uses",
+  "subtopic": "Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what a browser cache is.",
+    "marks": 1,
+    "answer": "A store on the user's computer that keeps copies of recently visited web pages, images and files.",
+    "working": "1 mark: local storage of copies of pages or files already downloaded."
+   },
+   {
+    "label": "b",
+    "text": "Explain how a browser cache makes a web page load faster the second time it is visited.",
+    "marks": 2,
+    "answer": "The browser loads the stored copies from the local device instead of downloading them again across the internet, which takes less time.",
+    "working": "1 mark: files are read from the local cache. 1 mark: no need to download them again over the network, so loading is quicker."
+   },
+   {
+    "label": "c",
+    "text": "Give one reason why a user might clear the browser cache.",
+    "marks": 1,
+    "answer": "To free up storage space, or to make sure the browser loads the newest version of a page.",
+    "working": "1 mark: any sensible reason (storage space, out-of-date pages, privacy)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-033",
+  "topic": "The internet and its uses",
+  "subtopic": "Internet, WWW, URLs, browsers, HTTP(S), DNS and cookies",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student types the address of her school's results page and the browser shows 404 Not Found. Explain what the status code 404 means.",
+    "marks": 2,
+    "answer": "The browser connected to the web server, and the server responded that the requested page does not exist at that address.",
+    "working": "1 mark: the server was found and responded. 1 mark: the requested page or file does not exist on the server."
+   },
+   {
+    "label": "b",
+    "text": "A second student types a different domain name that does not exist and the browser shows that the site cannot be found. Explain why this error is different from a 404 error. Refer to DNS in your answer.",
+    "marks": 3,
+    "answer": "The DNS look-up fails, so the browser cannot get the IP address of the domain. No web server is contacted, so no status code is returned, unlike a 404 where the server was reached.",
+    "working": "1 mark: DNS cannot resolve the domain name to an IP address. 1 mark: the browser never reaches a web server. 1 mark: a 404 comes from a server that was reached and responded."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-034",
+  "topic": "The internet and its uses",
+  "subtopic": "Security solutions (SSL, firewalls, proxy servers, backups)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A shop backs up its records. On Monday it makes a full backup of 80 GB. Each day from Tuesday to Friday it makes an incremental backup containing only the changes since the previous day: 3 GB, 2.5 GB, 4 GB and 1.5 GB. Calculate the total amount of backup data stored by Friday.",
+    "marks": 2,
+    "answer": "91 GB",
+    "working": "1 mark: 80 + 3 + 2.5 + 4 + 1.5. 1 mark: 91 GB (accept 91 GB with units)."
+   },
+   {
+    "label": "b",
+    "text": "Describe what an incremental backup is and state how it differs from a full backup.",
+    "marks": 2,
+    "answer": "An incremental backup copies only the files that have changed since the last backup. A full backup copies all the data.",
+    "working": "1 mark: incremental copies only changed data since the last backup. 1 mark: a full backup copies all files."
+   }
+  ],
+  "check": "80 + 3 + 2.5 + 4 + 1.5 == 91",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-035",
+  "topic": "The internet and its uses",
+  "subtopic": "Security solutions (SSL, firewalls, proxy servers, backups)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A website's address begins with https:// and a padlock is shown in the browser. State two things this shows about the connection.",
+    "marks": 2,
+    "answer": "The data sent between the browser and the website is encrypted; the website's identity has been checked (SSL certificate).",
+    "working": "1 mark: data is encrypted. 1 mark: the server's identity is verified by a certificate."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-036",
+  "topic": "The internet and its uses",
+  "subtopic": "Security solutions (SSL, firewalls, proxy servers, backups)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A college network sends all web requests through a proxy server. Explain two benefits of this for the college.",
+    "marks": 4,
+    "answer": "The proxy stores copies of popular web pages (caching), so repeated requests are answered without using as much internet bandwidth. It can also block access to websites that the college does not allow, such as harmful or unsuitable sites.",
+    "working": "1 mark: caching reduces bandwidth use. 1 mark: a second benefit: blocks unsuitable websites. 1 mark: the proxy answers from its stored copy. 1 mark: the proxy checks requests before they reach the internet."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-037",
+  "topic": "The internet and its uses",
+  "subtopic": "Security solutions (SSL, firewalls, proxy servers, backups)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A small business backs up its accounts file every night. Explain why the business should test its backups regularly, by restoring files from them.",
+    "marks": 3,
+    "answer": "A backup may be corrupted, incomplete or never have run correctly. A restore test shows the files can really be recovered. Without testing, the business may find out only after data is lost.",
+    "working": "1 mark: a backup can be corrupt or incomplete without anyone noticing. 1 mark: a test restore confirms the files can be recovered. 1 mark: problems are found before a real emergency."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-038",
+  "topic": "The internet and its uses",
+  "subtopic": "Security solutions (SSL, firewalls, proxy servers, backups)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hospital stores patients' records on a central server. Explain how access levels and encryption work together to protect these records. Describe one method the hospital can use to see who has accessed a record.",
+    "marks": 5,
+    "answer": "Access levels limit each member of staff to the records they need (a nurse can read but a receptionist may not). Encryption makes stored data unreadable without the key, so even a copy of the file is useless to an intruder. The hospital can keep an audit log of each login and each record viewed, so unauthorised access can be traced.",
+    "working": "1 mark each for any five of: access levels restrict each user to needed records; staff with a higher level can change data; encryption makes stolen data unreadable; the key is needed to decrypt; an audit log records who accessed which record and when; logs can be checked for unusual activity."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-039",
+  "topic": "The internet and its uses",
+  "subtopic": "Cyber security threats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A message on a phone says: 'You have won a prize. Send your bank PIN to this number to claim it.' Name this type of threat and describe it.",
+    "marks": 2,
+    "answer": "Phishing or social engineering, where the attacker tricks the user into giving away confidential data by pretending to be a trustworthy source.",
+    "working": "1 mark: phishing / social engineering. 1 mark: the user is tricked into giving personal or banking details."
+   },
+   {
+    "label": "b",
+    "text": "Describe a keylogger and state one way to protect a computer against it.",
+    "marks": 2,
+    "answer": "Software or hardware that secretly records every key pressed on a keyboard and sends the record to the attacker, who can find passwords. Protection: anti-malware software, or use of an on-screen keyboard / password manager with autofill.",
+    "working": "1 mark: records keystrokes secretly to find passwords. 1 mark: any sensible protection."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-040",
+  "topic": "The internet and its uses",
+  "subtopic": "Cyber security threats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe shoulder surfing and give one way a user can reduce this risk when entering a PIN at a cash machine.",
+    "marks": 2,
+    "answer": "Shoulder surfing is watching someone over their shoulder to read a PIN, password or screen. The user can cover the keypad with a hand, or check that no one is close by.",
+    "working": "1 mark: someone looks over the victim's shoulder to see the information. 1 mark: covering the keypad or checking for nearby people."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-041",
+  "topic": "The internet and its uses",
+  "subtopic": "Cyber security threats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A clinic in Rawalpindi is infected with ransomware. Describe what ransomware does to the clinic's files.",
+    "marks": 2,
+    "answer": "It encrypts the files on the computers so they cannot be opened, and the attacker demands a payment to provide the decryption key.",
+    "working": "1 mark: files are encrypted so cannot be used. 1 mark: a payment is demanded for the key."
+   },
+   {
+    "label": "b",
+    "text": "Explain how regular backups stored away from the computers reduce the effect of ransomware.",
+    "marks": 2,
+    "answer": "The clinic can restore its files from a backup made before the attack, so it does not need to pay the attacker. Backups kept separately are not encrypted by the ransomware.",
+    "working": "1 mark: files can be restored from an unaffected backup. 1 mark: a separate backup is not infected or encrypted with the rest of the files."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-042",
+  "topic": "The internet and its uses",
+  "subtopic": "Cyber security threats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how data interception can happen on a public Wi-Fi network, and state one way an https connection protects the data against it.",
+    "marks": 3,
+    "answer": "An attacker on the same network captures data packets as they travel and can read any data that is not encrypted, such as login details. An https connection (SSL/TLS) encrypts the data, so intercepted packets cannot be read without the key.",
+    "working": "1 mark: an attacker on the same network captures the packets as they travel. 1 mark: unencrypted data such as passwords can be read from them. 1 mark: https (SSL/TLS) encrypts the data, so intercepted data is unreadable."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-043",
+  "topic": "The internet and its uses",
+  "subtopic": "Cyber security threats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what a Trojan horse is and why a user is unlikely to notice it.",
+    "marks": 3,
+    "answer": "A Trojan horse is malware disguised as a useful or harmless program. The user installs it willingly, and it can run in the background, stealing data or opening a backdoor, without showing obvious signs.",
+    "working": "1 mark: disguised as a useful program. 1 mark: the user installs it. 1 mark: it works in the background without obvious effects."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-044",
+  "topic": "The internet and its uses",
+  "subtopic": "Cyber security threats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare a virus, a worm and a Trojan horse. State one difference between a worm and a virus.",
+    "marks": 3,
+    "answer": "A virus attaches itself to a file or program and needs the user to run that file to spread. A worm replicates itself and spreads across a network without needing a host file. A Trojan horse disguises itself as a legitimate program and does not replicate by itself. Difference: a worm spreads on its own across the network; a virus needs a host file and user action.",
+    "working": "1 mark: virus needs a host and user action to spread. 1 mark: worm self-replicates across networks. 1 mark: Trojan disguises itself and does not spread itself."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-045",
+  "topic": "The internet and its uses",
+  "subtopic": "Cyber security threats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A distributed denial of service (DDoS) attack uses a botnet of thousands of infected computers. Explain why a DDoS attack from many sources is harder to stop than an attack from a single computer.",
+    "marks": 3,
+    "answer": "Traffic arrives from thousands of different IP addresses, so blocking one address makes little difference. Each computer sends only a small amount of traffic, so the attack looks like normal users, making it hard to filter. The server is overwhelmed by the total volume.",
+    "working": "1 mark: many sources, so blocking one address does not help. 1 mark: each source looks like normal traffic. 1 mark: the combined volume overwhelms the server."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-046",
+  "topic": "The internet and its uses",
+  "subtopic": "Cyber security threats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A password uses exactly 8 lowercase letters (a to z), and each letter can be used more than once. Calculate the number of different passwords possible.",
+    "marks": 2,
+    "answer": "208 827 064 576 (that is 26⁸)",
+    "working": "1 mark: 26 choices for each of the 8 positions, so 26 × 26 × ... (8 times). 1 mark: 208 827 064 576."
+   },
+   {
+    "label": "b",
+    "text": "An attacker can test 1 000 000 passwords every second. Calculate how many seconds the attacker would need to try every possible password in part (a). Give your answer to the nearest whole second.",
+    "marks": 2,
+    "answer": "208 827 seconds (about 2.4 days)",
+    "working": "1 mark: divide the total from (a) by 1 000 000. 1 mark: 208 827 seconds (accept 208 827.06 seconds)."
+   },
+   {
+    "label": "c",
+    "text": "Suggest one change that would make the attack in part (b) take much longer, and explain your choice.",
+    "marks": 2,
+    "answer": "Use a longer password, or include upper case letters, numbers and symbols, which increases the number of possible passwords and so the time needed.",
+    "working": "1 mark: a longer password or a bigger character set. 1 mark: each extra character multiplies the number of possible passwords."
+   }
+  ],
+  "check": "26**8 == 208827064576 and round(26**8/1000000) == 208827",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-047",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two features of a digital currency that are different from money held in a bank account.",
+    "marks": 2,
+    "answer": "Digital currency is not issued or controlled by a central bank or government, and its transactions are recorded on a shared, distributed ledger rather than in a single bank's records.",
+    "working": "1 mark: no central bank or government control (decentralised). 1 mark: transactions recorded on a distributed ledger or peer-to-peer."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-048",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Each block in a blockchain contains a list of transactions and a hash of the previous block. Describe what a hash is.",
+    "marks": 2,
+    "answer": "A hash is a fixed-length code calculated from the data in a block. Any small change in the data gives a completely different hash.",
+    "working": "1 mark: a code calculated from the data (fixed length). 1 mark: even a small change produces a different hash."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-049",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what a digital wallet is used for.",
+    "marks": 1,
+    "answer": "A digital wallet stores the keys used to send and receive digital currency, and shows the user's balance.",
+    "working": "1 mark: stores keys and shows balance, or lets the user send and receive digital currency."
+   },
+   {
+    "label": "b",
+    "text": "State what the private key in a digital wallet is used for, and why it must be kept secret.",
+    "marks": 2,
+    "answer": "The private key is used to sign (authorise) transactions. Anyone who has the private key can spend the owner's currency.",
+    "working": "1 mark: used to authorise transactions. 1 mark: anyone with it can take the currency."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-050",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what is meant by a distributed ledger.",
+    "marks": 2,
+    "answer": "A copy of the full record of transactions is held by many computers (nodes) in the network, and each copy is updated together, so there is no single central copy.",
+    "working": "1 mark: a copy is held on many computers. 1 mark: all copies are kept updated and agree; no single central database."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-051",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a person who changes the data in an old block of a blockchain would also need to change every block after it, and how the network would detect the change.",
+    "marks": 4,
+    "answer": "Each block contains the hash of the previous block, so changing an old block changes its hash, which no longer matches the hash stored in the next block. The attacker would have to recalculate all later blocks. Other nodes compare their copies with the altered chain and reject it because the hashes do not match.",
+    "working": "1 mark: the old block's hash changes. 1 mark: the next block stores the previous hash, so it no longer matches. 1 mark: all later blocks must be recalculated. 1 mark: other computers compare copies and reject the altered chain."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-052",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what is meant by mining in a blockchain system.",
+    "marks": 2,
+    "answer": "Miners use computers to solve a difficult puzzle, by repeatedly trying values (a nonce) until the block's hash meets a required pattern. The first miner to solve it adds the new block to the chain and receives a reward in digital currency.",
+    "working": "1 mark: solving a hard puzzle by trial and error (nonce). 1 mark: the successful miner adds the block and receives a reward."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-053",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A digital currency network gives 5 coins as a reward for each block mined. A miner successfully mines 12 blocks in one day. Calculate the total number of coins the miner receives that day.",
+    "marks": 2,
+    "answer": "60 coins",
+    "working": "1 mark: 5 × 12. 1 mark: 60 coins."
+   }
+  ],
+  "check": "5 * 12 == 60",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-054",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a transaction recorded on a blockchain is very difficult to reverse once it has been added to the chain.",
+    "marks": 3,
+    "answer": "Each block is linked to the previous one by hashes, and many nodes hold copies. Reversing a transaction would need the block to be changed and all later blocks recalculated across the network, which most participants would reject. So there is no bank that can cancel the payment, and a buyer who pays a fraudster is unlikely to get the money back.",
+    "working": "1 mark: blocks are linked by hashes, so changing one breaks the chain. 1 mark: the copies on many nodes would have to agree to the change. 1 mark: no central authority can cancel the transaction, so the buyer may lose the money."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-055",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A village cooperative in Sindh is considering using a blockchain to record the milk payments made to 300 farmers. Discuss two advantages and two disadvantages of this for the cooperative.",
+    "marks": 5,
+    "answer": "Advantages: records cannot easily be changed, which builds farmers' trust; every farmer can check the shared record; there is no need for a central bank or trusted official to keep the books. Disadvantages: farmers without internet access or digital skills may be excluded; mistakes entered into the chain are permanent and cannot be easily corrected; the system can use a lot of electricity if it uses mining; the cooperative must still be trusted to record correct data at the start.",
+    "working": "1 mark each for any five: records are tamper-evident/trusted; shared transparent record; no central authority needed; farmers without internet or skills are excluded; errors cannot be easily reversed; high energy use for mining; initial data entry must be correct; costs of setting up the system."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-056",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Each hash in a blockchain is 64 hexadecimal digits long. Each hexadecimal digit represents 4 bits. Calculate the number of bits in one hash.",
+    "marks": 1,
+    "answer": "256 bits",
+    "working": "1 mark: 64 × 4 = 256 bits."
+   },
+   {
+    "label": "b",
+    "text": "Calculate how many different values a 256-bit hash can take. Give your answer as a power of 2.",
+    "marks": 2,
+    "answer": "2²⁵⁶ different values",
+    "working": "1 mark: each bit has 2 values, so 2 multiplied by itself 256 times. 1 mark: 2²⁵⁶."
+   },
+   {
+    "label": "c",
+    "text": "Explain why two different blocks almost never produce the same hash, even though there are fewer possible hashes than possible block data values.",
+    "marks": 2,
+    "answer": "Because the hash has 2²⁵⁶ possible values, which is extremely large; the chance of two different inputs giving the same hash is practically zero in use.",
+    "working": "1 mark: 2²⁵⁶ possible values, so collisions are extremely rare. 1 mark: a hash can give different outputs for different inputs, and any change alters it."
+   }
+  ],
+  "check": "64 * 4 == 256 and 2**256 > 10**76",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-057",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a blockchain system that uses proof of work needs a large amount of electricity, and discuss how this affects the choice of blockchain for a small business.",
+    "marks": 4,
+    "answer": "Miners run many computers that repeatedly try huge numbers of values to find a valid hash. This uses a lot of electrical energy. A small business may find the cost of electricity and hardware too high, so a blockchain with lower energy needs or a traditional database may be more suitable.",
+    "working": "1 mark: many computers repeatedly calculate hashes. 1 mark: this uses a large amount of electricity. 1 mark: cost of energy and equipment is high for a small business. 1 mark: a traditional database or a different system may be better."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-058",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the steps a computer on the network takes to check a newly added block before accepting it into its copy of the blockchain.",
+    "marks": 5,
+    "answer": "The node checks that the new block's hash meets the required pattern (proof of work). It checks the hash stored in the block matches the previous block's hash. It checks each transaction in the block is valid (correct digital signatures and enough currency in the sender's account). If all checks pass, the node adds the block to its copy; if not, it rejects the block.",
+    "working": "1 mark each for any five: check the block's hash meets the required pattern; check the previous-block hash matches the last block in the node's chain; check transactions are signed correctly; check the sender has enough currency; check no transaction is spent twice; add the block only if all checks are passed."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-059",
+  "topic": "The internet and its uses",
+  "subtopic": "Digital currency and blockchain",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A user suspects that a block in a blockchain has been changed. Explain how the user can check the copy they hold against the rest of the network, and why the altered block would not be accepted.",
+    "marks": 4,
+    "answer": "The user compares the hash of each block with the hash stored in the next block, going back along the chain. If a block's hash does not match the stored value in the following block, the chain has been broken. The user compares their chain with the copies on other nodes; the altered copy is rejected because the majority of nodes have a different valid chain.",
+    "working": "1 mark: compare each block's hash with the previous-hash value stored in the next block. 1 mark: a mismatch shows that a block changed. 1 mark: copies on other nodes are compared. 1 mark: the altered copy disagrees with the majority, so it is rejected."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-060",
+  "topic": "The internet and its uses",
+  "subtopic": "Cyber security threats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Adware is malware that displays unwanted adverts and may collect information about the websites a user visits. State one sign that a computer may have adware.",
+    "marks": 2,
+    "answer": "Unexpected pop-up adverts appear, or the browser's home page or toolbars change without permission; the computer may also run slowly.",
+    "working": "1 mark: unwanted adverts or pop-ups appear. 1 mark: browser settings change without permission, or the computer slows down."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-061",
+  "topic": "Programming",
+  "subtopic": "Extended programming task (15-mark scenario)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A bike-share scheme in Lahore has 20 bikes numbered 1 to 20. At the end of each day the program reads one record for each ride: the bike number (1 to 20), and the number of minutes ridden (a whole number from 0 to 600). Enter a bike number of 0 to end the input. The charge is Rs 30 for every started 30 minutes, so a ride of 1 to 30 minutes costs Rs 30, 31 to 60 minutes costs Rs 60, and a 0-minute ride costs nothing.\nThe program must:\n• validate the bike number and the minutes, re-asking until each value is valid;\n• store the total income for each bike in a 1D array, declared with DECLARE and initialised to 0;\n• calculate the charge for each ride;\n• output each bike number with its total income, then the bike number with the highest income;\n• output how many bikes earned nothing.\nWrite the program in pseudocode, Python, Java or VB.NET. Use meaningful names, comments and clear prompts.",
+    "marks": 15,
+    "answer": "A complete program that: declares Income[1:20] and the other variables; inputs records in a loop until 0; validates both inputs with re-entry loops; calculates blocks as (Minutes + 29) DIV 30 and charge as blocks × 30; adds the charge to Income[Bike]; outputs each bike's income in a loop; finds the maximum with a loop and outputs that bike; counts zero entries and outputs the count.",
+    "working": "Mark points (up to 15): declares the array and initialises it to 0 (1); input loop that ends at 0 (2); validation of bike number 1–20 with re-entry (2); validation of minutes 0–600 with re-entry (2); correct started-30-minute charge (e.g. (Minutes + 29) DIV 30 × 30) (2); accumulates the charge in the array (1); outputs each bike's total (1); finds the highest-income bike with a loop and a max variable (2); counts and outputs bikes with zero income (1); meaningful names, data types, comments and clear prompts (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-062",
+  "topic": "Programming",
+  "subtopic": "Extended programming task (15-mark scenario)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A fish farm in Thatta has 7 tanks, numbered 1 to 7. Each day at 8 am the pH of every tank is measured for 5 days. Each reading is a REAL number from 0.0 to 14.0. Enter a tank number of 0 to end the input, then enter that tank's readings for each day.\nThe program must:\n• store the readings in a 2D array PH[1:7, 1:5] (tank, day), declared with DECLARE;\n• validate each tank number (1 to 7) and each reading (0.0 to 14.0), re-asking until valid;\n• output the average pH of each tank, rounded to 2 decimal places;\n• count the readings outside the safe range 6.5 to 8.5 (inclusive limits are safe) and output how many there were, with their tank and day numbers;\n• output the tank number with the highest average pH.\nWrite the program in pseudocode, Python, Java or VB.NET. Use meaningful names, comments and clear prompts.",
+    "marks": 15,
+    "answer": "A complete program that: declares PH[1:7,1:5] and other variables; validates tank and reading with re-entry loops; fills the array by tank and day; calculates each tank's average with a loop and divides by 5, outputs rounded to 2 decimal places; counts and outputs readings with value < 6.5 or > 8.5 by tank and day; finds the maximum average and outputs its tank number.",
+    "working": "Mark points (up to 15): declares the 2D array and variables (1); validates tank number 1–7 (2); validates reading 0.0–14.0 (2); input is stored in the correct row and column (1); the average is correct, using a total and division by 5 (2); rounding to 2 decimal places (1); the out-of-range test uses < 6.5 OR > 8.5 (2); outputs the count and tank/day of each unsafe reading (2); finds the highest average with a max value and tank variable (1); meaningful names, comments and layout (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-063",
+  "topic": "Programming",
+  "subtopic": "Extended programming task (15-mark scenario)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A museum in Karachi counts its visitors every hour from 9 am to 5 pm (9 hourly counts) for 5 days. The counts are stored in a 2D array Visitors[1:5, 1:9] (day, hour). Each count is a whole number from 0 to 500. The data is entered one day at a time, and each day's counts are entered hour by hour.\nThe program must:\n• validate each count, re-asking until it is from 0 to 500;\n• use a procedure, InputDay(Day : INTEGER), to enter one day's nine counts, and call it for each day;\n• calculate the total visitors for each day and output the day with the most visitors (if two days tie, output the earlier day);\n• calculate the total visitors for each hour across the 5 days, and output the busiest hour;\n• count the hours in which any day had more than 300 visitors, and output this count.\nWrite the program in pseudocode, Python, Java or VB.NET. Use meaningful names, comments, clear prompts and declare all variables.",
+    "marks": 15,
+    "answer": "A complete program that: declares Visitors[1:5,1:9] and variables; a validated input procedure InputDay that fills one row; calls InputDay for days 1 to 5; totals each row with a loop and keeps the first maximum (strictly greater than); totals each column and keeps the first maximum; counts hours where any row value exceeds 300 (for example, using a Flag per hour), and outputs the count.",
+    "working": "Mark points (up to 15): declares the 2D array and variables with correct types (1); procedure InputDay with a parameter (2); validation of each count 0–500 with re-entry (2); calls the procedure for each day (1); daily totals with a nested loop or row totals (2); day with most visitors, first on a tie (2); hourly totals across days (2); busiest hour found with max variable (1); counts hours where any day exceeds 300 with a flag, not counting a day twice (2); clear output, comments and naming (0 to 1 mark for layout)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-064",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The program contains the statement Town ← \"Lahore Cantt\". In pseudocode string functions the first character is at position 1. State the output of each statement:\n(i) OUTPUT LENGTH(Town)\n(ii) OUTPUT UCASE(Town)\n(iii) OUTPUT LEFT(Town, 5)\n(iv) OUTPUT RIGHT(Town, 4)\n(v) OUTPUT MID(Town, 8, 4)",
+    "marks": 5,
+    "answer": "(i) 12; (ii) LAHORE CANTT; (iii) Lahor; (iv) antt; (v) Cant",
+    "working": "1 mark each: (i) 12 characters including the space; (ii) LAHORE CANTT; (iii) the first five characters Lahor; (iv) the last four characters antt; (v) starts at position 8 (C) and takes 4 characters: Cant."
+   }
+  ],
+  "check": "len('Lahore Cantt') == 12 and 'Lahore Cantt'.upper() == 'LAHORE CANTT' and 'Lahore Cantt'[:5] == 'Lahor' and 'Lahore Cantt'[-4:] == 'antt' and 'Lahore Cantt'[7:11] == 'Cant'",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-065",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the value of each expression:\n(i) ASC(\"A\")\n(ii) CHR(98)\n(iii) \"Tea\" & \"Pot\"\n(iv) LENGTH(\"Tea\" & \"Pot\")\n(v) LCASE(\"MaDrAs\")",
+    "marks": 5,
+    "answer": "(i) 65; (ii) b; (iii) TeaPot; (iv) 6; (v) madras",
+    "working": "1 mark each. ASC gives the character code of A (65). CHR(98) gives the character with code 98, b. & joins two strings with no space. The joined string has 6 characters. LCASE converts every letter to lower case."
+   }
+  ],
+  "check": "len('Tea' + 'Pot') == 6 and 'MaDrAs'.lower() == 'madras'",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-066",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A variable Surname holds a string. Write a statement that stores in Code the last three characters of Surname, converted to upper case.",
+    "marks": 2,
+    "answer": "Code ← UCASE(RIGHT(Surname, 3))",
+    "working": "1 mark: RIGHT(Surname, 3) takes the last three characters. 1 mark: UCASE converts them to upper case and the result is stored in Code."
+   },
+   {
+    "label": "b",
+    "text": "State the output of OUTPUT MID(\"RAWALPINDI\", 5, 3).",
+    "marks": 1,
+    "answer": "LPI",
+    "working": "1 mark: positions 5, 6 and 7 are L, P and I."
+   }
+  ],
+  "check": "'RAWALPINDI'[4:7] == 'LPI'",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-067",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a statement that outputs TRUE if the variable Password has at least 8 characters, and FALSE otherwise.",
+    "marks": 2,
+    "answer": "OUTPUT LENGTH(Password) >= 8",
+    "working": "1 mark: uses LENGTH(Password). 1 mark: compares the length with 8 using >=, giving TRUE or FALSE."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-068",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write an algorithm in pseudocode that inputs a word and outputs TRUE if the word is a palindrome (it reads the same forwards and backwards) and FALSE otherwise. Use LENGTH and MID inside a loop. Ignore upper and lower case by converting the word to lower case first.",
+    "marks": 5,
+    "answer": "Word ← LCASE(Word); Length ← LENGTH(Word); Result ← TRUE; FOR Position ← 1 TO Length DIV 2; IF MID(Word, Position, 1) <> MID(Word, Length - Position + 1, 1) THEN Result ← FALSE; ENDIF; NEXT Position; OUTPUT Result",
+    "working": "1 mark: converts to one case with LCASE or UCASE. 1 mark: a loop from 1 to LENGTH DIV 2 (or to LENGTH). 1 mark: compares MID(Word, Position, 1) with MID(Word, Length − Position + 1, 1). 1 mark: sets a flag to FALSE on a mismatch. 1 mark: outputs the flag correctly."
+   },
+   {
+    "label": "b",
+    "text": "State the output of the algorithm in part (a) for the inputs \"Level\" and \"Lahore\".",
+    "marks": 2,
+    "answer": "TRUE for Level; FALSE for Lahore",
+    "working": "1 mark: TRUE for Level (reads the same both ways). 1 mark: FALSE for Lahore (L and e differ)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-069",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The algorithm below is given.\nOriginal ← \"STORM\"\nRev ← \"\"\nFOR i ← LENGTH(Original) TO 1 STEP -1\n    Rev ← Rev & MID(Original, i, 1)\nNEXT i\nOUTPUT Rev\nState the output of the algorithm.",
+    "marks": 2,
+    "answer": "MROTS",
+    "working": "1 mark: the letters are added to Rev from the last to the first. 1 mark: MROTS."
+   },
+   {
+    "label": "b",
+    "text": "Explain why Rev is set to \"\" (an empty string) before the loop starts.",
+    "marks": 2,
+    "answer": "It starts with no characters, so the characters added in each loop run build up the reversed word from nothing.",
+    "working": "1 mark: an empty string holds no characters before the loop. 1 mark: each & joins a new character to the end of the string built so far."
+   }
+  ],
+  "check": "'STORM'[::-1] == 'MROTS'",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-070",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the value of each expression:\n(i) 47 MOD 5\n(ii) 47 DIV 5\n(iii) NOT (7 > 3) OR (2 + 2 = 4)",
+    "marks": 3,
+    "answer": "(i) 2; (ii) 9; (iii) TRUE",
+    "working": "1 mark: 47 = 5 × 9 + 2, so MOD is 2. 1 mark: DIV gives 9. 1 mark: NOT TRUE is FALSE, and FALSE OR TRUE is TRUE."
+   }
+  ],
+  "check": "47 % 5 == 2 and 47 // 5 == 9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-071",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A date is stored as the string D ← \"2026-10-06\" (year-month-day). Write an expression that produces the string \"06/10/2026\" (day/month/year) using LEFT, RIGHT, MID and &.",
+    "marks": 3,
+    "answer": "RIGHT(D, 2) & \"/\" & MID(D, 6, 2) & \"/\" & LEFT(D, 4)",
+    "working": "1 mark: RIGHT(D, 2) gives the day. 1 mark: MID(D, 6, 2) gives the month. 1 mark: LEFT(D, 4) gives the year, with / joined using &."
+   }
+  ],
+  "check": "'2026-10-06'[8:10] + '/' + '2026-10-06'[5:7] + '/' + '2026-10-06'[0:4] == '06/10/2026'",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-072",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a function ShiftLetter(Ch : CHAR) RETURNS CHAR that shifts an upper case letter forward by 3 places in the alphabet, wrapping from Z back to A. Use ASC and CHR. For example, ShiftLetter('X') returns 'A'.",
+    "marks": 5,
+    "answer": "FUNCTION ShiftLetter(Ch : CHAR) RETURNS CHAR: Code ← ASC(Ch) − 65; NewCode ← (Code + 3) MOD 26; RETURN CHR(NewCode + 65); ENDFUNCTION",
+    "working": "1 mark: FUNCTION header with a parameter and RETURNS CHAR. 1 mark: converts the letter to 0–25 using ASC(Ch) − 65. 1 mark: adds 3. 1 mark: MOD 26 to wrap round. 1 mark: converts back with CHR(… + 65) and RETURN."
+   },
+   {
+    "label": "b",
+    "text": "State the output when the function is used to encrypt the string \"XYZ\" one letter at a time.",
+    "marks": 1,
+    "answer": "ABC",
+    "working": "1 mark: X→A, Y→B, Z→C."
+   }
+  ],
+  "check": "(88-65+3) % 26 + 65 == 65 and (89-65+3) % 26 + 65 == 66 and (90-65+3) % 26 + 65 == 67",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-073",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write an algorithm that counts how many times the lower case letter \"s\" appears in a sentence entered by the user. Upper case S must not be counted. Output the count.",
+    "marks": 4,
+    "answer": "Sentence ← INPUT; Count ← 0; FOR Position ← 1 TO LENGTH(Sentence); IF MID(Sentence, Position, 1) = \"s\" THEN Count ← Count + 1; ENDIF; NEXT Position; OUTPUT Count",
+    "working": "1 mark: loop from 1 to LENGTH(Sentence). 1 mark: MID(Sentence, Position, 1) extracts one character. 1 mark: compares with \"s\" (case-sensitive). 1 mark: increments a counter and outputs it."
+   },
+   {
+    "label": "b",
+    "text": "State the output of your algorithm for the input \"Sassy Session Mass\".",
+    "marks": 2,
+    "answer": "6",
+    "working": "1 mark: the lower case s appears twice in each of three words (Sassy, Session, Mass). 1 mark: 6 (the capital S at the start of Sassy and Session is not counted)."
+   }
+  ],
+  "check": "'Sassy Session Mass'.count('s') == 6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-074",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write an algorithm that inputs a sentence and outputs the first word of the sentence. The first word ends at the first space, or at the end of the sentence if there is no space.",
+    "marks": 4,
+    "answer": "Sentence ← INPUT; Position ← 1; Word ← \"\"; WHILE Position <= LENGTH(Sentence) AND MID(Sentence, Position, 1) <> \" \" DO Word ← Word & MID(Sentence, Position, 1); Position ← Position + 1; ENDWHILE; OUTPUT Word",
+    "working": "1 mark: loop runs while the position is within the string. 1 mark: stops at a space. 1 mark: builds up the word with &. 1 mark: outputs the word; the end-of-string case is handled by the position check."
+   },
+   {
+    "label": "b",
+    "text": "State the output of the algorithm in (a) for \"Data is power\".",
+    "marks": 1,
+    "answer": "Data",
+    "working": "1 mark: Data."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-075",
+  "topic": "Programming",
+  "subtopic": "String handling and operators",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A program stores the price as text: Price ← \"45\". The code is:\nNumber ← STR_TO_NUM(Price)\nNumber ← Number * 2\nOutput ← NUM_TO_STR(Number) & \" rupees\"\nOUTPUT Output\nState the output and explain why STR_TO_NUM is needed before the multiplication.",
+    "marks": 3,
+    "answer": "90 rupees. The string \"45\" cannot be multiplied, so it must first be converted to a number with STR_TO_NUM; the multiplication then works on the number.",
+    "working": "1 mark: 90 rupees. 1 mark: a string cannot be used in arithmetic. 1 mark: STR_TO_NUM converts it to a number first."
+   }
+  ],
+  "check": "45 * 2 == 90",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-076",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A cricket scoring program stores these five items: the batter's name; the runs scored (a whole number); the batting average (may include decimals); whether the batter is not out (TRUE or FALSE); and a batting grade (one letter A to D). State the most suitable data type for each item.",
+    "marks": 5,
+    "answer": "STRING; INTEGER; REAL; BOOLEAN; CHAR",
+    "working": "1 mark each: name is STRING; runs are INTEGER; average can have decimals so REAL; not out is BOOLEAN; a single letter is CHAR."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-077",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write pseudocode statements that declare a constant VAT_RATE with the value 0.08, and a variable Price of data type REAL.",
+    "marks": 2,
+    "answer": "CONSTANT VAT_RATE = 0.08; DECLARE Price : REAL",
+    "working": "1 mark: CONSTANT VAT_RATE = 0.08 (not DECLARE). 1 mark: DECLARE Price : REAL."
+   },
+   {
+    "label": "b",
+    "text": "State one reason why a constant is used for VAT_RATE rather than a fixed number in each calculation.",
+    "marks": 1,
+    "answer": "If the rate changes, it only has to be changed in one place, so the program is easier to maintain and less likely to contain errors.",
+    "working": "1 mark: changes need only one edit, so the program is easier to maintain."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-078",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the output of this algorithm:\nTotal ← 0\nFOR Num ← 1 TO 10\n    IF Num MOD 3 = 0 THEN\n        Total ← Total + Num\n    ENDIF\nNEXT Num\nOUTPUT Total",
+    "marks": 2,
+    "answer": "18",
+    "working": "1 mark: the multiples of 3 up to 10 are 3, 6 and 9. 1 mark: their total is 18."
+   }
+  ],
+  "check": "3 + 6 + 9 == 18",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-079",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write pseudocode that inputs an integer Mark from 0 to 100 and outputs \"Pass\" if Mark is 40 or more, and \"Fail\" otherwise.",
+    "marks": 3,
+    "answer": "OUTPUT \"Pass\" / \"Fail\" using IF Mark >= 40 THEN ... ELSE ... ENDIF",
+    "working": "1 mark: INPUT of an integer Mark. 1 mark: IF with >= 40. 1 mark: correct outputs in both branches with ELSE and ENDIF."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-080",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the output of this algorithm, and the number of times the loop runs:\nFOR Count ← 10 TO 2 STEP -2\n    OUTPUT Count\nNEXT Count",
+    "marks": 2,
+    "answer": "10, 8, 6, 4, 2; the loop runs 5 times",
+    "working": "1 mark: the five values 10, 8, 6, 4 and 2 are output in that order. 1 mark: the loop runs 5 times."
+   }
+  ],
+  "check": "len([10, 8, 6, 4, 2]) == 5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-081",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A program converts a mark to a grade with these rules: 80 or more is A; 60 to 79 is B; 40 to 59 is C; below 40 is F. Write nested IF statements that set Grade for a variable Mark (INTEGER), and state the grade for marks 85, 62 and 39.",
+    "marks": 4,
+    "answer": "IF Mark >= 80 THEN Grade ← \"A\" ELSE IF Mark >= 60 THEN Grade ← \"B\" ELSE IF Mark >= 40 THEN Grade ← \"C\" ELSE Grade ← \"F\" ENDIF ENDIF ENDIF. Grades: A, B, F.",
+    "working": "1 mark: the first test is Mark >= 80 (or the boundaries are right). 1 mark: nested tests in the right order for B and C. 1 mark: a final ELSE gives F. 1 mark: grades A, B and F for 85, 62 and 39."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-082",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a CASE statement for a variable DayNo (an integer from 1 to 7, where 1 is Monday). The statement should output \"Weekend\" for DayNo 6 or 7, and \"Weekday\" for any other value.",
+    "marks": 4,
+    "answer": "CASE OF DayNo\n    6, 7 : OUTPUT \"Weekend\"\n    OTHERWISE OUTPUT \"Weekday\"\nENDCASE",
+    "working": "1 mark: CASE OF DayNo. 1 mark: 6, 7 listed together for Weekend. 1 mark: OTHERWISE clause for the rest. 1 mark: ENDCASE and correct output strings."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-083",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the output of this algorithm, and the value of Count when it ends:\nNum ← 100\nCount ← 0\nREPEAT\n    Num ← Num DIV 2\n    Count ← Count + 1\nUNTIL Num < 10\nOUTPUT Num, Count",
+    "marks": 2,
+    "answer": "6 and 4 (the output is 6 4)",
+    "working": "1 mark: each pass halves Num with DIV: 50, 25, 12, 6, so 6 is output. 1 mark: 4 passes, so Count is 4."
+   }
+  ],
+  "check": "100 // 2 // 2 // 2 // 2 == 6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-084",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the output of this algorithm:\nScore ← 0\nTurns ← 0\nWHILE Score < 50 DO\n    Score ← Score + 7\n    Turns ← Turns + 1\nENDWHILE\nOUTPUT Score, Turns",
+    "marks": 3,
+    "answer": "56 8",
+    "working": "1 mark: Score goes 7, 14, 21 ... and the loop stops only when Score is no longer below 50. 1 mark: the loop runs 8 times (Score reaches 49 after 7 turns, which is still below 50). 1 mark: outputs 56 and 8."
+   }
+  ],
+  "check": "7 * 7 < 50 and 7 * 8 >= 50 and 7 * 8 == 56",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-085",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The following REPEAT loop is part of a program:\nNum ← 100\nREPEAT\n    Num ← Num DIV 2\nUNTIL Num < 10\nOUTPUT Num\n(a) Rewrite the loop as a WHILE ... DO ... ENDWHILE loop that gives the same output.\n(b) Explain the difference between the two loops when the condition is already true before the loop starts, for example when Num starts at 5.",
+    "marks": 4,
+    "answer": "(a) Num ← Num DIV 2; WHILE Num >= 10 DO Num ← Num DIV 2; ENDWHILE; OUTPUT Num. The body is copied before the WHILE and the condition is negated. Output 6, the same as the REPEAT loop. (b) REPEAT always runs its body at least once. WHILE checks its condition first, so if Num starts at 5 a plain WHILE loop runs zero times and Num stays 5, whereas REPEAT gives 2.",
+    "working": "1 mark: body copied before the WHILE loop (or a flag used). 1 mark: condition negated correctly (Num >= 10). 1 mark: REPEAT runs at least once. 1 mark: a WHILE loop may not run at all when the condition is already true."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "100 // 2 // 2 // 2 // 2 == 6"
+ },
+ {
+  "id": "2210-h1-086",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The algorithm below has three errors. Identify each error and write the correction.\n1  Total ← 0\n2  FOR Count ← 1 TO 10\n3      Total ← Total + Count\n4  NEXT Num\n5  IF Total = 55 THEN\n6      OUTPUT \"Correct total\"\n7  OUTPUT \"Done\"",
+    "marks": 3,
+    "answer": "Line 4: NEXT Num should be NEXT Count, the loop variable. Line 5: the IF needs an ENDIF before line 7. Total is not declared: add DECLARE Total : INTEGER before line 1.",
+    "working": "1 mark: NEXT must name the loop variable Count. 1 mark: IF needs ENDIF after line 6. 1 mark: the variable Total must be declared (DECLARE Total : INTEGER)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-087",
+  "topic": "Programming",
+  "subtopic": "Data types, variables, constants, selection and iteration",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write pseudocode that repeatedly inputs an integer until it is a multiple of 7 between 7 and 70 inclusive. Output the number of attempts made, including the successful one.",
+    "marks": 6,
+    "answer": "Attempts ← 0; REPEAT; INPUT Number; Attempts ← Attempts + 1; UNTIL Number >= 7 AND Number <= 70 AND Number MOD 7 = 0; OUTPUT Attempts",
+    "working": "1 mark: Attempts ← 0 before the loop. 1 mark: REPEAT loop with INPUT inside. 1 mark: counts each attempt. 1 mark: correct UNTIL condition with AND. 1 mark: MOD 7 = 0 test. 1 mark: output after the loop."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-088",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA school in Rawalpindi runs a reading challenge. There are 15 students. The number of books each student read is stored in the array Books[1:15] of INTEGER. Task 1: input and validate the number of books for each student (0 to 50). Task 2: calculate the total number of books and the average per student. Task 3: output the number of students who read no books.\nDescribe the arrays and variables you would use for Tasks 1 to 3, giving names, sizes and data types.",
+    "marks": 3,
+    "answer": "Books[1:15] INTEGER (number of books per student); Count INTEGER (student counter); Total INTEGER (sum); Average REAL (total ÷ 15); Zeros INTEGER (students with 0 books).",
+    "working": "1 mark: Books[1:15] INTEGER. 1 mark: Total and Count / Average with correct types. 1 mark: Zeros counter with its purpose."
+   },
+   {
+    "label": "b",
+    "text": "Write an algorithm for Task 2 that calculates the total and average, and outputs both. Use a loop.",
+    "marks": 3,
+    "answer": "Total ← 0; FOR Count ← 1 TO 15: Total ← Total + Books[Count]; NEXT Count; Average ← Total / 15; OUTPUT Total, Average",
+    "working": "1 mark: loop over 1 to 15. 1 mark: totals with Total ← Total + Books[Count]. 1 mark: average = Total / 15 and output."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-089",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA bakery in Multan records how many loaves it sold on each of 7 days in the array Loaves[1:7] of INTEGER: 120, 95, 140, 110, 88, 150, 130.\nTask 1: output the total number of loaves sold in the week. Task 2: output the average per day to 1 decimal place. Task 3: output the day number with the most loaves sold (if two days tie, output the earlier day).\nWrite an algorithm for Task 3 and state the output of Tasks 1 and 2 for this data.",
+    "marks": 6,
+    "answer": "Task 1: 833; Task 2: 119.0; Task 3 algorithm: Best ← 1; FOR Day ← 2 TO 7: IF Loaves[Day] > Loaves[Best] THEN Best ← Day; ENDIF; NEXT Day; OUTPUT Best. Output for this data: day 6.",
+    "working": "1 mark: total 833. 1 mark: average 119.0. 1 mark: Best starts at 1 and the loop runs from 2 to 7. 1 mark: strict > keeps the earlier day on a tie. 1 mark: outputs the day number. 1 mark: day 6 for this data."
+   }
+  ],
+  "check": "sum([120,95,140,110,88,150,130]) == 833 and sum([120,95,140,110,88,150,130])/7 == 119.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-090",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA quiz has 5 questions. The answer key is stored in the array Key[1:5] of CHAR: B, C, D, A, A. Each student's answers are stored in Answer[1:5] of CHAR. Task 1: input the 5 answers for a student and validate that each is A, B, C or D. Task 2: award one mark per correct answer and output the score.\nFor a student who answered BDCAA, state the score and describe how your Task 2 algorithm finds it.",
+    "marks": 4,
+    "answer": "Score 3. The algorithm loops from 1 to 5, compares Answer[Q] with Key[Q], and adds 1 to Score for each match.",
+    "working": "1 mark: score 3 (answers 1, 4 and 5 match). 1 mark: loop from 1 to 5. 1 mark: compare each Answer with the same question in Key. 1 mark: count matches in a variable Score."
+   }
+  ],
+  "check": "sum([1 for a, b in [('B','B'),('D','C'),('C','D'),('A','A'),('A','A')] if a == b]) == 3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-091",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA taxi firm in Lahore charges Rs 100 plus Rs 30 for each kilometre. The distances of five trips are stored in Km[1:5]: 4, 12, 7, 20, 9.\nTask 1: calculate the fare for each trip and store it in Fare[1:5]. Task 2: output the total of all the fares.\nState the fare for trip 2 and the total of all five fares.",
+    "marks": 4,
+    "answer": "Trip 2: Rs 460; total: Rs 2060",
+    "working": "1 mark: 100 + 30 × 12 = 460. 1 mark: the other fares are 220, 310, 700 and 370. 1 mark: total 2060."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the fares are stored in an array Fare[1:5] rather than calculated and output one at a time.",
+    "marks": 2,
+    "answer": "The fares can be used again later, for example to find the highest fare or to total them, without recalculating each one.",
+    "working": "1 mark: stored values can be reused. 1 mark: any one-off calculation would be lost, so later tasks would need repeating."
+   }
+  ],
+  "check": "sum([100 + 30 * k for k in [4, 12, 7, 20, 9]]) == 2060 and 100 + 30 * 12 == 460",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-092",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA café in Abu Dhabi keeps Stock[1:6] (INTEGER) and Price[1:6] (REAL) for six items. An order is a list of item numbers and quantities, entered until 0 is typed for the item number.\nTask 1: validate the item number (1 to 6) and quantity (1 to 20). Task 2: if the stock of the item is at least the quantity, reduce the stock and add the cost to the bill; otherwise output OUT OF STOCK and do not change the stock.\nWrite an algorithm for Task 2 for one order line (Item and Quantity already validated).",
+    "marks": 5,
+    "answer": "IF Stock[Item] >= Quantity THEN Stock[Item] ← Stock[Item] − Quantity; Bill ← Bill + Price[Item] × Quantity; ELSE OUTPUT \"OUT OF STOCK\" ENDIF",
+    "working": "1 mark: compares stock with quantity. 1 mark: reduces Stock[Item] by Quantity in the correct branch. 1 mark: adds Price[Item] × Quantity to Bill. 1 mark: ELSE branch outputs OUT OF STOCK. 1 mark: no change to stock in the ELSE branch."
+   },
+   {
+    "label": "b",
+    "text": "Stock[2] is 5. An order asks for 7 of item 2. State the output and the value of Stock[2] afterwards.",
+    "marks": 2,
+    "answer": "OUT OF STOCK; Stock[2] remains 5",
+    "working": "1 mark: OUT OF STOCK is output. 1 mark: the stock is still 5 because nothing is reduced."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-093",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA courier company in Karachi charges Rs 150 per kilogram for parcels up to 5 kg. Each kilogram above 5 costs Rs 80 extra. The weights of four parcels are stored in Weight[1:4]: 3, 8, 5, 12.\nTask 1: write a function Charge(Kg : INTEGER) RETURNS INTEGER that gives the charge for one parcel. Task 2: use the function in a loop to calculate the total charge for all four parcels, and output it.\nWrite the function in Task 1, and state the total charge for the four parcels.",
+    "marks": 6,
+    "answer": "FUNCTION Charge(Kg : INTEGER) RETURNS INTEGER: IF Kg <= 5 THEN RETURN Kg * 150 ELSE RETURN 750 + (Kg − 5) * 80; ENDFUNCTION. Total: Rs 3500.",
+    "working": "1 mark: FUNCTION header with parameter and RETURNS INTEGER. 1 mark: IF Kg <= 5 charges Kg × 150. 1 mark: ELSE adds 750 for the first 5 kg. 1 mark: (Kg − 5) × 80 for the extra kilograms. 1 mark: Task 2 loop from 1 to 4 that adds Charge(Weight[i]). 1 mark: total Rs 3500 (charges 450, 990, 750, 1310)."
+   }
+  ],
+  "check": "sum([150*w if w <= 5 else 750 + (w - 5) * 80 for w in [3, 8, 5, 12]]) == 3500",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-094",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nFour teams have these points in the array Points[1:4] (INTEGER) with team names in Team[1:4] (STRING): Team = [A, B, C, D], Points = [7, 4, 9, 4].\nTask 1: sort Points into descending order with a bubble sort, swapping Team names with Points each time. Task 2: output the sorted table.\nDescribe what happens in the first pass of the bubble sort, and state the team order after the first pass.",
+    "marks": 5,
+    "answer": "In one pass the algorithm compares each pair of neighbouring points from position 1 to 3 and swaps the pair if the left value is smaller than the right value. Order after pass 1: A (7), C (9), B (4), D (4).",
+    "working": "1 mark: compares neighbouring pairs. 1 mark: swaps when the left is less than the right (descending). 1 mark: swaps the Team names at the same time as the points. 1 mark: A 7, C 9 after the comparisons of 7 and 4 (no swap), and 4 and 9 (swap). 1 mark: order A, C, B, D."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-095",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA water tank in Quetta records its level as a percentage every hour from 1 to 24. The levels are stored in Level[1:24] (REAL). A level below 30 is a warning.\nTask 1: count the number of hours with a warning. Task 2: output the hour number of the lowest level (if two hours tie, output the first).\nWrite an algorithm for Task 1 and state what it outputs when Level holds 24 readings in which only hours 5 and 17 are below 30 and the other 22 readings are 30 or above.",
+    "marks": 6,
+    "answer": "Warnings ← 0; FOR Hour ← 1 TO 24: IF Level[Hour] < 30 THEN Warnings ← Warnings + 1; ENDIF; NEXT Hour; OUTPUT Warnings. Output: 2 (hours 5 and 17 only).",
+    "working": "1 mark: counter starts at 0. 1 mark: loop 1 to 24. 1 mark: test Level[Hour] < 30 (not <= 30). 1 mark: increment inside the IF. 1 mark: output after the loop. 1 mark: output 2, since only hours 5 and 17 are below 30."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-096",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA hostel has 4 floors and 5 rooms on each floor. The number of students in each room is stored in the 2D array Rooms[1:4, 1:5] (floor, room). Each value is 0 to 3.\nTask 1: output the total number of students on each floor. Task 2: output the floor with the most students (first floor on a tie). Task 3: calculate and output the average number of students per room, to 2 decimal places.\nWrite an algorithm for Task 1 and state the output of Task 3 for the following data: floor 1: 2, 3, 1, 0, 2; floor 2: 3, 3, 2, 1, 0; floor 3: 0, 1, 1, 2, 3; floor 4: 2, 2, 2, 2, 2.",
+    "marks": 8,
+    "answer": "Task 1: FOR Floor ← 1 TO 4: Total ← 0; FOR Room ← 1 TO 5: Total ← Total + Rooms[Floor, Room]; NEXT Room; OUTPUT Floor, Total; NEXT Floor. Task 3 for this data: total 34 students in 20 rooms, average 1.70.",
+    "working": "1 mark: nested loops with Floor outside and Room inside. 1 mark: Total reset to 0 for each floor. 1 mark: accumulates Rooms[Floor, Room]. 1 mark: outputs each floor total. 1 mark: 2D index order is Rooms[Floor, Room]. 1 mark: total of 34 students (8 + 9 + 7 + 10). 1 mark: 34 ÷ 20 rooms = 1.70 to 2 decimal places. 1 mark: complete algorithm with OUTPUT."
+   }
+  ],
+  "check": "sum([2,3,1,0,2]) + sum([3,3,2,1,0]) + sum([0,1,1,2,3]) + sum([2,2,2,2,2]) == 34 and round(34/20, 2) == 1.70",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-097",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A cinema has 12 seats in each row and 8 rows (A to H, numbered 1 to 8 in the program). The booking status of each seat is stored in Seat[1:8, 1:12] as TRUE (booked) or FALSE (free).\nA group of 3 asks for three seats together in one row. Write an algorithm that finds the first row with at least 3 free seats next to each other (consecutive), and outputs the row number, or NONE if there is no such row.",
+    "marks": 8,
+    "answer": "Found ← 0; FOR Row ← 1 TO 8; Run ← 0; FOR Col ← 1 TO 12; IF NOT Seat[Row, Col] THEN Run ← Run + 1; ELSE Run ← 0; ENDIF; IF Run >= 3 AND Found = 0 THEN Found ← Row; ENDIF; NEXT Col; NEXT Row; IF Found = 0 THEN OUTPUT \"NONE\"; ELSE OUTPUT Found; ENDIF",
+    "working": "1 mark: nested loops with rows outside and seats inside. 1 mark: Run reset to 0 when a seat is booked. 1 mark: Run increases on a free seat. 1 mark: test Run >= 3 inside the inner loop. 1 mark: the first qualifying row is kept and not overwritten (Found = 0 check). 1 mark: outputs the row number. 1 mark: outputs NONE when no row qualifies. 1 mark: uses Seat[Row, Col] with the row index first."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-098",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA gym records the time, in minutes, that each of 10 members spends on a treadmill in each of 7 days. The data is stored in Minutes[1:10, 1:7] (member, day). Task 1: output the total minutes for each member. Task 2: output the day with the most total minutes across all members. Task 3: output the member number with the largest weekly total, and the number of members whose weekly total is 200 minutes or more.\nWrite an algorithm for Task 1 and explain why a 2D array is more suitable than separate variables for each day.",
+    "marks": 8,
+    "answer": "Algorithm: FOR Member ← 1 TO 10: Total ← 0; FOR Day ← 1 TO 7: Total ← Total + Minutes[Member, Day]; NEXT Day; OUTPUT Member, Total; NEXT Member. A 2D array allows one loop per dimension, so the same algorithm works for any member or day, rather than writing 70 separate variables.",
+    "working": "1 mark: outer loop over members. 1 mark: Total reset each member. 1 mark: inner loop over days. 1 mark: output in the correct place. 1 mark: 2D array indexes members and days with one name. 1 mark: a loop replaces many variables. 1 mark: clear naming of variables. 1 mark: explains that changes need only one loop."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-099",
+  "topic": "Programming",
+  "subtopic": "Pre-release material tasks (old syllabus)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Scenario:\nA sports day in Kandy has four houses (Red, Blue, Green, Yellow). In each of 12 events, the first three finishers score 5, 3 and 1 points. The house of each finisher is entered as a number from 1 to 4. Task 1: input the three finishers' houses for an event and check that each house is 1 to 4. Task 2: add the points to the house totals in HousePoints[1:4]. Task 3: output the house with the most points after all 12 events.\nWrite an algorithm for Task 2 for one event, and state the total points awarded across all 12 events.",
+    "marks": 8,
+    "answer": "FOR Place ← 1 TO 3: IF Place = 1 THEN Points ← 5 ELSE IF Place = 2 THEN Points ← 3 ELSE Points ← 1 ENDIF ENDIF; HousePoints[House[Place]] ← HousePoints[House[Place]] + Points; NEXT Place. Total points: 12 × (5 + 3 + 1) = 108.",
+    "working": "1 mark: loop over the three places. 1 mark: correct points for each place (5, 3, 1). 1 mark: uses the house number as the index into HousePoints. 1 mark: adds, rather than replaces. 1 mark: total 108 points. 1 mark: Task 3 is a maximum search over four totals."
+   }
+  ],
+  "check": "12 * (5 + 3 + 1) == 108",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-100",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A program stores the value of the variable PlayerName (STRING), which holds \"Ayesha\", in a new text file called player.txt. Write pseudocode that opens the file for writing, writes the value of PlayerName to it, and closes the file.",
+    "marks": 3,
+    "answer": "OPENFILE \"player.txt\" FOR WRITE; WRITEFILE \"player.txt\", PlayerName; CLOSEFILE \"player.txt\"",
+    "working": "1 mark: OPENFILE with the file name and FOR WRITE. 1 mark: WRITEFILE with the file name and the value. 1 mark: CLOSEFILE."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-101",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a program that stores data in a text file can be used again the next day, whereas data held only in an array in memory cannot.",
+    "marks": 2,
+    "answer": "A file is stored on secondary storage, which keeps the data when the computer is switched off. The data in an array is held in RAM and is lost when the program ends.",
+    "working": "1 mark: a file is kept on secondary storage. 1 mark: array data in RAM is lost when the program stops."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-102",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the difference between opening a file FOR READ and opening it FOR APPEND.",
+    "marks": 2,
+    "answer": "FOR READ lets the program read the existing contents only; FOR APPEND adds new data to the end of the existing contents without removing it.",
+    "working": "1 mark: READ gives read access to existing data. 1 mark: APPEND adds to the end and keeps the existing contents."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-103",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A file visitors.txt holds one name on each line. Explain what the function EOF(visitors) returns, and why a program reads lines in a loop until EOF is TRUE.",
+    "marks": 2,
+    "answer": "EOF returns TRUE when there are no more lines to read, and FALSE otherwise. The loop reads each line and stops when the end is reached, so the program does not read past the end of the file.",
+    "working": "1 mark: TRUE at the end of the file. 1 mark: the loop continues until the end, so all lines are processed without an error."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-104",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The file students.txt has one student name on each line. Write pseudocode that opens the file for reading, counts the number of names in the file using a loop until EOF is TRUE, closes the file and outputs the count.",
+    "marks": 5,
+    "answer": "Count ← 0; OPENFILE \"students.txt\" FOR READ; WHILE NOT EOF(\"students.txt\") DO READFILE \"students.txt\", Name; Count ← Count + 1; ENDWHILE; CLOSEFILE \"students.txt\"; OUTPUT Count",
+    "working": "1 mark: Count set to 0. 1 mark: OPENFILE FOR READ. 1 mark: loop until EOF (WHILE NOT EOF). 1 mark: READFILE inside the loop and Count increases by 1. 1 mark: CLOSEFILE and OUTPUT Count."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-105",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The file daily.txt holds three numbers, one on each line: 12, 7 and 20. The program below reads each line and adds it to Total. Write the output of the program and explain why it reads the file in a loop.\nTotal ← 0\nOPENFILE \"daily.txt\" FOR READ\nWHILE NOT EOF(\"daily.txt\") DO\n    READFILE \"daily.txt\", Num\n    Total ← Total + Num\nENDWHILE\nCLOSEFILE \"daily.txt\"\nOUTPUT Total",
+    "marks": 3,
+    "answer": "39. A loop is needed because the number of lines is not known in advance; the loop runs once per line until the end of the file.",
+    "working": "1 mark: 39 (12 + 7 + 20). 1 mark: the loop reads each line once. 1 mark: the loop stops at EOF, so the program does not need to know how many lines there are."
+   }
+  ],
+  "check": "12 + 7 + 20 == 39",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-106",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write pseudocode that adds a new line containing Ahmed,95 to the end of the existing file marks.txt without removing its contents. Close the file after writing.",
+    "marks": 3,
+    "answer": "OPENFILE \"marks.txt\" FOR APPEND; WRITEFILE \"marks.txt\", \"Ahmed,95\"; CLOSEFILE \"marks.txt\"",
+    "working": "1 mark: OPENFILE with FOR APPEND (not WRITE, which would delete the existing contents). 1 mark: WRITEFILE with the string \"Ahmed,95\". 1 mark: CLOSEFILE."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-107",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what happens if a program attempts to READFILE from a file that has not been opened, and state the correct order of operations for reading a file.",
+    "marks": 3,
+    "answer": "The program cannot read the file, so the operation fails (an error is produced). The correct order is: OPENFILE FOR READ, then READFILE repeatedly (checking EOF), then CLOSEFILE.",
+    "working": "1 mark: the read fails or produces an error. 1 mark: a file must be opened first. 1 mark: OPEN, READ/EOF loop, CLOSE in that order."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-108",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "An array Temps[1:5] (REAL) holds five temperatures. Write a procedure SaveTemps that writes the five values to the file temps.txt, one value on each line. Then write a procedure LoadTemps that reads the five values back from the file into the array.",
+    "marks": 6,
+    "answer": "PROCEDURE SaveTemps: OPENFILE \"temps.txt\" FOR WRITE; FOR i ← 1 TO 5: WRITEFILE \"temps.txt\", Temps[i]; NEXT i; CLOSEFILE \"temps.txt\"; ENDPROCEDURE. PROCEDURE LoadTemps: OPENFILE \"temps.txt\" FOR READ; FOR i ← 1 TO 5: READFILE \"temps.txt\", Temps[i]; NEXT i; CLOSEFILE \"temps.txt\"; ENDPROCEDURE",
+    "working": "1 mark each: SaveTemps opens FOR WRITE; the loop writes each value; CLOSEFILE. LoadTemps opens FOR READ; the loop reads into Temps[i]; CLOSEFILE. 1 mark: the array is passed or global. 1 mark: correct PROCEDURE and ENDPROCEDURE."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-109",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A file orders.txt holds 500 records, one number per line in the order they were entered. Explain why finding the 300th record requires the program to read 300 lines, whereas an array element can be found directly by its index. State the number of READFILE operations needed to reach the 300th line.",
+    "marks": 4,
+    "answer": "A text file is read sequentially from the start, so every earlier line must be read in turn before the wanted line is reached. An array element is found by its index in one step. 300 READFILE operations are needed.",
+    "working": "1 mark: file access is sequential. 1 mark: each earlier line must be read. 1 mark: an array index gives direct access. 1 mark: 300 READFILE operations."
+   }
+  ],
+  "check": "sum([1] * 300) == 300",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-110",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A file scores.txt holds one integer on each line. Write pseudocode that reads every line, counts how many values are greater than 50, closes the file and outputs the count.",
+    "marks": 6,
+    "answer": "Count ← 0; OPENFILE \"scores.txt\" FOR READ; WHILE NOT EOF(\"scores.txt\") DO READFILE \"scores.txt\", Score; IF Score > 50 THEN Count ← Count + 1; ENDIF; ENDWHILE; CLOSEFILE \"scores.txt\"; OUTPUT Count",
+    "working": "1 mark: Count ← 0 and OPENFILE FOR READ. 1 mark: loop until EOF. 1 mark: READFILE inside the loop. 1 mark: IF Score > 50 (strictly greater) with Count increment. 1 mark: CLOSEFILE. 1 mark: OUTPUT Count after the loop."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-111",
+  "topic": "Programming",
+  "subtopic": "File handling",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A program writes an event log to the file events.txt each time a user logs in. Explain why APPEND is a better file mode for this log than WRITE, and describe what would happen to the log if the program used WRITE each time.",
+    "marks": 4,
+    "answer": "APPEND adds each new event to the end, so all past events are kept. WRITE opens the file and removes its existing contents, so each login would delete the previous entries and the log would contain only the latest event.",
+    "working": "1 mark: APPEND keeps earlier entries. 1 mark: WRITE removes the existing contents when opened. 1 mark: each login would erase earlier events. 1 mark: the log would hold only one entry."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-112",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State whether each description below is a PROCEDURE or a FUNCTION.\n(i) Displays a menu of options and does not return a value.\n(ii) Calculates the area of a rectangle and returns the result to the caller.\n(iii) Sends a warning message to the screen when a password is too short.",
+    "marks": 3,
+    "answer": "(i) procedure; (ii) function; (iii) procedure",
+    "working": "1 mark each: (i) no value returned, so a procedure; (ii) RETURNS a value, so a function; (iii) it only outputs a message, so a procedure."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-113",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the value returned by each library routine:\n(i) ROUND(12.3456, 2)\n(ii) INT(9.99)\n(iii) ROUND(2.6, 0)\n(iv) LENGTH(\"Karachi\")",
+    "marks": 4,
+    "answer": "(i) 12.35; (ii) 9; (iii) 3; (iv) 7",
+    "working": "1 mark each: ROUND to 2 places gives 12.35; INT gives the whole-number part 9; ROUND to 0 places gives 3; Karachi has 7 characters."
+   }
+  ],
+  "check": "round(12.3456, 2) == 12.35 and (9.99 // 1) == 9 and round(2.6) == 3 and len('Karachi') == 7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-114",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a local variable and a global variable.",
+    "marks": 2,
+    "answer": "A local variable is declared inside a procedure or function and can only be used there; a global variable is declared in the main program and can be used anywhere in it.",
+    "working": "1 mark: local is declared in a subroutine and only used there. 1 mark: global is declared outside subroutines and can be used throughout the program."
+   },
+   {
+    "label": "b",
+    "text": "Give one reason why a programmer should prefer local variables inside a function.",
+    "marks": 1,
+    "answer": "They avoid changing values used elsewhere in the program by accident, so the function is easier to test and maintain.",
+    "working": "1 mark: avoids accidental changes elsewhere, making code easier to test and maintain."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-115",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A procedure has the header PROCEDURE Greet(Name : STRING). State what the parameter Name does and write the statement in the main program that calls the procedure with the value \"Sara\".",
+    "marks": 3,
+    "answer": "Name receives a value from the caller and is used inside the procedure. The call is Greet(\"Sara\").",
+    "working": "1 mark: parameter receives the value passed in when the procedure is called. 1 mark: uses the value inside the procedure (e.g. OUTPUT Name). 1 mark: CALL Greet(\"Sara\") or Greet(\"Sara\")."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-116",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a function Discount(Price : REAL) RETURNS REAL that returns 10% off any price over 1000, and the full price otherwise. Then state the value of Discount(1500) and Discount(800).",
+    "marks": 5,
+    "answer": "FUNCTION Discount(Price : REAL) RETURNS REAL: IF Price > 1000 THEN RETURN Price * 0.9 ELSE RETURN Price; ENDIF; ENDFUNCTION. Discount(1500) = 1350; Discount(800) = 800.",
+    "working": "1 mark: FUNCTION header with a parameter and RETURNS REAL. 1 mark: IF Price > 1000. 1 mark: returns 90% of the price (Price × 0.9). 1 mark: ELSE returns the price. 1 mark: 1350 and 800."
+   }
+  ],
+  "check": "1500 * 0.9 == 1350 and 800 == 800",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-117",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function F is defined as:\nFUNCTION F(n : INTEGER) RETURNS INTEGER\n    RETURN n * 2 + 1\nENDFUNCTION\nState the value of F(3) + F(F(1)).",
+    "marks": 2,
+    "answer": "14. F(1) = 3, then F(3) = 7; F(3) = 7; 7 + 7 = 14.",
+    "working": "1 mark: F(F(1)) = F(3) = 7. 1 mark: 7 + 7 = 14."
+   }
+  ],
+  "check": "(3*2+1) + ((1*2+1)*2+1) == 14",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-118",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A procedure is written as follows:\nPROCEDURE Show(Num : INTEGER)\n    OUTPUT Num * Num\nENDPROCEDURE\nA main program sets Count ← 4 and calls Show(Count), then Show(Count + 2). State the two values output.",
+    "marks": 2,
+    "answer": "16 and 36",
+    "working": "1 mark: Show(4) outputs 16. 1 mark: Show(6) outputs 36."
+   }
+  ],
+  "check": "4 * 4 == 16 and 6 * 6 == 36",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-119",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two reasons why a programmer would divide a long program into functions and procedures.",
+    "marks": 4,
+    "answer": "Each subroutine can be tested on its own, so errors are easier to find. The same subroutine can be called many times, so the code is not repeated. Changes need to be made in only one place. The program is easier for other programmers to read and understand.",
+    "working": "1 mark each for any four: easier testing and debugging; code reuse without repetition; a change in one place; easier to read and understand; several programmers can work on different subroutines; reduces errors."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-120",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a function IsLeapYear(Year : INTEGER) RETURNS BOOLEAN. A year is a leap year if it is divisible by 4, except that a century year (divisible by 100) is a leap year only if it is also divisible by 400. State the value returned for 1900, 2000, 2026 and 2028.",
+    "marks": 6,
+    "answer": "FUNCTION IsLeapYear(Year : INTEGER) RETURNS BOOLEAN: IF Year MOD 400 = 0 THEN RETURN TRUE ELSE IF Year MOD 100 = 0 THEN RETURN FALSE ELSE RETURN Year MOD 4 = 0 ENDIF ENDIF ENDFUNCTION. Values: FALSE, TRUE, FALSE, TRUE.",
+    "working": "1 mark: function header with RETURNS BOOLEAN. 1 mark: test for divisibility by 400 first. 1 mark: century years not divisible by 400 return FALSE. 1 mark: other years use MOD 4 = 0. 1 mark: 1900 FALSE and 2000 TRUE. 1 mark: 2026 FALSE and 2028 TRUE."
+   }
+  ],
+  "check": "[(y % 400 == 0) or (y % 100 != 0 and y % 4 == 0) for y in [1900, 2000, 2026, 2028]] == [False, True, False, True]",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-121",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A procedure Swap is declared as PROCEDURE Swap(BYREF First : INTEGER, BYREF Second : INTEGER). It stores First in a local variable Temp, sets First to Second and then sets Second to Temp. The main program has A ← 3 and B ← 8, then calls Swap(A, B) and outputs A and B. State the two values output, and explain why BYREF is needed.",
+    "marks": 4,
+    "answer": "8 and 3. BYREF passes the address of the variable, so changes made to First and Second inside the procedure change A and B in the main program.",
+    "working": "1 mark: A outputs 8. 1 mark: B outputs 3. 1 mark: BYREF means the caller's variable is changed. 1 mark: without BYREF, the values would be changed only inside the procedure and the output would remain 3 and 8."
+   }
+  ],
+  "check": "[3, 8][::-1] == [8, 3]",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-122",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a function NumDigits(Num : INTEGER) RETURNS INTEGER that returns the number of digits in a positive integer, using the library routine NUM_TO_STR and LENGTH. State the value returned for 4096.",
+    "marks": 4,
+    "answer": "FUNCTION NumDigits(Num : INTEGER) RETURNS INTEGER: RETURN LENGTH(NUM_TO_STR(Num)); ENDFUNCTION. NumDigits(4096) returns 4.",
+    "working": "1 mark: FUNCTION header with RETURNS INTEGER. 1 mark: NUM_TO_STR converts the integer to a string. 1 mark: LENGTH counts the characters. 1 mark: value 4."
+   }
+  ],
+  "check": "len('4096') == 4 and 10**3 <= 4096 < 10**4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-123",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Trace the following program and state the output:\nPROCEDURE Inner(X : INTEGER)\n    OUTPUT X + 1\nENDPROCEDURE\nPROCEDURE Outer(Y : INTEGER)\n    Inner(Y * 2)\n    Inner(Y)\nENDPROCEDURE\nMain: Outer(5)",
+    "marks": 3,
+    "answer": "11 and 6",
+    "working": "1 mark: Outer(5) calls Inner(10). 1 mark: Inner(10) outputs 11. 1 mark: Inner(5) outputs 6 (order: 11, then 6)."
+   }
+  ],
+  "check": "10 + 1 == 11 and 5 + 1 == 6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-124",
+  "topic": "Programming",
+  "subtopic": "Procedures, functions and library routines",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a function that takes parameters by value (BYVAL) and one that takes them by reference (BYREF). Describe what happens to the calling program's variable in each case.",
+    "marks": 4,
+    "answer": "BYVAL passes a copy of the value, so the procedure cannot change the caller's variable. BYREF passes the variable itself, so any change made inside the procedure changes the caller's variable.",
+    "working": "1 mark: BYVAL passes a copy of the value. 1 mark: caller's variable is unchanged with BYVAL. 1 mark: BYREF passes the variable itself. 1 mark: caller's variable is changed with BYREF."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-125",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a pseudocode statement that declares Names as a one-dimensional array of 30 STRING elements, indexed from 1 to 30.",
+    "marks": 1,
+    "answer": "DECLARE Names : ARRAY[1:30] OF STRING",
+    "working": "1 mark: DECLARE Names : ARRAY[1:30] OF STRING."
+   },
+   {
+    "label": "b",
+    "text": "State why Names[0] would be an error in this array.",
+    "marks": 1,
+    "answer": "The array index starts at 1, so position 0 does not exist in the array.",
+    "working": "1 mark: the lowest index is 1; 0 is outside the array."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-126",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The array Temps[1:6] (INTEGER) holds these values: 14, 17, 22, 19, 15, 12. State the value of Temps[4], and the average of all six values correct to 2 decimal places.",
+    "marks": 3,
+    "answer": "Temps[4] = 19; average = 99 ÷ 6 = 16.50",
+    "working": "1 mark: Temps[4] is 19. 1 mark: total 99. 1 mark: 16.50 (to 2 decimal places)."
+   }
+  ],
+  "check": "sum([14, 17, 22, 19, 15, 12]) == 99 and round(99 / 6, 2) == 16.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-127",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The array Guests[1:10] (STRING) holds the names of 10 guests. Write pseudocode using a linear search that sets Found to TRUE if the name \"Zara\" is in the array, and FALSE otherwise.",
+    "marks": 4,
+    "answer": "Found ← FALSE; FOR Index ← 1 TO 10; IF Guests[Index] = \"Zara\" THEN Found ← TRUE; ENDIF; NEXT Index",
+    "working": "1 mark: Found set to FALSE first. 1 mark: FOR loop over indexes 1 to 10. 1 mark: compares each element with \"Zara\". 1 mark: sets Found to TRUE when there is a match."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-128",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A 2D array Grid is declared as Grid[1:3, 1:4] of INTEGER. State how many elements the array has, and the position of the element that is in row 2, column 4.",
+    "marks": 2,
+    "answer": "12 elements; Grid[2, 4]",
+    "working": "1 mark: 3 × 4 = 12 elements. 1 mark: Grid[2, 4] (row 2, column 4)."
+   }
+  ],
+  "check": "3 * 4 == 12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-129",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The array Nums[1:5] holds 42, 17, 8, 29 and 13. A bubble sort puts the values in ascending order. Give the contents of the array after the first pass of the bubble sort, where each pass compares neighbouring pairs from left to right and swaps them if they are out of order.",
+    "marks": 3,
+    "answer": "17, 8, 29, 13, 42",
+    "working": "1 mark: 42 and 17 swap. 1 mark: 42 and 8 swap, then 42 and 29 swap. 1 mark: 42 and 13 swap, so 42 is at the end: 17, 8, 29, 13, 42."
+   }
+  ],
+  "check": "max([42, 17, 8, 29, 13]) == 42 and [17, 8, 29, 13, 42][-1] == 42",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-130",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The 2D array Sales[1:3, 1:4] holds the sales of 3 branches (rows) in 4 quarters (columns):\nRow 1: 12, 15, 9, 20\nRow 2: 7, 11, 14, 10\nRow 3: 16, 8, 13, 9\nWrite pseudocode that finds and outputs the branch (row) with the highest total sales, and state the output for this data.",
+    "marks": 5,
+    "answer": "Best ← 0; BestRow ← 0; FOR Row ← 1 TO 3: Total ← 0; FOR Col ← 1 TO 4: Total ← Total + Sales[Row, Col]; NEXT Col; IF Total > Best THEN Best ← Total; BestRow ← Row; ENDIF; NEXT Row; OUTPUT BestRow. Output: branch 1 (total 56).",
+    "working": "1 mark: nested loop, rows outside. 1 mark: Total reset to 0 for each row. 1 mark: accumulates Sales[Row, Col]. 1 mark: compares with the best total so far and records the row. 1 mark: output 1 with total 56."
+   }
+  ],
+  "check": "sum([12, 15, 9, 20]) == 56 and sum([7, 11, 14, 10]) == 42 and sum([16, 8, 13, 9]) == 46",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-131",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write pseudocode that finds the smallest value in the array Values[1:20] (REAL), and outputs both the smallest value and its index. If there is more than one smallest value, output the first one.",
+    "marks": 5,
+    "answer": "Min ← Values[1]; Index ← 1; FOR Pos ← 2 TO 20: IF Values[Pos] < Min THEN Min ← Values[Pos]; Index ← Pos; ENDIF; NEXT Pos; OUTPUT Min, Index",
+    "working": "1 mark: starts with the first element. 1 mark: loop from 2 to 20. 1 mark: compares with < (not <=) so the first minimum is kept. 1 mark: updates both the minimum and its index. 1 mark: outputs both."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-132",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The array Scores[1:6] holds 58, 74, 66, 90, 81, 49. Calculate the total of the values and the number of values greater than the average. Give the number of values greater than the average.",
+    "marks": 3,
+    "answer": "Total = 418; average = 69.67; values greater than the average: 74, 90, 81, so 3",
+    "working": "1 mark: total 418. 1 mark: average 69.67 (418 ÷ 6). 1 mark: three values (74, 90, 81) are above the average."
+   }
+  ],
+  "check": "sum([58, 74, 66, 90, 81, 49]) == 418 and len([x for x in [58, 74, 66, 90, 81, 49] if x > 418 / 6]) == 3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-133",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why one array with 30 elements is better than 30 separate variables for storing the marks of a class.",
+    "marks": 3,
+    "answer": "A single array uses one name, so loops can process all the values with an index rather than writing each variable out in full. Adding or changing one element is simpler. The program is shorter and easier to maintain.",
+    "working": "1 mark: one name with an index allows loops. 1 mark: the same code works for any element. 1 mark: shorter, easier to maintain and less prone to error."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-134",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The 2D array Visits[1:4, 1:3] holds the number of visits to a website (row = week, column = day). Week 1: 120, 98, 143; Week 2: 88, 91, 102; Week 3: 150, 160, 120; Week 4: 75, 60, 81. Write pseudocode that finds the day (column) with the lowest total visits across all four weeks, and state that day and its total.",
+    "marks": 6,
+    "answer": "Totals per column: day 1 = 433, day 2 = 409, day 3 = 446. Lowest total: day 2 with 409 visits.",
+    "working": "1 mark: nested loop with the total for each column, columns outside. 1 mark: column totals computed by adding Visits[Week, Day] across weeks. 1 mark: a minimum search with a first-minimum rule. 1 mark: output day 2. 1 mark: total 409."
+   }
+  ],
+  "check": "[120+88+150+75, 98+91+160+60, 143+102+120+81] == [433, 409, 446] and min([433, 409, 446]) == 409",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-135",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A parallel pair of arrays Names[1:5] (STRING) and Scores[1:5] (INTEGER) holds: Names: Sana, Omar, Hina, Bilal, Rabia; Scores: 64, 88, 73, 88, 59. Write pseudocode that finds the first name with the highest score and outputs it. State the output for this data.",
+    "marks": 5,
+    "answer": "Best ← 1; FOR Pos ← 2 TO 5: IF Scores[Pos] > Scores[Best] THEN Best ← Pos; ENDIF; NEXT Pos; OUTPUT Names[Best]. Output: Omar",
+    "working": "1 mark: records the index of the best score, not just the score. 1 mark: loop from 2 to 5. 1 mark: strict > keeps the first of tied scores. 1 mark: output via Names[Best]. 1 mark: Omar (88, first of two 88s)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-136",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A linear search that checks from index 1 upwards is used on the array Codes[1:10] (INTEGER), with the value to find in Target. The codes are: 4, 9, 2, 7, 5, 8, 1, 3, 6, 10. Trace the search for Target = 7. State how many comparisons are made before the value is found, and state the index where the value is found.",
+    "marks": 3,
+    "answer": "4 comparisons; the value is at index 4",
+    "working": "1 mark: check index 1 (4), index 2 (9), index 3 (2), index 4 (7). 1 mark: four comparisons. 1 mark: index 4."
+   }
+  ],
+  "check": "[4, 9, 2, 7, 5, 8, 1, 3, 6, 10].index(7) + 1 == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-137",
+  "topic": "Programming",
+  "subtopic": "Arrays",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Parallel arrays hold each member's Name[1:4] and their Monthly[1:4] payments (REAL): Name = Zain, Iqbal, Mariam, Sadia and Monthly = 1500, 2400, 900, 2400. Write pseudocode to find the total of all payments made by members who paid more than Rs 1000 each. Explain one risk of using parallel arrays.",
+    "marks": 5,
+    "answer": "Total ← 0; FOR Pos ← 1 TO 4: IF Monthly[Pos] > 1000 THEN Total ← Total + Monthly[Pos]; ENDIF; NEXT Pos; OUTPUT Total. Total = 6300. Risk: if one array is sorted or an element is added to one array only, the names and payments no longer match.",
+    "working": "1 mark: loop from 1 to 4. 1 mark: IF Monthly[Pos] > 1000. 1 mark: adds only the matching payments. 1 mark: total 6300 (1500 + 2400 + 2400). 1 mark: risk that the parallel arrays fall out of step when they are changed separately."
+   }
+  ],
+  "check": "1500 + 2400 + 2400 == 6300",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-138",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what a comment is in a program, and give one example of a useful comment for the line Net ← Gross * 0.85.",
+    "marks": 2,
+    "answer": "A comment is text in the program that is ignored when the program runs and explains what the code does. Example: '15% tax deducted from gross pay'.",
+    "working": "1 mark: ignored text that explains the code. 1 mark: a sensible comment that explains the purpose (e.g. the 15% deduction)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-139",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A programmer uses the variable names a, b and c for price, quantity and total. Explain why meaningful identifiers such as Price, Quantity and Total make a program easier to maintain.",
+    "marks": 2,
+    "answer": "Meaningful names show what each value means, so a programmer who returns to the code or a new programmer can understand it without tracing every line.",
+    "working": "1 mark: names describe the data, so the code is easier to read. 1 mark: reduces errors when changing or testing the code."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-140",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The line Price ← Price * 1.15 uses a magic number. Rewrite it using a constant named GST_MULTIPLIER with the value 1.15, and explain one benefit.",
+    "marks": 2,
+    "answer": "CONSTANT GST_MULTIPLIER = 1.15; Price ← Price * GST_MULTIPLIER. Benefit: if the rate changes it only needs one edit, and the name explains the meaning of 1.15.",
+    "working": "1 mark: constant declared and used in the calculation. 1 mark: benefit of one change point and a clear meaning."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-141",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what a subroutine is, and explain how subroutines make a program easier to maintain.",
+    "marks": 3,
+    "answer": "A subroutine is a named block of code (a procedure or a function) that performs one task and can be called from different parts of the program. Changing a task requires changing only the subroutine, not every place where the task is done.",
+    "working": "1 mark: a named block of code performing one task. 1 mark: can be called many times. 1 mark: a fix or change is made in one place, so the program is easier to maintain."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-142",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The program below is hard to maintain:\nINPUT x\ny ← x * 0.05\nz ← x − y\nOUTPUT z\nRewrite it with meaningful names, a constant for the rate, and comments. The program takes a price and outputs the price after a 5% discount.",
+    "marks": 4,
+    "answer": "CONSTANT DISCOUNT_RATE = 0.05\n// Read the original price\nINPUT Price\nDiscountAmount ← Price * DISCOUNT_RATE\nPriceAfterDiscount ← Price − DiscountAmount\nOUTPUT PriceAfterDiscount",
+    "working": "1 mark: constant for 0.05. 1 mark: meaningful variable names. 1 mark: comments that explain each step. 1 mark: the calculation is unchanged and correct (price minus 5%)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-143",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "After a program is changed, testers run the same test data again to check that the existing features still work. Explain the name of this process and why it is important for maintenance.",
+    "marks": 3,
+    "answer": "Regression testing. A change in one part of the program can cause errors in another part, so the existing tests are repeated to find any new faults.",
+    "working": "1 mark: regression testing. 1 mark: a change can break other parts of the code. 1 mark: repeating tests finds new faults caused by the change."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-144",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give three improvements that could be made to the error message \"Error 17\" displayed by a program when a user enters a wrong password, and explain why each improvement helps the user and the programmer.",
+    "marks": 4,
+    "answer": "Say what went wrong in words (for example, 'Password incorrect'); tell the user what to do next; log the error with a meaningful message and date so the programmer can find it.",
+    "working": "1 mark for each of any three sensible improvements (for example, a clear message in words; telling the user what to do next; logging the error with a date and a meaningful description). 1 mark for explaining why each one helps the user or the programmer."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-145",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A program calculates the cost of a taxi ride using the rate 25 per kilometre and a base fee of 100. The original code is:\nINPUT k\nc ← k * 25 + 100\nOUTPUT c\nThe rate and the base fee are going to change in the future. Rewrite the program using two constants, and state the output when k = 12.",
+    "marks": 4,
+    "answer": "CONSTANT RATE_PER_KM = 25; CONSTANT BASE_FEE = 100; INPUT k; Cost ← k * RATE_PER_KM + BASE_FEE; OUTPUT Cost. Output for k = 12: 400.",
+    "working": "1 mark: two constants declared with meaningful names. 1 mark: the calculation uses the constants. 1 mark: meaningful variable names. 1 mark: output 400 (12 × 25 + 100)."
+   }
+  ],
+  "check": "12 * 25 + 100 == 400",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-146",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A company has 50 000 lines of code written by 12 developers. Explain how the use of documentation, modular design (subroutines) and naming standards helps when a new programmer joins the team. Give one reason for each.",
+    "marks": 4,
+    "answer": "Documentation explains the purpose of each module, so the new programmer does not need to guess. Modular design lets the new programmer learn and test one part at a time. Naming standards mean that similar variables and routines are named in one consistent way, so they are easier to find and understand.",
+    "working": "1 mark: documentation gives purpose and data definitions. 1 mark: modules can be understood separately. 1 mark: naming standards make code predictable. 1 mark: each practice reduces the time to learn the system."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-147",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The code below contains three maintainability problems: a magic number, an unclear name and a missing comment.\nINPUT a\nb ← a * 0.2\nc ← a − b\nOUTPUT c\nIdentify each problem, and rewrite the program correcting all three.",
+    "marks": 4,
+    "answer": "Magic number 0.2 should be a constant such as SERVICE_RATE. Unclear names a, b and c should be meaningful names. A comment should explain what is calculated. Rewritten: CONSTANT SERVICE_RATE = 0.2; INPUT Bill; ServiceCharge ← Bill * SERVICE_RATE; AmountDue ← Bill − ServiceCharge; OUTPUT AmountDue",
+    "working": "1 mark: identifies magic number 0.2. 1 mark: identifies unclear names. 1 mark: identifies missing comments. 1 mark: rewritten program uses a constant, meaningful names and comments."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-148",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A programmer argues that a program with one very long procedure that does everything is quicker to write than one split into several smaller subroutines. Discuss this view, giving one advantage and one disadvantage of the single procedure for a program that will be changed many times in the future.",
+    "marks": 4,
+    "answer": "Advantage: fewer lines of structure and no need to decide how to split the code, so it is quicker to write initially. Disadvantage: it is harder to test and to change without affecting other parts, so maintenance takes longer and errors are more likely over time.",
+    "working": "1 mark: advantage: quick to start, no design decisions. 1 mark: disadvantage: harder to read and understand. 1 mark: changes can affect other parts unexpectedly. 1 mark: testing parts separately is not possible, so maintenance is slower."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-149",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A program uses the literal value 0.15 in five different places, and the value 3 in seven places where it means 'number of attempts allowed'. Explain why this is a maintenance risk, and state what the programmer should do.",
+    "marks": 3,
+    "answer": "If the rate changes, each occurrence must be found and changed, and one missed value would give wrong results. The programmer should replace each number with a constant with a meaningful name, such as TAX_RATE and MAX_ATTEMPTS, and change it in one place.",
+    "working": "1 mark: numbers must be changed in many places, risking missed changes. 1 mark: meaningful constants should be used. 1 mark: each constant is changed in one place."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2210-h1-150",
+  "topic": "Programming",
+  "subtopic": "Maintainable programs",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A programmer's code is correct but has no comments, uses single-letter names, and has a 300-line main program with no subroutines. Describe one change in each of these three areas that would make the code easier to maintain, and explain one reason a team should agree on coding standards before writing code.",
+    "marks": 4,
+    "answer": "Comments: explain each part of the logic. Names: use meaningful identifiers. Subroutines: split the main program into named procedures or functions. Coding standards agreed in advance ensure all team members write consistent, predictable code that others can read and maintain.",
+    "working": "1 mark each for any three of: comments explain purpose; meaningful identifiers; splitting into subroutines. 1 mark: coding standards make all code consistent and easier for the whole team to read and change."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]

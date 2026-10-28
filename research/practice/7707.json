@@ -9206,5 +9206,3185 @@
   "check": "(2.4, 1.6, 15.0) == (round(48000/20000,2), round((48000-16000)/20000,2), round(27000/180000*100,2)) and (1.5, 0.46, 24.0) == (round(39000/26000,2), round((39000-27000)/26000,2), round(36000/150000*100,2))",
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "7707-h2-001",
+  "topic": "Sources and recording of data",
+  "subtopic": "Cash book and petty cash book",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In an imprest system, what happens to the petty cash float at the end of each period?\nA The petty cashier hands all the remaining cash back to the main cashier and the imprest is cancelled\nB The main cashier reimburses the amount spent on vouchers, so the cash float returns to the fixed imprest amount\nC The imprest is increased by the total of the vouchers, so the float grows each period\nD The cash left in the box is written off as an expense and the imprest is reduced",
+    "marks": 1,
+    "answer": "B The main cashier reimburses the amount spent on vouchers, so the cash float returns to the fixed imprest amount",
+    "working": "In an imprest system the float is kept at a fixed amount. Reimbursing the amount spent restores it to that fixed level. A would end the system, which is not done each period. C increases the float instead of restoring it. D writes off cash that the business still holds, which is not how the system works."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-002",
+  "topic": "Sources and recording of data",
+  "subtopic": "Cash book and petty cash book",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A credit customer paid $900 by cheque on 15 May, and the cheque was banked the same day. The customer had been allowed a cash discount of $45 on a debt of $945. Which entries are correct in a three-column cash book?\nA bank column debit $900; discount allowed column debit $45\nB bank column credit $900; discount allowed column credit $45\nC bank column debit $945; discount allowed column credit $45\nD bank column debit $900; discount received column credit $45",
+    "marks": 1,
+    "answer": "A bank column debit $900; discount allowed column debit $45",
+    "working": "The bank is debited with the cash received, $900. Discount allowed is a debit to the discount allowed account and appears in the discount allowed column on the receipts (debit) side of the cash book. Option C records the full $945 as cash. Option D uses the discount received column, which is on the payments (credit) side."
+   }
+  ],
+  "check": "945 - 900 == 45",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-003",
+  "topic": "Sources and recording of data",
+  "subtopic": "Double entry and ledger accounts",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business pays its electricity bill of $620 by bank transfer. Which entries are correct?\nA debit electricity expense $620; credit bank $620\nB debit bank $620; credit electricity expense $620\nC debit electricity expense $620; credit cash $620\nD debit trade payables $620; credit bank $620",
+    "marks": 1,
+    "answer": "A debit electricity expense $620; credit bank $620",
+    "working": "An expense increases with a debit, and the bank balance falls with a credit. Option B reverses both sides. Option C wrongly credits cash, which was not used. Option D is correct only if the bill had already been recorded as owed to the electricity company."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-004",
+  "topic": "Sources and recording of data",
+  "subtopic": "Double entry and ledger accounts",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A supplier's account in the purchases ledger had a credit balance of $1,800 on 1 June. During June the business bought goods on credit for $2,400, returned goods costing $350, paid $1,500 by bank and received discount of $50 for prompt payment. What is the balance on the supplier's account at 30 June?\nA $2,300 credit\nB $2,350 credit\nC $2,300 debit\nD $1,450 credit",
+    "marks": 1,
+    "answer": "A $2,300 credit",
+    "working": "1,800 + 2,400 − 350 − 1,500 − 50 = 2,300 credit. The discount reduces the amount owed, so it is deducted. B forgets the discount. C gives the wrong side: the balance remains a credit. D takes account of the returns only."
+   }
+  ],
+  "check": "1800 + 2400 - 350 - 1500 - 50 == 2300",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-005",
+  "topic": "Sources and recording of data",
+  "subtopic": "Double entry and ledger accounts",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The owner withdrew $600 in cash for personal use.",
+    "marks": 1,
+    "answer": "Debit drawings; credit cash.",
+    "working": "Drawings increase, which is a debit; cash falls, which is a credit."
+   },
+   {
+    "label": "b",
+    "text": "The business returned goods costing $320 to a supplier, Ali Brothers, and the supplier reduced the amount owed on credit.",
+    "marks": 1,
+    "answer": "Debit Ali Brothers (trade payables); credit purchases returns.",
+    "working": "The amount owed to the supplier falls (debit); the returns account is credited."
+   },
+   {
+    "label": "c",
+    "text": "A credit customer, Farhan, paid $1,000 by cheque, which was banked.",
+    "marks": 1,
+    "answer": "Debit bank; credit Farhan (trade receivables).",
+    "working": "Bank increases (debit); the amount owed by Farhan falls (credit)."
+   },
+   {
+    "label": "d",
+    "text": "Insurance of $540 for this year was paid in cash.",
+    "marks": 1,
+    "answer": "Debit insurance expense; credit cash.",
+    "working": "The expense increases (debit) and cash falls (credit)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-006",
+  "topic": "Sources and recording of data",
+  "subtopic": "Double entry and ledger accounts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Ledger account of Sheikh Traders, a credit customer, for July:\nBalance b/d (debit) $2,150\nCredit sales $3,600\nSales returns $300\nCheque received from Sheikh Traders $2,900\nDiscount allowed $150",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the balance carried down on 31 July, and state whether it is a debit or a credit balance.",
+    "marks": 2,
+    "answer": "$2,400 debit",
+    "working": "2,150 + 3,600 − 300 − 2,900 − 150 = 2,400. The result is positive, so the balance is a debit (the customer still owes money)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the discount allowed is credited to the customer's account.",
+    "marks": 2,
+    "answer": "It reduces the amount the customer owes, so it is a credit entry in the customer's account.",
+    "working": "1 mark for: it reduces the customer's debt (a receivable). 1 mark for: the other side of the entry is a debit to the discount allowed account (an expense), so the customer's account must be credited."
+   }
+  ],
+  "check": "2150 + 3600 - 300 - 2900 - 150 == 2400",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-007",
+  "topic": "Sources and recording of data",
+  "subtopic": "Double entry and ledger accounts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Nadeem's sales ledger includes the account of Sohail Stores, a credit customer. Information for March:\nCredit sales $3,000\nCash received from Sohail Stores $2,700\nDebt written off as irrecoverable $120\nBalance carried down on 31 March (debit) $420\nThe opening balance on 1 March is not shown.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the balance brought down on 1 March and state whether it is a debit or a credit balance.",
+    "marks": 3,
+    "answer": "$240 debit",
+    "working": "Let the opening balance be X. X + 3,000 − 2,700 − 120 = 420, so X = 420 + 2,700 + 120 − 3,000 = 240. The result is positive, so it is a debit balance."
+   },
+   {
+    "label": "b",
+    "text": "State the double entry to record the debt written off as irrecoverable.",
+    "marks": 2,
+    "answer": "Debit irrecoverable debts expense $120; credit Sohail Stores $120.",
+    "working": "The write-off is an expense (debit). The customer's account is reduced, which is a credit."
+   }
+  ],
+  "check": "420 + 2700 + 120 - 3000 == 240",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-008",
+  "topic": "Sources and recording of data",
+  "subtopic": "Double entry and ledger accounts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "State the normal balance (debit or credit) of each account in the ledger.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Drawings.",
+    "marks": 1,
+    "answer": "Debit",
+    "working": "Withdrawals by the owner reduce capital, so they are debited."
+   },
+   {
+    "label": "b",
+    "text": "Sales.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "Income accounts increase with a credit."
+   },
+   {
+    "label": "c",
+    "text": "Trade payables.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "Amounts owed to suppliers are liabilities, which increase with credits."
+   },
+   {
+    "label": "d",
+    "text": "Motor vehicles.",
+    "marks": 1,
+    "answer": "Debit",
+    "working": "Assets increase with debits."
+   },
+   {
+    "label": "e",
+    "text": "Discount received.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "Discount received is a gain (income) and is credited."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-009",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which book of prime entry is used to record goods that a credit customer has returned to the business?\nA purchases returns journal\nB sales returns journal\nC sales journal\nD cash book",
+    "marks": 1,
+    "answer": "B sales returns journal",
+    "working": "Goods returned by customers are recorded in the sales returns (returns inwards) journal. The sales journal records credit sales, the purchases returns journal records goods sent back to suppliers, and the cash book records only cash and bank transactions."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-010",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business buys a new delivery van on credit from a motor dealer. In which book of prime entry is this recorded?\nA purchases journal\nB sales journal\nC general journal\nD cash book",
+    "marks": 1,
+    "answer": "C general journal",
+    "working": "A non-current asset is not bought for resale, so it is not a purchase of goods and is not recorded in the purchases journal. It is recorded in the general (journal) book of prime entry. The cash book is used only when cash or bank is paid, and no payment has been made."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-011",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Name the book of prime entry in which each transaction is first recorded.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A cash sale of goods for $230.",
+    "marks": 1,
+    "answer": "Cash book",
+    "working": "Cash and bank receipts are recorded in the cash book."
+   },
+   {
+    "label": "b",
+    "text": "Goods bought on credit from a supplier for resale.",
+    "marks": 1,
+    "answer": "Purchases journal",
+    "working": "Credit purchases of goods for resale are recorded in the purchases journal."
+   },
+   {
+    "label": "c",
+    "text": "Depreciation charged for the year on office equipment.",
+    "marks": 1,
+    "answer": "General journal",
+    "working": "Depreciation is an internal adjusting entry with no cash or bank transaction, so it is recorded in the general journal."
+   },
+   {
+    "label": "d",
+    "text": "The owner takes goods costing $150 from the business stock for personal use.",
+    "marks": 1,
+    "answer": "General journal",
+    "working": "Goods taken for private use are an internal adjustment with no cash or credit transaction, so they are recorded in the general journal."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-012",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Maryam's craft shop, credit sales and returns for March:\nSales journal:\nInvoice 401 Zara Stores $2,180\nInvoice 402 Nimra & Sons $1,265\nInvoice 403 Tahir Mart $3,940\nSales returns journal:\nCredit note 410 to Nimra & Sons $185",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total of the sales journal for March.",
+    "marks": 1,
+    "answer": "$7,385",
+    "working": "2,180 + 1,265 + 3,940 = 7,385."
+   },
+   {
+    "label": "b",
+    "text": "Calculate net credit sales for March after returns.",
+    "marks": 2,
+    "answer": "$7,200",
+    "working": "7,385 − 185 = 7,200. Returns reduce sales, so they are deducted."
+   },
+   {
+    "label": "c",
+    "text": "State the book of prime entry in which credit note 410 is first recorded, and the account to which its total is debited.",
+    "marks": 2,
+    "answer": "Sales returns journal; the total is debited to the sales returns account.",
+    "working": "1 mark for the book (sales returns journal). 1 mark for the account: sales returns is debited, and Nimra & Sons is credited."
+   }
+  ],
+  "check": "2180 + 1265 + 3940 == 7385 and 2180 + 1265 + 3940 - 185 == 7200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-013",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Shahzad Electricals' purchase invoices from Crescent Lighting in June:\nInvoice A: 12 ceiling fans at list price $95 each, less trade discount of 20%\nInvoice B: 30 light bulbs at list price $4.50 each, less trade discount of 5%\nInvoice A was paid by cheque later in June. Crescent Lighting allowed a cash discount of $10 on that payment.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the amount entered in the purchases journal for invoice A, for invoice B, and the total of both.",
+    "marks": 2,
+    "answer": "A $912; B $128.25; total $1,040.25",
+    "working": "A: 12 × 95 × 0.80 = 912. B: 30 × 4.50 × 0.95 = 128.25. Total = 1,040.25."
+   },
+   {
+    "label": "b",
+    "text": "State the book of prime entry in which the cash discount of $10 is recorded, and the column in which it appears.",
+    "marks": 2,
+    "answer": "Cash book; discount received column on the payments (credit) side.",
+    "working": "The cash discount is a gain (discount received). It is recorded in the discount received column on the credit side of the cash book. It is not in the purchases journal because it is only known when the invoice is paid."
+   },
+   {
+    "label": "c",
+    "text": "Explain why trade discount is deducted before the invoice is entered in the purchases journal, but cash discount is not.",
+    "marks": 2,
+    "answer": "Trade discount reduces the price agreed when the goods are ordered, so the invoice shows only the net price. Cash discount depends on paying early, so it is only known when payment is made.",
+    "working": "1 mark: trade discount is part of the agreed price at the time of purchase. 1 mark: cash discount depends on payment within the period, so it is recorded at payment."
+   }
+  ],
+  "check": "abs(12*95*0.8 + 30*4.5*0.95 - 1040.25) < 0.005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-014",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Ayesha's business records depreciation of $2,400 on its motor van at 31 December.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why this depreciation is recorded in the general journal and not in the cash book.",
+    "marks": 2,
+    "answer": "Depreciation is a non-cash adjustment: no cash or bank transaction occurs, so it is not recorded in the cash book. It is an internal entry (debit depreciation expense, credit accumulated depreciation) recorded in the general journal.",
+    "working": "1 mark: no cash or bank movement takes place. 1 mark: it is an internal adjusting entry, so it belongs in the general journal."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-015",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two items that are recorded in the cash book only, and do not appear in any other book of prime entry.",
+    "marks": 2,
+    "answer": "Any two of: bank charges; bank interest received or paid; direct debits; standing orders.",
+    "working": "1 mark each for any two correct items. These items come from the bank statement and are first recorded in the cash book."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-016",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Ayaz's shop recorded all of its transactions, including credit sales, in one general journal and did not use a sales journal.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one disadvantage of this practice.",
+    "marks": 2,
+    "answer": "The total of credit sales for the month is hard to find, so it cannot be posted as one figure to the sales account and the sales ledger control account. More individual postings are needed and errors are harder to trace.",
+    "working": "1 mark: states a disadvantage (for example, credit sales are scattered and difficult to total, or more postings are needed). 1 mark: explains why it matters (one total posting per month saves time and reduces errors)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-017",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Monthly totals for Lahore Hardware Supplies for April:\nSales journal $18,400\nPurchases journal $12,650\nSales returns journal $1,100\nPurchases returns journal $760",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate net credit sales for April.",
+    "marks": 2,
+    "answer": "$17,300",
+    "working": "18,400 − 1,100 = 17,300. Sales returns reduce sales."
+   },
+   {
+    "label": "b",
+    "text": "Calculate net purchases for April.",
+    "marks": 2,
+    "answer": "$11,890",
+    "working": "12,650 − 760 = 11,890. Purchases returns reduce purchases."
+   },
+   {
+    "label": "c",
+    "text": "State the double entry for the total of the sales journal.",
+    "marks": 2,
+    "answer": "Debit trade receivables (sales ledger control account); credit sales account.",
+    "working": "Each credit sale increases the amount owed by customers (debit) and increases sales (credit)."
+   }
+  ],
+  "check": "18400 - 1100 == 17300 and 12650 - 760 == 11890",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-018",
+  "topic": "Sources and recording of data",
+  "subtopic": "Books of prime entry",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a sales journal is used, rather than recording each credit sale directly in the sales ledger. Give two reasons.",
+    "marks": 2,
+    "answer": "Any two: one total for the month is posted to the ledger, which saves time and reduces postings; the journal gives a record of invoices in order (audit trail); the work can be shared between staff; the totals can be checked.",
+    "working": "1 mark for each valid reason, up to 2."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-019",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A supplier sends a document to a potential customer showing its prices and terms before any order is placed. Which document is this?\nA statement of account\nB quotation\nC invoice\nD delivery note",
+    "marks": 1,
+    "answer": "B quotation",
+    "working": "A quotation gives prices and terms in advance. An invoice requests payment after goods are supplied, a statement of account summarises the amounts owed, and a delivery note lists goods delivered, normally without prices."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-020",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A supplier has undercharged a customer on an earlier invoice and sends the customer a debit note for the difference. What does the debit note show?\nA the customer has been overcharged and the amount owed is reduced\nB the customer's account is increased because it was undercharged\nC the customer has returned goods to the supplier\nD the customer has paid the account in full",
+    "marks": 1,
+    "answer": "B the customer's account is increased because it was undercharged",
+    "working": "A debit note increases the amount the customer owes. A credit note reduces the amount owed (option A) and is used for overcharges and returns (option C). Option D describes payment, which is shown on a receipt or remittance advice."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-021",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Name the business document described in each case.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Sent with the goods; lists the items and quantities delivered, normally without prices.",
+    "marks": 1,
+    "answer": "Delivery note",
+    "working": "Delivery notes accompany goods and are signed on receipt."
+   },
+   {
+    "label": "b",
+    "text": "Sent by the seller to reduce the amount owed by a customer after goods were returned.",
+    "marks": 1,
+    "answer": "Credit note",
+    "working": "A credit note reduces the customer's account (it is a credit entry in the customer's account)."
+   },
+   {
+    "label": "c",
+    "text": "Sent by a supplier to a customer, showing invoices, payments, returns and the balance owing at a date.",
+    "marks": 1,
+    "answer": "Statement of account",
+    "working": "A statement is a summary of the account, usually sent at the month end."
+   },
+   {
+    "label": "d",
+    "text": "Sent by the buyer to the supplier to order goods.",
+    "marks": 1,
+    "answer": "Purchase order",
+    "working": "A purchase order is the buyer's request to buy goods."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-022",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Greenfield Stationers invoices Oakwood Academy:\n25 boxes of exercise books at list price $48 per box, less trade discount 15%\n10 calculators at list price $22 each, less trade discount 10%\nTerms: 2% cash discount if paid within 14 days.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the invoice total before cash discount.",
+    "marks": 2,
+    "answer": "$1,218",
+    "working": "25 × 48 × 0.85 = 1,020; 10 × 22 × 0.90 = 198; total 1,218."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the amount Oakwood Academy pays if it settles within 14 days.",
+    "marks": 2,
+    "answer": "$1,193.64",
+    "working": "Cash discount = 2% × 1,218 = 24.36; 1,218 − 24.36 = 1,193.64."
+   }
+  ],
+  "check": "abs(25*48*0.85 + 10*22*0.9 - 1218) < 0.005 and abs((25*48*0.85 + 10*22*0.9)*0.98 - 1193.64) < 0.005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-023",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Nasir Textiles' statement of account to Bloom Boutique for March:\nBalance brought forward on 1 March $2,100\nInvoices issued in March $4,600\nCredit note issued for returned goods $480\nDebit note for undercharging on an invoice $90\nPayment received from Bloom Boutique on 25 March $3,000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the balance owing by Bloom Boutique at 31 March.",
+    "marks": 2,
+    "answer": "$3,310",
+    "working": "2,100 + 4,600 − 480 + 90 − 3,000 = 3,310. The credit note reduces the amount owed and the debit note increases it."
+   },
+   {
+    "label": "b",
+    "text": "Explain why Bloom Boutique's own records may show a different balance at 31 March.",
+    "marks": 2,
+    "answer": "Any two: a payment sent near 31 March may not yet be received or recorded; the credit note or debit note may not yet have been received; a return may be recorded in a different month; an invoice may be disputed.",
+    "working": "1 mark per valid reason, maximum 2."
+   }
+  ],
+  "check": "2100 + 4600 - 480 + 90 - 3000 == 3310",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-024",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a credit note and a debit note, using an example of when each is issued.",
+    "marks": 2,
+    "answer": "A credit note reduces the amount owed by the customer (for example, goods returned or overcharged). A debit note increases the amount owed (for example, the customer was undercharged).",
+    "working": "1 mark for the credit note effect on the amount owed with an example; 1 mark for the debit note effect with an example."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-025",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two purposes of a quotation sent by a supplier to a customer.",
+    "marks": 2,
+    "answer": "Any two: to give the customer prices and terms before ordering; to describe the goods and their specification; to state how long the offer is valid.",
+    "working": "1 mark per valid purpose."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-026",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Ali Electronics owes Vista Wholesale $5,600 on an invoice (after trade discount). Before paying, Ali returns goods with a net value of $400, and Vista Wholesale issues a credit note for this amount. Vista allows 4% cash discount if the balance is paid within 7 days. Ali pays within 7 days.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the amount Ali pays.",
+    "marks": 3,
+    "answer": "$4,992",
+    "working": "5,600 − 400 = 5,200 still owed after the credit note; 4% cash discount = 208; 5,200 − 208 = 4,992."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the credit note is deducted before the cash discount is calculated.",
+    "marks": 2,
+    "answer": "The returned goods are no longer owed, so the cash discount applies only to the balance that still has to be paid.",
+    "working": "1 mark: returned goods are not owed; 1 mark: the discount applies only to the amount payable."
+   }
+  ],
+  "check": "abs((5600 - 400)*0.96 - 4992) < 0.005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-027",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a business sends a statement of account to each credit customer at the end of each month. Give two reasons.",
+    "marks": 2,
+    "answer": "Any two: to remind the customer of the balance owed and of any payments due; to show all transactions in one summary (invoices, returns, payments); to help the customer check and reconcile its records; to encourage prompt payment.",
+    "working": "1 mark for each valid reason, up to 2."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-028",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what a remittance advice shows, and who sends it.",
+    "marks": 2,
+    "answer": "It shows the amount paid and which invoices or amounts the payment settles. It is sent by the customer (buyer) to the supplier.",
+    "working": "1 mark for what it shows; 1 mark for who sends it."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-029",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Sunrise Printers' quote to a school includes 500 flyers at a list price of $0.40 each, less 30% trade discount. Terms: 5% cash discount if paid within 10 days.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the amount the school pays if it pays within 10 days.",
+    "marks": 3,
+    "answer": "$133",
+    "working": "500 × 0.40 = 200; less 30% trade discount = 140; less 5% cash discount (7) = 133."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the cash discount is calculated on the price after trade discount.",
+    "marks": 2,
+    "answer": "The cash discount applies to the amount the customer actually owes after trade discount (the invoice price), not to the original list price.",
+    "working": "1 mark: trade discount reduces the invoice price first; 1 mark: cash discount is applied to the net invoice amount."
+   }
+  ],
+  "check": "abs(500*0.40*0.70*0.95 - 133) < 0.005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-030",
+  "topic": "Sources and recording of data",
+  "subtopic": "Business documents",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business receives a debit note for $220 from a supplier because it was undercharged on an earlier invoice. State the double entry in the business's own books.",
+    "marks": 2,
+    "answer": "Debit purchases $220; credit the supplier's account $220.",
+    "working": "The debit note means the business owes more: purchases is debited (cost increases) and the supplier's account is credited (amount owed increases)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-031",
+  "topic": "Verification of accounting records",
+  "subtopic": "Bank reconciliation",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A cheque for $340 was entered in the cash book but has not yet been presented to the bank. The bank statement shows a balance of $2,180 in the business's favour. What is the cash book balance, before any other adjustments?\nA $1,840\nB $2,520\nC $340\nD $2,180",
+    "marks": 1,
+    "answer": "A $1,840",
+    "working": "The unpresented cheque has been deducted in the cash book but not yet by the bank. Cash book = bank statement − unpresented cheques = 2,180 − 340 = 1,840. Option B adds the cheque instead of deducting it."
+   }
+  ],
+  "check": "2180 - 340 == 1840",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-032",
+  "topic": "Verification of accounting records",
+  "subtopic": "Bank reconciliation",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "On 30 June the cash book shows a debit balance of $3,150. The bank statement shows $2,465 in the business's favour. The bank statement includes bank charges of $95 and a direct debit of $260, neither of which is in the cash book. There are unpresented cheques of $690 and an outstanding lodgement of $1,020. What is the updated cash book balance?\nA $2,795 debit\nB $2,465 debit\nC $3,505 debit\nD $3,055 debit",
+    "marks": 1,
+    "answer": "A $2,795 debit",
+    "working": "Updated cash book = 3,150 − 95 − 260 = 2,795. Both the bank charges and the direct debit are credited to the cash book. Check: 2,795 + 690 unpresented − 1,020 outstanding = 2,465, which is the bank statement balance. Option C adds the items instead of deducting them; option B is the bank statement balance."
+   }
+  ],
+  "check": "3150 - 95 - 260 == 2795 and 2795 + 690 - 1020 == 2465",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-033",
+  "topic": "Verification of accounting records",
+  "subtopic": "Bank reconciliation",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "For each item on the bank statement that is not yet in the cash book, state whether the cash book balance must be increased (debit the cash book) or decreased (credit the cash book).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Bank charges of $40 shown on the bank statement.",
+    "marks": 1,
+    "answer": "Decrease: credit the cash book $40.",
+    "working": "Bank charges are paid by the bank, so the cash book balance falls."
+   },
+   {
+    "label": "b",
+    "text": "A customer's cheque for $560 that has been dishonoured (returned unpaid by the bank).",
+    "marks": 1,
+    "answer": "Decrease: credit the cash book $560.",
+    "working": "The bank has reversed the receipt, so the cash book balance falls. The customer's account must be debited again."
+   },
+   {
+    "label": "c",
+    "text": "Interest of $75 credited by the bank.",
+    "marks": 1,
+    "answer": "Increase: debit the cash book $75.",
+    "working": "Interest received increases the bank balance."
+   },
+   {
+    "label": "d",
+    "text": "A standing order of $35 paid to a magazine publisher.",
+    "marks": 1,
+    "answer": "Decrease: credit the cash book $35.",
+    "working": "The bank has paid the amount, so the cash book balance is reduced."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-034",
+  "topic": "Verification of accounting records",
+  "subtopic": "Bank reconciliation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Miriam's cash book shows a debit balance of $4,310 on 31 March. Her bank statement shows a balance of $5,090 in her favour on the same date. The difference is explained by:\n• unpresented cheques totalling $1,120\n• an outstanding lodgement of $620 (paid in but not yet credited by the bank)\n• bank interest of $280 credited by the bank but not yet recorded in the cash book",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the updated cash book balance on 31 March.",
+    "marks": 3,
+    "answer": "$4,590 debit",
+    "working": "4,310 + 280 interest = 4,590. Check: bank statement 5,090 = 4,590 + 1,120 unpresented − 620 outstanding lodgement."
+   },
+   {
+    "label": "b",
+    "text": "State the effect of the unpresented cheques on the bank statement balance compared with the cash book balance.",
+    "marks": 1,
+    "answer": "The bank statement balance is higher, because the bank has not yet paid the unpresented cheques while the cash book has already deducted them.",
+    "working": "The cheques are already deducted in the cash book but not yet by the bank."
+   }
+  ],
+  "check": "4310 + 280 == 4590 and 4590 + 1120 - 620 == 5090",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-035",
+  "topic": "Verification of accounting records",
+  "subtopic": "Bank reconciliation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Trent's cash book (debit balance) on 31 October is $2,580. His bank statement on the same date shows $2,140 in his favour. Checking reveals:\n• a payment to a supplier by cheque for $230 was entered in the cash book as $320\n• a direct debit for insurance of $180 is on the bank statement but not in the cash book\n• unpresented cheques total $510\n• outstanding lodgements total $860",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the corrected cash book balance on 31 October.",
+    "marks": 3,
+    "answer": "$2,490 debit",
+    "working": "Cash book 2,580. The cheque was recorded as $320 instead of $230, so the payment was overstated by 90; add 90 to give 2,670. Less the direct debit of 180 gives 2,490."
+   },
+   {
+    "label": "b",
+    "text": "Show that the corrected cash book balance agrees with the bank statement after the unpresented cheques and outstanding lodgements are allowed for.",
+    "marks": 2,
+    "answer": "2,490 + 510 − 860 = 2,140, which agrees with the bank statement balance of $2,140.",
+    "working": "Bank statement = updated cash book + unpresented cheques − outstanding lodgements."
+   }
+  ],
+  "check": "2580 + (320 - 230) - 180 == 2490 and 2490 + 510 - 860 == 2140",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-036",
+  "topic": "Verification of accounting records",
+  "subtopic": "Bank reconciliation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why an unpresented cheque and an outstanding lodgement are treated in opposite ways in a bank reconciliation.",
+    "marks": 2,
+    "answer": "An unpresented cheque has been entered as a payment in the cash book but not yet paid by the bank, so the bank balance is higher. An outstanding lodgement has been entered as a receipt in the cash book but not yet credited by the bank, so the bank balance is lower.",
+    "working": "1 mark for the effect of an unpresented cheque on the bank balance; 1 mark for the effect of an outstanding lodgement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-037",
+  "topic": "Verification of accounting records",
+  "subtopic": "Bank reconciliation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two reasons why a business should prepare a bank reconciliation statement regularly.",
+    "marks": 2,
+    "answer": "Any two: to find errors in the cash book or the bank's records; to detect fraud or theft; to identify items such as bank charges or direct debits not yet recorded; to confirm the true cash position.",
+    "working": "1 mark each valid reason."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-038",
+  "topic": "Verification of accounting records",
+  "subtopic": "Bank reconciliation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "On 31 March, Yusuf's cash book shows an overdraft of $1,260 (credit balance). His bank statement shows an overdraft of $1,890. The bank statement includes a direct debit for insurance of $905 and bank interest charged of $35 that are not in the cash book. Unpresented cheques total $450 and an outstanding lodgement is $140.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the updated cash book balance on 31 March and state whether it is an overdraft or a positive balance.",
+    "marks": 3,
+    "answer": "$2,200 overdraft (credit balance)",
+    "working": "The overdraft grows by the direct debit and the interest: 1,260 + 905 + 35 = 2,200. Both items reduce the cash book balance."
+   },
+   {
+    "label": "b",
+    "text": "Show that the updated cash book balance agrees with the bank statement after the unpresented cheques and outstanding lodgement are allowed for.",
+    "marks": 2,
+    "answer": "−2,200 + 450 − 140 = −1,890, which agrees with the bank statement overdraft of $1,890.",
+    "working": "Bank statement = updated cash book + unpresented cheques − outstanding lodgements, with an overdraft shown as a negative balance."
+   }
+  ],
+  "check": "1260 + 905 + 35 == 2200 and -2200 + 450 - 140 == -1890",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-039",
+  "topic": "Verification of accounting records",
+  "subtopic": "Bank reconciliation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the bank reconciliation statement should be prepared by someone other than the cashier who records the cash book.",
+    "marks": 2,
+    "answer": "The cashier handles cash and records the cash book, so one person should not both record and check the cash. An independent person reduces the risk of fraud or hidden errors.",
+    "working": "1 mark for separation of duties (internal control); 1 mark for explaining that an independent check detects fraud or errors."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-040",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which item is entered on the debit side of a purchases ledger control account?\nA credit purchases for the month\nB opening balance owed to suppliers\nC discount received from suppliers\nD sales returns for the month",
+    "marks": 1,
+    "answer": "C discount received from suppliers",
+    "working": "Discounts received reduce the amount owed to suppliers, so they are debited. Credit purchases and the opening balance owed to suppliers are credit entries. Sales returns belong to the sales ledger control account and do not appear in the purchases ledger control account."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-041",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A sales ledger control account has these entries for the month: opening balance (debit) $9,850; credit sales $24,300; cash received from customers $21,600; discount allowed $380; sales returns $610; irrecoverable debt written off $240. What is the closing balance?\nA $11,320 debit\nB $11,560 debit\nC $12,080 debit\nD $9,850 debit",
+    "marks": 1,
+    "answer": "A $11,320 debit",
+    "working": "9,850 + 24,300 − 21,600 − 380 − 610 − 240 = 11,320. Discounts, returns and write-offs are credit entries that reduce the balance. B forgets the write-off; C adds the discount instead of deducting it."
+   }
+  ],
+  "check": "9850 + 24300 - 21600 - 380 - 610 - 240 == 11320",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-042",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "State whether each item is entered on the debit side or the credit side of a sales ledger control account.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Cash received from customers.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "Receipts reduce the amount owed by customers."
+   },
+   {
+    "label": "b",
+    "text": "Credit sales.",
+    "marks": 1,
+    "answer": "Debit",
+    "working": "Sales on credit increase the amount owed by customers."
+   },
+   {
+    "label": "c",
+    "text": "Sales returns.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "Returns reduce the amount owed."
+   },
+   {
+    "label": "d",
+    "text": "Irrecoverable debts written off.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "Writing off a debt reduces the amount still owed."
+   },
+   {
+    "label": "e",
+    "text": "Discount allowed to customers.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "Discounts allowed reduce the amount owed."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-043",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Data for the purchases ledger of Kaur Fabrics for May:\nBalance owed to suppliers on 1 May $7,640 (credit)\nCredit purchases $19,180\nPurchases returns $720\nPayments to suppliers by cheque $17,400\nDiscount received from suppliers $260",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Prepare the purchases ledger control account for May, showing the balance carried down on 31 May.",
+    "marks": 4,
+    "answer": "Debit: purchases returns 720; bank 17,400; discount received 260; balance c/d 8,440 (total 26,820). Credit: balance b/d 7,640; credit purchases 19,180 (total 26,820).",
+    "working": "Balance c/d = 7,640 + 19,180 − 720 − 17,400 − 260 = 8,440 (credit). Both sides total $26,820."
+   },
+   {
+    "label": "b",
+    "text": "State what the balance carried down represents.",
+    "marks": 1,
+    "answer": "The amount owed to suppliers at 31 May (a credit balance).",
+    "working": "It is the amount still owed to suppliers at the end of the month."
+   }
+  ],
+  "check": "7640 + 19180 - 720 - 17400 - 260 == 8440 and 17400 + 720 + 260 + 8440 == 26820",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-044",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Sales ledger control account data for Umbrella Traders for April:\nBalance owed by customers on 1 April (debit) $13,200\nBalance owed by customers on 30 April (debit) $12,950\nCash received from customers $18,600\nDiscount allowed $340\nIrrecoverable debt written off $210\nSales returns $470",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the credit sales for April.",
+    "marks": 3,
+    "answer": "$19,370",
+    "working": "Closing = opening + credit sales − cash − discount − write-off − returns. So credit sales = 12,950 − 13,200 + 18,600 + 340 + 210 + 470 = 19,370."
+   },
+   {
+    "label": "b",
+    "text": "Explain how the credit sales figure from (a) should be checked.",
+    "marks": 2,
+    "answer": "Compare it with the total of the sales journal for April. Any difference shows an error in posting the journal total to the control account, or an error in the sales journal.",
+    "working": "1 mark for comparing with the sales journal total; 1 mark for explaining what a difference means."
+   }
+  ],
+  "check": "12950 - 13200 + 18600 + 340 + 210 + 470 == 19370",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-045",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two possible reasons why a control account's closing balance can differ from the total of the individual ledger balances it represents.",
+    "marks": 2,
+    "answer": "Any two: an error in posting an individual ledger entry (wrong amount or reversed entry); an entry posted to the control account but not to the individual ledger (or the reverse); a transposition error in an individual account; an entry omitted from one set of records.",
+    "working": "1 mark for each valid reason."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-046",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two sources of information used to prepare a control account.",
+    "marks": 2,
+    "answer": "Any two: the totals of the sales journal and purchases journal; the returns journals; the cash book (totals of receipts and payments); the general journal (for bad debts and other adjustments).",
+    "working": "1 mark each for two valid sources."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-047",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The total of the sales journal for July was $14,820. The credit sales figure shown in the sales ledger control account is $14,280.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what this difference indicates and calculate its size.",
+    "marks": 2,
+    "answer": "The control account credit sales are understated by $540 (14,820 − 14,280).",
+    "working": "1 mark for the correct amount; 1 mark for stating that the control account figure is lower than the journal total."
+   },
+   {
+    "label": "b",
+    "text": "Suggest one possible reason for the difference.",
+    "marks": 1,
+    "answer": "An invoice from the sales journal was not posted to the control account, or the journal total was mis-added or mis-posted.",
+    "working": "Any one plausible error in recording or posting the total."
+   }
+  ],
+  "check": "14820 - 14280 == 540",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-048",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a purchases ledger control account, returns of $1,140 to suppliers were entered on the credit side instead of the debit side. All other entries were correct.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the effect on the closing balance of the control account, and state whether the closing balance (owed to suppliers) is overstated or understated.",
+    "marks": 3,
+    "answer": "Overstated by $2,280.",
+    "working": "The return should reduce the amount owed (debit). Posting it as a credit adds 1,140 instead of subtracting it, a difference of 2 × 1,140 = 2,280. The closing credit balance is overstated by $2,280."
+   }
+  ],
+  "check": "2 * 1140 == 2280",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-049",
+  "topic": "Verification of accounting records",
+  "subtopic": "Control accounts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A bookkeeper keeps the purchases ledger control account, but the individual purchases ledger accounts are kept by a different clerk.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the internal-control benefit of this arrangement.",
+    "marks": 2,
+    "answer": "Separation of duties means one person cannot both record and check the same transactions, so errors or fraud are more likely to be detected when the control account is compared with the individual ledgers.",
+    "working": "1 mark for separation of duties; 1 mark for explaining that the two sets of records can be checked against each other."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-050",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which error will make the totals of a trial balance disagree?\nA a credit sale of $800 was omitted completely from the books\nB the $280 rent paid was debited to rent expense but not credited to the bank account\nC a payment of $450 to a supplier was debited to the wrong supplier's account\nD a payment of $300 for stationery was posted with the debit and credit sides reversed",
+    "marks": 1,
+    "answer": "B the $280 rent paid was debited to rent expense but not credited to the bank account",
+    "working": "Only a one-sided error (a debit with no matching credit, or the reverse) makes the trial balance totals disagree. An omitted transaction, a posting to the wrong account and reversed entries all keep the debit and credit totals equal, so a trial balance does not reveal them."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-051",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A trial balance has total debits of $48,600 and total credits of $47,900. Which error could explain the difference?\nA a credit sale of $350 was credited twice to the sales account\nB purchases returns of $700 were debited to the supplier's account, but the purchases returns account was not credited\nC a credit sale of $700 was credited to sales, but the customer's account was not debited\nD a payment of $350 to a supplier was debited to the supplier's account and also to the bank account",
+    "marks": 1,
+    "answer": "B purchases returns of $700 were debited to the supplier's account, but the purchases returns account was not credited",
+    "working": "The debit total is $700 more than the credit total. Option B adds 700 to the debit side only, which fits. A and D give differences of 350 (the wrong size). C would make the credit total the larger."
+   }
+  ],
+  "check": "48600 - 47900 == 700",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-052",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Classify each balance as a debit or a credit balance in a trial balance.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Drawings.",
+    "marks": 1,
+    "answer": "Debit",
+    "working": "Drawings reduce capital and are debited."
+   },
+   {
+    "label": "b",
+    "text": "Discount received.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "Discount received is income and is credited."
+   },
+   {
+    "label": "c",
+    "text": "Accumulated depreciation on machinery.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "Accumulated depreciation is a deduction from non-current assets and is credited."
+   },
+   {
+    "label": "d",
+    "text": "Carriage inwards.",
+    "marks": 1,
+    "answer": "Debit",
+    "working": "Carriage inwards is an expense that is part of the cost of purchases, and is debited."
+   },
+   {
+    "label": "e",
+    "text": "Bank overdraft.",
+    "marks": 1,
+    "answer": "Credit",
+    "working": "An overdraft is a liability owed to the bank and is credited."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-053",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Balances in the books of Qasim Enterprises at 31 December 2026 (in $):\nCapital 40,000 (credit)\nPremises 35,000\nEquipment 9,500\nInventory at 1 January 2026 4,200\nPurchases 26,400\nSales 52,600 (credit)\nTrade receivables 3,800\nTrade payables 2,900 (credit)\nRent 3,600\nWages 4,900\nBank 2,100\nDrawings 6,000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Prepare the trial balance at 31 December 2026, showing the total of each column.",
+    "marks": 4,
+    "answer": "Debit column: premises 35,000; equipment 9,500; inventory 4,200; purchases 26,400; trade receivables 3,800; rent 3,600; wages 4,900; bank 2,100; drawings 6,000; total 95,500. Credit column: capital 40,000; sales 52,600; trade payables 2,900; total 95,500. The trial balance agrees.",
+    "working": "Debit: premises 35,000; equipment 9,500; inventory 4,200; purchases 26,400; receivables 3,800; rent 3,600; wages 4,900; bank 2,100; drawings 6,000 = 95,500. Credit: capital 40,000; sales 52,600; payables 2,900 = 95,500."
+   },
+   {
+    "label": "b",
+    "text": "State whether trade payables are an asset or a liability, and give the amount.",
+    "marks": 2,
+    "answer": "A liability of $2,900 (credit balance).",
+    "working": "Trade payables are amounts owed to suppliers, which are liabilities, and they appear as a credit balance."
+   }
+  ],
+  "check": "35000 + 9500 + 4200 + 26400 + 3800 + 3600 + 4900 + 2100 + 6000 == 95500 and 40000 + 52600 + 2900 == 95500",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-054",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A trial balance extracted on 31 May shows total debit balances of $88,400 and total credit balances of $90,150. All balances have been included except trade receivables, which were left out by mistake.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the trade receivables balance and state whether it is a debit or a credit.",
+    "marks": 3,
+    "answer": "$1,750 debit",
+    "working": "Trade receivables are an asset with a debit balance. The missing debit is 90,150 − 88,400 = 1,750."
+   },
+   {
+    "label": "b",
+    "text": "State one way the accountant could confirm that the trade receivables balance is correct.",
+    "marks": 2,
+    "answer": "Add up the individual customer balances in the sales ledger and compare the total with the figure; or compare it with the sales ledger control account.",
+    "working": "1 mark for a valid check; 1 mark for stating what it is compared with."
+   }
+  ],
+  "check": "90150 - 88400 == 1750",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-055",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a trial balance that agrees does not prove that the books are correct. Give one example of an error it would not reveal.",
+    "marks": 2,
+    "answer": "Equal totals only show that debits equal credits. An error such as an omitted transaction, a transaction posted to the wrong account, or a reversed entry leaves both totals equal, so it is not revealed.",
+    "working": "1 mark: equal totals only confirm that double entry balances arithmetically. 1 mark: one valid undetected error (omission, wrong account, reversal or compensating error)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-056",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the purpose of a trial balance.",
+    "marks": 2,
+    "answer": "It checks that the total of the debit balances equals the total of the credit balances (an arithmetic check on double entry), and it provides a list of balances from which the financial statements are prepared.",
+    "working": "1 mark for the arithmetic check; 1 mark for the list of balances used in the financial statements."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-057",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A payment of $615 for repairs was debited to the bank account and credited to the repairs account, the reverse of the correct entries.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State whether the trial balance totals will still agree.",
+    "marks": 1,
+    "answer": "Yes. Both sides of the entry are still recorded, so the totals agree.",
+    "working": "The error reverses the sides but does not create an unmatched debit or credit."
+   },
+   {
+    "label": "b",
+    "text": "State the amount by which the bank balance is wrong, and whether it is overstated or understated.",
+    "marks": 1,
+    "answer": "Overstated by $1,230.",
+    "working": "The bank should have been credited with 615 but was debited, so the balance is wrong by 2 × 615 = 1,230 and is too high."
+   },
+   {
+    "label": "c",
+    "text": "State the effect on the repairs expense balance.",
+    "marks": 2,
+    "answer": "Understated by $1,230: the expense was credited 615 instead of debited 615.",
+    "working": "Correct: debit 615. Recorded: credit 615. The difference is 1,230 and the expense is too low."
+   }
+  ],
+  "check": "2 * 615 == 1230",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-058",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Ahsan Traders' books contain these errors:\n(1) A credit sale of $1,250 was not recorded at all.\n(2) A credit purchase of $600 from Mehran Supplies was recorded by crediting purchases $600 and debiting Mehran Supplies $600 (the sides were reversed).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State whether the trial balance totals will still agree after these errors.",
+    "marks": 1,
+    "answer": "Yes. Both errors leave the debit and credit totals equal.",
+    "working": "An omitted transaction and a reversed entry both keep debits equal to credits."
+   },
+   {
+    "label": "b",
+    "text": "State the amount by which sales are understated.",
+    "marks": 1,
+    "answer": "$1,250.",
+    "working": "The sale was omitted completely, so sales is understated by the full amount."
+   },
+   {
+    "label": "c",
+    "text": "State the amount by which purchases is wrong and whether it is understated or overstated.",
+    "marks": 2,
+    "answer": "Understated by $1,200, because purchases was credited 600 instead of debited 600.",
+    "working": "Correct: debit 600. Recorded: credit 600. The difference is 1,200 and purchases is too low."
+   },
+   {
+    "label": "d",
+    "text": "State the amount by which the amount owed to Mehran Supplies is wrong, and in which direction.",
+    "marks": 2,
+    "answer": "Understated by $1,200: Mehran Supplies was debited 600 instead of credited 600, so the balance owed is 1,200 too low.",
+    "working": "Correct: credit 600. Recorded: debit 600. The difference is 1,200 in the wrong direction."
+   }
+  ],
+  "check": "2 * 600 == 1200 and 1250 > 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-059",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name two types of error that a trial balance will reveal, and explain how each causes the totals to disagree.",
+    "marks": 2,
+    "answer": "Any two: a one-sided entry (only a debit or only a credit is recorded); a different amount posted to each side of an entry; an addition error in an account total; a balance copied incorrectly onto the trial balance.",
+    "working": "1 mark for each valid error type with a brief explanation of why the totals disagree."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-060",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The owner notices that drawings of $1,800 were debited to the travel expense account and credited to cash. The trial balance totals agree.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how the trial balance can still agree, and state the effect on profit and on the capital balance.",
+    "marks": 4,
+    "answer": "Both sides of the wrong entry are recorded, so the totals agree, but the wrong account is used. Expenses are overstated and profit is understated by 1,800. The capital balance is correct overall, because the lower profit offsets the drawings that should have been deducted from capital.",
+    "working": "1 mark: both sides recorded, so the totals agree. 1 mark: drawings are not a business expense, so expenses are overstated and profit understated by 1,800. 1 mark: drawings are not reduced in the trial balance. 1 mark: capital is unaffected in total."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-061",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In the trial balance of Riaz Trading, the total of all debit balances is $98,250. The credit balances, excluding capital, total $61,400. Assume the trial balance agrees and that capital is the only missing credit balance.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital balance, which is the only missing credit balance.",
+    "marks": 3,
+    "answer": "$36,850 (credit)",
+    "working": "Total credits must equal total debits: capital = 98,250 − 61,400 = 36,850."
+   }
+  ],
+  "check": "98250 - 61400 == 36850",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-062",
+  "topic": "Verification of accounting records",
+  "subtopic": "Trial balance",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a trial balance should be prepared before the income statement and statement of financial position are drawn up.",
+    "marks": 2,
+    "answer": "It checks the arithmetic of the double entry (debits equal credits), and it gives a complete list of balances from which the financial statements are prepared without missing any account.",
+    "working": "1 mark for the arithmetic check; 1 mark for the complete list of balances."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-063",
+  "topic": "Accounting procedures",
+  "subtopic": "Irrecoverable debts and provision for doubtful debts",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A debt of $380 owed by Sadaf was written off as irrecoverable two years ago. Sadaf now pays the full $380 by bank transfer. Which entries record the payment correctly?\nA debit bank $380; credit irrecoverable debts expense $380\nB debit Sadaf (trade receivables) $380; credit irrecoverable debts expense $380; then debit bank $380; credit Sadaf $380\nC debit bank $380; credit Sadaf $380 only\nD debit irrecoverable debts expense $380; credit bank $380",
+    "marks": 1,
+    "answer": "B debit Sadaf (trade receivables) $380; credit irrecoverable debts expense $380; then debit bank $380; credit Sadaf $380",
+    "working": "The recovery is recorded in two steps. First reverse the write-off (debit Sadaf, credit irrecoverable debts), then record the cash received (debit bank, credit Sadaf). Option C records the cash but not the reversal of the write-off, so the expense would stay understated."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-064",
+  "topic": "Accounting procedures",
+  "subtopic": "Irrecoverable debts and provision for doubtful debts",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Trade receivables on 31 December were $60,000 before any adjustment. A debt of $1,000 is to be written off, and the provision for doubtful debts is to be 5% of the remaining trade receivables. The provision on 1 January was $2,400. What is the increase in the provision charged to the income statement for the year, excluding the write-off?\nA $550\nB $600\nC $1,000\nD $1,450",
+    "marks": 1,
+    "answer": "A $550",
+    "working": "After the write-off, receivables = 59,000. Provision needed = 5% × 59,000 = 2,950. Increase = 2,950 − 2,400 = 550. B does not deduct the write-off first; C is the write-off alone; D uses an opening provision of $1,500 instead of $2,400."
+   }
+  ],
+  "check": "(60000 - 1000) * 0.05 - 2400 == 550",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-065",
+  "topic": "Accounting procedures",
+  "subtopic": "Irrecoverable debts and provision for doubtful debts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A bookshop's trade receivables at 31 December 2026 were $28,640 before adjustments. A debt of $640 is to be written off as irrecoverable. The provision for doubtful debts is to be 2.5% of trade receivables after the write-off. The provision on 1 January 2026 was $900.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the provision for doubtful debts required at 31 December 2026.",
+    "marks": 2,
+    "answer": "$700",
+    "working": "Receivables after write-off = 28,640 − 640 = 28,000. Provision = 2.5% × 28,000 = 700."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the net charge to the income statement for the irrecoverable debt and the change in the provision.",
+    "marks": 2,
+    "answer": "$440",
+    "working": "Irrecoverable debt charged = 640. The provision falls from 900 to 700, so 200 is released to the income statement and reduces the charge: 640 − 200 = 440."
+   },
+   {
+    "label": "c",
+    "text": "State whether the change in the provision is an increase or a decrease in the charge, and explain why.",
+    "marks": 2,
+    "answer": "A decrease (a release of 200), because the provision required (700) is less than the opening provision (900), so the excess is credited back to the income statement.",
+    "working": "1 mark for the direction (decrease); 1 mark for the reason, comparing the required provision with the opening provision."
+   }
+  ],
+  "check": "(28640 - 640) * 0.025 == 700 and 640 - (900 - 700) == 440",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-066",
+  "topic": "Accounting procedures",
+  "subtopic": "Irrecoverable debts and provision for doubtful debts",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two reasons why a business might write off a debt as irrecoverable.",
+    "marks": 2,
+    "answer": "Any two: the customer has gone out of business or has left the country; the customer is bankrupt and the final settlement has been received; the debt is very old and the customer will not pay; legal action has failed or is too costly.",
+    "working": "1 mark for each valid reason."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-067",
+  "topic": "Accounting procedures",
+  "subtopic": "Irrecoverable debts and provision for doubtful debts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Mazhar wrote off a debt of $1,200 owed by Sonia in the year ended 31 March 2025. In March 2026 Sonia paid 40% of the debt in cash, and this was all she could repay.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the amount recovered.",
+    "marks": 1,
+    "answer": "$480",
+    "working": "40% × 1,200 = 480."
+   },
+   {
+    "label": "b",
+    "text": "State the two entries needed to record the cash received.",
+    "marks": 2,
+    "answer": "Debit Sonia (trade receivables) $480 and credit irrecoverable debts (recovered) $480; then debit bank $480 and credit Sonia $480.",
+    "working": "1 mark for reinstating the debt (both sides); 1 mark for recording the cash (both sides)."
+   },
+   {
+    "label": "c",
+    "text": "State the amount of the debt that remains irrecoverable.",
+    "marks": 1,
+    "answer": "$720",
+    "working": "1,200 − 480 = 720."
+   }
+  ],
+  "check": "0.4 * 1200 == 480 and 1200 - 480 == 720",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-068",
+  "topic": "Accounting procedures",
+  "subtopic": "Irrecoverable debts and provision for doubtful debts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Ravi Engineering's trade receivables at 31 August 2026 are analysed by age:\nUp to 30 days: $20,000 (provision 1%)\n31 to 60 days: $8,000 (provision 3%)\nOver 60 days: $3,000 (provision 10%)",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the provision for doubtful debts required at 31 August 2026.",
+    "marks": 2,
+    "answer": "$740",
+    "working": "1% × 20,000 = 200; 3% × 8,000 = 240; 10% × 3,000 = 300; total 740."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the charge to the income statement, if the provision brought forward on 1 September 2025 is $450.",
+    "marks": 2,
+    "answer": "$290 increase (charged to the income statement)",
+    "working": "740 − 450 = 290. The provision has increased, so the difference is charged."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a business might base its provision on the age of the debts rather than as a flat percentage of all trade receivables.",
+    "marks": 2,
+    "answer": "Older debts are more likely to be irrecoverable, so a higher percentage is applied to them. This gives a more reliable and prudent estimate of the amount that will not be paid.",
+    "working": "1 mark: older debts are more likely to be irrecoverable; 1 mark: a higher rate on older debts gives a more reliable or prudent estimate."
+   }
+  ],
+  "check": "20000*0.01 + 8000*0.03 + 3000*0.10 == 740 and 740 - 450 == 290",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-069",
+  "topic": "Accounting procedures",
+  "subtopic": "Depreciation and disposal of non-current assets",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A delivery van cost $36,000 and is depreciated at 25% a year by the reducing balance method. What is the depreciation charge for the second year?\nA $6,750\nB $9,000\nC $6,000\nD $4,500",
+    "marks": 1,
+    "answer": "A $6,750",
+    "working": "Year 1 charge = 25% × 36,000 = 9,000, so the carrying amount is 27,000 at the start of year 2. Year 2 charge = 25% × 27,000 = 6,750. B is the year 1 charge; C is 25% of $24,000, which is not the carrying amount at any point; D is 25% of $18,000, which is not a carrying amount for this van."
+   }
+  ],
+  "check": "36000 * 0.75 * 0.25 == 6750",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-070",
+  "topic": "Accounting procedures",
+  "subtopic": "Depreciation and disposal of non-current assets",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A machine costing $80,000 was bought on 1 July 2024. It is depreciated by the straight-line method over 5 years to a residual value of $5,000. The financial year ends on 31 December. What is the depreciation charge for the year ended 31 December 2024?\nA $6,000\nB $7,500\nC $8,000\nD $15,000",
+    "marks": 1,
+    "answer": "B $7,500",
+    "working": "Annual charge = (80,000 − 5,000) ÷ 5 = 15,000. Only six months (July to December) are charged: 15,000 × 6/12 = 7,500. C ignores the residual value; D is the full annual charge for a whole year; A (6,000) does not follow from either the annual charge or the six-month period."
+   }
+  ],
+  "check": "(80000 - 5000) / 5 * 6 / 12 == 7500",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-071",
+  "topic": "Accounting procedures",
+  "subtopic": "Depreciation and disposal of non-current assets",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two reasons why a business depreciates its non-current assets.",
+    "marks": 2,
+    "answer": "Any two: to match the cost of using the asset against the revenue it helps to earn; to show the asset's carrying amount falling over its useful life; to reflect wear and tear, obsolescence or the passing of time; to give a more accurate profit.",
+    "working": "1 mark for each valid reason."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-072",
+  "topic": "Accounting procedures",
+  "subtopic": "Depreciation and disposal of non-current assets",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A printer costing $2,400 has a residual value of $300 and a useful life of 3 years. The business uses the straight-line method.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the annual depreciation charge by the straight-line method.",
+    "marks": 2,
+    "answer": "$700",
+    "working": "(2,400 − 300) ÷ 3 = 700."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the net book value of the printer at the end of year 2.",
+    "marks": 2,
+    "answer": "$1,000",
+    "working": "Cost 2,400 − accumulated depreciation (2 × 700 = 1,400) = 1,000."
+   }
+  ],
+  "check": "(2400 - 300) / 3 == 700 and 2400 - 2 * 700 == 1000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-073",
+  "topic": "Accounting procedures",
+  "subtopic": "Depreciation and disposal of non-current assets",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A delivery van was bought on 1 April 2023 for $40,000. It is depreciated at 20% a year by the reducing balance method, with a full year's charge in the year of purchase. The financial year ends on 31 December. The van was sold on 30 September 2025 for $19,500 cash, and no depreciation is charged in the year of sale.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the depreciation charged for the year ended 31 December 2024.",
+    "marks": 2,
+    "answer": "$6,400",
+    "working": "Carrying amount at 1 January 2024 = 40,000 − 8,000 = 32,000. Charge for 2024 = 20% × 32,000 = 6,400."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit or loss on disposal.",
+    "marks": 2,
+    "answer": "Loss of $6,100",
+    "working": "Carrying amount at disposal = 32,000 − 6,400 = 25,600. Proceeds 19,500. Loss = 25,600 − 19,500 = 6,100."
+   }
+  ],
+  "check": "(40000 - 40000*0.2)*0.2 == 6400 and 40000*0.8*0.8 - 19500 == 6100",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-074",
+  "topic": "Accounting procedures",
+  "subtopic": "Depreciation and disposal of non-current assets",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define residual value, and state how it is used in a straight-line depreciation calculation.",
+    "marks": 2,
+    "answer": "Residual value is the estimated amount the asset will be worth (scrap or disposal value) at the end of its useful life. It is deducted from cost to find the depreciable amount: (cost − residual value) ÷ useful life.",
+    "working": "1 mark for the definition; 1 mark for the calculation method."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-075",
+  "topic": "Accounting procedures",
+  "subtopic": "Depreciation and disposal of non-current assets",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the depreciation charge under the reducing balance method is higher in the early years of an asset's life than in later years.",
+    "marks": 2,
+    "answer": "The charge is a fixed percentage of the carrying amount, and the carrying amount falls each year as accumulated depreciation builds up, so the charge gets smaller over time.",
+    "working": "1 mark: the percentage is applied to a falling carrying amount; 1 mark: so the charge reduces each year."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-076",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business pays $1,200 for a 12-month insurance policy starting on 1 October. The financial year ends on 31 December. What is the prepayment at the year end?\nA $300\nB $900\nC $1,200\nD $100",
+    "marks": 1,
+    "answer": "B $900",
+    "working": "Three months (October to December) have been used, so 9 of the 12 months are still to come: 1,200 × 9/12 = 900. A is the cost of the three months used, not the prepaid part; D is one month only; C is the whole payment."
+   }
+  ],
+  "check": "1200 * 9 / 12 == 900",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-077",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Electricity charges for the year ended 31 March 2026: payments made in the year $1,840; electricity owing on 1 April 2025 (opening accrual) $220; electricity owing on 31 March 2026 (closing accrual) $310. What is the electricity expense for the year?\nA $1,930\nB $1,530\nC $2,370\nD $1,840",
+    "marks": 1,
+    "answer": "A $1,930",
+    "working": "Expense = payments − opening accrual + closing accrual = 1,840 − 220 + 310 = 1,930. B deducts the closing accrual instead of adding it (1,840 − 310 = 1,530); C adds both accruals instead of deducting the opening one; D ignores the accruals altogether."
+   }
+  ],
+  "check": "1840 - 220 + 310 == 1930",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-078",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define an accrual and a prepayment, giving one example of each.",
+    "marks": 2,
+    "answer": "An accrual is an expense (or income) that has been used but not yet paid at the year end, for example electricity used but not yet billed. A prepayment is an expense paid in advance for a future period, for example insurance paid before the year it covers.",
+    "working": "1 mark for the definitions; 1 mark for a correct example of each (or one example of each in brief)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-079",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "On 1 September 2025 a business paid $3,000 for an insurance policy covering the 12 months from 1 September 2025 to 31 August 2026. Its financial year ends on 31 December.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the insurance expense for the year ended 31 December 2025.",
+    "marks": 2,
+    "answer": "$1,000",
+    "working": "1 September to 31 December is 4 months: 3,000 × 4/12 = 1,000."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the prepayment at 31 December 2025.",
+    "marks": 2,
+    "answer": "$2,000",
+    "working": "The remaining 8 months (January to August 2026) are prepaid: 3,000 × 8/12 = 2,000."
+   }
+  ],
+  "check": "3000 * 4 / 12 == 1000 and 3000 * 8 / 12 == 2000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-080",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A factory paid wages of $42,600 during the year ended 31 December 2026. Wages owing on 1 January 2026 were $1,150, and wages owing on 31 December 2026 were $1,480.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the wages expense for the year ended 31 December 2026.",
+    "marks": 2,
+    "answer": "$42,930",
+    "working": "Expense = payments − opening owing + closing owing = 42,600 − 1,150 + 1,480 = 42,930."
+   },
+   {
+    "label": "b",
+    "text": "State where the closing wages owing appear in the financial statements.",
+    "marks": 1,
+    "answer": "In the statement of financial position, as a current liability (accrual).",
+    "working": "Amounts owed at the year end are liabilities."
+   }
+  ],
+  "check": "42600 - 1150 + 1480 == 42930",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-081",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Motor insurance of $2,160 was paid on 1 February 2025 for 18 months, from 1 February 2025 to 31 July 2026. The financial year ends on 31 December 2025.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the motor insurance expense for the year ended 31 December 2025.",
+    "marks": 2,
+    "answer": "$1,320",
+    "working": "The policy runs for 18 months from 1 February 2025 to 31 July 2026. Eleven months fall in 2025: 2,160 × 11/18 = 1,320."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the prepayment at 31 December 2025.",
+    "marks": 2,
+    "answer": "$840",
+    "working": "Seven months (January to July 2026) remain: 2,160 × 7/18 = 840. Check: 1,320 + 840 = 2,160."
+   },
+   {
+    "label": "c",
+    "text": "State the statement and section in which the prepayment appears.",
+    "marks": 1,
+    "answer": "The statement of financial position, under current assets.",
+    "working": "A prepayment is an asset (a payment made in advance)."
+   }
+  ],
+  "check": "2160 * 11 / 18 == 1320 and 2160 * 7 / 18 == 840",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-082",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A business rents out part of its premises. Details for the year ended 31 December 2026:\nRent receivable (owed by the tenant) on 1 January 2026: $600\nRent received in cash during 2026: $9,300\nRent received in advance on 31 December 2026: $250\nRent received in advance on 1 January 2026: $400\nRent receivable on 31 December 2026: $750",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the rental income for 2026.",
+    "marks": 3,
+    "answer": "$9,600",
+    "working": "Income = cash received + closing receivable − opening receivable − closing rent received in advance + opening rent received in advance = 9,300 + 750 − 600 − 250 + 400 = 9,600."
+   },
+   {
+    "label": "b",
+    "text": "State where the rent received in advance at 31 December 2026 appears in the financial statements.",
+    "marks": 1,
+    "answer": "In the statement of financial position, as a current liability.",
+    "working": "Rent received for a future period is a liability until it is earned."
+   }
+  ],
+  "check": "9300 + 750 - 600 - 250 + 400 == 9600",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-083",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the effect on profit of omitting an accrual of $450 for electricity from the financial statements.",
+    "marks": 2,
+    "answer": "Expenses are understated by 450, so profit is overstated by 450. Liabilities are also understated by 450.",
+    "working": "1 mark for the effect on expenses and profit; 1 mark for the effect on the liability."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-084",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why accruals and prepayments are adjusted for, applying the matching principle.",
+    "marks": 2,
+    "answer": "So that expenses in the income statement relate to the period in which they were used, not to the period in which they were paid. Profit therefore reflects the correct period.",
+    "working": "1 mark for matching expenses to the period used; 1 mark for the effect on profit being correct for the period."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-085",
+  "topic": "Accounting procedures",
+  "subtopic": "Accruals and prepayments",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the statement and the classification in which an accrued expense is shown.",
+    "marks": 1,
+    "answer": "The statement of financial position, as a current liability.",
+    "working": "An accrual is an amount owed at the year end."
+   },
+   {
+    "label": "b",
+    "text": "Name the statement and the classification in which a prepayment is shown.",
+    "marks": 1,
+    "answer": "The statement of financial position, as a current asset.",
+    "working": "A prepayment is a payment made in advance and is an asset until used."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-086",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A shop holds an item of inventory that cost $850. Its net realisable value is $720. At what value should it be included in closing inventory?\nA $850\nB $720\nC $130\nD $1,570",
+    "marks": 1,
+    "answer": "B $720",
+    "working": "Inventory is valued at the lower of cost and net realisable value. NRV ($720) is lower than cost ($850), so $720 is used. C is the difference between the two values; D adds cost and NRV together."
+   }
+  ],
+  "check": "min(850, 720) == 720",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-087",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A trader bought one product on two dates: 100 units at $6 each on 1 January, and 150 units at $7 each on 10 January. During January 180 units were sold. Using FIFO, what is the value of the 70 units left at 31 January?\nA $462\nB $490\nC $420\nD $600",
+    "marks": 1,
+    "answer": "B $490",
+    "working": "FIFO: the 180 units sold are the first 100 at $6 and 80 at $7. The 70 units left are from the 10 January purchase at $7: 70 × 7 = 490. A is the average-cost value (1,650 ÷ 250 × 70); C values 70 units at $6; D is 100 units at $6."
+   }
+  ],
+  "check": "70 * 7 == 490",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-088",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the rule used to value inventory, and give the reason for it.",
+    "marks": 2,
+    "answer": "Inventory is valued at the lower of cost and net realisable value. This follows the prudence principle: losses are recognised as soon as they are expected, and assets are not overstated.",
+    "working": "1 mark for the rule; 1 mark for the reason (prudence, not overstating assets)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-089",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A bakery's inventory at 31 March 2026:\nFlour: cost $1,200; net realisable value $1,350\nSugar: cost $480; net realisable value $400\nSpices: cost $260; net realisable value $300",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Value each item and calculate the total closing inventory value.",
+    "marks": 3,
+    "answer": "Flour $1,200; sugar $400; spices $260; total $1,860.",
+    "working": "Flour: lower of 1,200 and 1,350 = 1,200. Sugar: lower of 480 and 400 = 400. Spices: lower of 260 and 300 = 260. Total = 1,860."
+   }
+  ],
+  "check": "min(1200, 1350) + min(480, 400) + min(260, 300) == 1860",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-090",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A trader's stock movements in March:\n5 March: purchase 200 units at $4 each\n12 March: purchase 300 units at $5 each\n20 March: purchase 100 units at $6 each\nDuring March 350 units were sold.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the value of the closing inventory of 250 units using FIFO.",
+    "marks": 2,
+    "answer": "$1,350",
+    "working": "FIFO: the 350 units sold are 200 at $4 (800) and 150 at $5 (750). Remaining: 150 at $5 (750) and 100 at $6 (600) = 1,350."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the value of the closing inventory of 250 units using the weighted average cost method (calculated at the end of the month).",
+    "marks": 2,
+    "answer": "$1,208.33",
+    "working": "Total cost = 800 + 1,500 + 600 = 2,900 for 600 units. Average = 2,900 ÷ 600 = 4.8333. Closing value = 250 × 4.8333 = 1,208.33."
+   }
+  ],
+  "check": "200*4 + 300*5 + 100*6 - (200*4 + 150*5) == 1350 and abs((200*4 + 300*5 + 100*6)/600*250 - 1208.33) < 0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-091",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A shop has three items in closing inventory:\nItem A: cost $9,000; NRV $8,500\nItem B: cost $14,000; NRV $16,000\nItem C: cost $6,000; NRV $5,200",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total value of inventory if each item is valued separately at the lower of cost and NRV.",
+    "marks": 2,
+    "answer": "$27,700",
+    "working": "A: lower of 9,000 and 8,500 = 8,500. B: lower of 14,000 and 16,000 = 14,000. C: lower of 6,000 and 5,200 = 5,200. Total = 27,700."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the value if the lower of total cost and total NRV is used for the whole inventory.",
+    "marks": 2,
+    "answer": "$29,000",
+    "working": "Total cost = 29,000; total NRV = 29,700. The lower is 29,000."
+   },
+   {
+    "label": "c",
+    "text": "Explain which basis should be used, and why.",
+    "marks": 2,
+    "answer": "Item by item, because the rule applies to each item. Using the total allows a gain on one item to cancel a loss on another, which overstates inventory and is not prudent.",
+    "working": "1 mark for item-by-item; 1 mark for the explanation (no netting of gains against losses)."
+   }
+  ],
+  "check": "min(9000, 8500) + min(14000, 16000) + min(6000, 5200) == 27700 and min(9000 + 14000 + 6000, 8500 + 16000 + 5200) == 29000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-092",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State which method (FIFO or AVCO) gives a higher closing inventory value when purchase prices are rising, and explain why.",
+    "marks": 2,
+    "answer": "FIFO. The earliest, cheaper costs are used up first, so the remaining units are valued at the most recent, higher prices. AVCO averages the prices, giving a value between the two extremes.",
+    "working": "1 mark for FIFO; 1 mark for explaining that the earliest, cheaper units are sold first."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-093",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two items that form part of the cost of inventory.",
+    "marks": 2,
+    "answer": "Any two: the purchase price (net of trade discount); carriage inwards; import duties; other costs of bringing the goods to their present location.",
+    "working": "1 mark for each valid item."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-094",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by net realisable value (NRV) of inventory.",
+    "marks": 2,
+    "answer": "The estimated selling price in the normal course of business, less the estimated costs of completion and the costs needed to make the sale.",
+    "working": "1 mark for the selling price; 1 mark for deducting the costs to complete and sell."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-095",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A shop buys 40 cartons of juice. The invoice shows a list price of $3,600 less 10% trade discount. The supplier also charges carriage inwards of $180.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cost of the purchase for inventory purposes.",
+    "marks": 2,
+    "answer": "$3,420",
+    "working": "Invoice list price 3,600 less 10% trade discount = 3,240; add carriage inwards 180 = 3,420."
+   },
+   {
+    "label": "b",
+    "text": "State how the trade discount is treated in calculating cost.",
+    "marks": 1,
+    "answer": "It is deducted, because it is a reduction in the price actually paid and so is not part of cost.",
+    "working": "Cost is the net price paid plus costs of getting the goods to their location."
+   }
+  ],
+  "check": "3600 * 0.9 + 180 == 3420",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-096",
+  "topic": "Accounting procedures",
+  "subtopic": "Valuation of inventory",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A business's records for the year show: opening inventory $5,800; purchases $31,400; sales $52,000. Closing inventory was recorded as $7,250, but $950 of that stock was damaged and has a net realisable value of nil.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the corrected gross profit for the year.",
+    "marks": 2,
+    "answer": "$21,100",
+    "working": "Corrected closing inventory = 7,250 − 950 = 6,300. Cost of sales = 5,800 + 31,400 − 6,300 = 30,900. Gross profit = 52,000 − 30,900 = 21,100."
+   },
+   {
+    "label": "b",
+    "text": "State the original gross profit as recorded, and the effect of the error on the following year's gross profit.",
+    "marks": 3,
+    "answer": "Original gross profit was 22,050 (overstated by 950). The following year's gross profit is understated by 950, because the overstated opening inventory increases that year's cost of sales.",
+    "working": "1 mark: 52,000 − (5,800 + 31,400 − 7,250) = 22,050; 1 mark: overstatement of 950 this year; 1 mark: next year's opening inventory is overstated, so cost of sales is too high and gross profit too low."
+   }
+  ],
+  "check": "52000 - (5800 + 31400 - 6300) == 21100 and 52000 - (5800 + 31400 - 7250) == 22050",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-097",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which of the following is a capital receipt for a business?\nA commission received for arranging a sale on behalf of another firm\nB proceeds from selling an old delivery van that was a non-current asset\nC rent received from a tenant of a spare room\nD discount received from a supplier for prompt payment",
+    "marks": 1,
+    "answer": "B proceeds from selling an old delivery van that was a non-current asset",
+    "working": "Proceeds from the sale of a non-current asset are capital receipts. A, C and D are revenue receipts, which come from the normal running of the business."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-098",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business debited $3,000 spent on installing a new machine to repairs expense. Profit for the year, as recorded, was $18,000. Ignore depreciation. What is the corrected profit?\nA $15,000\nB $18,000\nC $21,000\nD $24,000",
+    "marks": 1,
+    "answer": "C $21,000",
+    "working": "Installation is capital expenditure (part of the machine's cost), so the $3,000 must be removed from repairs. Profit increases by 3,000: 18,000 + 3,000 = 21,000. A reverses the adjustment; B is the uncorrected profit; D adds the amount twice."
+   }
+  ],
+  "check": "18000 + 3000 == 21000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-099",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Classify each of these printing company items as capital expenditure or revenue expenditure.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Buying a new printing press, paid in cash.",
+    "marks": 1,
+    "answer": "Capital expenditure",
+    "working": "It is a non-current asset that will benefit the business for several years."
+   },
+   {
+    "label": "b",
+    "text": "Paper and ink bought to use in printing jobs during the year.",
+    "marks": 1,
+    "answer": "Revenue expenditure",
+    "working": "These are used up in the current year."
+   },
+   {
+    "label": "c",
+    "text": "A technician's fee for repairing a broken press.",
+    "marks": 1,
+    "answer": "Revenue expenditure",
+    "working": "A repair keeps the asset in working order and does not add to its value."
+   },
+   {
+    "label": "d",
+    "text": "Legal fees paid when buying a new building.",
+    "marks": 1,
+    "answer": "Capital expenditure",
+    "working": "Costs of acquiring a non-current asset form part of its cost."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-100",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A business buys a second-hand computer for $2,000 and pays $300 for installation and setup.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cost of the computer to be capitalised.",
+    "marks": 2,
+    "answer": "$2,300",
+    "working": "2,000 purchase price + 300 installation and setup = 2,300."
+   },
+   {
+    "label": "b",
+    "text": "State the accounting treatment of the $300 in the year of purchase.",
+    "marks": 1,
+    "answer": "It is added to the cost of the computer (capital expenditure) and is not charged as an expense in full.",
+    "working": "Costs needed to bring the asset into use are part of its cost and are depreciated."
+   }
+  ],
+  "check": "2000 + 300 == 2300",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-101",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A transport company buys a van for $36,000. It also pays import duty of $4,500, delivery charges of $600 and first-year insurance of $1,200.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital cost of the van.",
+    "marks": 3,
+    "answer": "$41,100",
+    "working": "36,000 purchase price + 4,500 import duty + 600 delivery charges = 41,100. First-year insurance is not part of the cost."
+   },
+   {
+    "label": "b",
+    "text": "State the treatment of the first-year insurance of $1,200.",
+    "marks": 1,
+    "answer": "Revenue expenditure: it is charged to the income statement as an expense for the year.",
+    "working": "Insurance is a running cost of using the van, not part of acquiring it."
+   }
+  ],
+  "check": "36000 + 4500 + 600 == 41100",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-102",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two examples of revenue receipts for a shop.",
+    "marks": 2,
+    "answer": "Any two of: commission received; rent received from a tenant; interest received.",
+    "working": "1 mark each for a valid revenue receipt."
+   },
+   {
+    "label": "b",
+    "text": "State two examples of capital receipts for a shop.",
+    "marks": 2,
+    "answer": "Any two of: proceeds from selling old shop fittings; capital introduced by the owner; proceeds from selling a delivery van.",
+    "working": "1 mark each for a valid capital receipt."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-103",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between capital expenditure and revenue expenditure.",
+    "marks": 2,
+    "answer": "Capital expenditure buys or improves non-current assets that benefit the business for more than one year, and is shown as part of non-current assets. Revenue expenditure is spent on the day-to-day running of the business, benefits only the current year, and is charged to the income statement.",
+    "working": "1 mark for capital expenditure; 1 mark for revenue expenditure."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-104",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Item | capital or revenue? | reason\n1. Repairs to a delivery van damaged in an accident\n2. Extension to an office building\n3. Annual service contract for air-conditioners\n4. Stationery bought for the office",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Complete the table by stating whether each item is capital or revenue expenditure, with the reason.",
+    "marks": 4,
+    "answer": "Repairs to a delivery van: revenue (restores the van to working order). Extension to an office building: capital (adds to the building's value and useful life). Annual service contract for air-conditioners: revenue (routine maintenance). Stationery for the office: revenue (used up in the year).",
+    "working": "1 mark for each row: correct classification with a brief reason."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-105",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why capital expenditure is not charged in full to the income statement in the year of purchase.",
+    "marks": 2,
+    "answer": "The asset benefits the business over several years, so its cost is spread over its useful life through depreciation. This matches the cost against the years in which the asset is used.",
+    "working": "1 mark: the asset benefits several years; 1 mark: its cost is depreciated and matched to the years of use."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-106",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Kashif debited $4,800 for a new van to motor expenses. The van is depreciated at 25% a year by the reducing balance method, with the first charge in the year of purchase. Profit before the correction was $22,500.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the corrected profit for the year.",
+    "marks": 3,
+    "answer": "$26,100",
+    "working": "Profit as recorded 22,500 + expense removed 4,800 − depreciation on the van (25% × 4,800 = 1,200) = 26,100."
+   },
+   {
+    "label": "b",
+    "text": "State where the van appears in the statement of financial position after the correction, and its carrying amount.",
+    "marks": 1,
+    "answer": "In non-current assets, at a carrying amount of $3,600 (cost 4,800 less accumulated depreciation 1,200).",
+    "working": "The van is a non-current asset at cost less accumulated depreciation."
+   }
+  ],
+  "check": "22500 + 4800 - 4800 * 0.25 == 26100",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-107",
+  "topic": "Accounting procedures",
+  "subtopic": "Capital and revenue expenditure and receipts",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two examples of revenue expenditure for a private school.",
+    "marks": 2,
+    "answer": "Any two: teachers' salaries; electricity; repairs to classroom furniture; stationery; cleaning.",
+    "working": "1 mark for each valid example."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-108",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting principles",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business expects to make a loss on a contract next year. It records the expected loss in this year's accounts. Which principle is applied?\nA prudence\nB realisation\nC duality\nD money measurement",
+    "marks": 1,
+    "answer": "A prudence",
+    "working": "Prudence requires losses to be recognised as soon as they are expected, not when they finally occur. Realisation concerns when revenue is recognised; duality concerns the two-sided effect of each transaction; money measurement concerns recording only items that can be measured in money."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-109",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting principles",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business received $12,000 in advance on 1 April for a 12-month service contract. Its financial year ends on 31 December. Using the realisation principle, what revenue should be included in the income statement for the year?\nA $12,000\nB $9,000\nC $3,000\nD $0",
+    "marks": 1,
+    "answer": "B $9,000",
+    "working": "Revenue is recognised as the service is provided. April to December is 9 of the 12 months, so 9/12 × 12,000 = 9,000 is earned this year. The remaining $3,000 (January to March next year) is deferred. C is the deferred amount, not the revenue for the year."
+   }
+  ],
+  "check": "12000 * 9 / 12 == 9000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-110",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting principles",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Name the accounting principle that is applied in each case.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Historic cost is used to value the business's premises at the price originally paid for them, $120,000, even though their market value has risen.",
+    "marks": 1,
+    "answer": "Historical cost (cost concept)",
+    "working": "Assets are recorded at the price paid, not at market value."
+   },
+   {
+    "label": "b",
+    "text": "The business uses the same depreciation method for its vehicles every year.",
+    "marks": 1,
+    "answer": "Consistency",
+    "working": "Accounting methods are applied the same way from one period to the next."
+   },
+   {
+    "label": "c",
+    "text": "An office stapler costing $4 is expensed in full in the year of purchase, although it will last several years.",
+    "marks": 1,
+    "answer": "Materiality",
+    "working": "Items too small to affect a user's decision need not be treated in strict detail."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-111",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting principles",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the going concern principle, and why it allows non-current assets to be depreciated over several years rather than written off at once.",
+    "marks": 3,
+    "answer": "The business is assumed to continue operating for the foreseeable future, so its assets are expected to be used over their useful lives. Their cost is therefore spread over several years by depreciation, rather than valued at the price a forced sale would raise.",
+    "working": "1 mark: the business is assumed to continue for the foreseeable future; 1 mark: assets are used over their useful lives; 1 mark: cost is spread over those years by depreciation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-112",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting principles",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Nida pays $5,400 on 1 October 2025 for 18 months' rent on a shop, from 1 October 2025 to 31 March 2027. Her financial year ends on 31 December.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the rent expense for the year ended 31 December 2025.",
+    "marks": 2,
+    "answer": "$900",
+    "working": "Rent of 5,400 for 18 months = 300 a month. Three months (October to December 2025) = 3 × 300 = 900."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the prepayment at 31 December 2025.",
+    "marks": 2,
+    "answer": "$4,500",
+    "working": "5,400 − 900 = 4,500, which covers the 15 months from 1 January 2026 to 31 March 2027."
+   },
+   {
+    "label": "c",
+    "text": "Name the accounting principle that requires the rent to be spread over the periods it covers.",
+    "marks": 1,
+    "answer": "The matching principle.",
+    "working": "Expenses are matched to the periods that benefit from them."
+   }
+  ],
+  "check": "5400 / 18 * 3 == 900 and 5400 - 900 == 4500",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-113",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business uses the same depreciation method for its vehicles every year, so that users can compare profits from one year to the next. Which qualitative characteristic of financial information is best shown?\nA relevance\nB comparability\nC understandability\nD materiality",
+    "marks": 1,
+    "answer": "B comparability",
+    "working": "Consistent use of the same policies over time, and across businesses, makes financial information comparable. Relevance means the information can influence decisions; understandability means users can follow it; materiality decides whether an item is significant enough to matter and is not one of the four characteristics in this subtopic (relevance, reliability, comparability, understandability)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-114",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which of the following is an accounting policy, rather than an accounting estimate?\nA the useful life of a machine is estimated at 6 years\nB the estimated residual value of a van is $2,000\nC the business uses the reducing balance method to depreciate its vehicles\nD the proportion of trade receivables that will not be paid is estimated at 4%",
+    "marks": 1,
+    "answer": "C the business uses the reducing balance method to depreciate its vehicles",
+    "working": "Choosing a depreciation method is an accounting policy. Useful life, residual value and the expected percentage of doubtful debts are estimates, which can be revised as new information becomes available."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-115",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Name the qualitative characteristic of financial information shown in each statement.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The financial statements of this year and last year use the same accounting policies.",
+    "marks": 1,
+    "answer": "Comparability",
+    "working": "Consistent policies allow the figures to be compared over time."
+   },
+   {
+    "label": "b",
+    "text": "The information is free from bias and can be depended on by users.",
+    "marks": 1,
+    "answer": "Reliability",
+    "working": "Reliable information is free from material error and bias."
+   },
+   {
+    "label": "c",
+    "text": "The information is presented clearly so that users with a reasonable knowledge of business can understand it.",
+    "marks": 1,
+    "answer": "Understandability",
+    "working": "This describes clear and concise presentation for users."
+   },
+   {
+    "label": "d",
+    "text": "The information helps users to make decisions about the business.",
+    "marks": 1,
+    "answer": "Relevance",
+    "working": "Relevant information can influence decisions, for example by confirming or correcting past expectations."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-116",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two items usually disclosed in the notes to the financial statements as accounting policies.",
+    "marks": 2,
+    "answer": "Any two: the method of depreciation for non-current assets; the method of valuing inventory; the basis of recognising revenue; the policy for doubtful debts.",
+    "working": "1 mark for each valid item."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-117",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the body that issues International Financial Reporting Standards (IFRS).",
+    "marks": 1,
+    "answer": "The International Accounting Standards Board (IASB).",
+    "working": "The IASB is the standard-setting body for IFRS."
+   },
+   {
+    "label": "b",
+    "text": "State the number of the international standard that deals with inventories.",
+    "marks": 1,
+    "answer": "IAS 2 (Inventories).",
+    "working": "IAS 2 sets out how inventories are measured, including the lower of cost and net realisable value."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-118",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a business should disclose its accounting policies in the notes to its financial statements.",
+    "marks": 2,
+    "answer": "So that users can understand how the figures were measured, and compare them with other periods and businesses. Disclosure supports the reliability and understandability of the statements.",
+    "working": "1 mark for each valid reason, up to 2."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-119",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A business changes its valuation of inventory from FIFO to AVCO.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the effect of this change on comparability with previous years, and state one action the business should take to help users.",
+    "marks": 3,
+    "answer": "Comparability is reduced, because the figures are no longer measured on the same basis as in previous years. The business should disclose the change in policy, and the effect of the change on the figures, in the notes.",
+    "working": "1 mark: comparability reduced; 1 mark: figures measured on a different basis; 1 mark: disclose the change and its effect in the notes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-120",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A business bought a machine on 1 January 2024 for $60,000 with nil residual value. In 2024 it depreciated the machine at 25% a year on the reducing balance method (charge $15,000). From 1 January 2025 it changed to straight-line depreciation over a further 3 years, with nil residual value.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the depreciation charge for 2025 under the new policy.",
+    "marks": 2,
+    "answer": "$15,000",
+    "working": "Net book value at 1 January 2025 = 60,000 − 15,000 = 45,000. Straight-line over the remaining 3 years: 45,000 ÷ 3 = 15,000."
+   },
+   {
+    "label": "b",
+    "text": "State the effect on 2025 profit compared with keeping the reducing balance method.",
+    "marks": 2,
+    "answer": "Profit is $3,750 lower under the straight-line method, because the charge is 15,000 instead of 11,250 (25% × 45,000) under reducing balance.",
+    "working": "15,000 − 11,250 = 3,750 difference in the charge, so profit is lower by 3,750 under the new method."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the change must be disclosed in the notes.",
+    "marks": 2,
+    "answer": "The change alters the reported profit and asset values, so users need to know it to interpret the figures and compare them with other years.",
+    "working": "1 mark: the change affects profit and asset values; 1 mark: users need the information to compare the years."
+   }
+  ],
+  "check": "45000 / 3 == 15000 and 15000 - 45000 * 0.25 == 3750",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-121",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why financial information must be provided on time (timeliness) if it is to be relevant.",
+    "marks": 2,
+    "answer": "Old information may no longer help users make decisions. Timely information can influence decisions before the opportunity to act has passed.",
+    "working": "1 mark: old information loses its usefulness; 1 mark: timely information can still influence decisions."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-122",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the term accounting policy.",
+    "marks": 2,
+    "answer": "The specific principles, bases, conventions, rules and practices that a business applies in preparing and presenting its financial statements, for example how it values inventory or depreciates non-current assets.",
+    "working": "1 mark for the definition; 1 mark for a valid example."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-123",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a change in accounting policy and a change in an accounting estimate. Give one example of each.",
+    "marks": 3,
+    "answer": "A change in accounting policy changes the method or basis used, for example FIFO to AVCO. A change in estimate revises a judgement as new information becomes available, for example changing the useful life of a machine from 5 years to 4 years.",
+    "working": "1 mark: change of policy defined; 1 mark: change of estimate defined; 1 mark: correct examples of each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-124",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A piece of equipment cost $90,000 with an estimated residual value of $6,000 and an original useful life of 6 years (straight-line). At the start of year 3 the business revises the total useful life to 8 years. The residual value is unchanged.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the depreciation charge for year 3 under the revised estimate, to the nearest dollar.",
+    "marks": 3,
+    "answer": "$9,333",
+    "working": "Depreciation to the end of year 2 = 2 × (90,000 − 6,000) ÷ 6 = 28,000. Carrying amount at 1 January year 3 = 90,000 − 28,000 = 62,000. Remaining depreciable amount = 62,000 − 6,000 = 56,000 over the remaining 6 years (8 − 2): 56,000 ÷ 6 = 9,333.33, to the nearest dollar 9,333."
+   },
+   {
+    "label": "b",
+    "text": "State whether this is a change in policy or a change in estimate, and explain why.",
+    "marks": 2,
+    "answer": "A change in estimate. The method (straight-line) is unchanged; only the expected useful life has been revised as new information became available.",
+    "working": "1 mark for the classification; 1 mark for the reason."
+   }
+  ],
+  "check": "round((90000 - 2 * (90000 - 6000) / 6 - 6000) / 6) == 9333",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-125",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why reliability requires financial statements to be free from material error and bias.",
+    "marks": 2,
+    "answer": "Users can depend on figures that represent what they claim to represent. Freedom from bias means figures are not deliberately manipulated to favour one group of users.",
+    "working": "1 mark: users can depend on the figures; 1 mark: no deliberate bias or manipulation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-126",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the conflict between relevance and reliability when a business values a building at market value (estimated at $260,000) rather than historical cost ($180,000).",
+    "marks": 4,
+    "answer": "Market value is more up to date and more useful for decisions, so it is more relevant. Historical cost is objective and verifiable, so it is more reliable. Market value is an estimate that may be biased, so the business must balance the two qualities, and disclose the basis used.",
+    "working": "1 mark: market value is relevant; 1 mark: historical cost is more reliable (verifiable); 1 mark: market value is an estimate that may be biased; 1 mark: conclusion that the trade-off must be disclosed."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-127",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how consistent accounting policies improve comparability over time.",
+    "marks": 2,
+    "answer": "The same policies allow profit and financial position to be compared from year to year, because differences in the figures reflect the business rather than changes in method. A business shows consistency by applying the same policy each year and disclosing any change.",
+    "working": "1 mark: same policy allows year-to-year comparison; 1 mark: changes must be disclosed."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-128",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a multinational group might want all its subsidiaries in different countries to use the same accounting policies.",
+    "marks": 2,
+    "answer": "So the group accounts are consistent and comparable, and head office can compare the results of each subsidiary. It also makes combining the results into group accounts more reliable.",
+    "working": "1 mark: comparability between subsidiaries; 1 mark: reliable consolidation of the group results."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-129",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two benefits to users of standard accounting practices.",
+    "marks": 2,
+    "answer": "Any two: financial statements can be compared over time and between businesses; users can rely on the figures; there is less scope for manipulation of the figures; users save time in understanding the statements.",
+    "working": "1 mark for each valid benefit."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-130",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a change in the valuation policy for a company's properties must be disclosed in the notes to the accounts.",
+    "marks": 2,
+    "answer": "The change affects the values of the assets and the profit. Users need to know about the change to interpret the figures and to compare them with earlier years.",
+    "working": "1 mark: the change affects asset values and profit; 1 mark: users need it to interpret and compare the figures."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-131",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how prudence and neutrality can conflict, using inventory valuation as an example.",
+    "marks": 4,
+    "answer": "Prudence requires that assets are not overstated and that expected losses are recognised early, for example by valuing inventory at the lower of cost and net realisable value. Neutrality requires information free from bias in either direction. If inventory is written down too cautiously, the figures become biased downwards, so the two principles must be balanced.",
+    "working": "1 mark: prudence explained; 1 mark: neutrality explained; 1 mark: inventory example; 1 mark: balance and conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-132",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how differences between national accounting rules can make the profits of two companies difficult to compare. Give one example.",
+    "marks": 2,
+    "answer": "Different countries may recognise or measure the same item differently, so the same transaction produces different profits. For example, one country may allow property to be revalued upwards while another requires historical cost.",
+    "working": "1 mark: differences in rules change the measured figures; 1 mark: a valid example."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-133",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by understandability of financial information.",
+    "marks": 2,
+    "answer": "Information is presented clearly and concisely, so that users with a reasonable knowledge of business and accounting can understand it.",
+    "working": "1 mark: clear and concise presentation; 1 mark: users with reasonable knowledge can follow it."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-134",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the notes on accounting policies should state the basis used for valuing non-current assets (cost or revaluation).",
+    "marks": 2,
+    "answer": "Users need the basis to interpret the asset values and to compare them with other businesses. It shows how far the figures are based on historical cost and how far on market-based estimates.",
+    "working": "1 mark: users interpret asset values; 1 mark: shows the extent of estimates and the basis of measurement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-135",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how prudence affects the treatment of a fall in the market value of investments held at market value, and how matching is relevant to the timing of the loss.",
+    "marks": 3,
+    "answer": "Prudence means the fall in value is recognised as a loss in profit at once, even though it has not been realised by sale. Matching means the loss is recorded in the period in which the fall in value occurred, not when the investment is later sold.",
+    "working": "1 mark: prudence recognises the fall immediately; 1 mark: the loss is recognised in profit now; 1 mark: matching records it in the period of the fall."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-136",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the number of the international standard that deals with property, plant and equipment, and name one requirement of it.",
+    "marks": 2,
+    "answer": "IAS 16 (Property, Plant and Equipment). It requires items to be measured at cost less accumulated depreciation and impairment, or at revalued amount, and depreciation of assets with a limited useful life.",
+    "working": "1 mark for the standard number; 1 mark for one valid requirement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h2-137",
+  "topic": "Accounting principles and policies",
+  "subtopic": "Accounting policies",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a business using IFRS can show a bank that its inventory valuation is reliable.",
+    "marks": 2,
+    "answer": "By stating the valuation method and the basis (lower of cost and net realisable value) in the notes, so that the bank can check how the figure was reached.",
+    "working": "1 mark: states the method and basis; 1 mark: the basis can be checked, supporting reliability."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]
