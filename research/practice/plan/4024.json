@@ -14,115 +14,172 @@
      "name": "Money & interest",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Percentages",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Fractions & decimals",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Sets & Venn diagrams",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Bounds & accuracy",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Powers roots & surds",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Standard form",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Primes factors HCF & LCM",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Rates & speed",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Ratio & proportion",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Rounding & estimation",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Integers & directed numbers",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Ordering & FDP conversion",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Time",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Units & measures",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Types of number",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Exponential growth & decay",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Order of operations",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Calculator use & order of operations",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -132,50 +189,74 @@
     {
      "name": "Circle theorems",
      "target": 6,
-     "existing": 3,
-     "to_write": 3
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Angles & polygons",
      "target": 6,
-     "existing": 3,
-     "to_write": 3
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Congruence & similarity",
      "target": 6,
-     "existing": 3,
-     "to_write": 3
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Scale drawing & bearings",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Constructions & loci",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Symmetry",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Geometrical terms",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Properties of shapes",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -185,26 +266,38 @@
     {
      "name": "Surface area & volume",
      "target": 16,
-     "existing": 3,
-     "to_write": 13
+     "existing": 16,
+     "to_write": 0,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Arcs & sectors",
      "target": 7,
-     "existing": 3,
-     "to_write": 4
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Area & perimeter",
      "target": 5,
-     "existing": 3,
-     "to_write": 2
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Nets & 3D shapes",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -214,38 +307,56 @@
     {
      "name": "Cumulative frequency & box plots",
      "target": 7,
-     "existing": 3,
-     "to_write": 4
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Averages & range",
      "target": 5,
-     "existing": 3,
-     "to_write": 2
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Histograms",
      "target": 5,
-     "existing": 3,
-     "to_write": 2
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Grouped data & mean",
      "target": 5,
-     "existing": 3,
-     "to_write": 2
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Charts & tables",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Scatter diagrams",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -255,20 +366,29 @@
     {
      "name": "Combined events",
      "target": 18,
-     "existing": 3,
-     "to_write": 15
+     "existing": 18,
+     "to_write": 2,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Relative & expected frequency",
      "target": 6,
-     "existing": 3,
-     "to_write": 3
+     "existing": 6,
+     "to_write": 14,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Single events",
      "target": 6,
-     "existing": 3,
-     "to_write": 3
+     "existing": 6,
+     "to_write": 14,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -279,79 +399,118 @@
      "name": "Graphs of functions",
      "target": 3,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Algebraic fractions",
      "target": 3,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Quadratic equations",
      "target": 3,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Algebraic manipulation & factorising",
      "target": 3,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Sequences",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Functions",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Equations",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Substitution & formulae",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Kinematic & real-life graphs",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Inequalities & regions",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Simultaneous equations",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Indices (algebraic)",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Direct & inverse proportion",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -361,14 +520,20 @@
     {
      "name": "Vectors",
      "target": 17,
-     "existing": 3,
-     "to_write": 14
+     "existing": 17,
+     "to_write": 13,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Transformations",
      "target": 13,
-     "existing": 3,
-     "to_write": 10
+     "existing": 13,
+     "to_write": 17,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -378,38 +543,56 @@
     {
      "name": "Sine & cosine rules",
      "target": 13,
-     "existing": 3,
-     "to_write": 10
+     "existing": 13,
+     "to_write": 2,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Pythagoras",
      "target": 5,
-     "existing": 3,
-     "to_write": 2
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "3D trigonometry & elevation",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Right-angled trigonometry",
      "target": 4,
-     "existing": 3,
-     "to_write": 1
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Bearings",
      "target": 3,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Trig graphs & exact values",
      "target": 1,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -419,28 +602,41 @@
     {
      "name": "Perpendicular & parallel lines",
      "target": 13,
-     "existing": 3,
-     "to_write": 10
+     "existing": 13,
+     "to_write": 2,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Length midpoint & gradient",
      "target": 10,
-     "existing": 3,
-     "to_write": 7
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Equation of a line",
      "target": 5,
-     "existing": 3,
-     "to_write": 2
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Straight-line graphs",
      "target": 2,
      "existing": 3,
-     "to_write": 0
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

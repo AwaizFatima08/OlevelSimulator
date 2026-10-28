@@ -4480,5 +4480,3235 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "2281-h2-001",
+  "topic": "The basic economic problem",
+  "subtopic": "Factors of production",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "What is the reward to enterprise as a factor of production?\nA interest\nB profit\nC rent\nD wages",
+    "marks": 1,
+    "answer": "B profit",
+    "working": "Enterprise (the entrepreneur) takes the risk of organising production and is rewarded with profit. Interest (A) is the reward to capital, rent (C) to land and wages (D) to labour."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-002",
+  "topic": "The basic economic problem",
+  "subtopic": "Factors of production",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which change would increase the quality, rather than the quantity, of a country's labour force?\nA a rise in the age at which workers retire\nB the arrival of many unskilled immigrant workers\nC free vocational training courses for school leavers\nD a rise in the birth rate",
+    "marks": 1,
+    "answer": "C free vocational training courses for school leavers",
+    "working": "The quality of labour is the skills, education and health of workers; vocational training raises skills and so productivity. A, B and D all increase the number of workers available (quantity), not their skills."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-003",
+  "topic": "The basic economic problem",
+  "subtopic": "Factors of production",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "At the start of 2026 the machinery and equipment used by a country's manufacturing firms was valued at $48.0 billion. During 2026 firms spent $6.2 billion on new machinery, while machinery worth $3.8 billion wore out or became out of date (depreciation).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the net increase in the value of machinery in 2026 and express it as a percentage of the value at the start of the year.",
+    "marks": 2,
+    "answer": "Net increase = $2.4 billion, which is 5.0% of the starting value.",
+    "working": "6.2 − 3.8 = 2.4 (M1); 2.4 ÷ 48.0 × 100 = 5.0% (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two reasons why an increase in the quantity of capital may not increase output by as much as expected.",
+    "marks": 4,
+    "answer": "e.g. not enough skilled workers to operate the machines; unreliable electricity or poor transport; weak demand for the extra output.",
+    "working": "2 marks for each of two developed reasons: shortage of skilled labour/training to use the machines; machines lie idle because of power cuts or lack of raw materials; poor infrastructure (roads, ports) limits output; little demand, so firms do not use the extra capacity; the new machines may replace old ones rather than add to capacity; poor management/enterprise."
+   },
+   {
+    "label": "c",
+    "text": "Discuss whether or not a country should spend more on improving the quality of its labour, rather than on increasing the quantity of capital, in order to raise output.",
+    "marks": 8,
+    "answer": "Improving labour quality can raise productivity widely and lasts, but takes a long time; capital can raise output faster but needs skilled workers. Best answer: both are complementary; conclusion depends on the country's current shortages.",
+    "working": "Labour quality (up to 4): education and training raise productivity of every worker; skilled workers can use existing and new capital better; helps occupational mobility and adaptability; benefits spread across all industries; can attract foreign firms. Capital (up to 4): machines can raise output quickly; new technology embodies higher productivity; may be needed where infrastructure is poor; training takes many years and trained workers may emigrate (brain drain); education has an opportunity cost. Conclusion (needed for top band): e.g. the two are complements; which comes first depends on whether the shortage is of skills or of equipment. Levels: 1–3 one-sided or undeveloped; 4–6 both sides developed; 7–8 both sides plus justified conclusion."
+   }
+  ],
+  "check": "abs((6.2-3.8)-2.4) < 1e-9 and round((6.2-3.8)/48.0*100, 1) == 5.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-004",
+  "topic": "The basic economic problem",
+  "subtopic": "Production possibility curve",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A country is producing at a point on its production possibility curve. What must be true?\nA All its resources are fully employed.\nB It is producing equal quantities of the two goods.\nC It can produce more of both goods without any extra resources.\nD There is no opportunity cost of producing more of either good.",
+    "marks": 1,
+    "answer": "A All its resources are fully employed.",
+    "working": "A point on the PPC shows the maximum output with all resources fully (and efficiently) employed. C describes a point inside the curve, D is wrong because on the curve more of one good means less of the other, and B is not required: any point on the curve is possible."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-005",
+  "topic": "The basic economic problem",
+  "subtopic": "Production possibility curve",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A country's production possibility curve shows solar panels on the horizontal axis and wheat on the vertical axis. A new technology raises productivity in making solar panels only. What happens to the curve?\nA It pivots outwards, moving further out along the solar panel axis, while the wheat intercept stays the same.\nB It shifts outwards parallel to the original curve.\nC There is a movement along the curve towards more solar panels.\nD It pivots inwards along the wheat axis.",
+    "marks": 1,
+    "answer": "A It pivots outwards, moving further out along the solar panel axis, while the wheat intercept stays the same.",
+    "working": "Only the maximum output of solar panels rises, so the curve's end on the solar panel axis moves out while the maximum wheat output is unchanged: a pivot. B would need higher productivity in both goods. C is a change in the chosen combination, not in what is possible."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-006",
+  "topic": "The basic economic problem",
+  "subtopic": "Production possibility curve",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A country's production possibility curve passes through these combinations (smartphones in millions, maize in million tonnes):\n0 smartphones, 50 maize\n10 smartphones, 45 maize\n20 smartphones, 36 maize\n30 smartphones, 22 maize\n40 smartphones, 0 maize\nThe country is currently producing 20 million smartphones and 30 million tonnes of maize.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State whether the current combination is on, inside or outside the production possibility curve, and what this shows about the economy.",
+    "marks": 2,
+    "answer": "Inside the curve; some resources are unemployed or used inefficiently.",
+    "working": "Inside the PPC (B1) because with 20 million smartphones it could produce 36 million tonnes of maize; this shows unemployed/underused resources (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the extra maize the country could produce without reducing its output of smartphones.",
+    "marks": 1,
+    "answer": "6 million tonnes",
+    "working": "36 − 30 = 6 million tonnes (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain two reasons why an economy may produce inside its production possibility curve.",
+    "marks": 4,
+    "answer": "e.g. unemployment of workers; factories or land left idle because of low demand or power shortages; inefficient methods.",
+    "working": "2 marks each for two developed reasons: unemployment (workers able and willing to work but without jobs); idle capital, e.g. factories closed by power shortages or low demand; land left unused; inefficient production methods or poor management; strikes or disruption such as floods."
+   }
+  ],
+  "check": "36 - 30 == 6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-007",
+  "topic": "The basic economic problem",
+  "subtopic": "Production possibility curve",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A country has 2 million workers. In one year each worker can produce either 5 tonnes of wheat or 2 machines (the same for every worker). At present 1.2 million workers grow wheat, 0.6 million make machines and the rest are unemployed.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the maximum quantity of wheat the country could produce if all workers grew wheat.",
+    "marks": 1,
+    "answer": "10 million tonnes",
+    "working": "2 million × 5 = 10 million tonnes (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the country's current output of wheat and of machines.",
+    "marks": 2,
+    "answer": "6 million tonnes of wheat and 1.2 million machines",
+    "working": "1.2 million × 5 = 6 million tonnes (B1); 0.6 million × 2 = 1.2 million machines (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the extra machines that could be made if all the unemployed workers were employed making machines.",
+    "marks": 1,
+    "answer": "0.4 million (400 000) machines",
+    "working": "Unemployed = 2 − 1.2 − 0.6 = 0.2 million; 0.2 million × 2 = 0.4 million (B1)."
+   },
+   {
+    "label": "d",
+    "text": "Explain whether the current combination of wheat and machines is on or inside the country's production possibility curve.",
+    "marks": 2,
+    "answer": "Inside, because 0.2 million workers are unemployed, so more of one good could be produced without less of the other.",
+    "working": "Inside the PPC (B1); because not all resources (workers) are employed, so output of one good could rise with no fall in the other (B1)."
+   }
+  ],
+  "check": "2e6*5 == 10e6 and 1.2e6*5 == 6e6 and 0.6e6*2 == 1.2e6 and round((2e6-1.2e6-0.6e6)*2) == 400000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-008",
+  "topic": "The basic economic problem",
+  "subtopic": "Production possibility curve",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Two countries, Alpha and Beta, had identical production possibility curves for capital goods and consumer goods in 2026. In 2026 Alpha produced 40 units of capital goods and 60 units of consumer goods. Beta produced 10 units of capital goods and 90 units of consumer goods. Both used all their resources.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify which country is likely to have the higher material standard of living in 2026, and give a reason.",
+    "marks": 2,
+    "answer": "Beta, because it produces more consumer goods for people to use now.",
+    "working": "Beta (B1); more consumer goods are available to households now (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Analyse factors, other than the choice between capital goods and consumer goods, that could cause Beta's production possibility curve to shift outwards faster than Alpha's over the next ten years.",
+    "marks": 6,
+    "answer": "e.g. Beta improves education and training (quality of labour); its labour force grows through population growth or immigration; it discovers new natural resources; it adopts new technology or attracts foreign firms; Alpha's extra capital may be badly used or poorly maintained.",
+    "working": "Up to 6 marks for developed points: better education/training raises labour quality and productivity (1+1); more workers from population growth or immigration increase labour quantity (1); discovery of resources such as minerals increases land (1); new technology/foreign direct investment raises productivity (1); Alpha's capital goods may be unsuitable, idle or not maintained, so its PPC shifts less than expected (1). Link: any increase in the quantity or quality of resources shifts the PPC outwards (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-009",
+  "topic": "The basic economic problem",
+  "subtopic": "Production possibility curve",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A country's production possibility curve shows the maximum combinations of defence goods and civilian goods (in units):\nPoint A: 0 defence, 100 civilian\nPoint B: 10 defence, 96 civilian\nPoint C: 20 defence, 88 civilian\nPoint D: 30 defence, 74 civilian\nPoint E: 40 defence, 50 civilian",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the opportunity cost per unit of defence goods of moving from point A to point B, and from point B to point C.",
+    "marks": 2,
+    "answer": "A to B: 0.4 units of civilian goods per unit of defence goods; B to C: 0.8 units.",
+    "working": "(100 − 96) ÷ 10 = 0.4 (B1); (96 − 88) ÷ 10 = 0.8 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "A minister says that moving from point C to point E costs on average only 1.9 units of civilian goods per unit of defence goods. Calculate the opportunity cost per unit of the last 10 units of defence goods and explain why the minister's average is misleading.",
+    "marks": 2,
+    "answer": "2.4 units of civilian goods per unit; the average hides the rising opportunity cost of the final units.",
+    "working": "(74 − 50) ÷ 10 = 2.4 units (B1); the average (88 − 50) ÷ 20 = 1.9 combines the cheaper and dearer units, but opportunity cost rises as more resources unsuited to defence are moved (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Discuss whether or not the government should move the economy from point C to point D.",
+    "marks": 6,
+    "answer": "For: greater security, possible jobs in defence industries. Against: 14 units of civilian goods lost, lower living standards; depends on threats and on what civilian goods are given up.",
+    "working": "For (up to 3): protection of the population and trade; may deter conflict; jobs and skills in defence industries; some defence spending (e.g. roads, technology) may have civilian uses. Against (up to 3): opportunity cost of 14 units of civilian goods such as food, healthcare, schools; lower current living standards; defence goods do not add to future productive capacity as capital goods for civilian use would. Max 5 without a justified conclusion; 1 for a conclusion, e.g. depends on the level of threat and on how much civilians value the goods lost."
+   }
+  ],
+  "check": "(100-96)/10 == 0.4 and (96-88)/10 == 0.8 and (88-50)/20 == 1.9 and (74-50)/10 == 2.4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-010",
+  "topic": "The basic economic problem",
+  "subtopic": "Production possibility curve",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A low-lying country has suffered repeated floods. Each year some farmland is washed away and roads and factories are damaged. The government plans to spend heavily on flood defences over the next ten years.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two reasons why spending on flood defences may leave the country's production possibility curve further out in ten years' time than it would be without them.",
+    "marks": 4,
+    "answer": "Defences stop land and capital (farmland, roads, factories) being destroyed, so productive capacity is kept; and firms and farmers are more willing to invest in protected areas, adding to capital.",
+    "working": "2 marks each for two developed reasons: farmland is no longer washed away, so the quantity of land is maintained (1+1); roads and factories are not destroyed, so the capital stock is kept and does not need replacing (1+1); less disruption means workers and machines are not idle, and confidence encourages investment in new capital (1+1); protected land could be reclaimed or used more intensively (1+1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not a country's production possibility curve will always shift outwards over time.",
+    "marks": 8,
+    "answer": "Usually shifts out because of investment, population growth, better education and technology; but it can shift in because of disasters, war, emigration, depletion of resources or lack of investment. Conclusion: outward shifts are common but not certain.",
+    "working": "Outwards (up to 4): net investment adds to capital; technology raises productivity; population growth/immigration increase labour; education and training raise quality of labour; discovery of resources. Not always (up to 4): natural disasters and climate change (e.g. these floods) destroy land and capital; war; emigration of skilled workers; using up non-renewable resources such as oil or fish stocks; investment below depreciation means the capital stock falls; spending on flood defences has an opportunity cost and may only stop the curve shifting in. Levels: 1–3 limited; 4–6 both sides developed; 7–8 plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-011",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which is an example of opportunity cost?\nA the interest a shop owner gives up by using her savings to buy stock instead of keeping them in a bank\nB the price a shop owner pays to a wholesaler for stock\nC the total cost of all the goods a shop sells in a year\nD the money a shop loses when its sales fall",
+    "marks": 1,
+    "answer": "A the interest a shop owner gives up by using her savings to buy stock instead of keeping them in a bank",
+    "working": "Opportunity cost is the next best alternative given up. Using savings means giving up the interest they would have earned (A). B and C are money costs paid, not alternatives forgone; D is a fall in revenue."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-012",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A doctor can earn Rs 6 000 an hour in her private clinic. One Sunday she works for 3 hours without pay at a free medical camp instead of at her clinic. What is the opportunity cost to her of working at the camp?\nA nothing, because the camp does not charge patients\nB Rs 2 000\nC Rs 18 000\nD the free treatment received by the patients",
+    "marks": 1,
+    "answer": "C Rs 18 000",
+    "working": "She gives up 3 hours of clinic earnings: 3 × Rs 6 000 = Rs 18 000. A is wrong because time has an alternative use even if no money changes hands; D is the benefit of the camp, not what she gives up."
+   }
+  ],
+  "check": "3*6000 == 18000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-013",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A small bakery in Peshawar has space for only one new machine. It can buy either a bread-slicing machine or a cake mixer, each costing Rs 450 000. It buys the bread slicer.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define opportunity cost.",
+    "marks": 2,
+    "answer": "The next best alternative given up when a choice is made.",
+    "working": "Next best (1) alternative forgone/given up when making a choice (1)."
+   },
+   {
+    "label": "b",
+    "text": "Identify the opportunity cost to the bakery of buying the bread slicer.",
+    "marks": 1,
+    "answer": "The cake mixer (and the cakes it could have made).",
+    "working": "The cake mixer that was not bought (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the bakery's decision has an opportunity cost.",
+    "marks": 3,
+    "answer": "Its resources (space and money) are limited/scarce, so choosing one machine means giving up the other.",
+    "working": "Resources such as money and floor space are scarce/limited (1); the bakery cannot have both machines, so it must choose (1); choosing the bread slicer means giving up the benefits of the mixer, e.g. cake sales (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-014",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A provincial government has Rs 12 billion to spend on new buildings. Each new hospital costs Rs 4 billion and each new college costs Rs 200 million.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate how many colleges are given up for each hospital built.",
+    "marks": 2,
+    "answer": "20 colleges",
+    "working": "Rs 4 000 million ÷ Rs 200 million (M1) = 20 colleges (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two ways in which the idea of opportunity cost can help the government decide how to use the Rs 12 billion.",
+    "marks": 4,
+    "answer": "It shows the real cost of each choice in terms of what is given up, and helps compare the benefits of the options.",
+    "working": "2 marks each for two developed points: shows the real cost of a hospital is the 20 colleges given up; encourages comparing the benefits of each option, e.g. lives saved against students educated; helps rank choices and choose the use with the greatest benefit; shows that spending on one service means less of another, so priorities must be set."
+   }
+  ],
+  "check": "4e9/200e6 == 20",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-015",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Sana, aged 16, can spend the summer holidays either working in her uncle's shop for Rs 25 000 a month, attending an unpaid computer-coding course, or travelling to visit relatives. She chooses the coding course; her next best choice was working in the shop.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify Sana's opportunity cost if the holiday lasts two months, and state its value in money.",
+    "marks": 2,
+    "answer": "Working in the shop: Rs 50 000 of earnings given up.",
+    "working": "Working in the shop / earnings (B1); 2 × Rs 25 000 = Rs 50 000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why visiting relatives is not part of Sana's opportunity cost.",
+    "marks": 2,
+    "answer": "Opportunity cost is only the next best alternative; visiting relatives was her third choice.",
+    "working": "Opportunity cost counts only the single next best alternative (1); visiting relatives was ranked lower than working in the shop (1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain one reason why Sana may still think the course is the best choice.",
+    "marks": 2,
+    "answer": "e.g. new skills could raise her future earnings by more than Rs 50 000.",
+    "working": "Reason (1) developed (1): e.g. coding skills may lead to better-paid work later / help her studies, so future benefits exceed the earnings given up."
+   }
+  ],
+  "check": "2*25000 == 50000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-016",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A textile firm in Faisalabad owns a warehouse that it could rent to another firm for Rs 900 000 a year. Instead it uses the warehouse to store its own cloth. The firm has also used Rs 15 million of its own funds to buy stock, rather than leaving the money in a deposit account paying 10% interest a year.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why using its own warehouse has an opportunity cost for the firm even though it pays no rent.",
+    "marks": 2,
+    "answer": "It gives up the Rs 900 000 rent it could have earned.",
+    "working": "The warehouse has an alternative use (1); the firm gives up rent income of Rs 900 000 a year (1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the total yearly opportunity cost of using the warehouse and the Rs 15 million of funds.",
+    "marks": 2,
+    "answer": "Rs 2 400 000 (Rs 2.4 million)",
+    "working": "Interest forgone = 10% × Rs 15 million = Rs 1.5 million (M1); total = 0.9 + 1.5 = Rs 2.4 million (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain two reasons why a firm might choose an option that has a high opportunity cost.",
+    "marks": 4,
+    "answer": "e.g. it expects higher benefits (profit) from the chosen option; it values control, reliability or long-term goals.",
+    "working": "2 marks each for two developed reasons: the expected benefit (e.g. profit from selling the cloth) is even greater than the opportunity cost; storing its own cloth gives control and quick access, reducing risk of delays; long-term objectives such as growth or market share; the alternative is risky, e.g. a tenant may not pay."
+   }
+  ],
+  "check": "900000 + 15e6*0.10 == 2.4e6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-017",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Farmers near Lake Naivasha in Kenya can use their land to grow maize for the local market or roses for export to Europe. Over the past year the price that exporters pay for roses has risen sharply, while the price of maize has stayed the same.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the opportunity cost to a farmer of using a hectare of land to grow roses.",
+    "marks": 2,
+    "answer": "The maize (and income from maize) that the hectare could have produced.",
+    "working": "The maize given up (1) and the income from selling it (1)."
+   },
+   {
+    "label": "b",
+    "text": "Analyse why farmers may switch land from maize to roses after the rise in the price of roses.",
+    "marks": 6,
+    "answer": "The higher rose price raises the income from roses, so the opportunity cost of growing maize (income from roses given up) rises; maize becomes the less profitable choice, so land is moved to roses.",
+    "working": "Land is scarce, so each farmer must choose its use (1). Opportunity cost of maize = the rose income given up (1). Higher rose prices raise the revenue/profit per hectare of roses (1), so the opportunity cost of staying in maize rises (1). Profit-seeking farmers compare benefits and move land to the higher-value use (1). Limits/development: switch depends on costs of greenhouses, water and skills, and takes time (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-018",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A government owns a large forest that it keeps as a national park. Timber companies have offered to pay $300 million a year for the right to cut down part of the forest. Tourists visit the park and it protects a river that supplies water to two cities.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the opportunity cost to the government of keeping the whole forest as a national park.",
+    "marks": 2,
+    "answer": "The $300 million a year of income from logging (and what that money could buy, e.g. schools).",
+    "working": "The logging payment of $300 million a year (1) and the goods and services the government could have bought with it, e.g. hospitals (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the government should allow part of the forest to be cut down.",
+    "marks": 8,
+    "answer": "For: $300 million a year for public services, jobs in timber, exports. Against: loss of tourism income, damage to the water supply, wildlife and climate, which may be permanent. Conclusion: depends on how much is cut and whether replanting and controls are possible.",
+    "working": "For (up to 4): large revenue that could fund schools or healthcare; jobs and incomes in timber and furniture industries; exports earn foreign currency; only part of the forest would be cut. Against (up to 4): lost tourism revenue and jobs; external costs such as soil erosion, flooding and poorer water supply for the cities; loss of biodiversity; more carbon emissions; damage may be irreversible, so future generations bear the cost; forest is a non-renewable resource in the short run. Levels: 1–3 limited; 4–6 both sides developed; 7–8 plus a justified conclusion (e.g. allow limited, controlled logging with replanting)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-019",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Analyse how opportunity cost arises for a consumer, a worker and the government.",
+    "marks": 6,
+    "answer": "Each faces scarcity and must choose: a consumer spending a limited income gives up other goods; a worker choosing a job or more hours gives up leisure or another job; the government spending its budget on one service gives up another.",
+    "working": "2 marks for each agent, with an example: consumer — limited income, buying one good means giving up the next best good (1+1); worker — limited time, choosing one job/working overtime means giving up another job or leisure (1+1); government — limited tax revenue, spending on defence means less on health (1+1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not opportunity cost can always be measured in money.",
+    "marks": 8,
+    "answer": "Sometimes yes: forgone wages, interest or rent can be valued in money. Often no: leisure, health, the environment, time with family or the next best good may have no market price, and people value them differently. Conclusion: money can measure part of it but not always all of it.",
+    "working": "Can (up to 4): earnings forgone by a student; interest forgone on savings; rent forgone on a building; goods given up have market prices. Cannot always (up to 4): opportunity cost is the next best alternative, not money; leisure, health, environment or a free public park have no price; values are personal and differ between people; future benefits are uncertain; government choices (e.g. schools vs hospitals) involve lives and education. Levels: 1–3 limited; 4–6 both sides; 7–8 plus justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-020",
+  "topic": "The basic economic problem",
+  "subtopic": "Opportunity cost",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A farmer in Sindh has one hectare of land. In one season it could earn a profit of Rs 120 000 from wheat, Rs 150 000 from sugar cane or Rs 135 000 from vegetables. She chooses sugar cane. The next season new water charges reduce the profit from sugar cane by 15%; the other profits do not change.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the farmer's opportunity cost of growing sugar cane before the water charges.",
+    "marks": 1,
+    "answer": "Vegetables, i.e. Rs 135 000 of profit given up.",
+    "working": "The next best option, vegetables / Rs 135 000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the new profit from sugar cane and state which crop now gives the highest profit.",
+    "marks": 3,
+    "answer": "Rs 127 500; vegetables (Rs 135 000) now give the highest profit.",
+    "working": "15% × Rs 150 000 = Rs 22 500 (M1); new profit Rs 127 500 (A1); vegetables now highest (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Discuss whether or not the farmer should switch from sugar cane to vegetables.",
+    "marks": 6,
+    "answer": "Switch: higher expected profit (Rs 7 500 more). Stay: vegetables may be riskier (perishable, price swings, need transport), need new skills/equipment; sugar mills may give guaranteed buyers. Conclusion depends on risks and costs of switching.",
+    "working": "Switch (up to 3): vegetables now give Rs 7 500 more profit; opportunity cost of staying in sugar cane is now higher than its profit; vegetables use less water. Stay (up to 3): vegetables are perishable and prices vary, so profit is uncertain; may need cold storage or transport to city markets; switching costs (seed, skills); sugar mills may offer contracts and credit. Max 5 without a conclusion; 1 mark for a justified conclusion."
+   }
+  ],
+  "check": "150000*0.85 == 127500 and 135000 > 127500",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-021",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which is a free good?\nA sunlight used to dry clothes in a backyard\nB tap water supplied to homes by a city water company\nC a book borrowed from a public library\nD a place at a government school that charges no fees",
+    "marks": 1,
+    "answer": "A sunlight used to dry clothes in a backyard",
+    "working": "A free good is not scarce, so using it has no opportunity cost; sunlight is available in unlimited quantity. B, C and D use scarce resources and have an opportunity cost even if the user pays nothing: they are economic goods provided free of charge."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-022",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which decision is an answer to the question 'for whom to produce'?\nA whether a factory should use robots or workers\nB whether the country should grow more rice or more cotton\nC whether pensions for retired people should be increased, paid for by higher taxes\nD whether a new factory should be built in Karachi or in Lahore",
+    "marks": 1,
+    "answer": "C whether pensions for retired people should be increased, paid for by higher taxes",
+    "working": "'For whom' is about who receives the goods and services produced; higher pensions paid by taxes shift goods towards retired people. A and D are about how (and where) to produce; B is about what to produce."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-023",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "The Hamid family's monthly shopping list includes food, rent, school fees, electricity, a new car and a holiday in Dubai. Their monthly income is not enough to pay for everything on the list.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two needs and two wants from the family's list.",
+    "marks": 2,
+    "answer": "Needs: e.g. food, rent (housing). Wants: e.g. new car, holiday in Dubai.",
+    "working": "1 mark for two needs (food, rent/shelter, electricity; credit school fees with reason); 1 mark for two wants (new car, Dubai holiday)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the family must make choices.",
+    "marks": 4,
+    "answer": "Their income (resources) is limited but their wants are unlimited, so they cannot have everything and must choose, giving up some items (opportunity cost).",
+    "working": "Income/resources are limited (1); wants are unlimited/greater than income (1); this is scarcity, the economic problem (1); so they must decide what to buy and what to go without, e.g. paying school fees means no holiday – an opportunity cost (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-024",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "In 2021 there was a world shortage of computer chips. Car manufacturers could not get all the chips they wanted, and some had to stop making certain car models for several months.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why computer chips are an economic good.",
+    "marks": 2,
+    "answer": "They are scarce: they use limited resources to produce, so making them has an opportunity cost (and they have a price).",
+    "working": "Chips are made with scarce resources/are limited in supply relative to demand (1); so producing them has an opportunity cost / they command a price (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain how the chip shortage forced car manufacturers to answer the question 'what to produce'.",
+    "marks": 4,
+    "answer": "With too few chips they had to decide which models to make, e.g. use chips in high-profit models and stop cheaper ones; each choice had an opportunity cost.",
+    "working": "Chips were a scarce input (1); firms could not make all models (1); they had to choose which models/quantities to make, e.g. high-profit cars first (1); producing one model meant giving up another – opportunity cost (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-025",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Wood from a forest near a mountain village used to be collected freely by anyone. As the village has grown, so little wood is left that the local council now sells permits allowing each family to collect a fixed amount.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the difference between a free good and an economic good.",
+    "marks": 2,
+    "answer": "A free good is not scarce and has no opportunity cost; an economic good is scarce and has an opportunity cost.",
+    "working": "Free good: unlimited supply / zero opportunity cost (1); economic good: scarce / uses scarce resources, has an opportunity cost (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the forest wood has changed from a free good to an economic good.",
+    "marks": 4,
+    "answer": "Demand from a growing population now exceeds what the forest supplies, so wood is scarce; using it has an opportunity cost, so it must be rationed (permits/price).",
+    "working": "Population growth raised the amount of wood wanted (1); supply is limited/regrows slowly (1); wood is now scarce, so one family's use means less for others – an opportunity cost (1); so it must be rationed, here by permits that are sold (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-026",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A country has a population of 240 million, growing at 2% a year. Its arable (farm) land is fixed at 30 million hectares.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the arable land per person now and next year, in hectares. Give your answers to 3 decimal places.",
+    "marks": 2,
+    "answer": "Now 0.125 hectares; next year 0.123 hectares.",
+    "working": "30 ÷ 240 = 0.125 (B1); 30 ÷ (240 × 1.02 = 244.8) = 0.123 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain how these figures illustrate the basic economic problem.",
+    "marks": 4,
+    "answer": "Land is a finite resource while the number of people, and so wants for food and housing, grows; each person has less land, so choices must be made about how to use it.",
+    "working": "Resources (land) are finite/limited (1); wants grow as population grows and are unlimited (1); land per person falls (1); so choices must be made, e.g. land for housing vs crops, with an opportunity cost (1)."
+   }
+  ],
+  "check": "round(30/240, 3) == 0.125 and round(30/(240*1.02), 3) == 0.123",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-027",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "After a severe flood, a government has a limited stock of food, tents and medicines to share among 3 million people who have lost their homes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the 'for whom to produce' question that the government faces.",
+    "marks": 2,
+    "answer": "Who should receive the limited food, tents and medicines, e.g. children and the sick first?",
+    "working": "Recognises the question is about who receives the goods (1); applied example, e.g. which families or areas get tents first (1)."
+   },
+   {
+    "label": "b",
+    "text": "Analyse how the scarcity of food, tents and medicines forces the government to answer all three fundamental economic questions.",
+    "marks": 6,
+    "answer": "What: which relief goods to buy/produce with its budget; How: whether to use the army, NGOs or private firms, local or imported supplies; For whom: which people get the limited goods. Each answer has an opportunity cost.",
+    "working": "Scarcity: wants exceed the goods available (1). What: choose between, e.g., more tents or more medicines with a limited budget (1+1). How: choose methods, e.g. army or NGOs, local or imported goods (1+1). For whom: decide priority groups (1). Max 6."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-028",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A coastal city's reservoir holds 120 million cubic metres of water. In the dry season the city uses 1.5 million cubic metres a day, while rivers add only 0.9 million cubic metres a day.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate how many days it would take for the reservoir to empty if water use and inflow did not change.",
+    "marks": 2,
+    "answer": "200 days",
+    "working": "Net fall = 1.5 − 0.9 = 0.6 million m³ a day (M1); 120 ÷ 0.6 = 200 days (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two choices the city council must make because of the scarcity of water.",
+    "marks": 4,
+    "answer": "e.g. which users get water first (homes, hospitals, farms or factories); whether to spend on new supply (desalination) instead of other services.",
+    "working": "2 marks each for two developed choices: who receives water (for whom) and how to ration it, e.g. by price or limits; whether to build a desalination plant or pipeline, giving up other spending (opportunity cost); which uses to restrict, e.g. car washing or farming; how to reduce leaks vs other projects."
+   }
+  ],
+  "check": "120/(1.5-0.9) > 199.999 and 120/(1.5-0.9) < 200.001",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-029",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define the basic economic problem.",
+    "marks": 2,
+    "answer": "Unlimited wants but finite (scarce) resources to satisfy them.",
+    "working": "Unlimited wants (1); limited/finite resources (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the economic problem is the same in a high-income country as in a low-income country.",
+    "marks": 8,
+    "answer": "Same: both face scarcity and must answer what, how and for whom; wants grow with income. Different: in low-income countries scarcity concerns basic needs (food, water, healthcare), while in high-income countries it concerns more wants and choices like healthcare for ageing populations. Conclusion: the problem exists in both but its severity and content differ.",
+    "working": "Same (up to 4): all countries have finite resources and unlimited wants; all must choose and face opportunity cost; rich countries still have shortages, e.g. of housing or skilled workers; wants rise as income rises. Different (up to 4): in poor countries many basic needs are unmet, so scarcity affects survival; fewer resources/capital per person; rich countries choose between luxuries, so opportunity costs are less severe for individuals; poorer countries may lack the means to answer 'how' efficiently. Levels: 1–3 limited; 4–6 both sides; 7–8 plus justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-030",
+  "topic": "The basic economic problem",
+  "subtopic": "Nature of the economic problem",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In some countries, including Pakistan, government hospitals provide many treatments free of charge to patients.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two ways, other than price, in which a government hospital could decide which patients receive treatment first.",
+    "marks": 4,
+    "answer": "e.g. by medical need (most urgent cases first); first come, first served (queues/waiting lists); appointments; priority groups such as children or the elderly.",
+    "working": "2 marks each for two ways, each identified (1) and explained (1): by medical need/urgency (triage); queueing or waiting lists – first come, first served; appointment systems; priority for groups such as children, pregnant women or the elderly; referral by a doctor."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not providing healthcare free of charge removes the problem of scarcity in healthcare.",
+    "marks": 8,
+    "answer": "It removes the price barrier so more people can be treated, but resources (doctors, beds, medicines) remain limited; demand rises, so queues and waiting lists ration care instead of price; government faces opportunity cost. Conclusion: it changes how care is rationed but does not remove scarcity.",
+    "working": "Reduces some effects (up to 4): poor households can afford treatment; access depends on need, not income; healthier workers. Does not remove scarcity (up to 4): doctors, nurses, beds and medicines are still limited; zero price raises demand, causing queues/waiting lists – rationing by time instead of price; government must choose how much to spend, giving up other services (opportunity cost); quality may fall if funding is short; some people still pay privately to avoid waits. Levels: 1–3 limited; 4–6 both sides; 7–8 plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-031",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A shop in Quetta shows the price of every item in rupees, so customers can compare the value of different goods. Which function of money does this show?\nA medium of exchange\nB unit of account (measure of value)\nC standard of deferred payment\nD store of value",
+    "marks": 1,
+    "answer": "B unit of account (measure of value)",
+    "working": "Pricing goods in a common unit so values can be compared is the unit of account / measure of value function. A would be using money to pay for the goods; C is settling debts in the future; D is keeping money to spend later."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-032",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "In a remote mountain village, families still exchange goats, wheat and woollen shawls directly with one another, without using money.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define barter.",
+    "marks": 2,
+    "answer": "The direct exchange of goods and services for other goods and services, without money.",
+    "working": "Exchange of goods/services (1) directly for other goods/services without using money (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two problems the villagers face from using barter.",
+    "marks": 4,
+    "answer": "e.g. need a double coincidence of wants; hard to divide a goat; difficult to agree relative values; hard to store wealth.",
+    "working": "2 marks each for two developed problems: double coincidence of wants (each must want what the other has); indivisibility (a goat cannot be split to buy a small amount of wheat); no common measure of value, so many exchange rates; difficulty storing wealth as perishable goods; difficult to arrange future payments."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-033",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two characteristics that an item needs in order to act as good money.",
+    "marks": 2,
+    "answer": "Any two of: acceptable, durable, portable, divisible, homogeneous (uniform), scarce/limited in supply, recognisable, hard to forge.",
+    "working": "1 mark each for any two valid characteristics."
+   },
+   {
+    "label": "b",
+    "text": "Explain two reasons why paper banknotes are better money than sacks of wheat.",
+    "marks": 4,
+    "answer": "Banknotes are portable and divisible; wheat is heavy, perishable and varies in quality.",
+    "working": "2 marks each for two developed comparisons: portability (notes light, wheat bulky); durability (wheat rots or is eaten by pests); divisibility (notes come in many values); homogeneity (each note the same, wheat varies in quality); limited supply controlled by the central bank, so value is more stable; general acceptability."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-034",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A young tailor in Hyderabad opens a current account and a savings account at a commercial bank. The bank pays 9% a year on savings and charges 16% a year on loans to small businesses.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two functions of a commercial bank.",
+    "marks": 2,
+    "answer": "Any two of: accepting deposits; lending (loans/overdrafts); providing ways to make payments (cards, transfers, cheques); exchanging currency; safekeeping.",
+    "working": "1 mark each for any two valid functions."
+   },
+   {
+    "label": "b",
+    "text": "The bank receives deposits of Rs 500 000 and lends all of this money to small businesses for one year. Calculate the difference between the interest it receives and the interest it pays.",
+    "marks": 2,
+    "answer": "Rs 35 000",
+    "working": "Interest received 16% × 500 000 = Rs 80 000; interest paid 9% × 500 000 = Rs 45 000 (M1); difference Rs 35 000 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain how this difference helps the bank to make a profit.",
+    "marks": 2,
+    "answer": "The gap between lending and saving rates is the bank's income, from which it pays its costs (staff, buildings); what is left is profit.",
+    "working": "Interest earned on loans is greater than interest paid on deposits (1); this margin covers running costs and leaves a profit (1)."
+   }
+  ],
+  "check": "round(500000*0.16 - 500000*0.09) == 35000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-035",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "The State Bank of Pakistan is the central bank of Pakistan.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two functions of a central bank.",
+    "marks": 2,
+    "answer": "Any two of: issues notes and coins; banker to the government; banker to commercial banks; lender of last resort; controls the money supply/sets interest rates; manages foreign exchange reserves; supervises banks.",
+    "working": "1 mark each for any two valid functions."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a central bank acts as the banker to commercial banks.",
+    "marks": 4,
+    "answer": "Commercial banks keep reserves at the central bank, settle payments with each other through it, and can borrow from it when short of cash (lender of last resort), which keeps the banking system stable.",
+    "working": "Commercial banks hold accounts/reserves at the central bank (1); used to settle payments between banks (1); central bank lends to banks short of liquidity, as lender of last resort (1); this prevents bank failures/maintains confidence in the system (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-036",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Farah borrows Rs 400 000 from a bank to buy a motor rickshaw. The bank charges simple interest of 18% a year, and the loan lasts 2 years.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total amount Farah must repay.",
+    "marks": 2,
+    "answer": "Rs 544 000",
+    "working": "Interest = 400 000 × 0.18 × 2 = Rs 144 000 (M1); total = Rs 544 000 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Farah repays in 24 equal monthly instalments. Calculate each instalment to the nearest rupee.",
+    "marks": 1,
+    "answer": "Rs 22 667",
+    "working": "544 000 ÷ 24 = 22 666.67 → Rs 22 667 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain two reasons why banks often charge higher interest rates to small businesses than to large companies.",
+    "marks": 4,
+    "answer": "Small businesses are riskier (more likely to fail, less collateral) and the costs of arranging small loans are higher relative to their size.",
+    "working": "2 marks each for two developed reasons: higher risk of default because small firms fail more often; little collateral/security; short or no credit history; administration cost is high relative to a small loan; large firms can borrow elsewhere (e.g. shares, bonds), so banks compete for them with lower rates."
+   }
+  ],
+  "check": "400000*0.18*2 == 144000 and round(544000/24) == 22667",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-037",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a country, the share of shop payments made digitally (by card, bank app or mobile wallet) rose from 30% in 2022 to 55% in 2026.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in the share of payments made digitally between 2022 and 2026. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "83.3%",
+    "working": "(55 − 30) ÷ 30 × 100 (M1) = 83.3% (A1). (A rise of 25 percentage points.)"
+   },
+   {
+    "label": "b",
+    "text": "Analyse how the growth of digital payments may affect commercial banks.",
+    "marks": 6,
+    "answer": "More transaction fees and deposits kept in accounts; data on customers helps lending; lower costs of handling cash and fewer branches needed; but competition from mobile-wallet firms and costs of cyber security.",
+    "working": "Up to 6 marks for developed points: more money held as bank deposits, giving more funds to lend and more interest income (2); fees from card and transfer payments (1); lower costs of handling and transporting cash, so fewer branches (1); data on spending helps assess borrowers (1); competition from non-bank mobile-wallet firms could reduce market share (1); higher spending on IT and fraud protection (1)."
+   }
+  ],
+  "check": "round((55-30)/30*100, 1) == 83.3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-038",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A savings account pays interest of 7% a year. Over the same year, prices in the country rise by 10%.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the value of savings of Rs 200 000 after one year in this account.",
+    "marks": 1,
+    "answer": "Rs 214 000",
+    "working": "200 000 × 1.07 = Rs 214 000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the saver may be worse off at the end of the year despite earning interest.",
+    "marks": 3,
+    "answer": "Goods costing Rs 200 000 now cost Rs 220 000, more than the Rs 214 000 saved, so the savings buy less (real value falls).",
+    "working": "Prices rise by more than the interest rate (1); the same goods now cost Rs 220 000 (1); so savings of Rs 214 000 buy fewer goods: purchasing power/real value has fallen (1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain two other reasons why households keep money in bank accounts.",
+    "marks": 4,
+    "answer": "Safety from theft and loss; convenience of making payments (cards, transfers); access to loans; earning some interest.",
+    "working": "2 marks each for two developed reasons: safety compared with keeping cash at home; easy payments by card/app/transfer; salaries paid into accounts; a record with the bank helps when applying for a loan; interest is better than nothing even when below inflation."
+   }
+  ],
+  "check": "round(200000*1.07) == 214000 and round(200000*1.10) == 220000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-039",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two forms of money used in a modern economy.",
+    "marks": 2,
+    "answer": "e.g. coins, banknotes, bank deposits (current accounts), mobile-wallet/electronic balances.",
+    "working": "1 mark each for any two valid forms."
+   },
+   {
+    "label": "b",
+    "text": "Explain how the use of money encourages specialisation.",
+    "marks": 4,
+    "answer": "Money removes the need for a double coincidence of wants, so people can concentrate on one job, earn money and buy everything else they need.",
+    "working": "Without money, people must find someone who wants exactly what they make (1); money as a medium of exchange makes trade easy (1); workers can specialise in one task and be paid a wage (1); they use the money to buy many goods from other specialists, raising total output (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-040",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two characteristics that money must have to act as a store of value.",
+    "marks": 4,
+    "answer": "It must be durable and keep its purchasing power (stable value / limited supply).",
+    "working": "2 marks each: durable (does not wear out or rot, so can be kept) (1+1); stable value / limited supply, so its purchasing power is kept over time (1+1). Accept recognisable/acceptable in the future with development."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not a country should replace cash completely with digital money.",
+    "marks": 8,
+    "answer": "For: lower costs of printing and handling cash, faster payments, less theft, harder to evade tax, easier to trace crime. Against: people without bank accounts, phones or internet are excluded; risk of power and network failures and cyber-attacks; loss of privacy; elderly and rural people may struggle. Conclusion: move gradually while keeping some cash.",
+    "working": "For (up to 4): cheaper and safer than handling notes; quick, convenient payments; records make tax evasion and corruption harder; less robbery; easier for government to make transfers to the poor. Against (up to 4): financial exclusion of the poor, elderly and rural households; depends on electricity and mobile networks; fraud and hacking; loss of privacy; small traders face fees. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-041",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A government wants commercial banks to lend more to small firms, which receive only a small share of all bank loans.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two ways in which a commercial bank can lend to a firm.",
+    "marks": 2,
+    "answer": "e.g. a loan; an overdraft; credit card; trade finance.",
+    "working": "1 mark each for any two valid methods."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not commercial banks should lend more to small firms.",
+    "marks": 8,
+    "answer": "For: small firms create jobs, competition and growth; banks earn higher interest. Against: higher risk of default, lack of collateral, higher administration costs; banks must protect depositors' money. Conclusion: more lending is useful with guarantees or careful assessment.",
+    "working": "For (up to 4): finance lets small firms expand, buy capital and employ more workers; more competition benefits consumers; higher interest rates can raise bank profit; spreads lending across many borrowers. Against (up to 4): small firms are more likely to fail, so bad debts rise; little security; costly to assess many small loans; banks have a duty to protect deposits and keep liquidity; may reduce lending to safer large firms. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-042",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Money and banking",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A commercial bank has customer deposits of $800 million. It keeps 10% of its deposits as cash reserves, lends 75% to customers and uses the rest to buy government bonds.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the amount the bank holds as reserves, lends to customers and holds in government bonds.",
+    "marks": 2,
+    "answer": "Reserves $80 million; loans $600 million; bonds $120 million.",
+    "working": "Reserves 0.10 × 800 = $80m and loans 0.75 × 800 = $600m (1); bonds 800 − 80 − 600 = $120m (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the bank should increase its lending to 85% of its deposits.",
+    "marks": 6,
+    "answer": "For: loans pay the highest interest, so profit rises; supports firms and households. Against: lower reserves and bonds mean less liquidity, so the bank may not be able to repay depositors who withdraw; more bad-debt risk. Conclusion depends on how stable deposits are and on regulation.",
+    "working": "For (up to 3): loans earn more interest than cash or bonds, raising profit; more credit helps spending and investment; satisfies borrowers' demand. Against (up to 3): less cash and liquid bonds to meet withdrawals (liquidity risk); bank run risk; more loans to riskier borrowers; central bank rules may require reserves. Max 5 without a conclusion; 1 for a justified conclusion."
+   }
+  ],
+  "check": "800*0.10 == 80 and 800*0.75 == 600 and round(800 - 800*0.10 - 800*0.75) == 120",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-043",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A household's monthly disposable income rises from Rs 100 000 to Rs 120 000, and its spending rises from Rs 90 000 to Rs 104 000. What happens to its saving?\nA Saving falls by Rs 6 000.\nB Saving rises by Rs 6 000.\nC Saving rises by Rs 14 000.\nD Saving stays at 10% of income.",
+    "marks": 1,
+    "answer": "B Saving rises by Rs 6 000.",
+    "working": "Saving = income − spending: Rs 10 000 before and Rs 16 000 after, a rise of Rs 6 000. C is the rise in spending, and D is wrong because saving rises to 13.3% of income."
+   }
+  ],
+  "check": "(120000-104000) - (100000-90000) == 6000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-044",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two influences on the amount a household spends.",
+    "marks": 2,
+    "answer": "Any two of: disposable income; wealth; interest rates; confidence about the future; availability of credit; size and age of household; taxes.",
+    "working": "1 mark each for any two valid influences."
+   },
+   {
+    "label": "b",
+    "text": "Explain two reasons why a household might spend less even though its income has not changed.",
+    "marks": 4,
+    "answer": "e.g. higher interest rates make borrowing dearer and saving more rewarding; fear of losing jobs makes it save more; fall in wealth.",
+    "working": "2 marks each for two developed reasons: a rise in interest rates (dearer loans, more reward for saving); lower confidence/fear of unemployment; fall in wealth, e.g. house or share prices; credit harder to get; saving for a planned future purchase such as a wedding or house."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-045",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A young married couple in Islamabad put aside Rs 20 000 of their income every month.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define saving.",
+    "marks": 2,
+    "answer": "Disposable income that is not spent on consumption.",
+    "working": "Income (1) not spent (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two motives the couple may have for saving.",
+    "marks": 4,
+    "answer": "e.g. to buy a house or car in the future; for emergencies such as illness; for children's education; to earn interest.",
+    "working": "2 marks each for two developed motives: a future large purchase (house, car, wedding); a precaution against illness, job loss or emergencies; children's education; retirement/old age; to earn interest."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-046",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two sources from which a household can borrow.",
+    "marks": 2,
+    "answer": "e.g. commercial bank, microfinance bank, credit card company, relatives/friends, shop credit, moneylender.",
+    "working": "1 mark each for any two valid sources."
+   },
+   {
+    "label": "b",
+    "text": "Explain two factors that influence how much a household borrows.",
+    "marks": 4,
+    "answer": "e.g. interest rates; confidence about future income; availability of loans; level of existing debt; wealth to use as collateral.",
+    "working": "2 marks each for two developed factors: interest rate (cost of borrowing); confidence/job security; banks' willingness to lend; income to repay; wealth/collateral; existing debts."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-047",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A family in Multan has a monthly income of Rs 150 000. The father is 45 and the grandmother, who is retired, lives with the family.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two factors, other than the level of income, that affect the proportion of income a household saves.",
+    "marks": 2,
+    "answer": "e.g. age; interest rates; confidence; availability of credit; social or religious attitudes; size of family; pension schemes.",
+    "working": "1 mark each for any two valid factors."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a retired person usually saves a smaller proportion of income than a worker aged 45.",
+    "marks": 4,
+    "answer": "A 45-year-old is near peak earnings and saves for retirement; a retired person's income is lower (pension) and they draw on past savings to pay for living costs and healthcare.",
+    "working": "Workers in middle age earn more (1) and save for retirement and children's education (1); retired people have lower income (1) and run down savings/spend a larger share on needs such as health care (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-048",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A household in Karachi has a monthly income of Rs 250 000. It spends 35% of its income on food.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the household's monthly spending on food.",
+    "marks": 1,
+    "answer": "Rs 87 500",
+    "working": "0.35 × 250 000 = Rs 87 500 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "The household's income rises by 20% and its spending on food rises by 10%. Calculate the new percentage of income spent on food. Give your answer to 1 decimal place.",
+    "marks": 3,
+    "answer": "32.1%",
+    "working": "New income 250 000 × 1.2 = Rs 300 000 (M1); new food spending 87 500 × 1.1 = Rs 96 250 (M1); 96 250 ÷ 300 000 × 100 = 32.1% (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why low-income households spend a higher proportion of their income on food than high-income households.",
+    "marks": 2,
+    "answer": "Food is a necessity, so poor households must spend most of their income on it; as income rises spending on food rises by less than income, and more goes on luxuries and saving.",
+    "working": "Food is a necessity that takes a large share of a small income (1); as income rises, the extra is spent on other goods or saved, so the food share falls (1)."
+   }
+  ],
+  "check": "0.35*250000 == 87500 and round(87500*1.1/(250000*1.2)*100, 1) == 32.1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-049",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "House prices in a large city rose by 25% over two years. Most households in the city own their homes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between income and wealth.",
+    "marks": 2,
+    "answer": "Income is a flow of money received over a period (e.g. wages per month); wealth is the stock of assets owned at a point in time (e.g. houses, savings).",
+    "working": "Income: flow of money over a period (1); wealth: stock/value of assets owned (1)."
+   },
+   {
+    "label": "b",
+    "text": "Analyse how the rise in house prices may affect household spending and saving.",
+    "marks": 6,
+    "answer": "Homeowners feel wealthier and more confident, so they spend more and save less; they can borrow more using the house as security. But renters and first-time buyers must save more for a deposit and may cut spending.",
+    "working": "Higher house prices increase homeowners' wealth (1); feeling richer and more confident, they spend more (1) and save a smaller proportion of income (1); higher value as collateral makes borrowing easier, raising spending (1). Other side: people who rent or want to buy must save more for a deposit/pay higher rents (1) so their spending falls (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-050",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The table shows the interest rate on savings and the average saving ratio (saving as a percentage of disposable income) in a country.\nYear | Interest rate (%) | Saving ratio (%)\n2022 | 8 | 9\n2023 | 12 | 11\n2024 | 15 | 13\n2025 | 11 | 12",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the change in the saving ratio between 2022 and 2024, in percentage points.",
+    "marks": 1,
+    "answer": "4 percentage points (rise)",
+    "working": "13 − 9 = 4 percentage points (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Identify the relationship between the interest rate and the saving ratio shown in the data.",
+    "marks": 2,
+    "answer": "Positive/direct: when the interest rate rises the saving ratio rises, and when it falls the saving ratio falls, though not proportionately.",
+    "working": "Positive relationship (1); supported with data, e.g. rate 8→15% and saving ratio 9→13% / both fell in 2025 (1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain two reasons, other than the interest rate, why the saving ratio might change.",
+    "marks": 4,
+    "answer": "e.g. changes in income; confidence/fear of unemployment; inflation; availability of credit; changes in age structure; pension rules.",
+    "working": "2 marks each for two developed reasons, e.g. falling confidence leads to precautionary saving; higher incomes allow a larger proportion to be saved; easier credit reduces saving; high inflation encourages buying now."
+   }
+  ],
+  "check": "13 - 9 == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-051",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Rubina borrows Rs 150 000 from a microfinance bank at an interest rate of 24% a year to buy a sewing machine for a home business.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the interest Rubina pays in one year.",
+    "marks": 1,
+    "answer": "Rs 36 000",
+    "working": "0.24 × 150 000 = Rs 36 000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why Rubina may decide to borrow even though the interest rate is high.",
+    "marks": 3,
+    "answer": "She expects the extra income from sewing to be more than the interest; she has no savings and cannot get cheaper loans.",
+    "working": "The machine lets her earn income/profit from selling clothes (1); if this exceeds Rs 36 000 a year the loan is worthwhile (1); she may have no savings or collateral for a cheaper bank loan (1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain how borrowing to buy a sewing machine differs from borrowing to buy a television in its effect on the household's future income.",
+    "marks": 4,
+    "answer": "The sewing machine is capital that produces income which can repay the loan and raise future income; the television is a consumer good that gives satisfaction but no income, so repayments reduce future spending.",
+    "working": "Sewing machine: productive asset/capital (1) that generates income to repay the loan and raise living standards (1). Television: consumer good giving no income (1), so future income is reduced by repayments/less available to spend later (1)."
+   }
+  ],
+  "check": "0.24*150000 == 36000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-052",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define disposable income.",
+    "marks": 2,
+    "answer": "Income after direct taxes have been deducted (and state benefits added), available to spend or save.",
+    "working": "Income after direct taxes (1) available for spending and saving (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not an increase in income will always lead a household to spend more.",
+    "marks": 8,
+    "answer": "Usually yes: more income allows more spending, especially for poorer households with unmet needs. But not always: the rise may be saved (high-income households, uncertainty), used to repay debts, or offset by higher taxes or prices; a temporary rise may be saved. Conclusion: spending usually rises, but by less than income and not in every case.",
+    "working": "Will (up to 4): more income means more purchasing power; low-income households spend most of any rise on needs; confidence rises, encouraging large purchases; easier to borrow. Not always (up to 4): higher-income households save more of a rise; uncertainty/expected job loss leads to precautionary saving; income used to repay loans; higher income tax may cut disposable income; if prices rise faster, real income falls; a one-off bonus may be saved. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-053",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two ways a government could encourage households to save more.",
+    "marks": 2,
+    "answer": "e.g. higher interest rates; tax-free savings schemes; national savings certificates; compulsory pension schemes; public campaigns.",
+    "working": "1 mark each for any two valid methods."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not households should be encouraged to save more.",
+    "marks": 8,
+    "answer": "For: provides funds for banks to lend for investment, security against emergencies, less borrowing, provision for old age. Against: less spending reduces firms' sales, output and jobs in the short run; poor households cannot afford to save; saving may sit idle. Conclusion depends on the state of the economy.",
+    "working": "For (up to 4): savings are lent to firms for investment, raising future productive capacity; households are protected against illness or job loss; less reliance on government in old age; lower debt. Against (up to 4): lower consumer spending means less demand, lower sales and possible unemployment, especially in a recession; firms may cut investment if sales fall; low-income households need to spend on necessities; money saved at home is not lent. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-054",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Households",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A country's central bank raises its interest rate, and commercial banks raise the interest rate on home loans from 10% to 14% a year. One household has an interest-only home loan of Rs 6 million.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the increase in the household's monthly interest payment.",
+    "marks": 2,
+    "answer": "Rs 20 000 a month",
+    "working": "Yearly interest rises from Rs 600 000 to Rs 840 000, an increase of Rs 240 000 (M1); ÷ 12 = Rs 20 000 a month (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the rise in interest rates will reduce total household spending in the country.",
+    "marks": 8,
+    "answer": "Likely to reduce: borrowers pay more interest and cut other spending; loans for cars and houses become dearer; saving becomes more rewarding; falling house prices reduce wealth. May not: savers receive more interest income and may spend more; many loans may be at fixed rates; spending on necessities continues; confidence and rising incomes may outweigh the rise. Conclusion depends on how many households are borrowers rather than savers.",
+    "working": "Reduce (up to 4): higher repayments, e.g. Rs 20 000 a month for this household, leave less to spend; dearer credit discourages buying cars, appliances and houses; higher reward for saving encourages saving instead of spending; lower house prices reduce wealth and confidence. Not reduce (up to 4): savers and retired people gain more interest income; fixed-rate loans are not affected at once; necessities still bought; effect is small if incomes or confidence are rising; households may borrow anyway for essential purchases. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "check": "6e6*0.14 - 6e6*0.10 > 239999.99 and (6e6*0.14 - 6e6*0.10)/12 > 19999.99 and (6e6*0.14 - 6e6*0.10)/12 < 20000.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-055",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Workers",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which change is most likely to increase the supply of nurses?\nA a fall in the wages paid to nurses\nB more government-funded places on nurse training courses\nC an increase in the number of hospitals\nD more nurses moving abroad to work",
+    "marks": 1,
+    "answer": "B more government-funded places on nurse training courses",
+    "working": "More funded training places make it easier and cheaper to qualify, increasing the number of nurses available. A reduces the incentive to be a nurse (a movement along supply); C increases the demand for nurses, not supply; D reduces supply."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-056",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Workers",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Demand for software developers in Pakistan has risen as more firms sell services to customers abroad.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two factors that influence the demand for a type of worker.",
+    "marks": 2,
+    "answer": "Any two of: demand for the product the workers make (derived demand); productivity of the workers; price of the workers (wage); price of capital that could replace them.",
+    "working": "1 mark each for any two valid factors."
+   },
+   {
+    "label": "b",
+    "text": "Explain, using demand and supply, how the wage of software developers is likely to change.",
+    "marks": 4,
+    "answer": "Demand for developers increases (shifts right); with supply of skilled developers slow to rise, there is a shortage at the old wage, so the wage rises until a new equilibrium.",
+    "working": "Demand for developers increases/shifts right (1); supply limited in the short run because training takes time (1); shortage at old wage, firms compete for workers (1); equilibrium wage and employment rise (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-057",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Workers",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "In a car assembly plant in Karachi each worker fits only one component, such as a door or a seat, as cars move along a production line.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two disadvantages of specialisation for the workers.",
+    "marks": 2,
+    "answer": "Any two of: boredom/repetitive work; low job satisfaction; narrow skills, making it hard to change jobs; risk of unemployment if the task is automated; repetitive strain injuries.",
+    "working": "1 mark each for any two valid disadvantages."
+   },
+   {
+    "label": "b",
+    "text": "Explain two disadvantages of specialisation for the firm.",
+    "marks": 4,
+    "answer": "If one worker is absent the whole line stops; bored workers make mistakes and leave, raising costs.",
+    "working": "2 marks each for two developed points: interdependence – absence or a strike at one stage stops the whole line; boredom lowers quality/raises errors; higher labour turnover raises recruitment and training costs; inflexible workforce when demand changes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-058",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Workers",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A garment worker in Lahore is paid a piece rate of Rs 35 for each shirt she stitches. She stitches 40 shirts a day and works 26 days a month.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate her monthly earnings.",
+    "marks": 2,
+    "answer": "Rs 36 400",
+    "working": "35 × 40 = Rs 1 400 a day (M1); × 26 = Rs 36 400 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "The piece rate rises to Rs 38 a shirt. Calculate the percentage increase in her monthly earnings if her output does not change. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "8.6%",
+    "working": "New earnings 38 × 40 × 26 = Rs 39 520 (M1); (39 520 − 36 400) ÷ 36 400 × 100 = 8.6% (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain one disadvantage to the worker of being paid by piece rate.",
+    "marks": 2,
+    "answer": "Earnings vary and fall if she is ill, the machine breaks or there are power cuts; pressure to work fast.",
+    "working": "Disadvantage (1) explained (1), e.g. income is uncertain because it depends on output, which falls through illness or power cuts."
+   }
+  ],
+  "check": "35*40*26 == 36400 and 38*40*26 == 39520 and round((39520-36400)/36400*100, 1) == 8.6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-059",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Workers",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define derived demand.",
+    "marks": 2,
+    "answer": "Demand for a factor of production, such as labour, that depends on the demand for the product it helps to make.",
+    "working": "Demand for a factor/labour (1) that comes from demand for the good or service it produces (1)."
+   },
+   {
+    "label": "b",
+    "text": "Analyse how a large increase in the number of engineering graduates is likely to affect the wages of engineers.",
+    "marks": 6,
+    "answer": "Supply of engineers increases (shifts right); at the old wage there is a surplus of engineers, so the equilibrium wage falls and employment rises; the effect is smaller if demand for engineers is also rising.",
+    "working": "More graduates increases the supply of engineers (1), supply curve shifts right (1); surplus of engineers at the original wage (1); competition for jobs pushes the wage down (1) while the number employed rises (1); the wage may not fall if demand for engineers is rising at the same time (e.g. construction boom) or graduates emigrate (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-060",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Workers",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "An electrician in Karachi earns more than an electrician doing the same job in a small town in rural Sindh.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two reasons why wages for the same job may differ between a large city and a small town.",
+    "marks": 2,
+    "answer": "e.g. higher cost of living in the city; greater demand for electricians in the city; more firms competing for workers; workers unwilling to move.",
+    "working": "1 mark each for any two valid reasons."
+   },
+   {
+    "label": "b",
+    "text": "Analyse why skilled workers usually earn more than unskilled workers.",
+    "marks": 6,
+    "answer": "Supply of skilled workers is limited because training takes time and money; demand is high because they are more productive; so the equilibrium wage is higher. Unskilled workers are in plentiful supply and easier to replace, so wages are lower.",
+    "working": "Skilled: supply is low/inelastic because of long, costly training and ability needed (1+1); demand is high because their productivity and value of output are high (1+1). Unskilled: large supply of workers, easily replaced, so wage low (1). Diagram/comparison of two labour markets with higher equilibrium wage for skilled (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-061",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Workers",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a country the average monthly wage of men is Rs 80 000 and the average monthly wage of women is Rs 62 400.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the gap between men's and women's average wages as a percentage of men's average wage.",
+    "marks": 2,
+    "answer": "22%",
+    "working": "(80 000 − 62 400) ÷ 80 000 × 100 (M1) = 22% (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the difference between men's and women's average wages is caused only by discrimination.",
+    "marks": 8,
+    "answer": "Discrimination can explain part of it (lower pay for the same work, fewer promotions). Other causes: women may work in lower-paid occupations or sectors, work part-time, have career breaks for childcare, have less access to training or education, or be less geographically mobile. Conclusion: discrimination is one cause, but not the only one, though some other causes may themselves reflect social barriers.",
+    "working": "Discrimination (up to 4): employers pay women less for the same job; fewer promotions to senior posts; barriers to entering some well-paid occupations. Other causes (up to 4): occupational differences (more women in lower-paid sectors such as teaching assistants, garment work); part-time work/career breaks reduce experience; less education/training in some regions; lower geographical mobility; less membership of strong trade unions. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "check": "(80000-62400)/80000*100 == 22",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-062",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Workers",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two parts of a worker's pay other than the basic wage.",
+    "marks": 2,
+    "answer": "e.g. overtime pay, bonuses, commission, allowances, fringe benefits such as free transport.",
+    "working": "1 mark each for any two valid items."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not a worker's earnings are likely to rise throughout their working life.",
+    "marks": 8,
+    "answer": "Likely to rise: experience and skills increase productivity; promotion; pay scales based on length of service; further qualifications. Not always: earnings may fall in later years in physical jobs; skills can become out of date with new technology; the industry may decline; ill-health, part-time work or career breaks; real earnings fall if inflation is higher than pay rises. Conclusion: earnings usually rise in early and middle working life, then level off or fall.",
+    "working": "Rise (up to 4): experience and training raise productivity; promotion to more senior posts; annual increments in pay scales (e.g. government jobs); more qualifications. Not always (up to 4): physical strength declines in manual jobs; technology makes skills obsolete; structural decline of the industry; illness, part-time work or career breaks; pay rises below inflation cut real earnings. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-063",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Workers",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one reason why specialisation by workers increases output.",
+    "marks": 2,
+    "answer": "Workers become skilled and quick at one task through repetition, so more is produced per hour.",
+    "working": "Reason (1) explained (1): e.g. repetition increases skill and speed; no time lost moving between tasks; workers can do the task they are best at."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not specialisation benefits an economy.",
+    "marks": 8,
+    "answer": "For: higher productivity and output, lower average costs and prices, use of machinery, more trade. Against: boredom and lower quality, dependence on others (a breakdown at one stage stops production), narrow skills cause structural unemployment when demand changes, regions that specialise are vulnerable. Conclusion: benefits usually outweigh costs if workers can retrain.",
+    "working": "For (up to 4): higher labour productivity and total output; lower costs and prices; higher incomes and living standards; workers choose jobs that match their abilities; regions/countries can trade surpluses. Against (up to 4): repetitive work lowers motivation; interdependence — strikes or absence at one stage halt others; workers with narrow skills face occupational immobility and unemployment when industries decline; over-dependence on a few industries. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-064",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Workers at brick kilns near Lahore have formed a trade union. Many of them work long hours in hot, dusty conditions.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two functions of a trade union.",
+    "marks": 2,
+    "answer": "Any two of: negotiating wages; improving working conditions; protecting jobs; representing members in disputes; improving health and safety; providing training, legal advice or benefits; influencing government policy.",
+    "working": "1 mark each for any two valid functions."
+   },
+   {
+    "label": "b",
+    "text": "Explain two ways in which the union could improve working conditions for the kiln workers.",
+    "marks": 4,
+    "answer": "Negotiate with owners for shorter hours, breaks and safety equipment such as masks; press the government to enforce labour laws; represent workers who are treated unfairly.",
+    "working": "2 marks each for two developed ways: collective bargaining for shorter hours/rest breaks; demand protective equipment and clean drinking water; report breaches of safety laws and lobby government; represent individual members in disputes; threaten industrial action if demands ignored."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-065",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define collective bargaining.",
+    "marks": 2,
+    "answer": "Negotiation between a trade union, on behalf of all its members, and employers over pay and working conditions.",
+    "working": "Negotiation between union (representing workers as a group) and employer(s) (1) over pay/conditions (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two forms of industrial action a trade union might use.",
+    "marks": 4,
+    "answer": "e.g. strike – workers stop working; work-to-rule – doing only the minimum required; overtime ban; go-slow; sit-in.",
+    "working": "2 marks each for two forms, each identified (1) and explained in terms of how it puts pressure on the employer (1): strike (output stops, sales lost); work-to-rule; overtime ban; go-slow; picketing."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-066",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "In an industry with 180 000 workers, 45 000 are members of a trade union. In one year the union recruits 9 000 new members while the number of workers in the industry stays the same.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage of workers who were union members before the recruitment drive.",
+    "marks": 1,
+    "answer": "25%",
+    "working": "45 000 ÷ 180 000 × 100 = 25% (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage of workers who are union members after the recruitment drive.",
+    "marks": 2,
+    "answer": "30%",
+    "working": "45 000 + 9 000 = 54 000 (M1); 54 000 ÷ 180 000 × 100 = 30% (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a higher membership rate may increase the union's bargaining power.",
+    "marks": 3,
+    "answer": "With more members, a strike would stop more of the industry's output, so employers lose more and are more likely to agree; the union also has more subscription income to support members during action.",
+    "working": "A strike or action would affect a larger share of workers/output (1), so employers would lose more revenue (1); more income from subscriptions/strike funds, and stronger claim to represent workers (1)."
+   }
+  ],
+  "check": "45000/180000*100 == 25 and (45000+9000)/180000*100 == 30",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-067",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two costs to a worker of being a member of a trade union.",
+    "marks": 2,
+    "answer": "e.g. membership subscription fees; lost pay during strikes; pressure to follow union decisions; possible tension with the employer.",
+    "working": "1 mark each for any two valid costs: subscription fees; loss of wages while on strike; must follow collective decisions they may disagree with; possible poor relations with managers."
+   },
+   {
+    "label": "b",
+    "text": "Explain two reasons why a worker may decide to join a trade union.",
+    "marks": 4,
+    "answer": "To get higher pay and better conditions through collective bargaining; for protection against unfair dismissal and help in disputes; for benefits such as legal advice and training.",
+    "working": "2 marks each for two developed reasons: stronger bargaining power as a group; protection of job security and help with disputes or unfair treatment; better health and safety; access to legal advice, training, insurance or welfare benefits."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-068",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A union representing textile workers asks for a 15% pay rise. The employer offers 6%. Prices in the country are rising at 9% a year. The average monthly wage is currently Rs 70 000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the new average monthly wage under the union's claim and under the employer's offer.",
+    "marks": 2,
+    "answer": "Union claim Rs 80 500; employer offer Rs 74 200.",
+    "working": "70 000 × 1.15 = Rs 80 500 (1); 70 000 × 1.06 = Rs 74 200 (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the union is likely to reject the employer's offer.",
+    "marks": 2,
+    "answer": "A 6% rise is below 9% inflation, so workers' real wages (purchasing power) would fall.",
+    "working": "Offer is less than the rate of inflation (1); so wages buy fewer goods – real wage falls (1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain two effects on the firm if the workers go on strike.",
+    "marks": 4,
+    "answer": "Lost output and sales revenue; orders delayed or lost to rivals; damaged reputation and relations with workers.",
+    "working": "2 marks each for two developed effects: output stops, so revenue and profit fall; customers (e.g. foreign buyers) switch to rivals, losing future orders; fixed costs still have to be paid; poorer relations/lower morale after the strike."
+   }
+  ],
+  "check": "round(70000*1.15) == 80500 and round(70000*1.06) == 74200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-069",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two reasons why an employer might agree to a union's pay claim.",
+    "marks": 2,
+    "answer": "e.g. to avoid a strike; high profits; to keep and attract workers; workers' productivity has risen; shortage of skilled workers.",
+    "working": "1 mark each for any two valid reasons."
+   },
+   {
+    "label": "b",
+    "text": "Analyse how a successful pay claim by a trade union could affect employment in an industry.",
+    "marks": 6,
+    "answer": "Higher wages raise firms' costs, so they may employ fewer workers or replace them with machines, and may raise prices so sales fall; but if productivity rises or demand is strong and profits are high, employment may not fall.",
+    "working": "Higher wage raises the cost of labour (1); firms demand fewer workers – movement up the demand curve for labour (1); firms may substitute capital for labour (1); higher costs may lead to higher prices and lower sales, reducing derived demand (1). However: if productivity rises/the firm is very profitable or demand is growing, jobs may be kept (1); higher pay may improve motivation and reduce labour turnover (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-070",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A union at a cement factory agrees to the introduction of new machinery. In return, every worker receives a 10% pay rise. As a result, output per worker rises by 25%.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage change in the labour cost of producing each tonne of cement.",
+    "marks": 2,
+    "answer": "A fall of 12%",
+    "working": "New labour cost per unit = 1.10 ÷ 1.25 = 0.88 of the old cost (M1); a fall of 12% (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two ways in which a trade union may benefit the firm that employs its members.",
+    "marks": 4,
+    "answer": "e.g. one organisation to negotiate with saves time; agreements on productivity/new technology; communicates workers' views and reduces disputes; helps training and safety.",
+    "working": "2 marks each for two developed ways: employer bargains with one body rather than each worker; helps introduce change (new machines) with less resistance; channels complaints, reducing labour turnover and unofficial action; supports training and health and safety, raising productivity."
+   }
+  ],
+  "check": "abs((1 - 1.10/1.25)*100 - 12) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-071",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "After a fire in a garment factory, a trade union campaigns for better fire exits and safety training.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two aims of a trade union other than higher pay.",
+    "marks": 2,
+    "answer": "e.g. better health and safety; job security; shorter hours; better holidays/pensions; training; equal opportunities.",
+    "working": "1 mark each for any two valid aims."
+   },
+   {
+    "label": "b",
+    "text": "Explain two reasons why an employer might agree to spend more on safety after the union's campaign.",
+    "marks": 4,
+    "answer": "e.g. to avoid a strike and lost output; to avoid fines or legal claims; to protect its reputation with buyers; fewer accidents mean less lost output and lower labour turnover.",
+    "working": "2 marks each for two developed reasons: avoid industrial action and the lost output/revenue it causes; avoid fines, closure or compensation claims under safety laws; foreign buyers/brands may stop orders from unsafe factories; fewer accidents reduce lost working time and costs; better morale lowers labour turnover and recruitment costs."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-072",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "2 000 workers at a fertiliser plant go on strike for 5 days. Each worker normally produces output worth Rs 12 000 a day.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the value of output lost during the strike.",
+    "marks": 2,
+    "answer": "Rs 120 million (Rs 120 000 000)",
+    "working": "2 000 × 12 000 = Rs 24 million a day (M1); × 5 = Rs 120 million (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two possible effects of the strike on the workers who take part.",
+    "marks": 4,
+    "answer": "Lose wages for the strike days; may win higher pay or better conditions; risk of losing their jobs if the firm loses customers; relations with managers may worsen.",
+    "working": "2 marks each for two developed effects: lose pay for 5 days, reducing household income; may gain a pay rise or better conditions afterwards; job losses if customers switch to imports/rivals; stress and poorer relations with employer; (credit) farmers face fertiliser shortages, harming public support."
+   }
+  ],
+  "check": "2000*12000*5 == 120000000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-073",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two ways in which trade unions might reduce the efficiency of firms.",
+    "marks": 2,
+    "answer": "e.g. strikes disrupt output; resisting new technology; restrictive practices/overmanning; wage rises above productivity raise costs.",
+    "working": "1 mark each for any two valid ways."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not trade unions benefit an economy.",
+    "marks": 8,
+    "answer": "Benefits: fairer pay, better conditions and safety, more skilled and motivated workers, smoother introduction of change, reduced inequality. Costs: strikes lose output and exports, higher wage costs can raise prices and unemployment, resistance to new technology, may protect members at the expense of non-members. Conclusion depends on how unions behave and on the economic situation.",
+    "working": "Benefit (up to 4): protect workers from exploitation; higher wages raise spending; health and safety gains; training and productivity agreements; easier collective negotiation; less inequality. Not benefit (up to 4): strikes lose output and harm exporters; cost-push inflation; unemployment if wages exceed productivity; resistance to change reduces competitiveness; foreign investors may be deterred. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-074",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Junior doctors in government hospitals in a country have gone on strike several times over pay. Some politicians want to ban strikes in essential services.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two essential services other than health care.",
+    "marks": 2,
+    "answer": "e.g. fire service, police, electricity supply, water supply, ambulance services.",
+    "working": "1 mark each for any two valid examples."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the government should ban strikes by workers in essential services such as hospitals.",
+    "marks": 8,
+    "answer": "For a ban: strikes put lives at risk, harm the poor who cannot pay for private care, and hit the whole economy. Against: workers lose their main bargaining power, pay and conditions may fall, staff may leave the profession or emigrate, causing shortages; a ban may be ignored. Alternatives: independent pay review bodies, arbitration. Conclusion: a ban could be justified only with fair alternative ways of setting pay.",
+    "working": "For (up to 4): risk to patients' lives; poor households most affected; public services have no alternative supplier; disruption to the wider economy. Against (up to 4): removes workers' strongest bargaining tool, so pay may fall behind; low morale, staff shortages, brain drain; may lead to unofficial action; basic right of workers; better to use arbitration/minimum service rules. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-075",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why trade union membership may fall during a recession.",
+    "marks": 2,
+    "answer": "Many workers lose their jobs, so they leave the union or stop paying; others cannot afford the subscription or feel the union cannot protect them.",
+    "working": "Unemployment rises, so fewer workers are employed to be members (1); unemployed or low-income workers stop paying subscriptions / believe unions are weak during a recession (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not a trade union is likely to win a pay rise for its members during a recession.",
+    "marks": 8,
+    "answer": "Less likely: demand and profits are falling, firms are cutting jobs, unemployment means workers are easy to replace, and members fear losing jobs so are less willing to strike. More likely if: the union is large and well-organised, workers are skilled and hard to replace, the firm or sector is still profitable (e.g. essential services), or inflation is high and the case for a rise is strong. Conclusion: possible but usually small.",
+    "working": "Unlikely (up to 4): falling demand and profits limit the firm's ability to pay; unemployment is high, so firms can find replacement workers; members fear redundancy; government may freeze public-sector pay. Likely (up to 4): strong, large membership; skilled workers in short supply; some firms still profitable; good negotiating skills or public support; high inflation erodes real wages, strengthening the claim. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-076",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Trade unions",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A car plant employs 3 000 union members. The union asks for a pay rise of Rs 2 000 a month for every member. The firm says it can afford to increase its total yearly wage bill by only Rs 54 million.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the yearly cost of the union's claim and the monthly pay rise per worker that the firm can afford.",
+    "marks": 3,
+    "answer": "Claim costs Rs 72 million a year; the firm can afford Rs 1 500 a month per worker.",
+    "working": "3 000 × 2 000 × 12 = Rs 72 million (M1 A1); 54 000 000 ÷ 3 000 ÷ 12 = Rs 1 500 a month (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the union should accept the firm's offer.",
+    "marks": 6,
+    "answer": "Accept: avoids strike and lost wages, protects jobs if the firm really cannot afford more, and a Rs 1 500 rise is three-quarters of the claim. Reject: if profits are high or inflation is high, members' real pay may fall; holding out may win more. Conclusion depends on the firm's finances, inflation and members' views.",
+    "working": "Accept (up to 3): 75% of the claim; avoids loss of pay during a strike; higher costs could lead to job cuts or automation; keeps good relations. Reject (up to 3): firm may be able to pay more (check profits); rise may not keep up with inflation; union has strong bargaining power if workers are skilled; could negotiate other benefits. Max 5 without a conclusion; 1 mark for a justified conclusion."
+   }
+  ],
+  "check": "3000*2000*12 == 72000000 and 54000000/3000/12 == 1500",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-077",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which is an example of an external economy of scale?\nA A firm receives discounts for buying raw materials in bulk.\nB A technical college opens near an industrial area and trains skilled workers for local firms.\nC A firm employs specialist managers as it grows.\nD A large firm can borrow at a lower interest rate than a small firm.",
+    "marks": 1,
+    "answer": "B A technical college opens near an industrial area and trains skilled workers for local firms.",
+    "working": "External economies come from the growth of the industry or area, benefiting all firms in it, such as a local supply of trained workers. A, C and D are internal economies, which arise from the growth of one firm (purchasing, managerial and financial economies)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-078",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Three businesses in Pakistan: a cotton farm in Sindh, a textile mill in Faisalabad that makes cloth, and a bank in Karachi. The textile mill is a private company; the national railway that carries its cloth is owned by the government.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the sector of production (primary, secondary or tertiary) of each of the three businesses.",
+    "marks": 3,
+    "answer": "Cotton farm – primary; textile mill – secondary; bank – tertiary.",
+    "working": "1 mark for each correct sector."
+   },
+   {
+    "label": "b",
+    "text": "Explain two differences between a private sector firm and a public sector organisation.",
+    "marks": 4,
+    "answer": "Ownership: private sector firms are owned by individuals/shareholders, public sector by the government. Aims: private firms usually aim for profit, public sector for providing services/social welfare.",
+    "working": "2 marks each for two developed differences: ownership (private individuals/shareholders vs government); main aim (profit vs public service/welfare); source of finance (owners, shares, loans vs taxes/government); control (owners/directors vs government ministers)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-079",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Two furniture firms: Firm X employs 40 workers and has yearly sales revenue of Rs 80 million. Firm Y employs 250 workers and has yearly sales revenue of Rs 300 million.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two ways of measuring the size of a firm.",
+    "marks": 2,
+    "answer": "Any two of: number of workers; sales revenue; output; capital employed; market share; number of branches/shops.",
+    "working": "1 mark each for any two valid measures."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the sales revenue per worker of each firm.",
+    "marks": 2,
+    "answer": "Firm X Rs 2 million; Firm Y Rs 1.2 million.",
+    "working": "80 ÷ 40 = Rs 2 million (1); 300 ÷ 250 = Rs 1.2 million (1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the number of workers may not be a good measure of the size of a firm.",
+    "marks": 2,
+    "answer": "Capital-intensive firms may produce or sell a lot with few workers, while labour-intensive firms employ many workers but sell less.",
+    "working": "Firms use different methods of production (1); e.g. a capital-intensive firm can have high sales with few workers, as Firm X shows higher revenue per worker (1)."
+   }
+  ],
+  "check": "80/40 == 2 and 300/250 == 1.2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-080",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A family-owned restaurant in Lahore has grown over ten years from one branch to six branches. It has not bought or merged with any other business.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define internal growth.",
+    "marks": 2,
+    "answer": "When a firm grows by increasing its own output/size, e.g. opening new branches or buying more capital, rather than by joining with another firm.",
+    "working": "Growth from within the firm/using its own resources (1), not through mergers or takeovers (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two ways in which a firm can grow internally.",
+    "marks": 4,
+    "answer": "e.g. opening new branches or factories; selling new products; selling in new markets (online, exports); reinvesting profits in new capital.",
+    "working": "2 marks each for two developed ways: new branches/locations; increasing capacity with more capital and workers; developing new products; entering new markets (other cities, exports, online sales); advertising to increase market share."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-081",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A cement company buys a chain of pharmacies.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the type of merger.",
+    "marks": 1,
+    "answer": "Conglomerate merger",
+    "working": "Conglomerate (diversifying) merger (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two reasons why the cement company might make this merger.",
+    "marks": 4,
+    "answer": "To spread risk across unrelated markets (diversification); to use its spare profits to earn more; to grow and gain financial economies of scale.",
+    "working": "2 marks each for two developed reasons: diversification spreads risk if demand for cement falls (e.g. construction slump); growth in size and profit; financial economies of scale; using surplus funds; entering a growing market."
+   },
+   {
+    "label": "c",
+    "text": "Explain one possible disadvantage of this merger for the cement company.",
+    "marks": 2,
+    "answer": "Managers lack experience in running pharmacies, so poor decisions and higher costs (diseconomies of scale).",
+    "working": "Disadvantage (1) explained (1), e.g. lack of expertise in the new market; management becomes harder; high cost of the purchase."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-082",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A chocolate manufacturer in Switzerland buys a cocoa farm in Ghana.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the type of merger.",
+    "marks": 1,
+    "answer": "Vertical backward merger",
+    "working": "Vertical (backward) merger (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Analyse the possible benefits of this merger to the chocolate manufacturer.",
+    "marks": 6,
+    "answer": "A secure, reliable supply of cocoa; control over quality; cuts out the supplier's profit margin, lowering costs; information about harvests; can deny supply to rivals.",
+    "working": "Up to 6 marks for developed points: secure supply of cocoa beans, so production not interrupted (2); control over quality of beans, improving the product (1); lower costs as supplier's profit no longer paid (1); more control over prices and less exposure to price rises (1); may restrict rivals' supplies, increasing market power (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-083",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The table shows a firm's total cost at different levels of output.\nOutput (units) | Total cost (Rs 000)\n1 000 | 50\n2 000 | 80\n4 000 | 140\n8 000 | 320",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the average cost per unit at each level of output.",
+    "marks": 2,
+    "answer": "Rs 50, Rs 40, Rs 35 and Rs 40.",
+    "working": "50 000 ÷ 1 000 = 50; 80 000 ÷ 2 000 = 40; 140 000 ÷ 4 000 = 35; 320 000 ÷ 8 000 = 40 (2 marks all correct, 1 mark for two or three correct)."
+   },
+   {
+    "label": "b",
+    "text": "Identify the level of output at which average cost is lowest.",
+    "marks": 1,
+    "answer": "4 000 units",
+    "working": "4 000 units (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain two causes of the change in average cost between 4 000 and 8 000 units.",
+    "marks": 4,
+    "answer": "Average cost rises because of diseconomies of scale, e.g. communication problems, poor coordination, low worker motivation.",
+    "working": "Average cost rises from Rs 35 to Rs 40 (diseconomies of scale). 2 marks each for two developed causes: communication problems across many layers of management; difficulties coordinating/controlling a large firm; low morale of workers in a large organisation; rising raw material prices as the firm buys large quantities."
+   }
+  ],
+  "check": "50000/1000 == 50 and 80000/2000 == 40 and 140000/4000 == 35 and 320000/8000 == 40",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-084",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Many textile mills are located close together in Faisalabad. Firms benefit from local suppliers of yarn and dyes, but also face traffic congestion and rising land rents.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Distinguish between internal and external economies of scale.",
+    "marks": 2,
+    "answer": "Internal economies arise from the growth of an individual firm; external economies arise from the growth of the industry or area and benefit all firms in it.",
+    "working": "Internal: from growth of the firm itself (1); external: from growth of the industry/concentration in an area (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not a firm benefits from locating in an area where many firms in the same industry are found.",
+    "marks": 8,
+    "answer": "Benefits: external economies – skilled labour pool, specialist suppliers, training colleges, good infrastructure, reputation of area, shared services. Drawbacks: external diseconomies – congestion, higher rents and wages as firms compete, pollution, competition for customers. Conclusion depends on the balance and the firm's needs.",
+    "working": "Benefits (up to 4): pool of skilled workers reduces training costs; nearby suppliers of yarn and dyes lower transport costs; specialist services (repairs, banks, transport); area's reputation attracts buyers; colleges and infrastructure. Drawbacks (up to 4): traffic congestion raises transport time and costs; rising land rents and wages; workers poached by rivals; pollution and pressure on water/power; intense competition for sales. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-085",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Two of a country's four mobile phone network companies are planning to merge.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two reasons why firms in the same industry may merge.",
+    "marks": 2,
+    "answer": "e.g. to gain economies of scale; to increase market share; to reduce competition; to share technology or networks; to cut duplicate costs.",
+    "working": "1 mark each for any two valid reasons."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not this merger will benefit consumers.",
+    "marks": 8,
+    "answer": "Benefits: economies of scale lower costs, which could mean lower prices; investment in better networks/5G; wider coverage. Drawbacks: fewer competitors (three), so the merged firm may raise prices, reduce quality and choice; less incentive to innovate. Conclusion depends on whether regulators control prices and whether cost savings are passed on.",
+    "working": "Benefit (up to 4): lower average costs from combining networks/towers; more profit to invest in coverage and new technology; better service in rural areas; a stronger firm to compete with the market leader. Not benefit (up to 4): less competition, so higher prices; less choice; reduced quality/customer service; job losses; possible collusion among the few remaining firms. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-086",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A furniture maker has expanded. Before expanding it employed 300 production workers and 12 managers. After expanding it employs 1 200 production workers and 60 managers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of production workers per manager before and after the expansion.",
+    "marks": 2,
+    "answer": "Before 25 workers per manager; after 20 workers per manager.",
+    "working": "300 ÷ 12 = 25 (1); 1 200 ÷ 60 = 20 (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not a firm should try to grow as large as possible.",
+    "marks": 8,
+    "answer": "For: internal economies of scale (bulk buying, specialist machinery, cheaper finance), higher market share and profit, more security. Against: diseconomies of scale, e.g. more layers of management (here fewer workers per manager, so higher management cost per worker), communication and coordination problems, loss of control, need for finance and risk, market may be small, competition rules. Conclusion: grow to the size where average cost is lowest and the market allows.",
+    "working": "For (up to 4): lower average costs from purchasing, technical, financial economies; lower prices and higher market share; more profit for investment; survival against rivals. Against (up to 4): diseconomies of scale – more managers per worker (as here), communication and coordination problems raise average cost; owners lose control; small markets or demand for personal/custom products; risk of borrowing to expand; competition authorities may block growth. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "check": "300/12 == 25 and 1200/60 == 20",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-087",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A firm increases its workforce from 40 to 48 workers, and its output rises from 2 000 to 2 640 units a week. What happens to labour productivity?\nA It rises by 5 units per worker a week.\nB It rises by 20%.\nC It rises by 32%.\nD It falls because more workers are employed.",
+    "marks": 1,
+    "answer": "A It rises by 5 units per worker a week.",
+    "working": "Productivity = output per worker: 2 000 ÷ 40 = 50 and 2 640 ÷ 48 = 55, a rise of 5 units (10%). B is the rise in workers, C the rise in total output."
+   }
+  ],
+  "check": "2640/48 - 2000/40 == 5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-088",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "On farms in Sindh, labour productivity in growing rice is lower than on rice farms in some other Asian countries.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define labour productivity.",
+    "marks": 2,
+    "answer": "Output per worker (per period of time, e.g. per hour).",
+    "working": "Output (1) per worker/per worker-hour (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two factors that could increase the productivity of rice farm workers.",
+    "marks": 4,
+    "answer": "e.g. more and better capital (tractors, irrigation); education and training; better seeds and fertilisers; better management/organisation.",
+    "working": "2 marks each for two developed factors: more/better machinery and irrigation; training in modern methods; higher-quality inputs (seeds, fertiliser); better organisation and management; better health of workers; better roads and storage reducing waste."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-089",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Cotton grown in Punjab is spun into yarn, woven into cloth, made into shirts in Karachi and then sold in shops.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify which stages in this chain are secondary production.",
+    "marks": 2,
+    "answer": "Spinning the cotton into yarn, weaving cloth and making shirts.",
+    "working": "Recognises manufacturing/processing stages (1); names them: spinning, weaving, making shirts (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain how each stage of production adds value.",
+    "marks": 4,
+    "answer": "Each stage turns inputs into a product consumers value more (e.g. cloth worth more than yarn); value added = value of output − cost of bought-in inputs, which pays wages, rent, interest and profit.",
+    "working": "Production changes the form/location of goods to satisfy wants (1); output at each stage sells for more than the inputs bought (1); value added = sales value minus bought-in inputs (1); this pays factor rewards: wages, rent, interest, profit (1). Credit retail adding value by making goods available (tertiary)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-090",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "The table shows the weekly output of a small furniture workshop with a fixed number of machines as more workers are employed.\nNumber of workers | Total output (chairs per week)\n1 | 10\n2 | 24\n3 | 36\n4 | 44\n5 | 48",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate output per worker when 2 workers and when 4 workers are employed.",
+    "marks": 2,
+    "answer": "2 workers: 12 chairs; 4 workers: 11 chairs.",
+    "working": "24 ÷ 2 = 12 (1); 44 ÷ 4 = 11 (1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the extra output produced by the fifth worker.",
+    "marks": 1,
+    "answer": "4 chairs",
+    "working": "48 − 44 = 4 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the extra output from each additional worker falls after the second worker.",
+    "marks": 3,
+    "answer": "The number of machines and space is fixed, so extra workers have less equipment each; they wait to use machines and get in each other's way.",
+    "working": "Capital/space is fixed (1); each extra worker has less capital to work with (1); workers wait for machines or crowd the workshop, so each adds less output (1)."
+   }
+  ],
+  "check": "24/2 == 12 and 44/4 == 11 and 48-44 == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-091",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Rising wages for farm labourers in Punjab have led many farmers to hire combine harvesters instead of employing workers to cut wheat by hand.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two advantages to a farmer of using a combine harvester rather than cutting wheat by hand.",
+    "marks": 2,
+    "answer": "e.g. faster harvesting; less crop lost to bad weather; lower cost per hectare; fewer workers to recruit and manage.",
+    "working": "1 mark each for any two valid advantages: speed; less crop loss/damage from rain; lower average cost when wages are high; does not depend on finding seasonal labourers; consistent quality."
+   },
+   {
+    "label": "b",
+    "text": "Explain how a rise in the price of labour affects a firm's demand for capital.",
+    "marks": 4,
+    "answer": "Labour becomes relatively more expensive, so firms substitute machines for workers; demand for capital rises and demand for labour falls.",
+    "working": "Higher wages raise the cost of labour (1); capital becomes relatively cheaper (1); firms switch to more capital-intensive methods, e.g. combine harvesters (1); demand for capital rises while demand for labour falls (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-092",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A car manufacturer in Japan uses robots on most of its production line. A hair salon in Islamabad employs eight stylists and uses only simple equipment.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify which business is capital-intensive and which is labour-intensive.",
+    "marks": 2,
+    "answer": "Car manufacturer: capital-intensive; hair salon: labour-intensive.",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "Analyse why these two businesses use different methods of production.",
+    "marks": 6,
+    "answer": "Cars are standardised and made in large quantities, so expensive robots spread over large output lower average cost; wages in Japan are high. Hairdressing is a personal service, tailored to each customer, needs human skill and cannot be easily automated; small scale.",
+    "working": "Car maker: large-scale output of standard products allows capital costs to be spread (1); high wages in Japan make labour relatively expensive (1); robots give precision and consistent quality (1). Salon: personal service, each job different, needs human judgement (1); small scale, so expensive machinery would not be worthwhile (1); labour relatively cheap / customers value personal contact (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-093",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A packaging firm needs to increase output. It can either employ 10 extra workers at Rs 45 000 a month each, or lease a machine for Rs 300 000 a month that needs 2 operators paid Rs 60 000 a month each. Both options would give the same extra output.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the monthly cost of each option and state which is cheaper.",
+    "marks": 2,
+    "answer": "Workers Rs 450 000; machine Rs 420 000; the machine option is cheaper by Rs 30 000.",
+    "working": "10 × 45 000 = Rs 450 000 and 300 000 + 2 × 60 000 = Rs 420 000 (1); machine cheaper (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two factors, other than cost, that the firm should consider before choosing the machine.",
+    "marks": 4,
+    "answer": "e.g. reliability/breakdowns and power cuts; flexibility if demand falls (workers can be moved, lease contract fixed); quality of output; effect on staff morale and union reaction; skills needed to operate it.",
+    "working": "2 marks each for two developed factors: risk of breakdowns or electricity shortages stopping output; flexibility – workers can do several tasks, machine only one; quality/consistency of output; availability of trained operators; reaction of existing workers and unions; length of the lease contract."
+   }
+  ],
+  "check": "10*45000 == 450000 and 300000 + 2*60000 == 420000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-094",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "After training and new equipment, output per worker at a fish-processing plant rose from 8 tonnes to 10 tonnes a month.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in labour productivity.",
+    "marks": 2,
+    "answer": "25%",
+    "working": "(10 − 8) ÷ 8 × 100 (M1) = 25% (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Analyse how an increase in labour productivity can benefit a firm.",
+    "marks": 6,
+    "answer": "Lower labour cost per unit, so lower average cost; firm can cut prices or earn higher profit; more competitive, including in export markets; can afford higher wages, improving morale; extra profit for investment.",
+    "working": "Higher output with the same workers (1) lowers labour cost per unit/average cost (1); the firm can lower its price and sell more, increasing market share (1), or keep price and earn more profit (1); more competitive against foreign rivals (1); profit can be reinvested / pay higher wages to retain staff (1)."
+   }
+  ],
+  "check": "(10-8)/8*100 == 25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-095",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two ways a firm can increase labour productivity.",
+    "marks": 2,
+    "answer": "e.g. training; better or more capital; better management; incentives such as bonuses; better working conditions.",
+    "working": "1 mark each for any two valid ways."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not an increase in productivity always benefits workers.",
+    "marks": 8,
+    "answer": "Benefits: higher wages possible because each worker produces more; more secure jobs as the firm is more competitive; better conditions; training raises skills. Not always: firms may need fewer workers, causing redundancy; gains may go to profits not wages; more intense, stressful work; jobs deskilled by machines. Conclusion depends on demand for the product and bargaining power.",
+    "working": "Benefit (up to 4): higher pay/bonuses; firm more competitive so jobs safer; new skills from training increase future earnings; lower prices for workers as consumers. Not always (up to 4): same output needs fewer workers – redundancies; employers keep gains as profit; work intensifies, raising stress; machines replace skills; benefits depend on trade union strength and demand growth. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-096",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A firm is choosing where to locate a call centre. In Country A, workers are paid $400 a month and handle 30 calls an hour. In Country B, workers are paid $2 000 a month and handle 60 calls an hour. In both countries each worker works 160 hours a month.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the labour cost per call in each country. Give your answers to 3 decimal places.",
+    "marks": 2,
+    "answer": "Country A $0.083; Country B $0.208.",
+    "working": "A: 400 ÷ (30 × 160 = 4 800) = $0.083 (1); B: 2 000 ÷ (60 × 160 = 9 600) = $0.208 (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not firms should always locate production where wages are lowest.",
+    "marks": 8,
+    "answer": "For: lower labour cost per unit, as here, if productivity is not too low; more competitive prices; higher profit. Against: low wages may come with low productivity, poor skills, weak infrastructure, language or quality problems, political risk, transport costs, distance from customers; reputation if workers are exploited. Conclusion: what matters is cost per unit, not the wage alone.",
+    "working": "For (up to 4): lower labour cost per call/unit (A's is less than half of B's); lower prices and higher profit; large supply of workers; may get government incentives. Against (up to 4): lower productivity can cancel the wage advantage; quality, language and skills; poor infrastructure/power; transport costs and distance from markets; political and currency risk; ethical concerns and damage to brand. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "check": "round(400/(30*160), 3) == 0.083 and round(2000/(60*160), 3) == 0.208",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-097",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms and production",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Many firms are introducing artificial intelligence (AI) software that can write reports, answer customer emails and process invoices.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two reasons why a firm might introduce AI software to process its invoices.",
+    "marks": 2,
+    "answer": "e.g. lower cost per invoice than paying clerks; faster processing; fewer errors; can work 24 hours a day.",
+    "working": "1 mark each for any two valid reasons: lower costs; speed; accuracy; works continuously without breaks; easy to expand when the firm grows."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the introduction of AI software will reduce the demand for office workers.",
+    "marks": 8,
+    "answer": "Reduce: AI is a substitute for routine office tasks, often cheaper than wages, so firms employ fewer clerks. Not necessarily: AI may complement workers, raising productivity and lowering costs, so firms expand output and demand; new jobs in managing and checking AI; some tasks need human judgement and personal contact; adoption takes time and costs money. Conclusion: demand for routine roles likely falls, while demand for skilled roles may rise.",
+    "working": "Reduce (up to 4): AI substitutes for labour in routine tasks; lower cost than wages; works without breaks; firms seeking profit cut staff. Not reduce (up to 4): AI complements workers, raising productivity and so the value of their output; lower costs and prices increase sales and derived demand; new occupations (AI supervisors, data specialists); customers prefer human contact for some services; cost of software and training slows adoption; trade unions may resist. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-098",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which is a variable cost for a bakery?\nA the rent of the shop\nB the flour used to make bread\nC the yearly insurance on the building\nD the interest on a bank loan",
+    "marks": 1,
+    "answer": "B the flour used to make bread",
+    "working": "A variable cost changes with output: the more bread baked, the more flour used. Rent, insurance and loan interest (A, C, D) are fixed costs that must be paid whatever the output."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-099",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A small factory making plastic buckets has fixed costs of Rs 40 000 a month. The variable cost is Rs 120 per bucket. In March it made 500 buckets.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define fixed cost.",
+    "marks": 2,
+    "answer": "A cost that does not change with the level of output (in the short run), e.g. rent.",
+    "working": "Cost that does not vary with output (1); example such as rent or insurance (1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the factory's total cost in March.",
+    "marks": 2,
+    "answer": "Rs 100 000",
+    "working": "Variable cost = 500 × 120 = Rs 60 000 (M1); total cost = 40 000 + 60 000 = Rs 100 000 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the average total cost per bucket in March.",
+    "marks": 2,
+    "answer": "Rs 200",
+    "working": "100 000 ÷ 500 (M1) = Rs 200 (A1)."
+   }
+  ],
+  "check": "40000 + 500*120 == 100000 and (40000 + 500*120)/500 == 200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-100",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A shoe shop sells 1 200 pairs of sandals a month at Rs 350 a pair. It cuts the price to Rs 300 and sales rise to 1 500 pairs a month.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define total revenue.",
+    "marks": 2,
+    "answer": "The total income a firm receives from selling its output: price × quantity sold.",
+    "working": "Income from sales (1); = price × quantity (1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the shop's total revenue before and after the price cut.",
+    "marks": 2,
+    "answer": "Before Rs 420 000; after Rs 450 000.",
+    "working": "350 × 1 200 = Rs 420 000 (1); 300 × 1 500 = Rs 450 000 (1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a rise in total revenue does not necessarily mean the shop's profit has risen.",
+    "marks": 2,
+    "answer": "Selling more pairs also raises total cost (more sandals bought in), so profit (TR − TC) may rise, fall or stay the same.",
+    "working": "Profit = total revenue − total cost (1); extra 300 pairs add to costs, which may exceed the Rs 30 000 rise in revenue (1)."
+   }
+  ],
+  "check": "350*1200 == 420000 and 300*1500 == 450000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-101",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A new mobile-phone accessories business opened in Rawalpindi this year. Its owner says that for the first year its aims are to survive and to win customers from established rivals.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by survival as an objective of a firm.",
+    "marks": 2,
+    "answer": "Staying in business by covering costs (at least in the long run) and having enough cash to pay bills, rather than closing.",
+    "working": "Continue trading/avoid closure (1); by covering costs/having enough cash to pay debts (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a new firm might aim to increase its market share rather than maximise profit.",
+    "marks": 4,
+    "answer": "To build a customer base and brand loyalty, it may set low prices and spend on promotion; a larger share later gives economies of scale and market power, allowing higher long-run profits.",
+    "working": "New firms need to attract customers from established rivals (1), so may charge low prices/spend on advertising even if profit is low (1); a larger market share builds loyalty and reputation (1) and later allows lower average costs and higher long-term profit (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-102",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A rickshaw driver in Rawalpindi rents his rickshaw for Rs 31 200 a month and pays Rs 6 000 a month for maintenance. On each day he works he spends Rs 1 800 on fuel and collects Rs 4 500 in fares.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Classify the rickshaw rent, the maintenance and the fuel as fixed or variable costs.",
+    "marks": 2,
+    "answer": "Rent and maintenance: fixed costs; fuel: variable cost.",
+    "working": "Rent and maintenance fixed (1); fuel variable (1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate his profit in a month in which he works 26 days.",
+    "marks": 3,
+    "answer": "Rs 33 000",
+    "working": "Revenue 26 × 4 500 = Rs 117 000; fuel 26 × 1 800 = Rs 46 800 (M1); fixed costs 31 200 + 6 000 = Rs 37 200 (M1); profit 117 000 − 46 800 − 37 200 = Rs 33 000 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate his average fixed cost per working day if he works 26 days and if he works 24 days, to the nearest rupee.",
+    "marks": 2,
+    "answer": "26 days: Rs 1 431; 24 days: Rs 1 550.",
+    "working": "37 200 ÷ 26 = 1 430.77 → Rs 1 431 (1); 37 200 ÷ 24 = Rs 1 550 (1)."
+   }
+  ],
+  "check": "26*4500 - 26*1800 - (31200+6000) == 33000 and round(37200/26) == 1431 and 37200/24 == 1550",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-103",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A printing firm produces 5 000 school notebooks a week and sells each one for Rs 50. Its weekly costs are:\nRent of premises: Rs 60 000\nInterest on a bank loan: Rs 15 000\nPaper and ink: Rs 90 000\nWages paid at Rs 7 per notebook: Rs 35 000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the firm's total fixed cost and total variable cost per week.",
+    "marks": 2,
+    "answer": "Total fixed cost Rs 75 000; total variable cost Rs 125 000.",
+    "working": "Fixed = rent + interest = 60 000 + 15 000 = Rs 75 000 (1); variable = paper and ink + piece-rate wages = 90 000 + 35 000 = Rs 125 000 (1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the firm's average total cost per notebook and its weekly profit.",
+    "marks": 2,
+    "answer": "Average total cost Rs 40; profit Rs 50 000 a week.",
+    "working": "(75 000 + 125 000) ÷ 5 000 = Rs 40 (1); 5 000 × 50 − 200 000 = Rs 50 000 (1)."
+   },
+   {
+    "label": "c",
+    "text": "The landlord raises the rent by Rs 25 000 a week. Output does not change. Explain how this affects the firm's average variable cost and its average total cost.",
+    "marks": 3,
+    "answer": "Average variable cost is unchanged at Rs 25, because rent is a fixed cost; average total cost rises by Rs 5 to Rs 45.",
+    "working": "Rent is a fixed cost, so variable costs and AVC (125 000 ÷ 5 000 = Rs 25) do not change (1); fixed cost rises to Rs 100 000 (1); ATC = 225 000 ÷ 5 000 = Rs 45, a rise of Rs 5 (1)."
+   }
+  ],
+  "check": "60000+15000 == 75000 and 90000+35000 == 125000 and 35000/5000 == 7 and 200000/5000 == 40 and 5000*50-200000 == 50000 and 125000/5000 == 25 and 225000/5000 == 45",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-104",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A firm making solar lamps has fixed costs of Rs 600 000 a month. Each lamp sells for Rs 1 500 and has a variable cost of Rs 900.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of lamps the firm must sell each month for total revenue to equal total cost.",
+    "marks": 2,
+    "answer": "1 000 lamps",
+    "working": "Each lamp contributes 1 500 − 900 = Rs 600 towards fixed costs (M1); 600 000 ÷ 600 = 1 000 lamps (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the firm's profit if it sells 1 400 lamps in a month.",
+    "marks": 2,
+    "answer": "Rs 240 000",
+    "working": "TR = 1 400 × 1 500 = Rs 2 100 000; TC = 600 000 + 1 400 × 900 = Rs 1 860 000 (M1); profit Rs 240 000 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain how a rise in the price of the lamps would affect the number the firm must sell to cover its costs.",
+    "marks": 2,
+    "answer": "Each lamp would contribute more above its variable cost, so fewer lamps are needed to cover the fixed costs.",
+    "working": "Higher price raises revenue per lamp relative to variable cost (1); so fewer lamps are needed to cover fixed costs (1)."
+   }
+  ],
+  "check": "600000/(1500-900) == 1000 and 1400*1500 - (600000 + 1400*900) == 240000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-105",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A drinks company in Lahore has set a target of halving the plastic waste from its bottles within five years, even though this will raise its costs.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define profit.",
+    "marks": 2,
+    "answer": "Total revenue minus total cost.",
+    "working": "Total revenue (1) minus total cost (1)."
+   },
+   {
+    "label": "b",
+    "text": "Analyse why a profit-seeking firm might choose an objective such as reducing its environmental impact.",
+    "marks": 6,
+    "answer": "It improves the firm's image and brand loyalty, so sales rise; attracts customers and workers who care about the environment; avoids future fines, taxes or regulations; may cut costs in the long run (less material); so it can support long-run profit.",
+    "working": "Up to 6 marks for developed points: better reputation increases demand/brand loyalty (2); helps recruit and keep motivated workers (1); avoids fines, taxes or bans on plastic in future (1); may reduce costs by using less material (1); satisfies shareholders/investors and retailers who want sustainable suppliers (1); owners may genuinely value social responsibility (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-106",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A firm can choose its output. The table shows the price it can charge and its total cost at each output.\nOutput (units) | Price (Rs) | Total cost (Rs)\n100 | 500 | 30 000\n200 | 450 | 55 000\n300 | 400 | 80 000\n400 | 350 | 125 000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the profit at each output and identify the profit-maximising output.",
+    "marks": 3,
+    "answer": "Profits: Rs 20 000, Rs 35 000, Rs 40 000, Rs 15 000; profit is maximised at 300 units.",
+    "working": "TR = 50 000, 90 000, 120 000, 140 000 (M1); profits 20 000, 35 000, 40 000, 15 000 (A1); 300 units (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the firm should produce 400 units in order to maximise its sales revenue.",
+    "marks": 6,
+    "answer": "For: highest revenue (Rs 140 000) and market share, may deter rivals, gain economies of scale later, satisfy managers. Against: profit falls from Rs 40 000 to Rs 15 000, owners/shareholders lose, less profit to reinvest. Conclusion depends on the firm's long-term aims.",
+    "working": "For (up to 3): revenue Rs 140 000 is the highest; bigger market share and brand recognition; may squeeze out rivals and allow higher prices later; managers' pay may depend on sales. Against (up to 3): profit falls by Rs 25 000; owners want profit; lower funds for investment; lower price may harm the brand image. Max 5 without a conclusion; 1 mark for a justified conclusion."
+   }
+  ],
+  "check": "100*500-30000 == 20000 and 200*450-55000 == 35000 and 300*400-80000 == 40000 and 400*350-125000 == 15000 and 400*350 == 140000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-107",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "An airline flies between Karachi and Dubai.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give one example of a fixed cost and one example of a variable cost for the airline.",
+    "marks": 2,
+    "answer": "Fixed: e.g. lease of aircraft, airport office rent, insurance, salaries of head-office staff. Variable: e.g. fuel, in-flight meals, landing fees per flight.",
+    "working": "Valid fixed cost (1); valid variable cost (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not a firm's average total cost always falls as it increases its output.",
+    "marks": 8,
+    "answer": "Falls: average fixed cost falls as fixed costs are spread over more units; internal economies of scale (bulk buying, specialisation, cheaper finance) lower costs. Not always: in the short run, fixed capacity leads to overcrowding, overtime pay and breakdowns, raising average variable cost; in the long run diseconomies of scale (communication, coordination, motivation) can raise average cost. Conclusion: average cost usually falls at first but can rise beyond a point.",
+    "working": "Falls (up to 4): spreading fixed costs (AFC falls continuously); purchasing, technical, financial, managerial economies; e.g. a fuller aircraft has lower cost per passenger. Not always (up to 4): capacity limits – overtime, crowding, more breakdowns; prices of inputs rise when buying large quantities in a scarce market; diseconomies of scale – communication, coordination, worker morale; external diseconomies such as congestion. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-108",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A state-owned railway company carries passengers and freight. It makes a loss every year and receives a subsidy from the government.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two objectives a public-sector organisation might have.",
+    "marks": 2,
+    "answer": "e.g. providing an affordable service to the public; serving remote areas; providing jobs; breaking even; safety; reducing road congestion and pollution.",
+    "working": "1 mark each for any two valid objectives."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the state-owned railway should aim to make a profit.",
+    "marks": 8,
+    "answer": "For: profit removes the need for subsidy, freeing tax revenue for other uses (opportunity cost); encourages efficiency and cost control; funds investment. Against: profit aim may mean higher fares or closing unprofitable rural routes, hurting poorer people; external benefits (less congestion, pollution, road accidents) are not counted in profit; railways are a public service. Conclusion: aim to cover costs or reduce losses while keeping social objectives.",
+    "working": "For (up to 4): subsidy has an opportunity cost; efficiency incentive; money for new trains and safety; could be privatised more easily. Against (up to 4): higher fares reduce access for low-income passengers; unprofitable routes to remote areas closed; external benefits of rail over road; essential freight for the economy; social objectives such as jobs. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-109",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Firms' costs, revenue and objectives",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A road transport firm has fixed costs of Rs 2.4 million a month. Its variable cost is Rs 80 per kilometre and it charges customers Rs 160 per kilometre. It drives 40 000 km a month. A rise in fuel prices then increases its variable cost by 25%.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the firm's monthly profit before and after the rise in fuel prices, assuming its prices and distance driven do not change.",
+    "marks": 3,
+    "answer": "Before Rs 800 000; after Rs 0 (it just breaks even).",
+    "working": "TR = 160 × 40 000 = Rs 6.4 million; TC before = 2.4m + 80 × 40 000 = Rs 5.6 million, profit Rs 0.8 million (M1 A1); new VC Rs 100 per km, TC = 2.4m + 4.0m = Rs 6.4 million, profit Rs 0 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not the firm should raise its prices in response to the higher fuel costs.",
+    "marks": 6,
+    "answer": "For: restores profit; rivals face the same fuel costs and may also raise prices; customers may have few alternatives. Against: customers may switch to rivals or rail, so revenue may fall if demand is price elastic; could lose long-term contracts; alternative is to cut other costs or improve fuel efficiency. Conclusion depends on competition and price elasticity.",
+    "working": "For (up to 3): without a rise profit is zero; cost rise is industry-wide so rivals likely to raise prices; demand may be inelastic if few substitutes. Against (up to 3): customers switch to cheaper rivals/rail; contract customers may leave; better to cut other costs, use fuel-efficient vehicles or plan routes better. Max 5 without a conclusion; 1 mark for a justified conclusion."
+   }
+  ],
+  "check": "160*40000 - (2.4e6 + 80*40000) == 800000 and 160*40000 - (2.4e6 + 80*1.25*40000) == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-110",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a highly competitive market, one seller raises its price above the price charged by all the other sellers of the identical product. What is most likely to happen?\nA It will lose most of its customers to other sellers.\nB Its total revenue will rise.\nC All the other sellers will raise their prices too.\nD Consumers will keep buying from it because they have no choice.",
+    "marks": 1,
+    "answer": "A It will lose most of its customers to other sellers.",
+    "working": "In a highly competitive market there are many sellers of the same product and buyers know the prices, so customers switch to cheaper sellers. B and D would only be true for a firm with market power (e.g. a monopoly); C is unlikely because rivals gain customers by keeping prices low."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-111",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A pharmaceutical company develops a new medicine and is granted a patent, giving it the sole right to make and sell the medicine for 20 years.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define a monopoly.",
+    "marks": 2,
+    "answer": "A market with a single seller (or a firm with a very large share of the market) with high barriers to entry.",
+    "working": "Single seller/dominant firm (1); barriers to entry stop rivals (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain how a patent gives the company monopoly power and why governments grant patents.",
+    "marks": 4,
+    "answer": "The patent is a legal barrier to entry: no other firm may make the medicine, so the company is the only seller and can set a high price. Governments grant patents to reward the high cost and risk of research, encouraging new inventions.",
+    "working": "Patent is a legal barrier to entry (1); no rival can sell the same medicine, so the firm controls price/supply (1). Governments grant patents to reward research and development costs/risk (1), giving an incentive for firms to invent new products (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-112",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "The table shows the yearly sales of the four cement firms in a country.\nFirm | Sales (thousand tonnes)\nP | 420\nQ | 280\nR | 180\nS | 120",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the market share of firm P.",
+    "marks": 1,
+    "answer": "42%",
+    "working": "Total = 1 000; 420 ÷ 1 000 × 100 = 42% (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the combined market share of the two largest firms.",
+    "marks": 1,
+    "answer": "70%",
+    "working": "(420 + 280) ÷ 1 000 × 100 = 70% (B1)."
+   },
+   {
+    "label": "c",
+    "text": "State whether this market is highly competitive, and give a reason.",
+    "marks": 2,
+    "answer": "Not highly competitive: only four firms and two have 70% of sales.",
+    "working": "Not highly competitive (1); few firms / large firms dominate the market (1)."
+   },
+   {
+    "label": "d",
+    "text": "Explain one benefit to consumers if more firms entered the cement market.",
+    "marks": 2,
+    "answer": "More competition would push prices down / improve quality and service as firms compete for customers.",
+    "working": "Benefit (1) explained (1), e.g. lower prices because firms compete for buyers; more choice; better quality."
+   }
+  ],
+  "check": "420/(420+280+180+120)*100 == 42 and (420+280)/(420+280+180+120)*100 == 70",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-113",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Outside a university in Lahore, more than 20 food stalls sell similar snacks. New stalls open whenever the owner of a spare space decides to start one.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by a barrier to entry.",
+    "marks": 2,
+    "answer": "Anything that makes it difficult or impossible for a new firm to enter a market, e.g. high start-up costs or legal restrictions.",
+    "working": "Obstacle to new firms entering a market (1); example (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two benefits to students of buying from a highly competitive market such as this one.",
+    "marks": 4,
+    "answer": "Low prices because each stall must match rivals; better quality and choice because stalls compete for customers.",
+    "working": "2 marks each for two developed benefits: low prices, as any stall charging more loses customers; quality/hygiene and service improve to attract buyers; wide choice; new ideas from new stalls entering easily."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-114",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "In a small town, 30 shops repair mobile phones. They all offer similar services at similar prices.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why one repair shop cannot charge much more than the others.",
+    "marks": 2,
+    "answer": "Customers can easily go to another shop offering the same service at a lower price.",
+    "working": "Many close substitutes/similar services (1); customers switch to cheaper shops, so it loses sales (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two ways a repair shop could try to attract more customers without cutting its price.",
+    "marks": 4,
+    "answer": "e.g. faster service or home collection; warranty on repairs; better customer service; advertising on social media; selling accessories.",
+    "working": "2 marks each for two developed ways: differentiate the service (faster repairs, guarantee); better location or opening hours; promotion/advertising; loyalty discounts or extra services such as accessories."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-115",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "In most cities, a single company supplies piped water. Laying a second set of pipes to every building would be very costly.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two ways a government could stop a water-supply monopoly from charging high prices.",
+    "marks": 2,
+    "answer": "e.g. set a maximum price/price cap through a regulator; take the company into public ownership; require approval for price rises; subsidise the supplier in return for low prices.",
+    "working": "1 mark each for any two valid ways: price regulation/maximum price; nationalisation/state ownership; a regulator that must approve price changes; subsidy linked to lower prices; quality and service standards with fines."
+   },
+   {
+    "label": "b",
+    "text": "Explain why it may be cheaper for one firm, rather than several, to supply piped water to a city.",
+    "marks": 4,
+    "answer": "Very high fixed costs of pipes and treatment plants; one firm spreads these over all customers, getting large economies of scale and low average cost; several firms would duplicate the network and each have high average cost.",
+    "working": "Very high fixed costs of the pipe network (1); one firm spreads them over many customers (1), so average cost is low/economies of scale (1); competing firms would duplicate pipes, wasting resources and raising average cost (1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-116",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A monopoly supplier sells 2 million units a year at a price of Rs 50 each. Its average total cost is Rs 30 a unit.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the monopoly's yearly profit.",
+    "marks": 2,
+    "answer": "Rs 40 million",
+    "working": "Profit per unit 50 − 30 = Rs 20 (M1); × 2 million = Rs 40 million (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Analyse why a monopoly may have less incentive than a firm in a competitive market to keep its costs low.",
+    "marks": 6,
+    "answer": "With no rivals and barriers to entry, it can earn high profits even with inefficiency; customers cannot switch; it can pass higher costs on as higher prices. A competitive firm that lets costs rise would lose customers and make losses.",
+    "working": "No close competitors/barriers to entry (1); consumers cannot switch to a cheaper supplier (1); higher costs can be passed on as higher prices (1); profits remain high even if costs rise, so less pressure to be efficient (1). In contrast, a competitive firm with higher costs than rivals would lose sales and could be forced out (1). Possible limit: the threat of regulation or new technology may still push the monopoly to control costs (1)."
+   }
+  ],
+  "check": "(50-30)*2e6 == 40e6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-117",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "For many years only one airline flew between Karachi and Islamabad. After a second airline began flying the route, the average fare fell from Rs 32 000 to Rs 24 000 and the number of passengers a year rose from 600 000 to 780 000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage change in the average fare and in the number of passengers.",
+    "marks": 2,
+    "answer": "Fare −25%; passengers +30%.",
+    "working": "(24 000 − 32 000) ÷ 32 000 × 100 = −25% (1); (780 000 − 600 000) ÷ 600 000 × 100 = +30% (1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain two ways in which passengers may have benefited from the entry of the second airline.",
+    "marks": 4,
+    "answer": "Lower fares; more choice of flight times; better service quality as the airlines compete.",
+    "working": "2 marks each for two developed benefits: lower fares (25% fall) let more people fly; more flights/choice of times; better service and quality as airlines compete for passengers; innovation such as online booking."
+   }
+  ],
+  "check": "(24000-32000)/32000*100 == -25 and (780000-600000)/600000*100 == 30",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-118",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one advantage of a monopoly for consumers.",
+    "marks": 2,
+    "answer": "e.g. economies of scale may lead to lower average costs and lower prices; high profits can fund research and new products; avoids wasteful duplication.",
+    "working": "Advantage (1) explained (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not a government should break up a large monopoly into several smaller competing firms.",
+    "marks": 8,
+    "answer": "For: more competition lowers prices, raises output, quality and choice, gives an incentive to be efficient and innovate. Against: smaller firms lose economies of scale, so average costs and possibly prices rise; less profit for research; in natural monopolies duplication is wasteful; costly and slow to do. Alternatives: regulate prices. Conclusion depends on the industry.",
+    "working": "For (up to 4): lower prices and higher output; more choice and quality; firms must be efficient to survive; consumer exploitation ends; more innovation from rivalry. Against (up to 4): loss of economies of scale; less funds for research; duplication of infrastructure (e.g. power grids); the smaller firms may collude; regulation of the monopoly may achieve the same result more cheaply. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-119",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why firms in a highly competitive market are unlikely to earn high profits for long.",
+    "marks": 2,
+    "answer": "High profits attract new firms because there are no barriers to entry; extra supply and competition push prices and profits down.",
+    "working": "No barriers to entry/new firms attracted by profit (1); more competition lowers prices and profits (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not firms in a highly competitive market are likely to produce goods and services of high quality.",
+    "marks": 8,
+    "answer": "Likely: customers can easily switch, so firms that sell poor quality lose sales; firms compete on quality and service as well as price. Not likely: low profits leave little money to improve products; firms may cut corners to keep prices low; buyers may lack information about quality; small firms cannot afford research. Conclusion depends on how well consumers can judge quality and on regulation.",
+    "working": "Likely (up to 4): consumers switch away from poor-quality sellers; reputation and repeat custom matter; new entrants with better products win customers; firms differentiate through service. Not likely (up to 4): intense price competition and low profits leave little for investment or research; firms may use cheaper materials or ignore safety; consumers may not be able to judge quality before buying; small scale limits technology. Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "2281-h2-120",
+  "topic": "Microeconomic decision makers",
+  "subtopic": "Market structure",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "When a market was supplied by a monopoly, the price was Rs 900 and 10 000 units were sold each month. After new firms entered, the price fell to Rs 600 and 16 000 units were sold each month.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage change in the price and in the quantity sold. Give your answers to 1 decimal place where necessary.",
+    "marks": 2,
+    "answer": "Price −33.3%; quantity +60%.",
+    "working": "(600 − 900) ÷ 900 × 100 = −33.3% (1); (16 000 − 10 000) ÷ 10 000 × 100 = +60% (1)."
+   },
+   {
+    "label": "b",
+    "text": "Discuss whether or not a monopoly is likely to spend more on research and development than firms in a competitive market.",
+    "marks": 8,
+    "answer": "More: high profits protected by barriers to entry give funds and allow the firm to keep the rewards of new products; can afford risky long-term projects. Less: with no rivals there is little pressure to innovate; competitive firms innovate to gain an advantage over rivals. Conclusion: monopolies have the means but not always the incentive; depends on threat of new entrants or technology.",
+    "working": "More (up to 4): large profits provide finance; barriers/patents mean the firm keeps the reward from its inventions; economies of scale in research; can take long-term risks. Less (up to 4): lack of competition reduces pressure to improve; complacency/inefficiency; competitive firms innovate to survive and win customers; small firms can be very inventive (start-ups). Levels: 1–3 limited/one-sided; 4–6 both sides developed; 7–8 both sides developed plus a justified conclusion."
+   }
+  ],
+  "check": "round((600-900)/900*100, 1) == -33.3 and (16000-10000)/10000*100 == 60",
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]

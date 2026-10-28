@@ -17,32 +17,47 @@
     {
      "name": "Ionisation energies",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Particles, isotopes & ions",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Electronic configuration",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Atomic & ionic radius",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Orbitals & sub-shells",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -52,56 +67,83 @@
     {
      "name": "Titration calculations",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Mole calculations",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Relative masses (Ar, Mr, isotopic mass)",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Reacting masses & gas volumes",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Empirical & molecular formula",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Water of crystallisation & formulae",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Equations & mole ratios",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Percentage yield & atom economy",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Formulae of ions & compounds",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -111,56 +153,83 @@
     {
      "name": "Sigma & pi bonds / hybridisation",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Shapes & bond angles (VSEPR)",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Bonding types & properties",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Intermolecular forces & boiling points",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Metallic bonding & properties",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Dot-and-cross diagrams",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Dative bonds & electron pairs",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Giant covalent structures (graphite, diamond)",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Hydrogen bonding",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -170,26 +239,38 @@
     {
      "name": "Ideal gas equation",
      "target": 21,
-     "existing": 0,
-     "to_write": 21
+     "existing": 21,
+     "to_write": 0,
+     "target2": 15,
+     "mcq_existing": 4,
+     "mcq_to_write": 0
     },
     {
      "name": "Kinetic theory & diffusion",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Ideal & real gases",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Giant structures (lattices)",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -199,44 +280,65 @@
     {
      "name": "Calorimetry (q = mcΔT), neutralisation & combustion",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Hess's law cycles",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Standard enthalpy changes (definitions)",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Bond energies",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Reaction pathway diagrams & activation energy",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Exothermic & endothermic reactions",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Enthalpy calculations from experimental data",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -246,38 +348,56 @@
     {
      "name": "Standard electrode potentials & cells",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Oxidation numbers & redox",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Electrolysis & Faraday's laws",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Balancing redox equations",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Nernst equation & effect of concentration",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "ΔG and E°cell",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -287,56 +407,83 @@
     {
      "name": "Kc & Kp calculations",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "pH, Ka, Kw & strong/weak acids",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Solubility product (Ksp) & common ion effect",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Buffers",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Le Chatelier's principle",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Partition coefficients",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Brønsted–Lowry acids & bases",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Dynamic equilibrium",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Industrial equilibria (Haber, Contact)",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -346,68 +493,101 @@
     {
      "name": "Rate equations & orders",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Half-life & first-order kinetics",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Homogeneous & heterogeneous catalysis",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Mechanisms & rate-determining step",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Temperature & Boltzmann distribution",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Rate measurement & graphs",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Catalysis",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Rate constant & temperature",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Collision theory (concentration, pressure, surface area)",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Activation energy & rate",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Rate & equilibrium (rate of forward/back reactions)",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -417,26 +597,38 @@
     {
      "name": "Period 3 oxides & chlorides",
      "target": 18,
-     "existing": 0,
-     "to_write": 18
+     "existing": 18,
+     "to_write": 0,
+     "target2": 15,
+     "mcq_existing": 4,
+     "mcq_to_write": 0
     },
     {
      "name": "Periodic trends (radius, IE, electronegativity)",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Structure & melting points across Period 3",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Period 3 elements: reactions with oxygen & chlorine",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     }
    ]
   },
@@ -446,38 +638,56 @@
     {
      "name": "Thermal decomposition of nitrates & carbonates",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Group 2 solubility & thermal stability trends (A Level)",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Group 2 hydroxide & sulfate solubility",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Group 2 reactions with water & oxygen",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Group 2 reactivity & carbonate stability",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Group 2 compounds & uses",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -487,38 +697,56 @@
     {
      "name": "Halide ions: tests & reactions with H2SO4",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 3,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Halogen trends (volatility, bond strength, oxidising power)",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Chlorine with water / NaOH (disproportionation)",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Halogen displacement reactions",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Chlorine in water treatment",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Halogen compounds & oxidation states",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -528,32 +756,47 @@
     {
      "name": "Nitrogen oxides, pollution & catalytic converters",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 2,
+     "target2": 15,
+     "mcq_existing": 4,
+     "mcq_to_write": 2
     },
     {
      "name": "Ammonia & ammonium ion",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Sulfur dioxide & acid rain",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Nitrogen: unreactivity",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Nitric acid & nitrates",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -563,44 +806,65 @@
     {
      "name": "Stereoisomerism",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Structural isomerism & nomenclature",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Optical isomerism",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Reaction types & mechanism terms",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Functional groups & classification",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Formulae & skeletal structures",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Homologous series & general formulae",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -610,50 +874,74 @@
     {
      "name": "SN1/SN2 & reactivity",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Elimination",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Halogenoarenes vs halogenoalkanes",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Reactions of halogenoalkanes (reagents & conditions)",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Nucleophilic substitution mechanism",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Nucleophilic substitution (reactions & products)",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Preparation of halogenoalkanes",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Classifying halogenoalkanes",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -663,50 +951,74 @@
     {
      "name": "Arenes: electrophilic substitution",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Alkenes: electrophilic addition",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Alkanes: free-radical substitution",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Alkenes: oxidation with KMnO4",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Alkenes: addition reactions",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Arenes: side-chain oxidation & other reactions",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Alkanes: properties, combustion & cracking",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Arenes: structure & bonding",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -716,32 +1028,47 @@
     {
      "name": "Phenylamine & azo dyes",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Amino acids, peptides & electrophoresis",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Amines: basicity & preparation",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Amides",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Amines & nitriles",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -751,32 +1078,47 @@
     {
      "name": "Phenol: acidity & reactions",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Alcohols: oxidation",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Alcohols: substitution & dehydration",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Alcohols: reactions",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Alcohols: preparation",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -786,26 +1128,38 @@
     {
      "name": "Tests: 2,4-DNPH, Fehling's, Tollens'",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Nucleophilic addition (HCN)",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Tri-iodomethane test",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Carbonyl structure & reactions",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -815,38 +1169,56 @@
     {
      "name": "Acyl chlorides",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Relative acidity (acids, phenols, alcohols)",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Esters: formation & hydrolysis",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Reduction with LiAlH4/NaBH4",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Carboxylic acids: reactions",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Carboxylic acids: preparation",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -856,20 +1228,29 @@
     {
      "name": "Addition polymers",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 7,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Condensation polymers (polyesters/polyamides)",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 7,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Polymer properties & degradability",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 16,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -879,32 +1260,47 @@
     {
      "name": "Proton (1H) NMR",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Mass spectrometry",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Infrared spectroscopy",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Chromatography (TLC, GC)",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Carbon-13 NMR",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -914,26 +1310,38 @@
     {
      "name": "Multi-step synthesis routes",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 0,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 0
     },
     {
      "name": "Distinguishing tests for functional groups",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Deducing structures from data",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Functional group identification",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -943,26 +1351,38 @@
     {
      "name": "Ligand exchange & stability constants",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Complex ions: ligands, shapes & coordination number",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Isomerism in complexes",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Colour & d-orbital splitting",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     }
    ]
   },
@@ -972,20 +1392,29 @@
     {
      "name": "Redox titrations with transition-metal ions",
      "target": 16,
-     "existing": 0,
-     "to_write": 16
+     "existing": 16,
+     "to_write": 4,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Transition element properties (variable oxidation states, catalysis)",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 12,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "d-orbitals & electronic configuration of ions",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 14,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -995,20 +1424,29 @@
     {
      "name": "Lattice energy & Born–Haber cycles",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 5,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Enthalpies of solution & hydration",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 8,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Electron affinity & ionisation energy (A Level)",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 17,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -1018,14 +1456,20 @@
     {
      "name": "Gibbs free energy & feasibility",
      "target": 22,
-     "existing": 0,
-     "to_write": 22
+     "existing": 22,
+     "to_write": 8,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Entropy changes",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 22,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -1035,112 +1479,167 @@
     {
      "name": "Planning: method & apparatus",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Evaluation: errors, reliability & improvements",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Planning: preparing standard solutions & dilutions",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Graph plotting & line of best fit",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Data processing (tables, sig. figs)",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Titration: recording, accuracy & mean titre",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Qualitative analysis: cations, anions & gases",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Anomalous results",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Gradient, intercept & tangents",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Planning: variables & hypothesis",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Percentage error & uncertainty",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Organic practical techniques (reflux, filtration, purity)",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Graph interpretation & conclusions",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Planning: safety",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Rates experiment: recording & processing",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Gas collection experiment: recording & processing",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Thermochemistry experiment: recording & processing",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Qualitative analysis: organic functional groups",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

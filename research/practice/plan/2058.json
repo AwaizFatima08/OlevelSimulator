@@ -13,26 +13,38 @@
     {
      "name": "Thematic essay on the set passages",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "God's relationship with the created world",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "God's relationship with His messengers",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "God in Himself",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -42,20 +54,29 @@
     {
      "name": "Revelation of the Qur'an",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Compilation and preservation of the Qur'an",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "The Qur'an as a source of Islamic law",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -65,38 +86,56 @@
     {
      "name": "Makkan period: preaching and opposition",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Madina period: community, treaties and diplomacy",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Battles and expeditions",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Conquest of Makka and final years",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Migration and the move to Madina",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Early life before prophethood",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -106,32 +145,47 @@
     {
      "name": "Companions of the Prophet (pbuh)",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Family and descendants of the Prophet (pbuh)",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Wives of the Prophet (pbuh)",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Emigrants (Muhajirun) and Helpers (Ansar)",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Scribes of the Prophet (pbuh)",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -141,20 +195,29 @@
     {
      "name": "Set Hadiths: teachings about belief",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 9,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Set Hadiths: putting teachings into action",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 9,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Set Hadiths essay: personal and communal guidance",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 12,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -164,20 +227,29 @@
     {
      "name": "The Hadiths and other sources of Islamic law",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 7,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Isnad, matn and classification of Hadiths",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 8,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Compilation and collections of Hadiths",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 15,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -187,32 +259,47 @@
     {
      "name": "Caliphate of 'Umar",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Caliphate of 'Ali",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Caliphs compared: leadership and martyrdom",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Caliphate of Abu Bakr",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Caliphate of 'Uthman",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -222,26 +309,38 @@
     {
      "name": "Prayer (salat)",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 3,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Pilgrimage (hajj) and sacrifice",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Festivals and days of special significance",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Jihad",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -251,34 +350,50 @@
     {
      "name": "Oneness of God (tawhid)",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Prophets and revealed books",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Life after death and the Day of Judgement",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Angels",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Predestination and divine decree",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

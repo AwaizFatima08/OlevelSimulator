@@ -13,32 +13,47 @@
     {
      "name": "Analysis of accounts",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Business finance: needs and sources",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Income statements",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Cash-flow forecasting and working capital",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Statement of financial position",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -48,26 +63,38 @@
     {
      "name": "Recruitment, selection and training",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Organisation and management",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Motivating employees",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Internal and external communication",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -77,26 +104,38 @@
     {
      "name": "Marketing mix",
      "target": 16,
-     "existing": 0,
-     "to_write": 16
+     "existing": 16,
+     "to_write": 0,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Market research",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Marketing, competition and the customer",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Marketing strategy",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -106,20 +145,29 @@
     {
      "name": "Environmental and ethical issues",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 8,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Business and the international economy",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 9,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Economic issues",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 13,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -129,26 +177,38 @@
     {
      "name": "Costs, scale of production and break-even analysis",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Production of goods and services",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Location decisions",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Achieving quality production",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -158,34 +218,50 @@
     {
      "name": "Enterprise, business growth and size",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Types of business organisation",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Business objectives and stakeholder objectives",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Business activity",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Classification of businesses",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

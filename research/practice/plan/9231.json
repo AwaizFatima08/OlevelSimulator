@@ -16,20 +16,29 @@
     {
      "name": "Method of differences",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 5,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Standard results (MF19)",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Sum to infinity & convergence",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 15,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -39,26 +48,38 @@
     {
      "name": "Distances (point, plane, skew lines)",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Equations of planes",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Angles between lines & planes",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Lines & planes: intersection, parallel",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -68,26 +89,38 @@
     {
      "name": "Sequences & inequalities",
      "target": 14,
-     "existing": 0,
-     "to_write": 14
+     "existing": 14,
+     "to_write": 1,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "nth derivatives",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Divisibility",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Matrix powers",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -97,14 +130,20 @@
     {
      "name": "Symmetric functions & power sums",
      "target": 22,
-     "existing": 0,
-     "to_write": 22
+     "existing": 22,
+     "to_write": 8,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Transformed equations",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 22,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -114,32 +153,47 @@
     {
      "name": "Stationary points & range",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Inequalities",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Curve sketching",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Asymptotes",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Related graphs (modulus, reciprocal)",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -149,26 +203,38 @@
     {
      "name": "Area enclosed",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 3,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Greatest distance & tangent conditions",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Sketching polar curves",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Polar-Cartesian conversion",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -178,26 +244,38 @@
     {
      "name": "Invariant points & lines",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Inverse, determinant & matrix algebra",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Geometric transformations",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Area scale factor",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -207,32 +285,47 @@
     {
      "name": "Rectangles, bounds & limits of sums",
      "target": 14,
-     "existing": 0,
-     "to_write": 14
+     "existing": 14,
+     "to_write": 1,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Reduction formulae",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Substitution & standard integrals",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Arc length",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Surface area of revolution",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -242,14 +335,20 @@
     {
      "name": "Definitions & identities",
      "target": 22,
-     "existing": 0,
-     "to_write": 22
+     "existing": 22,
+     "to_write": 8,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Hyperbolic equations",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 22,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -259,26 +358,38 @@
     {
      "name": "Second order: constant coefficients",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 2,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "First order: integrating factor",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Substitution to reduce a DE",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Long-term behaviour",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -288,26 +399,38 @@
     {
      "name": "Implicit differentiation",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Parametric differentiation",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Maclaurin series",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Derivatives of hyperbolic & inverse functions",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -317,26 +440,38 @@
     {
      "name": "De Moivre: multiple angles & powers",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 2,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Solving polynomials via de Moivre",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "nth roots & roots of unity",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Summing series with complex numbers",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -346,26 +481,38 @@
     {
      "name": "Diagonalisation",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Cayley-Hamilton (characteristic equation)",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Systems of equations & geometric meaning",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Eigenvalues & eigenvectors",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -375,14 +522,20 @@
     {
      "name": "Elastic energy & motion",
      "target": 23,
-     "existing": 0,
-     "to_write": 23
+     "existing": 23,
+     "to_write": 7,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Equilibrium with elastic forces",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 23,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -392,20 +545,29 @@
     {
      "name": "Horizontal circles",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 7,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Leaving the surface / string slack",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Vertical circles (energy & reaction)",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 12,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -415,20 +577,29 @@
     {
      "name": "Force depending on velocity",
      "target": 19,
-     "existing": 0,
-     "to_write": 19
+     "existing": 19,
+     "to_write": 1,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Force depending on time",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 14,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Force depending on displacement",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 15,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -438,20 +609,29 @@
     {
      "name": "Centre of mass of composite bodies",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 8,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Suspension, toppling & sliding",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Friction & moments",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 12,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -461,20 +641,29 @@
     {
      "name": "Oblique collisions of spheres",
      "target": 19,
-     "existing": 0,
-     "to_write": 19
+     "existing": 19,
+     "to_write": 1,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Collision with a barrier",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Direct collisions & energy",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 18,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -484,26 +673,38 @@
     {
      "name": "Two projectiles",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Equation of trajectory",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Direction & speed during flight",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Range, height & time of flight",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -513,26 +714,38 @@
     {
      "name": "Two-sample tests for means",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Confidence intervals",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Paired-sample t-test",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "One-sample t-test",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -542,20 +755,29 @@
     {
      "name": "Mean & variance from a PGF",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 9,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "PGF of a sum of independent variables",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Finding & using a PGF",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -565,26 +787,38 @@
     {
      "name": "Expectation & variance",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "PDF & CDF",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Median, quartiles & percentiles",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Distribution of Y = g(X)",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -594,14 +828,20 @@
     {
      "name": "Goodness of fit",
      "target": 20,
-     "existing": 0,
-     "to_write": 20
+     "existing": 20,
+     "to_write": 10,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Contingency tables (independence)",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 20,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -611,28 +851,41 @@
     {
      "name": "Wilcoxon signed-rank test",
      "target": 14,
-     "existing": 0,
-     "to_write": 14
+     "existing": 14,
+     "to_write": 1,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Sign test",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Wilcoxon rank-sum test",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Choice of test & assumptions",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

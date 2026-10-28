@@ -13,14 +13,20 @@
     {
      "name": "Purpose of accounting and book-keeping",
      "target": 19,
-     "existing": 0,
-     "to_write": 19
+     "existing": 19,
+     "to_write": 11,
+     "target2": 30,
+     "mcq_existing": 4,
+     "mcq_to_write": 2
     },
     {
      "name": "The accounting equation",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 19,
+     "target2": 30,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -30,26 +36,38 @@
     {
      "name": "Cash book and petty cash book",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 2,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Double entry and ledger accounts",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Books of prime entry",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Business documents",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -59,26 +77,38 @@
     {
      "name": "Correction of errors and suspense accounts",
      "target": 17,
-     "existing": 0,
-     "to_write": 17
+     "existing": 17,
+     "to_write": 0,
+     "target2": 15,
+     "mcq_existing": 4,
+     "mcq_to_write": 0
     },
     {
      "name": "Bank reconciliation",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Control accounts",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Trial balance",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -88,32 +118,47 @@
     {
      "name": "Irrecoverable debts and provision for doubtful debts",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Depreciation and disposal of non-current assets",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Accruals and prepayments",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Valuation of inventory",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Capital and revenue expenditure and receipts",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -123,38 +168,56 @@
     {
      "name": "Partnerships",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Incomplete records",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Manufacturing accounts",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Limited companies",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Clubs and societies",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Sole traders",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -164,20 +227,29 @@
     {
      "name": "Interpretation and decision-making",
      "target": 18,
-     "existing": 0,
-     "to_write": 18
+     "existing": 18,
+     "to_write": 2,
+     "target2": 20,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Calculation of accounting ratios",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Users, inter-firm comparison and limitations",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 18,
+     "target2": 20,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     }
    ]
   },
@@ -187,16 +259,23 @@
     {
      "name": "Accounting principles",
      "target": 25,
-     "existing": 0,
-     "to_write": 25
+     "existing": 25,
+     "to_write": 5,
+     "target2": 30,
+     "mcq_existing": 5,
+     "mcq_to_write": 2
     },
     {
      "name": "Accounting policies",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 25,
+     "target2": 30,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

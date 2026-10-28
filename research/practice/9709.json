@@ -23576,5 +23576,4520 @@
   "check": "abs(sum([math.exp(-5)*5**k/math.factorial(k) for k in [0]])-0.0067)<0.00005 and sum([math.exp(-5)*5**k/math.factorial(k) for k in [0, 1]])>0.025 and abs(1-sum([math.exp(-5)*5**k/math.factorial(k) for k in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]])-0.0137)<0.00005 and 1-sum([math.exp(-5)*5**k/math.factorial(k) for k in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]])>0.025 and abs(sum([math.exp(-5)*5**k/math.factorial(k) for k in [0]])+1-sum([math.exp(-5)*5**k/math.factorial(k) for k in [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]])-0.0204)<0.00005",
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "9709-h2-001",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has parametric equations x = 2t + 1, y = t² − 4t. Find dy/dx in terms of t.",
+    "marks": 2,
+    "answer": "dy/dx = t − 2",
+    "working": "M1 dx/dt = 2, dy/dt = 2t − 4\nA1 dy/dx = (2t − 4)/2 = t − 2"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the point on the curve at which the gradient is 3.",
+    "marks": 2,
+    "answer": "(11, 5)",
+    "working": "M1 t − 2 = 3 so t = 5\nA1 x = 11, y = 25 − 20 = 5"
+   }
+  ],
+  "check": "(lambda t: (2*t+1, t*t-4*t))(5) == (11, 5) and 5-2 == 3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-002",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve is defined by x = t² − 1, y = t³ + t. Find dy/dx in terms of t.",
+    "marks": 2,
+    "answer": "dy/dx = (3t² + 1)/(2t)",
+    "working": "B1 dx/dt = 2t, dy/dt = 3t² + 1\nB1 divide correctly"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the tangent to the curve at the point where t = 2, giving your answer in the form ax + by + c = 0.",
+    "marks": 3,
+    "answer": "13x − 4y + 1 = 0",
+    "working": "B1 point (3, 10)\nM1 gradient 13/4 and line through (3, 10)\nA1 y − 10 = (13/4)(x − 3) → 13x − 4y + 1 = 0"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:t**3+t,2)/(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:t*t-1,2) - 13/4) < 1e-6 and 13*3 - 4*10 + 1 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-003",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The parametric equations of a curve are x = eᵗ + 1, y = e²ᵗ − 3t. Show that dy/dx = (2e²ᵗ − 3)/eᵗ.",
+    "marks": 2,
+    "answer": "dy/dx = (2e²ᵗ − 3)/eᵗ",
+    "working": "B1 dx/dt = eᵗ and dy/dt = 2e²ᵗ − 3\nA1 divides to given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the normal to the curve at the point where t = 0.",
+    "marks": 3,
+    "answer": "y = x − 1",
+    "working": "B1 point (2, 1)\nM1 gradient of tangent (2 − 3)/1 = −1, so normal gradient 1\nA1 y − 1 = x − 2, i.e. y = x − 1"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:math.exp(2*t)-3*t,0)/(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:math.exp(t)+1,0) + 1) < 1e-6 and 1 == 2 - 1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-004",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve is defined for t > 0 by x = √t, y = t² − t. Show that dy/dx = 2√t(2t − 1).",
+    "marks": 3,
+    "answer": "dy/dx = 2√t(2t − 1)",
+    "working": "B1 dx/dt = 1/(2√t)\nB1 dy/dt = 2t − 1\nA1 (2t − 1) × 2√t"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the tangent to the curve at the point where t = 4.",
+    "marks": 3,
+    "answer": "y = 28x − 44",
+    "working": "B1 point (2, 12)\nM1 gradient 2 × 2 × 7 = 28\nA1 y − 12 = 28(x − 2) → y = 28x − 44"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:t*t-t,4)/(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:math.sqrt(t),4) - 28) < 1e-5 and 28*2 - 44 == 12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-005",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has parametric equations x = tan θ, y = sin 2θ, for 0 < θ < ½π. Show that dy/dx = 2 cos²θ cos 2θ.",
+    "marks": 3,
+    "answer": "dy/dx = 2 cos 2θ ÷ sec²θ = 2 cos²θ cos 2θ",
+    "working": "B1 dx/dθ = sec²θ\nB1 dy/dθ = 2 cos 2θ\nA1 divides and uses 1/sec²θ = cos²θ"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the point on the curve at which the tangent is parallel to the x-axis.",
+    "marks": 2,
+    "answer": "(1, 1)",
+    "working": "M1 cos 2θ = 0 (cos θ ≠ 0 in range) → θ = π/4\nA1 x = tan(π/4) = 1, y = sin(π/2) = 1"
+   },
+   {
+    "label": "c",
+    "text": "Find the equation of the tangent to the curve at the point where θ = π/6, giving your answer in the form y = mx + c with m and c exact.",
+    "marks": 3,
+    "answer": "y = ¾x + √3/4",
+    "working": "B1 point (1/√3, √3/2)\nM1 gradient 2 × ¾ × ½ = ¾\nA1 c = √3/2 − ¾ × 1/√3 = √3/4"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:math.sin(2*t),math.pi/6)/(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(math.tan,math.pi/6) - 0.75) < 1e-6 and abs(math.sqrt(3)/2 - 0.75/math.sqrt(3) - math.sqrt(3)/4) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-006",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve is defined for t > 0 by x = ln t, y = t³ − 12t. Show that dy/dx = 3t³ − 12t.",
+    "marks": 2,
+    "answer": "dy/dx = (3t² − 12) ÷ (1/t) = 3t³ − 12t",
+    "working": "B1 dx/dt = 1/t, dy/dt = 3t² − 12\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point of the curve.",
+    "marks": 3,
+    "answer": "(ln 2, −16)",
+    "working": "M1 3t(t² − 4) = 0, t > 0 → t = 2\nA1 x = ln 2\nA1 y = 8 − 24 = −16"
+   },
+   {
+    "label": "c",
+    "text": "By considering the sign of dy/dx for values of t either side of your value, determine whether the stationary point is a maximum or a minimum.",
+    "marks": 2,
+    "answer": "Minimum",
+    "working": "M1 e.g. t = 1: dy/dx = −9 < 0; t = 3: dy/dx = 45 > 0 (x increases with t)\nA1 negative then positive → minimum"
+   }
+  ],
+  "check": "2**3 - 12*2 == -16 and 3*2**3 - 12*2 == 0 and 3*1-12 < 0 and 3*27-36 > 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-007",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve is given by x = t + 1/t, y = t − 1/t, for t > 0. Find dy/dx in terms of t, simplifying your answer.",
+    "marks": 3,
+    "answer": "dy/dx = (t² + 1)/(t² − 1)",
+    "working": "B1 dx/dt = 1 − 1/t²\nB1 dy/dt = 1 + 1/t²\nA1 multiply top and bottom by t²"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the normal to the curve at the point where t = 2, giving your answer in the form ax + by = c.",
+    "marks": 3,
+    "answer": "3x + 5y = 15",
+    "working": "B1 point (5/2, 3/2)\nM1 tangent gradient 5/3, normal gradient −3/5\nA1 y − 3/2 = −3/5(x − 5/2) → 3x + 5y = 15"
+   },
+   {
+    "label": "c",
+    "text": "Show that the Cartesian equation of the curve is x² − y² = 4.",
+    "marks": 2,
+    "answer": "x² − y² = (x + y)(x − y) = 2t × 2/t = 4",
+    "working": "M1 x + y = 2t, x − y = 2/t\nA1 product = 4"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:t-1/t,2)/(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:t+1/t,2) - 5/3) < 1e-6 and 3*2.5 + 5*1.5 == 15 and 2.5**2 - 1.5**2 == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-008",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve is defined by x = 2θ − sin 2θ, y = 1 − cos 2θ, for 0 < θ < π. Show that dy/dx = cot θ.",
+    "marks": 4,
+    "answer": "dy/dx = 2 sin 2θ/(2 − 2 cos 2θ) = 2 sin θ cos θ/(2 sin²θ) = cot θ",
+    "working": "B1 dx/dθ = 2 − 2 cos 2θ\nB1 dy/dθ = 2 sin 2θ\nM1 uses sin 2θ = 2 sin θ cos θ and 1 − cos 2θ = 2 sin²θ\nA1 cot θ"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the tangent at the point where θ = π/4.",
+    "marks": 2,
+    "answer": "y = x + 2 − π/2",
+    "working": "B1 point (π/2 − 1, 1), gradient cot(π/4) = 1\nA1 y − 1 = x − π/2 + 1"
+   },
+   {
+    "label": "c",
+    "text": "Find the exact coordinates of the point on the curve at which the gradient is −√3.",
+    "marks": 3,
+    "answer": "(5π/3 + √3/2, ½)",
+    "working": "M1 cot θ = −√3 → tan θ = −1/√3, θ = 5π/6\nA1 x = 5π/3 − sin(5π/3) = 5π/3 + √3/2\nA1 y = 1 − cos(5π/3) = ½"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:1-math.cos(2*t),5*math.pi/6)/(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:2*t-math.sin(2*t),5*math.pi/6) + math.sqrt(3)) < 1e-5 and abs(5*math.pi/3 - math.sin(5*math.pi/3) - (5*math.pi/3 + math.sqrt(3)/2)) < 1e-12 and abs(1 - math.cos(5*math.pi/3) - 0.5) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-009",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has parametric equations x = ln(1 + t²), y = tan⁻¹ t, for t > 0. Show that dy/dx = 1/(2t).",
+    "marks": 3,
+    "answer": "dy/dx = [1/(1 + t²)] ÷ [2t/(1 + t²)] = 1/(2t)",
+    "working": "B1 dx/dt = 2t/(1 + t²)\nB1 dy/dt = 1/(1 + t²)\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the normal to the curve at the point where the gradient of the curve is ½. Give your answer in the form y = mx + c, with c exact.",
+    "marks": 3,
+    "answer": "y = −2x + π/4 + 2 ln 2",
+    "working": "M1 1/(2t) = ½ → t = 1\nA1 point (ln 2, π/4)\nA1 normal gradient −2, y = −2x + 2 ln 2 + π/4"
+   },
+   {
+    "label": "c",
+    "text": "Find y in terms of x.",
+    "marks": 2,
+    "answer": "y = tan⁻¹√(eˣ − 1)",
+    "working": "M1 t² = eˣ − 1\nA1 t > 0 so t = √(eˣ − 1), y = tan⁻¹√(eˣ − 1)"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(math.atan,1)/(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda t:math.log(1+t*t),1) - 0.5) < 1e-6 and abs(math.atan(math.sqrt(math.exp(math.log(2))-1)) - math.pi/4) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-010",
+  "topic": "Differentiation",
+  "subtopic": "Parametric differentiation",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve is defined by x = 8 cos³θ, y = 8 sin³θ, for 0 < θ < ½π. Show that dy/dx = −tan θ.",
+    "marks": 3,
+    "answer": "dy/dx = 24 sin²θ cos θ ÷ (−24 cos²θ sin θ) = −tan θ",
+    "working": "B1 dx/dθ = −24 cos²θ sin θ\nB1 dy/dθ = 24 sin²θ cos θ\nA1 simplifies to −tan θ"
+   },
+   {
+    "label": "b",
+    "text": "The tangent at the point with parameter θ meets the x-axis at A and the y-axis at B. Show that A is (8 cos θ, 0) and B is (0, 8 sin θ).",
+    "marks": 4,
+    "answer": "Tangent: y − 8 sin³θ = −tan θ (x − 8 cos³θ); y = 0 gives x = 8 cos³θ + 8 sin²θ cos θ = 8 cos θ; x = 0 gives y = 8 sin³θ + 8 sin θ cos²θ = 8 sin θ",
+    "working": "M1 equation of tangent\nM1 substitute y = 0\nA1 x = 8 cos θ (uses sin²θ + cos²θ = 1)\nA1 y = 8 sin θ"
+   },
+   {
+    "label": "c",
+    "text": "Hence show that the length AB is the same for every value of θ, and state this length.",
+    "marks": 1,
+    "answer": "AB = √(64 cos²θ + 64 sin²θ) = 8",
+    "working": "B1 8"
+   }
+  ],
+  "check": "abs((lambda t: 8*math.cos(t)**3 + 8*math.sin(t)**3/math.tan(t))(0.7) - 8*math.cos(0.7)) < 1e-12 and abs((lambda t: 8*math.sin(t)**3 + math.tan(t)*8*math.cos(t)**3)(0.7) - 8*math.sin(0.7)) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-011",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation x² + xy + y² = 7. Show that dy/dx = −(2x + y)/(x + 2y).",
+    "marks": 3,
+    "answer": "2x + y + x dy/dx + 2y dy/dx = 0 → dy/dx = −(2x + y)/(x + 2y)",
+    "working": "B1 d(xy)/dx = y + x dy/dx\nB1 d(y²)/dx = 2y dy/dx\nA1 rearranges"
+   },
+   {
+    "label": "b",
+    "text": "Show that the point (1, 2) lies on the curve, and find the equation of the normal to the curve at this point, giving your answer in the form ax + by + c = 0.",
+    "marks": 3,
+    "answer": "5x − 4y + 3 = 0",
+    "working": "B1 1 + 2 + 4 = 7\nM1 tangent gradient −4/5, normal gradient 5/4\nA1 y − 2 = (5/4)(x − 1) → 5x − 4y + 3 = 0"
+   }
+  ],
+  "check": "1+2+4 == 7 and Fraction(-(2+2),(1+4)) == Fraction(-4,5) and 5*1 - 4*2 + 3 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-012",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation ln y + xy = 2. Show that the point (2, 1) lies on the curve.",
+    "marks": 1,
+    "answer": "ln 1 + 2 × 1 = 0 + 2 = 2",
+    "working": "B1"
+   },
+   {
+    "label": "b",
+    "text": "Find the gradient of the curve at (2, 1).",
+    "marks": 4,
+    "answer": "−1/3",
+    "working": "B1 d(ln y)/dx = (1/y) dy/dx\nB1 d(xy)/dx = y + x dy/dx\nM1 (1/y + x) dy/dx = −y\nA1 at (2, 1): 3 dy/dx = −1, gradient −1/3"
+   }
+  ],
+  "check": "Fraction(-1, 1 + 2) == Fraction(-1,3) and abs(math.log(1) + 2*1 - 2) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-013",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation x² − 2xy + 3y² = 9. Find dy/dx in terms of x and y.",
+    "marks": 3,
+    "answer": "dy/dx = (y − x)/(3y − x)",
+    "working": "B1 −2y − 2x dy/dx for −2xy\nB1 6y dy/dx\nA1 (2x − 2y) + (6y − 2x) dy/dx = 0 → (y − x)/(3y − x)"
+   },
+   {
+    "label": "b",
+    "text": "The curve crosses the y-axis at the points A and B. Find the coordinates of A and B, and show that the tangents at A and B are parallel.",
+    "marks": 3,
+    "answer": "A(0, √3), B(0, −√3); both gradients are 1/3",
+    "working": "M1 3y² = 9 → y = ±√3\nA1 both points\nA1 gradient at each = y/(3y) = 1/3, so parallel"
+   }
+  ],
+  "check": "abs(3*math.sqrt(3)**2 - 9) < 1e-12 and abs(math.sqrt(3)/(3*math.sqrt(3)) - 1/3) < 1e-12 and abs(-math.sqrt(3)/(-3*math.sqrt(3)) - 1/3) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-014",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y³ + 3y = x² + 4x. Find dy/dx in terms of x and y.",
+    "marks": 3,
+    "answer": "dy/dx = (2x + 4)/(3y² + 3)",
+    "working": "B1 3y² dy/dx + 3 dy/dx\nM1 collects dy/dx terms\nA1 (2x + 4)/(3y² + 3)"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the stationary point on the curve.",
+    "marks": 3,
+    "answer": "(−2, −1)",
+    "working": "M1 2x + 4 = 0 → x = −2\nM1 y³ + 3y = 4 − 8 = −4\nA1 y = −1 (only real root, since y³ + 3y is increasing)"
+   }
+  ],
+  "check": "(-1)**3 + 3*(-1) == (-2)**2 + 4*(-2) and 2*(-2)+4 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-015",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation x eʸ = y + 1. Show that the point (1, 0) lies on the curve and find dy/dx in terms of x and y.",
+    "marks": 4,
+    "answer": "dy/dx = eʸ/(1 − x eʸ)",
+    "working": "B1 1 × e⁰ = 0 + 1\nB1 eʸ + x eʸ dy/dx\nM1 collect dy/dx terms\nA1 eʸ/(1 − x eʸ)"
+   },
+   {
+    "label": "b",
+    "text": "Explain what your answer tells you about the tangent to the curve at (1, 0).",
+    "marks": 2,
+    "answer": "Denominator 1 − 1 × 1 = 0 while numerator is 1, so the gradient is undefined: the tangent is vertical, x = 1",
+    "working": "M1 substitute (1, 0): denominator zero\nA1 tangent parallel to the y-axis, equation x = 1"
+   }
+  ],
+  "check": "1*math.exp(0) == 0 + 1 and 1 - 1*math.exp(0) == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-016",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation x² + 4y² − 2xy = 12. Find dy/dx in terms of x and y.",
+    "marks": 3,
+    "answer": "dy/dx = (y − x)/(4y − x)",
+    "working": "B1 8y dy/dx\nB1 −2y − 2x dy/dx\nA1 (y − x)/(4y − x)"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the points on the curve at which the tangent is parallel to the y-axis.",
+    "marks": 4,
+    "answer": "(4, 1) and (−4, −1)",
+    "working": "M1 4y − x = 0 → x = 4y\nM1 16y² + 4y² − 8y² = 12\nA1 y = ±1\nA1 (4, 1) and (−4, −1)"
+   }
+  ],
+  "check": "4**2 + 4*1 - 2*4*1 == 12 and (-4)**2 + 4*1 - 2*(-4)*(-1) == 12 and 4*1 - 4 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-017",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation x²y + y³ = 10. Find the gradient of the curve at the point (3, 1).",
+    "marks": 4,
+    "answer": "−½",
+    "working": "B1 2xy + x² dy/dx\nB1 3y² dy/dx\nM1 dy/dx = −2xy/(x² + 3y²)\nA1 −6/12 = −½"
+   },
+   {
+    "label": "b",
+    "text": "The tangent to the curve at (3, 1) meets the x-axis at A and the y-axis at B. Find the area of triangle OAB, where O is the origin.",
+    "marks": 3,
+    "answer": "25/4",
+    "working": "M1 tangent x + 2y = 5\nA1 A(5, 0), B(0, 2.5)\nA1 area ½ × 5 × 2.5 = 25/4"
+   }
+  ],
+  "check": "9*1 + 1 == 10 and Fraction(-2*3*1, 9+3) == Fraction(-1,2) and Fraction(1,2)*5*Fraction(5,2) == Fraction(25,4)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-018",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation sin x + sin y = 1, for 0 < x < π, 0 < y < π. Find dy/dx in terms of x and y.",
+    "marks": 2,
+    "answer": "dy/dx = −cos x/cos y",
+    "working": "B1 cos y dy/dx\nA1 −cos x/cos y"
+   },
+   {
+    "label": "b",
+    "text": "Find the gradient of the curve at the point (π/6, π/6).",
+    "marks": 2,
+    "answer": "−1",
+    "working": "M1 substitute\nA1 −(√3/2)/(√3/2) = −1"
+   },
+   {
+    "label": "c",
+    "text": "Show that the normal to the curve at (π/6, π/6) passes through the origin.",
+    "marks": 2,
+    "answer": "Normal has gradient 1: y − π/6 = x − π/6, i.e. y = x, which passes through (0, 0)",
+    "working": "M1 normal gradient 1\nA1 y = x"
+   }
+  ],
+  "check": "abs(math.sin(math.pi/6)*2 - 1) < 1e-12 and abs(-math.cos(math.pi/6)/math.cos(math.pi/6) + 1) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-019",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation x² + y² = 2xy + 4x. Show that dy/dx = (y − x + 2)/(y − x).",
+    "marks": 3,
+    "answer": "2x + 2y dy/dx = 2y + 2x dy/dx + 4 → dy/dx (2y − 2x) = 2y − 2x + 4",
+    "working": "B1 2y dy/dx\nB1 2y + 2x dy/dx\nA1 rearranges to given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the point on the curve at which the tangent is parallel to the x-axis.",
+    "marks": 3,
+    "answer": "(1, −1)",
+    "working": "M1 y = x − 2\nM1 substitute: (x − y)² = 4x → 4 = 4x\nA1 x = 1, y = −1"
+   },
+   {
+    "label": "c",
+    "text": "Show that the curve has a tangent parallel to the y-axis at the origin only.",
+    "marks": 2,
+    "answer": "Denominator zero when y = x; then (x − y)² = 4x gives 0 = 4x, so x = 0, y = 0",
+    "working": "M1 y − x = 0 substituted\nA1 only (0, 0)"
+   }
+  ],
+  "check": "1 + 1 == 2*1*(-1) + 4*1 and (-1) - 1 + 2 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-020",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation x² − xy + y² = 3. Find the coordinates of the two points on the curve at which the tangent is parallel to the line y = x.",
+    "marks": 5,
+    "answer": "(1, −1) and (−1, 1)",
+    "working": "B1 2x − y − x dy/dx + 2y dy/dx = 0\nB1 dy/dx = (y − 2x)/(2y − x)\nM1 set equal to 1 → y = −x\nM1 substitute: 3x² = 3\nA1 (1, −1) and (−1, 1)"
+   },
+   {
+    "label": "b",
+    "text": "Find the equations of the tangents at these points and the perpendicular distance between them.",
+    "marks": 3,
+    "answer": "y = x − 2 and y = x + 2; distance 2√2",
+    "working": "A1 y = x − 2 and y = x + 2\nM1 distance = 4/√2 (e.g. from (0, 2) to x − y − 2 = 0)\nA1 2√2"
+   }
+  ],
+  "check": "1 - (1)*(-1) + 1 == 3 and Fraction(-1-2, -2-1) == 1 and abs(4/math.sqrt(2) - 2*math.sqrt(2)) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-021",
+  "topic": "Differentiation",
+  "subtopic": "Implicit differentiation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation eˣʸ = x + y. Show that the points (0, 1) and (1, 0) both lie on the curve.",
+    "marks": 1,
+    "answer": "e⁰ = 1 = 0 + 1 and e⁰ = 1 = 1 + 0",
+    "working": "B1 both checked"
+   },
+   {
+    "label": "b",
+    "text": "Show that dy/dx = (1 − y eˣʸ)/(x eˣʸ − 1).",
+    "marks": 3,
+    "answer": "eˣʸ(y + x dy/dx) = 1 + dy/dx → dy/dx (x eˣʸ − 1) = 1 − y eˣʸ",
+    "working": "B1 chain rule on eˣʸ\nB1 product rule for xy\nA1 rearranges to given answer"
+   },
+   {
+    "label": "c",
+    "text": "Find the equations of the tangents to the curve at (0, 1) and at (1, 0), and state the point where they meet.",
+    "marks": 3,
+    "answer": "y = 1 and x = 1; they meet at (1, 1)",
+    "working": "M1 at (0, 1): (1 − 1)/(0 − 1) = 0 → y = 1\nM1 at (1, 0): denominator 1 − 1 = 0 → vertical, x = 1\nA1 (1, 1)"
+   }
+  ],
+  "check": "math.exp(0) == 0 + 1 and (1 - 1*math.exp(0)) == 0 and (1*math.exp(0) - 1) == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-022",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = (3 − x)eˣ has one stationary point. Find dy/dx, simplifying your answer.",
+    "marks": 2,
+    "answer": "dy/dx = (2 − x)eˣ",
+    "working": "M1 product rule: −eˣ + (3 − x)eˣ\nA1 (2 − x)eˣ"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point and determine whether it is a maximum or a minimum.",
+    "marks": 3,
+    "answer": "(2, e²), maximum",
+    "working": "B1 x = 2 (eˣ ≠ 0)\nB1 y = e²\nB1 dy/dx changes from + to − (or d²y/dx² = (1 − x)eˣ = −e² < 0): maximum"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:(3-x)*math.exp(x),2)) < 1e-5 and abs((3-2)*math.exp(2) - math.e**2) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-023",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the exact coordinates of the stationary point on the curve y = x ln x − 2x, for x > 0.",
+    "marks": 4,
+    "answer": "(e, −e)",
+    "working": "M1 product rule on x ln x\nA1 dy/dx = ln x + 1 − 2 = ln x − 1\nA1 x = e\nA1 y = e − 2e = −e"
+   },
+   {
+    "label": "b",
+    "text": "Find d²y/dx² and hence determine the nature of the stationary point.",
+    "marks": 2,
+    "answer": "d²y/dx² = 1/x > 0 at x = e, so minimum",
+    "working": "B1 1/x\nB1 positive → minimum"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x*math.log(x)-2*x,math.e)) < 1e-5 and abs(math.e*math.log(math.e) - 2*math.e + math.e) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-024",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the derivative of y = x/(x² + 4) is (4 − x²)/(x² + 4)².",
+    "marks": 3,
+    "answer": "dy/dx = [(x² + 4) − 2x²]/(x² + 4)² = (4 − x²)/(x² + 4)²",
+    "working": "M1 quotient rule\nA1 correct unsimplified\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the two stationary points and state which one is a maximum.",
+    "marks": 3,
+    "answer": "(2, ¼) maximum; (−2, −¼) minimum",
+    "working": "M1 x² = 4\nA1 (2, ¼) and (−2, −¼)\nA1 (2, ¼) is the maximum"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x/(x*x+4),2)) < 1e-6 and Fraction(2,8) == Fraction(1,4) and abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x/(x*x+4),-2)) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-025",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = eˣ sin x is defined for 0 ≤ x ≤ π. Find dy/dx.",
+    "marks": 2,
+    "answer": "dy/dx = eˣ(sin x + cos x)",
+    "working": "M1 product rule\nA1 eˣ sin x + eˣ cos x"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact x-coordinate of the stationary point in the given interval, and find its y-coordinate correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "x = 3π/4, y = 7.46",
+    "working": "M1 tan x = −1\nA1 x = 3π/4\nA1 y = e^(3π/4) × (√2/2) = 7.46"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.exp(x)*math.sin(x),3*math.pi/4)) < 1e-5 and round(math.exp(3*math.pi/4)*math.sin(3*math.pi/4), 2) == 7.46",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-026",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = x√(9 − x²) is defined for 0 ≤ x ≤ 3. Show that dy/dx = (9 − 2x²)/√(9 − x²).",
+    "marks": 4,
+    "answer": "dy/dx = √(9 − x²) − x²/√(9 − x²) = (9 − 2x²)/√(9 − x²)",
+    "working": "B1 d/dx √(9 − x²) = −x/√(9 − x²)\nM1 product rule\nM1 common denominator\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point.",
+    "marks": 2,
+    "answer": "(3/√2, 9/2), i.e. (3√2/2, 4.5)",
+    "working": "M1 x² = 9/2\nA1 y = (3/√2)(3/√2) = 9/2"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x*math.sqrt(9-x*x),3/math.sqrt(2))) < 1e-5 and abs(3/math.sqrt(2)*math.sqrt(9-4.5) - 4.5) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-027",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = ln(x² + 1) − ½x has two stationary points. Show that their x-coordinates satisfy x² − 4x + 1 = 0.",
+    "marks": 3,
+    "answer": "2x/(x² + 1) − ½ = 0 → 4x = x² + 1",
+    "working": "B1 d/dx ln(x² + 1) = 2x/(x² + 1)\nM1 set dy/dx = 0\nA1 given equation"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact x-coordinates of the stationary points and determine the nature of each.",
+    "marks": 4,
+    "answer": "x = 2 − √3 is a minimum; x = 2 + √3 is a maximum",
+    "working": "A1 x = 2 ± √3\nM1 sign of dy/dx: e.g. x = 0 gives −½, x = 2 gives 4/5 − ½ > 0, x = 4 gives 8/17 − ½ < 0\nA1 2 − √3 minimum\nA1 2 + √3 maximum"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.log(x*x+1)-x/2,2-math.sqrt(3))) < 1e-6 and abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.log(x*x+1)-x/2,2+math.sqrt(3))) < 1e-6 and 4/5 - 0.5 > 0 and 8/17 - 0.5 < 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-028",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = sin²x cos x is defined for 0 < x < π. Show that dy/dx = sin x (2 cos²x − sin²x).",
+    "marks": 3,
+    "answer": "dy/dx = 2 sin x cos x × cos x − sin²x sin x",
+    "working": "B1 d/dx sin²x = 2 sin x cos x\nM1 product rule\nA1 factorises"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point at which y is positive.",
+    "marks": 4,
+    "answer": "(tan⁻¹√2, 2√3/9)",
+    "working": "M1 tan²x = 2\nA1 x = tan⁻¹√2 (y > 0 needs cos x > 0)\nM1 sin x = √(2/3), cos x = 1/√3\nA1 y = (2/3)(1/√3) = 2√3/9"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.sin(x)**2*math.cos(x),math.atan(math.sqrt(2)))) < 1e-6 and abs(math.sin(math.atan(math.sqrt(2)))**2*math.cos(math.atan(math.sqrt(2))) - 2*math.sqrt(3)/9) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-029",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the derivative of y = (x² − 3)e⁻ˣ is −(x − 3)(x + 1)e⁻ˣ.",
+    "marks": 3,
+    "answer": "dy/dx = 2x e⁻ˣ − (x² − 3)e⁻ˣ = −(x² − 2x − 3)e⁻ˣ",
+    "working": "M1 product rule\nA1 correct\nA1 factorised"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the two stationary points and determine the nature of each.",
+    "marks": 4,
+    "answer": "(3, 6e⁻³) maximum; (−1, −2e) minimum",
+    "working": "A1 (3, 6e⁻³)\nA1 (−1, −2e)\nM1 sign of dy/dx: negative for x < −1, positive for −1 < x < 3, negative for x > 3\nA1 natures"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:(x*x-3)*math.exp(-x),3)) < 1e-6 and abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:(x*x-3)*math.exp(-x),-1)) < 1e-5 and abs((9-3)*math.exp(-3) - 6*math.exp(-3)) < 1e-12 and abs((1-3)*math.exp(1) + 2*math.e) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-030",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = e²ˣ − 6eˣ + 4x has two stationary points. Find their exact coordinates.",
+    "marks": 5,
+    "answer": "(0, −5) and (ln 2, 4 ln 2 − 8)",
+    "working": "B1 dy/dx = 2e²ˣ − 6eˣ + 4\nM1 2(eˣ − 1)(eˣ − 2) = 0\nA1 x = 0, x = ln 2\nA1 y = 1 − 6 = −5\nA1 y = 4 − 12 + 4 ln 2"
+   },
+   {
+    "label": "b",
+    "text": "Determine the nature of each stationary point.",
+    "marks": 2,
+    "answer": "(0, −5) maximum; (ln 2, 4 ln 2 − 8) minimum",
+    "working": "M1 d²y/dx² = 4e²ˣ − 6eˣ: −2 at x = 0, 4 at x = ln 2\nA1 both natures"
+   },
+   {
+    "label": "c",
+    "text": "Hence state the set of values of k for which the equation e²ˣ − 6eˣ + 4x = k has three real roots.",
+    "marks": 2,
+    "answer": "4 ln 2 − 8 < k < −5",
+    "working": "M1 y → −∞ as x → −∞, y → ∞ as x → ∞\nA1 between the minimum and maximum values"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.exp(2*x)-6*math.exp(x)+4*x,math.log(2))) < 1e-5 and abs(4-12+4*math.log(2) - (4*math.log(2)-8)) < 1e-12 and 4*math.log(2)-8 < -5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-031",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = x²eᵏˣ, where k is a non-zero constant, has a stationary point at x = 4 as well as at the origin. Find dy/dx and show that k = −½.",
+    "marks": 4,
+    "answer": "dy/dx = eᵏˣ(2x + kx²); 2(4) + 16k = 0 gives k = −½",
+    "working": "M1 product rule\nA1 eᵏˣ(2x + kx²)\nM1 x(2 + kx) = 0 with x = 4\nA1 k = −½"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact y-coordinate of this stationary point and show that it is a maximum.",
+    "marks": 3,
+    "answer": "y = 16e⁻², maximum",
+    "working": "B1 16e⁻²\nM1 sign of x(2 − ½x): positive for 0 < x < 4, negative for x > 4\nA1 maximum"
+   },
+   {
+    "label": "c",
+    "text": "State the range of values of y for x ≥ 0.",
+    "marks": 1,
+    "answer": "0 ≤ y ≤ 16e⁻²",
+    "working": "B1 (y → 0 as x → ∞)"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x*x*math.exp(-x/2),4)) < 1e-6 and abs(16*math.exp(-2) - 16/math.e**2) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-032",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points (product/chain/quotient)",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = cos 2x + 4 sin x is defined for 0 ≤ x ≤ 2π. Show that dy/dx = 4 cos x (1 − sin x).",
+    "marks": 3,
+    "answer": "dy/dx = −2 sin 2x + 4 cos x = −4 sin x cos x + 4 cos x",
+    "working": "B1 −2 sin 2x\nM1 uses sin 2x = 2 sin x cos x\nA1 factorises"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the stationary points.",
+    "marks": 3,
+    "answer": "(π/2, 3) and (3π/2, −5)",
+    "working": "M1 cos x = 0 or sin x = 1\nA1 x = π/2, 3π/2\nA1 y = −1 + 4 = 3 and y = −1 − 4 = −5"
+   },
+   {
+    "label": "c",
+    "text": "Show that d²y/dx² = 0 at x = π/2, and use another method to determine the nature of this stationary point.",
+    "marks": 3,
+    "answer": "d²y/dx² = −4 cos 2x − 4 sin x = 4 − 4 = 0; dy/dx > 0 just before π/2 and < 0 just after (1 − sin x ≥ 0, cos x changes from + to −), so maximum",
+    "working": "B1 d²y/dx² = 0 shown\nM1 sign of dy/dx either side\nA1 maximum"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.cos(2*x)+4*math.sin(x),math.pi/2)) < 1e-5 and abs(math.cos(math.pi)+4 - 3) < 1e-12 and abs(math.cos(3*math.pi)-4 + 5) < 1e-12 and abs(-4*math.cos(math.pi) - 4*math.sin(math.pi/2)) < 1e-12 and 4*math.cos(1.5)*(1-math.sin(1.5)) > 0 and 4*math.cos(1.6)*(1-math.sin(1.6)) < 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-033",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find dy/dx for y = (2x + 1)e⁻ˣ, simplifying your answer.",
+    "marks": 2,
+    "answer": "dy/dx = (1 − 2x)e⁻ˣ",
+    "working": "M1 product rule\nA1 2e⁻ˣ − (2x + 1)e⁻ˣ = (1 − 2x)e⁻ˣ"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point of the curve.",
+    "marks": 2,
+    "answer": "(½, 2e^(−½)) = (½, 2/√e)",
+    "working": "M1 x = ½\nA1 y = 2e^(−½)"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:(2*x+1)*math.exp(-x),0.5)) < 1e-6 and abs(2*math.exp(-0.5) - 2/math.sqrt(math.e)) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-034",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find dy/dx for the curve y = x ln(½x), x > 0.",
+    "marks": 2,
+    "answer": "dy/dx = ln(½x) + 1",
+    "working": "M1 product rule; d/dx ln(½x) = 1/x\nA1"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point.",
+    "marks": 3,
+    "answer": "(2/e, −2/e)",
+    "working": "M1 ln(½x) = −1\nA1 x = 2e⁻¹\nA1 y = (2/e)(−1) = −2/e"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x*math.log(x/2),2/math.e)) < 1e-6 and abs(2/math.e*math.log(1/math.e) + 2/math.e) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-035",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find dy/dx for the curve y = eˣ/x, x > 0.",
+    "marks": 2,
+    "answer": "dy/dx = eˣ(x − 1)/x²",
+    "working": "M1 quotient rule\nA1"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the stationary point and determine its nature.",
+    "marks": 3,
+    "answer": "(1, e), minimum",
+    "working": "B1 x = 1, y = e\nM1 dy/dx negative for 0 < x < 1, positive for x > 1\nA1 minimum"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.exp(x)/x,1)) < 1e-6 and (lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.exp(x)/x,0.5) < 0 and (lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.exp(x)/x,1.5) > 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-036",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = (x − 3)√x, x > 0. Show that dy/dx = (3x − 3)/(2√x).",
+    "marks": 3,
+    "answer": "dy/dx = √x + (x − 3)/(2√x) = (2x + x − 3)/(2√x)",
+    "working": "M1 product rule\nA1 correct derivative\nA1 combined to given form"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the stationary point.",
+    "marks": 2,
+    "answer": "(1, −2)",
+    "working": "M1 x = 1\nA1 y = −2"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:(x-3)*math.sqrt(x),1)) < 1e-6 and (1-3)*math.sqrt(1) == -2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-037",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = x + 2 cos x is defined for 0 ≤ x ≤ π. Find the exact coordinates of the two stationary points.",
+    "marks": 4,
+    "answer": "(π/6, π/6 + √3) and (5π/6, 5π/6 − √3)",
+    "working": "B1 dy/dx = 1 − 2 sin x\nM1 sin x = ½\nA1 x = π/6, 5π/6\nA1 both y-values"
+   },
+   {
+    "label": "b",
+    "text": "Use d²y/dx² to determine the nature of each stationary point.",
+    "marks": 2,
+    "answer": "d²y/dx² = −2 cos x: negative at π/6 (maximum), positive at 5π/6 (minimum)",
+    "working": "M1 −2 cos x\nA1 both"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x+2*math.cos(x),math.pi/6)) < 1e-6 and abs(math.pi/6+2*math.cos(math.pi/6) - (math.pi/6+math.sqrt(3))) < 1e-12 and abs(5*math.pi/6+2*math.cos(5*math.pi/6) - (5*math.pi/6-math.sqrt(3))) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-038",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the derivative of y = e²ˣ(x² − 2) is 2e²ˣ(x + 2)(x − 1).",
+    "marks": 3,
+    "answer": "dy/dx = 2e²ˣ(x² − 2) + 2x e²ˣ = 2e²ˣ(x² + x − 2)",
+    "working": "M1 product rule\nA1 correct\nA1 factorised"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary points.",
+    "marks": 3,
+    "answer": "(1, −e²) and (−2, 2e⁻⁴)",
+    "working": "A1 x = 1 and x = −2\nA1 (1, −e²)\nA1 (−2, 2e⁻⁴)"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.exp(2*x)*(x*x-2),1)) < 1e-5 and abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.exp(2*x)*(x*x-2),-2)) < 1e-6 and abs(math.exp(-4)*(4-2) - 2*math.exp(-4)) < 1e-15",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-039",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = tan x − 2x is defined for 0 < x < ½π. Find the exact coordinates of the stationary point.",
+    "marks": 4,
+    "answer": "(π/4, 1 − π/2)",
+    "working": "B1 dy/dx = sec²x − 2\nM1 cos²x = ½\nA1 x = π/4\nA1 y = 1 − π/2"
+   },
+   {
+    "label": "b",
+    "text": "Determine the nature of the stationary point.",
+    "marks": 2,
+    "answer": "Minimum (d²y/dx² = 2 sec²x tan x = 4 > 0)",
+    "working": "M1 d²y/dx² = 2 sec²x tan x\nA1 value 4 > 0, minimum"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.tan(x)-2*x,math.pi/4)) < 1e-6 and abs(math.tan(math.pi/4) - math.pi/2 - (1-math.pi/2)) < 1e-12 and abs(2/math.cos(math.pi/4)**2*math.tan(math.pi/4) - 4) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-040",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = (ln x)/√x, x > 0. Show that dy/dx = (2 − ln x)/(2x√x).",
+    "marks": 4,
+    "answer": "dy/dx = [√x × (1/x) − ln x × 1/(2√x)]/x = (2 − ln x)/(2x^(3/2))",
+    "working": "M1 quotient (or product) rule\nA1 correct unsimplified\nM1 multiply numerator and denominator by 2√x\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point.",
+    "marks": 2,
+    "answer": "(e², 2/e)",
+    "working": "M1 ln x = 2\nA1 y = 2/e"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.log(x)/math.sqrt(x),math.e**2)) < 1e-6 and abs(2/math.sqrt(math.e**2) - 2/math.e) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-041",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 2 ln x − x² + 2x, x > 0. Show that the x-coordinate of the stationary point satisfies x² − x − 1 = 0.",
+    "marks": 3,
+    "answer": "2/x − 2x + 2 = 0 → 2 − 2x² + 2x = 0",
+    "working": "B1 dy/dx = 2/x − 2x + 2\nM1 multiply by x\nA1 given equation"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point. Simplify the y-coordinate using the fact that x² = x + 1.",
+    "marks": 3,
+    "answer": "x = (1 + √5)/2, y = 2 ln((1 + √5)/2) + (√5 − 1)/2",
+    "working": "A1 x = (1 + √5)/2 (x > 0)\nM1 y = 2 ln x − (x + 1) + 2x = 2 ln x + x − 1\nA1 y as given"
+   },
+   {
+    "label": "c",
+    "text": "Determine the nature of the stationary point.",
+    "marks": 2,
+    "answer": "Maximum, since d²y/dx² = −2/x² − 2 < 0",
+    "working": "M1 d²y/dx²\nA1 negative → maximum"
+   }
+  ],
+  "check": "(lambda p: abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:2*math.log(x)-x*x+2*x,p)) < 1e-6 and abs(2*math.log(p)-p*p+2*p - (2*math.log(p) + (math.sqrt(5)-1)/2)) < 1e-12)((1+math.sqrt(5))/2)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-042",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = eˣ/(e²ˣ + 3). Show that dy/dx = eˣ(3 − e²ˣ)/(e²ˣ + 3)².",
+    "marks": 3,
+    "answer": "dy/dx = [eˣ(e²ˣ + 3) − eˣ × 2e²ˣ]/(e²ˣ + 3)²",
+    "working": "M1 quotient rule\nA1 correct\nA1 simplified to given form"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point.",
+    "marks": 3,
+    "answer": "(½ ln 3, √3/6)",
+    "working": "M1 e²ˣ = 3\nA1 x = ½ ln 3\nA1 y = √3/6"
+   },
+   {
+    "label": "c",
+    "text": "The curve has no other stationary points and y → 0 as x → ±∞, with y > 0 for all x. State the set of values of k for which the equation y = k has two distinct real roots.",
+    "marks": 2,
+    "answer": "0 < k < √3/6",
+    "working": "B1 upper limit √3/6 (the maximum)\nB1 lower limit 0, strict inequalities"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.exp(x)/(math.exp(2*x)+3),0.5*math.log(3))) < 1e-6 and abs(math.sqrt(3)/(3+3) - math.sqrt(3)/6) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-043",
+  "topic": "Differentiation",
+  "subtopic": "Product/quotient/chain rule & stationary points",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = x − ln(1 + x²). Show that dy/dx = (x − 1)²/(1 + x²).",
+    "marks": 3,
+    "answer": "dy/dx = 1 − 2x/(1 + x²) = (1 + x² − 2x)/(1 + x²)",
+    "working": "B1 d/dx ln(1 + x²) = 2x/(1 + x²)\nM1 common denominator\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Hence show that the curve has exactly one stationary point, find its exact coordinates, and explain why it is neither a maximum nor a minimum.",
+    "marks": 3,
+    "answer": "(1, 1 − ln 2); dy/dx ≥ 0 on both sides of x = 1, so it is a stationary point of inflection",
+    "working": "B1 (1, 1 − ln 2)\nM1 dy/dx does not change sign\nA1 neither maximum nor minimum"
+   },
+   {
+    "label": "c",
+    "text": "Explain why y is an increasing function of x for all x.",
+    "marks": 1,
+    "answer": "dy/dx ≥ 0 for all x and is zero only at a single point",
+    "working": "B1"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x-math.log(1+x*x),1)) < 1e-6 and (lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x-math.log(1+x*x),0.9) > 0 and (lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x-math.log(1+x*x),1.1) > 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-044",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = x³ − 2x² + 3. Find the equation of the tangent to the curve at the point where x = 2.",
+    "marks": 4,
+    "answer": "y = 4x − 5",
+    "working": "B1 y = 3 at x = 2\nM1 dy/dx = 3x² − 4x\nA1 gradient 4\nA1 y − 3 = 4(x − 2)"
+   }
+  ],
+  "check": "8-8+3 == 3 and abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x**3-2*x*x+3,2) - 4) < 1e-6 and 4*2-5 == 3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-045",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 6/x². Find the equation of the normal to the curve at the point (1, 6), giving your answer in the form ax + by + c = 0 where a, b and c are integers.",
+    "marks": 4,
+    "answer": "x − 12y + 71 = 0",
+    "working": "M1 dy/dx = −12x⁻³\nA1 gradient −12 at x = 1\nM1 normal gradient 1/12\nA1 y − 6 = (x − 1)/12 → x − 12y + 71 = 0"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:6/x**2,1) + 12) < 1e-5 and 1 - 12*6 + 71 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-046",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The point P(9, 12) lies on the curve y = 4√x. Find the equation of the normal to the curve at P.",
+    "marks": 4,
+    "answer": "3x + 2y = 51",
+    "working": "M1 dy/dx = 2x^(−½)\nA1 gradient ⅔ at x = 9\nM1 normal gradient −3/2\nA1 y − 12 = −3/2(x − 9) → 3x + 2y = 51"
+   },
+   {
+    "label": "b",
+    "text": "Find the x-coordinate of the point where the normal meets the x-axis.",
+    "marks": 1,
+    "answer": "17",
+    "working": "B1 3x = 51"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:4*math.sqrt(x),9) - 2/3) < 1e-6 and 3*9 + 2*12 == 51 and 3*17 == 51",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-047",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = (2x − 3)⁴. Find the equation of the tangent to the curve at the point where x = 2.",
+    "marks": 4,
+    "answer": "y = 8x − 15",
+    "working": "B1 y = 1\nM1 dy/dx = 4(2x − 3)³ × 2\nA1 gradient 8\nA1 y − 1 = 8(x − 2)"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the point where this tangent crosses the y-axis.",
+    "marks": 1,
+    "answer": "(0, −15)",
+    "working": "B1"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:(2*x-3)**4,2) - 8) < 1e-5 and 8*2 - 15 == 1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-048",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = x² − 5x + 8. Find the coordinates of the point on the curve at which the tangent is parallel to the line y = 3x − 1, and find the equation of this tangent.",
+    "marks": 4,
+    "answer": "(4, 4); y = 3x − 8",
+    "working": "M1 2x − 5 = 3\nA1 (4, 4)\nM1 y − 4 = 3(x − 4)\nA1 y = 3x − 8"
+   },
+   {
+    "label": "b",
+    "text": "The normal to the curve at this point meets the curve again at Q. Find the coordinates of Q.",
+    "marks": 4,
+    "answer": "(⅔, 46/9)",
+    "working": "B1 normal y = −x/3 + 16/3\nM1 x² − 5x + 8 = −x/3 + 16/3 → 3x² − 14x + 8 = 0\nA1 (3x − 2)(x − 4) = 0\nA1 Q(⅔, 46/9)"
+   }
+  ],
+  "check": "(lambda x: x*x - 5*x + 8 == -x/3 + Fraction(16,3) and x*x - 5*x + 8 == Fraction(46,9))(Fraction(2,3)) and 16-20+8 == 4 and 3*4-8 == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-049",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = ax² + b/x, where a and b are constants. The curve passes through (1, 5) and the gradient of the curve at this point is 4. Find the values of a and b.",
+    "marks": 4,
+    "answer": "a = 3, b = 2",
+    "working": "B1 a + b = 5\nB1 dy/dx = 2ax − b/x², so 2a − b = 4\nM1 solve\nA1 a = 3, b = 2"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the tangent to the curve at the point where x = 2, giving your answer in the form px + qy = r where p, q and r are integers.",
+    "marks": 3,
+    "answer": "23x − 2y = 20",
+    "working": "B1 y = 12 + 1 = 13\nB1 gradient 12 − ½ = 23/2\nA1 y − 13 = (23/2)(x − 2) → 23x − 2y = 20"
+   }
+  ],
+  "check": "3+2 == 5 and 2*3-2 == 4 and abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:3*x*x+2/x,2) - 11.5) < 1e-6 and 23*2 - 2*13 == 20",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-050",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 8/(x + 2). Find the equation of the normal to the curve at the point where x = 2.",
+    "marks": 4,
+    "answer": "y = 2x − 2",
+    "working": "B1 y = 2\nM1 dy/dx = −8(x + 2)⁻²\nA1 gradient −½, normal gradient 2\nA1 y − 2 = 2(x − 2)"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the other point where this normal meets the curve.",
+    "marks": 3,
+    "answer": "(−3, −8)",
+    "working": "M1 (2x − 2)(x + 2) = 8\nA1 x² + x − 6 = 0\nA1 (−3, −8)"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:8/(x+2),2) + 0.5) < 1e-6 and 8/(-3+2) == 2*(-3) - 2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-051",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = x³ − 3x + 1. Find the coordinates of the two points on the curve at which the gradient is 9.",
+    "marks": 3,
+    "answer": "(2, 3) and (−2, −1)",
+    "working": "M1 3x² − 3 = 9\nA1 x = ±2\nA1 both points"
+   },
+   {
+    "label": "b",
+    "text": "Find the equations of the tangents at these points, and find the distance between the points where these tangents cross the x-axis.",
+    "marks": 4,
+    "answer": "y = 9x − 15 and y = 9x + 17; distance 32/9",
+    "working": "A1 y = 9x − 15\nA1 y = 9x + 17\nM1 x-intercepts 15/9 and −17/9\nA1 32/9"
+   }
+  ],
+  "check": "8-6+1 == 3 and -8+6+1 == -1 and 9*2-15 == 3 and 9*(-2)+17 == -1 and Fraction(15,9) - Fraction(-17,9) == Fraction(32,9)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-052",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The normal to the curve y = ¼x² at the point P(2, 1) meets the curve again at Q. Find the coordinates of Q.",
+    "marks": 5,
+    "answer": "Q(−6, 9)",
+    "working": "M1 dy/dx = ½x = 1 at P\nA1 normal gradient −1, y = 3 − x\nM1 ¼x² = 3 − x\nA1 x² + 4x − 12 = 0\nA1 Q(−6, 9)"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact length of PQ.",
+    "marks": 2,
+    "answer": "8√2",
+    "working": "M1 √(8² + 8²)\nA1 8√2"
+   }
+  ],
+  "check": "(-6)**2/4 == 3 - (-6) and abs(math.sqrt(64+64) - 8*math.sqrt(2)) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-053",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve C has equation y = x³ − 6x² + 9x. The tangent to C at the origin O meets C again at the point A. Find the coordinates of A.",
+    "marks": 4,
+    "answer": "A(6, 54)",
+    "working": "B1 gradient at O is 9, tangent y = 9x\nM1 x³ − 6x² + 9x = 9x\nA1 x²(x − 6) = 0\nA1 A(6, 54)"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the normal to C at A, giving your answer in the form ax + by = c where a, b and c are integers.",
+    "marks": 3,
+    "answer": "x + 45y = 2436",
+    "working": "M1 gradient at A: 108 − 72 + 9 = 45\nA1 normal gradient −1/45\nA1 x + 45y = 6 + 2430 = 2436"
+   }
+  ],
+  "check": "216 - 216 + 54 == 54 and 3*36 - 12*6 + 9 == 45 and 6 + 45*54 == 2436",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-054",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "P is the point (p, 12/p), where p > 0, on the curve y = 12/x. Show that the tangent to the curve at P has equation y = −12x/p² + 24/p.",
+    "marks": 3,
+    "answer": "gradient −12/p²; y − 12/p = −12(x − p)/p²",
+    "working": "M1 dy/dx = −12x⁻²\nM1 line through P\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "The tangent at P meets the x-axis at A and the y-axis at B. Show that P is the midpoint of AB and that the area of triangle OAB is the same for every value of p, stating this area.",
+    "marks": 4,
+    "answer": "A(2p, 0), B(0, 24/p); midpoint (p, 12/p) = P; area ½ × 2p × 24/p = 24",
+    "working": "B1 A(2p, 0)\nB1 B(0, 24/p)\nB1 midpoint = P\nB1 area 24"
+   }
+  ],
+  "check": "(lambda p: -12*2*p/p**2 + 24/p == 0 and (2*p/2, 24/p/2) == (p, 12/p) and Fraction(1,2)*2*p*24/p == 24)(Fraction(7,3))",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-055",
+  "topic": "Differentiation",
+  "subtopic": "Tangents & normals",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The line y = kx − 16 is a tangent to the curve y = x³. Find the value of k and the coordinates of the point of contact.",
+    "marks": 5,
+    "answer": "k = 12, point (2, 8)",
+    "working": "M1 tangent at x = a: y = 3a²x − 2a³\nM1 2a³ = 16\nA1 a = 2\nA1 k = 12\nA1 (2, 8)"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the other point where this tangent meets the curve.",
+    "marks": 2,
+    "answer": "(−4, −64)",
+    "working": "M1 x³ − 12x + 16 = (x − 2)²(x + 4)\nA1 (−4, −64)"
+   }
+  ],
+  "check": "3*2**2 == 12 and 12*2 - 16 == 8 and (-4)**3 == 12*(-4) - 16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-056",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the coordinates of the stationary points of the curve y = 2x³ + 3x² − 12x + 5.",
+    "marks": 4,
+    "answer": "(1, −2) and (−2, 25)",
+    "working": "B1 dy/dx = 6x² + 6x − 12\nM1 6(x + 2)(x − 1) = 0\nA1 x = 1, −2\nA1 (1, −2), (−2, 25)"
+   },
+   {
+    "label": "b",
+    "text": "Determine the nature of each stationary point.",
+    "marks": 2,
+    "answer": "(1, −2) minimum; (−2, 25) maximum",
+    "working": "M1 d²y/dx² = 12x + 6: 18 > 0, −18 < 0\nA1 both"
+   }
+  ],
+  "check": "2+3-12+5 == -2 and -16+12+24+5 == 25 and 12*1+6 > 0 and 12*(-2)+6 < 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-057",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the coordinates of the three stationary points of the curve y = x⁴ − 8x², and determine the nature of each.",
+    "marks": 6,
+    "answer": "(0, 0) maximum; (2, −16) and (−2, −16) minima",
+    "working": "B1 dy/dx = 4x³ − 16x\nM1 4x(x² − 4) = 0\nA1 x = 0, ±2\nA1 coordinates\nM1 d²y/dx² = 12x² − 16: −16 at 0, 32 at ±2\nA1 natures"
+   }
+  ],
+  "check": "16 - 32 == -16 and 12*0 - 16 < 0 and 12*4 - 16 > 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-058",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 4x + 9/x, for x > 0. Find the coordinates of the stationary point.",
+    "marks": 3,
+    "answer": "(3/2, 12)",
+    "working": "B1 dy/dx = 4 − 9x⁻²\nM1 x² = 9/4\nA1 (3/2, 12)"
+   },
+   {
+    "label": "b",
+    "text": "Find d²y/dx² and hence determine the nature of the stationary point.",
+    "marks": 2,
+    "answer": "d²y/dx² = 18/x³ > 0: minimum",
+    "working": "B1 18x⁻³\nB1 minimum"
+   }
+  ],
+  "check": "4*Fraction(3,2) + 9/Fraction(3,2) == 12 and 4 - 9/Fraction(9,4) == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-059",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 6√x − x, for x > 0. Find the coordinates of the stationary point and determine its nature.",
+    "marks": 5,
+    "answer": "(9, 9), maximum",
+    "working": "B1 dy/dx = 3x^(−½) − 1\nM1 √x = 3\nA1 (9, 9)\nM1 d²y/dx² = −(3/2)x^(−3/2) < 0\nA1 maximum"
+   }
+  ],
+  "check": "6*3 - 9 == 9 and 3/math.sqrt(9) - 1 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-060",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = x³ + ax² + bx has a stationary point at (1, −4). Find the values of the constants a and b.",
+    "marks": 4,
+    "answer": "a = 2, b = −7",
+    "working": "B1 1 + a + b = −4\nB1 3 + 2a + b = 0\nM1 solve\nA1 a = 2, b = −7"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the other stationary point and determine the nature of each stationary point.",
+    "marks": 4,
+    "answer": "(−7/3, 392/27) maximum; (1, −4) minimum",
+    "working": "M1 3x² + 4x − 7 = (3x + 7)(x − 1)\nA1 x = −7/3, y = 392/27\nM1 d²y/dx² = 6x + 4\nA1 −10 < 0 at −7/3 (max), 10 > 0 at 1 (min)"
+   }
+  ],
+  "check": "(lambda x: x**3 + 2*x*x - 7*x == Fraction(392,27) and 3*x*x + 4*x - 7 == 0)(Fraction(-7,3)) and 1 + 2 - 7 == -4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-061",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 3x⁴ − 4x³ − 12x² + 1. Find the coordinates of the three stationary points.",
+    "marks": 4,
+    "answer": "(0, 1), (2, −31), (−1, −4)",
+    "working": "B1 dy/dx = 12x³ − 12x² − 24x\nM1 12x(x − 2)(x + 1) = 0\nA1 x-values\nA1 y-values"
+   },
+   {
+    "label": "b",
+    "text": "Determine the nature of each stationary point, and state the least value of y.",
+    "marks": 3,
+    "answer": "(0, 1) maximum; (2, −31) and (−1, −4) minima; least value −31",
+    "working": "M1 d²y/dx² = 36x² − 24x − 24: −24, 72, 36\nA1 natures\nB1 −31"
+   }
+  ],
+  "check": "3*16 - 32 - 48 + 1 == -31 and 3 + 4 - 12 + 1 == -4 and 36*4-48-24 > 0 and 36+24-24 > 0 and -24 < 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-062",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 2x^(3/2) − 6x + 5, for x > 0. Find the coordinates of the stationary point.",
+    "marks": 3,
+    "answer": "(4, −3)",
+    "working": "B1 dy/dx = 3x^(½) − 6\nM1 √x = 2\nA1 (4, −3)"
+   },
+   {
+    "label": "b",
+    "text": "Determine the nature of the stationary point.",
+    "marks": 2,
+    "answer": "Minimum (d²y/dx² = 3/(2√x) = ¾ > 0)",
+    "working": "M1 d²y/dx²\nA1 minimum"
+   }
+  ],
+  "check": "2*4**1.5 - 24 + 5 == -3 and 3*math.sqrt(4) - 6 == 0 and 3/(2*math.sqrt(4)) == 0.75",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-063",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A closed cylindrical tin used by a food company in Karachi has radius r cm and height h cm. Its volume is 250π cm³. Show that the total surface area A cm² is given by A = 2πr² + 500π/r.",
+    "marks": 2,
+    "answer": "πr²h = 250π → h = 250/r²; A = 2πr² + 2πrh = 2πr² + 500π/r",
+    "working": "M1 h in terms of r\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the value of r for which A is stationary, and find the corresponding value of h and of A (in terms of π).",
+    "marks": 4,
+    "answer": "r = 5, h = 10, A = 150π",
+    "working": "M1 dA/dr = 4πr − 500π/r²\nA1 r³ = 125, r = 5\nA1 h = 10\nA1 A = 150π"
+   },
+   {
+    "label": "c",
+    "text": "Determine whether this value of A is a maximum or a minimum.",
+    "marks": 2,
+    "answer": "Minimum (d²A/dr² = 4π + 1000π/r³ > 0)",
+    "working": "M1 second derivative\nA1 minimum"
+   }
+  ],
+  "check": "250/25 == 10 and 2*25 + 500/5 == 150 and 4*5 - 500/25 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-064",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A solid cylinder of height h cm is made to fit exactly inside a hollow sphere of radius 6 cm, so that the edges of both circular ends of the cylinder touch the sphere. Show that the volume V cm³ of the cylinder is given by V = π(36h − ¼h³).",
+    "marks": 3,
+    "answer": "r² + (½h)² = 36, so V = πr²h = π(36 − ¼h²)h",
+    "working": "M1 Pythagoras from the centre of the sphere\nA1 r² = 36 − ¼h²\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of h for which V is stationary, and find this value of V correct to 1 decimal place.",
+    "marks": 4,
+    "answer": "h = 4√3; V = 96√3π = 522.4",
+    "working": "M1 dV/dh = π(36 − ¾h²)\nA1 h² = 48, h = 4√3\nM1 substitute\nA1 V = 522.4"
+   },
+   {
+    "label": "c",
+    "text": "Show that this value of V is a maximum.",
+    "marks": 2,
+    "answer": "d²V/dh² = −(3/2)πh < 0",
+    "working": "M1\nA1"
+   }
+  ],
+  "check": "abs(math.pi*(36*4*math.sqrt(3) - (4*math.sqrt(3))**3/4) - 96*math.sqrt(3)*math.pi) < 1e-9 and round(96*math.sqrt(3)*math.pi, 1) == 522.4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-065",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A window has the shape of a rectangle of width 2r m and height h m with a semicircle of radius r m on top. The total perimeter of the window is 6 m. Show that the area A m² of the window is given by A = 6r − 2r² − ½πr².",
+    "marks": 3,
+    "answer": "2h + 2r + πr = 6; A = 2rh + ½πr² = r(6 − 2r − πr) + ½πr²",
+    "working": "M1 perimeter equation\nM1 area expression\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of r for which A is stationary, and show that the corresponding area is 18/(4 + π) m².",
+    "marks": 4,
+    "answer": "r = 6/(4 + π); A = 18/(4 + π) ≈ 2.52",
+    "working": "M1 dA/dr = 6 − 4r − πr\nA1 r = 6/(4 + π)\nM1 substitute: A = 6r − ½(4 + π)r²\nA1 18/(4 + π)"
+   },
+   {
+    "label": "c",
+    "text": "Determine whether this area is a maximum or a minimum.",
+    "marks": 1,
+    "answer": "Maximum (d²A/dr² = −4 − π < 0)",
+    "working": "B1"
+   }
+  ],
+  "check": "(lambda r: abs(6*r - 2*r*r - math.pi*r*r/2 - 18/(4+math.pi)) < 1e-12 and abs(6 - 4*r - math.pi*r) < 1e-12)(6/(4+math.pi))",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-066",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = x³ − 3kx + 2, where k is a positive constant, has two stationary points. Find their x-coordinates in terms of k and show that the minimum value of y is 2 − 2k^(3/2).",
+    "marks": 4,
+    "answer": "x = ±√k; minimum at x = √k, y = k^(3/2) − 3k^(3/2) + 2 = 2 − 2k^(3/2)",
+    "working": "M1 3x² − 3k = 0\nA1 x = ±√k\nB1 minimum at x = √k (d²y/dx² = 6x > 0)\nA1 given value"
+   },
+   {
+    "label": "b",
+    "text": "Find the value of k for which the minimum value of y is 0, and find the maximum value of y in this case.",
+    "marks": 2,
+    "answer": "k = 1; maximum 4",
+    "working": "B1 k = 1\nB1 y(−1) = −1 + 3 + 2 = 4"
+   },
+   {
+    "label": "c",
+    "text": "Find the set of values of k for which the equation x³ − 3kx + 2 = 0 has three distinct real roots.",
+    "marks": 2,
+    "answer": "k > 1",
+    "working": "M1 need minimum < 0 (maximum 2 + 2k^(3/2) is always > 0)\nA1 k > 1"
+   }
+  ],
+  "check": "(lambda k: k**1.5 - 3*k*math.sqrt(k) + 2 == 2 - 2*k**1.5)(4) and 1 - 3 + 2 == 0 and -1 + 3 + 2 == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-067",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points & nature",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = x + 4/(x − 1), for x ≠ 1. Find the coordinates of the two stationary points.",
+    "marks": 4,
+    "answer": "(3, 5) and (−1, −3)",
+    "working": "B1 dy/dx = 1 − 4(x − 1)⁻²\nM1 (x − 1)² = 4\nA1 x = 3, −1\nA1 (3, 5), (−1, −3)"
+   },
+   {
+    "label": "b",
+    "text": "Use the second derivative to determine the nature of each point.",
+    "marks": 2,
+    "answer": "(3, 5) minimum; (−1, −3) maximum",
+    "working": "M1 d²y/dx² = 8(x − 1)⁻³: 1 at x = 3, −1 at x = −1\nA1 both"
+   },
+   {
+    "label": "c",
+    "text": "Explain how the maximum value can be less than the minimum value.",
+    "marks": 1,
+    "answer": "The curve is in two separate branches either side of the asymptote x = 1; the maximum is on the left branch and the minimum on the right",
+    "working": "B1 reference to the discontinuity at x = 1"
+   }
+  ],
+  "check": "3 + 4/2 == 5 and -1 + 4/(-2) == -3 and 8/2**3 == 1 and 8/(-2)**3 == -1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-068",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A stone is dropped into a still pond and a circular ripple spreads out. The radius of the ripple increases at a constant rate of 3 cm per second. Find the rate at which the area enclosed by the ripple is increasing when the radius is 10 cm. Give your answer in terms of π.",
+    "marks": 3,
+    "answer": "60π cm² per second",
+    "working": "B1 dA/dr = 2πr\nM1 dA/dt = 2π × 10 × 3\nA1 60π"
+   }
+  ],
+  "check": "2*10*3 == 60",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-069",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A spherical balloon is being inflated so that its volume increases at a rate of 50 cm³ per second. Find the rate at which the radius is increasing when the radius is 5 cm. Give your answer correct to 3 significant figures. [The volume of a sphere is V = (4/3)πr³.]",
+    "marks": 3,
+    "answer": "0.159 cm per second",
+    "working": "B1 dV/dr = 4πr² = 100π\nM1 dr/dt = 50 ÷ 100π\nA1 1/(2π) = 0.159"
+   }
+  ],
+  "check": "round(50/(4*math.pi*25), 3) == 0.159",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-070",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A cube of ice is melting so that the length of each edge decreases at a rate of 0.2 cm per minute. Find the rate of change of the volume of the cube at the instant when each edge is 4 cm long.",
+    "marks": 3,
+    "answer": "−9.6 cm³ per minute (volume decreasing at 9.6 cm³ per minute)",
+    "working": "B1 dV/dx = 3x² = 48\nM1 dV/dt = 48 × (−0.2)\nA1 −9.6"
+   }
+  ],
+  "check": "abs(3*16*(-0.2) + 9.6) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-071",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A point moves along the curve y = x³ + 2x in such a way that its x-coordinate increases at a constant rate of 0.5 units per second. Find the rate of increase of the y-coordinate when x = 2.",
+    "marks": 3,
+    "answer": "7 units per second",
+    "working": "B1 dy/dx = 3x² + 2 = 14\nM1 dy/dt = 14 × 0.5\nA1 7"
+   }
+  ],
+  "check": "(3*4+2)*0.5 == 7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-072",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The variables x and y are related by y = 10/√x, for x > 0. The value of x is decreasing at a rate of 0.3 units per second. Find the rate of change of y when x = 4, and state whether y is increasing or decreasing.",
+    "marks": 4,
+    "answer": "dy/dt = 0.1875: y is increasing at 0.1875 units per second",
+    "working": "B1 dy/dx = −5x^(−3/2)\nB1 −5/8 at x = 4\nM1 (−5/8) × (−0.3)\nA1 0.1875, increasing"
+   }
+  ],
+  "check": "abs(-5*4**-1.5*(-0.3) - 0.1875) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-073",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "An oil spill in the sea spreads as a circle. The area of the circle increases at a constant rate of 2 km² per hour. Find the rate at which the radius is increasing at the instant when the area is 50 km². Give your answer correct to 3 significant figures.",
+    "marks": 4,
+    "answer": "0.0798 km per hour",
+    "working": "M1 r = √(50/π) = 3.989…\nB1 dA/dr = 2πr\nM1 dr/dt = 2 ÷ (2πr)\nA1 0.0798"
+   }
+  ],
+  "check": "round(2/(2*math.pi*math.sqrt(50/math.pi)), 4) == 0.0798",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-074",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hemispherical bowl has radius 10 cm. When the depth of water in the bowl is h cm, the volume of water is V = (π/3)h²(30 − h) cm³. Water is poured into the bowl at a constant rate of 20 cm³ per second. Find dV/dh.",
+    "marks": 2,
+    "answer": "dV/dh = π(20h − h²)",
+    "working": "M1 V = (π/3)(30h² − h³)\nA1 π(20h − h²)"
+   },
+   {
+    "label": "b",
+    "text": "Find the rate at which the depth is increasing when h = 4. Give your answer correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "0.0995 cm per second",
+    "working": "B1 dV/dh = 64π at h = 4\nM1 dh/dt = 20 ÷ 64π\nA1 0.0995"
+   }
+  ],
+  "check": "20*4 - 16 == 64 and round(20/(64*math.pi), 4) == 0.0995",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-075",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A spherical mothball evaporates so that its surface area decreases at a constant rate of 0.6 mm² per day. Show that dV/dt = ½r × dS/dt, where V mm³ is the volume, S mm² is the surface area and r mm is the radius. [V = (4/3)πr³, S = 4πr².]",
+    "marks": 3,
+    "answer": "dV/dt = 4πr² dr/dt and dS/dt = 8πr dr/dt, so dV/dt = (4πr²/8πr) dS/dt = ½r dS/dt",
+    "working": "B1 dV/dr = 4πr²\nB1 dS/dr = 8πr\nA1 given result"
+   },
+   {
+    "label": "b",
+    "text": "Find the rate of change of the volume at the instant when r = 4.",
+    "marks": 2,
+    "answer": "−1.2 mm³ per day",
+    "working": "M1 ½ × 4 × (−0.6)\nA1 −1.2"
+   }
+  ],
+  "check": "abs(0.5*4*(-0.6) + 1.2) < 1e-12 and abs(4*math.pi*16*(-0.6/(8*math.pi*4)) + 1.2) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-076",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A particle moves along the curve y = √(2x + 1). At the instant when the particle is at the point (4, 3), its y-coordinate is increasing at 0.6 units per second. Find the rate of increase of its x-coordinate at this instant.",
+    "marks": 4,
+    "answer": "1.8 units per second",
+    "working": "M1 dy/dx = (2x + 1)^(−½)\nA1 ⅓ at x = 4\nM1 dx/dt = 0.6 ÷ ⅓\nA1 1.8"
+   }
+  ],
+  "check": "abs(0.6/(1/math.sqrt(9)) - 1.8) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-077",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A water tank is in the shape of an inverted cone of height 3 m and top radius 1.2 m. When the depth of water is h m, the radius of the water surface is r m. Show that r = 0.4h and that the volume of water is V = (0.16/3)πh³ m³.",
+    "marks": 2,
+    "answer": "Similar triangles r/h = 1.2/3; V = ⅓π(0.4h)²h",
+    "working": "B1 r = 0.4h\nB1 V given"
+   },
+   {
+    "label": "b",
+    "text": "Water flows in at 0.02 m³ per minute. Find the rate at which the depth is increasing when h = 1.5, correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "0.0177 m per minute",
+    "working": "B1 dV/dh = 0.16πh² = 0.36π\nM1 0.02 ÷ 0.36π\nA1 0.0177"
+   },
+   {
+    "label": "c",
+    "text": "Find the rate at which the area of the water surface is increasing at this instant, giving your answer as an exact fraction.",
+    "marks": 3,
+    "answer": "2/75 m² per minute",
+    "working": "M1 A = πr² = 0.16πh², dA/dh = 0.32πh\nM1 dA/dt = 0.32π × 1.5 × 0.02/(0.36π)\nA1 2/75"
+   }
+  ],
+  "check": "round(0.02/(0.16*math.pi*2.25), 4) == 0.0177 and abs(0.32*math.pi*1.5*0.02/(0.36*math.pi) - 2/75) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-078",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A rectangle has one vertex at the origin O, one on the positive x-axis, one on the positive y-axis and the fourth vertex P(x, y) on the curve y = 12 − x², where 0 < x < √12. Show that the area A of the rectangle is A = 12x − x³.",
+    "marks": 1,
+    "answer": "A = xy = x(12 − x²)",
+    "working": "B1"
+   },
+   {
+    "label": "b",
+    "text": "P moves along the curve so that x increases at a constant rate of 0.2 units per second. Find the rate of change of A when x = 3, and state what this tells you.",
+    "marks": 3,
+    "answer": "dA/dt = −3: the area is decreasing at 3 square units per second",
+    "working": "M1 dA/dx = 12 − 3x²\nM1 (12 − 27) × 0.2\nA1 −3, decreasing"
+   },
+   {
+    "label": "c",
+    "text": "Find the value of x at the instant when A is momentarily neither increasing nor decreasing, and the area at that instant.",
+    "marks": 2,
+    "answer": "x = 2, A = 16",
+    "working": "M1 12 − 3x² = 0\nA1 x = 2, A = 16"
+   }
+  ],
+  "check": "abs((12-27)*0.2 + 3) < 1e-12 and 12 - 3*4 == 0 and 24 - 8 == 16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-079",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The surface area of a cube is increasing at a constant rate of 6 cm² per second. Show that, at any instant, dV/dt = ¼x × dS/dt, where x cm is the edge length, V cm³ the volume and S cm² the surface area.",
+    "marks": 3,
+    "answer": "dS/dt = 12x dx/dt, dV/dt = 3x² dx/dt, so dV/dt = (3x²/12x) dS/dt = ¼x dS/dt",
+    "working": "B1 dS/dx = 12x\nB1 dV/dx = 3x²\nA1 given result"
+   },
+   {
+    "label": "b",
+    "text": "Find the rate of increase of the volume at the instant when the volume is 64 cm³.",
+    "marks": 2,
+    "answer": "6 cm³ per second",
+    "working": "M1 x = 4\nA1 ¼ × 4 × 6 = 6"
+   },
+   {
+    "label": "c",
+    "text": "Find the edge length at the instant when the volume is increasing at 9 cm³ per second.",
+    "marks": 1,
+    "answer": "6 cm",
+    "working": "B1 ¼x × 6 = 9 → x = 6"
+   }
+  ],
+  "check": "0.25*4*6 == 6 and 0.25*6*6 == 9 and 3*16*(6/(12*4)) == 6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-080",
+  "topic": "Differentiation",
+  "subtopic": "Rates of change",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A spherical balloon is deflating so that its volume decreases at a constant rate of 30 cm³ per second. Find the rate of decrease of its surface area at the instant when the radius is 6 cm. [V = (4/3)πr³, S = 4πr².]",
+    "marks": 4,
+    "answer": "10 cm² per second",
+    "working": "M1 dr/dt = −30/(4πr²) = −30/(144π)\nM1 dS/dt = 8πr dr/dt\nM1 = 48π × (−30)/(144π)\nA1 decreasing at 10 cm² per second"
+   },
+   {
+    "label": "b",
+    "text": "Show that dS/dt = −60/r, and hence find the radius at the instant when the surface area is decreasing at 15 cm² per second.",
+    "marks": 3,
+    "answer": "dS/dt = 8πr × (−30/4πr²) = −60/r; r = 4 cm",
+    "working": "M1 general expression\nA1 −60/r\nA1 r = 4"
+   }
+  ],
+  "check": "abs(48*math.pi*(-30)/(144*math.pi) + 10) < 1e-12 and -60/6 == -10 and -60/4 == -15",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-081",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = 2x³ − 9x² + 12x − 3 for all real x. Find the set of values of x for which f is increasing.",
+    "marks": 4,
+    "answer": "x < 1 or x > 2",
+    "working": "B1 f′(x) = 6x² − 18x + 12\nM1 6(x − 1)(x − 2) > 0\nA1 critical values 1 and 2\nA1 x < 1, x > 2"
+   }
+  ],
+  "check": "6*1 - 18 + 12 == 0 and 6*4 - 36 + 12 == 0 and 6*0 - 0 + 12 > 0 and 6*2.25 - 27 + 12 < 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-082",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = x³ + 3x − 5 for all real x. Show that f is an increasing function.",
+    "marks": 2,
+    "answer": "f′(x) = 3x² + 3, and 3x² ≥ 0 so f′(x) ≥ 3 > 0 for all x",
+    "working": "B1 derivative\nB1 reason"
+   },
+   {
+    "label": "b",
+    "text": "Hence explain why the equation x³ + 3x − 5 = 0 has exactly one real root.",
+    "marks": 2,
+    "answer": "f is increasing, so it can cross the x-axis at most once; f(1) = −1 < 0 and f(2) = 9 > 0, so it does cross once",
+    "working": "B1 at most once\nB1 sign change shown"
+   }
+  ],
+  "check": "1 + 3 - 5 == -1 and 8 + 6 - 5 == 9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-083",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = 1/(2x − 1) for x > ½. Find f′(x) and determine whether f is increasing or decreasing.",
+    "marks": 3,
+    "answer": "f′(x) = −2/(2x − 1)², which is negative for all x > ½, so f is decreasing",
+    "working": "M1 chain rule\nA1 −2(2x − 1)⁻²\nA1 decreasing with reason"
+   }
+  ],
+  "check": "(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:1/(2*x-1), 1.5) < 0 and abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:1/(2*x-1), 1.5) + 2/4) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-084",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = x² − 6x + 1 for x ≥ k. Given that f is an increasing function, find the least possible value of k.",
+    "marks": 2,
+    "answer": "k = 3",
+    "working": "M1 f′(x) = 2x − 6 ≥ 0\nA1 x ≥ 3, least k = 3"
+   },
+   {
+    "label": "b",
+    "text": "For this least value of k, state the range of f.",
+    "marks": 1,
+    "answer": "f(x) ≥ −8",
+    "working": "B1 f(3) = −8"
+   }
+  ],
+  "check": "2*3 - 6 == 0 and 9 - 18 + 1 == -8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-085",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = 12x − x³ for all real x. Find the set of values of x for which f is decreasing.",
+    "marks": 3,
+    "answer": "x < −2 or x > 2",
+    "working": "B1 f′(x) = 12 − 3x²\nM1 12 − 3x² < 0 → x² > 4\nA1 x < −2 or x > 2"
+   }
+  ],
+  "check": "12 - 3*9 < 0 and 12 - 0 > 0 and 12 - 3*4 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-086",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = (2x − 5)³ + 6x for all real x. Find f′(x) and show that f is an increasing function.",
+    "marks": 3,
+    "answer": "f′(x) = 6(2x − 5)² + 6 > 0 for all x",
+    "working": "M1 chain rule 3(2x − 5)² × 2\nA1 f′(x)\nA1 (2x − 5)² ≥ 0 so f′(x) ≥ 6 > 0"
+   },
+   {
+    "label": "b",
+    "text": "State, with a reason, whether f has an inverse function.",
+    "marks": 1,
+    "answer": "Yes: an increasing function is one-one",
+    "working": "B1"
+   }
+  ],
+  "check": "(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:(2*x-5)**3+6*x, 2.5) > 5.99",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-087",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = x + 9/x for x > 0. Find the set of values of x for which f is decreasing.",
+    "marks": 3,
+    "answer": "0 < x < 3",
+    "working": "B1 f′(x) = 1 − 9/x²\nM1 1 − 9/x² < 0 → x² < 9\nA1 0 < x < 3"
+   },
+   {
+    "label": "b",
+    "text": "The function g is defined by g(x) = x + 9/x for x ≥ k. Given that g has an inverse, find the least possible value of k and state the range of g for this k.",
+    "marks": 3,
+    "answer": "k = 3; g(x) ≥ 6",
+    "working": "M1 g must be one-one, so increasing\nA1 k = 3\nB1 g(3) = 6, range g(x) ≥ 6"
+   }
+  ],
+  "check": "1 - 9/9 == 0 and 3 + 9/3 == 6 and 1 - 9/4 < 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-088",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = x^(3/2) − 6x^(½) for x > 0. Show that f′(x) = (3x − 6)/(2√x).",
+    "marks": 3,
+    "answer": "f′(x) = (3/2)x^(½) − 3x^(−½) = (3x − 6)/(2√x)",
+    "working": "B1 (3/2)x^(½)\nB1 −3x^(−½)\nA1 combined"
+   },
+   {
+    "label": "b",
+    "text": "Find the set of values of x for which f is decreasing, and the set for which f is increasing.",
+    "marks": 2,
+    "answer": "Decreasing for 0 < x < 2; increasing for x > 2",
+    "working": "M1 sign of 3x − 6 (denominator positive)\nA1 both"
+   }
+  ],
+  "check": "(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x**1.5-6*math.sqrt(x), 2) < 1e-6 and abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x**1.5-6*math.sqrt(x), 4) - 6/4) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-089",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = x³ − 3px² + 12x for all real x, where p is a constant. Find the set of values of p for which f is an increasing function.",
+    "marks": 4,
+    "answer": "−2 ≤ p ≤ 2",
+    "working": "B1 f′(x) = 3x² − 6px + 12\nM1 need f′(x) ≥ 0 for all x: discriminant ≤ 0\nM1 36p² − 144 ≤ 0\nA1 −2 ≤ p ≤ 2"
+   },
+   {
+    "label": "b",
+    "text": "For the case p = 2.5, find the set of values of x for which f is decreasing.",
+    "marks": 2,
+    "answer": "1 < x < 4",
+    "working": "M1 3x² − 15x + 12 = 3(x − 1)(x − 4) < 0\nA1 1 < x < 4"
+   }
+  ],
+  "check": "36*4 - 144 == 0 and 3 - 15 + 12 == 0 and 3*16 - 60 + 12 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-090",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = x − 2√(x + 3) for x ≥ −3. Find the set of values of x for which f is increasing.",
+    "marks": 3,
+    "answer": "x > −2",
+    "working": "B1 f′(x) = 1 − (x + 3)^(−½)\nM1 √(x + 3) > 1\nA1 x > −2"
+   },
+   {
+    "label": "b",
+    "text": "The function g is defined by g(x) = x − 2√(x + 3) for x ≥ −2. Find an expression for g⁻¹(x) and state its domain.",
+    "marks": 4,
+    "answer": "g⁻¹(x) = (1 + √(x + 4))² − 3, for x ≥ −4",
+    "working": "M1 let u = √(x + 3): y = u² − 2u − 3 = (u − 1)² − 4\nM1 u = 1 + √(y + 4) (u ≥ 1)\nA1 g⁻¹(x) = (1 + √(x + 4))² − 3\nB1 domain x ≥ g(−2) = −4"
+   }
+  ],
+  "check": "(lambda y: abs(((1+math.sqrt(y+4))**2 - 3) - 2*math.sqrt((1+math.sqrt(y+4))**2) - y) < 1e-12)(5.3) and -2 - 2*math.sqrt(1) == -4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-091",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = x⁴ − 4x³ + 4x² for all real x. Find the set of values of x for which f is increasing.",
+    "marks": 4,
+    "answer": "0 < x < 1 or x > 2",
+    "working": "B1 f′(x) = 4x³ − 12x² + 8x\nM1 4x(x − 1)(x − 2)\nA1 critical values 0, 1, 2\nA1 0 < x < 1, x > 2"
+   },
+   {
+    "label": "b",
+    "text": "The function g is defined by g(x) = x⁴ − 4x³ + 4x² for x ≥ k. Find the least value of k for which g has an inverse, and state the range of g.",
+    "marks": 2,
+    "answer": "k = 2; g(x) ≥ 0",
+    "working": "B1 k = 2\nB1 g(2) = 16 − 32 + 16 = 0"
+   }
+  ],
+  "check": "16 - 32 + 16 == 0 and 4*0.125 - 12*0.25 + 4 > 0 and 4*3.375 - 12*2.25 + 12 < 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-092",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = 2x + 18/(x − 1) for x > 1. Find the set of values of x for which f is decreasing.",
+    "marks": 3,
+    "answer": "1 < x < 4",
+    "working": "B1 f′(x) = 2 − 18(x − 1)⁻²\nM1 (x − 1)² < 9\nA1 1 < x < 4"
+   },
+   {
+    "label": "b",
+    "text": "The function g is defined by g(x) = 2x + 18/(x − 1) for x > 4. State the range of g and find an expression for g⁻¹(x).",
+    "marks": 5,
+    "answer": "g(x) > 14; g⁻¹(x) = [x + 2 + √((x − 14)(x + 10))]/4",
+    "working": "B1 range g(x) > 14\nM1 y(x − 1) = 2x(x − 1) + 18 → 2x² − (y + 2)x + (y + 18) = 0\nM1 quadratic formula, discriminant (y + 2)² − 8(y + 18) = y² − 4y − 140\nA1 positive root chosen (x > 4)\nA1 g⁻¹(x) = [x + 2 + √(x² − 4x − 140)]/4"
+   }
+  ],
+  "check": "(lambda y: abs((lambda x: 2*x + 18/(x-1))((y + 2 + math.sqrt((y-14)*(y+10)))/4) - y) < 1e-9)(20.5) and 2*4 + 18/3 == 14",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-093",
+  "topic": "Differentiation",
+  "subtopic": "Increasing / decreasing",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = x³ + bx² + cx for all real x, where b and c are constants. f is decreasing only for −1 < x < 3. Find the values of b and c.",
+    "marks": 4,
+    "answer": "b = −3, c = −9",
+    "working": "M1 f′(x) = 3x² + 2bx + c = 3(x + 1)(x − 3)\nA1 3x² − 6x − 9\nA1 b = −3\nA1 c = −9"
+   },
+   {
+    "label": "b",
+    "text": "Find the difference between the greatest and least values of f(x) for −1 ≤ x ≤ 3.",
+    "marks": 2,
+    "answer": "32",
+    "working": "M1 f(−1) = −1 − 3 + 9 = 5, f(3) = 27 − 27 − 27 = −27\nA1 5 − (−27) = 32"
+   }
+  ],
+  "check": "(lambda f: f(-1) - f(3) == 32)(lambda x: x**3 - 3*x*x - 9*x) and 3*1 + 6 - 9 == 0 and 27 - 18 - 9 == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-094",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find dy/dx for y = 3 sin 2x − cos 4x.",
+    "marks": 2,
+    "answer": "dy/dx = 6 cos 2x + 4 sin 4x",
+    "working": "B1 6 cos 2x\nB1 + 4 sin 4x"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact gradient of the curve at the point where x = π/8.",
+    "marks": 2,
+    "answer": "3√2 + 4",
+    "working": "M1 6 cos(π/4) + 4 sin(π/2)\nA1 3√2 + 4"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:3*math.sin(2*x)-math.cos(4*x),math.pi/8) - (3*math.sqrt(2)+4)) < 1e-5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-095",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the gradient of the curve y = tan 3x at the point where x = π/12.",
+    "marks": 3,
+    "answer": "6",
+    "working": "M1 dy/dx = 3 sec²3x\nM1 sec²(π/4) = 2\nA1 6"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.tan(3*x),math.pi/12) - 6) < 1e-5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-096",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that y = sec 2x, find dy/dx.",
+    "marks": 2,
+    "answer": "dy/dx = 2 sec 2x tan 2x",
+    "working": "M1 d/dx sec u = sec u tan u\nA1 × 2"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of dy/dx when x = π/8.",
+    "marks": 2,
+    "answer": "2√2",
+    "working": "M1 sec(π/4) = √2, tan(π/4) = 1\nA1 2√2"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:1/math.cos(2*x),math.pi/8) - 2*math.sqrt(2)) < 1e-5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-097",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find f′(x) where f(x) = x² cos x.",
+    "marks": 2,
+    "answer": "f′(x) = 2x cos x − x² sin x",
+    "working": "M1 product rule\nA1"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of f′(π).",
+    "marks": 1,
+    "answer": "−2π",
+    "working": "B1"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x*x*math.cos(x),math.pi) + 2*math.pi) < 1e-5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-098",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find dy/dx for y = sin³x.",
+    "marks": 2,
+    "answer": "dy/dx = 3 sin²x cos x",
+    "working": "M1 chain rule\nA1"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact gradient of the curve y = sin³x at the point where x = π/6.",
+    "marks": 2,
+    "answer": "3√3/8",
+    "working": "M1 3 × ¼ × √3/2\nA1 3√3/8"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.sin(x)**3,math.pi/6) - 3*math.sqrt(3)/8) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-099",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "By writing cosec x as 1/sin x, show that d/dx (cosec x) = −cosec x cot x.",
+    "marks": 2,
+    "answer": "d/dx (sin x)⁻¹ = −cos x/sin²x = −(1/sin x)(cos x/sin x)",
+    "working": "M1 chain or quotient rule\nA1 given result"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the tangent to the curve y = cosec x at the point where x = π/6, giving your answer in the form y = mx + c with m and c exact.",
+    "marks": 3,
+    "answer": "y = −2√3x + 2 + √3π/3",
+    "working": "B1 y = 2\nB1 gradient −2 × √3 = −2√3\nA1 c = 2 + 2√3 × π/6 = 2 + √3π/3"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:1/math.sin(x),math.pi/6) + 2*math.sqrt(3)) < 1e-5 and abs(-2*math.sqrt(3)*math.pi/6 + 2 + math.sqrt(3)*math.pi/3 - 2) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-100",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that d/dx (ln tan x) = 2 cosec 2x, for 0 < x < ½π.",
+    "marks": 3,
+    "answer": "sec²x/tan x = 1/(sin x cos x) = 2/sin 2x",
+    "working": "M1 chain rule sec²x/tan x\nM1 simplify to 1/(sin x cos x)\nA1 uses sin 2x = 2 sin x cos x"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact values of x in the interval 0 < x < ½π for which the gradient of y = ln tan x is 4.",
+    "marks": 3,
+    "answer": "x = π/12 and x = 5π/12",
+    "working": "M1 sin 2x = ½\nA1 π/12\nA1 5π/12"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.log(math.tan(x)),math.pi/12) - 4) < 1e-5 and abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.log(math.tan(x)),5*math.pi/12) - 4) < 1e-5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-101",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = e²ˣ cos x is defined for 0 ≤ x ≤ ½π. Show that dy/dx = e²ˣ(2 cos x − sin x).",
+    "marks": 2,
+    "answer": "Product rule: 2e²ˣ cos x − e²ˣ sin x",
+    "working": "M1 product rule\nA1"
+   },
+   {
+    "label": "b",
+    "text": "Find the x-coordinate of the stationary point, correct to 3 significant figures, and find the y-coordinate correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "x = 1.11, y = 4.09",
+    "working": "M1 tan x = 2\nA1 x = 1.11\nA1 y = e^(2.2143) × (1/√5) = 4.09"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.exp(2*x)*math.cos(x),math.atan(2))) < 1e-5 and round(math.atan(2),2) == 1.11 and round(math.exp(2*math.atan(2))*math.cos(math.atan(2)), 2) == 4.09",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-102",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that d/dx [sin x/(1 + cos x)] = 1/(1 + cos x).",
+    "marks": 4,
+    "answer": "[cos x(1 + cos x) + sin²x]/(1 + cos x)² = (1 + cos x)/(1 + cos x)²",
+    "working": "M1 quotient rule\nA1 correct numerator\nM1 cos²x + sin²x = 1\nA1 given result"
+   },
+   {
+    "label": "b",
+    "text": "Hence find the exact gradient of the curve y = sin x/(1 + cos x) at the point where x = π/3.",
+    "marks": 1,
+    "answer": "⅔",
+    "working": "B1 1/(1 + ½)"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.sin(x)/(1+math.cos(x)),math.pi/3) - 2/3) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-103",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find dy/dx for y = cot(½x).",
+    "marks": 2,
+    "answer": "dy/dx = −½ cosec²(½x)",
+    "working": "M1 d/dx cot u = −cosec²u\nA1 × ½"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the normal to the curve y = cot(½x) at the point where x = π/3, giving your answer in the form y = mx + c with c exact.",
+    "marks": 3,
+    "answer": "y = ½x + √3 − π/6",
+    "working": "B1 y = cot(π/6) = √3, gradient −½ × 4 = −2\nM1 normal gradient ½\nA1 y − √3 = ½(x − π/3)"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:1/math.tan(x/2),math.pi/3) + 2) < 1e-5 and abs(1/math.tan(math.pi/6) - math.sqrt(3)) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-104",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = x tan⁻¹x. Find dy/dx.",
+    "marks": 2,
+    "answer": "dy/dx = tan⁻¹x + x/(1 + x²)",
+    "working": "M1 product rule with d/dx tan⁻¹x = 1/(1 + x²)\nA1"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the tangent at the point where x = 1, giving your answer in the form y = mx + c with m and c exact.",
+    "marks": 3,
+    "answer": "y = (π/4 + ½)x − ½",
+    "working": "B1 y = π/4\nB1 gradient π/4 + ½\nA1 c = π/4 − (π/4 + ½) = −½"
+   },
+   {
+    "label": "c",
+    "text": "Show that the curve is symmetrical about the y-axis and has a stationary point at the origin.",
+    "marks": 2,
+    "answer": "(−x) tan⁻¹(−x) = x tan⁻¹x so y is even; dy/dx = 0 at x = 0",
+    "working": "B1 even function\nB1 dy/dx = 0 + 0 at x = 0"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:x*math.atan(x),1) - (math.pi/4+0.5)) < 1e-6 and abs(math.pi/4 - (math.pi/4+0.5) + 0.5) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-105",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that y = sec x + tan x, show that dy/dx = y sec x.",
+    "marks": 3,
+    "answer": "dy/dx = sec x tan x + sec²x = sec x(tan x + sec x)",
+    "working": "B1 sec x tan x\nB1 sec²x\nA1 factorises to y sec x"
+   },
+   {
+    "label": "b",
+    "text": "Hence show that d²y/dx² = y² sec x.",
+    "marks": 3,
+    "answer": "d²y/dx² = (dy/dx) sec x + y sec x tan x = y sec²x + y sec x tan x = y sec x (sec x + tan x) = y² sec x",
+    "working": "M1 product rule on y sec x\nM1 substitute dy/dx = y sec x\nA1 given result"
+   },
+   {
+    "label": "c",
+    "text": "Find the value of d²y/dx² when x = π/4, giving your answer in the form a + b√2.",
+    "marks": 2,
+    "answer": "4 + 3√2",
+    "working": "M1 y = √2 + 1, sec x = √2\nA1 (√2 + 1)²√2 = (3 + 2√2)√2 = 3√2 + 4"
+   }
+  ],
+  "check": "abs((math.sqrt(2)+1)**2*math.sqrt(2) - (4 + 3*math.sqrt(2))) < 1e-12 and abs(((lambda x:1/math.cos(x)+math.tan(x))(math.pi/4+1e-4) - 2*(1/math.cos(math.pi/4)+math.tan(math.pi/4)) + (lambda x:1/math.cos(x)+math.tan(x))(math.pi/4-1e-4))/1e-8 - (4+3*math.sqrt(2))) < 1e-3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-106",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The curve y = 2 sin x + sin 2x is defined for 0 ≤ x ≤ 2π. Show that dy/dx = 2(2 cos x − 1)(cos x + 1).",
+    "marks": 3,
+    "answer": "dy/dx = 2 cos x + 2 cos 2x = 2(2cos²x + cos x − 1)",
+    "working": "B1 2 cos x + 2 cos 2x\nM1 cos 2x = 2cos²x − 1\nA1 factorised"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary points.",
+    "marks": 4,
+    "answer": "(π/3, 3√3/2), (π, 0), (5π/3, −3√3/2)",
+    "working": "M1 cos x = ½ or cos x = −1\nA1 x = π/3, 5π/3, π\nA1 y = ±3√3/2\nA1 y = 0 at π"
+   },
+   {
+    "label": "c",
+    "text": "Show that the stationary point at x = π is neither a maximum nor a minimum.",
+    "marks": 2,
+    "answer": "Near x = π, cos x + 1 > 0 and 2 cos x − 1 < 0, so dy/dx < 0 on both sides",
+    "working": "M1 sign either side\nA1 conclusion"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:2*math.sin(x)+math.sin(2*x),math.pi/3)) < 1e-5 and abs(2*math.sin(math.pi/3)+math.sin(2*math.pi/3) - 3*math.sqrt(3)/2) < 1e-12 and (lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:2*math.sin(x)+math.sin(2*x),3.0) < 0 and (lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:2*math.sin(x)+math.sin(2*x),3.3) < 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-107",
+  "topic": "Differentiation",
+  "subtopic": "Differentiating trig functions",
+  "paper": "3",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 3 sin 2x − 4 cos 2x. Show that dy/dx can be written as 10 sin(2x + α), where α = tan⁻¹(¾).",
+    "marks": 3,
+    "answer": "dy/dx = 6 cos 2x + 8 sin 2x = 10(0.8 sin 2x + 0.6 cos 2x) = 10 sin(2x + α) with cos α = 0.8, sin α = 0.6",
+    "working": "B1 6 cos 2x + 8 sin 2x\nM1 R = 10\nA1 tan α = 6/8"
+   },
+   {
+    "label": "b",
+    "text": "State the greatest gradient of the curve, and find the smallest positive value of x at which it occurs. Show that this value is tan⁻¹(½) and give it correct to 3 significant figures.",
+    "marks": 4,
+    "answer": "Greatest gradient 10, at x = ½(π/2 − α) = tan⁻¹(½) = 0.464",
+    "working": "B1 10\nM1 2x + α = π/2\nM1 tan 2x = cot α = 4/3, so 2 tan x/(1 − tan²x) = 4/3 → tan x = ½\nA1 0.464"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:3*math.sin(2*x)-4*math.cos(2*x),math.atan(0.5)) - 10) < 1e-5 and abs((math.pi/2 - math.atan(0.75))/2 - math.atan(0.5)) < 1e-12 and round(math.atan(0.5),3) == 0.464",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-108",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that y = (3x − 1)⁵, find dy/dx and d²y/dx².",
+    "marks": 3,
+    "answer": "dy/dx = 15(3x − 1)⁴, d²y/dx² = 180(3x − 1)³",
+    "working": "M1 chain rule\nA1 15(3x − 1)⁴\nA1 180(3x − 1)³"
+   },
+   {
+    "label": "b",
+    "text": "Find the value of d²y/dx² when x = 1.",
+    "marks": 1,
+    "answer": "1440",
+    "working": "B1 180 × 8"
+   }
+  ],
+  "check": "180*2**3 == 1440",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-109",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that y = 2/(5 − x)³, find dy/dx and d²y/dx².",
+    "marks": 4,
+    "answer": "dy/dx = 6(5 − x)⁻⁴, d²y/dx² = 24(5 − x)⁻⁵",
+    "working": "M1 write as 2(5 − x)⁻³\nA1 6(5 − x)⁻⁴ (sign from × −1)\nM1 differentiate again\nA1 24(5 − x)⁻⁵"
+   },
+   {
+    "label": "b",
+    "text": "Find the values of dy/dx and d²y/dx² when x = 4.",
+    "marks": 1,
+    "answer": "6 and 24",
+    "working": "B1 both"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:2/(5-x)**3,4) - 6) < 1e-5 and abs(((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:2/(5-x)**3,4+1e-3)-(lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:2/(5-x)**3,4-1e-3))/2e-3 - 24) < 1e-2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-110",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find dy/dx for y = √(x² + 9), and find the gradient of the curve at the point (4, 5).",
+    "marks": 3,
+    "answer": "dy/dx = x/√(x² + 9); gradient 4/5",
+    "working": "M1 ½(x² + 9)^(−½) × 2x\nA1 x(x² + 9)^(−½)\nA1 4/5"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:math.sqrt(x*x+9),4) - 0.8) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-111",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "It is given that f(x) = (1 − 2x)^(−½) for x < ½. Find f′(x) and f″(x).",
+    "marks": 3,
+    "answer": "f′(x) = (1 − 2x)^(−3/2), f″(x) = 3(1 − 2x)^(−5/2)",
+    "working": "M1 chain rule\nA1 f′(x)\nA1 f″(x)"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of f″(−4).",
+    "marks": 1,
+    "answer": "1/81",
+    "working": "B1 3 × 9^(−5/2) = 3/243"
+   }
+  ],
+  "check": "Fraction(3, 243) == Fraction(1,81) and abs(3*9**-2.5 - 1/81) < 1e-15",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-112",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that y = x⁴ − 2/x², find d²y/dx².",
+    "marks": 3,
+    "answer": "d²y/dx² = 12x² − 12x⁻⁴",
+    "working": "B1 dy/dx = 4x³ + 4x⁻³\nM1 differentiate again\nA1 12x² − 12x⁻⁴"
+   },
+   {
+    "label": "b",
+    "text": "Find the value of d²y/dx² when x = 2.",
+    "marks": 1,
+    "answer": "47.25",
+    "working": "B1 48 − 12/16"
+   }
+  ],
+  "check": "12*4 - 12/16 == 47.25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-113",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = (x² − 1)³. Show that dy/dx = 6x(x² − 1)² and find the x-coordinates of the stationary points.",
+    "marks": 3,
+    "answer": "dy/dx = 3(x² − 1)² × 2x; x = 0, 1, −1",
+    "working": "M1 chain rule\nA1 given\nA1 x = 0, ±1"
+   },
+   {
+    "label": "b",
+    "text": "Show that d²y/dx² = 6(x² − 1)(5x² − 1).",
+    "marks": 3,
+    "answer": "d²y/dx² = d/dx (6x⁵ − 12x³ + 6x) = 30x⁴ − 36x² + 6 = 6(5x⁴ − 6x² + 1)",
+    "working": "M1 expand dy/dx = 6x⁵ − 12x³ + 6x\nA1 30x⁴ − 36x² + 6\nA1 factorised form"
+   },
+   {
+    "label": "c",
+    "text": "Determine the nature of the stationary point at x = 0, and explain why d²y/dx² cannot be used at x = 1.",
+    "marks": 2,
+    "answer": "x = 0: d²y/dx² = 6 > 0, minimum at (0, −1); at x = 1, d²y/dx² = 0 so the test is inconclusive",
+    "working": "B1 minimum (0, −1)\nB1 d²y/dx² = 0"
+   }
+  ],
+  "check": "(lambda x: 30*x**4 - 36*x**2 + 6 == 6*(x*x-1)*(5*x*x-1))(Fraction(7,3)) and 6*(0-1)*(0-1) == 6 and 6*(1-1)*(5-1) == 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-114",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 8√(2x + 1) − 2x, for x > −½. Find the coordinates of the stationary point.",
+    "marks": 4,
+    "answer": "(7.5, 17)",
+    "working": "B1 dy/dx = 8(2x + 1)^(−½) − 2\nM1 √(2x + 1) = 4\nA1 x = 7.5\nA1 y = 32 − 15 = 17"
+   },
+   {
+    "label": "b",
+    "text": "Find d²y/dx² and hence determine the nature of the stationary point.",
+    "marks": 2,
+    "answer": "d²y/dx² = −8(2x + 1)^(−3/2) = −⅛ < 0: maximum",
+    "working": "B1 second derivative\nB1 −⅛, maximum"
+   }
+  ],
+  "check": "8*math.sqrt(16) - 15 == 17 and 8/math.sqrt(16) - 2 == 0 and -8*16**-1.5 == -0.125",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-115",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that y = 2/(x + 2)², find dy/dx and d²y/dx².",
+    "marks": 3,
+    "answer": "dy/dx = −4(x + 2)⁻³, d²y/dx² = 12(x + 2)⁻⁴",
+    "working": "M1 write as 2(x + 2)⁻²\nA1 dy/dx\nA1 d²y/dx²"
+   },
+   {
+    "label": "b",
+    "text": "Find the values of x for which d²y/dx² = 12, and find the gradient of the curve at each of these values.",
+    "marks": 3,
+    "answer": "x = −1 (gradient −4) and x = −3 (gradient 4)",
+    "working": "M1 (x + 2)⁴ = 1 → x + 2 = ±1\nA1 x = −1, −3\nA1 gradients −4 and 4"
+   }
+  ],
+  "check": "12*(-1+2)**-4 == 12 and 12*(-3+2)**-4 == 12 and -4*(-1+2)**-3 == -4 and -4*(-3+2)**-3 == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-116",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that y = (2x + 3)^(3/2), find dy/dx and d²y/dx².",
+    "marks": 3,
+    "answer": "dy/dx = 3(2x + 3)^(½), d²y/dx² = 3(2x + 3)^(−½)",
+    "working": "M1 chain rule\nA1 dy/dx\nA1 d²y/dx²"
+   },
+   {
+    "label": "b",
+    "text": "Show that y × d²y/dx² = k(dy/dx)², stating the value of the constant k.",
+    "marks": 2,
+    "answer": "k = ⅓",
+    "working": "M1 y d²y/dx² = 3(2x + 3), (dy/dx)² = 9(2x + 3)\nA1 k = ⅓"
+   }
+  ],
+  "check": "(lambda u: abs(u**1.5*3/math.sqrt(u) - (1/3)*(3*math.sqrt(u))**2) < 1e-9)(7.4)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-117",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that f(x) = (x³ − 2x)⁴, find f′(x).",
+    "marks": 2,
+    "answer": "f′(x) = 4(x³ − 2x)³(3x² − 2)",
+    "working": "M1 chain rule\nA1"
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the tangent to the curve y = f(x) at the point where x = 1.",
+    "marks": 3,
+    "answer": "y = −4x + 5",
+    "working": "B1 f(1) = 1\nB1 f′(1) = 4(−1)³(1) = −4\nA1 y − 1 = −4(x − 1)"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:(x**3-2*x)**4,1) + 4) < 1e-5 and (1-2)**4 == 1 and -4 + 5 == 1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-118",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = A/(x + 1) + Bx, for x > −1, where A and B are constants. When x = 1, dy/dx = 1 and d²y/dx² = ½. Find the values of A and B.",
+    "marks": 4,
+    "answer": "A = 2, B = 3/2",
+    "working": "B1 dy/dx = −A(x + 1)⁻² + B\nB1 d²y/dx² = 2A(x + 1)⁻³\nM1 A/4 = ½ → A = 2\nA1 −½ + B = 1 → B = 3/2"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary point and determine its nature.",
+    "marks": 4,
+    "answer": "(−1 + 2/√3, 2√3 − 3/2), minimum",
+    "working": "M1 (x + 1)² = 4/3\nA1 x = −1 + 2/√3 (x > −1)\nA1 y = √3 + 1.5(−1 + 2/√3) = 2√3 − 3/2\nB1 d²y/dx² = 4/(x + 1)³ > 0: minimum"
+   }
+  ],
+  "check": "(lambda x: abs(-2/(x+1)**2 + 1.5) < 1e-12 and abs(2/(x+1) + 1.5*x - (2*math.sqrt(3) - 1.5)) < 1e-12)(-1 + 2/math.sqrt(3)) and 2*2/8 == 0.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-119",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that y = (1 + kx)⁻², where k is a constant, show that d²y/dx² = 6k²y².",
+    "marks": 3,
+    "answer": "dy/dx = −2k(1 + kx)⁻³, d²y/dx² = 6k²(1 + kx)⁻⁴ = 6k²y²",
+    "working": "B1 dy/dx\nB1 d²y/dx²\nA1 (1 + kx)⁻⁴ = y²"
+   },
+   {
+    "label": "b",
+    "text": "It is also given that d²y/dx² = 24y² and that dy/dx = −4 when x = 0. Find k, and find the value of dy/dx when x = ½.",
+    "marks": 3,
+    "answer": "k = 2; dy/dx = −½",
+    "working": "M1 6k² = 24 → k = ±2\nA1 −2k = −4 → k = 2\nA1 −4(2)⁻³ = −½"
+   }
+  ],
+  "check": "abs((lambda f,t:(f(t+1e-6)-f(t-1e-6))/2e-6)(lambda x:(1+2*x)**-2,0.5) + 0.5) < 1e-6 and 6*4 == 24",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-120",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = 3(2x − 1)^(⅔) − 2x, for x > ½. Show that dy/dx = 4(2x − 1)^(−⅓) − 2.",
+    "marks": 2,
+    "answer": "3 × ⅔(2x − 1)^(−⅓) × 2 − 2",
+    "working": "M1 chain rule\nA1 given result"
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the stationary point.",
+    "marks": 3,
+    "answer": "(4.5, 3)",
+    "working": "M1 (2x − 1)^(⅓) = 2\nA1 x = 4.5\nA1 y = 3 × 4 − 9 = 3"
+   },
+   {
+    "label": "c",
+    "text": "Find d²y/dx² and determine the nature of the stationary point.",
+    "marks": 3,
+    "answer": "d²y/dx² = −(8/3)(2x − 1)^(−4/3) = −⅙ at x = 4.5: maximum",
+    "working": "M1 differentiate again\nA1 −(8/3)(2x − 1)^(−4/3)\nA1 −⅙ < 0, maximum"
+   }
+  ],
+  "check": "abs(3*8**(2/3) - 9 - 3) < 1e-12 and abs(4*8**(-1/3) - 2) < 1e-12 and abs(-(8/3)*8**(-4/3) + 1/6) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-121",
+  "topic": "Differentiation",
+  "subtopic": "Chain rule / 2nd derivative",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The function f is defined by f(x) = 1/(x + 1) + 1/(x − 1), for x > 1. Find f′(x) and explain why f is a decreasing function.",
+    "marks": 3,
+    "answer": "f′(x) = −(x + 1)⁻² − (x − 1)⁻², which is negative because both squared terms are positive",
+    "working": "M1 chain rule on both terms\nA1 f′(x)\nA1 reason"
+   },
+   {
+    "label": "b",
+    "text": "Find f″(x), and show that f″(x) > 0 for all x > 1.",
+    "marks": 2,
+    "answer": "f″(x) = 2(x + 1)⁻³ + 2(x − 1)⁻³; both terms positive when x > 1",
+    "working": "B1 f″(x)\nB1 reason"
+   },
+   {
+    "label": "c",
+    "text": "Find the value of f′(3) and the value of f″(3).",
+    "marks": 2,
+    "answer": "f′(3) = −5/16; f″(3) = 9/32",
+    "working": "B1 −1/16 − 1/4 = −5/16\nB1 2/64 + 2/8 = 9/32"
+   }
+  ],
+  "check": "-Fraction(1,16) - Fraction(1,4) == Fraction(-5,16) and Fraction(2,64) + Fraction(2,8) == Fraction(9,32)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-122",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The points A and B lie on the curve y = x² − 2x and have x-coordinates 3 and 3 + h respectively. Show that the gradient of the chord AB is 4 + h.",
+    "marks": 3,
+    "answer": "[(3 + h)² − 2(3 + h) − 3]/h = (4h + h²)/h = 4 + h",
+    "working": "B1 y at A = 3\nM1 expand y at B: 3 + 4h + h²\nA1 4 + h"
+   },
+   {
+    "label": "b",
+    "text": "Deduce the gradient of the curve at A.",
+    "marks": 1,
+    "answer": "4",
+    "working": "B1 as h → 0"
+   }
+  ],
+  "check": "(lambda h: ((3+h)**2 - 2*(3+h) - 3)/h == 4 + h)(Fraction(1,7))",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-123",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For the curve y = 3x², calculate the gradient of the chord joining the points with x-coordinates 1 and 1.1, and the gradient of the chord joining the points with x-coordinates 1 and 1.01.",
+    "marks": 3,
+    "answer": "6.3 and 6.03",
+    "working": "M1 (3 × 1.21 − 3)/0.1\nA1 6.3\nA1 6.03"
+   },
+   {
+    "label": "b",
+    "text": "Use your answers to suggest the gradient of the curve at the point (1, 3).",
+    "marks": 1,
+    "answer": "6",
+    "working": "B1"
+   }
+  ],
+  "check": "(3*Fraction(121,100) - 3)/Fraction(1,10) == Fraction(63,10) and (3*Fraction(10201,10000) - 3)/Fraction(1,100) == Fraction(603,100)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-124",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The points P(2, 8) and Q(2 + h, (2 + h)³) lie on the curve y = x³. Show that the gradient of PQ is 12 + 6h + h².",
+    "marks": 3,
+    "answer": "[(2 + h)³ − 8]/h = (12h + 6h² + h³)/h",
+    "working": "M1 expand (2 + h)³ = 8 + 12h + 6h² + h³\nA1 subtract 8\nA1 divide by h"
+   },
+   {
+    "label": "b",
+    "text": "Find the gradient of the chord when h = 0.1, and state the gradient of the curve at P.",
+    "marks": 2,
+    "answer": "12.61; 12",
+    "working": "B1 12.61\nB1 12"
+   }
+  ],
+  "check": "(lambda h: ((2+h)**3 - 8)/h == 12 + 6*h + h*h)(Fraction(1,10)) and 12 + Fraction(6,10) + Fraction(1,100) == Fraction(1261,100)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-125",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The point P(1, 4) lies on the curve y = 5 − x². The point Q on the curve has x-coordinate 1 + h. Find the gradient of PQ in terms of h.",
+    "marks": 3,
+    "answer": "−2 − h",
+    "working": "M1 y at Q = 5 − (1 + h)² = 4 − 2h − h²\nM1 (−2h − h²)/h\nA1 −2 − h"
+   },
+   {
+    "label": "b",
+    "text": "Deduce the gradient of the curve at P.",
+    "marks": 1,
+    "answer": "−2",
+    "working": "B1"
+   }
+  ],
+  "check": "(lambda h: (5 - (1+h)**2 - 4)/h == -2 - h)(Fraction(3,11))",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-126",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A and B are points on the curve y = 2x² + x with x-coordinates −1 and −1 + h respectively. Show that the gradient of AB is 2h − 3.",
+    "marks": 3,
+    "answer": "y at A = 1; y at B = 1 − 3h + 2h²; gradient (2h² − 3h)/h",
+    "working": "B1 y at A\nM1 expand y at B\nA1 2h − 3"
+   },
+   {
+    "label": "b",
+    "text": "State the gradient of the curve at A.",
+    "marks": 1,
+    "answer": "−3",
+    "working": "B1"
+   }
+  ],
+  "check": "(lambda h: ((2*(-1+h)**2 + (-1+h)) - 1)/h == 2*h - 3)(Fraction(2,9))",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-127",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The points A and B lie on the curve y = 1/x and have x-coordinates 2 and 2 + h. Show that the gradient of AB is −1/(4 + 2h).",
+    "marks": 3,
+    "answer": "[1/(2 + h) − ½]/h = [2 − (2 + h)]/[2h(2 + h)] = −1/(2(2 + h))",
+    "working": "M1 difference of y-values over h\nM1 common denominator\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Hence find the gradient of the curve at A, and the equation of the tangent at A.",
+    "marks": 3,
+    "answer": "−¼; y = −¼x + 1",
+    "working": "B1 −¼\nM1 y − ½ = −¼(x − 2)\nA1 y = −¼x + 1"
+   }
+  ],
+  "check": "(lambda h: (1/(2+h) - Fraction(1,2))/h == -1/(4 + 2*h))(Fraction(5,3)) and Fraction(-1,4)*2 + 1 == Fraction(1,2)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-128",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The points P(4, 2) and Q(4 + h, √(4 + h)) lie on the curve y = √x. Show that the gradient of PQ can be written as 1/(√(4 + h) + 2).",
+    "marks": 3,
+    "answer": "(√(4 + h) − 2)/h; multiply top and bottom by √(4 + h) + 2: h/[h(√(4 + h) + 2)]",
+    "working": "M1 gradient expression\nM1 rationalise\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Hence state the gradient of the curve at P, and check your answer by differentiation.",
+    "marks": 2,
+    "answer": "¼; dy/dx = ½x^(−½) = ¼ at x = 4",
+    "working": "B1 ¼\nB1 check"
+   }
+  ],
+  "check": "(lambda h: abs((math.sqrt(4+h) - 2)/h - 1/(math.sqrt(4+h) + 2)) < 1e-12)(0.37) and 0.5/math.sqrt(4) == 0.25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-129",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The points with x-coordinates 1 and 1 + h lie on the curve y = x³ − x. Calculate the gradient of the chord joining these points for h = 0.1, h = 0.01 and h = 0.001.",
+    "marks": 3,
+    "answer": "2.31, 2.0301, 2.003001",
+    "working": "B1 each"
+   },
+   {
+    "label": "b",
+    "text": "Show that the gradient of the chord is 2 + 3h + h² and state the gradient of the curve at the point (1, 0).",
+    "marks": 3,
+    "answer": "[(1 + h)³ − (1 + h)]/h = (2h + 3h² + h³)/h; gradient 2",
+    "working": "M1 expand\nA1 2 + 3h + h²\nB1 2"
+   }
+  ],
+  "check": "(lambda g: g(Fraction(1,10)) == Fraction(231,100) and g(Fraction(1,100)) == Fraction(20301,10000) and g(Fraction(1,1000)) == Fraction(2003001,1000000))(lambda h: ((1+h)**3 - (1+h))/h)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-130",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A curve has equation y = x² + kx, where k is a constant. The chord joining the points on the curve with x-coordinates −2 and −2 + h has gradient h − 9. Find the value of k.",
+    "marks": 4,
+    "answer": "k = −5",
+    "working": "M1 y-values 4 − 2k and 4 − 4h + h² − 2k + kh\nM1 gradient (h² − 4h + kh)/h = h − 4 + k\nA1 compare: k − 4 = −9\nA1 k = −5"
+   },
+   {
+    "label": "b",
+    "text": "State the gradient of the curve at x = −2.",
+    "marks": 1,
+    "answer": "−9",
+    "working": "B1"
+   }
+  ],
+  "check": "(lambda h: (((-2+h)**2 - 5*(-2+h)) - (4 + 10))/h == h - 9)(Fraction(3,4)) and 2*(-2) - 5 == -9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-131",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "P(1, 3) lies on the curve y = 4x − x², and Q is the point on the curve with x-coordinate 1 + h. Show that the gradient of PQ is 2 − h.",
+    "marks": 3,
+    "answer": "y at Q = 4 + 4h − 1 − 2h − h² = 3 + 2h − h²; gradient (2h − h²)/h",
+    "working": "M1 y at Q\nM1 subtract 3 and divide by h\nA1 2 − h"
+   },
+   {
+    "label": "b",
+    "text": "Find the value of h for which the gradient of PQ is 1.5, and find the equation of the tangent to the curve at P.",
+    "marks": 3,
+    "answer": "h = 0.5; y = 2x + 1",
+    "working": "B1 h = 0.5\nM1 gradient 2 as h → 0\nA1 y = 2x + 1"
+   }
+  ],
+  "check": "(lambda h: (4*(1+h) - (1+h)**2 - 3)/h == 2 - h)(Fraction(1,2)) and 2 - 0.5 == 1.5 and 2*1 + 1 == 3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-132",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the gradient of the chord joining the points on y = x⁴ with x-coordinates a and a + h is 4a³ + 6a²h + 4ah² + h³.",
+    "marks": 3,
+    "answer": "[(a + h)⁴ − a⁴]/h = (4a³h + 6a²h² + 4ah³ + h⁴)/h",
+    "working": "M1 binomial expansion of (a + h)⁴\nA1 subtract a⁴\nA1 divide by h"
+   },
+   {
+    "label": "b",
+    "text": "Deduce the gradient of y = x⁴ at x = a, and find the x-coordinate of the point on the curve where the gradient is −32.",
+    "marks": 2,
+    "answer": "4a³; x = −2",
+    "working": "B1 4a³\nB1 4a³ = −32 → a = −2"
+   }
+  ],
+  "check": "(lambda a,h: ((a+h)**4 - a**4)/h == 4*a**3 + 6*a*a*h + 4*a*h*h + h**3)(Fraction(5,2), Fraction(1,3)) and 4*(-2)**3 == -32",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-133",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A is the point (1, 1) on the curve y = 1/x², and B is the point on the curve with x-coordinate 1 + h. Show that the gradient of AB is −(2 + h)/(1 + h)².",
+    "marks": 4,
+    "answer": "[1/(1 + h)² − 1]/h = [1 − (1 + h)²]/[h(1 + h)²] = (−2h − h²)/[h(1 + h)²]",
+    "working": "M1 gradient expression\nM1 common denominator\nM1 expand 1 − (1 + h)²\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Hence find the gradient of the curve at A, and find the gradient of the chord when h = 1.",
+    "marks": 2,
+    "answer": "−2; −¾",
+    "working": "B1 −2\nB1 −3/4"
+   }
+  ],
+  "check": "(lambda h: (1/(1+h)**2 - 1)/h == -(2+h)/(1+h)**2)(Fraction(2,5)) and -(2+1)/Fraction(4) == Fraction(-3,4)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-134",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For the curve y = x³ − 3x, the points P and Q have x-coordinates a − h and a + h respectively. Show that the gradient of PQ is 3a² + h² − 3.",
+    "marks": 4,
+    "answer": "[(a + h)³ − (a − h)³ − 3(2h)]/(2h) = (6a²h + 2h³ − 6h)/(2h)",
+    "working": "M1 expand both cubes\nA1 difference 6a²h + 2h³\nM1 subtract 6h and divide by 2h\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Deduce the gradient of the curve at x = a, and hence find the x-coordinates of the points where the tangent is parallel to the x-axis.",
+    "marks": 2,
+    "answer": "3a² − 3; x = ±1",
+    "working": "B1 3a² − 3\nB1 ±1"
+   }
+  ],
+  "check": "(lambda a,h: (((a+h)**3 - 3*(a+h)) - ((a-h)**3 - 3*(a-h)))/(2*h) == 3*a*a + h*h - 3)(Fraction(7,4), Fraction(2,9))",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-135",
+  "topic": "Differentiation",
+  "subtopic": "Gradient of chord / first principles",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "P(4, 3) lies on the curve y = √(2x + 1), and Q is the point on the curve with x-coordinate 4 + h. Show that the gradient of PQ is 2/(√(9 + 2h) + 3).",
+    "marks": 4,
+    "answer": "(√(9 + 2h) − 3)/h × (√(9 + 2h) + 3)/(√(9 + 2h) + 3) = 2h/[h(√(9 + 2h) + 3)]",
+    "working": "M1 gradient expression\nM1 rationalise numerator\nA1 (9 + 2h − 9) = 2h\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Deduce the gradient of the curve at P and find the equation of the normal to the curve at P.",
+    "marks": 3,
+    "answer": "⅓; y = −3x + 15",
+    "working": "B1 2/6 = ⅓\nM1 normal gradient −3\nA1 y − 3 = −3(x − 4)"
+   }
+  ],
+  "check": "(lambda h: abs((math.sqrt(9+2*h) - 3)/h - 2/(math.sqrt(9+2*h)+3)) < 1e-12)(0.21) and -3*4 + 15 == 3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-136",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The random variable X has probability density function given by f(x) = k(x + 2) for 0 ≤ x ≤ 4, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 2,
+    "answer": "k = 1/16",
+    "working": "M1 ∫₀⁴ k(x + 2) dx = k[½x² + 2x]₀⁴ = 16k = 1\nA1 k = 1/16"
+   },
+   {
+    "label": "b",
+    "text": "Find P(X < 2).",
+    "marks": 2,
+    "answer": "3/8",
+    "working": "M1 (1/16)[½x² + 2x]₀²\nA1 6/16 = 3/8"
+   }
+  ],
+  "check": "Fraction(1,16)*(8 + 8) == 1 and Fraction(1,16)*(2 + 4) == Fraction(3,8)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-137",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The random variable X has probability density function given by f(x) = kx³ for 0 ≤ x ≤ 2, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 2,
+    "answer": "k = ¼",
+    "working": "M1 k[¼x⁴]₀² = 4k = 1\nA1 k = ¼"
+   },
+   {
+    "label": "b",
+    "text": "Find P(1 < X < 1.5), giving your answer correct to 3 significant figures.",
+    "marks": 2,
+    "answer": "0.254",
+    "working": "M1 (1/16)[x⁴]₁^1.5\nA1 (5.0625 − 1)/16 = 0.254"
+   }
+  ],
+  "check": "Fraction(1,4)*Fraction(16,4) == 1 and round((1.5**4 - 1)/16, 3) == 0.254",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-138",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The length, X minutes, of a call to a mobile network's helpline is modelled by the probability density function f(x) = k/(2x + 1)² for 0 ≤ x ≤ 4, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that k = 9/4.",
+    "marks": 2,
+    "answer": "k[−1/(2(2x + 1))]₀⁴ = k × ½(1 − 1/9) = 4k/9 = 1, so k = 9/4",
+    "working": "M1 integrate to a multiple of (2x + 1)⁻¹ and use limits\nA1 k = 9/4"
+   },
+   {
+    "label": "b",
+    "text": "Find the probability that a randomly chosen call lasts more than 1 minute.",
+    "marks": 2,
+    "answer": "¼",
+    "working": "M1 (9/4) × ½(1/3 − 1/9)\nA1 ¼"
+   }
+  ],
+  "check": "Fraction(9,4)*Fraction(1,2)*(1 - Fraction(1,9)) == 1 and Fraction(9,4)*Fraction(1,2)*(Fraction(1,3) - Fraction(1,9)) == Fraction(1,4)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-139",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The random variable X has probability density function given by f(x) = (2x + 1)/6 for 0 ≤ x ≤ 2, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Verify that f is a probability density function.",
+    "marks": 2,
+    "answer": "f(x) ≥ 0 for 0 ≤ x ≤ 2, and ∫₀² (2x + 1)/6 dx = (1/6)[x² + x]₀² = 6/6 = 1",
+    "working": "B1 f(x) ≥ 0 on 0 ≤ x ≤ 2\nB1 total area 1"
+   },
+   {
+    "label": "b",
+    "text": "Find P(X > 1.5).",
+    "marks": 2,
+    "answer": "3/8",
+    "working": "M1 (1/6)[x² + x]₁.₅²\nA1 (6 − 3.75)/6 = 3/8"
+   },
+   {
+    "label": "c",
+    "text": "Find P(0.5 < X < 1.5).",
+    "marks": 1,
+    "answer": "½",
+    "working": "B1 (1/6)(3.75 − 0.75) = ½"
+   }
+  ],
+  "check": "Fraction(1,6)*(4+2) == 1 and Fraction(1,6)*(6 - Fraction(15,4)) == Fraction(3,8) and Fraction(1,6)*(Fraction(15,4) - Fraction(3,4)) == Fraction(1,2)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-140",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The time, X minutes, that a ride on a cable car in Murree takes is modelled by the probability density function f(x) = k for 3 ≤ x ≤ 8, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 1,
+    "answer": "k = ⅕",
+    "working": "B1 5k = 1"
+   },
+   {
+    "label": "b",
+    "text": "Find the probability that a randomly chosen journey takes more than 6.5 minutes.",
+    "marks": 1,
+    "answer": "0.3",
+    "working": "B1 1.5 × ⅕"
+   },
+   {
+    "label": "c",
+    "text": "Find the probability that a randomly chosen journey takes between 4 and 6 minutes.",
+    "marks": 1,
+    "answer": "0.4",
+    "working": "B1 2 × ⅕"
+   }
+  ],
+  "check": "Fraction(15,10)*Fraction(1,5) == Fraction(3,10) and 2*Fraction(1,5) == Fraction(2,5)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-141",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "The random variable X has probability density function given by f(x) = k(x² + 1) for 0 ≤ x ≤ 3, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 2,
+    "answer": "k = 1/12",
+    "working": "M1 k[⅓x³ + x]₀³ = 12k = 1\nA1 1/12"
+   },
+   {
+    "label": "b",
+    "text": "Find P(X > 2).",
+    "marks": 2,
+    "answer": "11/18",
+    "working": "M1 (1/12)[(9 + 3) − (8/3 + 2)]\nA1 11/18"
+   },
+   {
+    "label": "c",
+    "text": "The value a is such that P(X < a) = ⅓. Show that a³ + 3a − 12 = 0, and find a correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "a = 1.86",
+    "working": "M1 (1/12)(⅓a³ + a) = ⅓\nA1 a³ + 3a − 12 = 0\nB1 a = 1.86"
+   }
+  ],
+  "check": "Fraction(1,12)*(9+3) == 1 and Fraction(1,12)*(12 - Fraction(8,3) - 2) == Fraction(11,18) and abs(1.8589**3 + 3*1.8589 - 12) < 1e-3 and 1.855**3 + 3*1.855 - 12 < 0 and 1.865**3 + 3*1.865 - 12 > 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-142",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "The random variable X has probability density function given by f(x) = k x^(−3/2) for 1 ≤ x ≤ 9, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that k = ¾.",
+    "marks": 2,
+    "answer": "k[−2x^(−½)]₁⁹ = k(2 − ⅔) = 4k/3 = 1",
+    "working": "M1 integrate to −2x^(−½)\nA1 k = ¾"
+   },
+   {
+    "label": "b",
+    "text": "Find P(X < 4).",
+    "marks": 1,
+    "answer": "¾",
+    "working": "B1 ¾(2 − 1) = ¾"
+   },
+   {
+    "label": "c",
+    "text": "Find P(X > 6), giving your answer correct to 3 significant figures.",
+    "marks": 2,
+    "answer": "√6/4 − ½ = 0.112",
+    "working": "M1 ¾(2/√6 − ⅔)\nA1 0.112"
+   }
+  ],
+  "check": "Fraction(3,4)*(2 - Fraction(2,3)) == 1 and Fraction(3,4)*(2 - 1) == Fraction(3,4) and round(0.75*(2/math.sqrt(6) - 2/3), 3) == 0.112 and abs(0.75*(2/math.sqrt(6) - 2/3) - (math.sqrt(6)/4 - 0.5)) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-143",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "The error, X mm, in the cut length of a steel rod is modelled by the probability density function f(x) = k(4 − x²) for −2 ≤ x ≤ 2, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 2,
+    "answer": "k = 3/32",
+    "working": "M1 k[4x − ⅓x³]₋₂² = 32k/3 = 1\nA1 3/32"
+   },
+   {
+    "label": "b",
+    "text": "Find P(X > 1).",
+    "marks": 2,
+    "answer": "5/32",
+    "working": "M1 (3/32)[(8 − 8/3) − (4 − ⅓)]\nA1 5/32"
+   },
+   {
+    "label": "c",
+    "text": "Hence find P(|X| < 1).",
+    "marks": 1,
+    "answer": "11/16",
+    "working": "B1 1 − 2 × 5/32 (symmetry)"
+   }
+  ],
+  "check": "Fraction(3,32)*((8 - Fraction(8,3)) - (-8 + Fraction(8,3))) == 1 and Fraction(3,32)*((8 - Fraction(8,3)) - (4 - Fraction(1,3))) == Fraction(5,32) and 1 - 2*Fraction(5,32) == Fraction(11,16)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-144",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "The time, X hours, after the start of an evening shift at which a call is received at a rescue service in Peshawar is modelled by the probability density function f(x) = k(x + 2)(6 − x) for 0 ≤ x ≤ 6, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 3,
+    "answer": "k = 1/72",
+    "working": "M1 expand: 12 + 4x − x²\nM1 k[12x + 2x² − ⅓x³]₀⁶ = 72k\nA1 k = 1/72"
+   },
+   {
+    "label": "b",
+    "text": "Find P(X > 4) and P(X < 1).",
+    "marks": 3,
+    "answer": "P(X > 4) = 5/27, P(X < 1) = 41/216",
+    "working": "M1 (1/72)[12x + 2x² − ⅓x³]₄⁶ = (1/72)(72 − 176/3)\nA1 5/27\nB1 (1/72)(12 + 2 − ⅓) = 41/216"
+   }
+  ],
+  "check": "(lambda G: Fraction(1,72)*(G(6) - G(0)) == 1 and Fraction(1,72)*(G(6) - G(4)) == Fraction(5,27) and Fraction(1,72)*(G(1) - G(0)) == Fraction(41,216))(lambda x: 12*Fraction(x) + 2*Fraction(x)**2 - Fraction(x)**3/3)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-145",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student says that f(x) = k(x − 1) for 0 ≤ x ≤ 3, f(x) = 0 otherwise, is a probability density function when k = ⅔. Show that the total area is 1 for this value of k, but explain why f is still not a valid probability density function.",
+    "marks": 3,
+    "answer": "∫₀³ (x − 1) dx = 9/2 − 3 = 3/2, so k = ⅔ gives area 1; but f(x) = ⅔(x − 1) < 0 for 0 ≤ x < 1, and a pdf cannot be negative",
+    "working": "M1 integrate\nA1 area 1 when k = ⅔\nB1 f negative for x < 1"
+   },
+   {
+    "label": "b",
+    "text": "The random variable Y has probability density function g(y) = c(y − 1) for 1 ≤ y ≤ 3, g(y) = 0 otherwise. Find c and P(Y < 2).",
+    "marks": 3,
+    "answer": "c = ½; P(Y < 2) = ¼",
+    "working": "M1 c[½(y − 1)²]₁³ = 2c\nA1 c = ½\nB1 ½ × ½ = ¼"
+   }
+  ],
+  "check": "Fraction(2,3)*(Fraction(9,2) - 3) == 1 and Fraction(1,2)*2 == 1 and Fraction(1,2)*Fraction(1,2) == Fraction(1,4)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-146",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The random variable X has probability density function given by f(x) = a/x⁴ for x ≥ 2, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that a = 24.",
+    "marks": 2,
+    "answer": "∫₂^∞ a x⁻⁴ dx = a[−⅓x⁻³]₂^∞ = a/24 = 1",
+    "working": "M1 integral to infinity\nA1 a = 24"
+   },
+   {
+    "label": "b",
+    "text": "Find the value of c such that P(X > c) = 0.01, giving your answer correct to 3 significant figures.",
+    "marks": 2,
+    "answer": "c = 9.28",
+    "working": "M1 ∫_c^∞ 24x⁻⁴ dx = 8/c³ = 0.01\nA1 c = 800^(1/3) = 9.28"
+   },
+   {
+    "label": "c",
+    "text": "Five independent observations of X are taken. Find the probability that at least one of them is greater than 4.",
+    "marks": 3,
+    "answer": "0.487",
+    "working": "B1 P(X > 4) = 8/64 = ⅛\nM1 1 − (⅞)⁵\nA1 0.487"
+   }
+  ],
+  "check": "Fraction(24,24) == 1 and round(800**(1/3), 2) == 9.28 and abs(8/(800**(1/3))**3 - 0.01) < 1e-12 and Fraction(8,64) == Fraction(1,8) and round(1 - (7/8)**5, 3) == 0.487",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-147",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The random variable X has probability density function given by f(x) = a + bx² for 0 ≤ x ≤ 3, where a and b are constants, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that P(X < 1) = ⅙, find the values of a and b.",
+    "marks": 4,
+    "answer": "a = 7/48, b = 1/16",
+    "working": "B1 3a + 9b = 1\nB1 a + b/3 = ⅙\nM1 solve simultaneously\nA1 b = 1/16, a = 7/48"
+   },
+   {
+    "label": "b",
+    "text": "Find P(X > 2).",
+    "marks": 2,
+    "answer": "13/24",
+    "working": "M1 [ax + bx³/3]₂³ = a + 19b/3\nA1 7/48 + 19/48 = 13/24"
+   },
+   {
+    "label": "c",
+    "text": "Explain how you know that f(x) ≥ 0 for 0 ≤ x ≤ 3.",
+    "marks": 1,
+    "answer": "a and b are both positive, so a + bx² > 0",
+    "working": "B1"
+   }
+  ],
+  "check": "(lambda a,b: 3*a + 9*b == 1 and a + b/3 == Fraction(1,6) and a + 19*b/3 == Fraction(13,24))(Fraction(7,48), Fraction(1,16))",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-148",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The waiting time, X minutes, for a ride-hailing car in Islamabad at rush hour is modelled by the probability density function f(x) = kx(10 − x)² for 0 ≤ x ≤ 10, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that k = 3/2500.",
+    "marks": 2,
+    "answer": "∫₀¹⁰ (100x − 20x² + x³) dx = 5000 − 20000/3 + 2500 = 2500/3, so k = 3/2500",
+    "working": "M1 expand and integrate\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find the probability that a passenger waits more than 7 minutes, and the probability that two independent passengers both wait more than 7 minutes. Give the second answer correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "0.0837; 0.00701",
+    "working": "M1 (3/2500)[50x² − (20/3)x³ + ¼x⁴]₇¹⁰\nA1 (3/2500)(2500/3 − 763.25) = 0.0837\nB1 0.0837² = 0.00701"
+   },
+   {
+    "label": "c",
+    "text": "Find E(X).",
+    "marks": 3,
+    "answer": "4",
+    "working": "M1 (3/2500)∫₀¹⁰ (100x² − 20x³ + x⁴) dx\nA1 (3/2500)(100000/3 − 50000 + 20000)\nA1 4"
+   }
+  ],
+  "check": "(lambda G: Fraction(3,2500)*(G(10) - G(0)) == 1 and Fraction(3,2500)*(G(10) - G(7)) == Fraction(837,10000))(lambda x: 50*Fraction(x)**2 - Fraction(20,3)*Fraction(x)**3 + Fraction(x)**4/4) and round(0.0837**2, 5) == 0.00701 and Fraction(3,2500)*(Fraction(100000,3) - 50000 + 20000) == 4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-149",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The random variable X has probability density function given by f(x) = k/(x + 1)² for 0 ≤ x ≤ 3, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k and P(X > 1).",
+    "marks": 3,
+    "answer": "k = 4/3; P(X > 1) = ⅓",
+    "working": "M1 k[−1/(x + 1)]₀³ = ¾k = 1\nA1 k = 4/3\nB1 (4/3)(½ − ¼) = ⅓"
+   },
+   {
+    "label": "b",
+    "text": "Find the value of a such that P(X > a) = 0.2.",
+    "marks": 3,
+    "answer": "a = 1.5",
+    "working": "M1 (4/3)(1/(a + 1) − ¼) = 0.2\nA1 1/(a + 1) = 0.4\nA1 a = 1.5"
+   },
+   {
+    "label": "c",
+    "text": "Two independent observations of X are taken. Find the probability that the larger of the two is greater than 1.",
+    "marks": 2,
+    "answer": "5/9",
+    "working": "M1 1 − P(both ≤ 1) = 1 − (⅔)²\nA1 5/9"
+   }
+  ],
+  "check": "Fraction(4,3)*(1 - Fraction(1,4)) == 1 and Fraction(4,3)*(Fraction(1,2) - Fraction(1,4)) == Fraction(1,3) and Fraction(4,3)*(Fraction(2,5) - Fraction(1,4)) == Fraction(1,5) and 1 - Fraction(2,3)**2 == Fraction(5,9)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-150",
+  "topic": "Continuous random variables",
+  "subtopic": "Probability density functions",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The random variable X has probability density function given by f(x) = kx for 0 ≤ x ≤ a, where k and a are positive constants, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that P(X > 1) = 0.64, find the values of k and a.",
+    "marks": 4,
+    "answer": "k = 0.72, a = 5/3",
+    "working": "M1 P(X < 1) = ½k = 0.36\nA1 k = 0.72\nM1 ½ka² = 1\nA1 a² = 25/9, a = 5/3"
+   },
+   {
+    "label": "b",
+    "text": "Find P(X > 1 | X < 1.5).",
+    "marks": 3,
+    "answer": "5/9",
+    "working": "M1 P(1 < X < 1.5) = 0.36(2.25 − 1) = 0.45\nM1 divide by P(X < 1.5) = 0.36 × 2.25 = 0.81\nA1 5/9"
+   }
+  ],
+  "check": "(lambda k,a: k/2 == Fraction(9,25) and k*a*a/2 == 1 and (k/2*(Fraction(9,4)-1))/(k/2*Fraction(9,4)) == Fraction(5,9))(Fraction(18,25), Fraction(5,3))",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-151",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The random variable X has probability density function given by f(x) = (3/64)(4 − x)² for 0 ≤ x ≤ 4, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find E(X).",
+    "marks": 2,
+    "answer": "1",
+    "working": "M1 (3/64)∫₀⁴ (16x − 8x² + x³) dx = (3/64)(128 − 512/3 + 64)\nA1 1"
+   },
+   {
+    "label": "b",
+    "text": "Find the median of X, correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "0.825",
+    "working": "M1 P(X > m) = (3/64)∫ₘ⁴ (4 − x)² dx = (4 − m)³/64 = ½\nA1 (4 − m)³ = 32\nA1 m = 4 − ∛32 = 0.825"
+   }
+  ],
+  "check": "Fraction(3,64)*(128 - Fraction(512,3) + 64) == 1 and round(4 - 32**(1/3), 3) == 0.825 and abs((4 - (4 - 32**(1/3)))**3/64 - 0.5) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-152",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The distance, X km, from a school in Multan to the home of a randomly chosen pupil is modelled by the probability density function f(x) = (2/9)(3 − x) for 0 ≤ x ≤ 3, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that E(X) = 1.",
+    "marks": 2,
+    "answer": "(2/9)∫₀³ (3x − x²) dx = (2/9)(27/2 − 9) = 1",
+    "working": "M1 integrate xf(x)\nA1"
+   },
+   {
+    "label": "b",
+    "text": "Find Var(X).",
+    "marks": 3,
+    "answer": "½",
+    "working": "M1 E(X²) = (2/9)∫₀³ (3x² − x³) dx\nA1 3/2\nA1 Var = 3/2 − 1 = ½"
+   }
+  ],
+  "check": "Fraction(2,9)*(Fraction(27,2) - 9) == 1 and Fraction(2,9)*(27 - Fraction(81,4)) - 1 == Fraction(1,2)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-153",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The time, X minutes, between a lift being called and its arrival is modelled by the probability density function f(x) = ½ for 2 ≤ x ≤ 4, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find E(X) by integration.",
+    "marks": 2,
+    "answer": "3",
+    "working": "M1 ∫₂⁴ ½x dx = ¼(16 − 4)\nA1 3"
+   },
+   {
+    "label": "b",
+    "text": "Find Var(X).",
+    "marks": 3,
+    "answer": "⅓",
+    "working": "M1 E(X²) = ∫₂⁴ ½x² dx = (64 − 8)/6 = 28/3\nM1 28/3 − 9\nA1 ⅓"
+   }
+  ],
+  "check": "Fraction(1,4)*(16-4) == 3 and Fraction(64-8,6) - 9 == Fraction(1,3)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-154",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The random variable X has probability density function given by f(x) = (1/12)∛x for 0 ≤ x ≤ 8, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find E(X).",
+    "marks": 2,
+    "answer": "32/7",
+    "working": "M1 (1/12)∫₀⁸ x^(4/3) dx = (1/12)(3/7)(128)\nA1 32/7 (≈ 4.57)"
+   },
+   {
+    "label": "b",
+    "text": "Find the median of X, correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "4.76",
+    "working": "M1 (1/12)(3/4)m^(4/3) = ½\nA1 m^(4/3) = 8\nA1 m = 8^(3/4) = 4.76"
+   }
+  ],
+  "check": "Fraction(1,12)*Fraction(3,7)*128 == Fraction(32,7) and Fraction(1,12)*Fraction(3,4)*8 == Fraction(1,2) and round(8**0.75, 2) == 4.76 and Fraction(1,12)*Fraction(3,4)*16 == 1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-155",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "The random variable X has probability density function given by f(x) = (15/512)x²(4 − x)² for 0 ≤ x ≤ 4, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why E(X) = 2 and state the median of X.",
+    "marks": 2,
+    "answer": "f(4 − x) = f(x), so the graph is symmetrical about x = 2: E(X) = 2 and the median is 2",
+    "working": "B1 symmetry about x = 2\nB1 both equal 2"
+   },
+   {
+    "label": "b",
+    "text": "Find Var(X).",
+    "marks": 4,
+    "answer": "4/7",
+    "working": "M1 expand x⁴(4 − x)² = 16x⁴ − 8x⁵ + x⁶\nM1 E(X²) = (15/512)(16384/5 − 16384/3 + 16384/7)\nA1 32/7\nA1 32/7 − 4 = 4/7"
+   }
+  ],
+  "check": "Fraction(15,512)*(Fraction(16*4**3,3) - 2*4**4 + Fraction(4**5,5)) == 1 and Fraction(15,512)*(Fraction(16384,5) - Fraction(16384,3) + Fraction(16384,7)) - 4 == Fraction(4,7)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-156",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "The time, X seconds, taken by a website to load a page is modelled by the probability density function f(x) = k/x³ for 1 ≤ x ≤ 3, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that k = 9/4.",
+    "marks": 2,
+    "answer": "k[−½x⁻²]₁³ = k(½ − 1/18) = 4k/9 = 1",
+    "working": "M1\nA1"
+   },
+   {
+    "label": "b",
+    "text": "Find E(X).",
+    "marks": 2,
+    "answer": "3/2",
+    "working": "M1 (9/4)∫₁³ x⁻² dx = (9/4)(1 − ⅓)\nA1 3/2"
+   },
+   {
+    "label": "c",
+    "text": "Find the median of X, giving your answer in exact form and correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "3/√5 = 1.34",
+    "working": "M1 (9/8)(1 − 1/m²) = ½\nA1 m² = 9/5\nA1 3/√5 = 1.34"
+   }
+  ],
+  "check": "Fraction(9,4)*(Fraction(1,2) - Fraction(1,18)) == 1 and Fraction(9,4)*(1 - Fraction(1,3)) == Fraction(3,2) and Fraction(9,8)*(1 - Fraction(5,9)) == Fraction(1,2) and round(3/math.sqrt(5), 2) == 1.34",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-157",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "The random variable X has probability density function given by f(x) = (2/33)(x + 4) for 0 ≤ x ≤ 3, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the median m of X satisfies 2m² + 16m − 33 = 0, and hence find m in exact form and correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "m = −4 + ½√130 = 1.70",
+    "working": "M1 (2/33)(½m² + 4m) = ½\nA1 2m² + 16m − 33 = 0\nA1 m = (−16 + √520)/4 = −4 + ½√130 = 1.70"
+   },
+   {
+    "label": "b",
+    "text": "Find E(X).",
+    "marks": 3,
+    "answer": "18/11",
+    "working": "M1 (2/33)∫₀³ (x² + 4x) dx\nM1 (2/33)(9 + 18)\nA1 18/11"
+   }
+  ],
+  "check": "(lambda m: abs(2*m*m + 16*m - 33) < 1e-9 and abs((2/33)*(m*m/2 + 4*m) - 0.5) < 1e-12 and round(m, 2) == 1.70)(-4 + math.sqrt(130)/2) and Fraction(2,33)*(9 + 18) == Fraction(18,11) and Fraction(2,33)*(Fraction(9,2) + 12) == 1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-158",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "The random variable X has probability density function given by f(x) = (1/18)(x² + 2x) for 0 ≤ x ≤ 3, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find E(X).",
+    "marks": 2,
+    "answer": "17/8",
+    "working": "M1 (1/18)∫₀³ (x³ + 2x²) dx = (1/18)(81/4 + 18)\nA1 17/8"
+   },
+   {
+    "label": "b",
+    "text": "Show that the median m satisfies m³ + 3m² − 27 = 0, and verify that m lies between 2.2 and 2.3.",
+    "marks": 4,
+    "answer": "m ≈ 2.26",
+    "working": "M1 (1/18)(⅓m³ + m²) = ½\nA1 m³ + 3m² − 27 = 0\nM1 values at 2.2 (−1.832) and 2.3 (+1.037)\nA1 sign change, so 2.2 < m < 2.3"
+   }
+  ],
+  "check": "Fraction(1,18)*(9 + 9) == 1 and Fraction(1,18)*(Fraction(81,4) + 18) == Fraction(17,8) and 2.2**3 + 3*2.2**2 - 27 < 0 and 2.3**3 + 3*2.3**2 - 27 > 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-159",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "The proportion X of a mobile phone's battery charge remaining when its owner first plugs it in each evening is modelled by the probability density function f(x) = (n + 1)xⁿ for 0 ≤ x ≤ 1, f(x) = 0 otherwise, where n is a positive integer.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that E(X) = (n + 1)/(n + 2), and hence find n given that E(X) = 5/6.",
+    "marks": 3,
+    "answer": "n = 4",
+    "working": "M1 ∫₀¹ (n + 1)xⁿ⁺¹ dx\nA1 (n + 1)/(n + 2)\nA1 6n + 6 = 5n + 10 → n = 4"
+   },
+   {
+    "label": "b",
+    "text": "For this value of n, find Var(X) and the median of X correct to 3 significant figures.",
+    "marks": 4,
+    "answer": "Var(X) = 5/252; median 0.871",
+    "working": "M1 E(X²) = 5/7\nA1 5/7 − 25/36 = 5/252\nM1 m⁵ = ½\nA1 0.871"
+   }
+  ],
+  "check": "Fraction(5,6) == Fraction(4+1,4+2) and Fraction(5,7) - Fraction(25,36) == Fraction(5,252) and round(0.5**0.2, 3) == 0.871",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-160",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "The random variable X has probability density function given by f(x) = x/32 for 0 ≤ x ≤ 8, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the lower quartile and the upper quartile of X, giving the upper quartile in exact form.",
+    "marks": 4,
+    "answer": "Q₁ = 4; Q₃ = 4√3",
+    "working": "M1 P(X < x) = x²/64\nA1 x² = 16 → 4\nM1 x² = 48\nA1 4√3"
+   },
+   {
+    "label": "b",
+    "text": "Find the interquartile range, correct to 3 significant figures.",
+    "marks": 1,
+    "answer": "2.93",
+    "working": "B1 4√3 − 4"
+   }
+  ],
+  "check": "Fraction(16,64) == Fraction(1,4) and abs((4*math.sqrt(3))**2/64 - 0.75) < 1e-12 and round(4*math.sqrt(3) - 4, 2) == 2.93",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-161",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The random variable X has probability density function given by f(x) = k(a − x) for 0 ≤ x ≤ a, where k and a are positive constants, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that k = 2/a² and that E(X) = a/3. Given that E(X) = 2, find a and k.",
+    "marks": 4,
+    "answer": "a = 6, k = 1/18",
+    "working": "B1 ½ka² = 1\nM1 k∫₀ᵃ (ax − x²) dx = ka³/6\nA1 a/3\nB1 a = 6, k = 1/18"
+   },
+   {
+    "label": "b",
+    "text": "Find the median of X in the form p − q√2, and give it correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "6 − 3√2 = 1.76",
+    "working": "M1 P(X > m) = (6 − m)²/36 = ½\nA1 (6 − m)² = 18\nA1 m = 6 − 3√2 = 1.76"
+   },
+   {
+    "label": "c",
+    "text": "Find P(X > E(X)).",
+    "marks": 1,
+    "answer": "4/9",
+    "working": "B1 (6 − 2)²/36"
+   }
+  ],
+  "check": "Fraction(1,18)*36/2 == 1 and Fraction(1,18)*Fraction(6**3,6) == 2 and abs((6 - (6 - 3*math.sqrt(2)))**2/36 - 0.5) < 1e-12 and round(6 - 3*math.sqrt(2), 2) == 1.76 and Fraction(16,36) == Fraction(4,9)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-162",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The random variable X has probability density function given by f(x) = a + bx for 0 ≤ x ≤ 4, where a and b are constants, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that E(X) = 7/3, find the values of a and b.",
+    "marks": 4,
+    "answer": "a = ⅛, b = 1/16",
+    "working": "B1 4a + 8b = 1\nB1 8a + 64b/3 = 7/3\nM1 solve\nA1 a = ⅛, b = 1/16"
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of the median of X.",
+    "marks": 3,
+    "answer": "2√5 − 2",
+    "working": "M1 ⅛m + (1/32)m² = ½\nA1 m² + 4m − 16 = 0\nA1 m = −2 + 2√5"
+   },
+   {
+    "label": "c",
+    "text": "Find Var(X).",
+    "marks": 2,
+    "answer": "11/9",
+    "working": "M1 E(X²) = (1/8)(64/3) + (1/16)(64) = 20/3\nA1 20/3 − 49/9 = 11/9"
+   }
+  ],
+  "check": "(lambda a,b: 4*a + 8*b == 1 and 8*a + 64*b/3 == Fraction(7,3) and a*Fraction(64,3) + b*64 - Fraction(49,9) == Fraction(11,9))(Fraction(1,8), Fraction(1,16)) and abs((2*math.sqrt(5)-2)/8 + (2*math.sqrt(5)-2)**2/32 - 0.5) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-163",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The time, X hours, that a randomly chosen phone takes to charge fully at a repair shop is modelled by the probability density function f(x) = k(x + 1)² for 0 ≤ x ≤ 2, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that k = 3/26.",
+    "marks": 2,
+    "answer": "k[⅓(x + 1)³]₀² = k(27 − 1)/3 = 26k/3 = 1",
+    "working": "M1 integrate\nA1 given answer"
+   },
+   {
+    "label": "b",
+    "text": "Find E(X).",
+    "marks": 3,
+    "answer": "17/13",
+    "working": "M1 k∫₀² (x³ + 2x² + x) dx\nA1 (3/26)(4 + 16/3 + 2) = (3/26)(34/3)\nA1 17/13"
+   },
+   {
+    "label": "c",
+    "text": "Find the median of X in exact form, and give it correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "∛14 − 1 = 1.41",
+    "working": "M1 (1/26)[(m + 1)³ − 1] = ½\nA1 (m + 1)³ = 14\nA1 m = ∛14 − 1 = 1.41"
+   }
+  ],
+  "check": "Fraction(3,26)*Fraction(26,3) == 1 and Fraction(3,26)*(4 + Fraction(16,3) + 2) == Fraction(17,13) and round(14**(1/3) - 1, 2) == 1.41 and abs(((14**(1/3))**3 - 1)/26 - 0.5) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-164",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The random variable X has probability density function given by f(x) = (5/32)x⁴ for 0 ≤ x ≤ 2, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find E(X) and Var(X).",
+    "marks": 4,
+    "answer": "E(X) = 5/3, Var(X) = 5/63",
+    "working": "M1 (5/32)∫₀² x⁵ dx = (5/32)(64/6)\nA1 5/3\nM1 E(X²) = (5/32)(128/7) = 20/7\nA1 20/7 − 25/9 = 5/63"
+   },
+   {
+    "label": "b",
+    "text": "Find P(X < E(X)), correct to 3 significant figures.",
+    "marks": 2,
+    "answer": "0.402",
+    "working": "M1 (5/3)⁵/32\nA1 3125/7776 = 0.402"
+   },
+   {
+    "label": "c",
+    "text": "Without further calculation of an integral, state with a reason whether the median of X is greater or less than E(X). Then find the median, correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "Greater; median = 16^(1/5) = 1.74",
+    "working": "B1 P(X < E(X)) < ½ so the median is greater than E(X)\nM1 m⁵/32 = ½\nA1 1.74"
+   }
+  ],
+  "check": "Fraction(5,32)*Fraction(64,6) == Fraction(5,3) and Fraction(5,32)*Fraction(128,7) - Fraction(25,9) == Fraction(5,63) and round(3125/7776, 3) == 0.402 and round(16**0.2, 2) == 1.74",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9709-h2-165",
+  "topic": "Continuous random variables",
+  "subtopic": "Median / mean of a pdf",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "The random variable X has probability density function given by f(x) = kx(3 − x)² for 0 ≤ x ≤ 3, f(x) = 0 otherwise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that k = 4/27.",
+    "marks": 3,
+    "answer": "∫₀³ (9x − 6x² + x³) dx = 81/2 − 54 + 81/4 = 27/4",
+    "working": "M1 expand x(3 − x)²\nM1 integrate\nA1 k = 4/27"
+   },
+   {
+    "label": "b",
+    "text": "Find E(X), and find the value of x at which f(x) is greatest.",
+    "marks": 4,
+    "answer": "E(X) = 1.2; f(x) is greatest at x = 1",
+    "working": "M1 (4/27)∫₀³ (9x² − 6x³ + x⁴) dx = (4/27)(81 − 121.5 + 48.6)\nA1 1.2\nM1 f′(x) = k(3 − x)(3 − 3x) = 0\nA1 x = 1 (f(1) = 16/27 > f(0) = f(3) = 0)"
+   },
+   {
+    "label": "c",
+    "text": "Show that the median of X lies between 1 and E(X).",
+    "marks": 3,
+    "answer": "P(X < 1) = 11/27 ≈ 0.407 < 0.5 and P(X < 1.2) ≈ 0.525 > 0.5, so 1 < median < 1.2 (median ≈ 1.16)",
+    "working": "M1 P(X < x) = (4/27)(9x²/2 − 2x³ + x⁴/4)\nA1 P(X < 1) < ½\nA1 P(X < 1.2) > ½"
+   }
+  ],
+  "check": "(lambda F: F(Fraction(3)) == 1 and F(Fraction(1)) == Fraction(11,27) and F(Fraction(6,5)) > Fraction(1,2))(lambda x: Fraction(4,27)*(Fraction(9,2)*x*x - 2*x**3 + x**4/4)) and Fraction(4,27)*(81 - Fraction(243,2) + Fraction(243,5)) == Fraction(6,5)",
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]

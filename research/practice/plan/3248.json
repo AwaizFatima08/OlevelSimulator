@@ -13,20 +13,29 @@
     {
      "name": "Article from a poster prompt",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 7,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Informal email",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Formal email",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 13,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -36,26 +45,38 @@
     {
      "name": "Opinion article (agree or disagree)",
      "target": 16,
-     "existing": 0,
-     "to_write": 16
+     "existing": 16,
+     "to_write": 0,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Informal letter",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Speech",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Dialogue",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -65,8 +86,11 @@
     {
      "name": "English passage into Urdu",
      "target": 30,
-     "existing": 0,
-     "to_write": 30
+     "existing": 30,
+     "to_write": 30,
+     "target2": 60,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -76,8 +100,11 @@
     {
      "name": "Idioms used in sentences",
      "target": 30,
-     "existing": 0,
-     "to_write": 30
+     "existing": 30,
+     "to_write": 30,
+     "target2": 60,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -87,32 +114,47 @@
     {
      "name": "Rewrite sentence keeping meaning",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 0,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Change to present tense",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Replace words with antonyms",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Negative to positive sentences",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Change to future tense",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -122,14 +164,20 @@
     {
      "name": "Multiple-choice cloze",
      "target": 21,
-     "existing": 0,
-     "to_write": 21
+     "existing": 21,
+     "to_write": 9,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Word-bank cloze",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 21,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -139,14 +187,20 @@
     {
      "name": "Summary from notes (about 100 words)",
      "target": 17,
-     "existing": 0,
-     "to_write": 17
+     "existing": 17,
+     "to_write": 13,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Guided summary under headings",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 17,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -156,34 +210,50 @@
     {
      "name": "Passage A short answers",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Passage B short answers",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Paragraph matching (A-D)",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Note-making under headings",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Short-answer questions",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

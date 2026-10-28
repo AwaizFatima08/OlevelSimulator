@@ -11831,5 +11831,3866 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "9990-h4-001",
+  "topic": "Social approach",
+  "subtopic": "Piliavin et al. (subway Samaritans)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the aim of Piliavin et al.'s subway Samaritan study.",
+    "marks": 2,
+    "answer": "To investigate, in a natural setting, how the type of victim (ill or drunk), the race of the victim, the presence of a helping model and the number of bystanders affect the speed and frequency of helping a person who collapses.",
+    "working": "1 mark: investigating helping behaviour/bystander helping in a real-life (field) setting; 1 mark: naming at least two of the factors: type of victim (cane/drunk), race of victim, model, group size."
+   },
+   {
+    "label": "b",
+    "text": "Describe what the victim did at the start of each trial.",
+    "marks": 2,
+    "answer": "About 70 seconds after the train passed the first station, the victim (standing near a pole in the critical area) staggered forward and collapsed, then lay on the floor looking up at the ceiling until someone helped him.",
+    "working": "1 mark: staggered and collapsed (about 70 seconds after the train left the first station); 1 mark: stayed lying on the floor until helped (the model helped if no passenger did)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-002",
+  "topic": "Social approach",
+  "subtopic": "Piliavin et al. (subway Samaritans)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Outline how the race of the victim was varied in Piliavin et al.'s study.",
+    "marks": 2,
+    "answer": "There were four teams, each with its own male victim. Three of the victims were white and one was black, so passengers saw either a white or a black victim collapse.",
+    "working": "1 mark: different victims in different teams/trials; 1 mark: three white victims and one black victim."
+   },
+   {
+    "label": "b",
+    "text": "Outline one finding about the race of the victim.",
+    "marks": 2,
+    "answer": "Race had little effect when the victim carried a cane, but in the drunk condition there was a slight tendency for passengers to help a victim of their own race.",
+    "working": "1 mark: same-race helping tendency; 1 mark: mainly/especially in the drunk condition (cane victim helped regardless of race)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-003",
+  "topic": "Social approach",
+  "subtopic": "Piliavin et al. (subway Samaritans)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A man collapses on a crowded Metrobus in Lahore. Using the cost–reward model from Piliavin et al.'s study, explain whether a passenger standing next to him is likely to help.",
+    "marks": 4,
+    "answer": "Seeing him collapse causes unpleasant arousal in the passenger. The passenger reduces this arousal in the way that costs least and rewards most. Costs of helping (getting dirty, embarrassment, missing a stop) are low if the man looks ill and harmless, and the costs of not helping (guilt, others' disapproval, being next to him) are high because the passenger is close. So the passenger is likely to help directly. If the man seemed drunk or dangerous, costs of helping rise and the passenger might move away or leave it to others.",
+    "working": "1 mark: arousal caused by seeing an emergency; 1 mark: arousal reduced by the response with the best cost–reward balance; 1 mark: applied costs of helping (time, effort, embarrassment, disgust, harm); 1 mark: applied costs of not helping (guilt, blame) / conclusion linked to scenario (close passenger, ill victim → likely to help)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-004",
+  "topic": "Social approach",
+  "subtopic": "Piliavin et al. (subway Samaritans)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify two ethical guidelines that were not followed in Piliavin et al.'s study.",
+    "marks": 2,
+    "answer": "Informed consent was not obtained; passengers were deceived (they thought the collapse was real). (Also accept: no right to withdraw, no debrief.)",
+    "working": "1 mark each for any two of: informed consent, deception, right to withdraw, debriefing, protection from (psychological) harm."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why the researchers might argue that the study was still justified.",
+    "marks": 2,
+    "answer": "The study could only produce valid, natural helping behaviour if passengers did not know it was a study; the distress was brief and similar to events passengers might meet anyway, and the findings about when people help in emergencies are useful to society.",
+    "working": "1 mark: reason (realism needed / brief and mild distress / everyday event / usefulness); 1 mark: explained in context of the study."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-005",
+  "topic": "Social approach",
+  "subtopic": "Piliavin et al. (subway Samaritans)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Hypothetical replication: researchers repeated Piliavin et al.'s procedure on a commuter train in Karachi. A male victim collapsed on 60 trials.\nCondition | Trials | Trials with spontaneous help\nCane (ill) | 30 | 27\nDrunk | 30 | 12",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage of trials with spontaneous help (help before the model acted) in each condition of the hypothetical replication. Give your answers to the nearest whole number.",
+    "marks": 2,
+    "answer": "Cane: 90 %; drunk: 40 %",
+    "working": "27 ÷ 30 × 100 = 90 % (B1); 12 ÷ 30 × 100 = 40 % (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Compare these results with the pattern found in Piliavin et al.'s original study.",
+    "marks": 2,
+    "answer": "The pattern is the same: the cane (ill) victim was helped more often than the drunk victim. In the original study the figures were about 95 % (62 of 65 trials) for the cane victim and 50 % (19 of 38) for the drunk victim, so both conditions were helped a little less often in the replication, and the gap is slightly larger (50 percentage points rather than about 45).",
+    "working": "1 mark: same direction (ill/cane victim helped more than drunk victim in both); 1 mark: correct comparison of size, e.g. replication slightly lower in both conditions / gap similar."
+   },
+   {
+    "label": "c",
+    "text": "Explain one reason why the replication cannot be compared directly with the original study.",
+    "marks": 2,
+    "answer": "The replication was carried out in a different culture, decades later, on a different kind of train with different passengers, so differences may be due to cultural norms about helping strangers (or crowding, gender norms) rather than to the victim conditions.",
+    "working": "1 mark: a valid difference (culture, era, setting, sample, number of trials, victim characteristics); 1 mark: explanation of how it could change helping."
+   }
+  ],
+  "check": "round(27/30*100)==90 and round(12/30*100)==40 and round(62/65*100)==95 and round(19/38*100)==50",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-006",
+  "topic": "Social approach",
+  "subtopic": "Milgram (obedience)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the shock generator used in Milgram's (1963) study.",
+    "marks": 3,
+    "answer": "It had a row of 30 switches running from 15 volts to 450 volts in 15-volt steps. Groups of switches had verbal labels from 'Slight Shock' up to 'Danger: Severe Shock', and the last two switches were labelled 'XXX'. It looked realistic but gave no real shocks (the teacher received one genuine 45 V shock as a sample before the study).",
+    "working": "1 mark each for any three of: 30 switches; 15 V to 450 V; increases of 15 V; verbal labels from 'Slight Shock' to 'Danger: Severe Shock'; last switches marked XXX; not real/fake."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-007",
+  "topic": "Social approach",
+  "subtopic": "Milgram (obedience)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Outline the learning task the 'learner' was supposed to do in Milgram's study.",
+    "marks": 2,
+    "answer": "It was a word-pair (paired-associate) task. The teacher read pairs of words, then gave one word and four options; the learner chose an answer by pressing one of four switches, which lit up a light on the teacher's panel.",
+    "working": "1 mark: memorising word pairs; 1 mark: chose from four options by pressing a switch/light."
+   },
+   {
+    "label": "b",
+    "text": "Describe what the teacher was told to do each time the learner gave a wrong answer.",
+    "marks": 2,
+    "answer": "Give the learner an electric shock and move one level (15 volts) higher on the generator for each wrong answer, announcing the voltage level before giving the shock.",
+    "working": "1 mark: give a shock; 1 mark: increase by one level/15 V each time (announce the voltage)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-008",
+  "topic": "Social approach",
+  "subtopic": "Milgram (obedience)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "In Milgram's (1963) study, 26 of the 40 participants continued to the maximum of 450 volts.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Five of the 40 participants stopped at 300 volts. Calculate this as a percentage of the sample.",
+    "marks": 1,
+    "answer": "12.5 %",
+    "working": "5 ÷ 40 × 100 = 12.5 % (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage of participants who stopped before reaching 450 volts.",
+    "marks": 1,
+    "answer": "35 %",
+    "working": "40 − 26 = 14 participants; 14 ÷ 40 × 100 = 35 % (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why 300 volts was an important point in the procedure.",
+    "marks": 2,
+    "answer": "At 300 volts the learner pounded on the wall and stopped answering, which was the first clear sign of protest. No participant had stopped before this point, so it was where defiance first appeared.",
+    "working": "1 mark: learner pounded on wall/no more answers at 300 V; 1 mark: no participant stopped below 300 V / first refusals happened here."
+   }
+  ],
+  "check": "5/40*100==12.5 and (40-26)/40*100==35",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-009",
+  "topic": "Social approach",
+  "subtopic": "Milgram (obedience)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Milgram suggested that features of the setting may have increased obedience. Explain two features of the setting at Yale University that could have increased obedience.",
+    "marks": 4,
+    "answer": "1. Yale was a respected university, so participants trusted that the experimenter was a legitimate authority and that the study was safe and worthwhile. 2. Participants had volunteered and been paid, so they felt an obligation to carry on and not spoil the study.\n(Also accept: the study seemed to have a worthy purpose — improving learning; the procedure was new to them, so they did not know what was normal.)",
+    "working": "For each feature: 1 mark identified (prestige of Yale / payment / volunteering / worthy purpose / unfamiliar situation); 1 mark explained in terms of why it increases obedience. Max 4."
+   },
+   {
+    "label": "b",
+    "text": "Suggest how obedience might change if the same study were run in an ordinary rented office with no university link.",
+    "marks": 2,
+    "answer": "Obedience would probably be lower, because the experimenter would seem less legitimate and participants would be less sure the study was trustworthy and safe.",
+    "working": "1 mark: lower obedience; 1 mark: reason linked to reduced legitimacy/prestige of authority."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-010",
+  "topic": "Social approach",
+  "subtopic": "Milgram (obedience)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Junior nurses in a busy hospital in Rawalpindi sometimes give a dose of a drug that a senior doctor orders by phone, even when it looks wrong. Explain how Milgram's findings could be used to reduce this harmful obedience.",
+    "marks": 4,
+    "answer": "Milgram showed that ordinary people obey a legitimate authority even when they believe they are causing harm, so the hospital should not rely on nurses' personal judgement alone. It could train nurses about the power of authority and give them a set rule (e.g. never give a dose above the safe limit without a written order or a second check), so that refusing is part of the system. Because the experimenter's prods ('you have no other choice') kept people obeying, nurses should be told clearly that they always have the right to question an order.",
+    "working": "1 mark: link — Milgram showed people obey legitimate authority even when it causes harm; up to 3 marks for applied strategies explained (training/awareness, rules/second check, empowering refusal, removing authority pressure, supportive peers)."
+   },
+   {
+    "label": "b",
+    "text": "Explain one weakness of applying Milgram's findings to this situation.",
+    "marks": 2,
+    "answer": "Milgram studied American men in a laboratory with a stranger as the authority, whereas nurses are trained professionals who know the doctor and have their own medical knowledge, so their obedience may work differently.",
+    "working": "1 mark: difference in sample/setting/relationship; 1 mark: why this limits application."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-011",
+  "topic": "Social approach",
+  "subtopic": "Milgram (obedience)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Some critics have argued that participants in Milgram's study did not really believe the shocks were real. Use evidence from the study to argue against this criticism.",
+    "marks": 4,
+    "answer": "Many participants showed extreme tension: they sweated, trembled, stuttered, bit their lips, groaned and dug their fingernails into their flesh. Fourteen showed nervous laughter and three had uncontrollable seizures. Many argued with the experimenter and some refused to continue. This level of distress suggests that most believed they were really hurting the learner.",
+    "working": "1 mark each for any of: signs of tension (sweating, trembling, stuttering, lip-biting, groaning, nails in flesh); 14 nervous laughter; 3 full seizures; protests/refusals; plus 1 mark for the conclusion that this shows belief. Max 4."
+   },
+   {
+    "label": "b",
+    "text": "Explain one other reason why the study may lack ecological validity.",
+    "marks": 2,
+    "answer": "Giving electric shocks to a stranger for wrong answers on a memory task is not something people do in everyday life, so obedience in this artificial task may not show how people obey real orders at work or at home.",
+    "working": "1 mark: artificial task/setting; 1 mark: consequence for real-life obedience."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-012",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the participants in Yamamoto et al.'s study and where they lived.",
+    "marks": 2,
+    "answer": "Chimpanzees living at the Primate Research Institute of Kyoto University in Japan, tested in helper–partner pairs.",
+    "working": "1 mark: chimpanzees (mothers and their offspring); 1 mark: Primate Research Institute, Kyoto University, Japan."
+   },
+   {
+    "label": "b",
+    "text": "Suggest one reason why the chimpanzees were tested with partners they already knew.",
+    "marks": 2,
+    "answer": "Chimpanzees that live together are relaxed with each other, so their helping is not affected by fear or aggression towards a stranger, and it is safe to put them in neighbouring booths.",
+    "working": "1 mark: reason (familiar/less stress/safety/natural relationship); 1 mark: how this helps the study (behaviour more natural, less aggression, ethical)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-013",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the two tools that the partner chimpanzee could need to get the juice.",
+    "marks": 2,
+    "answer": "A stick and a straw.",
+    "working": "1 mark each: stick; straw."
+   },
+   {
+    "label": "b",
+    "text": "The helper chimpanzee chose from a tray of seven objects. Explain why objects that were of no use to the partner were also put in the tray.",
+    "marks": 2,
+    "answer": "So the researchers could see whether the helper picked the specific tool the partner needed (targeted helping) rather than just handing over any object.",
+    "working": "1 mark: to test whether the choice was targeted/appropriate; 1 mark: distinguishes understanding the partner's need from random offering."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-014",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by 'targeted helping'.",
+    "marks": 2,
+    "answer": "Helping that is matched to the specific need of the other individual, for example giving exactly the tool the partner needs, rather than general or random help.",
+    "working": "1 mark: help fitted to the other's specific need/goal; 1 mark: example or contrast with random help."
+   },
+   {
+    "label": "b",
+    "text": "Describe how the partner chimpanzee could 'request' a tool.",
+    "marks": 1,
+    "answer": "By reaching its arm through the hole in the panel between the two booths towards the helper.",
+    "working": "1 mark: reaching/putting arm through the hole (or similar begging gesture)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-015",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the research method used in Yamamoto et al.'s study.",
+    "marks": 1,
+    "answer": "A (controlled) laboratory experiment.",
+    "working": "1 mark: laboratory experiment."
+   },
+   {
+    "label": "b",
+    "text": "Identify the independent variable and the dependent variable in the comparison of the 'can-see' and 'cannot-see' conditions.",
+    "marks": 2,
+    "answer": "IV: whether the helper could see the partner's situation (transparent panel) or not (opaque panel). DV: whether the object offered was the tool the partner needed (appropriate or not).",
+    "working": "1 mark: IV – visibility of partner's situation; 1 mark: DV – whether the appropriate tool was offered."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-016",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Each chimpanzee was tested in both the 'can-see' and the 'cannot-see' conditions. Explain one strength of this design for this study.",
+    "marks": 2,
+    "answer": "There were very few chimpanzees, and each has its own personality and tool skills, so using the same animals in both conditions removes participant variables and makes good use of a tiny sample.",
+    "working": "1 mark: removes individual (participant) differences / needs fewer animals; 1 mark: applied to chimpanzees/small sample."
+   },
+   {
+    "label": "b",
+    "text": "Explain one problem that could arise from testing the same chimpanzees in both conditions, and suggest how it could be reduced.",
+    "marks": 3,
+    "answer": "Order (practice) effects: a chimpanzee might learn which tool partners usually need during the first condition, which would affect its choices in the second. This could be reduced by counterbalancing (half the pairs do 'can-see' first, half 'cannot-see' first) or by mixing the trial types in a random order.",
+    "working": "1 mark: names order/practice/fatigue effect; 1 mark: explained in context; 1 mark: counterbalancing/randomising trial order."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-017",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The sessions in Yamamoto et al.'s study were video-recorded. Explain one way this improved the reliability of the data.",
+    "marks": 2,
+    "answer": "The recordings could be watched again and coded by more than one person, so the researchers could check that observers agreed on which object was offered and when (inter-rater reliability).",
+    "working": "1 mark: can replay/check; 1 mark: allows more than one coder/inter-rater reliability."
+   },
+   {
+    "label": "b",
+    "text": "Explain one way in which the procedure was standardised.",
+    "marks": 2,
+    "answer": "Every trial used the same booths, the same tray of seven objects and the same juice task, so any difference in tool choice could be put down to whether the helper could see the partner.",
+    "working": "1 mark: one standardised feature (same booths, objects, juice task, position of hole/panel); 1 mark: why this matters (comparison fair / replicable)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-018",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one way in which Yamamoto et al.'s study can be seen as ethical.",
+    "marks": 2,
+    "answer": "The chimpanzees were not harmed: they lived in a social group in an enriched environment, the task was like a game and the reward was juice, so the study caused little stress.",
+    "working": "1 mark: ethical feature (no harm, juice reward, familiar partners, social housing, voluntary participation in task); 1 mark: explained."
+   },
+   {
+    "label": "b",
+    "text": "Explain one ethical problem with using captive chimpanzees in research.",
+    "marks": 2,
+    "answer": "Chimpanzees cannot consent to take part, and keeping an intelligent social species in captivity for research may cause long-term stress even if each task is harmless.",
+    "working": "1 mark: problem (no consent / captivity / possible frustration when tool not given); 1 mark: explained."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-019",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.\nHypothetical replication: four chimpanzees each made 12 offers in each condition (48 offers per condition).\nCondition | Offers | Appropriate tool offered\nCan-see | 48 | 38\nCannot-see | 48 | 18",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage of offers that were the appropriate tool in each condition. Give your answers to 1 decimal place.",
+    "marks": 2,
+    "answer": "Can-see: 79.2 %; cannot-see: 37.5 %",
+    "working": "38 ÷ 48 × 100 = 79.2 % (B1); 18 ÷ 48 × 100 = 37.5 % (B1)."
+   },
+   {
+    "label": "b",
+    "text": "If a chimpanzee picked one of the seven objects completely at random, what percentage of offers would be the appropriate tool? Give your answer to 1 decimal place.",
+    "marks": 1,
+    "answer": "14.3 %",
+    "working": "1 ÷ 7 × 100 = 14.3 % (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Using your answers, state one conclusion about the chimpanzees' helping.",
+    "marks": 2,
+    "answer": "The chimpanzees chose the right tool far more often than chance when they could see the partner's situation, so they seem to understand what the partner needs; when they could not see, accuracy fell, so they need visual information to target their help.",
+    "working": "1 mark: can-see well above chance → understanding of partner's need; 1 mark: drop when cannot see → relies on seeing the situation."
+   }
+  ],
+  "check": "round(38/48*100,1)==79.2 and round(18/48*100,1)==37.5 and round(1/7*100,1)==14.3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-020",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare Yamamoto et al.'s study with Piliavin et al.'s study, giving one similarity and one difference.",
+    "marks": 4,
+    "answer": "Similarity: both studied helping behaviour and measured whether help was given to another individual in need. Difference: Piliavin et al. carried out a field experiment with thousands of human passengers who did not know they were being studied, whereas Yamamoto et al. carried out a laboratory experiment with a small number of chimpanzees in booths. (Also accept: Piliavin's help was spontaneous, while chimpanzees mostly helped after a request.)",
+    "working": "Similarity: 1 mark identified + 1 mark explained with both studies. Difference: 1 mark identified + 1 mark explained with both studies."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-021",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "To what extent can the findings of Yamamoto et al.'s study be generalised to human helping?",
+    "marks": 4,
+    "answer": "Chimpanzees are closely related to humans, so their ability to understand another's needs may show where human targeted helping comes from (evolutionary roots). However, the sample was very small, from one institute, and the animals had long experience of human testing and tool use, so they may not be typical even of chimpanzees. Humans also help without being asked and use language, cultural norms and costs/rewards (as Piliavin showed), so generalisation is limited.",
+    "working": "1 mark: argument for (close evolutionary relative / shared ability); up to 2 marks: arguments against (small/captive/trained sample; human helping involves language, norms, proactive help); 1 mark: reasoned judgement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-022",
+  "topic": "Social approach",
+  "subtopic": "Yamamoto et al. (chimpanzee helping)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Older-syllabus study: Yamamoto et al. was a core study up to 2023 and is not on the 2024 onward syllabus. Use this question with older past papers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Yamamoto et al. found that the chimpanzees rarely offered a tool unless their partner asked for it. Suggest how a follow-up study could test whether chimpanzees will offer help without being asked.",
+    "marks": 4,
+    "answer": "Keep the booths, tray and juice task, but make the hole too small for the partner to reach through, so it cannot request. Record (on video) whether the helper offers the appropriate tool within a fixed time, e.g. 2 minutes, when it can see the partner struggling. Compare with a condition where requests are possible, using the same chimpanzees and counterbalancing the order.",
+    "working": "1 mark: way of preventing/removing requests; 1 mark: what is measured (offer + appropriateness, time limit); 1 mark: comparison/control condition; 1 mark: one further sensible detail (same pairs, counterbalancing, video, number of trials)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-023",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the two assumptions of the social approach.",
+    "marks": 2,
+    "answer": "1. Behaviour, cognitions and emotions can be influenced by other individuals. 2. Behaviour, cognitions and emotions can be influenced by groups, social contexts, culture and society.",
+    "working": "1 mark each: influence of other individuals; influence of groups/social context/culture/society."
+   },
+   {
+    "label": "b",
+    "text": "At home Hira speaks quietly, but at her cousin's mehndi she sings and dances loudly. Explain how one assumption of the social approach explains this.",
+    "marks": 2,
+    "answer": "Her behaviour changes with the social context: at a wedding celebration the group and cultural norms expect singing and dancing, so she joins in.",
+    "working": "1 mark: identifies the group/social context/culture assumption; 1 mark: applied to the mehndi."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-024",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Bilal is a quiet student, but at a cricket match in a packed stadium he stands, shouts and chants with the crowd. Explain how the social approach would explain Bilal's behaviour.",
+    "marks": 3,
+    "answer": "The social approach assumes behaviour is shaped by the groups and social situation we are in. In the crowd, Bilal follows the group norm of chanting and cheering, and he feels part of the crowd, so his behaviour is different from how he acts alone. The same person behaves differently in different social contexts.",
+    "working": "1 mark: assumption about groups/social context; 1 mark: crowd norms/others' behaviour influence him; 1 mark: contrast with behaviour when alone/situation not personality."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-025",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain, using an example, how culture can influence behaviour.",
+    "marks": 3,
+    "answer": "Culture gives shared norms about how to behave. For example, in Pakistan people usually greet elders first and stand when they enter a room, so a young person's behaviour depends on the cultural rules they have learned, not only on their personality.",
+    "working": "1 mark: culture = shared norms/values/rules; 1 mark: relevant example; 1 mark: link to the social approach assumption that culture/society influences behaviour."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-026",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how the finding that every participant in Milgram's study went to at least 300 volts supports an assumption of the social approach.",
+    "marks": 2,
+    "answer": "It shows that the presence and orders of another individual (the experimenter) changed how ordinary people behaved, supporting the assumption that behaviour is influenced by other individuals.",
+    "working": "1 mark: names the 'other individuals' assumption; 1 mark: link to experimenter's influence on all participants."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-027",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one difference between the assumptions of the social approach and the biological approach.",
+    "marks": 3,
+    "answer": "The social approach assumes behaviour is shaped by other people, groups and culture (external, situational causes), whereas the biological approach assumes behaviour is caused by internal factors such as genes, hormones and brain structure. For example, the social approach explains helping by the costs and rewards of the situation, while the biological approach would look at hormones such as oxytocin.",
+    "working": "1 mark: social = other people/groups/culture; 1 mark: biological = genes/brain/hormones/evolution; 1 mark: clear contrast or example."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-028",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one strength of the social approach, using an example of how it has been applied.",
+    "marks": 3,
+    "answer": "It has useful applications. For example, Piliavin et al. showed that an ill person is helped more than a drunk one and that helping depends on costs and rewards, so public campaigns can reduce the costs of helping (e.g. teaching first aid) to increase bystander help in emergencies.",
+    "working": "1 mark: strength (useful applications); 1 mark: example study/finding; 1 mark: how it is applied in real life."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-029",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one weakness of the social approach, using evidence from Milgram's study.",
+    "marks": 3,
+    "answer": "It can ignore individual differences. Although the situation produced high obedience, 14 of the 40 participants defied the experimenter in the same situation, which shows that personality or personal values also matter. The social approach may therefore over-emphasise situational causes.",
+    "working": "1 mark: weakness (situational determinism/ignores individual or biological factors); 1 mark: evidence (14 defied / 35 % stopped); 1 mark: explained."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-030",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the social approach often uses field experiments and observations, using one core study as an example.",
+    "marks": 3,
+    "answer": "Because it assumes that behaviour depends on real social situations, researchers want to study people in natural settings with real others present. For example, Piliavin et al. studied real passengers on a New York subway, so the helping they saw was natural and could not be explained by an artificial laboratory.",
+    "working": "1 mark: link to assumption (behaviour depends on social context); 1 mark: natural settings/real others → validity; 1 mark: example from a core study (Piliavin)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-031",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the assumptions of the social approach.",
+    "marks": 4,
+    "answer": "Behaviour, cognitions and emotions can be influenced by other individuals, e.g. an authority figure giving orders or a stranger approaching. They can also be influenced by groups, social contexts, culture and society, e.g. the number of bystanders present or cultural norms about helping.",
+    "working": "1 mark for each assumption (2); 1 mark for each relevant example/elaboration (2)."
+   },
+   {
+    "label": "b",
+    "text": "Compare Milgram's study and Piliavin et al.'s study in terms of how well each supports the assumptions of the social approach.",
+    "marks": 8,
+    "answer": "Both studies support the idea that other people change behaviour. Milgram shows the influence of one individual (the experimenter) and of a social context (a prestigious university); 65 % went to 450 V. Piliavin shows the influence of the situation (type of victim, the model) on helping in a crowd. However, Milgram was a laboratory study with one authority figure, while Piliavin studied whole groups of strangers in a natural setting, so Piliavin gives stronger support to the group/social-context assumption, but did not find diffusion of responsibility. Both show individual differences (35 % defied; mostly male first helpers), which limits support for purely social explanations. Both were carried out in the USA, so support for the 'culture' assumption is limited. Comparison of methods, samples and validity should be made point by point.",
+    "working": "Level 3 (6–8): at least two well-explained comparison points (similarities and/or differences) linking each study to the assumptions, with detail from both studies; Level 2 (3–5): some comparison but partly descriptive or one-sided; Level 1 (1–2): basic, mostly description of one study. Possible points: other individuals vs groups; lab vs field; individual differences in both; culture/US samples; ecological validity of social context."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-032",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how the social approach relates to the determinism versus free will debate. Use Milgram's study in your answer.",
+    "marks": 4,
+    "answer": "The social approach is mainly situationally deterministic: it suggests the situation (orders from an authority, the setting) causes behaviour. Milgram's finding that 65 % obeyed to 450 V supports this. However, 35 % refused, showing people can choose to resist pressure, which supports some free will. So the approach is better described as 'soft' determinism.",
+    "working": "1 mark: social approach = situational determinism; 1 mark: Milgram's obedience as support; 1 mark: defiance as evidence of free will; 1 mark: conclusion/soft determinism."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-033",
+  "topic": "Social approach",
+  "subtopic": "Assumptions of the approach",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the assumption that culture influences behaviour makes it difficult to generalise the social approach core studies.",
+    "marks": 4,
+    "answer": "If culture shapes behaviour, then findings from one culture may not apply in another. Milgram and Piliavin studied Americans and Perry et al. tested one specific group of participants from a single country, so their levels of obedience, helping and personal space reflect those cultures' norms. In a more collectivist culture such as Pakistan, respect for authority or norms about helping strangers and personal space could be different, so the results could be ethnocentric.",
+    "working": "1 mark: assumption implies cultural differences; 1 mark: core studies use single (mostly Western) cultures; 1 mark: example of how another culture could differ; 1 mark: idea of ethnocentrism/limited generalisability."
+   },
+   {
+    "label": "b",
+    "text": "Suggest one way researchers could test whether a social approach finding is universal.",
+    "marks": 2,
+    "answer": "Replicate the same standardised procedure in several different countries (cross-cultural research) and compare the results.",
+    "working": "1 mark: cross-cultural replication; 1 mark: same standardised procedure/compare results."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-034",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Outline what is meant by 'oxytocin'.",
+    "marks": 2,
+    "answer": "A hormone (neuropeptide) produced in the hypothalamus and released by the pituitary gland, linked to social behaviour such as bonding and trust.",
+    "working": "1 mark: hormone/neuropeptide (from hypothalamus/pituitary); 1 mark: linked to social behaviour/bonding."
+   },
+   {
+    "label": "b",
+    "text": "State how oxytocin was given to participants in Perry et al.'s study.",
+    "marks": 1,
+    "answer": "As a nasal spray (sniffed up the nose).",
+    "working": "1 mark: nasal spray."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-035",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Perry et al.'s study was double-blind. Explain what this means.",
+    "marks": 2,
+    "answer": "Neither the participants nor the researchers testing them knew whether the spray given on that occasion was oxytocin or the placebo.",
+    "working": "1 mark: participants did not know; 1 mark: researchers/experimenters did not know."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a double-blind procedure was used.",
+    "marks": 2,
+    "answer": "It stops participants' expectations (demand characteristics) and researchers' expectations (experimenter bias) from affecting the distances recorded, so any difference is due to the oxytocin.",
+    "working": "1 mark: reduces demand characteristics/expectations of participants; 1 mark: reduces experimenter bias."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-036",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "All the participants in Perry et al.'s study were male. Suggest one reason for this.",
+    "marks": 2,
+    "answer": "Hormone levels in women change during the menstrual cycle and can interact with oxytocin, so using only men removed this extra variable.",
+    "working": "1 mark: female hormonal changes/menstrual cycle (or pregnancy risk); 1 mark: would act as a confounding/extraneous variable."
+   },
+   {
+    "label": "b",
+    "text": "Explain one weakness of using an all-male sample.",
+    "marks": 2,
+    "answer": "The findings cannot be generalised to women, whose response to oxytocin and personal space preferences may be different.",
+    "working": "1 mark: cannot generalise to females; 1 mark: explained (women may respond differently)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-037",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Perry et al. measured empathy with a questionnaire. Explain one strength of using a questionnaire to measure empathy.",
+    "marks": 2,
+    "answer": "It gives a standardised numerical score for each participant, so participants can be compared and divided into high- and low-empathy groups objectively.",
+    "working": "1 mark: strength (standardised/quantitative/quick/easy to compare); 1 mark: applied to grouping participants by empathy."
+   },
+   {
+    "label": "b",
+    "text": "Explain one weakness of measuring empathy with a questionnaire.",
+    "marks": 2,
+    "answer": "Participants may give socially desirable answers, describing themselves as more caring than they really are, so the empathy score may not be valid.",
+    "working": "1 mark: social desirability / poor self-insight / fixed answers; 1 mark: consequence for validity."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-038",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Each participant was tested once after oxytocin and once after a placebo, on different days. Explain why the two tests were carried out on different days.",
+    "marks": 2,
+    "answer": "So that the oxytocin had fully worn off before the placebo session (or vice versa), meaning the hormone from one session could not affect behaviour in the other.",
+    "working": "1 mark: effect of the hormone wears off / washout; 1 mark: avoids carry-over between conditions."
+   },
+   {
+    "label": "b",
+    "text": "Explain how counterbalancing could be used in this design and why it is needed.",
+    "marks": 2,
+    "answer": "Half the participants receive oxytocin on the first day and placebo on the second; the other half receive them in the opposite order. This balances out order effects such as being more relaxed with the task the second time.",
+    "working": "1 mark: half each order (ABBA/AB-BA); 1 mark: controls order effects (practice/familiarity)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-039",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Hypothetical study based on Perry et al.: six male students in Islamabad stood still while a researcher walked slowly towards them and said 'stop' when they began to feel uncomfortable. The distance (cm) was recorded after a placebo spray and, on another day, after an oxytocin spray.\nParticipant | Placebo | Oxytocin\n1 | 62 | 58\n2 | 70 | 66\n3 | 55 | 57\n4 | 68 | 61\n5 | 74 | 70\n6 | 59 | 54",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean preferred distance in each condition. Give your answers to 1 decimal place.",
+    "marks": 2,
+    "answer": "Placebo: 64.7 cm; oxytocin: 61.0 cm",
+    "working": "Placebo: 388 ÷ 6 = 64.7 cm (B1); oxytocin: 366 ÷ 6 = 61.0 cm (B1)."
+   },
+   {
+    "label": "b",
+    "text": "State how many participants chose a smaller distance after oxytocin than after placebo.",
+    "marks": 1,
+    "answer": "5",
+    "working": "Participants 1, 2, 4, 5 and 6 had smaller distances; participant 3 increased (55 → 57). (B1)"
+   },
+   {
+    "label": "c",
+    "text": "Explain why it would be useful to know each participant's empathy score before drawing a conclusion from these data.",
+    "marks": 2,
+    "answer": "Perry et al. found that the effect of oxytocin depended on empathy, so the small average difference might hide different responses in high- and low-empathy people (for example participant 3, whose distance increased).",
+    "working": "1 mark: oxytocin effect depends on empathy (individual differences); 1 mark: means could hide opposite responses / reference to participant 3."
+   }
+  ],
+  "check": "round(sum([62,70,55,68,74,59])/6,1)==64.7 and round(sum([58,66,57,61,70,54])/6,1)==61.0 and sum([1 for d in [58-62,66-70,57-55,61-68,70-74,54-59] if d<0])==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-040",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Perry et al. found that the effect of oxytocin on personal space depended on the participant's level of empathy. Explain what this finding means.",
+    "marks": 3,
+    "answer": "Oxytocin did not change personal space in the same way for everyone. Participants high in empathy and those low in empathy responded differently to the hormone, so empathy (an individual characteristic) changed — moderated — the effect of oxytocin on the distance they preferred.",
+    "working": "1 mark: oxytocin effect not the same for everyone; 1 mark: high- vs low-empathy participants responded differently; 1 mark: empathy as moderating/interacting factor (biology + personality + social situation)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-041",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one strength of measuring personal space as a distance in centimetres.",
+    "marks": 2,
+    "answer": "It is an objective, quantitative measure, so it is not affected by the researcher's interpretation and the results for oxytocin and placebo can be compared statistically.",
+    "working": "1 mark: objective/quantitative; 1 mark: consequence (reliable, easy to compare, less bias)."
+   },
+   {
+    "label": "b",
+    "text": "Suggest one type of qualitative data that could be collected in a study like Perry et al.'s, and explain why it might be useful.",
+    "marks": 2,
+    "answer": "Asking participants, after each trial, to describe how they felt as the other person came closer. This could explain why they chose a certain distance (e.g. anxiety or friendliness), which a number alone cannot show.",
+    "working": "1 mark: suitable qualitative data (description of feelings/reasons); 1 mark: usefulness (explains reasons/depth)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-042",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two ethical issues that researchers must deal with when giving participants a hormone such as oxytocin, and how each could be dealt with.",
+    "marks": 4,
+    "answer": "1. Protection from harm: the hormone could have side effects, so participants should be screened for medical problems, a safe standard dose used and a doctor available. 2. Informed consent: participants cannot be told which spray they are getting on each day, so they should be told in advance that they will receive oxytocin on one occasion and a placebo on another, and agree to this; they should be debriefed afterwards and be free to withdraw.",
+    "working": "For each issue: 1 mark identified (protection from harm, informed consent, deception, right to withdraw, debrief, confidentiality); 1 mark for how it is dealt with in this context."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-043",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Hypothetical data in a study like Perry et al.: preferred distance (cm) of eight participants divided by questionnaire empathy score.\nGroup | Placebo distances | Oxytocin distances\nHigh empathy | 60, 64, 58, 66 | 52, 57, 50, 61\nLow empathy | 63, 59, 67, 61 | 70, 66, 72, 68",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean change in preferred distance (oxytocin minus placebo) for each group.",
+    "marks": 2,
+    "answer": "High empathy: −7.0 cm; low empathy: +6.5 cm",
+    "working": "High: placebo mean 248 ÷ 4 = 62.0, oxytocin mean 220 ÷ 4 = 55.0, change −7.0 cm (B1). Low: placebo 250 ÷ 4 = 62.5, oxytocin 276 ÷ 4 = 69.0, change +6.5 cm (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the overall mean change for all eight participants would give a misleading picture of these results.",
+    "marks": 2,
+    "answer": "The overall mean change is close to zero (−0.25 cm), which suggests oxytocin has no effect, but in fact it moved the two groups in opposite directions.",
+    "working": "1 mark: overall mean ≈ 0 / −0.25 cm; 1 mark: hides opposite effects in the two groups."
+   },
+   {
+    "label": "c",
+    "text": "Explain what these hypothetical results suggest about whether personal space is determined by biological or individual factors.",
+    "marks": 2,
+    "answer": "Both matter: the hormone (biological) changed personal space, but the direction depended on the person's empathy (individual factor), so the two interact.",
+    "working": "1 mark: biological factor has an effect; 1 mark: effect depends on individual characteristic / interaction."
+   }
+  ],
+  "check": "sum([52,57,50,61])/4-sum([60,64,58,66])/4==-7 and sum([70,66,72,68])/4-sum([63,59,67,61])/4==6.5 and (sum([52,57,50,61,70,66,72,68])-sum([60,64,58,66,63,59,67,61]))/8==-0.25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-044",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A psychologist wants to find out whether Perry et al.'s findings apply to women in Pakistan. Suggest how she could carry out a study, and explain one problem she might face.",
+    "marks": 6,
+    "answer": "Recruit female university students (e.g. by volunteer sampling at a university in Lahore), screen for health, and use a double-blind, placebo-controlled repeated measures design with oxytocin and placebo sessions on separate days, counterbalanced. Measure empathy by questionnaire, and measure preferred distance in cm when a female researcher walks towards each participant until she says 'stop'. Test all women at the same stage of the menstrual cycle if possible. Problem: hormone changes across the cycle are hard to control and cultural norms about closeness to strangers (especially men) could affect distances, so the approaching person's gender must be controlled.",
+    "working": "Up to 4 marks for the plan: sample/sampling; design (repeated measures, double-blind, placebo, counterbalanced); measurement of DV (distance in cm) and empathy; one control (time of cycle, gender of approacher, same room). Up to 2 marks for a problem identified and explained (hormonal variation, cultural norms, ethics of giving hormones, recruitment)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-045",
+  "topic": "Social approach",
+  "subtopic": "Perry et al. (personal space)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate Perry et al.'s study of oxytocin and personal space in terms of two strengths and two weaknesses. At least one of your evaluation points must be about generalisability.",
+    "marks": 10,
+    "answer": "Strengths: double-blind, placebo-controlled design reduces bias, so differences can be put down to oxytocin; repeated measures design removes participant variables; distance measured objectively in cm (quantitative, reliable); standardised procedure makes it replicable. Weaknesses: all-male student sample from one country, so findings may not generalise to women, other ages or cultures (generalisability); laboratory task in which a person approaches on request lacks ecological validity; empathy measured by self-report may be affected by social desirability; giving hormones raises ethical issues.",
+    "working": "Level 4 (9–10): two strengths and two weaknesses, well explained with detail from the study, including a clear generalisability point; Level 3 (6–8): four points, some less developed, or three well explained; Level 2 (3–5): limited/generic points; Level 1 (1–2): mainly description. One long answer, marked as a whole."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-046",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Graphs and tables",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A hypothetical survey asked 120 students in Faisalabad where they usually revise.\nPlace | Number of students\nLibrary | 42\nHome | 54\nCafé | 12\nPark | 12",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the angle of the 'Library' sector if these data are drawn as a pie chart.",
+    "marks": 1,
+    "answer": "126°",
+    "working": "42 ÷ 120 × 360 = 126° (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage of students who chose 'Home'.",
+    "marks": 1,
+    "answer": "45 %",
+    "working": "54 ÷ 120 × 100 = 45 % (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a pie chart is suitable for these data but would not be suitable for showing the mean revision time of each group.",
+    "marks": 2,
+    "answer": "The data are counts in separate categories that add up to a whole (all 120 students), so each slice shows a share of the total. Mean revision times are not parts of a whole, so they should be shown as bars in a bar chart.",
+    "working": "1 mark: categories/parts of a whole (frequencies adding to 100 %); 1 mark: means are not parts of a whole → bar chart."
+   }
+  ],
+  "check": "round(42/120*360)==126 and 54/120*100==45 and 42+54+12+12==120",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-047",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Graphs and tables",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Twenty first-year students at a college in Sialkot rated how anxious they felt before a presentation (1 = not at all, 5 = extremely). Hypothetical ratings:\n3, 4, 2, 5, 3, 3, 1, 4, 2, 3, 4, 5, 3, 2, 4, 3, 1, 3, 4, 2",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Draw up a frequency table for these data, showing each rating and its frequency.",
+    "marks": 2,
+    "answer": "Rating | Frequency\n1 | 2\n2 | 4\n3 | 7\n4 | 5\n5 | 2",
+    "working": "2 marks: all five frequencies correct (1 mark if one error); table must have headings."
+   },
+   {
+    "label": "b",
+    "text": "State the modal rating.",
+    "marks": 1,
+    "answer": "3",
+    "working": "3 occurs 7 times (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Name a suitable graph for showing the frequency of each rating and give one reason.",
+    "marks": 2,
+    "answer": "A bar chart (frequency on the y-axis, each rating as a separate bar), because the ratings are separate whole-number categories rather than continuous data.",
+    "working": "1 mark: bar chart; 1 mark: discrete/separate categories."
+   }
+  ],
+  "check": "sum([1 for v in [3,4,2,5,3,3,1,4,2,3,4,5,3,2,4,3,1,3,4,2] if v==3])==7 and sum([1 for v in [3,4,2,5,3,3,1,4,2,3,4,5,3,2,4,3,1,3,4,2] if v==4])==5 and sum([1 for v in [3,4,2,5,3,3,1,4,2,3,4,5,3,2,4,3,1,3,4,2] if v==2])==4 and sum([1 for v in [3,4,2,5,3,3,1,4,2,3,4,5,3,2,4,3,1,3,4,2] if v in (1,5)])==4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-048",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Graphs and tables",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "In a hypothetical study in Hyderabad, groups of participants learned 25 unrelated words and were tested after different delays.\nTime since learning (hours) | Mean words recalled\n0 | 18\n1 | 14\n6 | 11\n24 | 8\n48 | 7",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the most suitable type of graph for these data and explain your choice.",
+    "marks": 2,
+    "answer": "A line graph, because time since learning is a continuous variable and the graph shows how recall changes across time.",
+    "working": "1 mark: line graph; 1 mark: x variable continuous / showing change over time."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage fall in mean recall between 0 hours and 24 hours. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "55.6 %",
+    "working": "(18 − 8) ÷ 18 × 100 = 55.6 % (M1 A1)."
+   },
+   {
+    "label": "c",
+    "text": "Describe the pattern shown by the data.",
+    "marks": 2,
+    "answer": "Recall falls quickly at first (most loss in the first 24 hours) and then falls only slowly between 24 and 48 hours.",
+    "working": "1 mark: recall decreases over time; 1 mark: fast fall then levelling off."
+   }
+  ],
+  "check": "round((18-8)/18*100,1)==55.6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-049",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Graphs and tables",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A hypothetical field experiment in a supermarket in Islamabad recorded the mean time (minutes) shoppers spent in the store on days with slow or fast background music, for two age groups.\nAge group | Slow music | Fast music\nUnder 30 | 26 | 24\nOver 30 | 31 | 22",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the type of graph that should be used to show all four means on one graph, and describe how it should be set out.",
+    "marks": 3,
+    "answer": "A grouped (clustered) bar chart: type of music on the x-axis with two bars side by side for each (one for under-30s and one for over-30s), mean time in store (minutes) on the y-axis starting at 0, a key showing the two age groups, and a title naming both IVs and the DV.",
+    "working": "1 mark: grouped/clustered bar chart; 1 mark: one IV on x-axis with bars for the other IV + key; 1 mark: y-axis = mean minutes (from 0) / title."
+   },
+   {
+    "label": "b",
+    "text": "Calculate how much longer, on average, the over-30s stayed with slow music than with fast music, and do the same for the under-30s.",
+    "marks": 2,
+    "answer": "Over-30s: 9 minutes longer; under-30s: 2 minutes longer.",
+    "working": "Over-30s: 31 − 22 = 9 (B1); under-30s: 26 − 24 = 2 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Using your answers, state one conclusion from the data.",
+    "marks": 2,
+    "answer": "Slow music increased time in the store for both age groups, but the effect was much larger for shoppers over 30 than for those under 30.",
+    "working": "1 mark: slow music → longer time for both; 1 mark: effect bigger for over-30s (age changes the effect)."
+   }
+  ],
+  "check": "31-22==9 and 26-24==2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-050",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Quantitative and qualitative data",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A researcher studying the new metro line in Lahore counts how many passengers give up their seat for an elderly person, and later interviews some passengers about why they did or did not.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify which method collects quantitative data and which collects qualitative data.",
+    "marks": 2,
+    "answer": "Quantitative: counting the number of passengers who give up their seat. Qualitative: the interviews about why they did or did not give up their seat.",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "Give one strength of each type of data in this study.",
+    "marks": 2,
+    "answer": "Counts are easy to compare between rush hour and quiet times (objective, quick to analyse). The interviews give detailed reasons for passengers' choices, which the counts cannot explain.",
+    "working": "1 mark: quantitative strength (easy to compare/analyse/objective); 1 mark: qualitative strength (detail/reasons/insight)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-051",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Quantitative and qualitative data",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write one closed question that would produce quantitative data about students' sleep.",
+    "marks": 1,
+    "answer": "e.g. 'How many hours did you sleep last night? ___ hours' or 'Do you use your phone in bed? Yes / No'.",
+    "working": "1 mark: closed question with fixed/numerical answer about sleep."
+   },
+   {
+    "label": "b",
+    "text": "Write one open question that would produce qualitative data about students' sleep.",
+    "marks": 1,
+    "answer": "e.g. 'Describe what usually stops you from falling asleep.'",
+    "working": "1 mark: open question inviting a free answer in the participant's own words."
+   },
+   {
+    "label": "c",
+    "text": "Explain one weakness of the data produced by your closed question.",
+    "marks": 2,
+    "answer": "It gives only a number or yes/no, so it does not show why students sleep that amount; the fixed answer may force students to choose something that does not fit them, reducing validity.",
+    "working": "1 mark: lacks detail/reasons or forced choice; 1 mark: consequence (lower validity/insight)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-052",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Quantitative and qualitative data",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A hypothetical mental-health awareness campaign in Karachi posted a video online. Eight viewer comments were collected:\n1 'This helped me talk to my sister about stress.'\n2 'Too long and boring.'\n3 'Posted at 9 pm on Tuesday.'\n4 'Great idea, please make one in Urdu too.'\n5 'It made mental illness seem like a joke.'\n6 'I shared it with my class.'\n7 'I watched it.'\n8 'Thank you, I feel less alone.'",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Sort the eight comments into three categories: positive, negative and neutral. Give the number of comments in each category.",
+    "marks": 3,
+    "answer": "Positive: 1, 4, 6, 8 (4 comments). Negative: 2, 5 (2 comments). Neutral: 3, 7 (2 comments).",
+    "working": "1 mark for each correct category count (positive 4, negative 2, neutral 2)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage of comments that were positive.",
+    "marks": 1,
+    "answer": "50 %",
+    "working": "4 ÷ 8 × 100 = 50 % (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain one problem with sorting qualitative comments into categories in this way.",
+    "marks": 2,
+    "answer": "Some comments are hard to place (e.g. comment 7 could be read as mildly negative), so the category chosen depends on the researcher's interpretation, making the counts subjective and possibly unreliable; detail is also lost.",
+    "working": "1 mark: problem (subjective interpretation / loss of detail / ambiguous comments); 1 mark: explained with reference to the data."
+   }
+  ],
+  "check": "4/8*100==50 and 4+2+2==8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-053",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Quantitative and qualitative data",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why qualitative data are often said to have high validity but lower reliability.",
+    "marks": 4,
+    "answer": "Qualitative data let participants explain their thoughts and feelings in their own words, so the data reflect what they really mean rather than a forced choice — higher validity. However, the answers are unique and must be interpreted by the researcher; another researcher might interpret them differently and the same answers are unlikely to be repeated in the same form, so the data are less consistent — lower reliability.",
+    "working": "1 mark: own words/detail; 1 mark: so captures real meaning (validity); 1 mark: requires interpretation/subjective; 1 mark: hard to replicate or get consistent coding (reliability)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-054",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Quantitative and qualitative data",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A hypothetical study at a clinic in Multan investigates whether heavy smartphone use is linked to anxiety in 200 young adult patients.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify one piece of quantitative data and one piece of qualitative data that could be collected in this study.",
+    "marks": 2,
+    "answer": "Quantitative: number of hours spent on the phone per day / anxiety rating 1–10. Qualitative: each patient's description of how they feel when they cannot check their phone.",
+    "working": "1 mark each, must fit the study."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the researcher might decide to collect only quantitative data in this study.",
+    "marks": 2,
+    "answer": "With 200 patients, numerical data would be much quicker to collect and analyse, and could be compared statistically between people with high and low phone use.",
+    "working": "1 mark: reason (large sample, time, ease of analysis, objectivity); 1 mark: applied to the study."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-055",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Quantitative and qualitative data",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a hypothetical study, 15 new mothers in Islamabad kept a diary for four weeks about how they felt about returning to work. The researcher, who believes returning to work causes guilt, reads the diaries and identifies themes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two ways the researcher could reduce bias when analysing the diaries.",
+    "marks": 4,
+    "answer": "1. Use a coding scheme agreed in advance with clear definitions of each theme, so she does not just see what she expects. 2. Ask a second researcher, who does not know the aim, to code the same diaries independently and compare (inter-rater reliability). (Also accept: using direct quotes as evidence; checking interpretations with the mothers.)",
+    "working": "For each way: 1 mark identified; 1 mark explained in context."
+   },
+   {
+    "label": "b",
+    "text": "Suggest one ethical issue raised by the diaries and how it could be dealt with.",
+    "marks": 2,
+    "answer": "The diaries contain personal, sensitive feelings, so confidentiality must be protected by removing names and storing diaries securely; mothers should be able to withdraw their diary.",
+    "working": "1 mark: issue (confidentiality/privacy/psychological harm/withdrawal); 1 mark: how it is dealt with."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-056",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Quantitative and qualitative data",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A researcher plans an observation of how shoppers choose fruit in an open-air market in Peshawar. Describe how she could collect both quantitative and qualitative data, and explain why using both would be better than using only one.",
+    "marks": 6,
+    "answer": "Quantitative: use event sampling with behavioural categories such as 'touches fruit', 'smells fruit', 'asks the seller about price', tallying each shopper's behaviours (and timing how long they spend at a stall). Qualitative: write descriptive notes of what shoppers say to sellers and how they bargain, or briefly interview some shoppers about how they choose. Both: the counts show how common each behaviour is and can be compared (e.g. men vs women), while the notes explain why shoppers act as they do and may reveal behaviours not on the checklist, so the findings are more valid and complete.",
+    "working": "Up to 2 marks: quantitative method described (categories/tally/time); up to 2 marks: qualitative method described (notes/interview/quotes); up to 2 marks: why both is better (complementary strengths, triangulation, validity)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-057",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Nine participants in a hypothetical study in Quetta were timed (seconds) completing a jigsaw puzzle: 34, 41, 29, 41, 38, 45, 36, 41, 30",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean, the median and the mode of these times. Give the mean to 1 decimal place.",
+    "marks": 3,
+    "answer": "Mean 37.2 s; median 38 s; mode 41 s",
+    "working": "Mean: 335 ÷ 9 = 37.2 (B1); median: ordered 29, 30, 34, 36, 38, 41, 41, 41, 45 → 5th value = 38 (B1); mode 41 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain one weakness of the mode for these data.",
+    "marks": 1,
+    "answer": "It only shows the most common time and ignores the other values; here the mode (41 s) is higher than five of the nine times, so it does not represent the typical time well.",
+    "working": "1 mark: ignores most data / not representative / can be at an extreme."
+   }
+  ],
+  "check": "round(sum([34,41,29,41,38,45,36,41,30])/9,1)==37.2 and sorted([34,41,29,41,38,45,36,41,30])[4]==38",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-058",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A hypothetical class of 25 students in Gujranwala reported how many siblings they have.\nNumber of siblings | Frequency\n0 | 3\n1 | 7\n2 | 9\n3 | 5\n4 | 1",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the modal number of siblings.",
+    "marks": 1,
+    "answer": "2",
+    "working": "Frequency 9 is the highest (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Find the median number of siblings.",
+    "marks": 1,
+    "answer": "2",
+    "working": "n = 25, so median is the 13th value; cumulative frequencies 3, 10, 19 → 13th value is 2 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the mean number of siblings.",
+    "marks": 2,
+    "answer": "1.76",
+    "working": "Σfx = 0 + 7 + 18 + 15 + 4 = 44 (M1); 44 ÷ 25 = 1.76 (A1)."
+   }
+  ],
+  "check": "0*3+1*7+2*9+3*5+4*1==44 and 44/25==1.76 and 3+7+9+5+1==25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-059",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Eight drivers in a hypothetical simulator study in Dubai pressed a brake pedal when a hazard appeared. Reaction times (ms): 412, 385, 450, 398, 520, 405, 430, 390",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the median reaction time.",
+    "marks": 2,
+    "answer": "408.5 ms",
+    "working": "Ordered: 385, 390, 398, 405, 412, 430, 450, 520 (M1); (405 + 412) ÷ 2 = 408.5 ms (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mean reaction time.",
+    "marks": 1,
+    "answer": "423.75 ms",
+    "working": "3390 ÷ 8 = 423.75 ms (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the mean is higher than the median for these data.",
+    "marks": 2,
+    "answer": "One very slow time (520 ms) pulls the mean up, but the median only depends on the middle values, so it is not affected by this extreme score.",
+    "working": "1 mark: 520 ms is extreme/outlier; 1 mark: mean uses all values, median does not."
+   }
+  ],
+  "check": "(405+412)/2==408.5 and sum([412,385,450,398,520,405,430,390])/8==423.75",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-060",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "In a hypothetical memory study in Rawalpindi, eight participants recalled these numbers of words from a list of 40: 6, 7, 7, 8, 9, 9, 10, 31",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean and the median for all eight participants.",
+    "marks": 2,
+    "answer": "Mean 10.875 (10.9 to 1 d.p.); median 8.5",
+    "working": "Mean 87 ÷ 8 = 10.875 (B1); median (8 + 9) ÷ 2 = 8.5 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "The researcher discovers that the participant who scored 31 had seen the list before. Calculate the mean and median of the other seven scores.",
+    "marks": 2,
+    "answer": "Mean 8; median 8",
+    "working": "Mean 56 ÷ 7 = 8 (B1); median = 4th value of 6, 7, 7, 8, 9, 9, 10 = 8 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Use your answers to explain which measure was more affected by the score of 31.",
+    "marks": 2,
+    "answer": "The mean fell by 2.875 but the median fell by only 0.5, so the mean was much more affected by the extreme score.",
+    "working": "1 mark: mean changed more (with figures); 1 mark: because mean uses actual values of all scores / median uses position."
+   }
+  ],
+  "check": "sum([6,7,7,8,9,9,10,31])/8==10.875 and (8+9)/2==8.5 and sum([6,7,7,8,9,9,10])/7==8 and 10.875-8==2.875",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-061",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Two hypothetical groups of students in Bahawalpur were taught a maths topic in different ways and then tested (score out of 40).\nGroup A (worksheets): 22, 25, 19, 24, 27, 21, 23\nGroup B (online game): 18, 30, 12, 29, 15, 31, 26",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean and the median for each group.",
+    "marks": 4,
+    "answer": "Group A: mean 23, median 23. Group B: mean 23, median 26.",
+    "working": "A: 161 ÷ 7 = 23 (B1); ordered 19, 21, 22, 23, 24, 25, 27 → 23 (B1). B: 161 ÷ 7 = 23 (B1); ordered 12, 15, 18, 26, 29, 30, 31 → 26 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "A newspaper reports that 'the two teaching methods worked equally well'. Explain why this conclusion, based only on the means, may be misleading.",
+    "marks": 2,
+    "answer": "Although the means are equal, the scores in Group B are much more spread out (12 to 31) and its median is higher, so the methods did not have the same effect: Group B worked very well for some students and poorly for others.",
+    "working": "1 mark: same mean hides different spread/distribution; 1 mark: reference to data (range or median)."
+   }
+  ],
+  "check": "sum([22,25,19,24,27,21,23])==161 and sum([18,30,12,29,15,31,26])==161 and sorted([22,25,19,24,27,21,23])[3]==23 and sorted([18,30,12,29,15,31,26])[3]==26",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-062",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "In a hypothetical study, 12 participants from Lahore had a mean score of 15 on a puzzle task and 8 participants from Karachi had a mean score of 20.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean score of all 20 participants together.",
+    "marks": 2,
+    "answer": "17",
+    "working": "Total = 12 × 15 + 8 × 20 = 180 + 160 = 340 (M1); 340 ÷ 20 = 17 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the answer is not simply the average of 15 and 20.",
+    "marks": 2,
+    "answer": "The groups are different sizes; the group of 12 has more weight, so the overall mean is pulled closer to 15 than the simple average of 17.5.",
+    "working": "1 mark: unequal group sizes; 1 mark: larger group carries more weight (17 not 17.5)."
+   }
+  ],
+  "check": "(12*15+8*20)/20==17 and (15+20)/2==17.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-063",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "In a hypothetical repeated measures experiment in Abbottabad, six participants proofread a text in three conditions and the number of errors they missed was recorded.\nParticipant | Silence | Music | Television\n1 | 8 | 11 | 7\n2 | 6 | 9 | 5\n3 | 9 | 12 | 8\n4 | 7 | 10 | 8\n5 | 10 | 13 | 9\n6 | 8 | 11 | 5",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean number of errors in each condition.",
+    "marks": 3,
+    "answer": "Silence 8; music 11; television 7",
+    "working": "Silence 48 ÷ 6 = 8; music 66 ÷ 6 = 11; television 42 ÷ 6 = 7 (B1 each)."
+   },
+   {
+    "label": "b",
+    "text": "Using the means, state which condition produced the fewest errors and suggest one reason why this result may need to be checked.",
+    "marks": 2,
+    "answer": "Television (mean 7). This is unexpected because television is usually distracting, so the result might be due to an order effect or chance with only six participants; the study should be replicated.",
+    "working": "1 mark: television; 1 mark: sensible reason (small sample, order effects, unexpected result, need for replication/statistics)."
+   }
+  ],
+  "check": "sum([8,6,9,7,10,8])/6==8 and sum([11,9,12,10,13,11])/6==11 and sum([7,5,8,8,9,5])/6==7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-064",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a hypothetical study, ten participants in Mardan scored: 10, 12, 13, 14, 15, 15, 16, 17, 18, 34. The mean is 16.4. The score of 34 was later found to be a recording error.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean of the nine scores that remain when the error is removed. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "14.44",
+    "working": "Total of 10 = 164; 164 − 34 = 130 (M1); 130 ÷ 9 = 14.44 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the median before and after removing the score of 34.",
+    "marks": 2,
+    "answer": "Before: 15; after: 15",
+    "working": "Before: (15 + 15) ÷ 2 = 15 (B1); after: 5th of nine values 10, 12, 13, 14, 15, 15, 16, 17, 18 = 15 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain what your answers show about the mean and the median.",
+    "marks": 2,
+    "answer": "Removing one extreme value changed the mean by almost 2 points but did not change the median at all, showing that the median is resistant to extreme values while the mean is sensitive to them.",
+    "working": "1 mark: mean changed, median did not; 1 mark: conclusion about sensitivity to outliers."
+   }
+  ],
+  "check": "sum([10,12,13,14,15,15,16,17,18,34])/10==16.4 and round(130/9,2)==14.44 and sorted([10,12,13,14,15,15,16,17,18])[4]==15",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-065",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Ten viewers in a hypothetical study in Faisalabad rated a new television drama from 1 (very bad) to 5 (very good): 2, 5, 4, 2, 5, 3, 5, 2, 1, 4",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the median and the mode of these ratings.",
+    "marks": 2,
+    "answer": "Median 3.5; modes 2 and 5 (bimodal)",
+    "working": "Ordered: 1, 2, 2, 2, 3, 4, 4, 5, 5, 5; median (3 + 4) ÷ 2 = 3.5 (B1); 2 and 5 each occur 3 times (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the median gives a misleading picture of these ratings.",
+    "marks": 2,
+    "answer": "The median of 3.5 suggests people felt neutral, but in fact opinions were split: many disliked it (2) and many liked it (5), and few gave a middle rating.",
+    "working": "1 mark: median suggests middle/neutral view; 1 mark: data show two clusters/polarised opinions."
+   },
+   {
+    "label": "c",
+    "text": "Suggest the most useful way of summarising these data and explain why.",
+    "marks": 2,
+    "answer": "Report both modes (or show a bar chart of frequencies for each rating), because this shows the two groups of opinion clearly.",
+    "working": "1 mark: both modes / frequency table or bar chart; 1 mark: reason (shows polarisation)."
+   }
+  ],
+  "check": "(3+4)/2==3.5 and sorted([2,5,4,2,5,3,5,2,1,4])==[1,2,2,2,3,4,4,5,5,5]",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-066",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of central tendency",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For each of the following sets of data, state the most appropriate measure of central tendency and explain your choice.\n(i) The favourite fast-food chain chosen by 50 teenagers.\n(ii) Self-rated happiness on a scale from 1 to 7 by 40 workers.\n(iii) Times taken by 30 people to solve a puzzle, where two people took over 20 minutes and the rest took 2–5 minutes.",
+    "marks": 6,
+    "answer": "(i) Mode — the data are categories (names), so only the most frequent choice can be found. (ii) Median — ratings are ordered but the gaps between points may not be equal, so a mean of them may not be meaningful. (iii) Median — the two very slow times would distort the mean, but the median is not affected by extreme values.",
+    "working": "For each set: 1 mark correct measure; 1 mark justified reason."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-067",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A hypothetical reasoning test was designed so that scores in a large population are normally distributed with a mean of 100 and a standard deviation of 15.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the range of scores within which about 68 % of people would be expected to fall.",
+    "marks": 1,
+    "answer": "85 to 115",
+    "working": "100 ± 15 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "State the range of scores within which about 95 % of people would be expected to fall.",
+    "marks": 1,
+    "answer": "70 to 130",
+    "working": "100 ± 2 × 15 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "State what percentage of people would be expected to score above 130.",
+    "marks": 1,
+    "answer": "About 2.5 %",
+    "working": "(100 − 95) ÷ 2 = 2.5 % (B1)."
+   }
+  ],
+  "check": "100-15==85 and 100+15==115 and 100-2*15==70 and 100+2*15==130 and (100-95)/2==2.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-068",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the heights of 1000 adult women in Pakistan would be expected to show a normal distribution.",
+    "marks": 2,
+    "answer": "Most women are close to the average height, with fewer and fewer very short or very tall women, so the frequencies form a symmetrical bell shape around the mean.",
+    "working": "1 mark: most scores near mean; 1 mark: fewer at the extremes, symmetrical."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the number of times people in the same sample have been abroad would probably not be normally distributed.",
+    "marks": 2,
+    "answer": "Most people would have been abroad zero or very few times and a small number would have travelled many times, so the data would bunch at the low end with a long tail to the right (positive skew).",
+    "working": "1 mark: many scores at/near zero (floor); 1 mark: long tail to the right / positively skewed."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-069",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by a 'positively skewed' distribution.",
+    "marks": 2,
+    "answer": "A distribution where most scores are at the low end and a few high scores form a long tail to the right, so it is not symmetrical.",
+    "working": "1 mark: most scores low / peak to left; 1 mark: long tail to the right (towards high values)."
+   },
+   {
+    "label": "b",
+    "text": "State the usual order of the mean, median and mode in a positively skewed distribution.",
+    "marks": 1,
+    "answer": "Mode < median < mean (the mean is highest).",
+    "working": "1 mark: correct order."
+   },
+   {
+    "label": "c",
+    "text": "Give one example of data in psychology that are likely to be positively skewed.",
+    "marks": 1,
+    "answer": "Reaction times, or the number of errors on an easy task.",
+    "working": "1 mark: suitable example."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-070",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Data set X: mean 24, median 24, mode 24. Data set Y: mean 31, median 36, mode 39. Data set Z: mean 52, median 45, mode 41. State which data set is most likely to be normally distributed and explain why.",
+    "marks": 2,
+    "answer": "X, because in a normal distribution the mean, median and mode are all equal (the distribution is symmetrical).",
+    "working": "1 mark: X; 1 mark: mean = median = mode."
+   },
+   {
+    "label": "b",
+    "text": "State whether data set Y is positively or negatively skewed and give a reason.",
+    "marks": 2,
+    "answer": "Negatively skewed, because the mean (31) is lower than the median (36) and the mode (39), so a few low scores pull the mean down.",
+    "working": "1 mark: negative; 1 mark: mean < median < mode / tail to the left."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-071",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A hypothetical attention test was given to 600 secondary-school students in Lahore. Scores were normally distributed with a mean of 50 and a standard deviation of 8.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Approximately how many students would you expect to score between 42 and 58?",
+    "marks": 1,
+    "answer": "408",
+    "working": "42 and 58 are 1 SD either side of the mean → 68 % of 600 = 408 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Approximately how many students would you expect to score above 66?",
+    "marks": 1,
+    "answer": "15",
+    "working": "66 = mean + 2 SD; (100 − 95) ÷ 2 = 2.5 %; 2.5 % of 600 = 15 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Approximately how many students would you expect to score below 42?",
+    "marks": 2,
+    "answer": "96",
+    "working": "Below mean − 1 SD = (100 − 68) ÷ 2 = 16 % (M1); 16 % of 600 = 96 (A1)."
+   }
+  ],
+  "check": "round(600*0.68)==408 and round(600*0.025)==15 and round(600*(1-0.68)/2)==96",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-072",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A hypothetical problem-solving task was given to students in Sukkur (score out of 9).\nScore | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9\nFrequency | 1 | 3 | 7 | 12 | 15 | 12 | 7 | 3 | 1",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total number of participants and the mean score.",
+    "marks": 2,
+    "answer": "61 participants; mean 5",
+    "working": "n = 1 + 3 + 7 + 12 + 15 + 12 + 7 + 3 + 1 = 61 (B1); Σfx = 305, 305 ÷ 61 = 5 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "State the mode and the median.",
+    "marks": 2,
+    "answer": "Mode 5; median 5",
+    "working": "Mode: frequency 15 at score 5 (B1); median: 31st value = 5 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain whether these data appear to be normally distributed.",
+    "marks": 2,
+    "answer": "Yes: the frequencies are symmetrical around 5, they rise to a single peak and fall evenly, and the mean, median and mode are equal.",
+    "working": "1 mark: symmetrical/bell shape; 1 mark: mean = median = mode."
+   }
+  ],
+  "check": "sum([1,3,7,12,15,12,7,3,1])==61 and sum([1*1,2*3,3*7,4*12,5*15,6*12,7*7,8*3,9*1])==305 and 305/61==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-073",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Ten hypothetical scores on a visual memory test: 41, 47, 50, 52, 53, 55, 56, 58, 62, 76",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The mean of these scores is 55 and the standard deviation is 9.4 (to 1 decimal place). How many of the ten scores lie within one standard deviation of the mean?",
+    "marks": 2,
+    "answer": "8",
+    "working": "Mean ± 1 SD = 45.6 to 64.4 (M1); scores 47, 50, 52, 53, 55, 56, 58, 62 → 8 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Compare your answer with what you would expect for a normal distribution.",
+    "marks": 2,
+    "answer": "8 out of 10 is 80 %, which is higher than the 68 % expected within 1 SD in a normal distribution; with only ten scores and one extreme score (76) inflating the SD, this is not surprising.",
+    "working": "1 mark: 80 % vs 68 %; 1 mark: comment (small sample / extreme value)."
+   }
+  ],
+  "check": "sum([41,47,50,52,53,55,56,58,62,76])/10==55 and round(math.sqrt(sum([(v-55)**2 for v in [41,47,50,52,53,55,56,58,62,76]])/9),1)==9.4 and len([v for v in [41,47,50,52,53,55,56,58,62,76] if 55-9.4<=v<=55+9.4])==8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-074",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the shape of a distribution in which mean = 74, median = 80 and mode = 85.",
+    "marks": 2,
+    "answer": "Negatively skewed: most scores are high, with the peak towards the right, and a long tail of a few low scores to the left.",
+    "working": "1 mark: negatively skewed; 1 mark: description (bunched at high end, tail to the left)."
+   },
+   {
+    "label": "b",
+    "text": "These are scores (out of 90) on a hypothetical spelling test given to children in Mirpur. Suggest why the scores might have this shape.",
+    "marks": 2,
+    "answer": "The test was too easy, so many children scored near the maximum (a ceiling effect) and only a few children who struggled scored low.",
+    "working": "1 mark: ceiling effect / test too easy; 1 mark: explained (scores cannot go above 90, many near top)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-075",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a hypothetical study, Group A (no training) had normally distributed scores with mean 60 and SD 5. Group B (memory training) had normally distributed scores with mean 70 and SD 5.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the approximate percentage of Group B who scored below 60.",
+    "marks": 1,
+    "answer": "About 2.5 %",
+    "working": "60 = 70 − 2 × 5, i.e. 2 SD below B's mean → 2.5 % (B1)."
+   },
+   {
+    "label": "b",
+    "text": "State the approximate percentage of Group A who scored above 65.",
+    "marks": 1,
+    "answer": "About 16 %",
+    "working": "65 = 60 + 1 SD → (100 − 68) ÷ 2 = 16 % (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the difference between these two groups is likely to be meaningful, using the means and standard deviations.",
+    "marks": 2,
+    "answer": "The means are 10 points apart, which is two standard deviations, and both groups are quite consistent (SD 5), so the distributions overlap only a little; the difference is unlikely to be due to chance variation alone.",
+    "working": "1 mark: difference = 2 SD; 1 mark: small overlap/low spread → meaningful difference."
+   }
+  ],
+  "check": "70-2*5==60 and (100-95)/2==2.5 and (100-68)/2==16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-076",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a normally distributed set of scores, about 95 % lie between 34 and 66. Calculate the mean and the standard deviation.",
+    "marks": 2,
+    "answer": "Mean 50; SD 8",
+    "working": "Mean = (34 + 66) ÷ 2 = 50 (B1); 66 − 50 = 16 = 2 SD, so SD = 8 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "A participant scores 74. Explain what this tells you about the score.",
+    "marks": 2,
+    "answer": "74 is 3 SD above the mean (50 + 24), so only about 0.1 % of people would score this high (roughly 1 in 750); it is a very unusual score.",
+    "working": "1 mark: 3 SD above mean; 1 mark: very rare (≈0.1 %, beyond the 99.7 % range)."
+   }
+  ],
+  "check": "(34+66)/2==50 and (66-50)/2==8 and 50+3*8==74",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-077",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A researcher designed a test of knowledge of road signs for new drivers in Islamabad, but the results were strongly positively skewed. Explain what this suggests about the test and suggest one way of improving it.",
+    "marks": 4,
+    "answer": "Most drivers scored very low with a few high scorers, so the test was probably too difficult — a floor effect — and it cannot tell apart drivers at the lower end. It could be improved by adding easier items (and fewer very hard ones), piloting it with a small group first, so that scores spread out around a middle mean.",
+    "working": "1 mark: most scores low / tail to the right; 1 mark: test too hard / floor effect; 1 mark: consequence (cannot discriminate); 1 mark: improvement (easier items / pilot study)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-078",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Normal distribution",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the mean and standard deviation are the best summary statistics when data are normally distributed, but the median and range may be better when data are skewed.",
+    "marks": 4,
+    "answer": "In a normal distribution the data are symmetrical, so the mean is the typical value (equal to the median and mode) and the SD tells you where about 68 % and 95 % of scores lie. In a skewed distribution a few extreme scores in the tail pull the mean towards them and inflate the SD, so the mean is no longer typical; the median is not affected by extreme scores, so it better represents the middle (with the range showing the full spread).",
+    "working": "1 mark: normal → symmetrical so mean is central/typical; 1 mark: SD meaningful (68/95 % rule); 1 mark: skew → extreme scores distort mean/SD; 1 mark: median resistant to extremes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-079",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Hypothetical number of customers served per hour by two teams of cashiers at a supermarket in Lahore.\nTeam P: 18, 22, 25, 20, 27, 24\nTeam Q: 13, 30, 21, 35, 16, 28",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the range for each team.",
+    "marks": 2,
+    "answer": "Team P: 9; Team Q: 22",
+    "working": "P: 27 − 18 = 9 (B1); Q: 35 − 13 = 22 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Using the ranges, state which team was more consistent.",
+    "marks": 1,
+    "answer": "Team P, because its range is smaller.",
+    "working": "1 mark: P with reason."
+   }
+  ],
+  "check": "max([18,22,25,20,27,24])-min([18,22,25,20,27,24])==9 and max([13,30,21,35,16,28])-min([13,30,21,35,16,28])==22",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-080",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "In a hypothetical study in Peshawar, two groups of 15 students completed an exam-stress questionnaire (score out of 50). Group A (no revision plan) had a mean of 31 and a standard deviation of 6.8. Group B (weekly revision plan) had a mean of 27 and a standard deviation of 1.4.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by a 'measure of spread'.",
+    "marks": 1,
+    "answer": "A statistic that shows how much the scores in a data set vary from each other or from the average.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain what the standard deviations show about the two groups.",
+    "marks": 2,
+    "answer": "Group B's scores (SD 1.4) were close to their mean, so the group was consistent; Group A's scores (SD 6.8) were much more spread out, so individuals varied a lot.",
+    "working": "1 mark: B small SD = scores clustered/consistent; 1 mark: A large SD = more varied."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-081",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Seven participants in a hypothetical study in Gilgit counted the number of times they checked their phone in an hour: 12, 9, 14, 11, 40, 17, 13",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the range of these scores.",
+    "marks": 1,
+    "answer": "31",
+    "working": "40 − 9 = 31 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the range without the score of 40.",
+    "marks": 1,
+    "answer": "8",
+    "working": "17 − 9 = 8 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Use your answers to explain one weakness of the range.",
+    "marks": 2,
+    "answer": "The range uses only the two most extreme scores, so one unusual score (40) made the spread look almost four times bigger than it is for most participants.",
+    "working": "1 mark: uses only highest and lowest; 1 mark: easily distorted by an outlier (with reference to data)."
+   }
+  ],
+  "check": "max([12,9,14,11,40,17,13])-min([12,9,14,11,40,17,13])==31 and max([12,9,14,11,17,13])-min([12,9,14,11,17,13])==8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-082",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give one strength of the range as a measure of spread.",
+    "marks": 1,
+    "answer": "It is quick and easy to calculate.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Give one strength of the standard deviation compared with the range.",
+    "marks": 1,
+    "answer": "It uses every score in the data set, so it is more representative and less distorted by one extreme value.",
+    "working": "1 mark."
+   },
+   {
+    "label": "c",
+    "text": "State why the standard deviation of a set of scores can never be negative.",
+    "marks": 2,
+    "answer": "It is based on squared differences from the mean, which are always zero or positive; the square root of a positive number is taken, so the result is zero or positive.",
+    "working": "1 mark: squared deviations (non-negative); 1 mark: square root is positive / zero only if all scores equal."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-083",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Six hypothetical participants in Jhelum rated their confidence after a public-speaking workshop (out of 20): 12, 15, 9, 18, 16, 14",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean of these scores.",
+    "marks": 1,
+    "answer": "14",
+    "working": "84 ÷ 6 = 14 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the standard deviation using s = √(Σ(x − mean)² ÷ (n − 1)). Give your answer to 2 decimal places.",
+    "marks": 3,
+    "answer": "3.16",
+    "working": "Deviations: −2, 1, −5, 4, 2, 0; squares 4, 1, 25, 16, 4, 0; Σ = 50 (M1); 50 ÷ 5 = 10 (M1); √10 = 3.16 (A1)."
+   }
+  ],
+  "check": "sum([12,15,9,18,16,14])/6==14 and round(math.sqrt(sum([(v-14)**2 for v in [12,15,9,18,16,14]])/5),2)==3.16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-084",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Five hypothetical scores on a hand-eye coordination task in Larkana: 20, 22, 25, 27, 31",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Copy and complete the calculation: find the mean, each deviation (x − mean), each squared deviation, and Σ(x − mean)².",
+    "marks": 3,
+    "answer": "Mean = 25. Deviations: −5, −3, 0, 2, 6. Squared: 25, 9, 0, 4, 36. Σ(x − mean)² = 74.",
+    "working": "1 mark: mean 25; 1 mark: deviations; 1 mark: squares and sum 74."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the standard deviation using the sample formula (divide by n − 1). Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "4.30",
+    "working": "74 ÷ 4 = 18.5 (M1); √18.5 = 4.30 (A1)."
+   }
+  ],
+  "check": "sum([20,22,25,27,31])/5==25 and sum([(v-25)**2 for v in [20,22,25,27,31]])==74 and round(math.sqrt(74/4),2)==4.30",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-085",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Two hypothetical sets of six scores (mean 20 for both):\nSet A: 10, 20, 20, 20, 20, 30\nSet B: 10, 10, 10, 30, 30, 30",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the range for each set.",
+    "marks": 1,
+    "answer": "Both ranges are 20",
+    "working": "A: 30 − 10 = 20; B: 30 − 10 = 20 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "The standard deviations are 6.32 for Set A and 10.95 for Set B. Explain why the standard deviation gives a better description of these data than the range.",
+    "marks": 3,
+    "answer": "The ranges are the same, which suggests equal spread, but in Set A four of the six scores are exactly at the mean (20), while in Set B every score is 10 away from the mean. The SD uses every score, so it correctly shows that Set B is much more spread out.",
+    "working": "1 mark: ranges identical; 1 mark: describes difference in the data (A clustered at 20, B all at extremes); 1 mark: SD uses all scores so shows B more variable."
+   }
+  ],
+  "check": "round(math.sqrt(sum([(v-20)**2 for v in [10,20,20,20,20,30]])/5),2)==6.32 and round(math.sqrt(sum([(v-20)**2 for v in [10,10,10,30,30,30]])/5),2)==10.95",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-086",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A hypothetical repeated measures experiment in Muzaffarabad compared the number of anagrams solved in 10 minutes in the morning and at night.\nCondition | Mean | Standard deviation\nMorning | 18 | 2.0\nNight | 14 | 5.5",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare the two conditions using the means and the standard deviations.",
+    "marks": 2,
+    "answer": "Participants solved more anagrams in the morning (mean 18) than at night (mean 14), and their scores were more consistent in the morning (SD 2.0) than at night (SD 5.5), when scores varied much more.",
+    "working": "1 mark: comparison of means; 1 mark: comparison of SDs (spread)."
+   },
+   {
+    "label": "b",
+    "text": "Suggest one reason why scores varied more at night.",
+    "marks": 2,
+    "answer": "People differ in how tired they get at night (some are 'night owls' and others are very sleepy), so tiredness affects some participants much more than others.",
+    "working": "1 mark: individual differences in tiredness/sleep habits; 1 mark: explained."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-087",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Hypothetical results of a study with 8 participants per condition.\nCondition | Mean score | SD\nX | 18 | 6.5\nY | 16 | 1.2",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A researcher claims that condition X is better than condition Y. Using the data, explain why this claim is not well supported.",
+    "marks": 3,
+    "answer": "The means differ by only 2 points, but condition X has a very large SD (6.5), so scores in X ranged widely and overlapped heavily with Y. The difference in means could easily be due to a few high scorers in X rather than a real effect, especially with only 8 per group.",
+    "working": "1 mark: small difference in means (2); 1 mark: large SD in X → big overlap/inconsistent; 1 mark: conclusion (could be chance / small sample / need inferential test)."
+   },
+   {
+    "label": "b",
+    "text": "Suggest what the researcher should do before drawing a conclusion.",
+    "marks": 1,
+    "answer": "Use a larger sample (or an inferential statistical test) to see whether the difference is significant.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "18-16==2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-088",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Five hypothetical participants in Nawabshah scored 11, 14, 9, 16 and 10 on a vocabulary test.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean and range of these scores.",
+    "marks": 2,
+    "answer": "Mean 12; range 7",
+    "working": "60 ÷ 5 = 12 (B1); 16 − 9 = 7 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Because the scoring sheet was printed wrongly, every participant's score needs 3 marks added. State the new mean, the new range and what happens to the standard deviation, and explain why.",
+    "marks": 4,
+    "answer": "New mean 15; range still 7; SD unchanged (2.92). Adding the same amount to every score moves the whole distribution up by 3, but the distances between scores, and between each score and the mean, stay the same, so measures of spread do not change.",
+    "working": "1 mark: mean 15; 1 mark: range 7; 1 mark: SD unchanged; 1 mark: explanation (all deviations the same)."
+   }
+  ],
+  "check": "sum([11,14,9,16,10])/5==12 and max([11,14,9,16,10])-min([11,14,9,16,10])==7 and sum([14,17,12,19,13])/5==15 and round(math.sqrt(sum([(v-12)**2 for v in [11,14,9,16,10]])/4),2)==round(math.sqrt(sum([(v-15)**2 for v in [14,17,12,19,13]])/4),2)==2.92",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-089",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a hypothetical repeated measures study in Chitral, six participants recalled items from a shopping list in a quiet room and with traffic noise.\nParticipant | Quiet | Noise\n1 | 14 | 9\n2 | 17 | 18\n3 | 15 | 12\n4 | 16 | 20\n5 | 18 | 7\n6 | 16 | 12",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean, range and standard deviation (sample formula, n − 1) for each condition. Give standard deviations to 2 decimal places.",
+    "marks": 4,
+    "answer": "Quiet: mean 16, range 4, SD 1.41. Noise: mean 13, range 13, SD 5.06.",
+    "working": "Quiet: 96 ÷ 6 = 16; 18 − 14 = 4; Σd² = 10, √(10 ÷ 5) = 1.41 (2 marks). Noise: 78 ÷ 6 = 13; 20 − 7 = 13; Σd² = 128, √(128 ÷ 5) = 5.06 (2 marks)."
+   },
+   {
+    "label": "b",
+    "text": "Write a conclusion that uses both the means and the measures of spread.",
+    "marks": 2,
+    "answer": "On average, participants recalled more in quiet (16) than with noise (13), and noise also made performance much less consistent (SD 5.06 vs 1.41): some were badly affected and a few (e.g. scores of 18 and 20) were not.",
+    "working": "1 mark: mean comparison; 1 mark: spread comparison with interpretation."
+   }
+  ],
+  "check": "sum([14,17,15,16,18,16])/6==16 and sum([9,18,12,20,7,12])/6==13 and round(math.sqrt(sum([(v-16)**2 for v in [14,17,15,16,18,16]])/5),2)==1.41 and round(math.sqrt(sum([(v-13)**2 for v in [9,18,12,20,7,12]])/5),2)==5.06",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-090",
+  "topic": "Data and descriptive statistics",
+  "subtopic": "Measures of spread",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Ten hypothetical scores on a stress questionnaire completed by bank employees in Karachi: 31, 35, 28, 33, 30, 36, 52, 29, 34, 32",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The mean of these scores is 34 and the standard deviation is 6.83. Identify any score that lies more than two standard deviations from the mean.",
+    "marks": 2,
+    "answer": "52",
+    "working": "Mean ± 2 SD = 20.34 to 47.66 (M1); only 52 lies outside (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a score more than two standard deviations from the mean is described as unusual.",
+    "marks": 2,
+    "answer": "If data are normally distributed, about 95 % of scores lie within 2 SD of the mean, so a score beyond this is found in fewer than 5 % of people.",
+    "working": "1 mark: 95 % within 2 SD; 1 mark: so fewer than 5 % beyond → unusual."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the researcher should investigate this score before deciding whether to remove it.",
+    "marks": 2,
+    "answer": "It might be a recording error or from a participant who misunderstood the task (then removal is justified), but it could also be a genuine score from someone who really is different; removing real data would bias the results.",
+    "working": "1 mark: possible error/misunderstanding; 1 mark: may be genuine — removal would bias/reduce validity."
+   }
+  ],
+  "check": "sum([31,35,28,33,30,36,52,29,34,32])/10==34 and round(math.sqrt(sum([(v-34)**2 for v in [31,35,28,33,30,36,52,29,34,32]])/9),2)==6.83 and len([v for v in [31,35,28,33,30,36,52,29,34,32] if abs(v-34)>2*6.83])==1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-091",
+  "topic": "Evaluating research",
+  "subtopic": "Reliability",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a standardised procedure helps to make a study reliable.",
+    "marks": 2,
+    "answer": "If every participant is given exactly the same instructions, materials and conditions, the procedure can be repeated in the same way by the same or other researchers, so results should be consistent if the study is replicated.",
+    "working": "1 mark: same procedure for all participants; 1 mark: allows replication / consistent results."
+   },
+   {
+    "label": "b",
+    "text": "A hypothetical study in Lahore measured how long shoppers looked at a shop window. The researcher timed them with a hand-held stopwatch. Suggest one reason why this measurement may not be reliable and how it could be improved.",
+    "marks": 2,
+    "answer": "The researcher's reaction time in starting and stopping the watch would vary from shopper to shopper, so times would be inconsistent. Video-record the window and time the looks frame by frame (or use two timers and compare).",
+    "working": "1 mark: human timing error/inconsistent judgement of start and stop; 1 mark: improvement (video, automatic sensor, two timers)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-092",
+  "topic": "Evaluating research",
+  "subtopic": "Reliability",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "In a hypothetical observation of turn-taking among children playing ludo in Hyderabad, two observers coded the same 50 one-minute intervals. They agreed on 46 intervals.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage agreement between the two observers.",
+    "marks": 1,
+    "answer": "92 %",
+    "working": "46 ÷ 50 × 100 = 92 % (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain what this result suggests about the observation.",
+    "marks": 2,
+    "answer": "Agreement above 80 % is usually seen as good, so the observers were coding behaviour consistently: the behavioural categories had good inter-rater reliability.",
+    "working": "1 mark: high/good agreement (above 80 %); 1 mark: inter-rater reliability is good / categories clear."
+   }
+  ],
+  "check": "46/50*100==92",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-093",
+  "topic": "Evaluating research",
+  "subtopic": "Reliability",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by test–retest reliability.",
+    "marks": 2,
+    "answer": "Giving the same test to the same participants on two occasions, separated by a suitable time, and checking that their scores are similar (strongly positively correlated).",
+    "working": "1 mark: same test, same people, twice; 1 mark: results compared/correlated for consistency."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the time between the two tests should be neither too short nor too long.",
+    "marks": 2,
+    "answer": "If too short, participants may remember their earlier answers and copy them, making the test look more reliable than it is; if too long, the thing being measured (e.g. mood or skill) may have really changed.",
+    "working": "1 mark: too short → remembering answers/practice; 1 mark: too long → genuine change in the trait."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-094",
+  "topic": "Evaluating research",
+  "subtopic": "Reliability",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A hypothetical self-confidence questionnaire (score out of 40) was completed by six students in Sargodha and repeated two weeks later.\nParticipant | Test 1 | Test 2\n1 | 24 | 25\n2 | 31 | 29\n3 | 18 | 20\n4 | 27 | 28\n5 | 35 | 30\n6 | 22 | 23",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State which participant's score changed most between the two tests and by how much.",
+    "marks": 1,
+    "answer": "Participant 5, by 5 points (35 to 30).",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Calculate how many participants' scores changed by 2 points or fewer.",
+    "marks": 1,
+    "answer": "5",
+    "working": "Changes: 1, 2, 2, 1, 5, 1 → five participants ≤ 2 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain what these data suggest about the test–retest reliability of the questionnaire.",
+    "marks": 2,
+    "answer": "Most participants scored almost the same on both occasions and kept their rank order, suggesting good test–retest reliability; participant 5's drop may be a real change in confidence or a sign that some items are unclear.",
+    "working": "1 mark: mostly consistent → reliable; 1 mark: comment on participant 5 / small sample."
+   }
+  ],
+  "check": "len([d for d in [25-24,29-31,20-18,28-27,30-35,23-22] if abs(d)<=2])==5 and max([abs(d) for d in [25-24,29-31,20-18,28-27,30-35,23-22]])==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-095",
+  "topic": "Evaluating research",
+  "subtopic": "Reliability",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A researcher is interviewing 30 shopkeepers in Rawalpindi about stress at work. Describe two ways she could make the interviews more reliable.",
+    "marks": 4,
+    "answer": "1. Use a structured interview with the same questions in the same order for every shopkeeper, so all are asked the same thing. 2. Train all interviewers to use the same neutral tone and the same prompts (or record and code answers with a fixed scheme by two coders), so the way answers are obtained and scored is consistent.",
+    "working": "For each way: 1 mark identified (structured/standard questions, same order, interviewer training, recording, coding scheme, two coders); 1 mark explained."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-096",
+  "topic": "Evaluating research",
+  "subtopic": "Reliability",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a pilot study could improve the reliability of a new observation checklist.",
+    "marks": 3,
+    "answer": "The researchers could try out the checklist on a small group first and have two observers use it independently. Where they disagree, unclear categories can be redefined or merged and observers trained, so in the main study observers record behaviour consistently.",
+    "working": "1 mark: small trial before main study; 1 mark: find unclear categories/disagreements; 1 mark: revise categories/train observers → consistency."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-097",
+  "topic": "Evaluating research",
+  "subtopic": "Reliability",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A psychologist in Pakistan has written a new Urdu questionnaire to measure test anxiety in secondary-school students. Describe how she could check the test–retest reliability of the questionnaire, and explain one difficulty she might face.",
+    "marks": 6,
+    "answer": "Give the questionnaire to a sample of students (e.g. 50 students from several schools) under standardised conditions. Repeat it with the same students after a suitable gap (e.g. two to three weeks), at a time with similar exam pressure. Compare each student's two scores using a correlation; a strong positive correlation (e.g. +0.8 or above) indicates good reliability. Difficulty: test anxiety may genuinely change if an exam gets closer, or students may remember and repeat their answers, so differences or similarities may not reflect the questionnaire itself.",
+    "working": "Up to 4 marks for the method: same participants; same questionnaire and conditions; suitable time gap; correlate scores / strong positive correlation needed. Up to 2 marks: difficulty identified and explained (real change, memory of answers, drop-out, timing of exams)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-098",
+  "topic": "Evaluating research",
+  "subtopic": "Reliability",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a hypothetical study, two judges rated the creativity of eight short stories written by students in Islamabad (1–10).\nEssay | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8\nJudge A | 7 | 5 | 8 | 4 | 6 | 9 | 3 | 6\nJudge B | 7 | 6 | 8 | 2 | 6 | 8 | 3 | 5",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For how many essays did the two judges give exactly the same rating?",
+    "marks": 1,
+    "answer": "4",
+    "working": "Essays 1, 3, 5 and 7 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage of essays for which the two ratings were within 1 point of each other.",
+    "marks": 1,
+    "answer": "87.5 %",
+    "working": "Differences 0, 1, 0, 2, 0, 1, 0, 1 → 7 of 8 within 1 point; 7 ÷ 8 × 100 = 87.5 % (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the mean difference between the two judges' ratings, ignoring direction.",
+    "marks": 1,
+    "answer": "0.625",
+    "working": "(0 + 1 + 0 + 2 + 0 + 1 + 0 + 1) ÷ 8 = 5 ÷ 8 = 0.625 (B1)."
+   },
+   {
+    "label": "d",
+    "text": "Evaluate the inter-rater reliability of the creativity ratings and suggest one improvement.",
+    "marks": 3,
+    "answer": "Agreement is fairly good (7 of 8 within one point) but exact agreement is only 50 % and essay 4 differs by 2 points, so the judges may understand 'creativity' differently. They should agree a detailed marking scheme with examples of each rating and practise together on other essays before rating.",
+    "working": "1 mark: good/moderate overall with data; 1 mark: weakness identified with data (50 % exact, essay 4); 1 mark: improvement (operational definitions/rubric, training, more judges)."
+   }
+  ],
+  "check": "len([1 for a,b in [(7,7),(5,6),(8,8),(4,2),(6,6),(9,8),(3,3),(6,5)] if a==b])==4 and len([1 for a,b in [(7,7),(5,6),(8,8),(4,2),(6,6),(9,8),(3,3),(6,5)] if abs(a-b)<=1])/8*100==87.5 and sum([abs(a-b) for a,b in [(7,7),(5,6),(8,8),(4,2),(6,6),(9,8),(3,3),(6,5)]])/8==0.625",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-099",
+  "topic": "Evaluating research",
+  "subtopic": "Reliability",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain, using examples, why a measure can be reliable without being valid, but cannot be valid without being reliable.",
+    "marks": 4,
+    "answer": "A measure is reliable if it gives consistent results. A bathroom scale that always reads 2 kg too heavy is reliable (same result each time) but not valid (it does not measure true weight). Similarly, measuring intelligence by head size would give consistent but meaningless results. However, if a measure gives different results each time (e.g. a questionnaire with vague questions), it cannot be accurately measuring what it should, so validity needs reliability.",
+    "working": "1 mark: definitions of reliability/validity; 1 mark: example of reliable but not valid; 1 mark: explanation why unreliable cannot be valid; 1 mark: example/elaboration."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-100",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A hypothetical study of work stress among teachers in government schools in Punjab asked for volunteers at two schools in Multan; 22 teachers took part.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the target population of this study.",
+    "marks": 1,
+    "answer": "Teachers in government schools in Punjab.",
+    "working": "1 mark (accept: teachers in Punjab)."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why the results may not be generalisable to all teachers in Punjab.",
+    "marks": 2,
+    "answer": "The sample came from only two schools in one city (Multan), so they may not represent teachers in rural areas or other cities, whose workload and stress may be different.",
+    "working": "1 mark: limited/unrepresentative sample (two schools, one city, volunteers); 1 mark: why they may differ from the population."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-101",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a volunteer (self-selected) sample may reduce generalisability.",
+    "marks": 2,
+    "answer": "People who volunteer tend to be more interested, confident or helpful than others, so the sample may not be typical of the target population.",
+    "working": "1 mark: volunteers share particular characteristics; 1 mark: so not representative."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a very small sample reduces generalisability.",
+    "marks": 2,
+    "answer": "With few participants, individual differences (e.g. one unusual person) have a big effect on the results, and the sample is unlikely to include the variety of people in the population.",
+    "working": "1 mark: unusual individuals have a large effect; 1 mark: unlikely to represent the range of the population."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-102",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the sample in Milgram's (1963) study.",
+    "marks": 2,
+    "answer": "40 men aged 20 to 50 from New Haven and the surrounding area, with a range of jobs, recruited by a newspaper advertisement and direct mailing (volunteer sample).",
+    "working": "1 mark: 40 males, aged 20–50; 1 mark: New Haven area / range of occupations / volunteers via advert."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why the findings may not be generalised to women.",
+    "marks": 2,
+    "answer": "Only men were tested, and women may respond differently to an order to harm someone (for example they may be more empathetic or more conforming), so the 65 % obedience level may not apply to them.",
+    "working": "1 mark: all-male sample; 1 mark: reason women might behave differently."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-103",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hypothetical study in Germany found that students who studied in short bursts remembered more than those who studied for one long session. Explain one reason why a teacher in Karachi should be careful before applying this finding to her students.",
+    "marks": 2,
+    "answer": "The study was done in a different culture and education system; Pakistani students may study in different conditions (e.g. tuition, exam style, home environment), so the result may not generalise to them.",
+    "working": "1 mark: different culture/country/education system; 1 mark: how this might change the result."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-104",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one reason why Piliavin et al.'s findings can be generalised to many people.",
+    "marks": 2,
+    "answer": "About 4450 passengers were observed, a large sample of men and women of different races and ages who used the subway on weekdays, so the results represent a wide range of ordinary people.",
+    "working": "1 mark: large/varied sample (about 4450 passengers); 1 mark: explained."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why the findings may not be generalised to all emergency situations.",
+    "marks": 2,
+    "answer": "The study was on one stretch of a New York subway where passengers could not leave the train between stations; in an open street people can walk away, so helping may be lower there.",
+    "working": "1 mark: specific setting (closed train, no escape, one city, 1968); 1 mark: how other settings differ."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-105",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why random sampling usually gives more generalisable results than opportunity sampling.",
+    "marks": 3,
+    "answer": "In random sampling every member of the target population has an equal chance of being chosen, so the sample is not biased by the researcher's choices and is likely to include a range of people. In opportunity sampling the researcher picks whoever is available (e.g. people in one café at one time), who may share characteristics that are not typical of the population.",
+    "working": "1 mark: equal chance in random sampling; 1 mark: reduces researcher bias/more representative; 1 mark: opportunity sample biased to those available."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-106",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "In a hypothetical school in Sialkot, 60 % of the pupils are girls. A researcher studying homework habits recruited 40 pupils, of whom 18 were girls.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage of girls in the sample.",
+    "marks": 1,
+    "answer": "45 %",
+    "working": "18 ÷ 40 × 100 = 45 % (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain whether the sample is representative of the school in terms of gender.",
+    "marks": 2,
+    "answer": "Not fully: girls are 60 % of the school but only 45 % of the sample, so girls are under-represented and boys over-represented.",
+    "working": "1 mark: compares 45 % with 60 %; 1 mark: conclusion — girls under-represented."
+   },
+   {
+    "label": "c",
+    "text": "Suggest how the sample could be chosen to match the school's gender balance.",
+    "marks": 1,
+    "answer": "Use stratified sampling: select 24 girls and 16 boys (60 % and 40 % of 40) at random.",
+    "working": "1 mark: stratified sampling with correct numbers or description."
+   }
+  ],
+  "check": "18/40*100==45 and round(0.6*40)==24 and round(0.4*40)==16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-107",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hypothetical study found that rats learned a maze faster when rewarded with sugar. Explain one reason why this finding should be generalised to human learning with caution.",
+    "marks": 2,
+    "answer": "Humans have more complex brains and use language, thinking and social motivation when learning, so what works for rats may not work in the same way for people.",
+    "working": "1 mark: species differences; 1 mark: specific difference explained (cognition, language, culture, motivation)."
+   },
+   {
+    "label": "b",
+    "text": "Explain one reason why animal findings may still tell us something about human behaviour.",
+    "marks": 2,
+    "answer": "Rats and humans share basic brain structures and learning processes (such as reinforcement), so basic principles found in rats may apply to humans too.",
+    "working": "1 mark: shared biology/learning processes; 1 mark: explained."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-108",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A hypothetical college in Peshawar has 1200 students: 480 in science, 420 in arts and 300 in commerce. A researcher wants to survey 60 students about their use of the library.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate how many students from each faculty should be included in a stratified sample of 60.",
+    "marks": 3,
+    "answer": "Science 24; arts 21; commerce 15",
+    "working": "Science 480 ÷ 1200 × 60 = 24 (B1); arts 420 ÷ 1200 × 60 = 21 (B1); commerce 300 ÷ 1200 × 60 = 15 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a stratified sample would improve the generalisability of this study.",
+    "marks": 2,
+    "answer": "Each faculty is represented in the same proportion as in the college, so the views of students in all three faculties are fairly included and the results better reflect the whole college.",
+    "working": "1 mark: same proportions as population; 1 mark: so sample represents all subgroups."
+   }
+  ],
+  "check": "480/1200*60==24 and 420/1200*60==21 and 300/1200*60==15",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-109",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between generalisability and ecological validity, using an example of each.",
+    "marks": 4,
+    "answer": "Generalisability is whether the findings can be applied from the sample to the wider target population (or other populations), e.g. whether Milgram's results with American men apply to women. Ecological validity is whether the findings can be applied from the research setting and task to real-life settings, e.g. whether shocking a learner in a laboratory reflects obedience at work. A study can have a representative sample but low ecological validity, or the reverse.",
+    "working": "1 mark: definition of generalisability (sample → population); 1 mark: example; 1 mark: definition of ecological validity (setting/task → real life); 1 mark: example."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-110",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hypothetical laboratory experiment with 30 psychology undergraduates found that people made more errors on a typing task when a supervisor watched them. A company in Lahore wants to remove supervisors from its data-entry office. Evaluate whether the findings can be generalised to the company's workers.",
+    "marks": 4,
+    "answer": "For: the task (typing) is similar to data entry, and being watched may have a general effect on performance. Against: the sample was 30 psychology students, who are younger, less experienced and may guess the aim (demand characteristics), unlike experienced office workers who may be used to supervision. The laboratory setting and short task lack ecological validity; in a real office, supervisors may also help or motivate. So the company should test the idea in its own office first.",
+    "working": "1 mark: point for generalising; 1 mark: sample problem (students vs workers); 1 mark: setting/task problem; 1 mark: reasoned conclusion/suggestion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-111",
+  "topic": "Evaluating research",
+  "subtopic": "Generalisability",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hypothetical study investigated whether listening to Qur'an recitation reduces anxiety before surgery. It used 12 female patients aged 30–40 at one private hospital in Islamabad. Suggest three changes that would make the findings more generalisable, and explain each.",
+    "marks": 6,
+    "answer": "1. Increase the sample size (e.g. 100+), so individual differences have less effect. 2. Include men and women of a wide range of ages, so the results apply to all adult patients. 3. Use several hospitals (government and private, in different cities) and random or stratified sampling, so the sample reflects patients of different income levels and regions.",
+    "working": "For each change: 1 mark identified; 1 mark explained (link to representativeness)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-112",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by 'objectivity' in research.",
+    "marks": 2,
+    "answer": "Data and conclusions that are not affected by the researcher's own opinions, feelings or expectations, so different researchers would record the same result.",
+    "working": "1 mark: not influenced by personal views/bias; 1 mark: same result from different researchers / based on fact."
+   },
+   {
+    "label": "b",
+    "text": "Give one example of an objective measure in a study of driving skill.",
+    "marks": 1,
+    "answer": "Number of cones knocked over on a driving course (or reaction time measured by a computer).",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-113",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For each measure, state whether it is objective or subjective.\n(i) Heart rate measured by a monitor.\n(ii) A teacher's rating of how hard a child is trying.\n(iii) Number of words recalled from a list.\n(iv) A participant's description of how lonely they feel.",
+    "marks": 4,
+    "answer": "(i) objective (ii) subjective (iii) objective (iv) subjective",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-114",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how an interviewer's own views could make the data collected in an interview subjective.",
+    "marks": 2,
+    "answer": "The interviewer might ask leading questions, react positively to answers they agree with, or interpret and record answers in a way that fits what they believe, so the data reflect the interviewer's views as well as the participant's.",
+    "working": "1 mark: way the interviewer influences answers or interpretation; 1 mark: consequence (data biased/subjective)."
+   },
+   {
+    "label": "b",
+    "text": "Suggest one way of reducing this problem.",
+    "marks": 1,
+    "answer": "Use a standardised (structured) interview schedule, or record the interview and have a second person, unaware of the aim, code the answers.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-115",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how using operationalised behavioural categories makes an observation more objective.",
+    "marks": 2,
+    "answer": "Each behaviour is defined in clear, observable terms (e.g. 'hits another child with an open hand'), so observers record what actually happens instead of making personal judgements about what the behaviour means.",
+    "working": "1 mark: clear observable definitions; 1 mark: less need for observer interpretation/personal judgement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-116",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify one objective measure and one subjective measure used in Milgram's study.",
+    "marks": 2,
+    "answer": "Objective: the maximum voltage each participant gave (shock level). Subjective: observers' descriptions of participants' tension, such as nervous laughter or sweating.",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "Explain one advantage of having both kinds of data in this study.",
+    "marks": 2,
+    "answer": "The voltage shows how many obeyed and can be compared, while the descriptions of tension show that participants were distressed and believed the shocks were real, which explains why the obedience was important.",
+    "working": "1 mark: what objective data add; 1 mark: what subjective/qualitative data add."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-117",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Patients in a hypothetical study at a clinic in Quetta rate their back pain from 0 to 10. Explain one strength and one weakness of measuring pain in this way.",
+    "marks": 4,
+    "answer": "Strength: pain is a private experience, so the patient's own rating is the only direct way to measure how much it hurts, and the number is easy to compare across days. Weakness: the rating is subjective — different patients may use the scale differently (one person's 6 may be another's 3), and they may exaggerate or play down their pain.",
+    "working": "1 mark: strength identified; 1 mark: explained; 1 mark: weakness identified (subjective/scale used differently/social desirability); 1 mark: explained."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-118",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by a 'blind' observer and why using one increases objectivity.",
+    "marks": 3,
+    "answer": "A blind observer does not know the aim of the study or which condition each participant is in. This means their expectations cannot influence what they notice or how they record behaviour, so the data are more objective.",
+    "working": "1 mark: does not know aim/condition/hypothesis; 1 mark: expectations cannot bias recording; 1 mark: data more objective/less observer bias."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-119",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A researcher uses a 1–7 scale for observers to rate how 'friendly' customers are towards shop staff. Explain why these ratings are subjective.",
+    "marks": 2,
+    "answer": "'Friendly' is not defined, so each observer uses their own idea of friendliness and their own standards for what counts as a 5 or a 6.",
+    "working": "1 mark: vague/undefined term; 1 mark: depends on personal judgement of each observer."
+   },
+   {
+    "label": "b",
+    "text": "Suggest two ways of making the ratings more objective.",
+    "marks": 2,
+    "answer": "1. Define each point of the scale with observable behaviours (e.g. 7 = smiles, greets staff and thanks them). 2. Replace the rating with counts of specific behaviours such as smiles and 'thank you's.",
+    "working": "1 mark each: anchored/defined scale points; counting behaviours; training observers with examples; using two observers and comparing."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-120",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why thematic analysis of interview transcripts can be subjective, and suggest one way of reducing this.",
+    "marks": 4,
+    "answer": "The researcher decides which themes exist and which quotes belong to each theme; their own expectations and background may lead them to notice themes that fit their views and ignore others. To reduce this, a second researcher could analyse the same transcripts independently and the two sets of themes could be compared (or the themes could be checked with the participants).",
+    "working": "1 mark: researcher chooses themes/interprets meaning; 1 mark: influenced by expectations/background; 1 mark: method to reduce (second analyst, agreed coding, participant checks); 1 mark: explained."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-121",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a hypothetical study in Karachi, six children were filmed playing after watching a cartoon. Two observers rated each child's aggression from 1 to 10. Observer A knew the children had watched a violent cartoon; Observer B did not know which cartoon they had watched.\nChild | 1 | 2 | 3 | 4 | 5 | 6\nObserver A | 6 | 7 | 7 | 9 | 5 | 8\nObserver B | 4 | 6 | 5 | 7 | 3 | 5",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean aggression rating given by each observer.",
+    "marks": 2,
+    "answer": "Observer A: 7; Observer B: 5",
+    "working": "A: 42 ÷ 6 = 7 (B1); B: 30 ÷ 6 = 5 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Using the data, explain what may have caused the difference between the two observers.",
+    "marks": 2,
+    "answer": "Observer A knew that the children had watched a violent cartoon and expected them to be aggressive, so may have interpreted ambiguous play as aggression (observer bias); Observer B did not know, so gave lower ratings.",
+    "working": "1 mark: A's expectations / knowledge of condition; 1 mark: interpretation of ambiguous behaviour → higher ratings (observer bias)."
+   },
+   {
+    "label": "c",
+    "text": "Explain which observer's data should be used and why.",
+    "marks": 2,
+    "answer": "Observer B's, because the blind observer's ratings are less likely to be influenced by expectations, so they are more objective (although both should ideally use defined behavioural categories).",
+    "working": "1 mark: Observer B; 1 mark: blind → more objective."
+   }
+  ],
+  "check": "sum([6,7,7,9,5,8])/6==7 and sum([4,6,5,7,3,5])/6==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-122",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "'Subjectivity is always a weakness in psychological research.' To what extent do you agree?",
+    "marks": 4,
+    "answer": "Partly disagree. Subjective data from the researcher (e.g. biased interpretation) are a weakness because they reduce validity and reliability. But participants' subjective experiences, such as feelings, pain or reasons for behaviour, are often what psychologists need to study, and self-reports or qualitative descriptions are the only way to access them; they can give more valid insight than objective numbers alone. So subjectivity of the participant's experience can be a strength, provided the researcher's analysis is kept as objective as possible.",
+    "working": "1 mark: why researcher subjectivity is a weakness; 1 mark: some topics are subjective by nature (feelings, pain); 1 mark: subjective data can increase validity/insight; 1 mark: balanced conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-123",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare the objectivity of the data collected in Perry et al.'s study with the data collected in Piliavin et al.'s study.",
+    "marks": 4,
+    "answer": "Perry et al. measured preferred distance in centimetres in a controlled laboratory with a double-blind procedure, so the main data were highly objective and not affected by researchers' expectations. Piliavin et al.'s observers recorded behaviour in a busy carriage and had to judge features such as passengers' race, sex and location, and how long it took for help to arrive, so some recording involved judgement in difficult conditions. Both collected mainly quantitative data, but Perry's measurement was more objective; Piliavin's observers recorded in a busy, unpredictable setting where judgements could be biased, so observer bias is possible.",
+    "working": "1 mark: Perry's measure objective (distance/double-blind); 1 mark: Piliavin's observers making judgements in a natural setting; 1 mark: similarity (both quantitative); 1 mark: conclusion comparing."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-124",
+  "topic": "Evaluating research",
+  "subtopic": "Objectivity and subjectivity",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A researcher plans to investigate whether children in Lahore who play outdoors are more cooperative at school. Teachers who know which children play outdoors will rate each child's cooperation. Explain two problems with the objectivity of this plan and suggest how each could be solved.",
+    "marks": 6,
+    "answer": "1. Teachers' expectations: teachers who know which children play outdoors may expect them to be more cooperative and rate them higher (observer/researcher bias). Solution: use raters who do not know which children play outdoors (blind ratings). 2. 'Cooperation' is vague, so each teacher will judge it differently (subjective rating). Solution: operationalise it as observable behaviours (e.g. number of times the child shares materials or helps a classmate in a 30-minute lesson), recorded with a checklist by two observers whose agreement is checked.",
+    "working": "For each problem: 1 mark identified; 1 mark explained in context; 1 mark suitable solution."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-125",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the experimental design used in each of the following hypothetical studies.\n(i) Each of 20 cyclists in Lahore is timed riding 1 km with music and, on another day, without music.\n(ii) 30 shoppers are randomly split: 15 taste a drink from a red cup and 15 from a blue cup.\n(iii) Students are put into pairs with the same O Level maths grade; one of each pair learns with flashcards, the other with notes.",
+    "marks": 3,
+    "answer": "(i) repeated measures (ii) independent measures (iii) matched pairs",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-126",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hypothetical experiment compares how fast bilingual students in Karachi read a passage in Urdu and an equivalent passage in English. Each student reads both passages. Explain one strength of this design for this study.",
+    "marks": 2,
+    "answer": "Each student is compared with themselves, so differences in general reading ability or eyesight between students cannot explain the difference between the two languages.",
+    "working": "1 mark: removes participant variables; 1 mark: applied (reading ability, speed, eyesight)."
+   },
+   {
+    "label": "b",
+    "text": "Explain one weakness of this design for this study.",
+    "marks": 2,
+    "answer": "Order effects: reading the first passage may give practice (or tiredness) that changes speed on the second, so the difference may be due to order rather than language.",
+    "working": "1 mark: order/practice/fatigue effect; 1 mark: applied."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-127",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by 'participant variables' in an independent measures design.",
+    "marks": 2,
+    "answer": "Differences between the people in each group, such as age, ability or motivation, which might affect the DV and make the groups differ for reasons other than the IV.",
+    "working": "1 mark: individual differences between participants in different groups; 1 mark: may affect the DV/confound."
+   },
+   {
+    "label": "b",
+    "text": "State how a researcher can reduce the effect of participant variables in an independent measures design.",
+    "marks": 1,
+    "answer": "Randomly allocate participants to the conditions.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-128",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hypothetical matched pairs experiment compares two revision apps for O Level chemistry students in Faisalabad. Suggest two variables the students should be matched on and give a reason for each.",
+    "marks": 4,
+    "answer": "1. Previous chemistry test score, because students who already know more will score higher whichever app they use. 2. Hours of tuition per week, because extra teaching would also improve scores. (Also accept: age, school, English reading level, access to a phone.)",
+    "working": "For each: 1 mark relevant variable; 1 mark reason it could affect the DV."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-129",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a hypothetical experiment, each participant does the conditions in the order A, B, B, A (for example, typing with a keyboard, then a touch screen, then the touch screen again, then the keyboard). Explain how this controls order effects.",
+    "marks": 3,
+    "answer": "Each condition appears once early and once late in the sequence, so any practice or tiredness effect is spread equally across both conditions. The mean of each participant's two A trials can then be compared with the mean of the two B trials.",
+    "working": "1 mark: each condition in early and late positions; 1 mark: practice/fatigue affects both equally; 1 mark: compare averaged scores."
+   },
+   {
+    "label": "b",
+    "text": "Give one weakness of the ABBA method.",
+    "marks": 1,
+    "answer": "It takes longer and each participant does more trials, so boredom or fatigue increases; participants may also guess the aim.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-130",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hypothetical study in Islamabad tests whether drinking strong coffee in the evening reduces the number of hours people sleep. Explain why a repeated measures design might cause problems, and how the researcher could still use it.",
+    "marks": 4,
+    "answer": "Effects of caffeine may carry over: if the coffee night comes first, the person may sleep badly and then sleep more the following night, which would affect the no-coffee condition. The researcher could leave a gap of several days between the two nights (washout) and counterbalance the order, so that half the participants have coffee first and half no-coffee first.",
+    "working": "1 mark: carry-over/order effect identified; 1 mark: explained; 1 mark: time gap between conditions; 1 mark: counterbalancing."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-131",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "In a hypothetical matched pairs experiment in Gujranwala, pairs of students with the same English grade learned vocabulary by a new game-based method or the old list method, and were tested (score out of 25).\nPair | 1 | 2 | 3 | 4 | 5 | 6\nNew method | 15 | 18 | 12 | 20 | 16 | 14\nOld method | 13 | 17 | 12 | 16 | 15 | 10",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the difference in score for each pair (new method minus old method) and the mean difference.",
+    "marks": 2,
+    "answer": "Differences: 2, 1, 0, 4, 1, 4; mean difference 2",
+    "working": "Differences correct (B1); 12 ÷ 6 = 2 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "State the number of pairs in which the new method gave the higher score.",
+    "marks": 1,
+    "answer": "5",
+    "working": "Pairs 1, 2, 4, 5, 6 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why it is useful to compare the two members of each pair, rather than just the overall means.",
+    "marks": 2,
+    "answer": "Because pairs were matched on ability, comparing within pairs removes the effect of ability, so the difference in each pair is more likely to be due to the teaching method.",
+    "working": "1 mark: matching controls participant variable (ability); 1 mark: within-pair difference reflects IV."
+   }
+  ],
+  "check": "sum([15-13,18-17,12-12,20-16,16-15,14-10])/6==2 and len([d for d in [15-13,18-17,12-12,20-16,16-15,14-10] if d>0])==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-132",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A researcher needs 20 scores in each of two conditions. State how many participants are needed with (i) a repeated measures design and (ii) an independent measures design.",
+    "marks": 2,
+    "answer": "(i) 20 (ii) 40",
+    "working": "(i) each participant gives a score in both conditions → 20 (B1); (ii) different people in each condition → 2 × 20 = 40 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a researcher might still choose the independent measures design even though it needs more participants.",
+    "marks": 2,
+    "answer": "There are no order effects, and participants see only one condition so they are less likely to guess the aim (fewer demand characteristics); the same materials can also be used in both conditions.",
+    "working": "1 mark: reason (no order effects / fewer demand characteristics / same materials / no carry-over); 1 mark: explained."
+   }
+  ],
+  "check": "2*20==40",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-133",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "In a hypothetical repeated measures experiment in Bahawalpur, 20 participants solved puzzles in condition A (quiet) and condition B (with a ticking clock). Ten did A then B; ten did B then A. Mean scores:\nGroup | First test | Second test\nGroup 1 (A then B) | A = 12 | B = 16\nGroup 2 (B then A) | B = 13 | A = 15",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the overall mean score for condition A and for condition B.",
+    "marks": 2,
+    "answer": "A: 13.5; B: 14.5",
+    "working": "A: (12 + 15) ÷ 2 = 13.5 (B1); B: (16 + 13) ÷ 2 = 14.5 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mean score for the first test and for the second test that participants did, whatever the condition.",
+    "marks": 2,
+    "answer": "First test: 12.5; second test: 15.5",
+    "working": "First: (12 + 13) ÷ 2 = 12.5; second: (16 + 15) ÷ 2 = 15.5 (B1 each)."
+   },
+   {
+    "label": "c",
+    "text": "Using your answers, explain what the data show about order effects and about the IV.",
+    "marks": 2,
+    "answer": "Scores were 3 points higher on the second test whatever the condition, showing a strong practice effect. The difference between conditions was only 1 point, so the IV had little effect; counterbalancing stopped the practice effect from making one condition look better.",
+    "working": "1 mark: practice effect of 3; 1 mark: small condition effect / counterbalancing balanced it out."
+   }
+  ],
+  "check": "(12+15)/2==13.5 and (16+13)/2==14.5 and (12+13)/2==12.5 and (16+15)/2==15.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-134",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A hypothetical independent measures experiment in Lahore compared two ways of training adults to use a mobile banking app (video or face-to-face). 40 volunteers were randomly allocated to the two groups.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "After random allocation, the mean ages of the two groups were 34 years (group A) and 21 years (group B). Explain why this is a problem for this study.",
+    "marks": 2,
+    "answer": "Age could affect learning to use a smartphone banking app (younger people may already be more familiar with apps), so any difference in performance could be due to age rather than the type of training: age is a confounding participant variable.",
+    "working": "1 mark: age may affect the DV; 1 mark: confounds the IV."
+   },
+   {
+    "label": "b",
+    "text": "Suggest how the researcher could have avoided this problem, and explain one weakness of your suggestion.",
+    "marks": 3,
+    "answer": "Use a matched pairs design: pair participants of similar age (and app experience), then randomly assign one of each pair to each training type. Weakness: matching takes time, and if one member of a pair drops out, the other's data cannot be used; participants can only be matched on a few variables.",
+    "working": "1 mark: matched pairs on age / stratified random allocation; 1 mark: described; 1 mark: weakness."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-135",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why studies comparing identical twins can be seen as a natural form of matched pairs design.",
+    "marks": 2,
+    "answer": "Identical twins share all their genes and usually the same upbringing, so they are matched on many participant variables at once; giving one twin each condition controls these variables.",
+    "working": "1 mark: twins share genes/environment; 1 mark: so matched on participant variables."
+   },
+   {
+    "label": "b",
+    "text": "Explain one limitation of using twins in this way.",
+    "marks": 2,
+    "answer": "Twins are a small and possibly unusual group (they grow up together and may influence each other), so the results may not generalise to non-twins, and twins may still differ in experiences.",
+    "working": "1 mark: limitation (unrepresentative/hard to find/still differ/influence each other); 1 mark: explained."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-136",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Plan a field experiment using a repeated measures design to investigate whether the tempo of background music affects how fast people walk through a shopping arcade in Karachi. Your plan must include the hypothesis, the variables, how you will deal with order effects and how you will collect the data.",
+    "marks": 10,
+    "answer": "Hypothesis: shoppers walk faster through the arcade when fast music (e.g. 140 bpm) is played than when slow music (e.g. 70 bpm) is played. IV: tempo of music (fast/slow) — same volume, same type of instrumental music. DV: time (s) taken to walk a marked 20 m stretch, recorded by a hidden observer with a stopwatch or by video. Design: repeated measures by using the same regular shoppers (e.g. staff or regular visitors) who agree to walk the route each day; or the same arcade/time slots. Order effects: counterbalance — half do fast first, half slow first, on different days; same time of day. Controls: same weekday times, similar crowd levels, observers blind to hypothesis. Ethics: public place, no personal data, debrief where possible. Sampling: opportunity/volunteer sample of e.g. 30 regular visitors.",
+    "working": "Level 4 (9–10): detailed, coherent plan with hypothesis, operationalised IV and DV, repeated measures clearly explained, counterbalancing, data collection and several controls/ethics, all applied to the arcade; Level 3 (6–8): most features with some detail; Level 2 (3–5): basic plan, some features missing or not applied; Level 1 (1–2): minimal. Single long answer."
+   },
+   {
+    "label": "b",
+    "text": "Explain one weakness of your plan and suggest how it could be improved.",
+    "marks": 4,
+    "answer": "Weakness: participants who walk the route repeatedly may guess the aim and change their speed (demand characteristics), or learn the route and walk faster the second time. Improvement: use an independent measures design with random passers-by each session (and a larger sample), or use a cover story and add filler days with no music change.",
+    "working": "1 mark: weakness identified; 1 mark: explained in context; 1 mark: improvement; 1 mark: how it would help."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-137",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Experimental designs",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A hypothetical simulator study in Lahore compares the braking reaction times of young drivers (18–25 years) and older drivers (60–70 years), each driving with and without a hands-free phone conversation.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "This study has two independent variables. For each IV, state which experimental design should be used and explain why.",
+    "marks": 4,
+    "answer": "Age group: independent measures — a participant cannot be both young and older, so different people must be in each age group. Phone conversation: repeated measures — each driver can drive with and without a conversation, which removes individual differences in driving skill and reaction speed (with the order counterbalanced).",
+    "working": "Age: 1 mark independent measures; 1 mark reason (cannot be in both groups/pre-existing characteristic). Phone: 1 mark repeated measures; 1 mark reason (controls participant variables/fewer participants) or matched pairs with justification."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the age-group comparison cannot show that age itself causes any difference in reaction time.",
+    "marks": 2,
+    "answer": "Age was not manipulated or randomly allocated, so the two groups may also differ in other ways, such as driving experience, eyesight or familiarity with phones, any of which could explain the difference.",
+    "working": "1 mark: IV not manipulated / no random allocation (quasi-experiment); 1 mark: other variables differ between age groups."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-138",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by an 'extraneous variable'.",
+    "marks": 2,
+    "answer": "Any variable other than the IV that might affect the DV, if it is not controlled.",
+    "working": "1 mark: variable other than the IV; 1 mark: could affect the DV."
+   },
+   {
+    "label": "b",
+    "text": "A hypothetical experiment in Multan tests whether chewing gum helps students concentrate during a test. Suggest one extraneous variable and how it could be controlled.",
+    "marks": 2,
+    "answer": "Noise in the room — test all students in the same quiet room. (Also accept: time of day, test difficulty, hunger.)",
+    "working": "1 mark: relevant variable; 1 mark: suitable control."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-139",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between an extraneous variable and a confounding variable.",
+    "marks": 2,
+    "answer": "An extraneous variable is any variable that could affect the DV. A confounding variable is an extraneous variable that has actually varied with the IV (e.g. one condition was always tested in the morning), so it is mixed up with the IV and we cannot tell which caused the change.",
+    "working": "1 mark: extraneous = could affect DV; 1 mark: confounding = varies systematically with IV/has affected results."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-140",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write two sentences of standardised instructions for participants in a hypothetical experiment where they must spot spelling mistakes in a page of text in 3 minutes.",
+    "marks": 2,
+    "answer": "e.g. 'You will see a page of text that contains some spelling mistakes. You have 3 minutes to circle as many mistakes as you can; please work in silence and stop when I say \"stop\".'",
+    "working": "1 mark: explains the task clearly; 1 mark: gives time limit/what to do, same for everyone."
+   },
+   {
+    "label": "b",
+    "text": "Explain why standardised instructions are a form of control.",
+    "marks": 1,
+    "answer": "Every participant receives the same information, so differences in performance cannot be caused by differences in what they were told.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-141",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why participants in a laboratory experiment should be tested in the same room at the same time of day.",
+    "marks": 2,
+    "answer": "Conditions such as light, noise, temperature and tiredness can affect performance; keeping room and time the same means these situational variables cannot explain differences between conditions.",
+    "working": "1 mark: room/time can affect performance (situational variables); 1 mark: keeping them constant controls them."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-142",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by a 'single-blind' procedure.",
+    "marks": 2,
+    "answer": "Participants do not know which condition they are in (or the aim of the study), although the researcher does.",
+    "working": "1 mark: participants unaware of condition/aim; 1 mark: researcher knows."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a single-blind procedure is used.",
+    "marks": 1,
+    "answer": "It reduces demand characteristics, because participants cannot change their behaviour to fit what they think is expected.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-143",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hypothetical study in Hyderabad tests whether a vitamin tablet improves memory in older adults. Explain why a placebo group is needed.",
+    "marks": 2,
+    "answer": "People who believe they have taken something helpful may try harder or feel more confident, which could improve memory scores. A placebo group (an identical-looking tablet with no vitamin) shows how much improvement comes from belief alone, so the real effect of the vitamin can be found.",
+    "working": "1 mark: expectation/belief can change the DV; 1 mark: placebo separates the effect of the vitamin from expectation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-144",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A hypothetical study in a school in Sukkur compared a new English textbook with the old one. Class 1 used the old textbook with Mr Ahmed; Class 2 used the new textbook with Ms Rubina. After a term, Class 2 scored higher.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify one uncontrolled variable in this study.",
+    "marks": 1,
+    "answer": "The teacher (each class had a different teacher). (Also accept: the class itself / class ability.)",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain how this variable could affect the conclusion.",
+    "marks": 2,
+    "answer": "If the teacher of class 2 is more experienced or enthusiastic, class 2 may score higher because of the teacher, not the textbook, so the researcher cannot conclude that the new textbook is better.",
+    "working": "1 mark: teacher could affect scores; 1 mark: so the IV is confounded / conclusion invalid."
+   },
+   {
+    "label": "c",
+    "text": "Suggest how the study could be improved to control this variable.",
+    "marks": 1,
+    "answer": "Have the same teacher teach both classes (one with each textbook), or randomly allocate students and teachers to the textbooks.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-145",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by 'demand characteristics'.",
+    "marks": 2,
+    "answer": "Cues in a study that help participants guess its aim, which may lead them to change their behaviour (e.g. to help or to spoil the study).",
+    "working": "1 mark: cues that reveal the aim; 1 mark: participants change behaviour as a result."
+   },
+   {
+    "label": "b",
+    "text": "Describe two ways of reducing demand characteristics in a hypothetical experiment testing whether people eat more snacks while watching television.",
+    "marks": 2,
+    "answer": "1. Use an independent measures design so each participant sees only one condition and is less able to guess the aim. 2. Use a single-blind procedure, telling participants the study is about rating the TV programme while secretly weighing the snack bowls.",
+    "working": "1 mark each: independent measures; single-blind/cover story; covert measurement; filler tasks."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-146",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For each variable, state whether it is a situational variable or a participant variable.\n(i) Temperature of the testing room.\n(ii) Participants' age.\n(iii) Background noise from traffic.\n(iv) Participants' previous experience of the task.",
+    "marks": 4,
+    "answer": "(i) situational (ii) participant (iii) situational (iv) participant",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-147",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a hypothetical experiment, Researcher 1 tested all the participants in condition A and Researcher 2 tested all the participants in condition B. Explain why this is a problem.",
+    "marks": 2,
+    "answer": "The researchers may differ in manner, tone or expectations (experimenter effects), so differences between conditions could be caused by the researcher rather than the IV: researcher is confounded with condition.",
+    "working": "1 mark: researchers differ/experimenter effects; 1 mark: confounded with the IV."
+   },
+   {
+    "label": "b",
+    "text": "Suggest two ways of solving this problem.",
+    "marks": 2,
+    "answer": "1. Have each researcher test equal numbers of participants in both conditions. 2. Give both researchers the same script and training, and keep them blind to the hypothesis (double-blind).",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-148",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two ways in which Milgram standardised his procedure.",
+    "marks": 4,
+    "answer": "1. The experimenter used the same four prods in the same order whenever a participant hesitated. 2. The same learner, 'Mr Wallace' (a confederate who was never really shocked), and the same experimenter were used, and the learner's protests followed the same script (pounding on the wall at 300 volts, then silence). (Also accept: same rigged draw, same shock generator, same 45-volt sample shock, same room at Yale.)",
+    "working": "For each way: 1 mark identified; 1 mark described with detail."
+   },
+   {
+    "label": "b",
+    "text": "Explain why standardisation was important in this study.",
+    "marks": 2,
+    "answer": "Because every participant had the same experience, the level of obedience could be compared fairly across participants and the study could be replicated by other researchers to check reliability.",
+    "working": "1 mark: fair comparison/consistency; 1 mark: allows replication/reliability."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-149",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "In a hypothetical study in Islamabad, 40 university students were randomly allocated to use a sleep-tracking app or no app (control) for a month. Mean nightly sleep (hours):\nGroup | Before | After\nApp | 5.8 | 6.9\nControl | 5.9 | 6.5",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean increase in sleep for each group.",
+    "marks": 2,
+    "answer": "App: 1.1 hours; control: 0.6 hours",
+    "working": "App: 6.9 − 5.8 = 1.1 (B1); control: 6.5 − 5.9 = 0.6 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Using your answers, explain why the control group was important.",
+    "marks": 2,
+    "answer": "The control group also slept more (perhaps because they were in a study or because exams finished), so without it the researcher might have thought the app caused all 1.1 hours. The app's effect is better estimated as about 0.5 hours.",
+    "working": "1 mark: control group improved too; 1 mark: true effect = difference (0.5 h)."
+   },
+   {
+    "label": "c",
+    "text": "Suggest one reason why the control group's sleep improved.",
+    "marks": 1,
+    "answer": "Being in a study made them think about sleep more (or a change in season/exam pressure affected everyone).",
+    "working": "1 mark."
+   }
+  ],
+  "check": "round(6.9-5.8,1)==1.1 and round(6.5-5.9,1)==0.6 and round((6.9-5.8)-(6.5-5.9),1)==0.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-150",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A hypothetical field experiment at a shopping mall in Karachi tests whether passers-by are more likely to help a woman who drops a bag of oranges if she is carrying a baby than if she is not.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Suggest two variables that the researchers could control in this field experiment, and explain how.",
+    "marks": 4,
+    "answer": "1. The confederate: use the same confederate, wearing the same clothes, dropping the same bag of oranges in the same way each time. 2. Time and place: run all trials at the same entrance, at the same time on weekdays, so crowd levels are similar.",
+    "working": "For each: 1 mark variable; 1 mark how it is controlled."
+   },
+   {
+    "label": "b",
+    "text": "Explain one variable that the researchers could not control, and its possible effect.",
+    "marks": 2,
+    "answer": "The number and type of people nearby (e.g. some passers-by in a hurry, groups of friends) — this could affect whether help is given, independently of the IV.",
+    "working": "1 mark: uncontrollable variable; 1 mark: its effect on helping."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-151",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how a placebo and a double-blind procedure could be used in a hypothetical experiment to test whether an energy drink improves exam performance among students in Lahore.",
+    "marks": 6,
+    "answer": "Recruit students and randomly allocate them to two groups. One group drinks the energy drink; the other drinks a placebo drink that looks, smells and tastes the same but contains no caffeine or sugar. Drinks are prepared in identical coded cans by a third person, so neither the students nor the researchers giving the drink and marking the test know who had which (double-blind). All take the same practice exam in the same room at the same time 30 minutes later. The codes are revealed after marking, and scores compared.",
+    "working": "1 mark: random allocation into two groups; 1 mark: placebo identical in appearance/taste; 1 mark: participants unaware; 1 mark: researchers/markers unaware (third party codes); 1 mark: standardised test conditions; 1 mark: codes broken after marking / compare scores."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-152",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a hypothetical memory experiment, all participants see the same 30 words in the same order. Explain why this might be a problem and how presenting the words in a randomised order for each participant would solve it.",
+    "marks": 4,
+    "answer": "Words at the start and end of a list are usually remembered better (primacy and recency), so in a fixed order the same words always benefit and features of those particular words could affect results. Randomising the order for each participant means each word appears in different positions, so position effects are spread evenly and do not bias the results towards particular words or conditions.",
+    "working": "1 mark: problem — position (primacy/recency) effects; 1 mark: fixed order means the same words always advantaged / confound; 1 mark: randomising spreads positions; 1 mark: bias removed/results fairer."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-153",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a hypothetical experiment in Abbottabad, 30 students revised with flashcards and were tested at 9 am (mean score 72 %). Another 30 students revised by watching videos and were tested at 3 pm (mean score 64 %).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the difference between the mean scores of the two conditions.",
+    "marks": 1,
+    "answer": "8",
+    "working": "72 − 64 = 8 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the researcher cannot conclude that the type of revision caused this difference.",
+    "marks": 2,
+    "answer": "All the flashcard group were tested in the morning and all the video group in the afternoon, so time of day is a confounding variable: students may be more alert in the morning, which could explain the higher scores.",
+    "working": "1 mark: time of day varies with condition; 1 mark: alertness/tiredness could cause the difference."
+   },
+   {
+    "label": "c",
+    "text": "Suggest a better procedure.",
+    "marks": 2,
+    "answer": "Test half of each group in the morning and half in the afternoon (or test everyone at the same time), so time of day is balanced across conditions.",
+    "working": "1 mark: balance or hold constant the time of day; 1 mark: explanation."
+   }
+  ],
+  "check": "72-64==8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "9990-h4-154",
+  "topic": "Experimental designs and controls",
+  "subtopic": "Controls and standardisation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "In a hypothetical experiment in Rawalpindi, 50 participants were randomly allocated to a 'smiling faces' or a 'neutral faces' condition. All were tested in the same room at 10 am. The researcher read the same instructions from a card. Each participant saw 20 faces on a screen for 2 seconds each and then tried to recognise them among 40 faces. The researcher knew the hypothesis and recorded the answers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify three controls used in this procedure.",
+    "marks": 3,
+    "answer": "Any three of: same room; same time of day; standardised instructions read from a card; same 20 faces for everyone; same 2-second presentation time; random allocation to conditions.",
+    "working": "1 mark each for any three."
+   },
+   {
+    "label": "b",
+    "text": "Explain one important variable that has not been controlled and suggest how to control it.",
+    "marks": 2,
+    "answer": "The participants' familiarity with the faces — some could recognise a famous or local face. Use only faces of unknown people (pre-tested in a pilot). (Also accept: the researcher's expectations — use a double-blind procedure.)",
+    "working": "1 mark: relevant uncontrolled variable; 1 mark: suitable control."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]

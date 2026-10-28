@@ -16,26 +16,38 @@
     {
      "name": "Features of kingdoms, groups & viruses",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 2,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Classification, species & binomial system",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Characteristics of living organisms",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Dichotomous keys",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -45,20 +57,29 @@
     {
      "name": "Magnification & size (units)",
      "target": 17,
-     "existing": 0,
-     "to_write": 17
+     "existing": 17,
+     "to_write": 3,
+     "target2": 20,
+     "mcq_existing": 4,
+     "mcq_to_write": 2
     },
     {
      "name": "Cell structure & organelles",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Specialised cells & levels of organisation",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 16,
+     "target2": 20,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -68,20 +89,29 @@
     {
      "name": "Osmosis & water potential",
      "target": 16,
-     "existing": 0,
-     "to_write": 16
+     "existing": 16,
+     "to_write": 4,
+     "target2": 20,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Active transport",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Diffusion",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 15,
+     "target2": 20,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -91,20 +121,29 @@
     {
      "name": "Food tests",
      "target": 18,
-     "existing": 0,
-     "to_write": 18
+     "existing": 18,
+     "to_write": 2,
+     "target2": 20,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "DNA structure & base pairing",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 14,
+     "target2": 20,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Elements & structure of molecules",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 14,
+     "target2": 20,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -114,14 +153,20 @@
     {
      "name": "Effect of temperature & pH",
      "target": 20,
-     "existing": 0,
-     "to_write": 20
+     "existing": 20,
+     "to_write": 10,
+     "target2": 30,
+     "mcq_existing": 5,
+     "mcq_to_write": 2
     },
     {
      "name": "Enzyme action & specificity",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 20,
+     "target2": 30,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -131,20 +176,29 @@
     {
      "name": "Photosynthesis & limiting factors",
      "target": 17,
-     "existing": 0,
-     "to_write": 17
+     "existing": 17,
+     "to_write": 3,
+     "target2": 20,
+     "mcq_existing": 4,
+     "mcq_to_write": 2
     },
     {
      "name": "Leaf structure",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Mineral ions (Mg, nitrate)",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 16,
+     "target2": 20,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -154,32 +208,47 @@
     {
      "name": "Chemical digestion & enzymes",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Physical digestion, teeth & bile",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Absorption, villi & assimilation",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Digestive system organs & processes",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Balanced diet & deficiencies",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -189,26 +258,38 @@
     {
      "name": "Transpiration",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 2,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Translocation",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Xylem & phloem structure",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Water uptake & root hairs",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -218,26 +299,38 @@
     {
      "name": "Circulatory systems & the heart",
      "target": 16,
-     "existing": 0,
-     "to_write": 16
+     "existing": 16,
+     "to_write": 0,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 0
     },
     {
      "name": "Blood vessels",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Blood components & clotting",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Coronary heart disease",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -247,20 +340,29 @@
     {
      "name": "Defences, antibodies & immunity",
      "target": 19,
-     "existing": 0,
-     "to_write": 19
+     "existing": 19,
+     "to_write": 1,
+     "target2": 20,
+     "mcq_existing": 4,
+     "mcq_to_write": 1
     },
     {
      "name": "Cholera",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 13,
+     "target2": 20,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Pathogens & transmission",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 16,
+     "target2": 20,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -270,20 +372,29 @@
     {
      "name": "Breathing mechanism & air composition",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 9,
+     "target2": 20,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Gas exchange system & surfaces",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Exercise & control of breathing",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -293,14 +404,20 @@
     {
      "name": "Anaerobic respiration & oxygen debt",
      "target": 20,
-     "existing": 0,
-     "to_write": 20
+     "existing": 20,
+     "to_write": 10,
+     "target2": 30,
+     "mcq_existing": 4,
+     "mcq_to_write": 2
     },
     {
      "name": "Aerobic respiration",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 20,
+     "target2": 30,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -310,14 +427,20 @@
     {
      "name": "Kidney, nephron & urine",
      "target": 18,
-     "existing": 0,
-     "to_write": 18
+     "existing": 18,
+     "to_write": 12,
+     "target2": 30,
+     "mcq_existing": 4,
+     "mcq_to_write": 2
     },
     {
      "name": "Liver, deamination & urea",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 18,
+     "target2": 30,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -327,50 +450,74 @@
     {
      "name": "Sense organs: the eye",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Blood glucose control & diabetes",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Temperature control",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Tropic responses & auxin",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Synapses",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Nervous system & reflex arc",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Hormones & adrenaline",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Homeostasis & negative feedback (general)",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -380,44 +527,65 @@
     {
      "name": "Flowers & pollination",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Human reproductive systems & gametes",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Sex hormones & menstrual cycle",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Asexual vs sexual reproduction",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Pregnancy, placenta & fetal development",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Fertilisation, seeds & germination",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "STIs & HIV",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -427,26 +595,38 @@
     {
      "name": "Genes, DNA & protein synthesis",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Codominance, blood groups & sex linkage",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Mitosis, meiosis & stem cells",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Monohybrid crosses & pedigrees",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -456,26 +636,38 @@
     {
      "name": "Adaptive features (xerophytes, hydrophytes)",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Variation & mutation",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Natural selection, evolution & antibiotic resistance",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Selective breeding",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -485,44 +677,65 @@
     {
      "name": "Food chains, webs & energy flow",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Populations, growth curves & sampling",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Nitrogen cycle",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Trophic levels, pyramids & energy efficiency",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Carbon cycle",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Ecosystem & community terms",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Water cycle",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -532,14 +745,20 @@
     {
      "name": "Genetic modification",
      "target": 16,
-     "existing": 0,
-     "to_write": 16
+     "existing": 16,
+     "to_write": 14,
+     "target2": 30,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Biotechnology, yeast, enzymes & fermenters",
      "target": 14,
-     "existing": 0,
-     "to_write": 14
+     "existing": 14,
+     "to_write": 16,
+     "target2": 30,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -549,32 +768,47 @@
     {
      "name": "Conservation, sustainability & endangered species",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Pollution & eutrophication",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Habitat destruction & deforestation",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Food supply, agriculture & monocultures",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Climate change & greenhouse gases",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -584,14 +818,20 @@
     {
      "name": "Antibiotics & their use",
      "target": 27,
-     "existing": 0,
-     "to_write": 27
+     "existing": 27,
+     "to_write": 3,
+     "target2": 30,
+     "mcq_existing": 5,
+     "mcq_to_write": 2
     },
     {
      "name": "Drug definition & other drugs",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 27,
+     "target2": 30,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     }
    ]
   },
@@ -601,40 +841,59 @@
     {
      "name": "Tables, graphs & calculations",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Planning an investigation (6-mark plan)",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Biological drawing",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Variables & controls",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Errors, improvements, reliability & safety",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Measurement, apparatus & observation",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

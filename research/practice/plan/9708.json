@@ -16,44 +16,65 @@
     {
      "name": "Production possibility curves",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Classification of goods and services",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Resource allocation in economic systems",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Factors of production and specialisation",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Economic methodology (positive and normative)",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Money",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Scarcity, choice and opportunity cost",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -63,44 +84,65 @@
     {
      "name": "Market equilibrium and interrelated markets",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Income and cross elasticity of demand",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Price elasticity of demand",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Demand and supply curves",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Consumer and producer surplus",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Price elasticity of supply",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Functions of the price mechanism",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -110,26 +152,38 @@
     {
      "name": "Fiscal policy",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 3,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Supply-side policy",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Monetary policy",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Macroeconomic policy objectives",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     }
    ]
   },
@@ -139,32 +193,47 @@
     {
      "name": "Maximum and minimum prices",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Income and wealth inequality",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Reasons for intervention (merit, demerit and public goods)",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Indirect taxes and subsidies",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Direct provision, buffer stocks and transfer payments",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -174,38 +243,56 @@
     {
      "name": "Price stability (inflation and deflation)",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Aggregate demand and aggregate supply",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 8,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Economic growth",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Unemployment",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Circular flow of income",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "National income statistics",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -215,38 +302,56 @@
     {
      "name": "Policies to correct current account imbalances",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Exchange rates",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Terms of trade",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Reasons for trade and comparative advantage",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Current account of the balance of payments",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Protectionism",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     }
    ]
   },
@@ -256,44 +361,65 @@
     {
      "name": "Market structures and price discrimination",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Externalities and cost-benefit analysis",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Indifference curves and budget lines",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Costs, revenue and production",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Utility and marginal utility theory",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Efficiency and market failure",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Growth, survival and objectives of firms",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -303,26 +429,38 @@
     {
      "name": "Labour markets and intervention",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 2,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Policies to correct market failure",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 3,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Equity and redistribution",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Government failure",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -332,26 +470,38 @@
     {
      "name": "Money and banking",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     },
     {
      "name": "Economic growth and sustainability",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Circular flow, multiplier and output gaps",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Employment and unemployment",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     }
    ]
   },
@@ -361,32 +511,47 @@
     {
      "name": "Economic development and living standards",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Relationships between countries (aid, FDI, MNCs, debt)",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Exchange rate systems and effects",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Globalisation and trade integration",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     },
     {
      "name": "Policies to correct the balance of payments",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 1
     }
    ]
   },
@@ -396,16 +561,23 @@
     {
      "name": "Effectiveness of fiscal, monetary and supply-side policy",
      "target": 16,
-     "existing": 0,
-     "to_write": 16
+     "existing": 16,
+     "to_write": 14,
+     "target2": 30,
+     "mcq_existing": 4,
+     "mcq_to_write": 2
     },
     {
      "name": "Policy objectives and conflicts",
      "target": 14,
-     "existing": 0,
-     "to_write": 14
+     "existing": 14,
+     "to_write": 16,
+     "target2": 30,
+     "mcq_existing": 3,
+     "mcq_to_write": 2
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

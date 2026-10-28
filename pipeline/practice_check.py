@@ -83,7 +83,7 @@ def main(code, path=None):
         have = {}
         for q in qs:
             have[(q.get("topic"), q.get("subtopic"))] = have.get((q.get("topic"), q.get("subtopic")), 0) + 1
-        short = [(t["topic"], st["name"], st["target"] - have.get((t["topic"], st["name"]), 0))
+        short = [(t["topic"], st["name"], st.get("target2", st["target"]) - have.get((t["topic"], st["name"]), 0))
                  for t in json.loads(plan.read_text())["topics"] for st in t["subtopics"]]
         short = [x for x in short if x[2] > 0]
         print(f"plan: {sum(x[2] for x in short)} questions still to write in {len(short)} subtopics")

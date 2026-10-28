@@ -17,26 +17,38 @@
     {
      "name": "Errors & uncertainties",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 3
     },
     {
      "name": "SI units & homogeneity",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 3
     },
     {
      "name": "Scalars & vectors",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Estimates & prefixes",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -46,14 +58,20 @@
     {
      "name": "Equations of motion & motion graphs",
      "target": 20,
-     "existing": 0,
-     "to_write": 20
+     "existing": 20,
+     "to_write": 10,
+     "target2": 30,
+     "mcq_existing": 5,
+     "mcq_to_write": 3
     },
     {
      "name": "Projectile motion",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 20,
+     "target2": 30,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -63,20 +81,29 @@
     {
      "name": "Momentum, impulse & collisions",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 5,
+     "target2": 20,
+     "mcq_existing": 3,
+     "mcq_to_write": 3
     },
     {
      "name": "Drag, non-uniform motion & terminal velocity",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 12,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Newton's laws, mass & weight",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 13,
+     "target2": 20,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -86,14 +113,20 @@
     {
      "name": "Turning effects, couples & equilibrium",
      "target": 17,
-     "existing": 0,
-     "to_write": 17
+     "existing": 17,
+     "to_write": 13,
+     "target2": 30,
+     "mcq_existing": 4,
+     "mcq_to_write": 3
     },
     {
      "name": "Density, pressure & upthrust",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 17,
+     "target2": 30,
+     "mcq_existing": 3,
+     "mcq_to_write": 3
     }
    ]
   },
@@ -103,14 +136,20 @@
     {
      "name": "Work & energy conservation (KE, GPE)",
      "target": 19,
-     "existing": 0,
-     "to_write": 19
+     "existing": 19,
+     "to_write": 11,
+     "target2": 30,
+     "mcq_existing": 5,
+     "mcq_to_write": 3
     },
     {
      "name": "Power & efficiency",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 19,
+     "target2": 30,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -120,14 +159,20 @@
     {
      "name": "Hooke's law, elastic/plastic behaviour & strain energy",
      "target": 19,
-     "existing": 0,
-     "to_write": 19
+     "existing": 19,
+     "to_write": 11,
+     "target2": 30,
+     "mcq_existing": 4,
+     "mcq_to_write": 3
     },
     {
      "name": "Stress, strain & Young modulus",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 19,
+     "target2": 30,
+     "mcq_existing": 3,
+     "mcq_to_write": 3
     }
    ]
   },
@@ -137,32 +182,47 @@
     {
      "name": "Progressive waves (phase, intensity, CRO)",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Polarisation (Malus)",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Doppler effect",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Electromagnetic spectrum",
      "target": 5,
-     "existing": 0,
-     "to_write": 5
+     "existing": 5,
+     "to_write": 10,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Transverse & longitudinal waves",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 11,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -172,26 +232,38 @@
     {
      "name": "Superposition principle & stationary waves",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 4,
+     "target2": 15,
+     "mcq_existing": 3,
+     "mcq_to_write": 3
     },
     {
      "name": "Interference & coherence (two-source / double slit)",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Diffraction grating",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 9,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     },
     {
      "name": "Diffraction",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 1,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -201,20 +273,29 @@
     {
      "name": "Resistance, resistivity & I-V characteristics",
      "target": 14,
-     "existing": 0,
-     "to_write": 14
+     "existing": 14,
+     "to_write": 6,
+     "target2": 20,
+     "mcq_existing": 3,
+     "mcq_to_write": 3
     },
     {
      "name": "Current, charge & drift speed (I = Anvq)",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "Potential difference & power",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 13,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -224,20 +305,29 @@
     {
      "name": "Potential dividers & sensors (incl. potentiometer)",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 8,
+     "target2": 20,
+     "mcq_existing": 3,
+     "mcq_to_write": 3
     },
     {
      "name": "Kirchhoff's laws, series & parallel",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 9,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     },
     {
      "name": "E.m.f. & internal resistance",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 13,
+     "target2": 20,
+     "mcq_existing": 2,
+     "mcq_to_write": 2
     }
    ]
   },
@@ -247,14 +337,20 @@
     {
      "name": "Atoms, nuclei & radiation (alpha/beta/gamma, decay equations)",
      "target": 16,
-     "existing": 0,
-     "to_write": 16
+     "existing": 16,
+     "to_write": 14,
+     "target2": 30,
+     "mcq_existing": 4,
+     "mcq_to_write": 3
     },
     {
      "name": "Fundamental particles (quarks, leptons, hadrons)",
      "target": 14,
-     "existing": 0,
-     "to_write": 14
+     "existing": 14,
+     "to_write": 16,
+     "target2": 30,
+     "mcq_existing": 3,
+     "mcq_to_write": 3
     }
    ]
   },
@@ -264,20 +360,29 @@
     {
      "name": "Gravitational field & Newton's law of gravitation",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 7,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Gravitational potential & potential energy",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Orbits & geostationary satellites",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 12,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -287,20 +392,29 @@
     {
      "name": "Electric potential & potential energy",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 8,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Coulomb's law & field of a point charge",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 9,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Uniform electric fields & charged particles",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 13,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -310,14 +424,20 @@
     {
      "name": "Centripetal acceleration & force",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 15,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Kinematics of circular motion (radian, angular speed)",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 15,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -327,20 +447,29 @@
     {
      "name": "X-rays, attenuation & CT",
      "target": 14,
-     "existing": 0,
-     "to_write": 14
+     "existing": 14,
+     "to_write": 6,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Ultrasound & acoustic impedance",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "PET scanning",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 13,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -350,14 +479,20 @@
     {
      "name": "Specific heat capacity & specific latent heat",
      "target": 19,
-     "existing": 0,
-     "to_write": 19
+     "existing": 19,
+     "to_write": 11,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Thermal equilibrium & temperature scales",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 19,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -367,14 +502,20 @@
     {
      "name": "Kinetic theory of gases",
      "target": 18,
-     "existing": 0,
-     "to_write": 18
+     "existing": 18,
+     "to_write": 12,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Equation of state (pV = nRT = NkT, mole)",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 18,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -384,8 +525,11 @@
     {
      "name": "Internal energy & first law of thermodynamics",
      "target": 30,
-     "existing": 0,
-     "to_write": 30
+     "existing": 30,
+     "to_write": 30,
+     "target2": 60,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -395,14 +539,20 @@
     {
      "name": "Simple harmonic motion",
      "target": 24,
-     "existing": 0,
-     "to_write": 24
+     "existing": 24,
+     "to_write": 6,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Damping & resonance",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 24,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -412,14 +562,20 @@
     {
      "name": "Capacitors, combinations & energy stored",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 15,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Discharging a capacitor (time constant)",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 15,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -429,20 +585,29 @@
     {
      "name": "Electromagnetic induction (Faraday, Lenz)",
      "target": 11,
-     "existing": 0,
-     "to_write": 11
+     "existing": 11,
+     "to_write": 9,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Force on a moving charge (Hall effect, velocity selection)",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Magnetic fields & force on a current-carrying conductor",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 11,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -452,20 +617,29 @@
     {
      "name": "Photons & photoelectric effect",
      "target": 18,
-     "existing": 0,
-     "to_write": 18
+     "existing": 18,
+     "to_write": 2,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Wave-particle duality & de Broglie",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 12,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Energy levels & line spectra",
      "target": 4,
-     "existing": 0,
-     "to_write": 4
+     "existing": 4,
+     "to_write": 16,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -475,20 +649,29 @@
     {
      "name": "Redshift, Hubble's law & Big Bang",
      "target": 12,
-     "existing": 0,
-     "to_write": 12
+     "existing": 12,
+     "to_write": 8,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Stellar radii (Wien's law, Stefan-Boltzmann)",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 10,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Standard candles, luminosity & radiant flux",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 12,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -498,14 +681,20 @@
     {
      "name": "Mass defect & binding energy (fission/fusion)",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 15,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Radioactive decay (activity, decay constant, half-life)",
      "target": 15,
-     "existing": 0,
-     "to_write": 15
+     "existing": 15,
+     "to_write": 15,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -515,92 +704,137 @@
     {
      "name": "Planning an investigation",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Analysis: deriving constants, % uncertainty & predictions",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Analysis: graph, error bars & worst line",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Analysis: gradient/intercept with uncertainty",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Analysis: processing data & absolute uncertainties",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Analysis: expressions for gradient/intercept",
      "target": 2,
-     "existing": 0,
-     "to_write": 2
+     "existing": 2,
+     "to_write": 13,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Measurement & recording",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Results table (collecting data)",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Graph plotting & line of best fit",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Calculating constants from data",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Evaluation: limitations & sources of uncertainty",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Evaluation: improvements",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Gradient & y-intercept",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Uncertainty estimates & significant figures",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Conclusion: testing a relationship",
      "target": 1,
-     "existing": 0,
-     "to_write": 1
+     "existing": 1,
+     "to_write": 14,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -610,16 +844,23 @@
     {
      "name": "Rectification & smoothing",
      "target": 17,
-     "existing": 0,
-     "to_write": 17
+     "existing": 17,
+     "to_write": 13,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Alternating current & r.m.s. values",
      "target": 13,
-     "existing": 0,
-     "to_write": 13
+     "existing": 13,
+     "to_write": 17,
+     "target2": 30,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

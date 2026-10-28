@@ -14,26 +14,38 @@
     {
      "name": "Note-making under headings",
      "target": 10,
-     "existing": 0,
-     "to_write": 10
+     "existing": 10,
+     "to_write": 5,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Short-answer questions",
      "target": 9,
-     "existing": 0,
-     "to_write": 9
+     "existing": 9,
+     "to_write": 6,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Paragraph matching (A-D)",
      "target": 8,
-     "existing": 0,
-     "to_write": 8
+     "existing": 8,
+     "to_write": 7,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Matching statements to four named experts",
      "target": 3,
-     "existing": 0,
-     "to_write": 3
+     "existing": 3,
+     "to_write": 12,
+     "target2": 15,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -43,8 +55,11 @@
     {
      "name": "Summary from notes (about 100 words)",
      "target": 30,
-     "existing": 0,
-     "to_write": 30
+     "existing": 30,
+     "to_write": 30,
+     "target2": 60,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -54,20 +69,29 @@
     {
      "name": "Informal email to a friend",
      "target": 17,
-     "existing": 0,
-     "to_write": 17
+     "existing": 17,
+     "to_write": 3,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Email to a teacher",
      "target": 7,
-     "existing": 0,
-     "to_write": 7
+     "existing": 7,
+     "to_write": 13,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     },
     {
      "name": "Informal email (advice to a cousin)",
      "target": 6,
-     "existing": 0,
-     "to_write": 6
+     "existing": 6,
+     "to_write": 14,
+     "target2": 20,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -77,8 +101,11 @@
     {
      "name": "Opinion article (agree or disagree)",
      "target": 30,
-     "existing": 0,
-     "to_write": 30
+     "existing": 30,
+     "to_write": 30,
+     "target2": 60,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -88,8 +115,11 @@
     {
      "name": "Short answers on brief recordings",
      "target": 30,
-     "existing": 0,
-     "to_write": 30
+     "existing": 30,
+     "to_write": 30,
+     "target2": 60,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -99,8 +129,11 @@
     {
      "name": "Gap-fill notes on a talk or report",
      "target": 30,
-     "existing": 0,
-     "to_write": 30
+     "existing": 30,
+     "to_write": 30,
+     "target2": 60,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -110,8 +143,11 @@
     {
      "name": "Six opinions matched to statements A-G",
      "target": 30,
-     "existing": 0,
-     "to_write": 30
+     "existing": 30,
+     "to_write": 30,
+     "target2": 60,
+     "mcq_existing": 0,
+     "mcq_to_write": 0
     }
    ]
   },
@@ -121,10 +157,14 @@
     {
      "name": "Three-option multiple choice",
      "target": 30,
-     "existing": 0,
-     "to_write": 30
+     "existing": 30,
+     "to_write": 30,
+     "target2": 60,
+     "mcq_existing": 30,
+     "mcq_to_write": 30
     }
    ]
   }
- ]
+ ],
+ "round2": true
 }

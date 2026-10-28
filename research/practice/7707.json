@@ -5670,5 +5670,3541 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "7707-h1-001",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "What is the main purpose of book-keeping?\nA to record the financial transactions of a business accurately and in detail\nB to interpret the financial statements and advise the owner\nC to compare the results of the business with those of competitors\nD to decide the selling prices of the goods the business sells",
+    "marks": 1,
+    "answer": "A to record the financial transactions of a business accurately and in detail",
+    "working": "Book-keeping is the detailed day-to-day recording of transactions. B and C are accounting (analysis and interpretation) tasks that use the book-keeping records; D is a management decision."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-002",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "During the year a florist's income was $68,200 and her expenses were $71,900. What was the result for the year and its effect on her capital?\nA profit of $3,700; capital increases\nB loss of $3,700; capital decreases\nC loss of $3,700; capital increases\nD profit of $3,700; capital decreases",
+    "marks": 1,
+    "answer": "B loss of $3,700; capital decreases",
+    "working": "Expenses exceed income: 71,900 − 68,200 = 3,700 loss. A loss reduces the owner's capital. A treats the difference as a profit."
+   }
+  ],
+  "check": "71900-68200 == 3700 and 68200-71900 < 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-003",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by income of a business.",
+    "marks": 1,
+    "answer": "Money earned (or to be received) by the business from its trading or other activities, e.g. sales, fees, rent received, commission received.",
+    "working": "B1."
+   },
+   {
+    "label": "b",
+    "text": "State what is meant by an expense of a business.",
+    "marks": 1,
+    "answer": "A cost of running the business which is used up in earning income during the period, e.g. wages, rent, electricity.",
+    "working": "B1."
+   },
+   {
+    "label": "c",
+    "text": "Bilal drives a taxi in Quetta as a sole trader. Give one example of income and two examples of expenses of his business.",
+    "marks": 3,
+    "answer": "Income: fares received from passengers. Expenses (any two): fuel, vehicle repairs and servicing, vehicle insurance, licence fees, mobile phone bill, depreciation of the taxi.",
+    "working": "B1 income; 1 mark each for any two expenses. Do not accept buying the taxi (capital expenditure) or drawings."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-004",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Ayesha runs a beauty salon in Karachi. For each item state whether it is income, an expense or neither.\n(i) fees received from customers\n(ii) wages paid to an assistant\n(iii) $5,000 paid in by the owner from her savings\n(iv) $300 taken from the till by the owner for her own use\n(v) a bank loan of $8,000 received\n(vi) commission received for selling a supplier's products",
+    "marks": 6,
+    "answer": "(i) income; (ii) expense; (iii) neither (capital introduced); (iv) neither (drawings); (v) neither (a liability); (vi) income",
+    "working": "1 mark each. Capital introduced, drawings and a loan change capital or liabilities but are not income or expenses."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-005",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a business owner needs records of the amounts owed by credit customers.",
+    "marks": 2,
+    "answer": "So that the owner knows how much each customer owes and when it is due (B1), and can send statements / chase late payers and decide whether to give more credit (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a business owner needs records of the amounts owed to suppliers.",
+    "marks": 2,
+    "answer": "So that the owner knows how much is owed and when it must be paid (B1), so that bills are paid on time, cash discounts are not lost and good relations / credit terms with suppliers are kept (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "c",
+    "text": "State one other item of information a business owner can obtain from accounting records.",
+    "marks": 1,
+    "answer": "Any one: profit or loss for a period; value of assets; amount of liabilities; capital; bank/cash balance; inventory held; total sales or expenses.",
+    "working": "B1."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-006",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Omar runs a mobile car wash in Dubai. His records for May show:\nWashing fees received $6,840\nCapital introduced by Omar $2,500\nBank loan received $4,000\nCleaning materials used $920\nWages of a helper $1,750\nFuel for the van $610\nOmar's drawings $1,400\nInsurance for the month $180",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Omar's profit for May.",
+    "marks": 3,
+    "answer": "$3,380",
+    "working": "Income 6,840 (B1); expenses 920 + 1,750 + 610 + 180 = 3,460 (M1); profit 6,840 − 3,460 = 3,380 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the capital introduced, the bank loan and the drawings were not used in your calculation.",
+    "marks": 3,
+    "answer": "Capital introduced and the loan are money put into the business, not earned by it, so they are not income (B1); the loan is a liability that must be repaid (B1); drawings are taken by the owner for private use, not costs of running the business, so they are not expenses (B1).",
+    "working": "B1 each."
+   }
+  ],
+  "check": "6840-(3460) == 3380",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-007",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Kiran owns a grocery shop and suspects that cash is going missing. Explain two ways in which keeping full accounting records could help her.",
+    "marks": 4,
+    "answer": "Any two, explained: (1) daily takings recorded and compared with cash counted/banked, so shortages are seen quickly; (2) records show who handled each transaction, so responsibility can be traced; (3) inventory records compared with sales show goods missing; (4) bank statements can be checked against the cash book (bank reconciliation) to spot unrecorded or missing amounts.",
+    "working": "1 mark for each way, 1 mark for development (2 × 2)."
+   },
+   {
+    "label": "b",
+    "text": "State two other reasons why Kiran should keep accounting records.",
+    "marks": 2,
+    "answer": "Any two: to calculate profit or loss; to know assets and liabilities; to know amounts owed by and to her; to support a loan application; for tax purposes; to help planning and decisions.",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-008",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Oluwaseun makes leather bags in Lagos. His accounting records show that each bag costs $14.50 for materials and $9 for labour, and that a share of $4.25 of the workshop overheads should be added to each bag. He sells each bag for $40.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total cost of making one bag.",
+    "marks": 1,
+    "answer": "$27.75",
+    "working": "14.50 + 9.00 + 4.25 = 27.75 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit on one bag.",
+    "marks": 1,
+    "answer": "$12.25",
+    "working": "40.00 − 27.75 = 12.25 (B1, own figure)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the total profit if 320 bags are sold in the month.",
+    "marks": 2,
+    "answer": "$3,920",
+    "working": "12.25 × 320 (M1) = 3,920 (A1)."
+   },
+   {
+    "label": "d",
+    "text": "Explain how accounting records helped Oluwaseun to set his selling price.",
+    "marks": 2,
+    "answer": "Records show the actual costs of materials, labour and overheads (B1), so he can set a price that covers all costs and gives the profit he wants; without them he might price below cost and make a loss (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "abs((14.5+9.0+4.25) - 27.75) < 1e-9 and abs(40.0-27.75 - 12.25) < 1e-9 and abs(12.25*320 - 3920.0) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-009",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Mei Ling runs a fitness studio in Kuala Lumpur. Her accounting records show:\nApril: income $18,400, expenses $15,350\nMay: income $21,900, expenses $19,780\nJune: income $19,600, expenses $15,890",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the profit for each month.",
+    "marks": 3,
+    "answer": "April $3,050; May $2,120; June $3,710",
+    "working": "1 mark each: 18,400 − 15,350 = 3,050; 21,900 − 19,780 = 2,120; 19,600 − 15,890 = 3,710."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the expenses of each month as a percentage of income. Give your answers correct to two decimal places.",
+    "marks": 3,
+    "answer": "April 83.42%; May 90.32%; June 81.07%",
+    "working": "1 mark each (expenses ÷ income × 100)."
+   },
+   {
+    "label": "c",
+    "text": "State which month was the most successful. Justify your answer.",
+    "marks": 2,
+    "answer": "June: highest profit ($3,710) and the lowest share of income spent on expenses (81.07%), although May had the highest income.",
+    "working": "B1 month; B1 justification using profit/percentage (not income alone)."
+   },
+   {
+    "label": "d",
+    "text": "Mei Ling plans to employ an assistant at $2,200 a month. Using your answers, advise her whether she can afford to do this. Justify your answer.",
+    "marks": 4,
+    "answer": "New profits would be April $850, May −$80 (a loss) and June $1,510. April and June stay profitable, but in May the business would make a small loss and leave nothing for her own drawings. Advice either way accepted if justified, e.g. employ the assistant only if the extra help increases income (more classes) by at least $2,200 a month, or employ part-time.",
+    "working": "B1 new profit figures (850, −80, 1,510); B1 point for (two months still profitable / total profit still positive); B1 point against (May becomes a loss); B1 reasoned decision."
+   }
+  ],
+  "check": "18400-15350 == 3050 and 21900-19780 == 2120 and 19600-15890 == 3710 and round(15350/18400*100,2) == 83.42 and round(19780/21900*100,2) == 90.32 and round(15890/19600*100,2) == 81.07 and 3050-2200 == 850 and 2120-2200 == -80 and 3710-2200 == 1510",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-010",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Tariq started a wholesale business on 1 January with money in the bank and no other assets. All transactions went through the bank. During the year:\n• Sales $84,000, of which $9,600 was still owed by credit customers at the year end\n• Purchases of goods $52,000, all paid; inventory unsold at the year end cost $7,500\n• Expenses paid $18,300 (none owing or prepaid)\n• Drawings $12,000\n• Equipment bought $6,000 (ignore depreciation)",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Tariq's profit for the year.",
+    "marks": 3,
+    "answer": "$21,200",
+    "working": "Cost of sales 52,000 − 7,500 = 44,500 (M1); 84,000 − 44,500 − 18,300 (M1) = 21,200 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the change in the bank balance during the year. State whether it is an increase or a decrease.",
+    "marks": 3,
+    "answer": "$13,900 decrease",
+    "working": "Received 84,000 − 9,600 = 74,400 (M1); paid 52,000 + 18,300 + 12,000 + 6,000 = 88,300 (M1); 74,400 − 88,300 = -13,900, a decrease (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Tariq says: 'The business made a profit, so the bank balance must have gone up.' Explain why he is wrong, using three items from the information.",
+    "marks": 3,
+    "answer": "Any three: credit customers still owe $9,600, counted as sales but not yet received; unsold inventory of $7,500 was paid for but is not an expense; the equipment of $6,000 reduced the bank but is not an expense (capital expenditure); drawings of $12,000 reduced the bank but are not an expense.",
+    "working": "1 mark each for any three items correctly explained."
+   }
+  ],
+  "check": "84000-(52000-7500)-18300 == 21200 and (84000-9600)-(52000+18300+12000+6000) == -13900",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-011",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "Purpose of accounting and book-keeping",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Zara sells school uniforms from a market stall in Lahore. She records her cash takings and payments in a notebook only. Three schools have now asked to buy uniforms on 30 days' credit, and she wants to borrow from a bank to rent a small shop.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two benefits to Zara of keeping a full double-entry book-keeping system.",
+    "marks": 2,
+    "answer": "Any two: accurate profit figure; records of amounts owed by schools and to suppliers; arithmetical check through a trial balance; information for a bank loan application; easier control of cash and inventory; complete records for tax.",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "Advise Zara whether she should change from her notebook to a full double-entry system. Justify your answer by giving two points for and two points against.",
+    "marks": 5,
+    "answer": "For (any two): she now sells on credit to schools, so she needs receivables records; the business is growing, so errors are more likely; a bank will want proper statements before lending; she can measure profit accurately and control costs. Against (any two): takes time she could spend selling; she may need to pay a book-keeper or buy software; she may lack the skills; cost may be high for a small business. Decision: e.g. yes, because credit sales and growth make accurate records essential.",
+    "working": "1 mark each for two points for and two against (4); 1 mark for a justified decision."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-012",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business has total assets of $91,250 and capital of $63,700. Its only liabilities are trade payables of $9,300 and a bank loan. What is the bank loan?\nA $18,250\nB $27,550\nC $36,850\nD $81,950",
+    "marks": 1,
+    "answer": "A $18,250",
+    "working": "Total liabilities = assets − capital = 91,250 − 63,700 = 27,550; bank loan = 27,550 − 9,300 = 18,250. B is total liabilities (trade payables not deducted); C adds the payables; D ignores capital (91,250 − 9,300)."
+   }
+  ],
+  "check": "91250-63700-9300 == 18250 and 91250-63700 == 27550 and 91250-9300 == 81950",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-013",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "On 1 March a trader's capital was $40,000. During March the business made a profit of $6,500, the owner took goods costing $800 for his family and he paid $3,000 of his own money into the business bank account. What was the capital on 31 March?\nA $50,300\nB $48,700\nC $45,700\nD $42,700",
+    "marks": 1,
+    "answer": "B $48,700",
+    "working": "40,000 + 6,500 − 800 + 3,000 = 48,700. Goods taken are drawings and reduce capital; A adds them. C ignores the capital introduced."
+   }
+  ],
+  "check": "40000+6500-800+3000 == 48700",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-014",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Sami runs a plumbing business. On 30 September his capital was $15,900. His other balances were:\nVan $14,200\nTools $3,650\nInventory of parts $2,180\nTrade receivables $1,470\nTrade payables $1,940\nLoan from a relative $6,000\nBank: unknown (a positive balance)",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Sami's total liabilities.",
+    "marks": 1,
+    "answer": "$7,940",
+    "working": "1,940 + 6,000 = 7,940 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the total assets.",
+    "marks": 1,
+    "answer": "$23,840",
+    "working": "Capital + liabilities 15,900 + 7,940 = 23,840 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the balance at bank.",
+    "marks": 2,
+    "answer": "$2,340",
+    "working": "23,840 − (14,200 + 3,650 + 2,180 + 1,470) (M1) = 2,340 (A1)."
+   }
+  ],
+  "check": "15900+7940-21500 == 2340 and 2340 > 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-015",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by an asset.",
+    "marks": 1,
+    "answer": "A resource owned (or controlled) by the business that has a money value, e.g. a boat, equipment, money in the bank.",
+    "working": "B1."
+   },
+   {
+    "label": "b",
+    "text": "Noor runs a fishing business in Gwadar. State two assets and one liability his business may have.",
+    "marks": 3,
+    "answer": "Assets (any two): fishing boat; nets and equipment; cold store/freezer; inventory of fish; bank/cash; amounts owed by fish traders. Liability (any one): bank loan; amounts owed to fuel or ice suppliers; bank overdraft.",
+    "working": "1 mark each."
+   },
+   {
+    "label": "c",
+    "text": "State the accounting equation in the form that calculates capital.",
+    "marks": 1,
+    "answer": "Capital = Assets − Liabilities",
+    "working": "B1."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-016",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business buys a computer for $1,200 and pays by bank transfer. Explain why the total assets of the business do not change.",
+    "marks": 2,
+    "answer": "One asset (computers/equipment) increases by $1,200 (B1) and another asset (bank) decreases by $1,200, so the total stays the same (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "b",
+    "text": "State the effect on total assets and total liabilities if the computer had been bought on credit.",
+    "marks": 2,
+    "answer": "Total assets increase by $1,200 (B1); total liabilities (trade/other payables) increase by $1,200 (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-017",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For each event, state whether the owner's capital will increase, decrease or not change.\n(i) the business made a profit\n(ii) the owner took cash for private use\n(iii) a bank loan was received\n(iv) the owner paid in extra capital\n(v) inventory was bought on credit\n(vi) the business made a loss",
+    "marks": 6,
+    "answer": "(i) increase; (ii) decrease; (iii) no change; (iv) increase; (v) no change; (vi) decrease",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-018",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "At 31 December the flower shop owned by Ji-woo in Busan had total assets of $57,340 and total liabilities of $18,925.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital of Ji-woo's flower shop.",
+    "marks": 2,
+    "answer": "$38,415",
+    "working": "57,340 − 18,925 (M1) = 38,415 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "State one way in which Ji-woo could increase the capital of the business.",
+    "marks": 1,
+    "answer": "Any one: make a profit; introduce more of her own money or assets; reduce drawings (prevents a decrease).",
+    "working": "B1."
+   }
+  ],
+  "check": "57340-18925 == 38415",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-019",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "On 1 August a stationery business had: equipment $16,000, inventory $7,500, bank $4,200 and trade payables $3,700. Transactions in August:\n1 Sold goods which had cost $1,200 for $1,800 on credit.\n2 Paid a supplier $900 by bank transfer.\n3 Paid wages of $650 by bank transfer.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital on 1 August.",
+    "marks": 1,
+    "answer": "$24,000",
+    "working": "27,700 − 3,700 = 24,000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Complete a table showing total assets, total liabilities and capital after each transaction.",
+    "marks": 6,
+    "answer": "After 1: assets $28,300, liabilities $3,700, capital $24,600. After 2: assets $27,400, liabilities $2,800, capital $24,600. After 3: assets $26,750, liabilities $2,800, capital $23,950.",
+    "working": "2 marks per transaction (all three figures correct 2, two correct 1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the capital changed after transaction 1.",
+    "marks": 2,
+    "answer": "The goods were sold for 600 more than they cost (B1); this profit belongs to the owner, so capital increases by $600 (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "27700-3700 == 24000 and 27700-1200+1800 == 28300 and 28300-3700 == 24600 and 28300-900 == 27400 and 27400-2800 == 24600 and 27400-650 == 26750 and 26750-2800 == 23950",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-020",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Felipe's courier business: total assets $48,600 and liabilities $11,300 at the start of the year; total assets $62,950 and liabilities $14,750 at the end. During the year Felipe paid in extra capital of $5,000 and took drawings of $9,800.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital at the start and at the end of the year.",
+    "marks": 2,
+    "answer": "Start $37,300; end $48,200",
+    "working": "48,600 − 11,300 = 37,300 (B1); 62,950 − 14,750 = 48,200 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit for the year.",
+    "marks": 3,
+    "answer": "$15,700",
+    "working": "Increase in capital 10,900 (M1); + drawings 9,800 − capital introduced 5,000 (M1) = 15,700 (A1)."
+   }
+  ],
+  "check": "48600-11300 == 37300 and 62950-14750 == 48200 and 48200-37300+9800-5000 == 15700",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-021",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Rubina, the owner of a textile shop, paid her home electricity bill of $240 from the business bank account. State the effect of this on the business's assets, liabilities and capital.",
+    "marks": 3,
+    "answer": "Assets: bank decreases by $240 (B1). Liabilities: no change (B1). Capital: decreases by $240 because it is drawings (B1).",
+    "working": "B1 each."
+   },
+   {
+    "label": "b",
+    "text": "Explain why this payment must not be recorded as an expense of the business.",
+    "marks": 2,
+    "answer": "The bill is for Rubina's private use, not for running the business (B1); the business and the owner are treated as separate, so it is drawings; treating it as an expense would understate profit (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-022",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Each line shows the two effects of one transaction on the accounting equation. Suggest a transaction that would cause each.\n(i) Assets +$5,000; Liabilities +$5,000\n(ii) Assets +$2,000; Assets −$2,000\n(iii) Assets −$1,500; Liabilities −$1,500\n(iv) Assets +$3,000; Capital +$3,000\n(v) Assets −$400; Capital −$400",
+    "marks": 5,
+    "answer": "(i) e.g. goods/equipment bought on credit, or a loan received into the bank; (ii) e.g. equipment bought for cash/by cheque, or a customer pays what he owes; (iii) e.g. a supplier paid by cheque, or part of a loan repaid; (iv) the owner introduces extra capital (cash or an asset); (v) drawings of cash/goods by the owner, or an expense paid",
+    "working": "1 mark each for any suitable transaction."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-023",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Danish, a shoe retailer, listed his balances as follows:\nAssets: Premises $75,000; Shop fittings $9,400; Inventory $6,850; Bank loan $20,000; Cash $730\nLiabilities: Trade payables $4,120; Trade receivables $2,260",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital using Danish's lists (as he did).",
+    "marks": 1,
+    "answer": "$105,600",
+    "working": "111,980 − 6,380 = 105,600 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Identify the two items that are in the wrong list.",
+    "marks": 2,
+    "answer": "Bank loan is a liability, not an asset (B1); trade receivables are an asset, not a liability (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the correct capital.",
+    "marks": 2,
+    "answer": "$70,120",
+    "working": "Assets 94,240 − liabilities 24,120 (M1) = 70,120 (A1)."
+   }
+  ],
+  "check": "105600 == 111980-6380 and 94240-24120 == 70120",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-024",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business buys a van costing $18,000. It pays $6,000 by bank transfer and the rest is financed by a loan from the van dealer. Calculate the change in (i) total assets and (ii) total liabilities.",
+    "marks": 4,
+    "answer": "(i) Assets increase by $12,000: van +18,000, bank −6,000. (ii) Liabilities increase by $12,000 (loan).",
+    "working": "(i) M1 both effects, A1 12,000; (ii) M1 loan identified, A1 12,000."
+   },
+   {
+    "label": "b",
+    "text": "State the effect of the transaction on capital. Explain your answer.",
+    "marks": 2,
+    "answer": "No effect (B1): the business has gained an asset and taken on a liability of equal amount, but there is no income, expense or owner transaction (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "18000-6000 == 12000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-025",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Rashid's tyre business. Opening capital $29,000; profit for the year $13,450; drawings $7,600. At the year end: Machinery $32,000; Inventory $11,400; Trade receivables $5,300; Bank $2,850; Trade payables $6,700; Loan $10,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital at the end of the year using: opening capital + profit − drawings.",
+    "marks": 2,
+    "answer": "$34,850",
+    "working": "29,000 + 13,450 − 7,600 (M1) = 34,850 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the capital at the end of the year using: assets − liabilities.",
+    "marks": 2,
+    "answer": "$34,850",
+    "working": "51,550 − 16,700 (M1) = 34,850 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why both methods give the same answer.",
+    "marks": 2,
+    "answer": "Both measure the amount the business owes to the owner (B1); profit adds to net assets and drawings take resources out, so the change in capital equals the change in assets − liabilities (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "29000+13450-7600 == 34850 and 51550-16700 == 34850 and 34850 == 34850",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-026",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "On 1 October Joseph's hardware business in Kampala had: bank $9,000, inventory $6,000, equipment $12,000, trade payables $2,500 and a loan $5,000. During October:\n1 Sold goods which had cost $2,000 for $1,700, received by bank transfer.\n2 Paid loan interest of $250 by bank transfer.\n3 Joseph took goods costing $400 for his own use.\n4 Bought goods for resale on credit, $1,800.\n5 Repaid $1,000 of the loan by bank transfer.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital on 1 October.",
+    "marks": 1,
+    "answer": "$19,500",
+    "working": "27,000 − 7,500 = 19,500 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the balance of each asset and each liability at the end of October.",
+    "marks": 5,
+    "answer": "Bank $9,450; inventory $5,400; equipment $12,000; trade payables $4,300; loan $4,000",
+    "working": "Bank 9,000 + 1,700 − 250 − 1,000 = 9,450; inventory 6,000 − 2,000 − 400 + 1,800 = 5,400; equipment unchanged; payables 2,500 + 1,800 = 4,300; loan 5,000 − 1,000 = 4,000. 1 mark each."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the capital at the end of October and show how it is reconciled to the opening capital.",
+    "marks": 3,
+    "answer": "$18,550. Reconciliation: 19,500 − loss on sale 300 − interest 250 − drawings 400 = 18,550.",
+    "working": "B1 capital from assets − liabilities; M1 identifies loss, interest and drawings; A1 reconciles."
+   }
+  ],
+  "check": "26850-8300 == 18550 and 19500-300-250-400 == 18550",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-027",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "During the year the total assets of Leila's printing business increased by $14,600 and its total liabilities decreased by $3,200. Her profit for the year was $21,900 and she paid in additional capital of $7,500.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the increase in Leila's capital during the year.",
+    "marks": 2,
+    "answer": "$17,800",
+    "working": "Increase in net assets = 14,600 + 3,200 (M1) = 17,800 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate Leila's drawings for the year.",
+    "marks": 3,
+    "answer": "$11,600",
+    "working": "Increase in capital = profit + capital introduced − drawings (M1); 17,800 = 21,900 + 7,500 − drawings (M1); drawings = 11,600 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a reduction in liabilities increases the capital of the business when total assets do not change.",
+    "marks": 2,
+    "answer": "Capital = assets − liabilities (B1); if liabilities fall while assets stay the same, the difference (net assets) belongs to the owner and is larger (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "14600+3200 == 17800 and 21900+7500-17800 == 11600",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-028",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Sophia's bakery in Athens: non-current assets $64,000; current assets $21,800; current liabilities $9,450; non-current liabilities $18,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the net assets of the business.",
+    "marks": 2,
+    "answer": "$58,350",
+    "working": "64,000 + 21,800 − 9,450 − 18,000 (M1) = 58,350 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "State the capital of the business. Explain why it equals the net assets.",
+    "marks": 2,
+    "answer": "$58,350: capital is what the business owes the owner, i.e. what is left of the assets after all liabilities are paid (Assets − Liabilities = Capital).",
+    "working": "B1 figure; B1 explanation."
+   },
+   {
+    "label": "c",
+    "text": "The following year the business makes a loss of $6,200 and there are no drawings or capital introduced. Calculate the new capital and explain why the net assets must also fall by the same amount.",
+    "marks": 3,
+    "answer": "$52,150. A loss means expenses were greater than income, so more resources (e.g. bank) were used up or more liabilities incurred than income brought in; net assets fall by $6,200, matching the fall in capital.",
+    "working": "B1 figure; B1 loss uses up assets/increases liabilities; B1 equation stays balanced."
+   }
+  ],
+  "check": "64000+21800-9450-18000 == 58350 and 58350-6200 == 52150",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-029",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A furniture dealer had the following transactions:\n1 Sold furniture which cost $2,400 to a hotel on credit for $3,200.\n2 The hotel returned one item which it had been charged $800; that item had cost the dealer $600. The item was put back into inventory.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the effect of transaction 1 on total assets, total liabilities and capital, giving amounts.",
+    "marks": 3,
+    "answer": "Assets +$800 (receivables +3,200, inventory −2,400); liabilities no change; capital +$800 (profit).",
+    "working": "B1 each."
+   },
+   {
+    "label": "b",
+    "text": "State the effect of transaction 2 on total assets, total liabilities and capital, giving amounts.",
+    "marks": 3,
+    "answer": "Assets −$200 (receivables −800, inventory +600); liabilities no change; capital −$200 (profit on the returned goods is lost).",
+    "working": "B1 each."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the overall increase in capital from the two transactions.",
+    "marks": 1,
+    "answer": "$600",
+    "working": "800 − 200 = 600 (B1)."
+   }
+  ],
+  "check": "3200-2400 == 800 and 800-600 == 200 and (3200-800)-(2400-600) == 600",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-030",
+  "topic": "The fundamentals of accounting",
+  "subtopic": "The accounting equation",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Priya runs a dance school in Chennai. On 1 April her business had assets of $38,500 and liabilities of $9,200. For the year to 31 March, income was $27,400, expenses were $19,650 and drawings were $5,100. On 31 March liabilities were $11,050.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital on 1 April.",
+    "marks": 1,
+    "answer": "$29,300",
+    "working": "38,500 − 9,200 = 29,300 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit for the year.",
+    "marks": 1,
+    "answer": "$7,750",
+    "working": "27,400 − 19,650 = 7,750 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Using the expanded equation Assets = Liabilities + Opening capital + Profit − Drawings, calculate the total assets on 31 March.",
+    "marks": 3,
+    "answer": "$43,000",
+    "working": "Closing capital 29,300 + 7,750 − 5,100 = 31,950 (M1); + liabilities 11,050 (M1) = 43,000 (A1)."
+   }
+  ],
+  "check": "38500-9200 == 29300 and 27400-19650 == 7750 and 29300+7750-5100+11050 == 43000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-031",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Partnerships",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "How is interest on partners' drawings treated in a partnership appropriation account?\nA added to the profit for the year\nB deducted from the profit for the year\nC shown as an expense in the income statement\nD credited to the partners' capital accounts",
+    "marks": 1,
+    "answer": "A added to the profit for the year",
+    "working": "Interest on drawings is a charge on the partners, so it increases the profit available to share and is added in the appropriation account (and debited to their current accounts). B is how interest on capital and salaries are treated."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-032",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Partnerships",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Xavier and Yusuf share residual profits 3:1. The profit for the year was $54,000. Xavier receives a salary of $9,000. Total interest on capital is $4,500 and total interest on drawings is $1,100. What is Xavier's share of the residual profit?\nA $31,200\nB $29,550\nC $37,950\nD $20,800",
+    "marks": 1,
+    "answer": "A $31,200",
+    "working": "Residual = 54,000 + 1,100 − 9,000 − 4,500 = 41,600; × 3/4 = 31,200. B deducts interest on drawings instead of adding it."
+   }
+  ],
+  "check": "(54000+1100-9000-4500)*3/4 == 31200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-033",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Partnerships",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a partner's capital account and a partner's current account.",
+    "marks": 2,
+    "answer": "The capital account records the long-term (fixed) capital the partner has invested, which changes only if capital is introduced or withdrawn (B1); the current account records the partner's share of profit, interest on capital, salary, drawings and interest on drawings each year (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "b",
+    "text": "State two items which are credited to a partner's current account.",
+    "marks": 2,
+    "answer": "Any two: interest on capital; partner's salary; share of residual profit; (opening credit balance).",
+    "working": "1 mark each."
+   },
+   {
+    "label": "c",
+    "text": "State two items which are debited to a partner's current account.",
+    "marks": 2,
+    "answer": "Any two: drawings (cash or goods); interest on drawings; share of residual loss; (opening debit balance).",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-034",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Partnerships",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Ravi, Sunita and Tom run a garden centre in Colombo. Their capitals are: Ravi $60,000, Sunita $45,000, Tom $15,000. The partnership agreement gives interest on capital at 6% per annum and shares the residual profit equally. The profit for the year was $39,600.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the interest on capital for each partner.",
+    "marks": 3,
+    "answer": "Ravi $3,600; Sunita $2,700; Tom $900",
+    "working": "1 mark each (60,000 × 6%; 45,000 × 6%; 15,000 × 6%)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the residual profit and each partner's share of it.",
+    "marks": 3,
+    "answer": "Residual $32,400; each partner $10,800",
+    "working": "39,600 − 7,200 (M1) = 32,400 (A1); ÷ 3 = 10,800 (A1)."
+   }
+  ],
+  "check": "60000*6/100 == 3600 and 45000*6/100 == 2700 and 15000*6/100 == 900 and (39600-7200)/3 == 10800",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-035",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Partnerships",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Adeel, Bushra and Chen are partners in a printing firm, sharing residual profits 3:2:1. Capitals: Adeel $90,000, Bushra $60,000, Chen $30,000. Interest on capital is 5% per annum. Interest on drawings is charged at 4% of each partner's total drawings for the year: Adeel $14,000, Bushra $12,000, Chen $9,000. Chen receives a salary of $10,000. The profit for the year was $72,800.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total interest on drawings and the total interest on capital.",
+    "marks": 2,
+    "answer": "Interest on drawings $1,400; interest on capital $9,000",
+    "working": "IoD: 560, 480, 360 (B1); IoC: 4,500, 3,000, 1,500 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Prepare the profit and loss appropriation account for the year ended 31 December. Show the residual profit and each partner's share.",
+    "marks": 6,
+    "answer": "Profit 72,800 + interest on drawings 1,400 = 74,200; less salary Chen 10,000; less interest on capital 9,000; residual profit $55,200: Adeel $27,600, Bushra $18,400, Chen $9,200.",
+    "working": "B1 starts with profit; B1 adds IoD; B1 salary; B1 IoC; B1 residual; B1 shares 3:2:1 (own figure)."
+   }
+  ],
+  "check": "72800+1400-9000-10000 == 55200 and 55200*3/6 == 27600 and 55200*2/6 == 18400 and 55200/6 == 9200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-036",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Partnerships",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Dina and Emre own a café in Istanbul and share residual profits and losses 2:3. For the year: profit $21,500; salary to Dina $18,000; interest on capital Dina $3,000, Emre $4,500. Opening current account balances (both credit): Dina $2,400, Emre $5,100. Drawings: Dina $12,600, Emre $8,300.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the residual profit or loss for the year.",
+    "marks": 2,
+    "answer": "Residual loss $4,000",
+    "working": "21,500 − 18,000 − 3,000 − 4,500 (M1) = -4,000, a loss (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate each partner's share of the residual loss.",
+    "marks": 2,
+    "answer": "Dina $1,600; Emre $2,400",
+    "working": "1 mark each (2:3)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the balance on each partner's current account at the end of the year. State whether each is debit or credit.",
+    "marks": 4,
+    "answer": "Dina $9,200 credit; Emre $1,100 debit",
+    "working": "Dina: 2,400 + 18,000 + 3,000 − 1,600 − 12,600 = 9,200 (M1 A1). Emre: 5,100 + 4,500 − 2,400 − 8,300 = -1,100 (M1 A1)."
+   }
+  ],
+  "check": "21500-18000-3000-4500 == -4000 and -4000*2/5 == -1600 and -4000*3/5 == -2400 and 2400+18000+3000+(-1600)-12600 == 9200 and 5100+4500+(-2400)-8300 == -1100",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-037",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Partnerships",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Kofi and Ama are partners in a pharmacy in Kumasi. The financial year ends on 31 December. Interest on drawings is charged at 10% per annum from the date of each withdrawal to the end of the year. Drawings were:\nKofi: 1 April $6,000; 1 October $4,000\nAma: 1 July $8,000; 30 November $2,400",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the interest on drawings for Kofi.",
+    "marks": 2,
+    "answer": "$550",
+    "working": "6,000 × 10% × 9/12 = 450; 4,000 × 10% × 3/12 = 100; total 550 (M1 A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the interest on drawings for Ama.",
+    "marks": 2,
+    "answer": "$420",
+    "working": "8,000 × 10% × 6/12 = 400; 2,400 × 10% × 1/12 = 20; total 420 (M1 A1)."
+   },
+   {
+    "label": "c",
+    "text": "State the double entry to record Kofi's interest on drawings.",
+    "marks": 2,
+    "answer": "Debit Kofi's current account (B1); credit the profit and loss appropriation account (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "d",
+    "text": "Explain why interest on drawings is calculated from the date of each withdrawal.",
+    "marks": 1,
+    "answer": "A partner who takes money earlier has use of it for longer, so is charged more; it is fair between partners.",
+    "working": "B1."
+   }
+  ],
+  "check": "6000*0.1*9/12+4000*0.1*3/12 == 550.0 and 8000*0.1*6/12+2400*0.1*1/12 == 420.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-038",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Partnerships",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Fatima and Gul are partners in a catering business in Islamabad. Fatima works full-time; Gul works part-time. They are discussing two options for sharing profits:\nOption 1: Fatima receives a salary of $8,000 and the rest is shared equally.\nOption 2: no salary; profits shared Fatima 60% and Gul 40%.\nThe profit for next year is expected to be $64,000. Ignore interest on capital and drawings.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Fatima's total share of profit under each option.",
+    "marks": 4,
+    "answer": "Option 1 $36,000; option 2 $38,400",
+    "working": "Option 1: 64,000 − 8,000 = 56,000; ÷ 2 = 28,000; + 8,000 = 36,000 (M1 A1). Option 2: 64,000 × 60% = 38,400 (M1 A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit for the year at which both options would give Fatima the same amount.",
+    "marks": 2,
+    "answer": "$40,000",
+    "working": "Option 1: 8,000 + (P − 8,000) ÷ 2 = 4,000 + 0.5P; Option 2: 0.6P (M1); 4,000 + 0.5P = 0.6P, so P = 40,000 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Advise Fatima which option to choose. Justify your answer.",
+    "marks": 4,
+    "answer": "At the expected profit of $64,000 Option 2 gives Fatima more ($38,400 v $36,000). Option 1 is better for her only if profit falls below $40,000, because the $8,000 salary is received first whatever the profit, so it is safer. Advice: choose Option 2 if she is confident profit will stay well above $40,000; choose Option 1 if profits are uncertain, since it guarantees a reward for her full-time work.",
+    "working": "B1 compares amounts at $64,000; B1 salary guaranteed/less risk; B1 uses the $40,000 break-even point; B1 justified decision."
+   }
+  ],
+  "check": "8000+(64000-8000)/2 == 36000 and 64000*0.6 == 38400 and 8000+(40000-8000)/2 == 40000*0.6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-039",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Partnerships",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Hamza and Jamil share profits equally in a furniture partnership in Sialkot. Profit is $60,000 a year. Isha, an interior designer, offers to join as a partner with capital of $50,000, sharing profits equally between all three. They expect the extra capital and her skills to increase total profit by $36,000 a year.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Hamza's share of profit now and if Isha joins.",
+    "marks": 2,
+    "answer": "Now $30,000; with Isha $32,000",
+    "working": "60,000 ÷ 2 = 30,000 (B1); 96,000 ÷ 3 = 32,000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the minimum increase in total profit needed for Hamza's share to be no lower than it is now.",
+    "marks": 2,
+    "answer": "$30,000",
+    "working": "Total profit needed = 30,000 × 3 = 90,000 (M1); increase 30,000 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Advise Hamza and Jamil whether they should admit Isha as a partner. Justify your answer by giving two points for and two points against.",
+    "marks": 5,
+    "answer": "For (any two): Isha brings $50,000 capital without borrowing; her interior design skills may attract new customers; workload and risk shared; each partner's share is expected to rise to $32,000. Against (any two): profit shared three ways; the expected increase of $36,000 is only a forecast, close to the $30,000 needed; decisions need agreement of more partners; possible disagreements; each partner has unlimited liability for the others' business actions. Justified decision either way.",
+    "working": "1 mark each for two for and two against; 1 mark for a justified decision."
+   }
+  ],
+  "check": "60000/2 == 30000 and 96000/3 == 32000 and 30000*3-60000 == 30000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-040",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Incomplete records",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A trader has not kept full double-entry records. What does she prepare to calculate her capital at the start of the year?\nA a statement of affairs\nB a trial balance\nC a bank reconciliation statement\nD an income statement",
+    "marks": 1,
+    "answer": "A a statement of affairs",
+    "working": "A statement of affairs lists assets and liabilities at a date; assets − liabilities = capital. A trial balance (B) needs a full set of ledger accounts, which she does not have."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-041",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Incomplete records",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A trader's trade payables were $5,600 at the start of the year and $4,900 at the end. During the year she paid suppliers $38,300, received cash discounts of $700 and returned goods costing $1,100. What were her credit purchases?\nA $39,400\nB $37,600\nC $35,800\nD $40,800",
+    "marks": 1,
+    "answer": "A $39,400",
+    "working": "Purchases = payments + discounts received + returns + closing payables − opening payables = 38,300 + 700 + 1,100 + 4,900 − 5,600 = 39,400. B ignores discounts and returns."
+   }
+  ],
+  "check": "38300+700+1100+4900-5600 == 39400",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-042",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Incomplete records",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Hussain runs a fruit stall in Peshawar and sells for cash only. He keeps no record of his takings. He knows that during the year:\n• cash in hand at the start was $340 and at the end $410\n• he banked $41,200 of takings\n• he paid $2,750 of expenses in cash from the takings\n• he took $3,600 in cash for personal use",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Hussain's cash sales for the year.",
+    "marks": 3,
+    "answer": "$47,620",
+    "working": "Cash used = 41,200 + 2,750 + 3,600 + closing 410 (M1) − opening 340 (M1) = 47,620 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "State why the cash drawings must be included in the calculation.",
+    "marks": 1,
+    "answer": "They were paid out of the cash takings, so the takings were higher than the amount banked.",
+    "working": "B1."
+   }
+  ],
+  "check": "41200+2750+3600+410-340 == 47620",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-043",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Incomplete records",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Meera, a photographer, does not keep full records. She values her equipment each year. On 1 January it was valued at $12,500. During the year she bought a new camera for $3,000. On 31 December the equipment was valued at $13,100.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the depreciation of equipment for the year.",
+    "marks": 2,
+    "answer": "$2,400",
+    "working": "12,500 + 3,000 − 13,100 (M1) = 2,400 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "State where the depreciation appears in Meera's financial statements.",
+    "marks": 2,
+    "answer": "As an expense in the income statement (B1); it is deducted from the equipment in the statement of financial position (equipment shown at its value of $13,100) (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "12500+3000-13100 == 2400",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-044",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Incomplete records",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Dong owns a noodle shop in Hanoi and keeps only a bank record. During the year he paid rent $7,800 and electricity $2,450. Rent prepaid: $600 at the start of the year, $900 at the end. Electricity owing: $210 at the start, $340 at the end.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the rent to be charged in the income statement.",
+    "marks": 2,
+    "answer": "$7,500",
+    "working": "7,800 + 600 − 900 (M1) = 7,500 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the electricity to be charged in the income statement.",
+    "marks": 2,
+    "answer": "$2,580",
+    "working": "2,450 − 210 + 340 (M1) = 2,580 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "State how the rent prepaid and the electricity owing at the end of the year are shown in the statement of financial position.",
+    "marks": 2,
+    "answer": "Rent prepaid $900: current asset (other receivables) (B1); electricity owing $340: current liability (other payables) (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "7800+600-900 == 7500 and 2450-210+340 == 2580",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-045",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Incomplete records",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Lina owns a bookshop in Amman. Her bank summary for the year is incomplete. Opening bank balance $2,950. Receipts: Takings banked $68,400; Loan from brother $5,000. Payments: Payments to suppliers $47,250; Rent $6,000; Wages $9,800; New shelving $2,700; drawings — not known. The bank statement shows a closing balance of $1,420.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the amount of Lina's drawings by bank transfer.",
+    "marks": 3,
+    "answer": "$9,180",
+    "working": "Total receipts 2,950 + 73,400 = 76,350 (M1); less payments 65,750 and closing balance 1,420 (M1); drawings 9,180 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Name two items in Lina's bank summary that will not appear in her income statement. Give a reason for each.",
+    "marks": 2,
+    "answer": "Loan from brother: a liability, not income (B1); new shelving: capital expenditure (a non-current asset) (B1). (Drawings: not an expense — also accept.)",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "2950+73400-65750-1420 == 9180",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-046",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Incomplete records",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Tunde sells building materials in Abuja. From his incomplete records: trade receivables $8,300 at the start of the year and $9,050 at the end; received from credit customers $61,400; discounts allowed $950; irrecoverable debts written off $420; sales returns $1,280; cash sales $23,700.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the credit sales for the year.",
+    "marks": 4,
+    "answer": "$64,800",
+    "working": "Receipts 61,400 + discounts allowed 950 + irrecoverable debts 420 + sales returns 1,280 (M1 M1) + closing 9,050 − opening 8,300 (M1) = 64,800 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the total revenue (sales less sales returns) for the income statement.",
+    "marks": 2,
+    "answer": "$87,220",
+    "working": "Credit sales 64,800 + cash sales 23,700 = 88,500 (M1); less returns 1,280 = 87,220 (A1)."
+   }
+  ],
+  "check": "61400+950+420+1280+9050-8300 == 64800 and 64800+23700-1280 == 87220",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-047",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Incomplete records",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Nadia sells perfume in Lahore and keeps incomplete records. For the year: inventory at cost on 1 January $9,400; payments to suppliers $50,800; trade payables $4,300 on 1 January and $5,800 on 31 December; revenue $72,000. All purchases are on credit. Nadia always earns a gross margin of 37.5% on revenue.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the credit purchases for the year.",
+    "marks": 2,
+    "answer": "$52,300",
+    "working": "50,800 + 5,800 − 4,300 (M1) = 52,300 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the cost of sales.",
+    "marks": 2,
+    "answer": "$45,000",
+    "working": "72,000 × (100 − 37.5)% = 72,000 × 62.5% (M1) = 45,000 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the inventory that should be held on 31 December.",
+    "marks": 1,
+    "answer": "$16,700",
+    "working": "9,400 + 52,300 − 45,000 = 16,700 (B1, own figures)."
+   },
+   {
+    "label": "d",
+    "text": "Nadia's inventory count on 31 December shows inventory at cost of $15,950. Calculate the difference and suggest one reason for it.",
+    "marks": 2,
+    "answer": "$750 less than expected; e.g. theft of inventory, goods taken by Nadia for her own use and not recorded, goods damaged or out of date, or an error in counting.",
+    "working": "16,700 − 15,950 = 750 (B1); any one sensible reason (B1)."
+   },
+   {
+    "label": "e",
+    "text": "Calculate the mark-up equivalent to a gross margin of 37.5%.",
+    "marks": 1,
+    "answer": "60%",
+    "working": "37.5 ÷ 62.5 × 100 = 60% (B1)."
+   }
+  ],
+  "check": "50800+5800-4300 == 52300 and 72000*0.625 == 45000 and 9400+52300-45000 == 16700 and 16700-15950 == 750 and 37.5/62.5*100 == 60",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-048",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Incomplete records",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Samuel runs a repair workshop in Nairobi and keeps no double-entry records.\nOn 1 January: tools and equipment $18,600; inventory of spare parts $4,900; amounts owed by customers $2,750; bank $3,150; amounts owed to suppliers $2,300.\nOn 31 December: tools and equipment $24,800; van $9,000; inventory of spare parts $5,600; amounts owed by customers $3,900; bank overdraft $1,250; amounts owed to suppliers $2,950; loan from his cousin $5,000.\nIn March Samuel brought his private van, valued at $9,000, into the business. He took $1,100 cash from the business each month for personal use.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Samuel's capital on 1 January and on 31 December.",
+    "marks": 3,
+    "answer": "1 January $27,100; 31 December $34,100",
+    "working": "Opening: 29,400 − 2,300 = 27,100 (B1). Closing: assets 43,300 (M1) − liabilities 9,200 (overdraft, suppliers, loan) = 34,100 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit for the year.",
+    "marks": 2,
+    "answer": "$11,200",
+    "working": "34,100 − 27,100 + drawings 13,200 − capital introduced 9,000 (M1) = 11,200 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Advise Samuel whether he should start keeping a full set of double-entry records. Justify your answer.",
+    "marks": 3,
+    "answer": "For: he would know revenue, gross profit and each expense, so he can see why profit changes and control costs; errors and theft are easier to detect; better evidence for a bank or tax authorities. Against: costs time or money (book-keeper or software); the business is small and the capital comparison already gives a profit figure. Decision justified, e.g. yes, because he now has a loan and an overdraft and needs detailed figures to manage cash.",
+    "working": "B1 point for; B1 point against; B1 justified decision."
+   }
+  ],
+  "check": "18600+4900+2750+3150-2300 == 27100 and 24800+9000+5600+3900-(1250+2950+5000) == 34100 and 34100-27100+1100*12-9000 == 11200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-049",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Manufacturing accounts",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a manufacturing account, which cost is a factory overhead?\nA wages of the factory supervisor\nB wages of machine operators who make the products\nC raw materials used\nD salaries of the sales staff",
+    "marks": 1,
+    "answer": "A wages of the factory supervisor",
+    "working": "The supervisor's wages are an indirect factory cost (factory overhead). B and C are direct costs in prime cost; D is a selling expense in the income statement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-050",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Manufacturing accounts",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A manufacturer's prime cost was $84,000 and factory overheads were $31,500. Work in progress was $4,200 at the start of the year and $5,700 at the end. What was the cost of production of completed goods?\nA $114,000\nB $117,000\nC $115,500\nD $82,500",
+    "marks": 1,
+    "answer": "A $114,000",
+    "working": "84,000 + 31,500 + 4,200 − 5,700 = 114,000. B reverses the work-in-progress adjustment."
+   }
+  ],
+  "check": "84000+31500+4200-5700 == 114000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-051",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Manufacturing accounts",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a direct cost and an indirect cost.",
+    "marks": 2,
+    "answer": "A direct cost can be traced directly to the units produced (e.g. raw materials, production wages) (B1); an indirect cost is a factory cost which cannot be traced to particular units (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "b",
+    "text": "Siddiqui Shoes makes footballs and shoes in Sialkot. Give two examples of direct costs and two examples of indirect factory costs for the business.",
+    "marks": 4,
+    "answer": "Direct (any two): leather; rubber; thread/laces; wages of stitchers/machine operators; royalties. Indirect (any two): factory rent; factory electricity; depreciation of factory machinery; factory supervisor's wages; factory insurance; factory cleaning.",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-052",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Manufacturing accounts",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Andes Ceramics in Lima: inventory of raw materials 1 January $5,400, 31 December $6,120; purchases of raw materials $39,800; carriage inwards on raw materials $760; direct wages $52,300; royalties paid per unit produced $2,100.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cost of raw materials consumed.",
+    "marks": 2,
+    "answer": "$39,840",
+    "working": "5,400 + 39,800 + 760 − 6,120 (M1) = 39,840 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the prime cost.",
+    "marks": 2,
+    "answer": "$94,240",
+    "working": "39,840 + 52,300 + 2,100 (M1) = 94,240 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "State one example of a direct expense other than royalties.",
+    "marks": 1,
+    "answer": "Any one: hire of special equipment for a particular product; subcontracted work on the product; licence fee per unit.",
+    "working": "B1."
+   }
+  ],
+  "check": "5400+39800+760-6120 == 39840 and 39840+52300+2100 == 94240",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-053",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Manufacturing accounts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Lumen Ltd makes desk lamps in Johannesburg. Last year its cost of production was $156,000 for 13,000 lamps.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cost of production per lamp.",
+    "marks": 2,
+    "answer": "$12",
+    "working": "156,000 ÷ 13,000 (M1) = 12.00 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the selling price per lamp if a mark-up of 35% is added.",
+    "marks": 2,
+    "answer": "$16.20",
+    "working": "12.00 × 1.35 (M1) = 16.20 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "State one reason why the business needs to know the cost of production of each unit.",
+    "marks": 1,
+    "answer": "Any one: to set a selling price that covers costs; to compare with the price of buying in; to value inventory of finished goods; to control costs.",
+    "working": "B1."
+   }
+  ],
+  "check": "156000/13000 == 12.0 and round(12.0*1.35,2) == 16.2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-054",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Manufacturing accounts",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Indus Packaging, year ended 30 June:\n• Factory machinery: $64,000 held all year; a further machine costing $16,000 bought on 1 January. Depreciation is 10% per annum on cost (straight-line), calculated for each month of ownership.\n• Power and heating paid $9,450; $1,050 owing at 30 June; 80% factory, 20% office\n• Factory rates of $8,400 were paid on 1 July for the 15 months to 30 September of the following year\n• Salaries: factory supervisor $22,000; office manager $18,000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the depreciation of factory machinery for the year.",
+    "marks": 2,
+    "answer": "$7,200",
+    "working": "64,000 × 10% = 6,400; 16,000 × 10% × 6/12 = 800 (M1); total 7,200 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the factory share of power and heating.",
+    "marks": 2,
+    "answer": "$8,400",
+    "working": "(9,450 + 1,050) (M1) × 80% = 8,400 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the factory rates for the year and the amount prepaid at 30 June.",
+    "marks": 2,
+    "answer": "Rates for the year $6,720; prepaid $1,680",
+    "working": "8,400 × 12/15 = 6,720 (B1); 8,400 × 3/15 = 1,680 (B1)."
+   },
+   {
+    "label": "d",
+    "text": "Calculate the total factory overheads.",
+    "marks": 2,
+    "answer": "$44,320",
+    "working": "7,200 + 8,400 + 6,720 + supervisor 22,000 (M1; office manager excluded) = 44,320 (A1)."
+   }
+  ],
+  "check": "64000*0.1+16000*0.1*6/12 == 7200 and (9450+1050)*0.8 == 8400 and 8400*12/15 == 6720 and 8400*3/15 == 1680 and 7200+8400+6720+22000 == 44320",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-055",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Manufacturing accounts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Kaveh Rugs makes rugs and also buys some finished rugs from other workshops to resell. For the year: revenue $248,000; sales returns $3,000; inventory of finished goods 1 January $18,500, 31 December $21,300; cost of production of completed goods (from the manufacturing account) $171,400; purchases of finished rugs $12,600.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cost of sales.",
+    "marks": 2,
+    "answer": "$181,200",
+    "working": "18,500 + 171,400 + 12,600 − 21,300 (M1) = 181,200 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the gross profit.",
+    "marks": 2,
+    "answer": "$63,800",
+    "working": "Revenue 248,000 − returns 3,000 = 245,000 (M1); − 181,200 = 63,800 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the gross margin. Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "26.04%",
+    "working": "63,800 ÷ 245,000 × 100 (M1) = 26.04% (A1)."
+   },
+   {
+    "label": "d",
+    "text": "Calculate the rate of inventory turnover of finished goods (times). Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "9.11 times",
+    "working": "Average inventory 19,900 (M1); 181,200 ÷ 19,900 = 9.11 times (A1)."
+   }
+  ],
+  "check": "18500+171400+12600-21300 == 181200 and 245000-181200 == 63800 and round(63800/245000*100,2) == 26.04 and round(181200/((18500+21300)/2),2) == 9.11",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-056",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Manufacturing accounts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Hamid Bicycles, Lahore, year ended 31 December:\n• Raw materials: inventory 1 January $8,200, 31 December $9,900; purchases $64,300\n• Direct wages $71,500\n• Work in progress: 1 January $6,400, 31 December $5,100\n• Rent paid $30,000; $2,000 owing at 31 December; 80% factory, 20% office\n• Factory power paid $11,800, of which $800 is for next year\n• Factory machinery cost $120,000; straight-line depreciation at 10% of cost\n• Factory supervisor's salary $26,000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the prime cost.",
+    "marks": 2,
+    "answer": "$134,100",
+    "working": "Raw materials consumed 8,200 + 64,300 − 9,900 = 62,600 (M1); + direct wages 71,500 = 134,100 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the total factory overheads.",
+    "marks": 4,
+    "answer": "$74,600",
+    "working": "Rent (30,000 + 2,000) × 80% = 25,600 (B1); power 11,800 − 800 = 11,000 (B1); depreciation 120,000 × 10% = 12,000 (B1); + supervisor 26,000: total 74,600 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the cost of production of completed goods.",
+    "marks": 2,
+    "answer": "$210,000",
+    "working": "134,100 + 74,600 + 6,400 − 5,100 (M1) = 210,000 (A1)."
+   }
+  ],
+  "check": "8200+64300-9900+71500 == 134100 and (30000+2000)*0.8+(11800-800)+120000*0.1+26000 == 74600.0 and 134100+74600.0+6400-5100 == 210000.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-057",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Manufacturing accounts",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Saffron Kitchens Ltd makes cupboards. For the year ended 31 December:\n• cost of production of completed goods $186,000\n• factory overheads $52,400\n• work in progress: 1 January $7,300; 31 December $8,900\n• direct wages $61,200; royalties $3,500\n• inventory of raw materials: 1 January $9,800; 31 December $11,600",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the prime cost.",
+    "marks": 2,
+    "answer": "$135,200",
+    "working": "Prime cost + overheads + opening WIP − closing WIP = cost of production, so 186,000 − 52,400 − 7,300 + 8,900 (M1) = 135,200 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the cost of raw materials consumed.",
+    "marks": 2,
+    "answer": "$70,500",
+    "working": "135,200 − 61,200 − 3,500 (M1) = 70,500 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the purchases of raw materials.",
+    "marks": 2,
+    "answer": "$72,300",
+    "working": "70,500 + closing 11,600 − opening 9,800 (M1) = 72,300 (A1)."
+   },
+   {
+    "label": "d",
+    "text": "Explain why work in progress is adjusted in the manufacturing account.",
+    "marks": 2,
+    "answer": "Opening work in progress was partly made last year and is completed this year, so its cost is added (B1); closing work in progress is not yet finished, so its cost is deducted, leaving only the cost of goods completed in the year (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "186000-52400-7300+8900 == 135200 and 135200-61200-3500 == 70500 and 70500+11600-9800 == 72300",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-058",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which item is part of the equity of a limited company?\nA general reserve\nB debentures\nC bank overdraft\nD trade payables",
+    "marks": 1,
+    "answer": "A general reserve",
+    "working": "Reserves (general reserve, retained earnings) belong to the shareholders and are part of equity. Debentures (B) are a loan to the company, shown as a non-current liability."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-059",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A company has 400,000 ordinary shares of $0.50 each. It pays an ordinary dividend of 5% of the nominal value. What is the total dividend?\nA $10,000\nB $20,000\nC $5,000\nD $200,000",
+    "marks": 1,
+    "answer": "A $10,000",
+    "working": "Share capital = 400,000 × 0.50 = 200,000; × 5% = 10,000. B wrongly treats each share as $1."
+   }
+  ],
+  "check": "400000*0.5*0.05 == 10000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-060",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two differences between a private limited company and a public limited company.",
+    "marks": 2,
+    "answer": "Any two: a public company can offer its shares to the general public (e.g. through a stock exchange), a private company cannot; a public company's name ends in plc, a private company's in Ltd; a public company needs a larger minimum share capital; private company shares cannot be freely transferred.",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "Explain two reasons why the directors of a company may transfer part of the profit to a general reserve.",
+    "marks": 4,
+    "answer": "Any two, explained: to keep profits in the company to finance expansion or replace assets; to show shareholders that this profit will not be paid as dividends; to strengthen the financial position / protect creditors; to be prudent in case of future losses.",
+    "working": "1 mark each reason + 1 development (2 × 2)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-061",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Delta Foods Ltd has 250,000 ordinary shares of $1 each. During the year it paid an interim dividend of 3 cents per share and a final dividend (for the previous year) of 5 cents per share. Retained earnings at the start of the year were $18,750 and the profit for the year was $46,300.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the interim and final dividends paid.",
+    "marks": 2,
+    "answer": "Interim $7,500; final $12,500",
+    "working": "250,000 × $0.03 = 7,500 (B1); 250,000 × $0.05 = 12,500 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the retained earnings at the end of the year.",
+    "marks": 2,
+    "answer": "$45,050",
+    "working": "18,750 + 46,300 − 7,500 − 12,500 (M1) = 45,050 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "State one reason why a company may pay an interim dividend.",
+    "marks": 1,
+    "answer": "Any one: to give shareholders some income during the year; to show confidence in profits; to keep investors satisfied.",
+    "working": "B1."
+   }
+  ],
+  "check": "250000*0.03 == 7500 and 250000*0.05 == 12500 and 18750+46300-7500-12500 == 45050",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-062",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "At 31 December Medina Glass Ltd had: ordinary shares of $1 each $300,000; general reserve $45,000; retained earnings $38,600; 6% debentures (repayable 2033) $80,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Prepare the equity section of the statement of financial position at 31 December, showing the total equity.",
+    "marks": 3,
+    "answer": "Total equity $383,600",
+    "working": "Ordinary share capital 300,000 + general reserve 45,000 + retained earnings 38,600 (M1 for components, M1 headings) = 383,600 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "State how the debentures should be shown in the statement of financial position.",
+    "marks": 1,
+    "answer": "As a non-current liability (6% debentures 2033), because they are repayable after more than 12 months.",
+    "working": "B1."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the capital employed.",
+    "marks": 2,
+    "answer": "$463,600",
+    "working": "Equity 383,600 + debentures 80,000 (M1) = 463,600 (A1)."
+   },
+   {
+    "label": "d",
+    "text": "Explain one difference between a debenture holder and an ordinary shareholder.",
+    "marks": 2,
+    "answer": "A debenture holder is a lender who receives fixed interest whether or not profit is made (B1); a shareholder is an owner who receives a dividend only if the directors declare one and has voting rights (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "300000+45000+38600 == 383600 and 383600+80000 == 463600",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-063",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Cedar Logistics Ltd had 150,000 ordinary shares of $1 each and a bank balance of $12,000. It issued a further 100,000 ordinary shares of $1 each at par; all the money was received by bank transfer. At the end of the year a dividend of 6 cents per share was paid on all shares in issue.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the effect of the share issue on: (i) ordinary share capital; (ii) bank; (iii) total equity.",
+    "marks": 3,
+    "answer": "(i) increases by $100,000 to $250,000; (ii) increases by $100,000 to $112,000; (iii) increases by $100,000",
+    "working": "B1 each."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the total ordinary dividend paid at the end of the year.",
+    "marks": 2,
+    "answer": "$15,000",
+    "working": "(150,000 + 100,000) × $0.06 (M1) = 15,000 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why issuing shares, rather than borrowing, does not create an obligation to pay a fixed amount each year.",
+    "marks": 2,
+    "answer": "Dividends are paid only if the directors decide to pay them, out of profits (B1); loan interest must be paid every year whether or not a profit is made (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "12000+100000 == 112000 and (150000+100000)*0.06 == 15000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-064",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Extract from the records of Orchid Pharma Ltd at 31 March: inventory $34,800; trade receivables $22,600; other receivables $1,300; bank overdraft $5,600; trade payables $26,900; other payables (accrued expenses) $1,700; debenture interest owing $2,400; 8% debentures (repayable 2032) $60,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total current assets and the total current liabilities.",
+    "marks": 3,
+    "answer": "Current assets $58,700; current liabilities $36,600",
+    "working": "34,800 + 22,600 + 1,300 = 58,700 (B1); 26,900 + 1,700 + 2,400 + 5,600 = 36,600 (M1 includes overdraft and debenture interest, A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the working capital.",
+    "marks": 1,
+    "answer": "$22,100",
+    "working": "58,700 − 36,600 = 22,100 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the current ratio. Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "1.60 : 1",
+    "working": "58,700 ÷ 36,600 (M1) = 1.60 : 1 (A1)."
+   }
+  ],
+  "check": "34800+22600+1300 == 58700 and 26900+1700+2400+5600 == 36600 and 58700-36600 == 22100 and round(58700/36600,2) == 1.6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-065",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Falcon Electronics Ltd has 450,000 ordinary shares of $1 each and 7% debentures of $150,000. For the year ended 31 December:\n• retained earnings: 1 January $52,800; 31 December $90,700\n• dividends paid: final for the previous year 6 cents per share; interim 4 cents per share\n• transfer to general reserve $25,000\n• debenture interest paid during the year $6,300",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total ordinary dividends paid in the year.",
+    "marks": 2,
+    "answer": "$45,000 (final $27,000; interim $18,000)",
+    "working": "450,000 × $0.06 = 27,000 and 450,000 × $0.04 = 18,000 (B1); total 45,000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit for the year.",
+    "marks": 2,
+    "answer": "$107,900",
+    "working": "90,700 − 52,800 + 25,000 + 45,000 (M1) = 107,900 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the profit from operations.",
+    "marks": 2,
+    "answer": "$118,400",
+    "working": "Debenture interest 150,000 × 7% = 10,500 (M1); 107,900 + 10,500 = 118,400 (A1)."
+   },
+   {
+    "label": "d",
+    "text": "Calculate the debenture interest owing at 31 December and state where it is shown in the statement of financial position.",
+    "marks": 2,
+    "answer": "$4,200; current liabilities (other payables)",
+    "working": "10,500 − 6,300 = 4,200 (B1); current liability (B1)."
+   }
+  ],
+  "check": "450000*6/100 == 27000 and 450000*4/100 == 18000 and 90700-52800+25000+27000+18000 == 107900 and 107900+150000*7/100 == 118400 and 150000*7/100-6300 == 4200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-066",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Zenith Tiles Ltd has 500,000 ordinary shares of $1 each and no long-term loans. It needs $200,000 for a new kiln. Option 1: issue 200,000 new ordinary shares of $1 each at par. Option 2: issue $200,000 of 9% debentures. Profit from operations after the expansion is expected to be $160,000 a year. Ignore taxation.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the profit for the year under each option.",
+    "marks": 2,
+    "answer": "Option 1 (shares) $160,000; option 2 (debentures) $142,000",
+    "working": "Option 2 interest 200,000 × 9% = 18,000 (B1); 160,000 − 18,000 = 142,000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit per ordinary share under each option. Give your answers correct to two decimal places.",
+    "marks": 2,
+    "answer": "Option 1 $0.23; option 2 $0.28",
+    "working": "160,000 ÷ 700,000 = 0.23 (B1); 142,000 ÷ 500,000 = 0.28 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Advise the directors which option to choose. Justify your answer by giving two points for and two points against debentures.",
+    "marks": 5,
+    "answer": "For debentures: profit per share is higher (0.28 v 0.23); existing shareholders keep control (no new votes); interest is a fixed cost known in advance. Against: interest $18,000 must be paid every year even if profits fall; the loan must be repaid in future; higher gearing/risk; security over assets may be needed. Justified decision.",
+    "working": "1 mark each for two for and two against; 1 mark for a justified decision."
+   }
+  ],
+  "check": "200000*0.09 == 18000 and round((160000-18000)/500000,2) == 0.28 and round(160000/(500000+200000),2) == 0.23 and 0.28 > 0.23",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-067",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Limited companies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Saba Textiles Ltd has ordinary shares of $0.50 each, all fully paid. During the year it paid a total ordinary dividend of $36,000, which was 8 cents per share. At the year end the company also had: general reserve $60,000; retained earnings $41,500; 5% debentures (repayable 2035) $70,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of ordinary shares in issue.",
+    "marks": 2,
+    "answer": "450,000 shares",
+    "working": "36,000 ÷ $0.08 (M1) = 450,000 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the ordinary share capital shown in the statement of financial position.",
+    "marks": 1,
+    "answer": "$225,000",
+    "working": "450,000 × $0.50 = 225,000 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the total equity and the capital employed.",
+    "marks": 3,
+    "answer": "Equity $326,500; capital employed $396,500",
+    "working": "225,000 + 60,000 + 41,500 = 326,500 (M1 A1); + debentures 70,000 = 396,500 (B1)."
+   },
+   {
+    "label": "d",
+    "text": "The company later fails, owing more than its assets are worth. Explain what limited liability means for a shareholder who owns 10,000 of these shares, all fully paid.",
+    "marks": 2,
+    "answer": "The shareholder can lose only the amount invested in the shares (B1), i.e. $5,000 (10,000 × $0.50); his or her private assets cannot be taken to pay the company's debts (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "36000/0.08 == 450000 and 450000*0.5 == 225000 and 225000+60000+41500 == 326500 and 10000*0.5 == 5000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-068",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "What does a club's receipts and payments account show?\nA a summary of the cash and bank transactions for the year\nB the surplus or deficit for the year\nC the assets and liabilities of the club at the year end\nD the profit made by the club's café",
+    "marks": 1,
+    "answer": "A a summary of the cash and bank transactions for the year",
+    "working": "A receipts and payments account is a summary of the cash book: opening balance, money received, money paid, closing balance. The surplus or deficit (B) is found in the income and expenditure account."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-069",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "On 1 January a cricket club had: sports equipment $8,400; bar inventory $650; subscriptions in arrears $220; bank $3,150; subscriptions in advance $480; rent owing $300. What was the accumulated fund on 1 January?\nA $11,640\nB $12,600\nC $11,420\nD $13,200",
+    "marks": 1,
+    "answer": "A $11,640",
+    "working": "Assets 12,420 − liabilities (subscriptions in advance 480 + rent owing 300) = 11,640. B treats subscriptions in advance as an asset."
+   }
+  ],
+  "check": "12420-780 == 11640",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-070",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the term used by a club for (i) an excess of income over expenditure, (ii) an excess of expenditure over income.",
+    "marks": 2,
+    "answer": "(i) surplus; (ii) deficit",
+    "working": "B1 each."
+   },
+   {
+    "label": "b",
+    "text": "State whether each item is an asset or a liability of a club: (i) subscriptions in arrears, (ii) subscriptions in advance.",
+    "marks": 2,
+    "answer": "(i) asset (current asset, owed by members); (ii) liability (current liability, received for next year)",
+    "working": "B1 each."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a club does not have a capital account.",
+    "marks": 2,
+    "answer": "A club is not owned by one person and is not run to make a profit for an owner (B1); the members' net assets are shown as the accumulated fund instead (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-071",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "The Clifton Table Tennis Club, Karachi. Bank balance on 1 January $1,860. During the year: receipts — Subscriptions $9,650; Tournament entry fees $1,420; Donations $500. Payments — Rent of hall $4,800; Coaching fees $3,250; Purchase of new tables $2,600; Prizes $690.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the bank balance at the end of the year.",
+    "marks": 3,
+    "answer": "$2,090",
+    "working": "1,860 + 11,570 (M1) − 11,340 (M1) = 2,090 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Name the item in the list which would not appear in the income and expenditure account. Give a reason.",
+    "marks": 2,
+    "answer": "Purchase of new tables (B1): it is capital expenditure on a non-current asset; only its depreciation is shown (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "1860+11570-11340 == 2090",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-072",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A football club runs a refreshment kiosk. Explain why the club prepares a separate trading account for the kiosk.",
+    "marks": 2,
+    "answer": "To find the profit or loss made by the kiosk (B1), so members can see whether it is worth running / prices are right (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "b",
+    "text": "State where the profit made by the kiosk is shown in the club's financial statements.",
+    "marks": 1,
+    "answer": "As income in the income and expenditure account.",
+    "working": "B1."
+   },
+   {
+    "label": "c",
+    "text": "State two items, other than subscriptions, that could be income of a club.",
+    "marks": 2,
+    "answer": "Any two: profit from café/bar/kiosk; competition or match fees; donations; rent received for letting the hall; profit on fundraising events; interest received.",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-073",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The Gulshan Book Club has 140 members, each paying a subscription of $60 a year. There were no arrears or advance payments at the start of the year. At the end of the year 6 members had not paid for the year, and 4 members had already paid for next year.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the subscriptions income for the year to be shown in the income and expenditure account.",
+    "marks": 1,
+    "answer": "$8,400",
+    "working": "140 × 60 = 8,400 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the cash received from subscriptions during the year.",
+    "marks": 3,
+    "answer": "$8,280",
+    "working": "8,400 − arrears 6 × 60 = 360 (M1) + advance 4 × 60 = 240 (M1) = 8,280 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "State how the amounts in arrears and in advance at the year end are shown in the statement of financial position.",
+    "marks": 2,
+    "answer": "Arrears $360: current asset (B1); advance $240: current liability (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "140*60 == 8400 and 8400-6*60+4*60 == 8280",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-074",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The Bayview Photography Society values its equipment each year. Valuation on 1 January $6,200. During the year it bought a printer for $1,800. Valuation on 31 December $6,650.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the depreciation of equipment for the year.",
+    "marks": 2,
+    "answer": "$1,350",
+    "working": "6,200 + 1,800 − 6,650 (M1) = 1,350 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "State where the depreciation and the equipment are shown in the club's financial statements.",
+    "marks": 2,
+    "answer": "Depreciation $1,350: expenditure in the income and expenditure account (B1); equipment $6,650: non-current asset in the statement of financial position (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "c",
+    "text": "State the name of the method of depreciation used by the club.",
+    "marks": 1,
+    "answer": "Revaluation method.",
+    "working": "B1."
+   }
+  ],
+  "check": "6200+1800-6650 == 1350",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-075",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The Lakeside Golf Club runs a café. For the year: café takings $18,750; paid to café suppliers $10,360; café suppliers owed $940 at the start and $1,210 at the end; café inventory $1,400 at the start and $1,180 at the end; café staff wages $3,600.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the purchases for the café.",
+    "marks": 2,
+    "answer": "$10,630",
+    "working": "10,360 + 1,210 − 940 (M1) = 10,630 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit made by the café.",
+    "marks": 3,
+    "answer": "$4,300",
+    "working": "Cost of sales 1,400 + 10,630 − 1,180 = 10,850 (M1); 18,750 − 10,850 (M1) − wages 3,600 = 4,300 (A1)."
+   }
+  ],
+  "check": "10360+1210-940 == 10630 and 18750-(1400+10630-1180)-3600 == 4300",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-076",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The Margalla Cycling Club, year ended 31 December:\n• subscriptions received in the year $22,400. On 1 January subscriptions in arrears were $600 and in advance $450; on 31 December in arrears $1,050 and in advance $750\n• competition entry fees $3,600; prizes bought for the competition $2,150\n• rent paid $9,000; rent owing at 31 December $1,500\n• wages of the coach $7,400\n• equipment at cost $18,000, depreciated at 10% of cost\n• profit of the club café $4,280\n• accumulated fund on 1 January $31,650",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the subscriptions income for the year.",
+    "marks": 3,
+    "answer": "$22,550",
+    "working": "22,400 − 600 + 450 (M1) + 1,050 − 750 (M1) = 22,550 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the surplus or deficit for the year. State which it is.",
+    "marks": 5,
+    "answer": "Surplus $8,580",
+    "working": "Income: subscriptions 22,550 + net competition income 1,450 + café profit 4,280 = 28,280 (M1 M1); expenditure: rent 10,500 + wages 7,400 + depreciation 1,800 = 19,700 (M1 M1); surplus 8,580 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the accumulated fund at the end of the year.",
+    "marks": 1,
+    "answer": "$40,230",
+    "working": "31,650 + 8,580 = 40,230 (B1)."
+   }
+  ],
+  "check": "22400-600+450+1050-750 == 22550 and 22550+3600-2150+4280-(9000+1500+7400+18000*0.1) == 8580 and 31650+8580 == 40230",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-077",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The Riverside Drama Society has 180 members. Last year it had a deficit of $2,100. The committee is considering two options:\nOption 1: increase the annual subscription by $15 per member (assume no members leave).\nOption 2: hold a fundraising dinner: expected ticket sales $4,800, costs $2,300.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the extra income from each option.",
+    "marks": 2,
+    "answer": "Higher subscription $2,700; fundraising dinner $2,500",
+    "working": "180 × 15 = 2,700 (B1); 4,800 − 2,300 = 2,500 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "State, for each option, whether it would turn last year's deficit into a surplus. Show your working.",
+    "marks": 2,
+    "answer": "Option 1: 2,700 − 2,100 = surplus $600 — yes. Option 2: 2,500 − 2,100 = surplus $400 — yes.",
+    "working": "B1 each."
+   },
+   {
+    "label": "c",
+    "text": "Advise the committee which option to choose. Justify your answer.",
+    "marks": 5,
+    "answer": "Subscription rise: gives $2,700, a larger and more certain amount every year, but some members may leave if fees rise. Dinner: gives $2,500, only just enough; income uncertain (depends on ticket sales) and needs volunteers' time; but does not burden members and can attract new members. Decision justified, e.g. increase subscriptions slightly because income is reliable.",
+    "working": "1 mark each for two points about each option (4); 1 mark for a justified decision."
+   }
+  ],
+  "check": "180*15 == 2700 and 4800-2300 == 2500 and 2700-2100 > 0 and 2500-2100 > 0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-078",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Clubs and societies",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "At 31 December the Hilltop Astronomy Society had: telescopes and equipment $24,500; inventory of books for sale $860; subscriptions in arrears $380; bank $5,120; subscriptions in advance $640; electricity owing $420.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the accumulated fund on 31 December.",
+    "marks": 3,
+    "answer": "$29,800",
+    "working": "Assets 24,500 + 860 + 380 + 5,120 = 30,860 (M1); liabilities 640 + 420 = 1,060 (M1); 29,800 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "The accumulated fund on 1 January was $31,200. Calculate the surplus or deficit for the year, and state which it is.",
+    "marks": 2,
+    "answer": "Deficit $1,400",
+    "working": "29,800 − 31,200 = -1,400 (M1 A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a club treasurer should not use the change in the bank balance as the surplus for the year.",
+    "marks": 2,
+    "answer": "The bank balance includes capital receipts and payments (e.g. buying equipment) and ignores non-cash items such as depreciation (B1); it also ignores amounts owing, in arrears and in advance, so it does not follow the matching principle (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "24500+860+380+5120-640-420 == 29800 and 29800-31200 == -1400",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-079",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Where is carriage outwards shown in the financial statements of a sole trader?\nA as an expense in the income statement, after gross profit\nB added to purchases in the cost of sales\nC deducted from revenue\nD as a current liability in the statement of financial position",
+    "marks": 1,
+    "answer": "A as an expense in the income statement, after gross profit",
+    "working": "Carriage outwards is a cost of delivering goods to customers (a selling expense), so it is deducted from gross profit. B is the treatment of carriage inwards."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-080",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A trader's opening inventory was $6,000, purchases $47,500 and closing inventory $7,100. During the year she took goods costing $900 for her own use. What is the cost of sales?\nA $45,500\nB $47,300\nC $46,400\nD $40,400",
+    "marks": 1,
+    "answer": "A $45,500",
+    "working": "Goods for own use are drawings and are deducted from purchases: 6,000 + 47,500 − 900 − 7,100 = 45,500. B adds them to purchases."
+   }
+  ],
+  "check": "6000+47500-900-7100 == 45500",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-081",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Gulnara owns a carpet shop in Tashkent. For the year ended 31 March: revenue $112,600; sales returns $2,100; inventory 1 April $9,200, 31 March $10,750; purchases $71,300; purchases returns $1,400; carriage inwards $860.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cost of sales.",
+    "marks": 2,
+    "answer": "$69,210",
+    "working": "9,200 + (71,300 − 1,400 + 860) − 10,750 (M1) = 69,210 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the gross profit.",
+    "marks": 2,
+    "answer": "$41,290",
+    "working": "112,600 − 2,100 = 110,500 (M1); − 69,210 = 41,290 (A1)."
+   }
+  ],
+  "check": "9200+71300-1400+860-10750 == 69210 and 112600-2100-69210 == 41290",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-082",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State how each item is shown in the statement of financial position of a sole trader (non-current asset, current asset, current liability, non-current liability, or part of capital).\n(i) Delivery van\n(ii) Bank overdraft\n(iii) Inventory\n(iv) Loan repayable in 2031\n(v) Rent prepaid\n(vi) Wages owing\n(vii) Trade receivables\n(viii) Drawings",
+    "marks": 8,
+    "answer": "(i) non-current asset; (ii) current liability; (iii) current asset; (iv) non-current liability; (v) current asset; (vi) current liability; (vii) current asset; (viii) deducted from capital",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-083",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Rafael's hardware shop in Manila made a gross profit of $38,400. Other figures for the year: discounts received $650; rent received from sub-letting $2,400; wages $15,600; electricity $2,180; carriage outwards $940; discounts allowed $410; insurance $1,250.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the profit for the year.",
+    "marks": 3,
+    "answer": "$21,070",
+    "working": "38,400 + discounts received 650 + rent received 2,400 = 41,450 (M1); expenses 20,380 (M1); profit 21,070 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "State whether discounts received are income or an expense. Explain why.",
+    "marks": 2,
+    "answer": "Income (B1): the business pays its supplier less than the amount owed, which is a gain (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "38400+650+2400-(15600+2180+940+410+1250) == 21070",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-084",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Chiamaka sells phones in Enugu. Her gross profit for the year was $46,900. Expenses paid: wages $17,200; rent $9,600; insurance $1,800. At the year end:\n• wages of $800 are owing\n• rent of $1,600 is prepaid\n• fixtures costing $20,000 are to be depreciated at 15% per annum (straight-line)\n• a customer who owes $520 has gone out of business; the debt is to be written off. Trade receivables before this were $7,400",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the profit for the year.",
+    "marks": 6,
+    "answer": "$15,580",
+    "working": "Wages 17,200 + 800 = 18,000 (B1); rent 9,600 − 1,600 = 8,000 (B1); depreciation 20,000 × 15% = 3,000 (B1); irrecoverable debt 520 (B1); total expenses 31,320 (M1); profit 15,580 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the figure for trade receivables in the statement of financial position.",
+    "marks": 1,
+    "answer": "$6,880",
+    "working": "7,400 − 520 = 6,880 (B1)."
+   }
+  ],
+  "check": "46900-(17200+800+9600-1600+20000*0.15+520+1800) == 15580",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-085",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Viktor's bakery in Tbilisi. Capital on 1 January $58,300; profit for the year $24,750; cash drawings $15,600; goods taken for own use $1,200. At 31 December: inventory $12,400; trade receivables $6,850; bank $3,120; trade payables $8,960; other payables $740.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Viktor's capital at 31 December.",
+    "marks": 2,
+    "answer": "$66,250",
+    "working": "58,300 + 24,750 − (15,600 + 1,200) (M1) = 66,250 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the net current assets (working capital).",
+    "marks": 2,
+    "answer": "$12,670",
+    "working": "22,370 − 9,700 (M1) = 12,670 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "There are no non-current liabilities. Calculate the total net book value of the non-current assets.",
+    "marks": 2,
+    "answer": "$53,580",
+    "working": "Capital 66,250 = non-current assets + net current assets (M1); 66,250 − 12,670 = 53,580 (A1)."
+   }
+  ],
+  "check": "58300+24750-15600-1200 == 66250 and 66250-(22370-9700) == 53580",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-086",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Selin, a sole trader in Izmir, calculated a profit of $19,840 for the year. She then found:\n1 Drawings of $2,400 were included in wages\n2 A loan of $5,000 received was included in revenue\n3 The purchase of a computer for $1,600 was included in office expenses (depreciation for the year is $320)\n4 Closing inventory was overstated by $750",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the correct profit for the year.",
+    "marks": 5,
+    "answer": "$17,770",
+    "working": "19,840 + 2,400 (B1) − 5,000 (B1) + 1,600 − 320 (B1 B1) − 750 (B1) = 17,770."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the computer should not be included in office expenses.",
+    "marks": 2,
+    "answer": "It is capital expenditure (a non-current asset used for several years) (B1); only the depreciation for the year should be charged against profit (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "19840+2400-5000+1600-320-750 == 17770",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-087",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Arjun's electrical wholesale business. Before year-end adjustments: profit $31,600; trade receivables $28,400; provision for doubtful debts $960. A debt of $900 is to be written off. The provision is to be 4% of the remaining trade receivables.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the new provision for doubtful debts.",
+    "marks": 2,
+    "answer": "$1,100",
+    "working": "(28,400 − 900) × 4% (M1) = 1,100 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the change in the provision and state where it is shown.",
+    "marks": 2,
+    "answer": "Increase of $140; shown as an expense in the income statement",
+    "working": "1,100 − 960 = 140 (B1); expense (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the profit for the year after the adjustments.",
+    "marks": 2,
+    "answer": "$30,560",
+    "working": "31,600 − 900 − 140 (M1) = 30,560 (A1)."
+   },
+   {
+    "label": "d",
+    "text": "Show how trade receivables will appear in the statement of financial position.",
+    "marks": 2,
+    "answer": "Trade receivables 27,500 less provision 1,100 = $26,400",
+    "working": "B1 gross after write-off; B1 net figure."
+   }
+  ],
+  "check": "(28400-900)*0.04 == 1100.0 and 1100.0-960 == 140.0 and 31600-900-140.0 == 30560.0 and 28400-900-1100.0 == 26400.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-088",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Extract from the trial balance of Lucía, a furniture retailer in Lima, at 31 December: revenue $186,500; sales returns $2,900; inventory 1 January $14,600; purchases $121,800; wages $28,300; rent $14,400; general expenses $6,750; equipment at cost $42,000; accumulated depreciation on equipment $16,800; 8% bank loan (taken out on 1 January) $30,000; loan interest paid $1,200.\nAt 31 December: inventory $16,900; wages owing $1,100; rent prepaid $1,200; equipment is depreciated at 25% per annum by the reducing balance method.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the gross profit.",
+    "marks": 3,
+    "answer": "$64,100",
+    "working": "Revenue 186,500 − 2,900 = 183,600 (B1); cost of sales 14,600 + 121,800 − 16,900 = 119,500 (B1); 64,100 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the depreciation of equipment and the loan interest for the year.",
+    "marks": 3,
+    "answer": "Depreciation $6,300; loan interest $2,400",
+    "working": "(42,000 − 16,800) × 25% (M1) = 6,300 (A1); 30,000 × 8% = 2,400 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the profit for the year.",
+    "marks": 3,
+    "answer": "$6,050",
+    "working": "Expenses: wages 29,400, rent 13,200, general 6,750, depreciation 6,300, interest 2,400 = 58,050 (M1 M1); profit 6,050 (A1)."
+   },
+   {
+    "label": "d",
+    "text": "State the amount of loan interest owing at the year end and where it is shown.",
+    "marks": 2,
+    "answer": "$1,200; current liability (other payables)",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "186500-2900-(14600+121800-16900) == 64100 and (42000-16800)*0.25 == 6300.0 and 64100-(28300+1100+14400-1200+6750+6300.0+2400) == 6050.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-089",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Balances of Kenji's printing business in Osaka at 31 December, after the income statement had been prepared: machinery at cost $56,000, accumulated depreciation $21,400; vehicles at cost $32,000, accumulated depreciation $12,800; inventory $15,300; trade receivables $9,800; provision for doubtful debts $490; rent prepaid $650; bank overdraft $2,140; trade payables $11,240; loan interest owing $375; 5% loan repayable in 2033 $15,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total net book value of the non-current assets.",
+    "marks": 2,
+    "answer": "$53,800",
+    "working": "(56,000 − 21,400) + (32,000 − 12,800) (M1) = 53,800 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the total current assets and the total current liabilities.",
+    "marks": 3,
+    "answer": "Current assets $25,260; current liabilities $13,755",
+    "working": "15,300 + (9,800 − 490) + 650 = 25,260 (M1 A1); 2,140 + 11,240 + 375 = 13,755 (B1, overdraft and interest owing included)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate Kenji's capital at 31 December.",
+    "marks": 2,
+    "answer": "$50,305",
+    "working": "53,800 + 25,260 − 13,755 − loan 15,000 (M1) = 50,305 (A1)."
+   },
+   {
+    "label": "d",
+    "text": "His capital on 1 January was $41,000. During the year he paid in additional capital of $5,000 and the profit for the year was $21,960. Calculate his drawings for the year.",
+    "marks": 2,
+    "answer": "$17,655",
+    "working": "41,000 + 5,000 + 21,960 − 50,305 (M1) = 17,655 (A1)."
+   }
+  ],
+  "check": "(56000-21400)+(32000-12800) == 53800 and 15300+(9800-490)+650 == 25260 and 2140+11240+375 == 13755 and 53800+25260-13755-15000 == 50305 and 41000+5000+21960-50305 == 17655",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-090",
+  "topic": "Preparation of financial statements",
+  "subtopic": "Sole traders",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Thandi runs a gift shop in Durban. This year: revenue $150,000, gross margin 35%, expenses $33,000. She could move to a larger shop. She expects revenue to rise by $60,000 at the same gross margin, rent to rise by $12,000 and other expenses to rise by $6,500 a year.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Thandi's profit for the current year.",
+    "marks": 2,
+    "answer": "$19,500",
+    "working": "Gross profit 150,000 × 35% = 52,500 (M1); − 33,000 = 19,500 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the expected profit if she moves to the larger shop.",
+    "marks": 3,
+    "answer": "$22,000",
+    "working": "Gross profit 210,000 × 35% = 73,500 (M1); expenses 33,000 + 12,000 + 6,500 = 51,500 (M1); 22,000 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Advise Thandi whether she should move to the larger shop. Justify your answer.",
+    "marks": 5,
+    "answer": "For: profit expected to rise by $2,500; more space for wider range/more customers. Against: extra revenue is only a forecast, and if sales rise by less than about $52,857 profit falls; higher fixed costs (rent) must be paid anyway; moving costs/disruption; existing customers may not follow. Justified decision.",
+    "working": "1 mark each for two points for and two against; 1 mark for a justified decision."
+   }
+  ],
+  "check": "150000*0.35-33000 == 19500 and (150000+60000)*0.35-33000-12000-6500 == 22000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-091",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Interpretation and decision-making",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which change would increase a business's profit margin without changing its gross margin?\nA a reduction in the rent paid for the shop\nB an increase in the selling price of goods\nC a reduction in the purchase price of goods\nD an increase in carriage inwards",
+    "marks": 1,
+    "answer": "A a reduction in the rent paid for the shop",
+    "working": "Rent is an expense below gross profit, so cutting it raises profit (and the profit margin) but leaves gross profit unchanged. B and C change gross profit too; D reduces both margins."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-092",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Interpretation and decision-making",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business has current assets of $18,000 (including inventory of $10,000) and current liabilities of $10,000. It buys inventory costing $4,000 on credit. What happens to its liquid (acid test) ratio?\nA it falls from 0.80 : 1 to 0.57 : 1\nB it rises from 0.80 : 1 to 0.86 : 1\nC it does not change\nD it falls from 1.80 : 1 to 1.57 : 1",
+    "marks": 1,
+    "answer": "A it falls from 0.80 : 1 to 0.57 : 1",
+    "working": "Liquid assets stay at 8,000 (inventory is excluded) while current liabilities rise to 14,000: 8,000 ÷ 14,000 = 0.57. D shows the current ratio, not the liquid ratio."
+   }
+  ],
+  "check": "round((18000-10000)/10000,2) == 0.8 and round((18000-10000)/(10000+4000),2) == 0.57",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-093",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A business had revenue of $150,000, cost of sales of $97,500 and expenses of $34,500. What is its profit margin?\nA 12%\nB 35%\nC 23%\nD 18.46%",
+    "marks": 1,
+    "answer": "A 12%",
+    "working": "Profit = 150,000 − 97,500 − 34,500 = 18,000; 18,000 ÷ 150,000 × 100 = 12%. B is the gross margin (52,500 ÷ 150,000); C is expenses as a percentage of revenue; D divides profit by cost of sales."
+   }
+  ],
+  "check": "(150000-97500-34500)/150000*100 == 12 and (150000-97500)/150000*100 == 35 and 34500/150000*100 == 23 and round(18000/97500*100,2) == 18.46",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-094",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A wholesaler's credit sales for the year were $146,000. Its trade receivables turnover is 73 days (365-day year). What is the trade receivables figure at the year end?\nA $29,200\nB $2,000\nC $7,300\nD $58,400",
+    "marks": 1,
+    "answer": "A $29,200",
+    "working": "Days = receivables ÷ credit sales × 365, so receivables = 146,000 × 73 ÷ 365 = 29,200. B divides by the number of days."
+   }
+  ],
+  "check": "146000*73/365 == 29200",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-095",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "At 30 June a café in Montreal had: inventory $4,600; trade receivables $1,250; cash $380; trade payables $3,900; bank overdraft $1,700; accrued expenses $450.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the working capital.",
+    "marks": 2,
+    "answer": "$180",
+    "working": "Current assets 6,230; current liabilities 6,050 (M1 includes overdraft); 180 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the current ratio. Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "1.03 : 1",
+    "working": "6,230 ÷ 6,050 (M1) = 1.03 : 1 (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the liquid (acid test) ratio. Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "0.27 : 1",
+    "working": "(6,230 − 4,600) ÷ 6,050 (M1) = 0.27 : 1 (A1)."
+   }
+  ],
+  "check": "6230-6050 == 180 and round(6230/6050,2) == 1.03 and round((6230-4600)/6050,2) == 0.27",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-096",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A toy shop in Dhaka had revenue of $96,000 and cost of sales of $72,000 for the year.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the gross profit.",
+    "marks": 1,
+    "answer": "$24,000",
+    "working": "96,000 − 72,000 = 24,000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the gross margin.",
+    "marks": 2,
+    "answer": "25%",
+    "working": "24,000 ÷ 96,000 × 100 (M1) = 25% (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the mark-up. Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "33.33%",
+    "working": "24,000 ÷ 72,000 × 100 (M1) = 33.33% (A1)."
+   },
+   {
+    "label": "d",
+    "text": "Explain why the mark-up is always higher than the gross margin for the same goods.",
+    "marks": 1,
+    "answer": "Both use the same gross profit, but mark-up divides it by cost of sales, which is smaller than revenue.",
+    "working": "B1."
+   }
+  ],
+  "check": "96000-72000 == 24000 and 24000/96000*100 == 25 and round(24000/72000*100,2) == 33.33",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-097",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A garden supplies business in Nairobi: inventory 1 January $21,000; purchases $148,500; inventory 31 December $25,500.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cost of sales.",
+    "marks": 1,
+    "answer": "$144,000",
+    "working": "21,000 + 148,500 − 25,500 = 144,000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the rate of inventory turnover in times. Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "6.19 times",
+    "working": "Average inventory 23,250 (M1); 144,000 ÷ 23,250 = 6.19 times (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the rate of inventory turnover in days (365-day year). Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "58.93 days",
+    "working": "23,250 ÷ 144,000 × 365 (M1) = 58.93 days (A1)."
+   },
+   {
+    "label": "d",
+    "text": "The business sells fresh flowers as well as pots. Explain why a low rate of inventory turnover would be a particular problem for it.",
+    "marks": 2,
+    "answer": "Fresh flowers are perishable (B1); if inventory is held too long it wilts and must be thrown away or sold cheaply, reducing profit (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "21000+148500-25500 == 144000 and round(144000/23250.0,2) == 6.19 and round(23250.0/144000*365,2) == 58.93",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-098",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Moses owns a shoe repair business in Kigali. He has no loans, so capital employed equals his capital at the end of the year, $96,000. His profit for the year was $13,440.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the return on capital employed (ROCE). Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "14.00%",
+    "working": "13,440 ÷ 96,000 × 100 (M1) = 14.00% (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Moses could close the business and put the capital into a savings account paying 6% a year. Calculate the income he would receive.",
+    "marks": 1,
+    "answer": "$5,760",
+    "working": "96,000 × 6% = 5,760 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "State two reasons why Moses might keep the business open even though the extra return is small.",
+    "marks": 2,
+    "answer": "Any two: the business also pays him for his own work (he would need a job); profits may grow; he enjoys being his own boss; the savings rate may fall; the business may be worth more than its book value.",
+    "working": "1 mark each."
+   }
+  ],
+  "check": "round(13440/96000*100,2) == 14.0 and 96000*6/100 == 5760",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-099",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Hunza Water Ltd: total equity $520,000; 7% debentures $130,000; profit before debenture interest $91,000; debenture interest $9,100. In this question ROCE = profit before debenture interest ÷ capital employed × 100, where capital employed = equity + non-current liabilities.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the capital employed.",
+    "marks": 1,
+    "answer": "$650,000",
+    "working": "520,000 + 130,000 = 650,000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the ROCE. Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "14.00%",
+    "working": "91,000 ÷ 650,000 × 100 (M1) = 14.00% (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the profit for the year after debenture interest.",
+    "marks": 1,
+    "answer": "$81,900",
+    "working": "91,000 − 9,100 = 81,900 (B1)."
+   }
+  ],
+  "check": "520000+130000 == 650000 and round(91000/650000*100,2) == 14.0 and 130000*7/100 == 9100",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-100",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "At the year end a jewellery shop had current liabilities of $18,500, a current ratio of 2.4 : 1 and a liquid (acid test) ratio of 1.1 : 1.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total current assets.",
+    "marks": 1,
+    "answer": "$44,400",
+    "working": "18,500 × 2.4 = 44,400 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the liquid assets.",
+    "marks": 1,
+    "answer": "$20,350",
+    "working": "18,500 × 1.1 = 20,350 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the inventory.",
+    "marks": 1,
+    "answer": "$24,050",
+    "working": "44,400 − 20,350 = 24,050 (B1)."
+   },
+   {
+    "label": "d",
+    "text": "Calculate the working capital.",
+    "marks": 1,
+    "answer": "$25,900",
+    "working": "44,400 − 18,500 = 25,900 (B1)."
+   },
+   {
+    "label": "e",
+    "text": "The owner says a current ratio of 2.4 : 1 proves the business has no liquidity problems. Explain why he may be wrong.",
+    "marks": 2,
+    "answer": "More than half the current assets are inventory ($24,050), which may be slow to sell (B1); the liquid ratio of 1.1 : 1 is much lower, so it depends on collecting receivables/selling inventory to pay its debts (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "round(18500*2.4,2) == 44400.0 and round(18500*1.1,2) == 20350.0 and round(44400.0-20350.0,2) == 24050.0 and round(44400.0-18500,2) == 25900.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-101",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Summary figures of Orbit Electronics:\n2025: revenue $240,000; cost of sales $156,000; expenses $55,200; opening inventory $18,000; closing inventory $21,000\n2026: revenue $275,000; cost of sales $187,000; expenses $61,600; opening inventory $21,000; closing inventory $33,000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate for each year: (i) gross margin, (ii) profit margin, (iii) rate of inventory turnover (times). Give answers correct to two decimal places.",
+    "marks": 6,
+    "answer": "2025: (i) 35.00%, (ii) 12.00%, (iii) 8.00 times. 2026: (i) 32.00%, (ii) 9.60%, (iii) 6.93 times.",
+    "working": "GP 2025 84,000, 2026 88,000; profit 2025 28,800, 2026 26,400. 1 mark each ratio."
+   },
+   {
+    "label": "b",
+    "text": "Suggest two reasons for the change in the gross margin.",
+    "marks": 2,
+    "answer": "Any two: selling prices cut to increase sales; suppliers' prices rose and were not passed on; more lower-margin goods sold; more theft/damage of inventory; trade discounts lost.",
+    "working": "1 mark each."
+   },
+   {
+    "label": "c",
+    "text": "Comment on the change in the rate of inventory turnover.",
+    "marks": 2,
+    "answer": "It fell from 8.00 to 6.93 times (B1): inventory is selling more slowly / too much inventory is held (closing inventory rose sharply), tying up cash and risking obsolescence (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "round((240000-156000)/240000*100,2) == 35.0 and round((240000-156000-55200)/240000*100,2) == 12.0 and round(156000/((18000+21000)/2),2) == 8.0 and round((275000-187000)/275000*100,2) == 32.0 and round((275000-187000-61600)/275000*100,2) == 9.6 and round(187000/((21000+33000)/2),2) == 6.93",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-102",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Calculation of accounting ratios",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "At 1 May a wholesaler had current assets of $42,000 (including inventory $18,000) and current liabilities of $20,000. In May:\n1 Paid trade payables $5,000 by bank transfer.\n2 Bought a delivery van for $6,000, paid by bank transfer.\n3 Sold goods costing $3,000 for $4,500 on credit.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the current ratio before the transactions.",
+    "marks": 1,
+    "answer": "2.10 : 1",
+    "working": "42,000 ÷ 20,000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the current ratio after each transaction (each transaction follows the previous one). Give answers correct to two decimal places.",
+    "marks": 3,
+    "answer": "After 1: 2.47 : 1; after 2: 2.07 : 1; after 3: 2.17 : 1",
+    "working": "1: 37,000 ÷ 15,000; 2: 31,000 ÷ 15,000; 3: 32,500 ÷ 15,000. 1 mark each."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the liquid (acid test) ratio after all three transactions. Give your answer correct to two decimal places.",
+    "marks": 2,
+    "answer": "1.17 : 1",
+    "working": "Inventory 15,000 (M1); (32,500 − 15,000) ÷ 15,000 = 1.17 : 1 (A1)."
+   }
+  ],
+  "check": "round(42000/20000,2) == 2.1 and round(37000/15000,2) == 2.47 and round(31000/15000,2) == 2.07 and round(32500/15000,2) == 2.17 and round((32500-15000)/15000,2) == 1.17",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-103",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which is a limitation of using a business's financial statements to judge its performance?\nA they do not show non-financial factors such as the skill of the staff\nB they show the profit for the year\nC they are prepared using accounting principles\nD they show the assets and liabilities at the year end",
+    "marks": 1,
+    "answer": "A they do not show non-financial factors such as the skill of the staff",
+    "working": "Financial statements record only items that can be measured in money, so staff skills, customer loyalty and location are left out. B, C and D are features (strengths) of the statements, not limitations."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-104",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name three users of the financial statements of a limited company, other than the directors. For each, state what it would want to know.",
+    "marks": 6,
+    "answer": "Any three users with a matching interest: shareholders (profit, dividends, value of shares); potential investors (return on investment); debenture holders/lenders (ability to pay interest and repay); suppliers (ability to pay on time); employees (job security, pay); customers (continuity of supply); government/tax authorities (tax due).",
+    "working": "1 mark each user + 1 mark each matching interest."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-105",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by inter-firm comparison.",
+    "marks": 2,
+    "answer": "Comparing the ratios/results of one business (B1) with those of other businesses in the same trade, or with the industry average, for the same period (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "b",
+    "text": "State two reasons why the owner of a restaurant would compare her results with other restaurants.",
+    "marks": 2,
+    "answer": "Any two: to see whether her performance is good or poor compared with competitors; to identify weaknesses (e.g. high expenses); to set targets; to check whether her prices/margins are reasonable.",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-106",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Ibrahim runs a seaside restaurant in Gwadar. State three non-financial factors which his financial statements do not show but which affect the success of his business.",
+    "marks": 3,
+    "answer": "Any three: location/view; quality of the food; skill and loyalty of the chef and staff; customer satisfaction/reputation; competition nearby; seasonal tourism; hygiene rating; staff morale.",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-107",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the owner of a business should compare this year's ratios with those of previous years.",
+    "marks": 2,
+    "answer": "To identify trends (B1): whether performance is improving or getting worse, so action can be taken (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "b",
+    "text": "State one limitation of comparing this year's results with those of ten years ago.",
+    "marks": 1,
+    "answer": "Any one: inflation means money values are not comparable; the business may have changed (size, products); accounting policies may have changed; economic conditions differ.",
+    "working": "B1."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-108",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "For each user, name the ratio that would be most useful.\n(i) a bank considering a loan\n(ii) a supplier deciding on credit terms\n(iii) a person deciding whether to invest in the business\n(iv) the owner checking whether selling prices are high enough\n(v) the owner checking how quickly customers pay",
+    "marks": 5,
+    "answer": "(i) liquid (acid test) ratio or current ratio; (ii) liquid (acid test) ratio or trade payables turnover of the customer; (iii) return on capital employed (ROCE); (iv) gross margin or mark-up; (v) trade receivables turnover",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-109",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Zaid bought his shop premises in Multan for $45,000 twenty years ago. Similar premises are now worth about $210,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the value at which the premises are shown in the statement of financial position, and name the principle that requires this.",
+    "marks": 2,
+    "answer": "$45,000 (B1); historic cost (B1)",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "b",
+    "text": "Explain why this makes comparison with a business which bought similar premises recently less reliable.",
+    "marks": 2,
+    "answer": "The other business shows its premises at a much higher cost (B1), so its capital employed is larger and its ROCE looks lower even if it performs as well; Zaid's assets are understated, making his ROCE look higher (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-110",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Two shoe shops for the same year:\nShop P: revenue $180,000; gross profit $63,000; profit for the year $21,600; capital employed $120,000\nShop Q: revenue $420,000; gross profit $126,000; profit for the year $37,800; capital employed $360,000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate for each shop: (i) gross margin, (ii) profit margin, (iii) ROCE.",
+    "marks": 6,
+    "answer": "Shop P: (i) 35.00%, (ii) 12.00%, (iii) 18.00%; Shop Q: (i) 30.00%, (ii) 9.00%, (iii) 10.50%",
+    "working": "1 mark each ratio."
+   },
+   {
+    "label": "b",
+    "text": "Shop Q made the larger profit. Explain why Shop P could be said to have performed better.",
+    "marks": 2,
+    "answer": "Shop P has higher margins and a higher ROCE (18.00% v 10.50%) (B1): it earns more profit from each $ of sales and of capital; Q's larger profit is due to its larger size (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "c",
+    "text": "State two reasons why the comparison may not be fair.",
+    "marks": 2,
+    "answer": "Any two: different sizes; different locations/customers; different accounting policies (e.g. depreciation); one may rent and the other own premises; different year-end dates; non-financial factors ignored.",
+    "working": "1 mark each."
+   }
+  ],
+  "check": "round(63000/180000*100,2) == 35.0 and round(21600/180000*100,2) == 12.0 and round(21600/120000*100,2) == 18.0 and round(126000/420000*100,2) == 30.0 and round(37800/420000*100,2) == 9.0 and round(37800/360000*100,2) == 10.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-111",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Alpha Prints and Beta Prints each bought an identical printing machine for $60,000 at the start of the year. Before depreciation, each made a profit of $50,000. Alpha depreciates the machine by the straight-line method over 5 years with no residual value. Beta uses the reducing balance method at 40% per annum.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the depreciation for the first year for each business.",
+    "marks": 2,
+    "answer": "Alpha $12,000; Beta $24,000",
+    "working": "60,000 ÷ 5 = 12,000 (B1); 60,000 × 40% = 24,000 (B1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the profit for the year of each business.",
+    "marks": 2,
+    "answer": "Alpha $38,000; Beta $26,000",
+    "working": "50,000 − 12,000 = 38,000 (B1); 50,000 − 24,000 = 26,000 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain how this shows a limitation of inter-firm comparison.",
+    "marks": 2,
+    "answer": "The businesses performed identically but Alpha appears $12,000 more profitable (B1) only because of different accounting policies, so comparing their ratios would be misleading (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "60000/5 == 12000 and 60000*0.4 == 24000 and 50000-12000-(50000-24000) == 12000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-112",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Two pharmacies each had revenue of $200,000. Yasmin rents her shop for $18,000 a year and made a profit of $30,000. Zubeda owns her shop and pays no rent; her profit was $48,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the profit margin of each pharmacy.",
+    "marks": 2,
+    "answer": "Yasmin 15.00%; Zubeda 24.00%",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "Calculate Zubeda's profit margin if she had to pay rent of the same amount as Yasmin.",
+    "marks": 2,
+    "answer": "15.00%",
+    "working": "(48,000 − 18,000) ÷ 200,000 × 100 (M1) = 15.00% (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain what this shows about comparing the two businesses.",
+    "marks": 2,
+    "answer": "Zubeda's higher margin is mainly due to owning her premises, not better management (B1); after adjusting, the two businesses perform the same, so differences in how businesses are financed/structured must be considered (B1).",
+    "working": "B1 + B1."
+   }
+  ],
+  "check": "round(30000/200000*100,2) == 15.0 and round(48000/200000*100,2) == 24.0 and round((48000-18000)/200000*100,2) == 15.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-113",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A bakery in Faisalabad asks its bank for a loan. Its statement of financial position shows: inventory $26,000; trade receivables $4,800; bank $1,200 in one account, but a bank overdraft of $3,500 on another; trade payables $17,500.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the current ratio and the liquid (acid test) ratio. Give answers correct to two decimal places.",
+    "marks": 4,
+    "answer": "Current ratio 1.52 : 1; liquid ratio 0.29 : 1",
+    "working": "32,000 ÷ 21,000 (M1) = 1.52 (A1); (32,000 − 26,000) ÷ 21,000 (M1) = 0.29 (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the bank manager may be concerned about lending to the bakery.",
+    "marks": 2,
+    "answer": "The liquid ratio is well below 1 : 1 (0.29), so the bakery cannot pay its current liabilities from liquid assets (B1); it already has an overdraft and depends on selling inventory (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "c",
+    "text": "State two other pieces of information the bank manager would want before deciding.",
+    "marks": 2,
+    "answer": "Any two: profit trend / ROCE; cash flow forecast; what the loan is for; security (assets that can be charged); owner's other debts; repayment plan.",
+    "working": "1 mark each."
+   }
+  ],
+  "check": "round(32000/21000,2) == 1.52 and round((32000-26000)/21000,2) == 0.29",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-114",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A cement supplier is considering selling on credit to Mahmood Traders, a builders' merchant. Mahmood Traders' latest financial statements show credit purchases of $182,500 and trade payables of $30,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the trade payables turnover in days for Mahmood Traders (365-day year).",
+    "marks": 2,
+    "answer": "60 days",
+    "working": "30,000 ÷ 182,500 × 365 (M1) = 60 days (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Advise the supplier whether to offer Mahmood Traders 30 days' credit. Justify your answer.",
+    "marks": 3,
+    "answer": "Mahmood takes 60 days to pay, twice the 30 days offered (B1), so the supplier would probably have to wait much longer than agreed, hurting its own cash flow (B1). Decision: offer a lower credit limit/shorter terms, or ask for references first (B1).",
+    "working": "B1 + B1 + B1 justified decision."
+   }
+  ],
+  "check": "round(30000/182500*365,2) == 60.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-115",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A toy shop's financial year ends on 31 December. Explain why its current ratio may look very different from that of a toy shop whose year ends on 31 August.",
+    "marks": 2,
+    "answer": "Toy sales are seasonal (B1): at 31 December, after the festive sales, inventory is low and cash high, while at 31 August inventory is being built up for the season, so the two statements show different positions (B1).",
+    "working": "B1 + B1."
+   },
+   {
+    "label": "b",
+    "text": "State two other reasons why comparing two toy shops' ratios may be misleading.",
+    "marks": 2,
+    "answer": "Any two: different accounting policies; different sizes; one owns premises, the other rents; different locations/customers; figures are historical; non-financial factors ignored.",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-116",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Kamran's tile wholesale business: revenue $360,000; cost of sales $252,000; expenses $27,000; current assets $64,800; current liabilities $24,000; trade receivables $49,315.\nIndustry averages: gross margin 32.0%; profit margin 11.0%; current ratio 1.8 : 1; trade receivables turnover 35 days.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate for Kamran: (i) gross margin, (ii) profit margin, (iii) current ratio, (iv) trade receivables turnover in days (365-day year, all sales on credit; nearest whole day).",
+    "marks": 4,
+    "answer": "(i) 30.00%; (ii) 22.50%; (iii) 2.70 : 1; (iv) 50 days",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "Compare Kamran's results with the industry averages. Advise him on two actions he should take. Justify your answer.",
+    "marks": 5,
+    "answer": "Gross margin 30.00% is below the average 32.0%: review buying prices/selling prices (B1). Profit margin 22.50% is above 11.0%, so expenses are well controlled (B1). Current ratio 2.70 is higher than 1.8: possibly too much tied up in current assets (B1). Receivables take 50 days v 35: chase debts, offer cash discounts, tighten credit control (B1). Justified advice on two actions (B1).",
+    "working": "Up to 4 marks for comparisons with reasons; 1 mark for justified advice."
+   }
+  ],
+  "check": "round((360000-252000)/360000*100,2) == 30.0 and round((360000-252000-27000)/360000*100,2) == 22.5 and round(64800/24000,2) == 2.7 and round(49315/360000*365) == 50",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-117",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Rania wants to invest as a partner in one of two businesses.\nBusiness A: profit for the year $36,000; capital employed $240,000.\nBusiness B: profit for the year $22,000; capital employed $110,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the ROCE of each business.",
+    "marks": 2,
+    "answer": "Business A 15.00%; Business B 20.00%",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "Rania will invest $50,000 and receive the same ROCE as the business she joins. Calculate her expected annual return from each.",
+    "marks": 2,
+    "answer": "A $7,500; B $10,000",
+    "working": "1 mark each."
+   },
+   {
+    "label": "c",
+    "text": "Advise Rania which business to invest in. Justify your answer, including two limitations of using these figures.",
+    "marks": 5,
+    "answer": "B gives the higher ROCE (20% v 15%) and a higher return. Limitations: figures are for one past year only (historical); different accounting policies; non-financial factors (management, market) ignored; B is smaller so its results may be more variable; ROCE ignores risk and liquidity. Justified decision.",
+    "working": "B1 uses ROCE; 2 marks for two limitations; 1 mark further point (e.g. liquidity/risk); 1 mark justified decision."
+   }
+  ],
+  "check": "round(36000/240000*100,2) == 15.0 and round(22000/110000*100,2) == 20.0 and 50000*15.0/100 == 7500 and 50000*20.0/100 == 10000",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-118",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Grace owns a cleaning business in Kampala as a sole trader and works full-time in it. Revenue $140,000; profit for the year $31,500. A similar cleaning company has a profit margin of 11.00% after paying a manager a salary of $18,000.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate Grace's profit margin.",
+    "marks": 2,
+    "answer": "22.50%",
+    "working": "31,500 ÷ 140,000 × 100 (M1) = 22.50% (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate Grace's profit margin after charging a manager's salary equal to that paid by the company.",
+    "marks": 2,
+    "answer": "9.64%",
+    "working": "(31,500 − 18,000) ÷ 140,000 × 100 (M1) = 9.64% (A1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the adjustment is needed before comparing the two businesses, and state which business is performing better.",
+    "marks": 3,
+    "answer": "A sole trader's own work is not charged as an expense (her reward is drawings/profit), while the company pays its manager a salary, which reduces its profit (B1). After adjusting, Grace's margin is 9.64% compared with 11.00% (B1), so the company performs better (B1).",
+    "working": "B1 + B1 + B1."
+   }
+  ],
+  "check": "round(31500/140000*100,2) == 22.5 and round((31500-18000)/140000*100,2) == 9.64 and 9.64 < 11.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-119",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Hassan's stationery shop had revenue of $120,000 in 2025 and $129,600 in 2026. During 2026 prices in the country rose by an average of 10%.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in revenue.",
+    "marks": 2,
+    "answer": "8.00%",
+    "working": "(129,600 − 120,000) ÷ 120,000 × 100 (M1) = 8.00% (A1)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the revenue for 2026 that would have been needed just to keep up with prices rising by 10%.",
+    "marks": 1,
+    "answer": "$132,000",
+    "working": "120,000 × 1.10 = 132,000 (B1)."
+   },
+   {
+    "label": "c",
+    "text": "Explain whether the business really grew. Refer to a limitation of financial statements.",
+    "marks": 3,
+    "answer": "Revenue rose by 8.00% but prices rose by 10% (B1), so in real terms sales fell by about $2,400 (B1); financial statements are in money terms and do not adjust for inflation/changing value of money (B1).",
+    "working": "B1 + B1 + B1."
+   }
+  ],
+  "check": "round((129600-120000)/120000*100,2) == 8.0 and round(120000*1.1,2) == 132000.0 and 132000.0-129600 == 2400.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "7707-h1-120",
+  "topic": "Analysis and interpretation",
+  "subtopic": "Users, inter-firm comparison and limitations",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Two retailers have applied to a bank for a loan.\nLotus Stores: current assets $48,000 (inventory $16,000); current liabilities $20,000; profit for the year $27,000; capital employed $180,000\nMango Mart: current assets $39,000 (inventory $27,000); current liabilities $26,000; profit for the year $36,000; capital employed $150,000",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate for each business: (i) current ratio, (ii) liquid (acid test) ratio, (iii) ROCE.",
+    "marks": 6,
+    "answer": "Lotus: 2.40 : 1, 1.60 : 1, 15.00%. Mango: 1.50 : 1, 0.46 : 1, 24.00%.",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "The bank can lend to only one of the businesses. Advise the bank which one to lend to. Justify your answer.",
+    "marks": 4,
+    "answer": "Lotus has much better liquidity (liquid ratio 1.60 v 0.46), so it can more easily pay interest and repayments from liquid assets (B1 B1). Mango is more profitable (ROCE 24.00% v 15.00%) but has a liquid ratio well below 1 : 1 and relies on selling inventory (B1). Decision: lend to Lotus, because a lender cares most about the ability to repay (B1).",
+    "working": "B1 B1 liquidity comparison; B1 profitability; B1 justified decision."
+   }
+  ],
+  "check": "(2.4, 1.6, 15.0) == (round(48000/20000,2), round((48000-16000)/20000,2), round(27000/180000*100,2)) and (1.5, 0.46, 24.0) == (round(39000/26000,2), round((39000-27000)/26000,2), round(36000/150000*100,2))",
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]
