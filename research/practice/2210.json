@@ -3103,7 +3103,7 @@
  {
   "id": "2210-g1-109",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "core",
   "stem": "Pre-release style scenario (practise as if you had programmed it beforehand):\nA school in Rawalpindi is running a tree-planting week. Each of its 6 classes plants trees every day for 5 days.\nTask 1 – set up arrays to store the class names and the number of trees planted by each class on each day; input and validate the daily numbers (0 to 50).\nTask 2 – calculate and output the total trees for each class and for the whole school.\nTask 3 – output the name of the class that planted the most trees.",
@@ -3136,7 +3136,7 @@
  {
   "id": "2210-g1-110",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "standard",
   "stem": "Pre-release style scenario:\nA café in Abu Dhabi runs a loyalty scheme for up to 100 customers. Each customer has a 4-digit card number and a points balance.\nTask 1 – set up the data structures and allow a new customer to be added with 0 points; the card number must be 4 digits and must not already exist.\nTask 2 – when a customer buys something, input the card number and the amount spent in whole dirhams; add 1 point for every whole 10 dirhams spent.\nTask 3 – when a customer has 200 or more points, offer a free drink, which uses 200 points.",
@@ -3170,7 +3170,7 @@
  {
   "id": "2210-g1-111",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "challenge",
   "stem": "Pre-release style scenario:\nOn sports day, a school in Kandy has four houses (Red, Blue, Green, Yellow). There are 12 events. In each event, 1st place earns 5 points, 2nd 3 points and 3rd 1 point.\nTask 1 – for each event, input the houses that came 1st, 2nd and 3rd; a house cannot be placed twice in the same event.\nTask 2 – keep a running total of points for each house and output the totals after every event.\nTask 3 – at the end, output the houses in order from highest to lowest points.",
@@ -17235,7 +17235,7 @@
  {
   "id": "2210-h1-088",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "core",
   "parts": [
@@ -17260,7 +17260,7 @@
  {
   "id": "2210-h1-089",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "core",
   "parts": [
@@ -17279,7 +17279,7 @@
  {
   "id": "2210-h1-090",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "core",
   "parts": [
@@ -17298,7 +17298,7 @@
  {
   "id": "2210-h1-091",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "core",
   "parts": [
@@ -17324,7 +17324,7 @@
  {
   "id": "2210-h1-092",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "standard",
   "parts": [
@@ -17349,7 +17349,7 @@
  {
   "id": "2210-h1-093",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "standard",
   "parts": [
@@ -17368,7 +17368,7 @@
  {
   "id": "2210-h1-094",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "standard",
   "parts": [
@@ -17386,7 +17386,7 @@
  {
   "id": "2210-h1-095",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "standard",
   "parts": [
@@ -17404,7 +17404,7 @@
  {
   "id": "2210-h1-096",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "challenge",
   "parts": [
@@ -17423,7 +17423,7 @@
  {
   "id": "2210-h1-097",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "challenge",
   "parts": [
@@ -17441,7 +17441,7 @@
  {
   "id": "2210-h1-098",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "challenge",
   "parts": [
@@ -17459,7 +17459,7 @@
  {
   "id": "2210-h1-099",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "challenge",
   "parts": [

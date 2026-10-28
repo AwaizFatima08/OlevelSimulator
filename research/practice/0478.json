@@ -3103,7 +3103,7 @@
  {
   "id": "2210-g1-109",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "core",
   "stem": "Pre-release style scenario (practise as if you had programmed it beforehand):\nA school in Rawalpindi is running a tree-planting week. Each of its 6 classes plants trees every day for 5 days.\nTask 1 – set up arrays to store the class names and the number of trees planted by each class on each day; input and validate the daily numbers (0 to 50).\nTask 2 – calculate and output the total trees for each class and for the whole school.\nTask 3 – output the name of the class that planted the most trees.",
@@ -3136,7 +3136,7 @@
  {
   "id": "2210-g1-110",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "standard",
   "stem": "Pre-release style scenario:\nA café in Abu Dhabi runs a loyalty scheme for up to 100 customers. Each customer has a 4-digit card number and a points balance.\nTask 1 – set up the data structures and allow a new customer to be added with 0 points; the card number must be 4 digits and must not already exist.\nTask 2 – when a customer buys something, input the card number and the amount spent in whole dirhams; add 1 point for every whole 10 dirhams spent.\nTask 3 – when a customer has 200 or more points, offer a free drink, which uses 200 points.",
@@ -3170,7 +3170,7 @@
  {
   "id": "2210-g1-111",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "challenge",
   "stem": "Pre-release style scenario:\nOn sports day, a school in Kandy has four houses (Red, Blue, Green, Yellow). There are 12 events. In each event, 1st place earns 5 points, 2nd 3 points and 3rd 1 point.\nTask 1 – for each event, input the houses that came 1st, 2nd and 3rd; a house cannot be placed twice in the same event.\nTask 2 – keep a running total of points for each house and output the totals after every event.\nTask 3 – at the end, output the houses in order from highest to lowest points.",
@@ -7976,7 +7976,7 @@
  {
   "id": "0478-g1-002",
   "topic": "The internet and its uses",
-  "subtopic": "HTML structure and presentation (old syllabus)",
+  "subtopic": "HTML structure and presentation",
   "paper": "1",
   "difficulty": "core",
   "stem": "The webmaster of a school in Quetta is building a notice page for the school website using HTML.",
@@ -8016,7 +8016,7 @@
  {
   "id": "0478-g1-003",
   "topic": "The internet and its uses",
-  "subtopic": "HTML structure and presentation (old syllabus)",
+  "subtopic": "HTML structure and presentation",
   "paper": "1",
   "difficulty": "challenge",
   "stem": "Part of the HTML file for the home page of an online shop in Karachi is shown below. Line numbers are given for reference only.\n1 <html>\n2 <head>\n3 <title>Bazaar Deals</title>\n4 <link rel=\"stylesheet\" href=\"shop.css\">\n5 </head>\n6 <body>\n7 <h1 style=\"color: green;\">Eid Sale</h1>\n8 <p>All brass lamps are 20% off this week.</p>\n9 <img src=\"lamp.jpg\" alt=\"Brass lamp\">\n10 </body>\n11 </html>",
@@ -8056,7 +8056,7 @@
  {
   "id": "0478-g1-004",
   "topic": "Software",
-  "subtopic": "Ethics and software licensing (old syllabus)",
+  "subtopic": "Ethics and software licensing",
   "paper": "1",
   "difficulty": "core",
   "stem": "Mehwish downloads a photo-editing program for her laptop. The program is shareware.",
@@ -8082,7 +8082,7 @@
  {
   "id": "0478-g1-005",
   "topic": "Software",
-  "subtopic": "Ethics and software licensing (old syllabus)",
+  "subtopic": "Ethics and software licensing",
   "paper": "1",
   "difficulty": "standard",
   "stem": "Freeware and free software are two different ways of distributing programs.",
@@ -8108,7 +8108,7 @@
  {
   "id": "0478-g1-006",
   "topic": "Software",
-  "subtopic": "Ethics and software licensing (old syllabus)",
+  "subtopic": "Ethics and software licensing",
   "paper": "1",
   "difficulty": "core",
   "stem": "A software company in Lahore sells an accounting program to shops. It finds that unlicensed copies of the program are being used in many markets.",
@@ -8134,7 +8134,7 @@
  {
   "id": "0478-g1-007",
   "topic": "Software",
-  "subtopic": "Ethics and software licensing (old syllabus)",
+  "subtopic": "Ethics and software licensing",
   "paper": "1",
   "difficulty": "challenge",
   "stem": "A software house in Karachi is developing a delivery-tracking app. Three things happen during the project.",
@@ -8160,7 +8160,7 @@
  {
   "id": "0478-g1-008",
   "topic": "Software",
-  "subtopic": "Ethics and software licensing (old syllabus)",
+  "subtopic": "Ethics and software licensing",
   "paper": "1",
   "difficulty": "challenge",
   "stem": "A group of university students in Kuala Lumpur has written a timetable app. They are deciding whether to distribute it as freeware, shareware or free software.",
@@ -8219,7 +8219,7 @@
  {
   "id": "0478-g1-010",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "core",
   "stem": "Pre-release style scenario (practise as if you had programmed it beforehand):\nA cricket academy in Sialkot measures the speed of every delivery in km/h at a fast-bowling camp. There are 8 bowlers and each bowls 6 deliveries.\nTask 1 – store the names of the 8 bowlers, then input the 6 speeds for each bowler. A speed is valid only if it is from 60 to 160 km/h.\nTask 2 – calculate and output each bowler's name and average speed, rounded to one decimal place.\nTask 3 – find and output the fastest single delivery of the camp and the name of the bowler who bowled it.",
@@ -8267,7 +8267,7 @@
  {
   "id": "0478-g1-011",
   "topic": "Programming",
-  "subtopic": "Pre-release material tasks (old syllabus)",
+  "subtopic": "Scenario programming tasks",
   "paper": "2",
   "difficulty": "challenge",
   "stem": "Pre-release style scenario (practise as if you had programmed it beforehand):\nA coach company runs three trips a day from Lahore to Islamabad, leaving at 07:00, 13:00 and 19:00 (departures 1, 2 and 3). Each coach has 40 seats.\nTask 1 – set up an array SeatsLeft[1:3] with every value set to 40, and set the day's takings to 0.\nTask 2 – for a booking, input the departure (1 to 3) and the number of adult and child passengers. An adult ticket costs Rs 2800 and a child ticket Rs 1400. A group of 6 or more passengers gets 10% off the total cost. Refuse the booking if there are not enough seats left. Otherwise output the cost, update the seats left and add the cost to the takings.\nTask 3 – at the end of the day, output the total takings and the departure time that carried the most passengers.",
