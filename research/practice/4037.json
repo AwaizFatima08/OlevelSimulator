@@ -12593,5 +12593,3610 @@
   "check": "1700 - 20*5**2 == 200 + 200*5 == 1200 and (-15)**2 + 10*(-15) - 75 == 0",
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "4037-h1-001",
+  "topic": "Differentiation",
+  "subtopic": "Tangents and normals",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "The curve y = 3x² − 5x + 2 is given.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the equation of the tangent to the curve at the point where x = 1.",
+    "marks": 3,
+    "answer": "y = x − 1",
+    "working": "At x = 1, y = 0 so the point is (1, 0); dy/dx = 6x − 5 = 1 at x = 1. M1 differentiate, M1 use point and gradient, A1 y = x − 1."
+   },
+   {
+    "label": "b",
+    "text": "Show that this tangent touches the curve at only one point.",
+    "marks": 3,
+    "answer": "Equating 3x² − 5x + 2 = x − 1 gives 3x² − 6x + 3 = 0, i.e. 3(x − 1)² = 0, so x = 1 is the only solution. The tangent touches the curve only at (1, 0).",
+    "working": "M1 equate the two equations; M1 simplify to 3(x − 1)² = 0; A1 only one solution, x = 1."
+   }
+  ],
+  "check": "6*1-5==1 and 3-5+2==0 and 3*(1-1)**2==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-002",
+  "topic": "Differentiation",
+  "subtopic": "Tangents and normals",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A curve has equation y = (x + 1)eˣ.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the equation of the tangent to the curve at the point where it crosses the y-axis.",
+    "marks": 3,
+    "answer": "y = 2x + 1",
+    "working": "x = 0 gives y = 1, point (0, 1). dy/dx = eˣ + (x + 1)eˣ = (x + 2)eˣ, which is 2 at x = 0. M1 product rule, M1 gradient 2, A1 y = 2x + 1."
+   },
+   {
+    "label": "b",
+    "text": "Find the x-coordinate where the normal to the curve at this point meets the x-axis.",
+    "marks": 2,
+    "answer": "x = 2",
+    "working": "Normal gradient is −½, so y = −½x + 1. Setting y = 0 gives x = 2. M1 normal equation, A1 x = 2."
+   }
+  ],
+  "check": "(0+2)*math.exp(0)==2 and -(1/2)*2+1==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-003",
+  "topic": "Differentiation",
+  "subtopic": "Tangents and normals",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The curve has equation y = 2x/(x + 3), for x ≠ −3.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that dy/dx = 6/(x + 3)².",
+    "marks": 3,
+    "answer": "dy/dx = [(x + 3)(2) − 2x(1)]/(x + 3)² = 6/(x + 3)².",
+    "working": "M1 quotient rule; M1 expand numerator; A1 6/(x + 3)²."
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the tangent at the point where x = −1. Give your answer in the form ax + by + c = 0, where a, b and c are integers.",
+    "marks": 3,
+    "answer": "3x − 2y + 1 = 0",
+    "working": "At x = −1, y = −2/2 = −1, so the point is (−1, −1). Gradient = 6/4 = 3/2. y + 1 = 3/2(x + 1), so 2y + 2 = 3x + 3, giving 3x − 2y + 1 = 0. M1 point, M1 gradient, A1 form."
+   },
+   {
+    "label": "c",
+    "text": "Find the equation of the normal at this point, in the same form.",
+    "marks": 2,
+    "answer": "2x + 3y + 5 = 0",
+    "working": "Normal gradient = −2/3, so y + 1 = −2/3(x + 1); 3y + 3 = −2x − 2; 2x + 3y + 5 = 0. M1 gradient, A1 equation."
+   }
+  ],
+  "check": "abs(6/(-1+3)**2-1.5)<1e-9 and 3*(-1)-2*(-1)+1==0 and 2*(-1)+3*(-1)+5==0 and 2*(-1)/(-1+3)==-1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-004",
+  "topic": "Differentiation",
+  "subtopic": "Tangents and normals",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "The curve C has equation y = x² − 2x + 3.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the gradient of C at the point with x-coordinate a is 2a − 2.",
+    "marks": 2,
+    "answer": "dy/dx = 2x − 2, so the gradient at x = a is 2a − 2.",
+    "working": "M1 differentiate to 2x − 2; A1 substitute x = a."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the two points on C at which the tangent passes through the origin.",
+    "marks": 4,
+    "answer": "(√3, 6 − 2√3) and (−√3, 6 + 2√3)",
+    "working": "The point is (a, a² − 2a + 3). For the tangent to pass through (0, 0): a² − 2a + 3 = a(2a − 2), so a² = 3 and a = ±√3. M1 use the tangent through the origin, M1 solve for a², A1 a = ±√3, A1 both points: a = √3 gives 6 − 2√3; a = −√3 gives 6 + 2√3."
+   }
+  ],
+  "check": "abs(3-math.sqrt(3)**2)<1e-9 and abs((6-2*math.sqrt(3))-(math.sqrt(3)**2-2*math.sqrt(3)+3))<1e-9 and abs((6+2*math.sqrt(3))-((-math.sqrt(3))**2+2*math.sqrt(3)+3))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-005",
+  "topic": "Differentiation",
+  "subtopic": "Tangents and normals",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The curve y = x³ − 3x + k, where k is a constant, has a tangent at the point where x = 2. This tangent passes through the point (0, −5).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 4,
+    "answer": "k = 11",
+    "working": "At x = 2, y = 2 + k; dy/dx = 3x² − 3 = 9. Tangent: y = 9(x − 2) + 2 + k. Passing through (0, −5): −18 + 2 + k = −5, so k = 11. M1 point, M1 gradient, M1 substitute (0, −5), A1 k = 11."
+   },
+   {
+    "label": "b",
+    "text": "With this value of k, find the coordinates of the other point where the tangent meets the curve.",
+    "marks": 3,
+    "answer": "(−4, −41)",
+    "working": "Tangent is y = 9x − 5; curve is y = x³ − 3x + 11. Equating gives x³ − 12x + 16 = 0, i.e. (x − 2)²(x + 4) = 0. x = −4 gives y = −41. M1 equate, M1 factorise, A1 coordinates."
+   }
+  ],
+  "check": "9*(0-2)+2+11==-5 and 3*2**2-3==9 and (-4)**3-12*(-4)+16==0 and 9*(-4)-5==-41 and (-4)**3-3*(-4)+11==-41",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-006",
+  "topic": "Differentiation",
+  "subtopic": "Tangents and normals",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "The curve has equation y = x² − 6x + 1.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the coordinates of the point on the curve at which the tangent is parallel to the line y = 2x + 5.",
+    "marks": 3,
+    "answer": "(4, −7)",
+    "working": "dy/dx = 2x − 6 = 2 gives x = 4; y = 16 − 24 + 1 = −7. M1 gradient expression, M1 solve, A1 coordinates."
+   },
+   {
+    "label": "b",
+    "text": "Find the equation of the normal at this point, in the form ax + by + c = 0 with a, b, c integers.",
+    "marks": 3,
+    "answer": "x + 2y + 10 = 0",
+    "working": "Normal gradient = −½, so y + 7 = −½(x − 4); 2y + 14 = −x + 4; x + 2y + 10 = 0. M1 normal gradient, M1 point-gradient form, A1 equation."
+   }
+  ],
+  "check": "2*4-6==2 and 4**2-6*4+1==-7 and 4+2*(-7)+10==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-007",
+  "topic": "Differentiation",
+  "subtopic": "Tangents and normals",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "The curve C has equation y = 1/(x + 2) for x ≠ −2. A point P on C has x-coordinate a, where a ≠ −2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the gradient of C at P is −1/(a + 2)².",
+    "marks": 2,
+    "answer": "dy/dx = −(x + 2)⁻² = −1/(x + 2)², so the gradient at P is −1/(a + 2)².",
+    "working": "M1 differentiate (x + 2)⁻¹ using the chain rule; A1 result."
+   },
+   {
+    "label": "b",
+    "text": "Show that the tangent to C at P does not pass through the point (−2, 0).",
+    "marks": 3,
+    "answer": "The tangent is y − 1/(a + 2) = −(x − a)/(a + 2)². At x = −2 this gives y = 1/(a + 2) + (a + 2)/(a + 2)² = 2/(a + 2), which is never 0. So the tangent never passes through (−2, 0).",
+    "working": "M1 tangent equation from part (a); M1 substitute x = −2 and simplify to 2/(a + 2); A1 never zero, so the point is never on the tangent."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-008",
+  "topic": "Differentiation",
+  "subtopic": "Derivatives (chain, product, quotient)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that y = (x² + 3)⁴, find dy/dx.",
+    "marks": 2,
+    "answer": "dy/dx = 8x(x² + 3)³",
+    "working": "Chain rule: 4(x² + 3)³ × 2x. M1 chain rule, A1 simplified."
+   },
+   {
+    "label": "b",
+    "text": "Find the value of dy/dx when x = 2.",
+    "marks": 1,
+    "answer": "5488",
+    "working": "8 × 2 × (4 + 3)³ = 16 × 343 = 5488."
+   },
+   {
+    "label": "c",
+    "text": "Given that y = 5/(2x − 1), find dy/dx and hence its value when x = 3.",
+    "marks": 3,
+    "answer": "dy/dx = −10/(2x − 1)²; the value is −2/5 when x = 3",
+    "working": "y = 5(2x − 1)⁻¹, so dy/dx = −10(2x − 1)⁻² = −10/(2x − 1)². At x = 3: −10/25 = −2/5. M1 chain rule, A1 expression, A1 value."
+   }
+  ],
+  "check": "8*2*(2**2+3)**3==5488 and abs(-10/(2*3-1)**2+0.4)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-009",
+  "topic": "Differentiation",
+  "subtopic": "Derivatives (chain, product, quotient)",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "Given that y = x sin 3x.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find dy/dx.",
+    "marks": 3,
+    "answer": "dy/dx = sin 3x + 3x cos 3x",
+    "working": "Product rule with u = x and v = sin 3x; chain rule gives dv/dx = 3 cos 3x. M1 product rule, M1 chain rule, A1 result."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of dy/dx when x = π/6.",
+    "marks": 2,
+    "answer": "1",
+    "working": "sin(π/2) = 1 and cos(π/2) = 0, so dy/dx = 1 + 3(π/6)(0) = 1. M1 substitute, A1 value."
+   }
+  ],
+  "check": "abs(math.sin(3*math.pi/6)+3*(math.pi/6)*math.cos(3*math.pi/6)-1)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-010",
+  "topic": "Differentiation",
+  "subtopic": "Derivatives (chain, product, quotient)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "The curve has equation y = x²/(x + 1), for x ≠ −1.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that dy/dx = (x² + 2x)/(x + 1)².",
+    "marks": 3,
+    "answer": "dy/dx = [2x(x + 1) − x²]/(x + 1)² = (x² + 2x)/(x + 1)².",
+    "working": "M1 quotient rule; M1 expand numerator; A1 result."
+   },
+   {
+    "label": "b",
+    "text": "Find the x-coordinates of the stationary points of the curve.",
+    "marks": 3,
+    "answer": "x = 0 and x = −2",
+    "working": "x² + 2x = 0, so x(x + 2) = 0. M1 set numerator to zero, A1 x = 0, A1 x = −2."
+   },
+   {
+    "label": "c",
+    "text": "Find the y-coordinate of the stationary point where x = −2.",
+    "marks": 1,
+    "answer": "−4",
+    "working": "y = (−2)²/(−2 + 1) = 4/(−1) = −4."
+   }
+  ],
+  "check": "0**2+2*0==0 and (-2)**2+2*(-2)==0 and (-2)**2/(-2+1)==-4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-011",
+  "topic": "Differentiation",
+  "subtopic": "Derivatives (chain, product, quotient)",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Given that y = cos²(2x).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that dy/dx = −2 sin 4x.",
+    "marks": 3,
+    "answer": "dy/dx = 2 cos 2x × (−2 sin 2x) = −4 sin 2x cos 2x = −2 sin 4x, using sin 2A = 2 sin A cos A.",
+    "working": "M1 chain rule for the square; M1 product of sin and cos; A1 use the double-angle identity to get −2 sin 4x."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact values of x, where 0 ≤ x ≤ π/2, for which dy/dx = −1.",
+    "marks": 4,
+    "answer": "x = π/24 and x = 5π/24",
+    "working": "−2 sin 4x = −1 gives sin 4x = ½. For 0 ≤ 4x ≤ 2π, 4x = π/6 or 5π/6, so x = π/24 or 5π/24. M1 sin 4x = ½, M1 principal value, A1 π/6 and 5π/6 found, A1 both x-values."
+   }
+  ],
+  "check": "abs(-2*math.sin(4*math.pi/24)+1)<1e-9 and abs(-2*math.sin(4*5*math.pi/24)+1)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-012",
+  "topic": "Differentiation",
+  "subtopic": "Derivatives (chain, product, quotient)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A curve has equation y = x√(4 − x²), for −2 ≤ x ≤ 2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that dy/dx = (4 − 2x²)/√(4 − x²).",
+    "marks": 4,
+    "answer": "dy/dx = √(4 − x²) + x × (−2x)/(2√(4 − x²)) = [(4 − x²) − x²]/√(4 − x²) = (4 − 2x²)/√(4 − x²).",
+    "working": "M1 product rule; M1 chain rule for √(4 − x²), giving −x/√(4 − x²); A1 combine over √(4 − x²); A1 simplify numerator to 4 − 2x²."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary points of the curve.",
+    "marks": 3,
+    "answer": "(√2, 2) and (−√2, −2)",
+    "working": "dy/dx = 0 gives 4 − 2x² = 0, so x = ±√2. At x = √2, y = √2 × √2 = 2; at x = −√2, y = −√2 × √2 = −2. M1 numerator zero, A1 x = ±√2, A1 both coordinates."
+   }
+  ],
+  "check": "abs(4-2*(math.sqrt(2))**2)<1e-9 and abs(math.sqrt(2)*math.sqrt(4-2)-2)<1e-9 and abs(-math.sqrt(2)*math.sqrt(4-2)+2)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-013",
+  "topic": "Differentiation",
+  "subtopic": "Derivatives (chain, product, quotient)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A function is given by y = eˣ/(1 + eˣ).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that dy/dx = eˣ/(1 + eˣ)².",
+    "marks": 3,
+    "answer": "Quotient rule: dy/dx = [(1 + eˣ)eˣ − eˣ·eˣ]/(1 + eˣ)² = eˣ/(1 + eˣ)².",
+    "working": "M1 quotient rule with d/dx(eˣ) = eˣ; M1 expand numerator; A1 numerator simplifies to eˣ."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of dy/dx when x = ln 3.",
+    "marks": 2,
+    "answer": "3/16",
+    "working": "eˣ = 3, so dy/dx = 3/(1 + 3)² = 3/16. M1 substitute eˣ = 3, A1 3/16."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the curve has no stationary points.",
+    "marks": 2,
+    "answer": "dy/dx = eˣ/(1 + eˣ)² is positive for all real x, since eˣ > 0 and (1 + eˣ)² > 0, so dy/dx is never zero.",
+    "working": "B1 dy/dx is never 0 (a positive fraction); B1 justify using eˣ > 0 for all x."
+   }
+  ],
+  "check": "3/(1+3)**2==3/16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-014",
+  "topic": "Differentiation",
+  "subtopic": "Derivatives (chain, product, quotient)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "f(x) = (x² + 1)(x − 2)³.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that f′(x) = (x − 2)²(5x² − 4x + 3).",
+    "marks": 4,
+    "answer": "f′(x) = 2x(x − 2)³ + 3(x² + 1)(x − 2)² = (x − 2)²[2x(x − 2) + 3(x² + 1)] = (x − 2)²(5x² − 4x + 3).",
+    "working": "M1 product rule; M1 take out the common factor (x − 2)²; A1 bracket 2x² − 4x + 3x² + 3; A1 5x² − 4x + 3."
+   },
+   {
+    "label": "b",
+    "text": "Show that the only stationary point of f is the point where x = 2, and state its coordinates.",
+    "marks": 3,
+    "answer": "5x² − 4x + 3 = 0 has discriminant 16 − 60 < 0, so no real roots. The only stationary point is at x = 2, which is (2, 0).",
+    "working": "M1 consider 5x² − 4x + 3 = 0; M1 discriminant 16 − 60 = −44 < 0; A1 only stationary point is (2, 0) since f(2) = 0."
+   }
+  ],
+  "check": "abs(2*3*(3-2)**3+3*(3**2+1)*(3-2)**2-(3-2)**2*(5*3**2-4*3+3))<1e-9 and 16-4*5*3<0 and 2**2+1==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-015",
+  "topic": "Differentiation",
+  "subtopic": "Small changes and rates of change",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A cylindrical water tank has radius 1.5 m. Water is pumped in so that the depth of water, h metres, increases at a constant rate of 0.04 m per second.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the rate at which the volume of water is increasing, in m³ per second, correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "0.283 m³/s",
+    "working": "V = πr²h = 2.25πh, so dV/dt = 2.25π × 0.04 = 0.09π = 0.283 (3 s.f.). M1 volume formula, M1 chain rule, A1 0.283."
+   }
+  ],
+  "check": "abs(math.pi*1.5**2*0.04-0.283)<0.001",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-016",
+  "topic": "Differentiation",
+  "subtopic": "Small changes and rates of change",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "y = 3x² + 2x.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Use a small change to estimate the increase in y when x increases from 4 to 4.02.",
+    "marks": 3,
+    "answer": "0.52",
+    "working": "dy/dx = 6x + 2 = 26 at x = 4; δy ≈ 26 × 0.02 = 0.52. M1 dy/dx, M1 multiply by δx, A1 0.52."
+   },
+   {
+    "label": "b",
+    "text": "Hence estimate the value of 3(4.02)² + 2(4.02).",
+    "marks": 1,
+    "answer": "56.52",
+    "working": "At x = 4, y = 48 + 8 = 56, so the value is approximately 56 + 0.52 = 56.52."
+   }
+  ],
+  "check": "abs((6*4+2)*0.02-0.52)<1e-9 and 3*16+8==56",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-017",
+  "topic": "Differentiation",
+  "subtopic": "Small changes and rates of change",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A metal sphere of radius r mm is heated. Its surface area is S = 4πr² mm². The radius increases at a constant rate of 0.05 mm per second.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the rate at which the surface area is increasing when r = 12, giving your answer in mm² per second correct to 2 decimal places.",
+    "marks": 3,
+    "answer": "15.08 mm²/s",
+    "working": "dS/dr = 8πr = 96π at r = 12; dS/dt = 96π × 0.05 = 4.8π = 15.08 (2 d.p.). M1 dS/dr, M1 chain rule, A1 15.08."
+   },
+   {
+    "label": "b",
+    "text": "Use a small change to estimate the increase in S when r increases from 12 mm to 12.1 mm.",
+    "marks": 2,
+    "answer": "About 30.16 mm²",
+    "working": "δS ≈ 96π × 0.1 = 9.6π ≈ 30.16 mm². M1 use dS/dr × δr, A1 30.16."
+   }
+  ],
+  "check": "abs(8*math.pi*12*0.05-15.08)<0.005 and abs(96*math.pi*0.1-30.16)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-018",
+  "topic": "Differentiation",
+  "subtopic": "Small changes and rates of change",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The number of bacteria, N, in a culture at time t hours is modelled by N = 500e^(0.2t).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the rate at which N is increasing, in bacteria per hour, when t = 5. Give your answer to 3 significant figures.",
+    "marks": 3,
+    "answer": "272 bacteria per hour",
+    "working": "dN/dt = 0.2 × 500e^(0.2t) = 100e^(0.2t). At t = 5, dN/dt = 100e = 271.83, i.e. 272 (3 s.f.). M1 derivative, M1 substitute t = 5, A1 272."
+   },
+   {
+    "label": "b",
+    "text": "Use a small change to estimate the increase in N between t = 5 and t = 5.02.",
+    "marks": 2,
+    "answer": "About 5.44 bacteria",
+    "working": "δN ≈ 271.83 × 0.02 = 5.4366, so approximately 5.44. M1 multiply the rate by 0.02, A1 5.44."
+   }
+  ],
+  "check": "abs(100*math.exp(1)-272)<0.5 and abs(100*math.exp(1)*0.02-5.44)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-019",
+  "topic": "Differentiation",
+  "subtopic": "Small changes and rates of change",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "y = 12/x for x > 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Use a small change to estimate the change in y when x increases from 3 to 3.06.",
+    "marks": 3,
+    "answer": "−0.08 (approximately)",
+    "working": "dy/dx = −12/x² = −12/9 = −4/3 at x = 3; δy ≈ −4/3 × 0.06 = −0.08. M1 dy/dx, M1 multiply by δx, A1 −0.08."
+   },
+   {
+    "label": "b",
+    "text": "Hence estimate the value of y when x = 3.06.",
+    "marks": 1,
+    "answer": "3.92",
+    "working": "y = 12/3 = 4 at x = 3, so y ≈ 4 − 0.08 = 3.92."
+   }
+  ],
+  "check": "abs(-12/9*0.06+0.08)<1e-9 and abs(12/3-0.08-3.92)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-020",
+  "topic": "Differentiation",
+  "subtopic": "Small changes and rates of change",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A rectangle has length L cm and width W cm. At a particular instant L = 8 and W = 5. The length is increasing at 0.5 cm/s and the width is decreasing at 0.2 cm/s.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the rate at which the area of the rectangle is changing at this instant, and state whether it is increasing or decreasing.",
+    "marks": 3,
+    "answer": "0.9 cm²/s, increasing",
+    "working": "A = LW, so dA/dt = W dL/dt + L dW/dt = 5(0.5) + 8(−0.2) = 2.5 − 1.6 = 0.9. The rate is positive, so the area is increasing. M1 product rule, M1 substitute, A1 0.9 cm²/s increasing."
+   },
+   {
+    "label": "b",
+    "text": "Find the rate at which the perimeter is changing at this instant.",
+    "marks": 2,
+    "answer": "0.6 cm/s, increasing",
+    "working": "P = 2(L + W), so dP/dt = 2(0.5 − 0.2) = 0.6 cm/s. M1 dP/dt = 2(dL/dt + dW/dt), A1 0.6 cm/s, increasing."
+   }
+  ],
+  "check": "abs(5*0.5+8*(-0.2)-0.9)<1e-9 and abs(2*(0.5-0.2)-0.6)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-021",
+  "topic": "Differentiation",
+  "subtopic": "Small changes and rates of change",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Sand is poured onto flat ground to form a cone-shaped pile. The height h metres of the pile is always 0.8 times its radius r metres. Sand is added so that the volume V m³ of the pile increases at 2 m³ per minute.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that V = (4π/15)r³.",
+    "marks": 2,
+    "answer": "V = (1/3)πr²h = (1/3)πr²(0.8r) = (4π/15)r³.",
+    "working": "M1 substitute h = 0.8r into V = (1/3)πr²h; A1 0.8/3 = 4/15."
+   },
+   {
+    "label": "b",
+    "text": "When r = 1.5, find the rate at which r is increasing, in metres per minute, correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "0.354 m/min",
+    "working": "dV/dr = (4π/5)r² = 0.8π × 2.25 = 1.8π at r = 1.5. dr/dt = (dV/dt)/(dV/dr) = 2/(1.8π) = 0.354. M1 dV/dr, M1 chain rule, A1 0.354."
+   },
+   {
+    "label": "c",
+    "text": "Hence find the rate at which the height of the pile is increasing at this instant, in metres per minute, correct to 3 significant figures.",
+    "marks": 2,
+    "answer": "0.283 m/min",
+    "working": "h = 0.8r, so dh/dt = 0.8 × 0.3537 = 0.283. M1 dh/dt = 0.8 dr/dt, A1 0.283."
+   }
+  ],
+  "check": "abs(2/(1.8*math.pi)-0.354)<0.0005 and abs(0.8*2/(1.8*math.pi)-0.283)<0.0005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-022",
+  "topic": "Differentiation",
+  "subtopic": "Small changes and rates of change",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The radius of a circular plate is measured as 6.0 cm. The measurement may be in error by up to 0.05 cm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Use a small change to estimate the error in the calculated area of the plate, in cm².",
+    "marks": 3,
+    "answer": "About 1.88 cm²",
+    "working": "A = πr², so dA/dr = 2πr = 12π at r = 6. δA ≈ 12π × 0.05 = 0.6π ≈ 1.88. M1 dA/dr, M1 multiply by δr, A1 1.88."
+   },
+   {
+    "label": "b",
+    "text": "Hence find the percentage error in the area, correct to 2 decimal places.",
+    "marks": 2,
+    "answer": "1.67%",
+    "working": "Percentage error = (δA/A) × 100 = (0.6π/36π) × 100 = 1.67% (2 d.p.). M1 divide by A = 36π, A1 1.67%."
+   }
+  ],
+  "check": "abs(2*math.pi*6*0.05-1.88)<0.01 and abs(0.6*math.pi/(36*math.pi)*100-1.67)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-023",
+  "topic": "Differentiation",
+  "subtopic": "Small changes and rates of change",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A particle moves in a straight line. At time t seconds its displacement from a fixed point O is s metres, where s = t³ − 6t² + 9t, for t ≥ 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find an expression for the velocity v at time t, and find the values of t for which v = 0.",
+    "marks": 3,
+    "answer": "v = 3t² − 12t + 9 = 3(t − 1)(t − 3); v = 0 when t = 1 or t = 3",
+    "working": "v = ds/dt = 3t² − 12t + 9 = 3(t² − 4t + 3) = 3(t − 1)(t − 3). M1 differentiate, M1 factorise, A1 values t = 1 and t = 3."
+   },
+   {
+    "label": "b",
+    "text": "Find the acceleration of the particle when t = 4.",
+    "marks": 2,
+    "answer": "12 m/s²",
+    "working": "Acceleration = dv/dt = 6t − 12, which is 12 at t = 4. M1 differentiate v, A1 12."
+   },
+   {
+    "label": "c",
+    "text": "Find the total distance travelled by the particle in the first 3 seconds.",
+    "marks": 3,
+    "answer": "8 m",
+    "working": "s(0) = 0, s(1) = 4, s(3) = 0. From t = 0 to 1 the particle travels 4 m; from t = 1 to 3 it travels |0 − 4| = 4 m. Total 8 m. M1 values of s, M1 both distances, A1 8 m."
+   }
+  ],
+  "check": "3*1**2-12*1+9==0 and 3*3**2-12*3+9==0 and 6*4-12==12 and 1**3-6*1+9==4 and 27-54+27==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-024",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "The curve has equation y = x³ + 3x² − 9x.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the coordinates of the stationary points.",
+    "marks": 3,
+    "answer": "(1, −5) and (−3, 27)",
+    "working": "dy/dx = 3x² + 6x − 9 = 3(x + 3)(x − 1) = 0 gives x = 1 or x = −3. x = 1 gives y = −5; x = −3 gives y = −27 + 27 + 27 = 27. M1 dy/dx, M1 solve, A1 both coordinates."
+   },
+   {
+    "label": "b",
+    "text": "Determine the nature of each stationary point.",
+    "marks": 2,
+    "answer": "(1, −5) is a minimum; (−3, 27) is a maximum",
+    "working": "d²y/dx² = 6x + 6. At x = 1 it is 12 > 0 (minimum); at x = −3 it is −12 < 0 (maximum). M1 second derivative, A1 both natures."
+   }
+  ],
+  "check": "3*1**2+6*1-9==0 and 3*(-3)**2+6*(-3)-9==0 and 1+3-9==-5 and -27+27+27==27",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-025",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "The curve has equation y = x⁴ − 8x².",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the coordinates of all the stationary points.",
+    "marks": 3,
+    "answer": "(0, 0), (2, −16) and (−2, −16)",
+    "working": "dy/dx = 4x³ − 16x = 4x(x − 2)(x + 2) = 0 gives x = 0, 2, −2. y = 0 at x = 0; y = 16 − 32 = −16 at x = ±2. M1 dy/dx, M1 solve, A1 all three points."
+   },
+   {
+    "label": "b",
+    "text": "Determine the nature of each stationary point.",
+    "marks": 2,
+    "answer": "(0, 0) is a maximum; (2, −16) and (−2, −16) are minima",
+    "working": "d²y/dx² = 12x² − 16. At x = 0 it is −16 < 0 (maximum); at x = ±2 it is 32 > 0 (minima). M1 second derivative, A1 natures."
+   }
+  ],
+  "check": "4*2*(2-2)*(2+2)==0 and 2**4-8*2**2==-16 and (-2)**4-8*(-2)**2==-16 and 12*0**2-16<0 and 12*4-16>0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-026",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The curve has equation y = x ln x, for x > 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the exact coordinates of the stationary point.",
+    "marks": 3,
+    "answer": "(1/e, −1/e)",
+    "working": "dy/dx = ln x + 1 (product rule). dy/dx = 0 gives ln x = −1, so x = e⁻¹. Then y = e⁻¹ × (−1) = −1/e. M1 product rule, M1 solve, A1 coordinates."
+   },
+   {
+    "label": "b",
+    "text": "Show that this stationary point is a minimum.",
+    "marks": 2,
+    "answer": "d²y/dx² = 1/x, which is positive for x > 0, so the stationary point is a minimum.",
+    "working": "M1 second derivative 1/x; A1 positive for x > 0, so minimum."
+   }
+  ],
+  "check": "abs(math.log(1/math.e)+1)<1e-9 and abs((1/math.e)*math.log(1/math.e)+1/math.e)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-027",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "The curve has equation y = x/(x² + 1).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that dy/dx = (1 − x²)/(x² + 1)².",
+    "marks": 3,
+    "answer": "dy/dx = [(x² + 1)(1) − x(2x)]/(x² + 1)² = (1 − x²)/(x² + 1)².",
+    "working": "M1 quotient rule; M1 expand numerator; A1 result."
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the stationary points and determine their nature.",
+    "marks": 4,
+    "answer": "(1, ½) is a maximum; (−1, −½) is a minimum",
+    "working": "dy/dx = 0 gives x = ±1, with y = ½ at x = 1 and y = −½ at x = −1. For x just below 1 the gradient is positive and just above 1 it is negative, so (1, ½) is a maximum. For x just below −1 the gradient is negative and just above −1 it is positive, so (−1, −½) is a minimum. M1 solve, A1 coordinates, M1 sign test, A1 natures."
+   }
+  ],
+  "check": "abs((1-1**2)/(1+1**2)**2)<1e-9 and abs(1/(1+1)-0.5)<1e-9 and abs(-1/(1+1)+0.5)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-028",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "The curve has equation y = x³ + kx − 5, where k is a constant. The curve has a stationary point where x = 2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 2,
+    "answer": "k = −12",
+    "working": "dy/dx = 3x² + k = 0 at x = 2: 12 + k = 0, so k = −12. M1 dy/dx, A1 k = −12."
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of the other stationary point and determine its nature.",
+    "marks": 4,
+    "answer": "(−2, 11), a maximum",
+    "working": "dy/dx = 3x² − 12 = 0 gives x = ±2. At x = −2, y = −8 + 24 − 5 = 11. d²y/dx² = 6x is negative at x = −2, so it is a maximum. M1 solve, A1 coordinates, M1 second derivative, A1 maximum."
+   }
+  ],
+  "check": "3*4+(-12)==0 and 3*(-2)**2-12==0 and (-2)**3+(-12)*(-2)-5==11 and 6*(-2)<0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-029",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The curve has equation y = x²e^(−x).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that dy/dx = xe^(−x)(2 − x).",
+    "marks": 3,
+    "answer": "dy/dx = 2xe^(−x) − x²e^(−x) = xe^(−x)(2 − x).",
+    "working": "M1 product rule; M1 chain rule for e^(−x) giving −e^(−x); A1 factorise."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the stationary points and determine their nature, using the sign of dy/dx either side of each point.",
+    "marks": 4,
+    "answer": "(0, 0) is a minimum; (2, 4e⁻²) is a maximum",
+    "working": "dy/dx = 0 gives x = 0 or x = 2 (e^(−x) is never 0). For x < 0, dy/dx < 0; for 0 < x < 2, dy/dx > 0; for x > 2, dy/dx < 0. So (0, 0) is a minimum and (2, 4e⁻²) is a maximum. M1 solve, A1 coordinates, M1 sign test, A1 natures."
+   }
+  ],
+  "check": "abs(2*2-2**2)<1e-9 and abs(2**2*math.exp(-2)-4*math.exp(-2))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-030",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The curve C has equation y = x³ − 3kx + 4, where k is a constant.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the x-coordinates of the stationary points of C in terms of k.",
+    "marks": 2,
+    "answer": "x = √k and x = −√k",
+    "working": "dy/dx = 3x² − 3k = 0 gives x² = k, so x = ±√k. M1 dy/dx = 0, A1 x = ±√k."
+   },
+   {
+    "label": "b",
+    "text": "Show that C has two distinct stationary points if and only if k > 0.",
+    "marks": 2,
+    "answer": "Two distinct real solutions of x² = k require k > 0. If k = 0 there is only one solution (x = 0); if k < 0 there are no real solutions.",
+    "working": "M1 consider the number of real solutions of x² = k; A1 conclusion k > 0 for two distinct points."
+   },
+   {
+    "label": "c",
+    "text": "For k = 4, find the coordinates of each stationary point and determine its nature.",
+    "marks": 4,
+    "answer": "(2, −12) is a minimum; (−2, 20) is a maximum",
+    "working": "x = ±2. y(2) = 8 − 24 + 4 = −12; y(−2) = −8 + 24 + 4 = 20. d²y/dx² = 6x, which is positive at x = 2 (minimum) and negative at x = −2 (maximum). M1 substitute k = 4, A1 coordinates, M1 second derivative, A1 natures."
+   }
+  ],
+  "check": "3*4-3*4==0 and 2**3-3*4*2+4==-12 and (-2)**3-3*4*(-2)+4==20 and 6*2>0 and 6*(-2)<0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-031",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "The curve has equation y = ax³ + bx², where a and b are constants. The curve has a stationary point at (2, −16).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the values of a and b.",
+    "marks": 4,
+    "answer": "a = 4, b = −12",
+    "working": "dy/dx = 3ax² + 2bx = 0 at x = 2: 12a + 4b = 0, so b = −3a. y = 8a + 4b = −16 gives 8a − 12a = −16, so a = 4 and b = −12. M1 dy/dx, M1 solve gradient condition, M1 use the point, A1 values."
+   },
+   {
+    "label": "b",
+    "text": "Determine the nature of this stationary point.",
+    "marks": 2,
+    "answer": "Minimum",
+    "working": "d²y/dx² = 6ax + 2b = 24x − 24, which is 24 > 0 at x = 2, so the stationary point is a minimum. M1 second derivative, A1 minimum."
+   }
+  ],
+  "check": "12*4+4*(-12)==0 and 8*4+4*(-12)==-16 and 24*2-24>0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-032",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "The curve has equation y = 2x² − 8x + 5.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the coordinates of the stationary point.",
+    "marks": 2,
+    "answer": "(2, −3)",
+    "working": "dy/dx = 4x − 8 = 0 gives x = 2; y = 8 − 16 + 5 = −3. M1 dy/dx = 0, A1 (2, −3)."
+   },
+   {
+    "label": "b",
+    "text": "Determine whether the stationary point is a maximum or a minimum, by considering the sign of dy/dx just below and just above x = 2.",
+    "marks": 2,
+    "answer": "Minimum",
+    "working": "At x = 1, dy/dx = −4 < 0; at x = 3, dy/dx = 4 > 0. The gradient changes from negative to positive, so it is a minimum. M1 test points either side, A1 minimum."
+   }
+  ],
+  "check": "4*2-8==0 and 2*4-16+5==-3 and 4*1-8<0 and 4*3-8>0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-033",
+  "topic": "Differentiation",
+  "subtopic": "Stationary points",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "The curve has equation y = x⁴ − 4x³ + 4x².",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that dy/dx = 4x(x − 1)(x − 2), and find the x-coordinates of the stationary points.",
+    "marks": 3,
+    "answer": "dy/dx = 4x³ − 12x² + 8x = 4x(x² − 3x + 2) = 4x(x − 1)(x − 2). So x = 0, 1 or 2.",
+    "working": "M1 differentiate; M1 factorise the quadratic; A1 x = 0, 1, 2."
+   },
+   {
+    "label": "b",
+    "text": "Find the coordinates of each stationary point and determine its nature.",
+    "marks": 4,
+    "answer": "(0, 0) is a minimum; (1, 1) is a maximum; (2, 0) is a minimum",
+    "working": "y(0) = 0, y(1) = 1 − 4 + 4 = 1, y(2) = 16 − 32 + 16 = 0. d²y/dx² = 12x² − 24x + 8: it is 8 > 0 at x = 0, −4 < 0 at x = 1 and 8 > 0 at x = 2. M1 coordinates, A1 all three points, M1 second derivative, A1 natures."
+   }
+  ],
+  "check": "4*1*(1-1)*(1-2)==0 and 1-4+4==1 and 16-32+16==0 and 12*0-24*0+8>0 and 12-24+8<0 and 48-48+8>0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-034",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A rectangular garden has a perimeter of 40 m. Its width is x m and its length is L m.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the area A m² of the garden is A = 20x − x².",
+    "marks": 2,
+    "answer": "L + x = 20, so L = 20 − x and A = x(20 − x) = 20x − x².",
+    "working": "M1 use the perimeter to write L = 20 − x; A1 A = x(20 − x) = 20x − x²."
+   },
+   {
+    "label": "b",
+    "text": "Find the maximum possible area of the garden and the dimensions that give it.",
+    "marks": 3,
+    "answer": "100 m² when the garden is a square of side 10 m",
+    "working": "dA/dx = 20 − 2x = 0 gives x = 10, so L = 10 as well. A = 100. d²A/dx² = −2 < 0, so this is a maximum. M1 dA/dx = 0, A1 x = 10 and L = 10, A1 A = 100."
+   }
+  ],
+  "check": "20*10-10**2==100 and 20-2*10==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-035",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A square sheet of card has sides 24 cm. Squares of side x cm are cut from each corner and the sides are folded up to form an open box, where 0 < x < 12.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the volume V cm³ of the box is V = 4x³ − 96x² + 576x.",
+    "marks": 3,
+    "answer": "The base has sides 24 − 2x and the height is x, so V = x(24 − 2x)² = x(576 − 96x + 4x²) = 4x³ − 96x² + 576x.",
+    "working": "M1 base sides 24 − 2x; M1 square the bracket; A1 expand to the given form."
+   },
+   {
+    "label": "b",
+    "text": "Find the value of x for which V is a maximum, and the maximum volume.",
+    "marks": 4,
+    "answer": "x = 4 cm, V = 1024 cm³",
+    "working": "dV/dx = 12x² − 192x + 576 = 12(x − 4)(x − 12) = 0. Only x = 4 lies in 0 < x < 12. V = 4 × 16² = 1024. d²V/dx² = 24x − 192 = −96 < 0 at x = 4, so it is a maximum. M1 dV/dx, M1 solve, A1 x = 4, A1 V = 1024."
+   }
+  ],
+  "check": "4*(24-8)**2==1024 and 4*4**3-96*4**2+576*4==1024 and 12*(4-4)*(4-12)==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-036",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A closed cylindrical can has radius r cm and height h cm. Its total surface area is 96π cm².",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the volume V cm³ of the can is V = 48πr − πr³.",
+    "marks": 3,
+    "answer": "2πr² + 2πrh = 96π gives rh = 48 − r², so V = πr²h = πr(48 − r²) = 48πr − πr³.",
+    "working": "M1 use the surface area to write rh = 48 − r²; M1 V = πr²h = πr(48 − r²); A1 V = 48πr − πr³."
+   },
+   {
+    "label": "b",
+    "text": "Find the radius and height of the can of maximum volume, and this maximum volume in terms of π.",
+    "marks": 4,
+    "answer": "r = 4 cm, h = 8 cm, V = 128π cm³",
+    "working": "dV/dr = 48π − 3πr² = 0 gives r² = 16, so r = 4 (r > 0). d²V/dr² = −6πr < 0 at r = 4, so this is a maximum. h = (48 − 16)/4 = 8. V = π × 16 × 8 = 128π. M1 dV/dr, M1 solve, A1 r = 4 and h = 8, A1 V = 128π."
+   }
+  ],
+  "check": "abs(48*math.pi*4-math.pi*4**3-128*math.pi)<1e-9 and abs(48-3*4**2)<1e-9 and abs(2*math.pi*4**2+2*math.pi*4*8-96*math.pi)<1e-9 and abs(math.pi*4**2*8-128*math.pi)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-037",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A right circular cylinder has radius r cm and height h cm. It is placed inside a right circular cone with base radius 5 cm and height 12 cm, with its base on the base of the cone and its top circle touching the sloping surface of the cone. Its axis lies along the axis of the cone.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that h = 12 − 12r/5.",
+    "marks": 2,
+    "answer": "By similar triangles, (12 − h)/r = 12/5, so h = 12 − 12r/5.",
+    "working": "M1 similar triangles in the cross-section; A1 h = 12 − 12r/5."
+   },
+   {
+    "label": "b",
+    "text": "Show that the volume V cm³ of the cylinder is V = 12π(r² − r³/5).",
+    "marks": 1,
+    "answer": "V = πr²h = πr²(12 − 12r/5) = 12π(r² − r³/5).",
+    "working": "B1 substitute h into V = πr²h."
+   },
+   {
+    "label": "c",
+    "text": "Find the radius and height of the cylinder of maximum volume, and the maximum volume in terms of π.",
+    "marks": 4,
+    "answer": "r = 10/3 cm, h = 4 cm, V = 400π/9 cm³",
+    "working": "dV/dr = 12π(2r − 3r²/5) = 0 gives r = 10/3. d²V/dr² = 12π(2 − 6r/5) = −24π < 0 at r = 10/3, so this is a maximum. h = 12 − 4 = 4. V = π(100/9)(4) = 400π/9. M1 dV/dr, M1 solve, A1 r and h, A1 V."
+   }
+  ],
+  "check": "abs(12*math.pi*((10/3)**2-(10/3)**3/5)-400*math.pi/9)<1e-9 and abs(12-12*(10/3)/5-4)<1e-9 and abs(2-6*(10/3)/5-(-2))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-038",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A bakery in Karachi finds that its monthly profit, P thousand rupees, from making x hundred cakes is P = −2x² + 24x − 40, for 0 ≤ x ≤ 12.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the number of hundreds of cakes that gives the maximum profit, and the maximum profit.",
+    "marks": 3,
+    "answer": "x = 6, maximum profit Rs 32 000",
+    "working": "dP/dx = −4x + 24 = 0 gives x = 6. P = −72 + 144 − 40 = 32, i.e. Rs 32 000. d²P/dx² = −4 < 0, so it is a maximum. M1 dP/dx = 0, A1 x = 6, A1 P = 32."
+   },
+   {
+    "label": "b",
+    "text": "Find the range of values of x for which the profit is at least 22 thousand rupees. Give the limits in exact form.",
+    "marks": 3,
+    "answer": "6 − √5 ≤ x ≤ 6 + √5",
+    "working": "−2x² + 24x − 40 = 22 gives x² − 12x + 31 = 0, so x = 6 ± √5. The profit is at least 22 between these values (about 3.76 ≤ x ≤ 8.24). M1 set P = 22, M1 solve the quadratic, A1 the range."
+   }
+  ],
+  "check": "abs(-2*(6-math.sqrt(5))**2+24*(6-math.sqrt(5))-40-22)<1e-9 and abs(-2*(6+math.sqrt(5))**2+24*(6+math.sqrt(5))-40-22)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-039",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A rectangular field has area 600 m². Its two sides parallel to a road each cost Rs 500 per metre to fence, and its two other sides each cost Rs 300 per metre to fence. The length of the field, parallel to the road, is L metres and its width is W metres.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the total fencing cost, Rs C, is C = 1000L + 360000/L.",
+    "marks": 2,
+    "answer": "LW = 600 gives W = 600/L. C = 2(500L) + 2(300W) = 1000L + 600W = 1000L + 360000/L.",
+    "working": "M1 use LW = 600 to write W = 600/L; A1 C = 1000L + 360000/L."
+   },
+   {
+    "label": "b",
+    "text": "Find the value of L that gives the minimum cost, correct to 2 decimal places.",
+    "marks": 3,
+    "answer": "L = 18.97 m",
+    "working": "dC/dL = 1000 − 360000/L² = 0 gives L² = 360, so L = √360 = 6√10 ≈ 18.97 (positive root). d²C/dL² = 720000/L³ > 0, so this is a minimum. M1 dC/dL, M1 solve, A1 18.97."
+   },
+   {
+    "label": "c",
+    "text": "Find the minimum cost, to the nearest rupee.",
+    "marks": 2,
+    "answer": "Rs 37 947",
+    "working": "C = 1000√360 + 360000/√360 = 2000√360 = 12000√10 ≈ 37 947. M1 substitute L = √360, A1 Rs 37 947."
+   }
+  ],
+  "check": "abs(math.sqrt(360)-18.97)<0.005 and abs(1000-360000/360)<1e-9 and abs(12000*math.sqrt(10)-37947)<1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-040",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "Two numbers x and y satisfy x + 2y = 12, where x > 0 and y > 0. Let P = xy.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that P = 6x − x²/2.",
+    "marks": 2,
+    "answer": "y = (12 − x)/2, so P = x(12 − x)/2 = 6x − x²/2.",
+    "working": "M1 make y the subject; A1 P = 6x − x²/2."
+   },
+   {
+    "label": "b",
+    "text": "Find the maximum value of P and the values of x and y at which it occurs.",
+    "marks": 3,
+    "answer": "P = 18 when x = 6 and y = 3",
+    "working": "dP/dx = 6 − x = 0 gives x = 6, so y = 3 and P = 18. d²P/dx² = −1 < 0, so this is a maximum. M1 dP/dx = 0, A1 x = 6 and y = 3, A1 P = 18."
+   }
+  ],
+  "check": "6*6-36/2==18 and 6-6==0 and (12-6)/2==3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-041",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "An open tank has a square base of side x cm and height h cm. Its volume is 500 cm³.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the total surface area of the open tank is A = x² + 2000/x (in cm²).",
+    "marks": 3,
+    "answer": "h = 500/x², so A = x² + 4xh = x² + 4x(500/x²) = x² + 2000/x.",
+    "working": "M1 use the volume to write h = 500/x²; M1 area = base + four sides = x² + 4xh; A1 A = x² + 2000/x."
+   },
+   {
+    "label": "b",
+    "text": "Find the value of x that gives the minimum surface area, and the minimum area.",
+    "marks": 4,
+    "answer": "x = 10 cm, minimum area 300 cm²",
+    "working": "dA/dx = 2x − 2000/x² = 0 gives x³ = 1000, so x = 10. A = 100 + 200 = 300. d²A/dx² = 2 + 4000/x³ > 0, so it is a minimum (h = 5 cm). M1 dA/dx, M1 solve, A1 x = 10, A1 A = 300."
+   }
+  ],
+  "check": "abs(10**2+2000/10-300)<1e-9 and abs(2*10-2000/10**2)<1e-9 and abs(500/10**2-5)<1e-9 and abs(10*10*5-500)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-042",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A driver makes a 240 km journey at a constant speed of v km/h, where 40 ≤ v ≤ 120. The total cost of the journey, Rs C, is modelled by C = 0.2v + 2400/v.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the speed that minimises the cost, giving the exact value and its value correct to 2 decimal places, and find the minimum cost correct to 2 decimal places.",
+    "marks": 4,
+    "answer": "v = √12000 = 20√30 ≈ 109.54 km/h; minimum cost Rs 43.82",
+    "working": "dC/dv = 0.2 − 2400/v² = 0 gives v² = 12000, so v = √12000 ≈ 109.54 (within the range). C = 0.2(109.54) + 2400/109.54 ≈ 43.82. M1 dC/dv, M1 solve, A1 v, A1 cost."
+   },
+   {
+    "label": "b",
+    "text": "Show that this speed gives a minimum rather than a maximum.",
+    "marks": 1,
+    "answer": "d²C/dv² = 4800/v³ > 0 for v > 0, so the stationary point is a minimum.",
+    "working": "A1 second derivative 4800/v³ is positive, so it is a minimum."
+   }
+  ],
+  "check": "abs(math.sqrt(12000)-109.54)<0.01 and abs(0.2*math.sqrt(12000)+2400/math.sqrt(12000)-43.82)<0.005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-043",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A right circular cone has its vertex at the lowest point of a sphere of radius 6 cm. The cone lies inside the sphere, with its base a horizontal circle on the surface of the sphere. The cone has height h cm and base radius r cm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that r² = 12h − h².",
+    "marks": 2,
+    "answer": "The centre of the sphere is 6 cm above the lowest point. Pythagoras in the cross-section gives r² + (6 − h)² = 36, so r² = 36 − (36 − 12h + h²) = 12h − h².",
+    "working": "M1 Pythagoras with (6 − h); A1 expand to r² = 12h − h²."
+   },
+   {
+    "label": "b",
+    "text": "Show that the volume of the cone is V = (π/3)(12h² − h³).",
+    "marks": 1,
+    "answer": "V = (1/3)πr²h = (π/3)(12h − h²)h = (π/3)(12h² − h³).",
+    "working": "B1 substitute r² into V = (1/3)πr²h."
+   },
+   {
+    "label": "c",
+    "text": "Find the height that gives the maximum volume, and the maximum volume in terms of π.",
+    "marks": 4,
+    "answer": "h = 8 cm; V = 256π/3 cm³",
+    "working": "dV/dh = (π/3)(24h − 3h²) = πh(8 − h) = 0 gives h = 8 (h = 0 gives V = 0). d²V/dh² = π(8 − 2h) = −8π < 0 at h = 8, so it is a maximum. V = (π/3)(768 − 512) = 256π/3. M1 dV/dh, M1 solve, A1 h = 8, A1 V."
+   }
+  ],
+  "check": "(math.pi/3)*(12*64-512)==256*math.pi/3 and 8*(8-8)==0 and 8*(12-8)==32",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-044",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A point P(x, x²) lies on the curve y = x². Let D be the square of the distance from P to the point A(0, 3).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that D = x⁴ − 5x² + 9.",
+    "marks": 2,
+    "answer": "D = (x − 0)² + (x² − 3)² = x² + x⁴ − 6x² + 9 = x⁴ − 5x² + 9.",
+    "working": "M1 use the distance formula for squared distance; A1 expand to x⁴ − 5x² + 9."
+   },
+   {
+    "label": "b",
+    "text": "Find the least distance AP and the coordinates of P at which it occurs. Give exact answers.",
+    "marks": 5,
+    "answer": "Least distance √11/2; P at (±√10/2, 5/2)",
+    "working": "dD/dx = 4x³ − 10x = 2x(2x² − 5) = 0 gives x = 0 or x² = 5/2. At x = 0, D = 9 and d²D/dx² = −10 < 0, so this is a local maximum. At x² = 5/2, D = 25/4 − 25/2 + 9 = 11/4 and d²D/dx² = 12x² − 10 = 20 > 0, so it is a minimum. So AP = √(11/4) = √11/2 and P = (±√(5/2), 5/2) = (±√10/2, 5/2). M1 dD/dx, M1 solve, M1 test the stationary points, A1 D = 11/4, A1 coordinates of P."
+   }
+  ],
+  "check": "abs(2.5**2-5*2.5+9-2.75)<1e-9 and abs(4*math.sqrt(2.5)**3-10*math.sqrt(2.5))<1e-9 and abs(math.sqrt(2.75)-math.sqrt(11)/2)<1e-9 and abs(math.sqrt(2.5)-math.sqrt(10)/2)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-045",
+  "topic": "Differentiation",
+  "subtopic": "Practical maxima and minima",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A ball is thrown vertically upwards. Its height above the ground, h metres, t seconds after it is thrown, is given by h = 24t − 4t², for t ≥ 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the maximum height reached by the ball and the time at which this occurs.",
+    "marks": 3,
+    "answer": "36 m, after 3 s",
+    "working": "dh/dt = 24 − 8t = 0 gives t = 3. h = 72 − 36 = 36. d²h/dt² = −8 < 0, so this is a maximum. M1 dh/dt = 0, A1 t = 3, A1 h = 36."
+   },
+   {
+    "label": "b",
+    "text": "Find the time at which the ball hits the ground again.",
+    "marks": 2,
+    "answer": "6 s",
+    "working": "h = 0 gives 4t(6 − t) = 0, so t = 6 (t = 0 is the throw). M1 set h = 0, A1 t = 6."
+   },
+   {
+    "label": "c",
+    "text": "Find the velocity of the ball when it hits the ground.",
+    "marks": 2,
+    "answer": "24 m/s downwards",
+    "working": "dh/dt = 24 − 8t = 24 − 48 = −24 at t = 6, so the velocity is 24 m/s downwards. M1 substitute t = 6, A1 24 m/s downwards."
+   }
+  ],
+  "check": "24-8*3==0 and 24*3-4*9==36 and 24*6-4*36==0 and 24-8*6==-24",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-046",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that (x + 1) is a factor of x³ + 2x² − 5x − 6.",
+    "marks": 2,
+    "answer": "Substituting x = −1: −1 + 2 + 5 − 6 = 0, so (x + 1) is a factor.",
+    "working": "M1 substitute x = −1; A1 result is 0, so (x + 1) is a factor."
+   },
+   {
+    "label": "b",
+    "text": "Factorise x³ + 2x² − 5x − 6 completely, and hence solve x³ + 2x² − 5x − 6 = 0.",
+    "marks": 3,
+    "answer": "(x + 1)(x + 3)(x − 2) = 0, so x = −3, −1 or 2",
+    "working": "x³ + 2x² − 5x − 6 = (x + 1)(x² + x − 6) = (x + 1)(x + 3)(x − 2). M1 divide by (x + 1), A1 quadratic x² + x − 6, A1 roots −3, −1, 2."
+   }
+  ],
+  "check": "(-1)**3+2*(-1)**2-5*(-1)-6==0 and (-3)**3+2*(-3)**2-5*(-3)-6==0 and 2**3+2*2**2-5*2-6==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-047",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve x³ − 7x + 6 = 0 without using a calculator, giving exact roots.",
+    "marks": 4,
+    "answer": "x = 1, x = 2 or x = −3",
+    "working": "x = 1 is a root (1 − 7 + 6 = 0), so (x − 1) is a factor: x³ − 7x + 6 = (x − 1)(x² + x − 6) = (x − 1)(x − 2)(x + 3). M1 find a root by trial, M1 divide, A1 quadratic factor, A1 all three roots."
+   }
+  ],
+  "check": "1-7+6==0 and 2**3-7*2+6==0 and (-3)**3-7*(-3)+6==0 and (0-1)*(0-2)*(0+3)==6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-048",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "The equation x³ − 2x − 5 = 0 has exactly one real root. Let f(x) = x³ − 2x − 5.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the root lies between x = 2 and x = 3.",
+    "marks": 2,
+    "answer": "f(2) = 8 − 4 − 5 = −1 < 0 and f(3) = 27 − 6 − 5 = 16 > 0. f is continuous and changes sign, so there is a root between 2 and 3.",
+    "working": "M1 evaluate f(2) and f(3) with opposite signs; A1 change of sign, so a root lies between them."
+   },
+   {
+    "label": "b",
+    "text": "Use a change of sign method to find the root correct to 2 decimal places.",
+    "marks": 3,
+    "answer": "2.09",
+    "working": "f(2.085) ≈ −0.106 < 0 and f(2.095) ≈ 0.005 > 0. The root lies between 2.085 and 2.095, so to 2 d.p. it is 2.09. M1 evaluate at 2.085 and 2.095, M1 signs, A1 2.09."
+   }
+  ],
+  "check": "2.085**3-2*2.085-5<0 and 2.095**3-2*2.095-5>0 and round(2.0946,2)==2.09",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-049",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that 2x³ − x² − 2x + 1 = (2x − 1)(x − 1)(x + 1).",
+    "marks": 2,
+    "answer": "(2x − 1)(x² − 1) = 2x³ − 2x − x² + 1 = 2x³ − x² − 2x + 1.",
+    "working": "M1 factorise as (2x − 1)(x² − 1); A1 expansion matches."
+   },
+   {
+    "label": "b",
+    "text": "Hence solve 2x³ − x² − 2x + 1 = 0.",
+    "marks": 2,
+    "answer": "x = ½, x = 1 or x = −1",
+    "working": "Each factor set to zero gives x = ½, 1 or −1. M1 use the factorisation, A1 all three roots."
+   }
+  ],
+  "check": "2*0.5**3-0.5**2-2*0.5+1==0 and 2*(-1)**3-(-1)**2-2*(-1)+1==0 and 2*1-1-2+1==0 and (2*(-1)-1)*((-1)-1)*((-1)+1)==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-050",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that x = 3 is a root of 2x³ − 9x² + 7x + 6 = 0, and factorise 2x³ − 9x² + 7x + 6 completely.",
+    "marks": 3,
+    "answer": "2(27) − 9(9) + 7(3) + 6 = 0, so x = 3 is a root. 2x³ − 9x² + 7x + 6 = (x − 3)(2x² − 3x − 2) = (x − 3)(2x + 1)(x − 2).",
+    "working": "M1 substitute x = 3 to get 0; M1 divide to obtain 2x² − 3x − 2; A1 (x − 3)(2x + 1)(x − 2)."
+   },
+   {
+    "label": "b",
+    "text": "Solve 2x³ − 9x² + 7x + 6 = 0, giving exact roots.",
+    "marks": 2,
+    "answer": "x = 3, x = 2 or x = −½",
+    "working": "The factors give x = 3, 2 and −½. M1 use the factorisation, A1 all three roots."
+   }
+  ],
+  "check": "2*27-9*9+7*3+6==0 and (0-3)*(2*0+1)*(0-2)==6 and (1-3)*(2*1+1)*(1-2)==6 and (2*(-0.5)+1)==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-051",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that x = 2 is a repeated root of 2x³ − 7x² + 4x + 4 = 0.",
+    "marks": 3,
+    "answer": "Substituting x = 2: 16 − 28 + 8 + 4 = 0. Dividing by (x − 2) gives 2x³ − 7x² + 4x + 4 = (x − 2)(2x² − 3x − 2) = (x − 2)²(2x + 1), so x = 2 is a repeated root.",
+    "working": "M1 substitute x = 2 to get 0; M1 divide to get (x − 2)(2x² − 3x − 2); A1 2x² − 3x − 2 = (x − 2)(2x + 1), so (x − 2) appears twice."
+   },
+   {
+    "label": "b",
+    "text": "Solve 2x³ − 7x² + 4x + 4 = 0 completely.",
+    "marks": 2,
+    "answer": "x = 2 (repeated) or x = −½",
+    "working": "(x − 2)²(2x + 1) = 0 gives x = 2 or x = −½. M1 set each factor to zero, A1 both values."
+   }
+  ],
+  "check": "2*8-7*4+4*2+4==0 and (0-2)**2*(2*0+1)==4 and (1-2)**2*(2*1+1)==3 and 2*(-0.5)+1==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-052",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Factorise x³ + 3x² − 16x − 48 by grouping.",
+    "marks": 3,
+    "answer": "x²(x + 3) − 16(x + 3) = (x + 3)(x² − 16) = (x + 3)(x − 4)(x + 4).",
+    "working": "M1 group as x²(x + 3) − 16(x + 3); M1 take out (x + 3); A1 (x + 3)(x − 4)(x + 4)."
+   },
+   {
+    "label": "b",
+    "text": "Hence solve x³ + 3x² − 16x − 48 = 0.",
+    "marks": 2,
+    "answer": "x = −4, −3 or 4",
+    "working": "Each factor gives a root: x = −4, −3 or 4. M1 use the factors, A1 all three roots."
+   }
+  ],
+  "check": "(-3)**3+3*9-16*(-3)-48==0 and 4**3+3*16-64-48==0 and (-4)**3+3*16+64-48==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-053",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A rectangular box has a height of x cm, a length of (x + 2) cm and a width of (x + 3) cm. Its volume is 120 cm³.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that x³ + 5x² + 6x − 120 = 0.",
+    "marks": 1,
+    "answer": "x(x + 2)(x + 3) = x(x² + 5x + 6) = x³ + 5x² + 6x = 120.",
+    "working": "B1 expand x(x + 2)(x + 3) and set equal to 120."
+   },
+   {
+    "label": "b",
+    "text": "Show that the equation in part (a) has a root between x = 3.4 and x = 3.45.",
+    "marks": 2,
+    "answer": "f(3.4) = 39.304 + 57.8 + 20.4 − 120 = −2.496 < 0 and f(3.45) = 41.063625 + 59.5125 + 20.7 − 120 = 1.276 > 0. The sign changes, so there is a root between 3.4 and 3.45.",
+    "working": "M1 evaluate f(3.4) and f(3.45); A1 opposite signs, so a root lies between them."
+   },
+   {
+    "label": "c",
+    "text": "Find the dimensions of the box, correct to 2 decimal places.",
+    "marks": 2,
+    "answer": "Height 3.43 cm, length 5.43 cm, width 6.43 cm",
+    "working": "The positive root is x ≈ 3.4332, so the height is 3.43 cm. Length 3.4332 + 2 = 5.43 cm and width 3.4332 + 3 = 6.43 cm (2 d.p.). M1 root, A1 all three dimensions."
+   }
+  ],
+  "check": "abs(3.4332**3+5*3.4332**2+6*3.4332-120)<0.01 and (3.4**3+5*3.4**2+6*3.4-120)<0 and (3.45**3+5*3.45**2+6*3.45-120)>0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-054",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "The cubic x³ + kx² + 5x + 6 = 0 has x = −2 as a root, where k is a constant.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 2,
+    "answer": "k = 3",
+    "working": "Substituting x = −2: −8 + 4k − 10 + 6 = 0, so 4k = 12 and k = 3. M1 substitute, A1 k = 3."
+   },
+   {
+    "label": "b",
+    "text": "Factorise the cubic fully using this value of k, and show that x = −2 is the only real root.",
+    "marks": 3,
+    "answer": "x³ + 3x² + 5x + 6 = (x + 2)(x² + x + 3). The quadratic has discriminant 1 − 12 = −11 < 0, so it has no real roots and x = −2 is the only real root.",
+    "working": "M1 divide by (x + 2); A1 quadratic x² + x + 3; A1 discriminant negative, so no other real roots."
+   }
+  ],
+  "check": "-8+4*3-10+6==0 and 1-4*3==-11 and (0+2)*(0**2+0+3)==6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-055",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Let f(x) = 6x³ − 11x² − 3x + 2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that f(x) = (x − 2)(3x − 1)(2x + 1).",
+    "marks": 3,
+    "answer": "(3x − 1)(2x + 1) = 6x² + x − 1, and (x − 2)(6x² + x − 1) = 6x³ + x² − x − 12x² − 2x + 2 = 6x³ − 11x² − 3x + 2.",
+    "working": "M1 expand (3x − 1)(2x + 1) to 6x² + x − 1; M1 multiply by (x − 2); A1 result matches f(x)."
+   },
+   {
+    "label": "b",
+    "text": "Hence solve f(x) = 0.",
+    "marks": 2,
+    "answer": "x = 2, x = ⅓ or x = −½",
+    "working": "Each linear factor gives a root. M1 use the factorisation, A1 all three roots."
+   },
+   {
+    "label": "c",
+    "text": "Hence solve 6e^(3y) − 11e^(2y) − 3e^y + 2 = 0, giving your answers in exact form.",
+    "marks": 3,
+    "answer": "y = ln 2 or y = −ln 3",
+    "working": "Let u = eʸ, so the equation becomes f(u) = 0 with u > 0. u = 2 gives y = ln 2; u = ⅓ gives y = −ln 3; u = −½ is rejected since eʸ > 0. M1 substitute u = eʸ, M1 use the roots, A1 both exact values with rejection of u = −½."
+   }
+  ],
+  "check": "6*8-11*4-6+2==0 and abs(6*(1/27)-11*(1/9)-1+2)<1e-9 and abs(6*(-1/8)-11/4+3/2+2)<1e-9 and (2-2)*(3*2-1)*(2*2+1)==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-056",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The cubic p(x) = x³ + px + q has a repeated root at x = 2, where p and q are constants.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the values of p and q.",
+    "marks": 4,
+    "answer": "p = −12 and q = 16",
+    "working": "p(2) = 0 gives 8 + 2p + q = 0. A repeated root also makes p′(2) = 0, so 3(2)² + p = 0, giving p = −12. Then 8 − 24 + q = 0 gives q = 16. M1 p(2) = 0, M1 p′(2) = 0, A1 p = −12, A1 q = 16."
+   },
+   {
+    "label": "b",
+    "text": "Factorise x³ + px + q fully using these values, and state all the roots.",
+    "marks": 3,
+    "answer": "x³ − 12x + 16 = (x − 2)²(x + 4); roots x = 2 (repeated) and x = −4",
+    "working": "Check: (x − 2)²(x + 4) = (x² − 4x + 4)(x + 4) = x³ − 12x + 16. M1 start from (x − 2)², M1 multiply by a linear factor, A1 roots 2 (repeated) and −4."
+   }
+  ],
+  "check": "8+2*(-12)+16==0 and 3*4-12==0 and (0-2)**2*(0+4)==16 and (1-2)**2*(1+4)==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-057",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Let f(x) = x³ − 6x + k, where k is a constant.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that f has stationary points where x = √2 and x = −√2, and find f(√2) and f(−√2) in terms of k.",
+    "marks": 4,
+    "answer": "f′(x) = 3x² − 6 = 0 gives x = ±√2. f(√2) = 2√2 − 6√2 + k = k − 4√2; f(−√2) = −2√2 + 6√2 + k = k + 4√2.",
+    "working": "M1 differentiate; M1 solve x² = 2; M1 substitute x = √2; A1 both values k − 4√2 and k + 4√2."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact values of k for which the equation f(x) = 0 has exactly two distinct real roots.",
+    "marks": 3,
+    "answer": "k = 4√2 or k = −4√2",
+    "working": "The curve touches the x-axis at a turning point exactly when one turning value is zero, giving exactly two distinct roots. So k − 4√2 = 0 or k + 4√2 = 0. M1 reason about turning values, A1 k = 4√2, A1 k = −4√2."
+   }
+  ],
+  "check": "abs(3*2-6)<1e-9 and abs(math.sqrt(2)**3-6*math.sqrt(2)+4*math.sqrt(2))<1e-9 and abs((-math.sqrt(2))**3+6*math.sqrt(2)-4*math.sqrt(2))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-058",
+  "topic": "Factors of polynomials",
+  "subtopic": "Solving cubic equations",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The equation x³ − 3x − 1 = 0 has a root close to 1.9. Let f(x) = x³ − 3x − 1.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the equation has a root between x = 1.87 and x = 1.88.",
+    "marks": 3,
+    "answer": "f(1.87) = 6.539203 − 5.61 − 1 = −0.0708 < 0 and f(1.88) = 6.644672 − 5.64 − 1 = 0.0047 > 0. The sign changes, so there is a root between 1.87 and 1.88.",
+    "working": "M1 evaluate f(1.87); M1 evaluate f(1.88); A1 opposite signs, so a root lies between them."
+   },
+   {
+    "label": "b",
+    "text": "By evaluating f(1.875) and f(1.885), show that this root is 1.88 correct to 2 decimal places.",
+    "marks": 3,
+    "answer": "f(1.875) = −0.0332 < 0 and f(1.885) = 0.0428 > 0. The root lies between 1.875 and 1.885, which rounds to 1.88 (2 d.p.).",
+    "working": "M1 evaluate f(1.875) and f(1.885); A1 signs show a root in (1.875, 1.885); A1 2 d.p. value 1.88."
+   }
+  ],
+  "check": "abs(1.87**3-3*1.87-1+0.0708)<0.001 and abs(1.88**3-3*1.88-1-0.0047)<0.001 and 1.875**3-3*1.875-1<0 and 1.885**3-3*1.885-1>0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-059",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the remainder when x³ − 4x² + 2x + 5 is divided by (x − 3).",
+    "marks": 2,
+    "answer": "The remainder is f(3) = 27 − 36 + 6 + 5 = 2.",
+    "working": "M1 use the remainder theorem with x = 3; A1 remainder 2."
+   }
+  ],
+  "check": "27-36+6+5==2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-060",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the remainder when 3x³ + x² − 2x + 4 is divided by (x + 1).",
+    "marks": 2,
+    "answer": "The remainder is f(−1) = −3 + 1 + 2 + 4 = 4.",
+    "working": "M1 substitute x = −1; A1 remainder 4."
+   }
+  ],
+  "check": "3*(-1)**3+(-1)**2-2*(-1)+4==4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-061",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that (x + 2) is a factor of 2x³ + 5x² − x − 6.",
+    "marks": 2,
+    "answer": "Substituting x = −2: 2(−8) + 5(4) + 2 − 6 = −16 + 20 + 2 − 6 = 0, so (x + 2) is a factor.",
+    "working": "M1 substitute x = −2; A1 result 0."
+   },
+   {
+    "label": "b",
+    "text": "Factorise 2x³ + 5x² − x − 6 completely.",
+    "marks": 3,
+    "answer": "(x + 2)(2x + 3)(x − 1)",
+    "working": "Divide by (x + 2) to get 2x² + x − 3 = (2x + 3)(x − 1). M1 divide, A1 quadratic factor, A1 full factorisation."
+   }
+  ],
+  "check": "2*(-2)**3+5*(-2)**2-(-2)-6==0 and (0+2)*(2*0+3)*(0-1)==-6 and (2*1+3)*(1-1)*(1+2)==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-062",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the remainder when 4x³ − 5x + 9 is divided by (2x − 3).",
+    "marks": 3,
+    "answer": "The remainder is f(3/2) = 4(27/8) − 5(3/2) + 9 = 13.5 − 7.5 + 9 = 15.",
+    "working": "M1 write the root of 2x − 3 as x = 3/2; M1 substitute; A1 remainder 15."
+   }
+  ],
+  "check": "abs(4*1.5**3-5*1.5+9-15)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-063",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The polynomial p(x) = x³ + kx² − 6, where k is a constant, leaves a remainder of 10 when divided by (x − 2). Find the value of k.",
+    "marks": 3,
+    "answer": "p(2) = 8 + 4k − 6 = 2 + 4k = 10, so k = 2.",
+    "working": "M1 use the remainder theorem with x = 2; M1 solve 2 + 4k = 10; A1 k = 2."
+   }
+  ],
+  "check": "2**3+2*2**2-6==10",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-064",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that (x − 5) is a factor of p(x) = x³ − 7x² + 11x − 5.",
+    "marks": 2,
+    "answer": "p(5) = 125 − 175 + 55 − 5 = 0, so (x − 5) is a factor.",
+    "working": "M1 substitute x = 5; A1 result 0."
+   },
+   {
+    "label": "b",
+    "text": "Hence factorise p(x) completely.",
+    "marks": 3,
+    "answer": "p(x) = (x − 5)(x − 1)²",
+    "working": "p(x) = (x − 5)(x² − 2x + 1) = (x − 5)(x − 1)². M1 divide by (x − 5), A1 quadratic x² − 2x + 1, A1 (x − 5)(x − 1)²."
+   }
+  ],
+  "check": "5**3-7*5**2+11*5-5==0 and (0-5)*(0-1)**2==-5 and (5-5)*(5-1)**2==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-065",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "Let p(x) = 2x⁴ − 3x³ + x − 7.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the remainder when p(x) is divided by (x − 1).",
+    "marks": 2,
+    "answer": "p(1) = 2 − 3 + 1 − 7 = −7, so the remainder is −7.",
+    "working": "M1 substitute x = 1; A1 remainder −7."
+   },
+   {
+    "label": "b",
+    "text": "Find the remainder when p(x) is divided by (x + 2).",
+    "marks": 2,
+    "answer": "p(−2) = 32 + 24 − 2 − 7 = 47, so the remainder is 47.",
+    "working": "M1 substitute x = −2; A1 remainder 47."
+   }
+  ],
+  "check": "2-3+1-7==-7 and 2*16-3*(-8)+(-2)-7==47",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-066",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "The cubic f(x) = x³ + ax² + bx − 10 has factors (x − 2) and (x + 5), where a and b are constants.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the values of a and b.",
+    "marks": 4,
+    "answer": "a = 4, b = −7",
+    "working": "f(2) = 8 + 4a + 2b − 10 = 0 gives 4a + 2b = 2, so 2a + b = 1. f(−5) = −125 + 25a − 5b − 10 = 0 gives 5a − b = 27. Adding: 7a = 28, so a = 4 and b = −7. M1 use f(2) = 0, M1 use f(−5) = 0, A1 a = 4, A1 b = −7."
+   },
+   {
+    "label": "b",
+    "text": "Find the third linear factor of f(x).",
+    "marks": 2,
+    "answer": "(x + 1)",
+    "working": "f(x) = (x − 2)(x + 5)(x + c). The constant term gives (−2)(5)(c) = −10, so c = 1. Check: x³ + 4x² − 7x − 10 = (x − 2)(x + 5)(x + 1). M1 use the constant term, A1 (x + 1)."
+   }
+  ],
+  "check": "8+4*4+2*(-7)-10==0 and -125+25*4-5*(-7)-10==0 and (-2)*5*1==-10",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-067",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "p(x) = 2x³ + mx² − 5x + n, where m and n are constants. When p(x) is divided by (x − 2) the remainder is 12, and when p(x) is divided by (x + 1) the remainder is 3.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the values of m and n.",
+    "marks": 4,
+    "answer": "m = 2, n = −2",
+    "working": "p(2) = 16 + 4m − 10 + n = 12, so 4m + n = 6. p(−1) = −2 + m + 5 + n = 3, so m + n = 0. Subtracting gives 3m = 6, so m = 2 and n = −2. M1 use p(2) = 12, M1 use p(−1) = 3, A1 m = 2, A1 n = −2."
+   },
+   {
+    "label": "b",
+    "text": "Show that (x + 2) is a factor of p(x), and find the exact roots of p(x) = 0.",
+    "marks": 3,
+    "answer": "p(x) = 2x³ + 2x² − 5x − 2 and p(−2) = −16 + 8 + 10 − 2 = 0, so (x + 2) is a factor. p(x) = (x + 2)(2x² − 2x − 1), and 2x² − 2x − 1 = 0 gives x = (1 ± √3)/2. The roots are −2, (1 + √3)/2 and (1 − √3)/2.",
+    "working": "M1 show p(−2) = 0; M1 divide to get 2x² − 2x − 1; A1 roots −2 and (1 ± √3)/2."
+   }
+  ],
+  "check": "2*2**3+2*2**2-5*2-2==12 and 2*(-1)**3+2*(-1)**2-5*(-1)-2==3 and 2*(-2)**3+2*(-2)**2+10-2==0 and abs(2*((1+math.sqrt(3))/2)**2-2*(1+math.sqrt(3))/2-1)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-068",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A cuboid has volume V = x³ + 2x² − 11x − 12 cm³, where x > 3. The cuboid has length, width and height that are each linear expressions in x.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that (x − 3) is a factor of V.",
+    "marks": 2,
+    "answer": "V(3) = 27 + 18 − 33 − 12 = 0, so (x − 3) is a factor.",
+    "working": "M1 substitute x = 3; A1 result 0."
+   },
+   {
+    "label": "b",
+    "text": "Factorise V completely and write down the three dimensions of the cuboid in terms of x.",
+    "marks": 3,
+    "answer": "V = (x − 3)(x + 1)(x + 4). The dimensions are (x − 3) cm, (x + 1) cm and (x + 4) cm.",
+    "working": "M1 divide by (x − 3) to get x² + 5x + 4; A1 (x + 1)(x + 4); A1 dimensions (x − 3), (x + 1), (x + 4) cm."
+   },
+   {
+    "label": "c",
+    "text": "The shortest side of the cuboid is 2 cm. Find x and the volume of the cuboid.",
+    "marks": 2,
+    "answer": "x = 5; the dimensions are 2 cm, 6 cm and 9 cm, so the volume is 108 cm³",
+    "working": "Since x > 3, the shortest side is x − 3, so x − 3 = 2 and x = 5. Dimensions 2, 6, 9; volume 108 cm³. M1 x = 5, A1 volume 108."
+   }
+  ],
+  "check": "125+2*25-55-12==108 and (5-3)*(5+1)*(5+4)==108 and 27+18-33-12==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-069",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "The polynomial 2x³ + kx² + 3x − 4, where k is a constant, is exactly divisible by (2x − 1).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of k.",
+    "marks": 3,
+    "answer": "k = 9",
+    "working": "The remainder is zero when x = ½: 2(½)³ + k(¼) + 3(½) − 4 = 0, so ¼ + k/4 − 5/2 = 0, which gives k/4 = 9/4 and k = 9. M1 use x = ½, M1 form the equation, A1 k = 9."
+   },
+   {
+    "label": "b",
+    "text": "Hence factorise the polynomial completely.",
+    "marks": 2,
+    "answer": "(2x − 1)(x + 1)(x + 4)",
+    "working": "2x³ + 9x² + 3x − 4 = (2x − 1)(x² + 5x + 4) = (2x − 1)(x + 1)(x + 4). M1 divide by (2x − 1), A1 full factorisation."
+   }
+  ],
+  "check": "2*0.5**3+9*0.25+3*0.5-4==0 and (2*0.5-1)*(0.5+1)*(0.5+4)==0 and 2*(-1)**3+9*1-3-4==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-070",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "The cubic f(x) = x³ + ax² + bx + c satisfies f(1) = 0, f(−1) = 0 and f(2) = 12.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the values of a, b and c.",
+    "marks": 3,
+    "answer": "a = 2, b = −1, c = −2",
+    "working": "f(1) = 0 gives 1 + a + b + c = 0. f(−1) = 0 gives −1 + a − b + c = 0. Subtracting: 2 + 2b = 0, so b = −1, and then a + c = 0. f(2) = 12 gives 8 + 4a − 2 + c = 12, so 4a + c = 6; with c = −a, 3a = 6, a = 2 and c = −2. M1 use f(1) and f(−1), M1 use f(2), A1 values."
+   },
+   {
+    "label": "b",
+    "text": "Factorise f(x) completely.",
+    "marks": 2,
+    "answer": "f(x) = (x − 1)(x + 1)(x + 2)",
+    "working": "The roots are 1, −1 and −2, so f(x) = (x − 1)(x + 1)(x + 2). M1 use the roots, A1 factorisation."
+   }
+  ],
+  "check": "1+2*1-1-2==0 and -1+2*1+1-2==0 and 8+2*4-2-2==12 and (1-1)*(1+1)*(1+2)==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-071",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "The cubic p(x) = x³ + ax² + bx − 6 has (x − 1) as a factor. The remainder when p(x) is divided by (x + 2) is −18.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the values of a and b.",
+    "marks": 4,
+    "answer": "a = 1, b = 4",
+    "working": "p(1) = 0 gives 1 + a + b − 6 = 0, so a + b = 5. p(−2) = −8 + 4a − 2b − 6 = −18 gives 4a − 2b = −4, so 2a − b = −2. Adding: 3a = 3, so a = 1 and b = 4. M1 use p(1) = 0, M1 use p(−2) = −18, A1 a = 1, A1 b = 4."
+   },
+   {
+    "label": "b",
+    "text": "Show that the quadratic factor of p(x) has no real roots.",
+    "marks": 2,
+    "answer": "p(x) = (x − 1)(x² + 2x + 6). The discriminant of x² + 2x + 6 is 4 − 24 = −20 < 0, so it has no real roots.",
+    "working": "M1 divide to find the quadratic x² + 2x + 6; A1 discriminant negative."
+   }
+  ],
+  "check": "1+1+4-6==0 and -8+4*1-2*4-6==-18 and 2**2-4*6<0 and (1-1)*(1+1+6)==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-072",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The polynomial p(x) = x³ + ax + b has (x − 1) as a factor, and the remainder when p(x) is divided by (x + 3) is 8, where a and b are constants.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the values of a and b.",
+    "marks": 4,
+    "answer": "a = −9, b = 8",
+    "working": "p(1) = 0 gives 1 + a + b = 0. p(−3) = −27 − 3a + b = 8. Substituting b = −1 − a gives −27 − 3a − 1 − a = 8, so −4a = 36 and a = −9, b = 8. M1 use p(1) = 0, M1 use p(−3) = 8, A1 a = −9, A1 b = 8."
+   },
+   {
+    "label": "b",
+    "text": "Factorise p(x) fully and give the exact roots of p(x) = 0.",
+    "marks": 3,
+    "answer": "p(x) = (x − 1)(x² + x − 8). The roots are x = 1, x = (−1 + √33)/2 and x = (−1 − √33)/2.",
+    "working": "M1 divide p(x) by (x − 1) to get x² + x − 8; M1 use the quadratic formula; A1 the three exact roots."
+   }
+  ],
+  "check": "1-9+8==0 and -27+27+8==8 and abs((-1+math.sqrt(33))**2/4+(-1+math.sqrt(33))/2-8)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-073",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "The polynomial f(x) = 2x³ + px² + qx − 4, where p and q are constants. When f(x) is divided by (x − 1) the remainder is 6, and when f(x) is divided by (x + 2) the remainder is −30.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the values of p and q.",
+    "marks": 4,
+    "answer": "p = 1, q = 7",
+    "working": "f(1) = 2 + p + q − 4 = 6, so p + q = 8. f(−2) = −16 + 4p − 2q − 4 = −30, so 4p − 2q = −10, i.e. 2p − q = −5. Adding: 3p = 3, so p = 1 and q = 7. M1 use f(1) = 6, M1 use f(−2) = −30, A1 p = 1, A1 q = 7."
+   },
+   {
+    "label": "b",
+    "text": "Show that (2x − 1) is a factor of f(x), find the quadratic factor, and show that the quadratic has no real roots.",
+    "marks": 4,
+    "answer": "f(½) = 0, so (2x − 1) is a factor. f(x) = (2x − 1)(x² + x + 4). The discriminant of x² + x + 4 is 1 − 16 = −15 < 0, so ½ is the only real root of f(x) = 0.",
+    "working": "M1 use f(½) = 0; M1 divide to get x² + x + 4; A1 discriminant negative; A1 conclusion that ½ is the only real root."
+   }
+  ],
+  "check": "2+1+7-4==6 and 2*(-2)**3+1*(-2)**2+7*(-2)-4==-30 and 2*0.5**3+0.5**2+7*0.5-4==0 and 1-16<0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-074",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Let f(x) = x³ − 2x² + kx − 2k, where k is a constant.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that (x − 2) is a factor of f(x) for all values of k, and factorise f(x) fully.",
+    "marks": 3,
+    "answer": "f(2) = 8 − 8 + 2k − 2k = 0 for every k, so (x − 2) is a factor. f(x) = (x − 2)(x² + k).",
+    "working": "M1 substitute x = 2 and simplify to 0 for all k; M1 divide to get x² + k; A1 f(x) = (x − 2)(x² + k)."
+   },
+   {
+    "label": "b",
+    "text": "Find the set of values of k for which f(x) = 0 has exactly one real root.",
+    "marks": 3,
+    "answer": "k > 0",
+    "working": "For k > 0, x² = −k has no real solutions, so x = 2 is the only real root. For k = 0, x² = 0 gives x = 0 as well, so there are two roots. For k < 0, x² = −k gives two real roots ±√(−k), so there are at least two distinct real roots. So the required set is k > 0. M1 consider x² = −k, A1 k > 0 gives no further roots, A1 reject k = 0 and k < 0."
+   }
+  ],
+  "check": "(1**3-2*1**2+2*1-2*2)==(1-2)*(1**2+2) and (0**3-2*0**2+2*0-2*2)==(0-2)*(0**2+2)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-075",
+  "topic": "Factors of polynomials",
+  "subtopic": "Factor and remainder theorems",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that (x − 1) is a factor of x³ − 3x² + 3x − 1.",
+    "marks": 2,
+    "answer": "1 − 3 + 3 − 1 = 0, so (x − 1) is a factor.",
+    "working": "M1 substitute x = 1; A1 result 0."
+   },
+   {
+    "label": "b",
+    "text": "Factorise x³ − 3x² + 3x − 1 completely, and state the repeated root.",
+    "marks": 2,
+    "answer": "(x − 1)³; the root x = 1 is repeated three times.",
+    "working": "M1 divide to get x² − 2x + 1 = (x − 1)²; A1 (x − 1)³."
+   }
+  ],
+  "check": "1-3+3-1==0 and (0-1)**3==-1 and (1-1)**2==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-076",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Simplify √50 − √18 + √8, giving your answer in the form k√2.",
+    "marks": 3,
+    "answer": "4√2",
+    "working": "√50 = 5√2, √18 = 3√2, √8 = 2√2, so 5√2 − 3√2 + 2√2 = 4√2. M1 simplify two surds, A1 result."
+   }
+  ],
+  "check": "abs(math.sqrt(50)-math.sqrt(18)+math.sqrt(8)-4*math.sqrt(2))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-077",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Expand and simplify (4 − √7)(4 + √7).",
+    "marks": 2,
+    "answer": "16 + 4√7 − 4√7 − 7 = 9",
+    "working": "M1 expand the brackets; A1 9 (the surd terms cancel)."
+   }
+  ],
+  "check": "abs((4-math.sqrt(7))*(4+math.sqrt(7))-9)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-078",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write 1/(√5 + 2) in the form a + b√5, where a and b are integers.",
+    "marks": 3,
+    "answer": "√5 − 2",
+    "working": "Multiply top and bottom by (√5 − 2): (√5 − 2)/(5 − 4) = √5 − 2. M1 multiply by conjugate, M1 denominator 5 − 4 = 1, A1 a = −2, b = 1."
+   }
+  ],
+  "check": "abs(1/(math.sqrt(5)+2)-(math.sqrt(5)-2))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-079",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Expand (√2 + √3)², giving your answer in the form a + b√6.",
+    "marks": 2,
+    "answer": "5 + 2√6",
+    "working": "(√2)² + 2√2√3 + (√3)² = 2 + 2√6 + 3 = 5 + 2√6. M1 expand, A1 5 + 2√6."
+   },
+   {
+    "label": "b",
+    "text": "Hence write 1/(√2 + √3)² in the form c + d√6, where c and d are integers.",
+    "marks": 2,
+    "answer": "5 − 2√6",
+    "working": "1/(5 + 2√6) = (5 − 2√6)/(25 − 24) = 5 − 2√6. M1 multiply by the conjugate 5 − 2√6, A1 c = 5, d = −2."
+   }
+  ],
+  "check": "abs((math.sqrt(2)+math.sqrt(3))**2-(5+2*math.sqrt(6)))<1e-9 and abs(1/(5+2*math.sqrt(6))-(5-2*math.sqrt(6)))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-080",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Express 3√48 − √27 in the form k√3.",
+    "marks": 2,
+    "answer": "9√3",
+    "working": "3√48 = 3 × 4√3 = 12√3 and √27 = 3√3, so 12√3 − 3√3 = 9√3. M1 simplify both surds, A1 9√3."
+   }
+  ],
+  "check": "abs(3*math.sqrt(48)-math.sqrt(27)-9*math.sqrt(3))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-081",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that 4/(√7 − √3) = √7 + √3.",
+    "marks": 2,
+    "answer": "Multiplying top and bottom by (√7 + √3): 4(√7 + √3)/(7 − 3) = √7 + √3.",
+    "working": "M1 multiply by the conjugate √7 + √3; A1 denominator 4 gives √7 + √3."
+   }
+  ],
+  "check": "abs(4/(math.sqrt(7)-math.sqrt(3))-(math.sqrt(7)+math.sqrt(3)))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-082",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Given that (p + q√7)² = 16 + 6√7, where p and q are integers and p > 0, find p and q. Hence write √(16 + 6√7) in the form p + q√7.",
+    "marks": 4,
+    "answer": "p = 3 and q = 1, so √(16 + 6√7) = 3 + √7",
+    "working": "(p + q√7)² = p² + 7q² + 2pq√7, so pq = 3 and p² + 7q² = 16. Trying p = 3, q = 1 gives 9 + 7 = 16. M1 expand and compare coefficients, M1 solve in integers, A1 p = 3, q = 1, A1 √(16 + 6√7) = 3 + √7."
+   }
+  ],
+  "check": "abs((3+math.sqrt(7))**2-(16+6*math.sqrt(7)))<1e-9 and 3*1==3 and 9+7*1==16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-083",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve the equation (2 + √3)x = 5 − √3, giving x in the form a + b√3, where a and b are integers.",
+    "marks": 3,
+    "answer": "x = 13 − 7√3",
+    "working": "x = (5 − √3)/(2 + √3) = (5 − √3)(2 − √3)/(4 − 3) = 10 − 5√3 − 2√3 + 3 = 13 − 7√3. M1 divide by (2 + √3), M1 multiply by (2 − √3), A1 13 − 7√3."
+   }
+  ],
+  "check": "abs((2+math.sqrt(3))*(13-7*math.sqrt(3))-(5-math.sqrt(3)))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-084",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A square has an area of (7 + 4√3) cm².",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the exact side length of the square in the form (a + b√3) cm, where a and b are integers.",
+    "marks": 3,
+    "answer": "(2 + √3) cm, because (2 + √3)² = 4 + 4√3 + 3 = 7 + 4√3.",
+    "working": "M1 side = √(7 + 4√3); M1 try (a + b√3)² and compare; A1 a = 2, b = 1."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact perimeter of the square in the form (c + d√3) cm.",
+    "marks": 2,
+    "answer": "(8 + 4√3) cm",
+    "working": "Perimeter = 4(2 + √3) = 8 + 4√3. M1 multiply by 4, A1 8 + 4√3."
+   }
+  ],
+  "check": "abs((2+math.sqrt(3))**2-(7+4*math.sqrt(3)))<1e-9 and abs(4*(2+math.sqrt(3))-(8+4*math.sqrt(3)))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-085",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve x² − 4√2x + 6 = 0, giving your answers in the form k√2.",
+    "marks": 4,
+    "answer": "x = 3√2 or x = √2",
+    "working": "x = [4√2 ± √(32 − 24)]/2 = [4√2 ± 2√2]/2, so x = 3√2 or x = √2. Check: (3√2)² − 4√2(3√2) + 6 = 18 − 24 + 6 = 0. M1 quadratic formula or factorising, M1 discriminant 8, A1 3√2, A1 √2."
+   }
+  ],
+  "check": "abs((3*math.sqrt(2))**2-4*math.sqrt(2)*3*math.sqrt(2)+6)<1e-9 and abs((math.sqrt(2))**2-4*math.sqrt(2)*math.sqrt(2)+6)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-086",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A rectangle has length (√5 + 2) cm and width (√5 − 2) cm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that the area of the rectangle is 1 cm².",
+    "marks": 2,
+    "answer": "(√5 + 2)(√5 − 2) = 5 − 4 = 1, so the area is 1 cm².",
+    "working": "M1 expand using the difference of two squares; A1 area 1 cm²."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact length of a diagonal of the rectangle, in the form k√2 cm.",
+    "marks": 3,
+    "answer": "3√2 cm",
+    "working": "Diagonal² = (√5 + 2)² + (√5 − 2)² = (9 + 4√5) + (9 − 4√5) = 18, so the diagonal is √18 = 3√2 cm. M1 use Pythagoras; M1 expand both squares; A1 3√2 cm."
+   }
+  ],
+  "check": "abs((math.sqrt(5)+2)*(math.sqrt(5)-2)-1)<1e-9 and abs((math.sqrt(5)+2)**2+(math.sqrt(5)-2)**2-18)<1e-9 and abs(math.sqrt(18)-3*math.sqrt(2))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-087",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that √(2 + √3) = (√6 + √2)/2.",
+    "marks": 2,
+    "answer": "((√6 + √2)/2)² = (6 + 2 + 2√12)/4 = (8 + 4√3)/4 = 2 + √3, so √(2 + √3) = (√6 + √2)/2 (the positive root).",
+    "working": "M1 square (√6 + √2)/2 and expand; A1 get 2 + √3."
+   },
+   {
+    "label": "b",
+    "text": "Hence show that √(2 + √3) + √(2 − √3) can be written as a single surd, and state it.",
+    "marks": 3,
+    "answer": "√(2 − √3) = (√6 − √2)/2, so the sum is (√6 + √2)/2 + (√6 − √2)/2 = √6.",
+    "working": "M1 use the same method to get √(2 − √3) = (√6 − √2)/2; M1 add; A1 √6."
+   }
+  ],
+  "check": "abs(math.sqrt(2+math.sqrt(3))-(math.sqrt(6)+math.sqrt(2))/2)<1e-9 and abs(math.sqrt(2+math.sqrt(3))+math.sqrt(2-math.sqrt(3))-math.sqrt(6))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-088",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Let x = 2 + √3 and y = 2 − √3.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the exact values of x + y and xy.",
+    "marks": 2,
+    "answer": "x + y = 4 and xy = 4 − 3 = 1",
+    "working": "x + y = 4 and xy = (2 + √3)(2 − √3) = 4 − 3 = 1. M1 add, A1 multiply."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of x² + y².",
+    "marks": 2,
+    "answer": "14",
+    "working": "x² + y² = (x + y)² − 2xy = 16 − 2 = 14. M1 use (x + y)² − 2xy, A1 14."
+   },
+   {
+    "label": "c",
+    "text": "Find the exact value of x³ + y³.",
+    "marks": 3,
+    "answer": "52",
+    "working": "x³ + y³ = (x + y)³ − 3xy(x + y) = 64 − 12 = 52. M1 identity, M1 substitute, A1 52."
+   }
+  ],
+  "check": "abs((2+math.sqrt(3))**2+(2-math.sqrt(3))**2-14)<1e-9 and abs((2+math.sqrt(3))**3+(2-math.sqrt(3))**3-52)<1e-9 and abs((2+math.sqrt(3))+(2-math.sqrt(3))-4)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-089",
+  "topic": "Indices and surds",
+  "subtopic": "Surds",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve the equation √(x + 5) − √x = 1.",
+    "marks": 4,
+    "answer": "x = 4",
+    "working": "√(x + 5) = √x + 1, so x + 5 = x + 2√x + 1, giving √x = 2 and x = 4. Check: √9 − √4 = 3 − 2 = 1. M1 square both sides, M1 isolate √x, A1 x = 4, A1 check the solution."
+   }
+  ],
+  "check": "abs(math.sqrt(4+5)-math.sqrt(4)-1)<1e-9 and abs(math.sqrt(9)-math.sqrt(4)-1)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-090",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of 32^(−2/5) and the value of 49^(3/2).",
+    "marks": 3,
+    "answer": "32^(−2/5) = 1/4 and 49^(3/2) = 343",
+    "working": "32^(−2/5) = (2⁵)^(−2/5) = 2⁻² = 1/4. 49^(3/2) = (√49)³ = 7³ = 343. M1 write 32 = 2⁵, A1 1/4, A1 343."
+   }
+  ],
+  "check": "abs(32**(-2/5)-0.25)<1e-9 and abs(49**1.5-343)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-091",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Simplify (8x⁶y⁻³)^(2/3), giving your answer in the form ax⁴y⁻².",
+    "marks": 3,
+    "answer": "4x⁴y⁻², that is 4x⁴/y²",
+    "working": "(8)^(2/3) = 4, (x⁶)^(2/3) = x⁴ and (y⁻³)^(2/3) = y⁻². M1 apply the power to each factor, M1 8^(2/3) = 4, A1 4x⁴y⁻²."
+   }
+  ],
+  "check": "abs((8*2**6*1)**(2/3)-4*2**4)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-092",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve 5^(x + 2) = 125.",
+    "marks": 2,
+    "answer": "x = 1",
+    "working": "125 = 5³, so x + 2 = 3 and x = 1. M1 write 125 as 5³, A1 x = 1."
+   },
+   {
+    "label": "b",
+    "text": "Solve 4^(2x) = 8, giving your answer as a fraction.",
+    "marks": 2,
+    "answer": "x = ¾",
+    "working": "4^(2x) = 2^(4x) and 8 = 2³, so 4x = 3 and x = ¾. M1 write both sides as powers of 2, A1 x = ¾."
+   }
+  ],
+  "check": "abs(5**(1+2)-125)<1e-9 and abs(4**(2*0.75)-8)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-093",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write ∛(x²) × x^(4/3) ÷ x^(−1/3) as a single power of x.",
+    "marks": 3,
+    "answer": "x^(7/3)",
+    "working": "∛(x²) = x^(2/3), so x^(2/3) × x^(4/3) ÷ x^(−1/3) = x^(2/3 + 4/3 + 1/3) = x^(7/3). M1 write the cube root as a power, M1 add the indices, A1 x^(7/3)."
+   }
+  ],
+  "check": "abs(8**(2/3)*8**(4/3)/8**(-1/3)-8**(7/3))<1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-094",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve 2^x = 7, giving x correct to 3 significant figures.",
+    "marks": 3,
+    "answer": "x = 2.81",
+    "working": "Taking logarithms: x = ln 7 / ln 2 ≈ 2.807, so x = 2.81 (3 s.f.). M1 take logarithms, M1 divide, A1 2.81."
+   }
+  ],
+  "check": "abs(math.log(7)/math.log(2)-2.81)<0.005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-095",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve 4^(x + 1) − 9(2^x) + 2 = 0.",
+    "marks": 4,
+    "answer": "x = −2 or x = 1",
+    "working": "Let y = 2^x, so 4^(x + 1) = 4 × 4^x = 4y². The equation is 4y² − 9y + 2 = 0, i.e. (4y − 1)(y − 2) = 0, so y = ¼ or y = 2. y = ¼ gives 2^x = 2⁻², so x = −2; y = 2 gives x = 1. M1 write 4^(x+1) as 4y², M1 solve the quadratic, A1 y = ¼ or 2, A1 x = −2 or 1."
+   }
+  ],
+  "check": "4*(0.25)**2-9*0.25+2==0 and 4*4-18+2==0 and 2**(-2)==0.25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-096",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve 7^(2x − 1) = 3^(x + 2), giving x correct to 2 decimal places.",
+    "marks": 4,
+    "answer": "x ≈ 1.48",
+    "working": "Taking logarithms: (2x − 1) ln 7 = (x + 2) ln 3, so x(2 ln 7 − ln 3) = ln 7 + 2 ln 3. x = (ln 7 + 2 ln 3)/(2 ln 7 − ln 3) ≈ 4.1431/2.7932 ≈ 1.48. M1 take logarithms, M1 expand and collect x terms, M1 solve, A1 1.48."
+   }
+  ],
+  "check": "abs((math.log(7)+2*math.log(3))/(2*math.log(7)-math.log(3))-1.48)<0.005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-097",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Simplify (27x⁹y⁻³)^(1/3) × (x⁻²y)⁻², giving your answer in the form ax^p y^q.",
+    "marks": 3,
+    "answer": "3x⁷y⁻³",
+    "working": "(27x⁹y⁻³)^(1/3) = 3x³y⁻¹ and (x⁻²y)⁻² = x⁴y⁻². Product = 3x⁷y⁻³. M1 apply ^(1/3) to each factor, M1 apply ⁻² to (x⁻²y), A1 3x⁷y⁻³."
+   }
+  ],
+  "check": "abs((27*2**9*1**-3)**(1/3)*(2**-2*1)**-2-3*2**7*1)<1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-098",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Given that 2^a = 3 and 2^b = 5.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find the value of 2^(2a − b).",
+    "marks": 2,
+    "answer": "9/5",
+    "working": "2^(2a − b) = (2^a)²/2^b = 3²/5 = 9/5. M1 use index laws, A1 9/5."
+   },
+   {
+    "label": "b",
+    "text": "Find the value of 8^(a + b).",
+    "marks": 2,
+    "answer": "3375",
+    "working": "8^(a + b) = 2^(3a + 3b) = (2^a)³ × (2^b)³ = 3³ × 5³ = 27 × 125 = 3375. M1 write 8 as 2³, A1 3375."
+   }
+  ],
+  "check": "abs(3**2/5-9/5)<1e-9 and 3**3*5**3==3375",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-099",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve x − 7√x + 10 = 0.",
+    "marks": 4,
+    "answer": "x = 4 or x = 25",
+    "working": "Let y = √x, so x = y² and y² − 7y + 10 = 0, i.e. (y − 2)(y − 5) = 0. y = 2 gives x = 4; y = 5 gives x = 25. M1 substitute y = √x, M1 factorise, A1 y = 2 or 5, A1 x = 4 or 25."
+   }
+  ],
+  "check": "4-7*math.sqrt(4)+10==0 and 25-7*math.sqrt(25)+10==0 and (0-2)*(0-5)==10",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-100",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve 3^(x + 2) − 3^x = 72.",
+    "marks": 3,
+    "answer": "x = 2",
+    "working": "3^(x+2) = 9 × 3^x, so 9 × 3^x − 3^x = 8 × 3^x = 72, giving 3^x = 9 and x = 2. M1 write both terms with 3^x; M1 solve 8 × 3^x = 72; A1 x = 2."
+   }
+  ],
+  "check": "abs(3**(2+2)-3**2-72)<1e-9 and 3**2==9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-101",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve the simultaneous equations 3^x × 9^y = 27 and 2^(x + y) = 16.",
+    "marks": 4,
+    "answer": "x = 5 and y = −1",
+    "working": "The first equation gives 3^x × 3^(2y) = 3³, so x + 2y = 3. The second gives x + y = 4. Subtracting: y = −1, so x = 5. M1 write both as powers of 3 and 2, M1 form the linear equations, A1 y = −1, A1 x = 5."
+   }
+  ],
+  "check": "5+2*(-1)==3 and 5+(-1)==4 and abs(3**5*9**-1-27)<1e-9 and 2**4==16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-102",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve the equation 5^(2x + 1) − 3(5^x) − 2 = 0, giving your answer in exact form.",
+    "marks": 5,
+    "answer": "x = 0",
+    "working": "5^(2x + 1) = 5(5^x)². Let y = 5^x > 0; then 5y² − 3y − 2 = 0, i.e. (y − 1)(5y + 2) = 0. y = −2/5 is rejected because 5^x > 0, so y = 1 and x = 0. M1 write 5^(2x + 1) = 5y², M1 form the quadratic, M1 factorise, A1 y = 1, A1 x = 0 with rejection of y = −2/5."
+   }
+  ],
+  "check": "5*1**2-3*1-2==0 and abs(5*(-2/5)**2-3*(-2/5)-2)<1e-9 and (0-1)*(5*0+2)==5*0**2-3*0-2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-103",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solve x^(1/2) + x^(−1/2) = 5/2.",
+    "marks": 5,
+    "answer": "x = 4 or x = ¼",
+    "working": "Let t = x^(1/2), so x^(−1/2) = 1/t. The equation becomes t + 1/t = 5/2, so 2t² − 5t + 2 = 0, i.e. (2t − 1)(t − 2) = 0. t = ½ gives x = ¼; t = 2 gives x = 4. M1 substitute t, M1 form the quadratic, M1 factorise, A1 t = ½ or 2, A1 x = ¼ or 4."
+   }
+  ],
+  "check": "2+1/2==5/2 and 1/2+2==5/2 and 2*(0.5)**2-5*0.5+2==0 and 2*4-5*2+2==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-104",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "n is a positive integer.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that 5^(n + 1) + 5^n = 6 × 5^n.",
+    "marks": 2,
+    "answer": "5^(n + 1) + 5^n = 5 × 5^n + 5^n = 6 × 5^n.",
+    "working": "M1 write 5^(n + 1) = 5 × 5^n; A1 6 × 5^n."
+   },
+   {
+    "label": "b",
+    "text": "Hence solve 5^(n + 1) + 5^n = 750.",
+    "marks": 3,
+    "answer": "n = 3",
+    "working": "6 × 5^n = 750 gives 5^n = 125 = 5³, so n = 3. M1 divide by 6, M1 write 125 as 5³, A1 n = 3."
+   }
+  ],
+  "check": "5*5**3+5**3==750 and 6*5**3==750",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-105",
+  "topic": "Indices and surds",
+  "subtopic": "Indices and equations with indices",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "Let 2^x = 3^y = 6^z, where x, y and z are non-zero.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that 1/z = 1/x + 1/y.",
+    "marks": 4,
+    "answer": "Let N be the common value. Then x = ln N/ln 2, y = ln N/ln 3 and z = ln N/ln 6. So 1/x + 1/y = (ln 2 + ln 3)/ln N = ln 6/ln N = 1/z.",
+    "working": "M1 take logarithms of each expression to write x, y and z in terms of ln N; M1 write 1/x and 1/y using ln 2 and ln 3; M1 add and use ln 2 + ln 3 = ln 6; A1 conclude 1/z = 1/x + 1/y."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-106",
+  "topic": "Functions",
+  "subtopic": "Graphs of a function and its inverse",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "f(x) = 10 − 3x for x ∈ ℝ. The graph of y = f(x) passes through the points (4, −2) and (−1, 13).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write down the coordinates of the points on the graph of y = f⁻¹(x) that correspond to (4, −2) and (−1, 13).",
+    "marks": 2,
+    "answer": "(−2, 4) and (13, −1)",
+    "working": "The graph of y = f⁻¹(x) is the reflection of y = f(x) in the line y = x, so the coordinates are swapped. M1 swap the coordinates; A1 (−2, 4) and (13, −1)."
+   },
+   {
+    "label": "b",
+    "text": "Find f⁻¹(x), and hence find the value of x for which f⁻¹(x) = f(x).",
+    "marks": 4,
+    "answer": "f⁻¹(x) = (10 − x)/3; x = 5/2",
+    "working": "y = 10 − 3x gives x = (10 − y)/3, so f⁻¹(x) = (10 − x)/3. Setting (10 − x)/3 = 10 − 3x gives 10 − x = 30 − 9x, so 8x = 20 and x = 5/2. M1 make x the subject; A1 f⁻¹(x); M1 equate and clear the fraction; A1 x = 5/2."
+   }
+  ],
+  "check": "10-3*4==-2 and 10-3*(-1)==13 and abs((10-2.5)/3-2.5)<1e-9 and abs(10-3*2.5-2.5)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-107",
+  "topic": "Functions",
+  "subtopic": "Graphs of a function and its inverse",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "p(x) = x³ for all real x.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why p has an inverse, and find p⁻¹(x).",
+    "marks": 2,
+    "answer": "p is strictly increasing for all x (or one-to-one), so it has an inverse. p(y) = x gives y = ∛x, so p⁻¹(x) = ∛x.",
+    "working": "B1 explain: x³ is one-to-one (strictly increasing) over all real x; B1 p⁻¹(x) = ∛x."
+   },
+   {
+    "label": "b",
+    "text": "Write down the coordinates of all the points where the graphs of y = p(x) and y = p⁻¹(x) meet.",
+    "marks": 3,
+    "answer": "(−1, −1), (0, 0) and (1, 1)",
+    "working": "Setting x³ = ∛x gives x⁹ = x, so x(x⁸ − 1) = 0 and x = 0, 1 or −1 (real roots). The points are (−1, −1), (0, 0) and (1, 1). M1 set p(x) = p⁻¹(x), M1 solve x⁹ = x, A1 all three points."
+   }
+  ],
+  "check": "(-1)**3==-1 and (-1)**9==-1 and 1**9==1 and 0**9==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-108",
+  "topic": "Functions",
+  "subtopic": "Graphs of a function and its inverse",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "q(x) = √(x − 2) + 1 for x ≥ 2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the range of q.",
+    "marks": 1,
+    "answer": "y ≥ 1",
+    "working": "√(x − 2) ≥ 0, so q(x) ≥ 1. B1 range y ≥ 1."
+   },
+   {
+    "label": "b",
+    "text": "Find q⁻¹(x) and state its domain.",
+    "marks": 3,
+    "answer": "q⁻¹(x) = (x − 1)² + 2, with domain x ≥ 1",
+    "working": "Let y = √(x − 2) + 1, so (y − 1)² = x − 2 and x = (y − 1)² + 2. M1 rearrange, M1 square, A1 q⁻¹(x) = (x − 1)² + 2 with domain x ≥ 1 (the range of q)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the graph of y = q⁻¹(x) does not cross the x-axis.",
+    "marks": 2,
+    "answer": "For x ≥ 1, (x − 1)² ≥ 0, so q⁻¹(x) = (x − 1)² + 2 ≥ 2 > 0. The graph never reaches y = 0.",
+    "working": "M1 (x − 1)² ≥ 0 for all x in the domain; A1 q⁻¹(x) ≥ 2, so it never equals 0."
+   }
+  ],
+  "check": "abs(((math.sqrt(4-2)+1)-1)**2+2-4)<1e-9 and abs(((math.sqrt(4-2)+1)-1)**2+2-4)<1e-9 and abs(math.sqrt(4-2)+1-2.414)<0.001",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-109",
+  "topic": "Functions",
+  "subtopic": "Graphs of a function and its inverse",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "r(x) = 6 − x² for x ≥ 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find r⁻¹(x) and state its domain.",
+    "marks": 3,
+    "answer": "r⁻¹(x) = √(6 − x), with domain x ≤ 6",
+    "working": "y = 6 − x² gives x = √(6 − y), taking the positive root since x ≥ 0. M1 rearrange, M1 positive root, A1 r⁻¹(x) = √(6 − x) with domain x ≤ 6."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact coordinates of the point where the graph of y = r(x) meets the line y = x.",
+    "marks": 2,
+    "answer": "(2, 2)",
+    "working": "6 − x² = x gives x² + x − 6 = 0, so (x + 3)(x − 2) = 0. With x ≥ 0, x = 2 and the point is (2, 2). M1 solve the quadratic, A1 (2, 2)."
+   }
+  ],
+  "check": "6-2**2==2 and math.sqrt(6-2)==2 and (2+3)*(2-2)==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-110",
+  "topic": "Functions",
+  "subtopic": "Graphs of a function and its inverse",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "s(x) = (x + 1)/(x − 1) for x ≠ 1.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that s(s(x)) = x, and hence state the inverse function s⁻¹(x).",
+    "marks": 3,
+    "answer": "s(s(x)) = [(x + 1)/(x − 1) + 1]/[(x + 1)/(x − 1) − 1] = [(x + 1) + (x − 1)]/[(x + 1) − (x − 1)] = 2x/2 = x. So s⁻¹(x) = s(x).",
+    "working": "M1 substitute s(x) into s; M1 multiply top and bottom by (x − 1); A1 s(s(x)) = x, so s is its own inverse."
+   },
+   {
+    "label": "b",
+    "text": "State the equations of the asymptotes of y = s(x).",
+    "marks": 2,
+    "answer": "x = 1 and y = 1",
+    "working": "The denominator is zero at x = 1, and s(x) = (x + 1)/(x − 1) = 1 + 2/(x − 1) tends to 1 as x → ±∞. B1 x = 1, B1 y = 1."
+   },
+   {
+    "label": "c",
+    "text": "Write down the coordinates of the points where the graph of y = s(x) meets the axes.",
+    "marks": 2,
+    "answer": "(0, −1) and (−1, 0)",
+    "working": "s(0) = −1, so it meets the y-axis at (0, −1). s(x) = 0 gives x = −1, so it meets the x-axis at (−1, 0). M1 one intercept, A1 both."
+   }
+  ],
+  "check": "(0+1)/(0-1)==-1 and (-1+1)/(-1-1)==0 and ((0+1)/(0-1)+1)/((0+1)/(0-1)-1)==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-111",
+  "topic": "Functions",
+  "subtopic": "Composite functions",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "f(x) = 2x − 3 and g(x) = x² for x ∈ ℝ.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find fg(3).",
+    "marks": 1,
+    "answer": "15",
+    "working": "g(3) = 9, so fg(3) = f(9) = 18 − 3 = 15. M1 A1."
+   },
+   {
+    "label": "b",
+    "text": "Find gf(x) in its simplest form.",
+    "marks": 2,
+    "answer": "gf(x) = (2x − 3)²",
+    "working": "gf(x) = g(2x − 3) = (2x − 3)². M1 substitute, A1 (2x − 3)²."
+   },
+   {
+    "label": "c",
+    "text": "Solve gf(x) = 16.",
+    "marks": 3,
+    "answer": "x = 7/2 or x = −1/2",
+    "working": "(2x − 3)² = 16 gives 2x − 3 = 4 or 2x − 3 = −4. So x = 7/2 or x = −1/2. M1 take square roots, M1 both linear equations, A1 both values."
+   }
+  ],
+  "check": "2*9-3==15 and (2*3.5-3)**2==16 and (2*(-0.5)-3)**2==16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-112",
+  "topic": "Functions",
+  "subtopic": "Composite functions",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "f(x) = 5 − x for x ∈ ℝ and g(x) = √x for x ≥ 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find fg(4).",
+    "marks": 1,
+    "answer": "3",
+    "working": "g(4) = 2, so fg(4) = f(2) = 3. A1."
+   },
+   {
+    "label": "b",
+    "text": "Find gf(x) and state its domain.",
+    "marks": 3,
+    "answer": "gf(x) = √(5 − x), with domain x ≤ 5",
+    "working": "gf(x) = g(5 − x) = √(5 − x). This needs 5 − x ≥ 0, so x ≤ 5. M1 substitute, A1 expression, A1 domain x ≤ 5."
+   },
+   {
+    "label": "c",
+    "text": "Solve gf(x) = 2.",
+    "marks": 2,
+    "answer": "x = 1",
+    "working": "√(5 − x) = 2 gives 5 − x = 4, so x = 1. M1 square, A1 x = 1."
+   }
+  ],
+  "check": "5-2==3 and math.sqrt(5-1)==2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-113",
+  "topic": "Functions",
+  "subtopic": "Composite functions",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "f(x) = ln x for x > 0 and g(x) = 4 − x for x ∈ ℝ.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that fg(x) = ln(4 − x) and state the domain of fg.",
+    "marks": 3,
+    "answer": "fg(x) = f(4 − x) = ln(4 − x). The argument must be positive, so 4 − x > 0, i.e. the domain is x < 4.",
+    "working": "M1 substitute g(x) into f; A1 ln(4 − x); A1 domain x < 4."
+   },
+   {
+    "label": "b",
+    "text": "Solve fg(x) = 0.",
+    "marks": 2,
+    "answer": "x = 3",
+    "working": "ln(4 − x) = 0 gives 4 − x = 1, so x = 3. M1 use ln 1 = 0, A1 x = 3."
+   },
+   {
+    "label": "c",
+    "text": "Find the exact value of gf(e²).",
+    "marks": 2,
+    "answer": "2",
+    "working": "gf(x) = g(ln x) = 4 − ln x, so gf(e²) = 4 − ln(e²) = 4 − 2 = 2. M1 write gf(x), A1 2."
+   }
+  ],
+  "check": "math.log(4-3)==0 and abs(4-math.log(math.e**2)-2)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-114",
+  "topic": "Functions",
+  "subtopic": "Composite functions",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "f(x) = x/(x + 1) for x ≠ −1, and g(x) = 2x + 1 for x ∈ ℝ.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that fg(x) = (2x + 1)/(2x + 2).",
+    "marks": 2,
+    "answer": "fg(x) = f(2x + 1) = (2x + 1)/((2x + 1) + 1) = (2x + 1)/(2x + 2).",
+    "working": "M1 substitute g(x) = 2x + 1 into f; A1 simplify the denominator to 2x + 2."
+   },
+   {
+    "label": "b",
+    "text": "Solve fg(x) = ½.",
+    "marks": 2,
+    "answer": "x = 0",
+    "working": "2(2x + 1) = 2x + 2, so 4x + 2 = 2x + 2 and x = 0. M1 cross-multiply, A1 x = 0."
+   },
+   {
+    "label": "c",
+    "text": "Find gf(x) in its simplest form.",
+    "marks": 2,
+    "answer": "gf(x) = (3x + 1)/(x + 1)",
+    "working": "gf(x) = 2x/(x + 1) + 1 = (2x + x + 1)/(x + 1) = (3x + 1)/(x + 1). M1 combine over (x + 1), A1 result."
+   }
+  ],
+  "check": "abs((2*0+1)/(2*0+2)-0.5)<1e-9 and abs(2*0/(0+1)+1-(3*0+1)/(0+1))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-115",
+  "topic": "Functions",
+  "subtopic": "Composite functions",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "f(x) = x² − 9 for x ∈ ℝ and g(x) = √x for x ≥ 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find fg(x) in its simplest form.",
+    "marks": 1,
+    "answer": "fg(x) = x − 9",
+    "working": "fg(x) = f(√x) = (√x)² − 9 = x − 9. B1 x − 9."
+   },
+   {
+    "label": "b",
+    "text": "Find gf(x) and state its domain.",
+    "marks": 3,
+    "answer": "gf(x) = √(x² − 9), with domain x ≤ −3 or x ≥ 3",
+    "working": "gf(x) = g(x² − 9) = √(x² − 9). Need x² − 9 ≥ 0, so x² ≥ 9, giving x ≤ −3 or x ≥ 3. M1 substitute, A1 expression, A1 domain."
+   },
+   {
+    "label": "c",
+    "text": "Solve fg(x) = 0.",
+    "marks": 2,
+    "answer": "x = 9",
+    "working": "x − 9 = 0 gives x = 9, which is in the domain x ≥ 0 of g. M1 solve, A1 x = 9."
+   }
+  ],
+  "check": "abs(math.sqrt(4)**2-9-(4-9))<1e-9 and math.sqrt(5**2-9)==4 and abs(math.sqrt(9)**2-9)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-116",
+  "topic": "Functions",
+  "subtopic": "Composite functions",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "f(x) = x/(x + 2) for x ≠ −2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that ff(x) = x/(3x + 4).",
+    "marks": 3,
+    "answer": "ff(x) = [x/(x + 2)] ÷ [x/(x + 2) + 2] = x/(x + 2(x + 2)) = x/(3x + 4).",
+    "working": "M1 substitute f(x) into f; M1 multiply top and bottom by (x + 2); A1 x/(3x + 4)."
+   },
+   {
+    "label": "b",
+    "text": "State the domain of ff.",
+    "marks": 2,
+    "answer": "x ≠ −2 and x ≠ −4/3",
+    "working": "f(x) must be defined, so x ≠ −2. Also f(x) must not equal −2, and x/(x + 2) = −2 gives x = −4/3, so x ≠ −4/3. M1 consider f(x) = −2; A1 both exclusions."
+   },
+   {
+    "label": "c",
+    "text": "Solve ff(x) = x, and state both solutions.",
+    "marks": 3,
+    "answer": "x = 0 or x = −1",
+    "working": "x/(3x + 4) = x gives x(3x + 3) = 0, so x = 0 or x = −1. Both lie in the domain. M1 form the equation; M1 factorise x(3x + 3) = 0; A1 both solutions."
+   }
+  ],
+  "check": "abs(((1)/(1+2))/(((1)/(1+2))+2)-1/7)<1e-9 and abs(1/7-1/(3*1+4))<1e-9 and abs(((-4/3)/(-4/3+2))+2)<1e-9 and abs(((-1)/(-1+2))/(((-1)/(-1+2))+2)+1)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-117",
+  "topic": "Functions",
+  "subtopic": "Composite functions",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "f(x) = x² + 1 and g(x) = 2x − 1, for all real x.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find fg(x) and gf(x) in expanded form.",
+    "marks": 2,
+    "answer": "fg(x) = (2x − 1)² + 1 = 4x² − 4x + 2 and gf(x) = 2(x² + 1) − 1 = 2x² + 1",
+    "working": "fg(x) = f(2x − 1) = (2x − 1)² + 1 = 4x² − 4x + 2. gf(x) = g(x² + 1) = 2(x² + 1) − 1 = 2x² + 1. M1 both substitutions, A1 both expansions."
+   },
+   {
+    "label": "b",
+    "text": "Solve fg(x) = gf(x), giving your answers in exact form.",
+    "marks": 3,
+    "answer": "x = 1 + √2/2 or x = 1 − √2/2",
+    "working": "4x² − 4x + 2 = 2x² + 1 gives 2x² − 4x + 1 = 0. So x = [4 ± √(16 − 8)]/4 = 1 ± √2/2. M1 equate, M1 quadratic formula, A1 both exact values."
+   }
+  ],
+  "check": "abs(2*(1+math.sqrt(2)/2)**2-4*(1+math.sqrt(2)/2)+1)<1e-9 and abs(2*(1-math.sqrt(2)/2)**2-4*(1-math.sqrt(2)/2)+1)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-118",
+  "topic": "Functions",
+  "subtopic": "Inverse functions",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "f(x) = (x + 3)/2 for x ∈ ℝ.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find f⁻¹(x).",
+    "marks": 2,
+    "answer": "f⁻¹(x) = 2x − 3",
+    "working": "y = (x + 3)/2 gives x = 2y − 3, so f⁻¹(x) = 2x − 3. M1 rearrange, A1 2x − 3."
+   },
+   {
+    "label": "b",
+    "text": "Find f⁻¹(7).",
+    "marks": 1,
+    "answer": "11",
+    "working": "f⁻¹(7) = 2(7) − 3 = 11. A1."
+   }
+  ],
+  "check": "2*7-3==11 and (11+3)/2==7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-119",
+  "topic": "Functions",
+  "subtopic": "Inverse functions",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "f(x) = 4 + ln(3x) for x > 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find f⁻¹(x).",
+    "marks": 3,
+    "answer": "f⁻¹(x) = e^(x − 4)/3",
+    "working": "y = 4 + ln(3x) gives ln(3x) = y − 4, so 3x = e^(y − 4) and x = e^(y − 4)/3. M1 isolate the logarithm, M1 exponentiate, A1 f⁻¹(x) = e^(x − 4)/3."
+   },
+   {
+    "label": "b",
+    "text": "State the domain of f⁻¹.",
+    "marks": 1,
+    "answer": "All real numbers, x ∈ ℝ",
+    "working": "The range of f is all real numbers, so f⁻¹ is defined for all real x. B1."
+   },
+   {
+    "label": "c",
+    "text": "Find the exact value of f⁻¹(4).",
+    "marks": 1,
+    "answer": "1/3",
+    "working": "f⁻¹(4) = e⁰/3 = 1/3. A1."
+   }
+  ],
+  "check": "abs(4+math.log(3*(1/3))-4)<1e-9 and abs(math.exp(0)/3-1/3)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-120",
+  "topic": "Functions",
+  "subtopic": "Inverse functions",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "f(x) = 3/(x + 1) for x ≠ −1.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find f⁻¹(x) and state the value of x for which it is not defined.",
+    "marks": 2,
+    "answer": "f⁻¹(x) = 3/x − 1, not defined when x = 0",
+    "working": "y = 3/(x + 1) gives x + 1 = 3/y, so x = 3/y − 1. M1 rearrange, A1 f⁻¹(x) = 3/x − 1 with x ≠ 0."
+   },
+   {
+    "label": "b",
+    "text": "Find f⁻¹(6).",
+    "marks": 1,
+    "answer": "−½",
+    "working": "f⁻¹(6) = 3/6 − 1 = −½. A1."
+   }
+  ],
+  "check": "3/6-1==-0.5 and 3/(-0.5+1)==6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-121",
+  "topic": "Functions",
+  "subtopic": "Inverse functions",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "f(x) = x² − 6x + 10 for x ≥ 3.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Express f(x) in the form (x + a)² + b and state the range of f.",
+    "marks": 2,
+    "answer": "f(x) = (x − 3)² + 1, so the range is f(x) ≥ 1",
+    "working": "x² − 6x + 10 = (x − 3)² − 9 + 10 = (x − 3)² + 1. For x ≥ 3, (x − 3)² ≥ 0, so the range is f(x) ≥ 1. M1 complete the square, A1 range y ≥ 1."
+   },
+   {
+    "label": "b",
+    "text": "Find f⁻¹(x) and state its domain.",
+    "marks": 3,
+    "answer": "f⁻¹(x) = 3 + √(x − 1), with domain x ≥ 1",
+    "working": "y = (x − 3)² + 1 gives x − 3 = √(y − 1) (positive root since x ≥ 3), so f⁻¹(x) = 3 + √(x − 1). M1 rearrange, M1 positive root, A1 f⁻¹(x) with domain x ≥ 1."
+   },
+   {
+    "label": "c",
+    "text": "Find f⁻¹(5).",
+    "marks": 1,
+    "answer": "5",
+    "working": "f⁻¹(5) = 3 + √4 = 5. A1."
+   }
+  ],
+  "check": "(5-3)**2+1==5 and 3+math.sqrt(5-1)==5 and 5**2-6*5+10==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-122",
+  "topic": "Functions",
+  "subtopic": "Inverse functions",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "f(x) = √(3x + 2) − 1 for x ≥ −2/3.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find f⁻¹(x) and state its domain.",
+    "marks": 4,
+    "answer": "f⁻¹(x) = [(x + 1)² − 2]/3, with domain x ≥ −1",
+    "working": "y + 1 = √(3x + 2) gives (y + 1)² = 3x + 2, so x = [(y + 1)² − 2]/3. The range of f is y ≥ −1, which is the domain of f⁻¹. M1 isolate the root, M1 square, A1 expression, A1 domain x ≥ −1."
+   },
+   {
+    "label": "b",
+    "text": "Find the exact value of f⁻¹(2).",
+    "marks": 1,
+    "answer": "7/3",
+    "working": "f⁻¹(2) = [(3)² − 2]/3 = 7/3. A1."
+   }
+  ],
+  "check": "((2+1)**2-2)/3==7/3 and abs(math.sqrt(3*(7/3)+2)-1-2)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-123",
+  "topic": "Functions",
+  "subtopic": "Inverse functions",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "f(x) = (x − 1)/(2x + 3) for x ≠ −3/2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Find f⁻¹(x), stating the value of x for which it is not defined.",
+    "marks": 4,
+    "answer": "f⁻¹(x) = (3x + 1)/(1 − 2x), not defined when x = ½",
+    "working": "y(2x + 3) = x − 1 gives 2xy + 3y = x − 1, so x(2y − 1) = −3y − 1 and x = (3y + 1)/(1 − 2y). M1 clear the fraction, M1 collect x terms, M1 solve, A1 f⁻¹(x) and x ≠ ½."
+   },
+   {
+    "label": "b",
+    "text": "Show that f⁻¹(x) = x has no real solutions.",
+    "marks": 3,
+    "answer": "(3x + 1)/(1 − 2x) = x gives 3x + 1 = x − 2x², so 2x² + 2x + 1 = 0. The discriminant is 4 − 8 = −4 < 0, so there are no real solutions.",
+    "working": "M1 set f⁻¹(x) = x and clear the fraction; M1 rearrange to 2x² + 2x + 1 = 0; A1 discriminant negative, so no real solutions."
+   }
+  ],
+  "check": "abs((3*0+1)/(1-0)-1)<1e-9 and 2*0+0+1==1 and 4-8<0 and abs((3*(-1)+1)/(1+2)-(-2/3))<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-124",
+  "topic": "Functions",
+  "subtopic": "Inverse functions",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "f(x) = e^(2x) + 2eˣ for x ∈ ℝ.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why f has an inverse, and state the range of f.",
+    "marks": 2,
+    "answer": "f′(x) = 2e^(2x) + 2eˣ > 0 for all x, so f is strictly increasing and one-to-one. As eˣ > 0, f(x) > 0, and f(x) → 0 as x → −∞ and f(x) → ∞ as x → ∞. The range is f(x) > 0.",
+    "working": "M1 f is strictly increasing (derivative positive) so has an inverse; A1 range y > 0."
+   },
+   {
+    "label": "b",
+    "text": "Find f⁻¹(x) in terms of natural logarithms.",
+    "marks": 4,
+    "answer": "f⁻¹(x) = ln(√(1 + x) − 1), for x > 0",
+    "working": "Let u = eˣ > 0. Writing y = f(x) gives u² + 2u − y = 0, so u = −1 + √(1 + y), taking the positive root since u > 0. Writing x for y gives f⁻¹(x) = ln(√(1 + x) − 1), which needs √(1 + x) > 1, i.e. x > 0. M1 substitute u = eˣ; M1 solve the quadratic; M1 take the positive root; A1 f⁻¹(x) = ln(√(1 + x) − 1) for x > 0."
+   },
+   {
+    "label": "c",
+    "text": "Find the exact value of f⁻¹(8).",
+    "marks": 1,
+    "answer": "ln 2",
+    "working": "f⁻¹(8) = ln(√9 − 1) = ln 2. Check: f(ln 2) = 4 + 4 = 8. A1."
+   }
+  ],
+  "check": "abs(math.log(math.sqrt(9)-1)-math.log(2))<1e-9 and abs(math.exp(2*math.log(2))+2*math.exp(math.log(2))-8)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-125",
+  "topic": "Functions",
+  "subtopic": "Inverse functions",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "f(x) = 3 − 2x − x² for x ≥ −1.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Express f(x) in the form p − (x + a)², stating the values of p and a, and state the range of f.",
+    "marks": 2,
+    "answer": "f(x) = 4 − (x + 1)², so p = 4 and a = 1; the range is f(x) ≤ 4",
+    "working": "3 − 2x − x² = 4 − (x² + 2x + 1) = 4 − (x + 1)². For x ≥ −1, (x + 1)² ≥ 0, so f(x) ≤ 4. M1 complete the square; A1 p = 4, a = 1 and range f(x) ≤ 4."
+   },
+   {
+    "label": "b",
+    "text": "Find f⁻¹(x) and state its domain.",
+    "marks": 3,
+    "answer": "f⁻¹(x) = √(4 − x) − 1, with domain x ≤ 4",
+    "working": "y = 4 − (x + 1)² gives (x + 1)² = 4 − y. Since x ≥ −1, x + 1 = √(4 − y), so x = √(4 − y) − 1. M1 rearrange; M1 take the positive root; A1 f⁻¹(x) with domain x ≤ 4."
+   },
+   {
+    "label": "c",
+    "text": "Find f⁻¹(−5).",
+    "marks": 1,
+    "answer": "2",
+    "working": "f⁻¹(−5) = √9 − 1 = 2. Check: f(2) = 3 − 4 − 4 = −5. A1 2."
+   }
+  ],
+  "check": "abs(4-(1+1)**2-(3-2*1-1**2))<1e-9 and 3-2*2-2**2==-5 and math.sqrt(4+5)-1==2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-126",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "g(x) = 2x² + 8x + 1 for x ∈ ℝ.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write g(x) in the form 2(x + a)² + b.",
+    "marks": 2,
+    "answer": "g(x) = 2(x + 2)² − 7",
+    "working": "g(x) = 2(x² + 4x) + 1 = 2[(x + 2)² − 4] + 1 = 2(x + 2)² − 7. M1 factor out 2 and complete the square, A1 2(x + 2)² − 7."
+   },
+   {
+    "label": "b",
+    "text": "State the range of g.",
+    "marks": 1,
+    "answer": "g(x) ≥ −7",
+    "working": "2(x + 2)² ≥ 0, so g(x) ≥ −7 with minimum at x = −2. A1."
+   }
+  ],
+  "check": "2*(0+2)**2-7==1 and 2*0**2+8*0+1==1 and 2*(-2)**2+8*(-2)+1==-7 and 2*(-2+2)**2-7==-7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-127",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "h(x) = 4 − x for 1 ≤ x ≤ 6.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the range of h.",
+    "marks": 2,
+    "answer": "−2 ≤ h(x) ≤ 3",
+    "working": "h is decreasing, so h(6) = −2 is the least value and h(1) = 3 is the greatest. M1 use the end values, A1 −2 ≤ h(x) ≤ 3."
+   }
+  ],
+  "check": "4-6==-2 and 4-1==3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-128",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "k(x) = 2 + 3 sin x for 0 ≤ x ≤ 2π.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the range of k.",
+    "marks": 2,
+    "answer": "−1 ≤ k(x) ≤ 5",
+    "working": "−1 ≤ sin x ≤ 1, so 2 − 3 ≤ k(x) ≤ 2 + 3, i.e. −1 ≤ k(x) ≤ 5. M1 use the range of sin x, A1 result."
+   },
+   {
+    "label": "b",
+    "text": "State the value of x in this interval at which k(x) is greatest.",
+    "marks": 1,
+    "answer": "x = π/2",
+    "working": "sin x = 1 when x = π/2 in this interval. A1."
+   }
+  ],
+  "check": "2+3*1==5 and 2+3*(-1)==-1 and abs(math.sin(math.pi/2)-1)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-129",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "m(x) = 1/(x + 2) for x > 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the range of m.",
+    "marks": 2,
+    "answer": "0 < m(x) < ½",
+    "working": "For x > 0, x + 2 > 2, so 0 < 1/(x + 2) < ½. M1 consider x + 2 > 2, A1 0 < m(x) < ½."
+   },
+   {
+    "label": "b",
+    "text": "Find the range of m when the domain is changed to −1 ≤ x ≤ 2.",
+    "marks": 2,
+    "answer": "¼ ≤ m(x) ≤ 1",
+    "working": "For −1 ≤ x ≤ 2, x + 2 lies in 1 ≤ x + 2 ≤ 4, so m(x) lies between 1/4 and 1. M1 end values, A1 ¼ ≤ m(x) ≤ 1."
+   }
+  ],
+  "check": "1/(0+2)==0.5 and 1/(-1+2)==1 and 1/(2+2)==0.25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-130",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "p(x) = ln(x² − 1).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the largest possible domain of p.",
+    "marks": 2,
+    "answer": "x < −1 or x > 1",
+    "working": "The logarithm needs x² − 1 > 0, so x² > 1, giving x < −1 or x > 1. M1 solve x² − 1 > 0, A1 domain."
+   },
+   {
+    "label": "b",
+    "text": "State the range of p.",
+    "marks": 1,
+    "answer": "All real numbers",
+    "working": "As x² − 1 takes all values in (0, ∞), ln(x² − 1) takes all real values. A1."
+   }
+  ],
+  "check": "(-2)**2-1>0 and 2**2-1==3 and math.log(3)>0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-131",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "w(x) = √(x² − 4x).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the largest possible domain of w.",
+    "marks": 2,
+    "answer": "x ≤ 0 or x ≥ 4",
+    "working": "We need x² − 4x = x(x − 4) ≥ 0. This holds when x ≤ 0 or x ≥ 4. M1 solve the inequality, A1 domain."
+   },
+   {
+    "label": "b",
+    "text": "State the range of w.",
+    "marks": 2,
+    "answer": "w(x) ≥ 0",
+    "working": "w(x) is a square root, so w(x) ≥ 0. As x → ±∞, x² − 4x → ∞, so every value w(x) ≥ 0 is reached. M1 non-negative, A1 range w(x) ≥ 0."
+   }
+  ],
+  "check": "0*(0-4)==0 and 4*(4-4)==0 and 5*(5-4)>=0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-132",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "f(x) = (x − 4)² + 2 for 1 ≤ x ≤ 6.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the range of f.",
+    "marks": 2,
+    "answer": "2 ≤ f(x) ≤ 11",
+    "working": "For 1 ≤ x ≤ 6, −3 ≤ x − 4 ≤ 2, so 0 ≤ (x − 4)² ≤ 9 and 2 ≤ f(x) ≤ 11. M1 range of (x − 4)², A1 2 ≤ f(x) ≤ 11."
+   },
+   {
+    "label": "b",
+    "text": "Explain why f does not have an inverse on this domain.",
+    "marks": 1,
+    "answer": "f(3) = f(5) = 3, so f is not one-to-one and has no inverse.",
+    "working": "B1 two different x values give the same output, e.g. f(3) = f(5) = 3."
+   },
+   {
+    "label": "c",
+    "text": "State the least value of a, where 1 ≤ a ≤ 6, for which f has an inverse on the interval a ≤ x ≤ 6.",
+    "marks": 1,
+    "answer": "a = 4 (the interval 4 ≤ x ≤ 6)",
+    "working": "f is decreasing on 1 ≤ x ≤ 4 and increasing on 4 ≤ x ≤ 6. f(2) = f(6) = 6, so any interval a ≤ x ≤ 6 with a < 4 contains two values with the same output and f has no inverse there. For a = 4, f is one-to-one. B1 a = 4."
+   }
+  ],
+  "check": "(1-4)**2+2==11 and (6-4)**2+2==6 and (3-4)**2+2==3 and (5-4)**2+2==3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-133",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "g(x) = 1/(x² + 2x − 3).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the domain of g.",
+    "marks": 2,
+    "answer": "x ≠ −3 and x ≠ 1, since x² + 2x − 3 = (x + 3)(x − 1) must not be zero.",
+    "working": "M1 factorise x² + 2x − 3 = (x + 3)(x − 1); A1 domain excludes x = −3 and x = 1."
+   },
+   {
+    "label": "b",
+    "text": "Find the range of g.",
+    "marks": 4,
+    "answer": "g(x) ≤ −¼ or g(x) > 0",
+    "working": "x² + 2x − 3 = (x + 1)² − 4 ≥ −4. If the denominator is in [−4, 0), then g(x) ≤ −¼ (since 1/d ≤ 1/(−4) for −4 ≤ d < 0). If it is in (0, ∞), then g(x) takes all values in (0, ∞). M1 complete the square, M1 consider negative denominators, A1 g(x) ≤ −¼, A1 g(x) > 0."
+   }
+  ],
+  "check": "(-1+1)**2-4==-4 and abs(1/(-4)+0.25)<1e-9 and (-3)**2+2*(-3)-3==0 and 1**2+2*1-3==0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-134",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "f(x) = (x² + 1)/x for x > 0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that f(x) − 2 = (x − 1)²/x, and hence show that f(x) ≥ 2 for all x > 0.",
+    "marks": 3,
+    "answer": "f(x) − 2 = (x² + 1 − 2x)/x = (x − 1)²/x. Since x > 0 and (x − 1)² ≥ 0, f(x) − 2 ≥ 0.",
+    "working": "M1 write f(x) = x + 1/x and subtract 2; M1 combine as (x − 1)²/x; A1 (x − 1)² ≥ 0 and x > 0 so f(x) ≥ 2."
+   },
+   {
+    "label": "b",
+    "text": "State the range of f, giving reasons.",
+    "marks": 2,
+    "answer": "f(x) ≥ 2. The minimum value 2 occurs at x = 1, and f(x) → ∞ as x → 0⁺ or x → ∞, so every value of f(x) ≥ 2 is reached: range f(x) ≥ 2.",
+    "working": "B1 minimum 2 at x = 1; B1 f unbounded above, so the range is all values ≥ 2."
+   }
+  ],
+  "check": "(1-1)**2/1==0 and abs((1**2+1)/1-2)<1e-9 and abs((2**2+1)/2-2.5)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "4037-h1-135",
+  "topic": "Functions",
+  "subtopic": "Domain and range",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "k(x) = 3 + ln(x² − 2x + 2) for x ∈ ℝ.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Show that x² − 2x + 2 > 0 for all real x, and state the domain of k.",
+    "marks": 2,
+    "answer": "x² − 2x + 2 = (x − 1)² + 1 ≥ 1 > 0 for all x, so the domain of k is all real numbers.",
+    "working": "M1 complete the square to (x − 1)² + 1; A1 positive for all x, domain x ∈ ℝ."
+   },
+   {
+    "label": "b",
+    "text": "Find the range of k.",
+    "marks": 3,
+    "answer": "k(x) ≥ 3",
+    "working": "(x − 1)² + 1 ≥ 1, so ln(x² − 2x + 2) ≥ ln 1 = 0 and k(x) ≥ 3. Every value k ≥ 3 is reached since (x − 1)² can take any value ≥ 0. M1 minimum of the argument, M1 apply ln, A1 range k(x) ≥ 3."
+   },
+   {
+    "label": "c",
+    "text": "State the value of x at which k(x) takes its least value.",
+    "marks": 1,
+    "answer": "x = 1",
+    "working": "The least value of (x − 1)² + 1 is 1, when x = 1. A1."
+   }
+  ],
+  "check": "(1-1)**2+1==1 and math.log(1)==0 and 3+math.log(1)==3",
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]
