@@ -6,7 +6,7 @@ import 'views/home_page.dart';
 
 const appName = 'Question Simulator';
 const appFullName = 'Question Simulator';
-const appVersion = '0.2.0';
+const appVersion = '0.2.1';
 
 /// Gives every page access to the content repository and the on-device store.
 class AppScope extends InheritedWidget {
