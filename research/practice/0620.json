@@ -20432,5 +20432,4119 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "0620-h1-001",
+  "topic": "States of matter",
+  "subtopic": "Kinetic particle theory & changes of state (incl. gas P/V/T)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A fixed mass of gas is sealed in a syringe. The plunger is pushed in slowly so that the volume of the gas halves while its temperature stays the same. Why does the pressure of the gas increase?\nA The gas particles move faster.\nB The gas particles hit the walls of the syringe more often.\nC The gas particles become smaller.\nD More gas particles are formed.",
+    "marks": 1,
+    "answer": "B The gas particles hit the walls of the syringe more often.",
+    "working": "Same number of particles with the same average speed in a smaller space, so collisions with the walls are more frequent → higher pressure. A is wrong: the temperature (and so the average speed) does not change. C and D: particle size and number are unchanged."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-002",
+  "topic": "States of matter",
+  "subtopic": "Kinetic particle theory & changes of state (incl. gas P/V/T)",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A few drops of liquid propanone are placed on the back of a student's hand. The propanone evaporates and the hand feels cold. Which statement explains the cooling?\nA The particles of propanone that escape are the ones with the most energy, so the average energy of the liquid left behind falls.\nB Propanone particles absorb heat from the air, so the air around the hand cools.\nC Evaporation is an exothermic change, so energy is lost to the surroundings.\nD Propanone particles lose energy as they become a gas, so the gas is colder than the liquid.",
+    "marks": 1,
+    "answer": "A The particles of propanone that escape are the ones with the most energy, so the average energy of the liquid left behind falls.",
+    "working": "Only the most energetic surface particles overcome the forces of attraction and escape; the remaining liquid has a lower average kinetic energy, so it is cooler and takes energy from the skin. C is wrong: evaporation is endothermic. D is wrong: particles must gain energy to escape."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-003",
+  "topic": "States of matter",
+  "subtopic": "Kinetic particle theory & changes of state (incl. gas P/V/T)",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "A student puts a finger tightly over the outlet of a bicycle pump so that no air can escape, then pushes the handle in.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what happens to the volume and to the pressure of the air inside the pump.",
+    "marks": 2,
+    "answer": "Volume decreases; pressure increases.",
+    "working": "B1 volume decreases; B1 pressure increases."
+   },
+   {
+    "label": "b",
+    "text": "Explain, in terms of particles, why the pressure changes.",
+    "marks": 2,
+    "answer": "The same number of air particles are in a smaller space, so they collide with the walls of the pump more often (more collisions per second).",
+    "working": "B1 particles closer together / same number in smaller volume; B1 more frequent collisions with the walls."
+   },
+   {
+    "label": "c",
+    "text": "The student lets go of the handle. Suggest what happens to the handle and why.",
+    "marks": 1,
+    "answer": "It moves back out, because the higher pressure of the trapped air pushes it out.",
+    "working": "B1 handle pushed back out by the (higher) pressure of the air."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-004",
+  "topic": "States of matter",
+  "subtopic": "Kinetic particle theory & changes of state (incl. gas P/V/T)",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Desi ghee is a mixture of several fats. In Lahore in January it is a pale solid in the tin. When the tin is placed in a pan of warm water, the ghee becomes a clear liquid gradually over the range 30 °C to 38 °C.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the ghee melts over a range of temperatures and not at one sharp temperature.",
+    "marks": 1,
+    "answer": "It is a mixture (not a pure substance), so it has no single melting point.",
+    "working": "B1 mixture / impure, so melts over a range."
+   },
+   {
+    "label": "b",
+    "text": "Describe the changes in the arrangement and the motion of the particles when the ghee melts.",
+    "marks": 3,
+    "answer": "Solid: particles close together in a regular arrangement, vibrating about fixed positions. Liquid: particles still close together but randomly arranged and able to move past (slide over) each other.",
+    "working": "B1 regular → random/irregular arrangement; B1 vibrate in fixed positions → move around/slide past each other; B1 particles stay close together (touching)."
+   },
+   {
+    "label": "c",
+    "text": "State whether melting is exothermic or endothermic. Explain your answer in terms of the forces between the particles.",
+    "marks": 2,
+    "answer": "Endothermic: energy is taken in to overcome (some of) the forces of attraction between the particles.",
+    "working": "B1 endothermic; B1 energy needed to overcome forces of attraction between particles."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-005",
+  "topic": "States of matter",
+  "subtopic": "Kinetic particle theory & changes of state (incl. gas P/V/T)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A student traps 100.0 cm³ of air in a gas syringe at 0 °C. The pressure is kept constant and the syringe is warmed. The volume is recorded at different temperatures.\nTemperature / °C: 0, 20, 40, 60, 80\nVolume / cm³: 100.0, 107.3, 114.7, 122.0, 129.3",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the pattern in the results.",
+    "marks": 1,
+    "answer": "As the temperature rises, the volume increases; it increases by about 7.3 cm³ for every 20 °C rise (a steady increase).",
+    "working": "B1 volume increases with temperature (by equal amounts for equal rises)."
+   },
+   {
+    "label": "b",
+    "text": "Use the pattern to predict the volume of the air at 100 °C.",
+    "marks": 1,
+    "answer": "136.6 cm³ (accept 136–137 cm³)",
+    "working": "B1 129.3 + 7.3 = 136.6 cm³."
+   },
+   {
+    "label": "c",
+    "text": "Explain, in terms of particles, why the volume increases when the air is heated at constant pressure.",
+    "marks": 3,
+    "answer": "Particles gain kinetic energy and move faster, so they hit the plunger harder and more often; the plunger moves out until the pressure is the same as outside, so the particles are further apart and the volume is larger.",
+    "working": "B1 particles gain energy / move faster; B1 collide with the plunger harder/more often; B1 plunger pushed out / particles spread further apart so volume increases."
+   },
+   {
+    "label": "d",
+    "text": "The particles of air do not themselves get larger when heated. Suggest a piece of evidence from the experiment that supports this idea.",
+    "marks": 1,
+    "answer": "When the syringe is cooled back to 0 °C the volume returns to 100.0 cm³ (the change is reversible), and the mass of air is unchanged.",
+    "working": "B1 cooling restores the original volume / mass unchanged — the extra volume is space between particles."
+   }
+  ],
+  "check": "abs(100*373/273-136.6)<0.1 and abs(129.3+7.3-136.6)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-006",
+  "topic": "States of matter",
+  "subtopic": "Kinetic particle theory & changes of state (incl. gas P/V/T)",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "Ice at −20 °C is heated steadily until it has all become steam at 120 °C. A graph of temperature against time is drawn. It has two flat (horizontal) sections.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the temperature of each flat section and name the change of state taking place during each.",
+    "marks": 2,
+    "answer": "0 °C: melting; 100 °C: boiling.",
+    "working": "B1 0 °C melting; B1 100 °C boiling."
+   },
+   {
+    "label": "b",
+    "text": "State the physical state(s) present while the temperature is rising from 20 °C to 80 °C.",
+    "marks": 1,
+    "answer": "Liquid only.",
+    "working": "B1 liquid."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the temperature does not rise during a flat section even though heat is still being supplied.",
+    "marks": 2,
+    "answer": "The energy is used to overcome the forces of attraction between the particles (to change state), not to increase the kinetic energy of the particles.",
+    "working": "B1 energy used to overcome forces of attraction / to change state; B1 so average kinetic energy (speed) of particles does not increase."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-007",
+  "topic": "States of matter",
+  "subtopic": "Kinetic particle theory & changes of state (incl. gas P/V/T)",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Gallium is a metal with a melting point of 30 °C. A piece of solid gallium held in a person's hand (skin temperature about 34 °C) slowly turns into a silvery liquid.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the change of state and state the direction in which energy is transferred.",
+    "marks": 2,
+    "answer": "Melting; energy is transferred from the hand to the gallium.",
+    "working": "B1 melting; B1 energy from hand to gallium (gallium takes in energy)."
+   },
+   {
+    "label": "b",
+    "text": "Explain, in terms of particles, why the gallium must take in energy to change state.",
+    "marks": 2,
+    "answer": "Energy is needed to overcome (some of) the forces of attraction between the gallium particles so they can move out of their fixed positions.",
+    "working": "B1 overcome forces of attraction; B1 particles leave fixed positions / can move past each other."
+   },
+   {
+    "label": "c",
+    "text": "The liquid gallium is placed in a fridge at 5 °C. State what happens and whether the change is exothermic or endothermic.",
+    "marks": 2,
+    "answer": "It freezes (solidifies); exothermic.",
+    "working": "B1 freezes/becomes solid; B1 exothermic (energy given out)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-008",
+  "topic": "States of matter",
+  "subtopic": "Kinetic particle theory & changes of state (incl. gas P/V/T)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "On a humid summer afternoon in Karachi, a glass of iced water is placed on a table. Within a minute, drops of water appear on the outside of the glass.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the change of state that produces the drops and state where the water in the drops comes from.",
+    "marks": 2,
+    "answer": "Condensation; water vapour in the air.",
+    "working": "B1 condensation; B1 from water vapour in the (humid) air, not from inside the glass."
+   },
+   {
+    "label": "b",
+    "text": "Explain, in terms of particles, why this change happens on the cold glass.",
+    "marks": 2,
+    "answer": "Water vapour particles hitting the cold surface lose kinetic energy, slow down and the forces of attraction pull them close together to form liquid.",
+    "working": "B1 particles lose energy / slow down at cold surface; B1 attractive forces pull them together into a liquid."
+   },
+   {
+    "label": "c",
+    "text": "Condensation is exothermic. Use this to explain why the iced water warms up faster in humid air than in dry air at the same temperature.",
+    "marks": 2,
+    "answer": "In humid air much more water vapour condenses on the glass; each condensation releases energy to the glass, adding to the heat gained from the air.",
+    "working": "B1 more condensation in humid air; B1 energy released by condensing is transferred to the glass/water."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-009",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "At the same temperature, gas X diffuses faster than oxygen but more slowly than methane. Which gas could X be?\n[Ar: H = 1, C = 12, N = 14, O = 16, Cl = 35.5]\nA carbon dioxide, CO₂\nB chlorine, Cl₂\nC hydrogen, H₂\nD nitrogen, N₂",
+    "marks": 1,
+    "answer": "D nitrogen, N₂",
+    "working": "Lower Mr diffuses faster. Methane 16, oxygen 32, so X has Mr between 16 and 32: N₂ = 28. CO₂ (44) and Cl₂ (71) are slower than oxygen; H₂ (2) is faster than methane."
+   }
+  ],
+  "check": "16 < 2*14 < 32 and not (16 < 12+32 < 32) and not (16 < 71 < 32) and not (16 < 2 < 32)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-010",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In which of these does diffusion happen most quickly?\nA sugar spreading through cold water\nB sugar spreading through hot water\nC the smell of a perfume spreading through warm air\nD the smell of a perfume spreading through cold air",
+    "marks": 1,
+    "answer": "C the smell of a perfume spreading through warm air",
+    "working": "Diffusion is fastest in gases (particles far apart, moving fast) and at higher temperature (particles have more kinetic energy). D is a gas but colder; A and B are liquids."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-011",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "A boy in Peshawar drops a sugar cube into a glass of still water and does not stir it. After two hours the water at the top of the glass tastes sweet.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the process that spreads the sugar through the water.",
+    "marks": 1,
+    "answer": "Diffusion.",
+    "working": "B1 diffusion."
+   },
+   {
+    "label": "b",
+    "text": "Explain, in terms of particles, how the sugar reaches the top of the glass.",
+    "marks": 2,
+    "answer": "Sugar and water particles move randomly; there is a net movement of sugar particles from where they are more concentrated (bottom) to where they are less concentrated (top).",
+    "working": "B1 random movement of particles; B1 net movement from high to low concentration."
+   },
+   {
+    "label": "c",
+    "text": "Suggest one way to make the sugar spread more quickly without stirring.",
+    "marks": 1,
+    "answer": "Use warm/hot water (or crush the sugar into small pieces).",
+    "working": "B1 warmer water / powdered sugar."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-012",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "When samosas are fried in a kitchen, the smell soon reaches people sitting in the next room.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what must happen to particles from the hot oil and food for the smell to be noticed in the next room.",
+    "marks": 1,
+    "answer": "Particles escape into the air as a gas/vapour and spread through the air to the people's noses.",
+    "working": "B1 particles become gas and move through the air."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the smell spreads through the air even when there is no wind or fan.",
+    "marks": 2,
+    "answer": "Gas particles move rapidly and randomly, colliding with air particles; there is a net movement from high concentration (kitchen) to low concentration (next room).",
+    "working": "B1 random, rapid movement of particles; B1 from higher to lower concentration."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why the smell spreads faster in summer than in winter.",
+    "marks": 1,
+    "answer": "Higher temperature: particles have more kinetic energy and move faster.",
+    "working": "B1 higher temperature → faster particles."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-013",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "A coloured sweet is placed in the centre of a white plate and a thin layer of water is poured around it. After a few minutes, coloured bands spread out from the sweet towards the edge of the plate.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the process that makes the colour spread out.",
+    "marks": 1,
+    "answer": "Diffusion.",
+    "working": "B1 diffusion."
+   },
+   {
+    "label": "b",
+    "text": "Describe the movement of the dye particles that causes the colour to spread.",
+    "marks": 2,
+    "answer": "Dye particles dissolve and move randomly among water particles, with a net movement away from the sweet (high concentration) towards the edge (low concentration).",
+    "working": "B1 random movement; B1 net movement from high to low concentration."
+   },
+   {
+    "label": "c",
+    "text": "State one way the experiment could be changed so that the colours spread more slowly.",
+    "marks": 1,
+    "answer": "Use cold water (lower temperature).",
+    "working": "B1 colder water."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-014",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "The three states of matter are solid, liquid and gas.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Put the three states in order of how fast diffusion takes place through them, fastest first.",
+    "marks": 1,
+    "answer": "gas > liquid > solid",
+    "working": "B1 gas, liquid, solid."
+   },
+   {
+    "label": "b",
+    "text": "Explain why diffusion is fastest in the state you put first.",
+    "marks": 2,
+    "answer": "Gas particles are far apart and move quickly and randomly, so they spread out with few obstacles.",
+    "working": "B1 particles far apart / lots of space; B1 move quickly / random motion."
+   },
+   {
+    "label": "c",
+    "text": "Explain why diffusion through a solid is extremely slow.",
+    "marks": 1,
+    "answer": "Particles in a solid only vibrate about fixed positions; they are not free to move from place to place.",
+    "working": "B1 particles vibrate in fixed positions / cannot move past each other."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-015",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "Natural gas is odourless. Gas companies add a very small amount of a strong-smelling compound so that a leak can be detected. A gas cooker tap in a kitchen in Rawalpindi is left slightly open.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the smelly compound is useful, even though only a tiny amount is added.",
+    "marks": 1,
+    "answer": "Its particles spread (diffuse) through the air so a leak can be smelled before the gas builds up to a dangerous level.",
+    "working": "B1 diffuses through the air so the leak can be detected by smell."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a person on the other side of the kitchen notices the smell after a short time.",
+    "marks": 2,
+    "answer": "The particles of the smelly compound move randomly and quickly among air particles, spreading from high concentration near the cooker to low concentration across the room.",
+    "working": "B1 random movement of gas particles; B1 net movement high → low concentration."
+   },
+   {
+    "label": "c",
+    "text": "State one safety action the family should take, apart from turning off the tap.",
+    "marks": 1,
+    "answer": "Open windows and doors / do not switch on lights or make sparks / no flames.",
+    "working": "B1 any sensible action."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-016",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "At room temperature, the following gases are released at the same time at one side of a laboratory: chlorine (Cl₂), methane (CH₄), hydrogen chloride (HCl), helium (He) and ammonia (NH₃).\n[Ar: H = 1, He = 4, C = 12, N = 14, Cl = 35.5]",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the relative molecular mass of each gas.",
+    "marks": 2,
+    "answer": "Cl₂ 71; CH₄ 16; HCl 36.5; He 4; NH₃ 17",
+    "working": "B2 all five correct (B1 for three or four)."
+   },
+   {
+    "label": "b",
+    "text": "List the gases in order of rate of diffusion, fastest first.",
+    "marks": 1,
+    "answer": "He, CH₄, NH₃, HCl, Cl₂",
+    "working": "B1 correct order (follows from Mr)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the gas with the smallest relative molecular mass diffuses fastest.",
+    "marks": 2,
+    "answer": "At the same temperature, lighter particles move faster (on average) so they spread out more quickly.",
+    "working": "B1 same temperature (same average energy); B1 lighter particles move faster."
+   }
+  ],
+  "check": "sorted([('Cl2',71),('CH4',12+4),('HCl',36.5),('He',4),('NH3',14+3)],key=lambda t:t[1])==[('He',4),('CH4',16),('NH3',17),('HCl',36.5),('Cl2',71)]",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-017",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Carbon dioxide (CO₂) and propane (C₃H₈) are both colourless gases.\n[Ar: H = 1, C = 12, O = 16]",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the relative molecular mass of each gas.",
+    "marks": 2,
+    "answer": "CO₂ = 44; C₃H₈ = 44",
+    "working": "B1 CO₂ 44; B1 C₃H₈ 44."
+   },
+   {
+    "label": "b",
+    "text": "Predict how the rates of diffusion of the two gases compare at the same temperature. Explain your answer.",
+    "marks": 2,
+    "answer": "The same rate, because they have the same relative molecular mass (particles of equal mass move at the same average speed at the same temperature).",
+    "working": "B1 same rate; B1 same Mr."
+   },
+   {
+    "label": "c",
+    "text": "Name one gas that would diffuse faster than both of them and give a reason.",
+    "marks": 1,
+    "answer": "e.g. nitrogen (Mr 28) / methane (16) / any gas with Mr < 44 — lower Mr diffuses faster.",
+    "working": "B1 named gas with Mr below 44 and reason."
+   }
+  ],
+  "check": "12+2*16==44 and 3*12+8==44",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-018",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A gas jar full of hydrogen is placed upside down on top of a gas jar full of air, and the cover slides between them are removed. Hydrogen is much less dense than air. After 15 minutes the jars are separated and a lighted splint is put into each.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what is seen in each jar when the lighted splint is inserted.",
+    "marks": 2,
+    "answer": "A (squeaky) pop in both jars.",
+    "working": "B1 pop in the upper jar; B1 pop in the lower jar too."
+   },
+   {
+    "label": "b",
+    "text": "Explain why hydrogen is found in the lower jar, even though hydrogen is less dense than air.",
+    "marks": 2,
+    "answer": "Particles move randomly in all directions; diffusion causes a net movement of hydrogen from where its concentration is high (top) to low (bottom), so the gases mix.",
+    "working": "B1 random motion of particles (in all directions); B1 net movement from high to low concentration / gases mix evenly."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why the mixing would take longer if the jars contained chlorine and air instead of hydrogen and air.",
+    "marks": 1,
+    "answer": "Chlorine has a much higher Mr (71) than hydrogen (2), so its particles move more slowly.",
+    "working": "B1 chlorine particles heavier → move more slowly."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-019",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A cleaner in Islamabad uses a bleach containing chlorine compounds in a bathroom and a glass cleaner that gives off ammonia gas in a nearby room.\n[Ar: H = 1, N = 14, Cl = 35.5]",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the relative molecular masses of chlorine, Cl₂, and ammonia, NH₃.",
+    "marks": 2,
+    "answer": "Cl₂ = 71; NH₃ = 17",
+    "working": "B1 71; B1 17."
+   },
+   {
+    "label": "b",
+    "text": "Predict which gas the cleaner will smell first when standing in a corridor at the same distance from both rooms. Explain your answer.",
+    "marks": 2,
+    "answer": "Ammonia, because it has a lower Mr so its particles move faster and diffuse faster.",
+    "working": "B1 ammonia; B1 lower Mr / lighter particles → faster diffusion."
+   },
+   {
+    "label": "c",
+    "text": "Suggest one reason why the observed order might not match the prediction in a real home.",
+    "marks": 1,
+    "answer": "Draughts/air currents or a fan, or one gas released in a much larger amount, or the rooms at different temperatures.",
+    "working": "B1 any sensible reason."
+   }
+  ],
+  "check": "2*35.5==71 and 14+3==17",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-020",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A long glass tube is clamped horizontally. Cotton wool soaked in concentrated ammonia solution is placed at one end and both ends are sealed. Strips of damp red litmus paper are fixed inside the tube every 10 cm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what happens to the litmus papers over time.",
+    "marks": 2,
+    "answer": "They turn blue one after another, starting with the paper nearest the ammonia.",
+    "working": "B1 turn blue; B1 in order, nearest first."
+   },
+   {
+    "label": "b",
+    "text": "The experiment is repeated with cotton wool soaked in concentrated hydrochloric acid and damp blue litmus paper. State the colour change and whether the papers change faster or more slowly than with ammonia. Explain.",
+    "marks": 3,
+    "answer": "Blue → red; more slowly, because hydrogen chloride (Mr 36.5) has a larger Mr than ammonia (Mr 17) so its particles move more slowly.",
+    "working": "B1 blue to red; B1 more slowly; B1 HCl has larger Mr / heavier particles move more slowly."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-021",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "The ammonia–hydrogen chloride white-ring experiment is carried out in two identical tubes. Tube 1 is at 15 °C and tube 2 is at 35 °C. The same amounts of concentrated solutions are used in both.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the white solid formed and write a word equation for its formation.",
+    "marks": 2,
+    "answer": "Ammonium chloride; ammonia + hydrogen chloride → ammonium chloride.",
+    "working": "B1 ammonium chloride; B1 word equation."
+   },
+   {
+    "label": "b",
+    "text": "State in which tube the white ring appears first. Explain your answer in terms of particles.",
+    "marks": 2,
+    "answer": "Tube 2 (35 °C): particles have more kinetic energy and move faster, so they meet sooner.",
+    "working": "B1 tube 2; B1 more energy → faster particles."
+   },
+   {
+    "label": "c",
+    "text": "Suggest whether the position of the ring would be very different in the two tubes. Give a reason.",
+    "marks": 1,
+    "answer": "No, roughly the same position (nearer the HCl end in both): both gases speed up, and ammonia is still faster because it has the lower Mr.",
+    "working": "B1 similar position, both gases speed up / ammonia still faster."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-022",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "A student placed a drop of ink at the bottom of a beaker of still water and timed how long it took for the colour to become even throughout the water. She repeated this at different water temperatures, using the same volume of water and the same size of drop.\nTemperature / °C: 10, 20, 30, 40, 50\nTime / s: 620, 450, 330, 250, 190",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the trend shown by the results.",
+    "marks": 1,
+    "answer": "As the temperature increases, the time taken decreases (diffusion is faster).",
+    "working": "B1 higher temperature, shorter time."
+   },
+   {
+    "label": "b",
+    "text": "Estimate the time taken at 35 °C.",
+    "marks": 1,
+    "answer": "About 290 s",
+    "working": "B1 290 s (accept 280–300 s)."
+   },
+   {
+    "label": "c",
+    "text": "Explain the trend in terms of particles.",
+    "marks": 2,
+    "answer": "At higher temperature the particles have more kinetic energy and move faster, so the ink particles spread out more quickly.",
+    "working": "B1 more energy; B1 particles move faster → faster diffusion."
+   },
+   {
+    "label": "d",
+    "text": "Suggest why the beaker must not be moved or stirred during the experiment.",
+    "marks": 1,
+    "answer": "Stirring/movement would mix the ink by convection/currents, so the time would not measure diffusion alone.",
+    "working": "B1 would mix the liquid, not a fair measure of diffusion."
+   },
+   {
+    "label": "e",
+    "text": "Suggest why deciding when the colour is 'even' is a source of error, and one way to reduce it.",
+    "marks": 2,
+    "answer": "It is a judgement by eye; use the same observer and the same lighting with a white background, or use a colorimeter / compare with a standard colour.",
+    "working": "B1 subjective end-point; B1 sensible improvement."
+   }
+  ],
+  "check": "abs((330+250)/2-290)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-023",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "Cotton wool soaked in concentrated ammonia solution was put in one end of a glass tube 50 cm long, and the end was sealed. Damp red litmus papers were placed in the tube at 10 cm intervals from the ammonia end. The time for each paper to turn blue was recorded.\nDistance from ammonia / cm: 10, 20, 30, 40\nTime / s: 25, 70, 140, 240",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the average speed at which the ammonia moved over the first 10 cm, in cm/s.",
+    "marks": 1,
+    "answer": "0.40 cm/s",
+    "working": "B1 10 ÷ 25 = 0.40 cm/s."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the average speed of the ammonia between the 30 cm and 40 cm papers, in cm/s.",
+    "marks": 2,
+    "answer": "0.10 cm/s",
+    "working": "M1 10 ÷ (240 − 140); A1 0.10 cm/s."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the average speed over the whole 40 cm. Give your answer to 2 significant figures.",
+    "marks": 1,
+    "answer": "0.17 cm/s",
+    "working": "B1 40 ÷ 240 = 0.17 cm/s."
+   },
+   {
+    "label": "d",
+    "text": "Suggest why the ammonia reaches each paper more slowly the further it is from the cotton wool.",
+    "marks": 2,
+    "answer": "Further along the tube the concentration difference (gradient) is smaller, and the ammonia particles collide with air particles in random directions, so the net movement slows; some ammonia also dissolves in the damp papers.",
+    "working": "B1 smaller concentration difference further along / random collisions with air; B1 ammonia removed by dissolving in damp papers."
+   },
+   {
+    "label": "e",
+    "text": "State why the tube must be sealed at both ends.",
+    "marks": 1,
+    "answer": "So that draughts/air currents do not move the ammonia (and ammonia does not escape), so only diffusion is measured.",
+    "working": "B1 prevent air currents / escape of gas."
+   }
+  ],
+  "check": "abs(10/25-0.40)<1e-9 and abs(10/(240-140)-0.10)<1e-9 and round(40/240,2)==0.17",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-024",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Three coloured dyes, P, Q and R, were tested. A small well was cut in the centre of each of three identical dishes of agar jelly at 25 °C and one drop of a dye was placed in each well. After 2.0 hours the distance the colour had spread from the edge of the well was measured.\nDye P: relative formula mass 150, distance 12.0 mm\nDye Q: relative formula mass 300, distance 8.5 mm\nDye R: relative formula mass 600, distance 6.0 mm",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the average rate of spreading of each dye in mm per hour.",
+    "marks": 2,
+    "answer": "P 6.0 mm/h; Q 4.25 mm/h (4.3); R 3.0 mm/h",
+    "working": "B2 all three (B1 for two)."
+   },
+   {
+    "label": "b",
+    "text": "State the conclusion that can be drawn about relative formula mass and rate of diffusion.",
+    "marks": 1,
+    "answer": "The larger the relative formula mass, the slower the dye diffuses.",
+    "working": "B1 higher mass → slower diffusion."
+   },
+   {
+    "label": "c",
+    "text": "Use the results to state whether the rate is inversely proportional to the relative formula mass. Explain.",
+    "marks": 2,
+    "answer": "No: doubling the mass from 150 to 300 does not halve the rate (6.0 → 4.25, not 3.0).",
+    "working": "B1 no; B1 use of data, e.g. rate falls by less than half when mass doubles."
+   },
+   {
+    "label": "d",
+    "text": "Suggest two variables that must be kept the same in this experiment.",
+    "marks": 2,
+    "answer": "Any two of: temperature, size of drop/volume, concentration of dye, depth/type of jelly, time.",
+    "working": "B1 each."
+   }
+  ],
+  "check": "abs(12.0/2-6.0)<1e-9 and abs(8.5/2-4.25)<1e-9 and abs(6.0/2-3.0)<1e-9 and abs(6.0/2-4.25)>1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-025",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "An unglazed porous pot (it has tiny holes that gas particles can pass through) is filled with air and sealed with a bung. A glass tube passes through the bung and its other end dips into a beaker of water. A large beaker filled with hydrogen is lowered over the porous pot.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Bubbles come out of the end of the glass tube into the water. Explain why.",
+    "marks": 3,
+    "answer": "Hydrogen (Mr 2) diffuses into the pot faster than air (mainly N₂, O₂, Mr about 29) diffuses out, so the amount of gas and the pressure inside the pot increase, pushing gas out of the tube.",
+    "working": "B1 hydrogen diffuses in; B1 faster than air diffuses out because hydrogen particles are lighter; B1 pressure inside rises → gas pushed out."
+   },
+   {
+    "label": "b",
+    "text": "The beaker of hydrogen is then removed. Predict what happens to the water level in the glass tube. Explain.",
+    "marks": 2,
+    "answer": "Water rises up the tube: hydrogen now diffuses out of the pot faster than air diffuses in, so the pressure inside falls.",
+    "working": "B1 water rises up the tube; B1 hydrogen diffuses out faster → pressure inside falls."
+   },
+   {
+    "label": "c",
+    "text": "Predict what would be seen if the beaker contained carbon dioxide instead of hydrogen.",
+    "marks": 1,
+    "answer": "Water rises up the tube (no bubbles), because CO₂ (Mr 44) diffuses in more slowly than air diffuses out, so the pressure inside falls.",
+    "working": "B1 water rises because CO₂ is heavier than air."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-026",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Two identical rubber balloons are blown up to the same size at a birthday party in Lahore. One is filled with helium and the other with air. The next morning the helium balloon has shrunk much more than the air balloon.\n[Ar: He = 4; average Mr of air ≈ 29]",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the helium balloon shrinks faster.",
+    "marks": 3,
+    "answer": "Rubber has tiny gaps that gas particles can pass through. Helium atoms have a much smaller Mr than the particles in air, so at the same temperature they move faster and diffuse out through the rubber faster.",
+    "working": "B1 particles escape through tiny holes/pores in rubber; B1 helium has lower Mr / lighter particles; B1 move faster → diffuse out faster."
+   },
+   {
+    "label": "b",
+    "text": "Suggest whether a balloon filled with carbon dioxide (Mr 44) would shrink faster or more slowly than the air balloon. Give a reason.",
+    "marks": 1,
+    "answer": "More slowly, because CO₂ has a higher Mr than air so its particles move more slowly.",
+    "working": "B1 more slowly with reason."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why both balloons shrink faster if they are left in a hot car.",
+    "marks": 1,
+    "answer": "Higher temperature → particles move faster → escape faster (diffusion faster).",
+    "working": "B1 particles move faster at higher temperature."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-027",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Hydrogen molecules (H₂) and oxygen molecules (O₂) in a room are at the same temperature.\n[Ar: H = 1, O = 16]",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is the same about the particles of the two gases at the same temperature.",
+    "marks": 1,
+    "answer": "They have the same average kinetic energy.",
+    "working": "B1 same average kinetic energy."
+   },
+   {
+    "label": "b",
+    "text": "Hence explain why hydrogen molecules move faster on average than oxygen molecules.",
+    "marks": 2,
+    "answer": "Kinetic energy depends on mass and speed; hydrogen molecules have a much smaller mass (Mr 2 vs 32), so to have the same kinetic energy they must move faster.",
+    "working": "B1 hydrogen molecules have smaller mass; B1 same energy → higher speed."
+   },
+   {
+    "label": "c",
+    "text": "Calculate how many times greater the Mr of oxygen is than the Mr of hydrogen.",
+    "marks": 1,
+    "answer": "16 times",
+    "working": "B1 32 ÷ 2 = 16."
+   },
+   {
+    "label": "d",
+    "text": "A hydrogen molecule moves at hundreds of metres per second, yet hydrogen released in a still room takes many seconds to cross it. Explain why.",
+    "marks": 2,
+    "answer": "Each molecule collides with air particles billions of times, changing direction randomly, so its net progress in one direction is slow.",
+    "working": "B1 frequent collisions with air particles; B1 random changes of direction → slow net movement."
+   }
+  ],
+  "check": "(2*16)/(2*1)==16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-028",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Two test-tubes of water are set up in a rack. Into tube A a student carefully puts concentrated aqueous copper(II) sulfate under the water using a long pipette, so that the blue solution forms a layer at the bottom. Tube B is set up the same way with dilute aqueous copper(II) sulfate. Both are left still at the same temperature.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is seen in both tubes after several days.",
+    "marks": 1,
+    "answer": "The blue colour spreads up through the water until the colour is the same throughout (paler than the bottom layer at the start).",
+    "working": "B1 blue colour spreads evenly throughout the water."
+   },
+   {
+    "label": "b",
+    "text": "Predict in which tube the blue colour first reaches the top of the water. Explain your answer.",
+    "marks": 2,
+    "answer": "Tube A: the difference in concentration between the bottom and top is greater, so the net movement of Cu²⁺/blue particles upwards is faster.",
+    "working": "B1 A; B1 larger concentration difference/gradient → faster net diffusion."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the final colour in tube A is darker than in tube B.",
+    "marks": 1,
+    "answer": "More copper(II) ions/particles are spread through the same volume, so the final concentration is higher.",
+    "working": "B1 more blue particles in the same volume."
+   },
+   {
+    "label": "d",
+    "text": "Explain why diffusion stops making any visible change once the colour is even, although the particles keep moving.",
+    "marks": 2,
+    "answer": "Particles still move randomly, but as many move up as move down, so there is no net movement and the concentration stays the same.",
+    "working": "B1 particles keep moving randomly; B1 no net movement / equal movement in all directions."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-029",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A tea bag is placed in a cup of hot water and another in a cup of cold water. The cups are not stirred.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State in which cup the colour spreads faster and explain why.",
+    "marks": 2,
+    "answer": "Hot water: particles have more kinetic energy and move faster, so diffusion is faster.",
+    "working": "B1 hot cup; B1 faster-moving particles."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the colour still spreads in the cold water, even though more slowly.",
+    "marks": 1,
+    "answer": "Particles in a liquid are always moving randomly, even at low temperature.",
+    "working": "B1 particles always in random motion."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why the tea becomes strong more quickly if the tea bag is moved up and down.",
+    "marks": 1,
+    "answer": "This moves the liquid (mixing/convection), carrying coloured particles away much faster than diffusion alone.",
+    "working": "B1 mixing moves the liquid itself, faster than diffusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-030",
+  "topic": "States of matter",
+  "subtopic": "Diffusion",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A bottle of perfume is opened in one corner of a room. On a warm afternoon the smell reaches the opposite corner in about 30 seconds. On a cold morning, in the same room with the same amount of perfume, the smell takes several minutes to arrive.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the process by which the smell of the perfume spreads through the room.",
+    "marks": 1,
+    "answer": "Diffusion",
+    "working": "1 mark: diffusion (net movement of particles from a higher to a lower concentration)."
+   },
+   {
+    "label": "b",
+    "text": "Explain, in terms of particles, why the smell reaches the far corner faster on the warm afternoon than on the cold morning.",
+    "marks": 3,
+    "answer": "Any three: the particles have more kinetic energy and move faster when warm; they collide with air particles more often; a higher average speed means more particles reach the far corner in a given time; so the smell spreads faster.",
+    "working": "1 mark each for any three of the points above. Temperature changes the speed of the particles, not their size or number."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-031",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Tests for ions, gases & water",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Four colourless solutions are each acidified with dilute nitric acid and then aqueous silver nitrate is added. Which solution gives a cream precipitate?\nA sodium chloride\nB sodium bromide\nC sodium iodide\nD sodium nitrate",
+    "marks": 1,
+    "answer": "B sodium bromide",
+    "working": "Silver bromide is a cream precipitate. Silver chloride is white and silver iodide is yellow. Sodium nitrate gives no precipitate, because all nitrates are soluble. The dilute nitric acid removes carbonate or hydroxide ions that would form a different precipitate."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-032",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Tests for ions, gases & water",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A gas is collected in a test tube and a lighted splint is held at the mouth of the tube. The gas burns with a squeaky pop. Which gas is it?\nA carbon dioxide\nB hydrogen\nC oxygen\nD nitrogen",
+    "marks": 1,
+    "answer": "B hydrogen",
+    "working": "Hydrogen burns with a squeaky pop. Oxygen relights a glowing splint but does not pop with a lighted one. Carbon dioxide and nitrogen both put out a lighted splint."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-033",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Tests for ions, gases & water",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe a test for sulfate ions in a solution. Give the reagents you add, in the order you add them, and the result of a positive test.",
+    "marks": 3,
+    "answer": "Add dilute hydrochloric acid (dilute nitric acid is also acceptable), then add aqueous barium chloride (or barium nitrate). A white precipitate shows that sulfate ions are present.",
+    "working": "1 mark: dilute hydrochloric acid added first. 1 mark: aqueous barium chloride (or barium nitrate). 1 mark: white precipitate for a positive result."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-034",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Tests for ions, gases & water",
+  "paper": "5",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solid X is calcium carbonate. A student adds dilute hydrochloric acid to solid X in a test tube and a gas is given off. Describe the test for this gas and state the result of a positive test.",
+    "marks": 2,
+    "answer": "Pass the gas into (or shake it with) limewater. Limewater turns milky (cloudy) if the gas is carbon dioxide.",
+    "working": "1 mark: limewater used. 1 mark: milky or cloudy result."
+   },
+   {
+    "label": "b",
+    "text": "Write the word equation for the reaction of calcium carbonate with dilute hydrochloric acid.",
+    "marks": 2,
+    "answer": "calcium carbonate + hydrochloric acid → calcium chloride + water + carbon dioxide",
+    "working": "1 mark: correct reactants. 1 mark: all three products, correct."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-035",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Tests for ions, gases & water",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "A student has four solutions: lithium chloride, sodium chloride, potassium chloride and copper(II) chloride. The student carries out flame tests with a clean nichrome wire.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the nichrome wire is cleaned before each flame test.",
+    "marks": 2,
+    "answer": "Dip the wire in concentrated hydrochloric acid, then hold it in the blue flame until no colour is seen. Repeat if needed.",
+    "working": "1 mark: dipped in concentrated hydrochloric acid. 1 mark: heated in the flame until the flame shows no colour."
+   },
+   {
+    "label": "b",
+    "text": "State the flame colour expected for copper(II) chloride.",
+    "marks": 1,
+    "answer": "Blue-green",
+    "working": "1 mark."
+   },
+   {
+    "label": "c",
+    "text": "Give two reasons why the wire must be cleaned between tests.",
+    "marks": 2,
+    "answer": "Any two: a colour left on the wire from the previous solution would mix with the new colour; so the flame colour shows only the metal ion in the sample being tested; so the results are not wrong.",
+    "working": "1 mark each for any two of the points above."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-036",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Tests for ions, gases & water",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Solid Y is suspected to be ammonium chloride. State the reagent you add to solid Y and describe what you do to make a gas.",
+    "marks": 2,
+    "answer": "Add aqueous sodium hydroxide, then warm the mixture gently.",
+    "working": "1 mark: aqueous sodium hydroxide. 1 mark: warm the mixture."
+   },
+   {
+    "label": "b",
+    "text": "Describe the test for the gas and the result of a positive test.",
+    "marks": 2,
+    "answer": "Hold a piece of damp red litmus paper at the mouth of the tube. It turns blue, showing ammonia is given off.",
+    "working": "1 mark: damp red litmus paper held at the mouth of the tube (or a glass rod with concentrated hydrochloric acid to give white smoke). 1 mark: turns blue."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-037",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Tests for ions, gases & water",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Solution R gives a white precipitate with aqueous sodium hydroxide. The precipitate does not dissolve when more sodium hydroxide is added. Solution R also gives a white precipitate with aqueous ammonia that does not dissolve in excess ammonia.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the cation in solution R.",
+    "marks": 1,
+    "answer": "Magnesium ions (Mg²⁺)",
+    "working": "1 mark. Aluminium ions would give a precipitate that dissolves in excess sodium hydroxide, but magnesium does not."
+   },
+   {
+    "label": "b",
+    "text": "Write the ionic equation, with state symbols, for the reaction of the cation with aqueous sodium hydroxide.",
+    "marks": 2,
+    "answer": "Mg²⁺(aq) + 2OH⁻(aq) → Mg(OH)₂(s)",
+    "working": "1 mark: Mg(OH)₂ is the solid product. 1 mark: correct ions on the left and balanced with state symbols."
+   },
+   {
+    "label": "c",
+    "text": "Explain how the result with excess sodium hydroxide tells magnesium ions apart from aluminium ions.",
+    "marks": 2,
+    "answer": "Aluminium hydroxide dissolves in excess sodium hydroxide (forming a soluble complex). Magnesium hydroxide does not dissolve, so a white precipitate that stays in excess shows Mg²⁺.",
+    "working": "1 mark: aluminium hydroxide dissolves in excess. 1 mark: magnesium hydroxide does not, so the precipitate remains."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-038",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Tests for ions, gases & water",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Gas Z is a pale yellow-green gas with a choking smell. It is made in the laboratory and tested as follows.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name gas Z.",
+    "marks": 1,
+    "answer": "Chlorine",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "A piece of damp blue litmus paper is held in the gas. Describe what is seen.",
+    "marks": 2,
+    "answer": "The paper turns red first, then the colour is bleached so the paper becomes white.",
+    "working": "1 mark: turns red. 1 mark: then bleached (white)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why dry litmus paper held in the same gas does not show the same result.",
+    "marks": 1,
+    "answer": "Dry chlorine does not form the acid and bleaching species that need water, so the litmus paper does not change colour.",
+    "working": "1 mark: needs water to form acid and bleaching products."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-039",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Practical planning & evaluation",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "A student compares the energy released by three fuels: ethanol, paraffin and butane. Each fuel is burned under a metal can containing water, and the temperature rise of the water is measured.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the independent variable.",
+    "marks": 1,
+    "answer": "The type of fuel (ethanol, paraffin or butane).",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Give two variables that should be kept the same.",
+    "marks": 2,
+    "answer": "Any two: volume of water; starting temperature of the water; distance from the flame to the can; time for which each fuel burns.",
+    "working": "1 mark each for any two of the variables above."
+   },
+   {
+    "label": "c",
+    "text": "Give one way to reduce heat lost from the can to the surroundings.",
+    "marks": 1,
+    "answer": "Put a lid on the can, use a draught shield, or insulate the can.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-040",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Practical planning & evaluation",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student prepares dilute sulfuric acid from concentrated sulfuric acid in a school laboratory.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State one safety precaution the student should take.",
+    "marks": 1,
+    "answer": "Wear eye protection (safety goggles), a lab coat and gloves.",
+    "working": "1 mark: any sensible precaution."
+   },
+   {
+    "label": "b",
+    "text": "State the correct order of mixing and explain why.",
+    "marks": 2,
+    "answer": "Add the concentrated acid slowly to the water, not the water to the acid. Mixing releases a large amount of heat; adding the acid to a large volume of water spreads the heat out and reduces the risk of boiling and spitting.",
+    "working": "1 mark: acid added to water (not water to acid). 1 mark: heat released is spread out, so the mixture does not boil or spit."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-041",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Practical planning & evaluation",
+  "paper": "5",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Plan an investigation into how the surface area of marble chips affects the rate of reaction with dilute hydrochloric acid. Your answer should include: the apparatus; the method in numbered steps; the variables (independent, dependent and controlled); and how the results will be made reliable.",
+    "marks": 6,
+    "answer": "Apparatus: conical flask with bung and delivery tube, gas syringe or measuring cylinder over water, stopwatch, balance. Independent variable: surface area (lumps compared with powder). Controlled: same mass of marble, same volume and concentration of acid, same temperature. Method: add the acid, record the volume of gas at regular times. Reliability: repeat each experiment and calculate averages; plot volume against time and use the gradient as the rate.",
+    "working": "1 mark for apparatus. 1 mark for the independent variable (surface area). 1 mark for at least two controlled variables. 1 mark for a clear measuring method (gas volume at set times). 1 mark for repeats or averages. 1 mark for plotting and using the gradient as the rate."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-042",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Practical planning & evaluation",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "A student measures the temperature change when a metal powder reacts with 50 cm³ of dilute acid in a polystyrene cup. The temperature rises by 4.0 °C. The student concludes that the reaction released 4.0 °C of energy.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the error in the student's conclusion.",
+    "marks": 1,
+    "answer": "The temperature rise (4.0 °C) is not an energy value. The energy released depends on the mass and specific heat capacity of the water (and mixture) as well as the temperature change.",
+    "working": "1 mark: the student confused a temperature change with an energy value."
+   },
+   {
+    "label": "b",
+    "text": "Name two sources of heat loss in this experiment.",
+    "marks": 2,
+    "answer": "Any two: heat escapes to the air from the open top of the cup; heat is absorbed by the cup and the thermometer; heat is lost through the walls of the cup.",
+    "working": "1 mark each for any two sources."
+   },
+   {
+    "label": "c",
+    "text": "Suggest one improvement to reduce heat loss.",
+    "marks": 1,
+    "answer": "Put a lid on the cup, with a hole for the thermometer.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-043",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Practical planning & evaluation",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A student investigates how the voltage across an electrolysis cell affects the mass of copper deposited on a copper cathode from copper(II) sulfate solution.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the student should prepare the copper cathode and measure its mass.",
+    "marks": 2,
+    "answer": "Dry the cathode and weigh it before the electrolysis; after the electrolysis, dry it again and weigh it. Record both masses.",
+    "working": "1 mark: weighed before. 1 mark: dried and weighed again after."
+   },
+   {
+    "label": "b",
+    "text": "Give two variables that should be kept the same in each experiment.",
+    "marks": 2,
+    "answer": "Any two: the time for electrolysis; the electrode area; the concentration of the copper(II) sulfate solution; the distance between the electrodes.",
+    "working": "1 mark each for any two."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the mass of copper deposited may increase when the voltage is increased.",
+    "marks": 1,
+    "answer": "A higher voltage gives a larger current, so more electrons pass and more copper is deposited.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-044",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Practical planning & evaluation",
+  "paper": "6",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Plan an experiment to find the mass of water in a sample of hydrated copper(II) sulfate. Include: the apparatus; the steps; the measurements; how you are sure all the water has been removed; and how the mass of water is found.",
+    "marks": 6,
+    "answer": "Apparatus: crucible or evaporating basin, balance, tripod and gauze or heat source, clamp. Steps: weigh the empty crucible, add the crystals and weigh again, heat gently until the blue colour turns white, allow to cool, weigh. Repeat heating and weighing until the mass is constant. Mass of water = mass before heating minus mass after heating.",
+    "working": "1 mark: suitable apparatus. 1 mark: weighing of empty container and of the crystals. 1 mark: gentle heating until blue turns white. 1 mark: cooling before weighing. 1 mark: heating and weighing repeated until a constant mass. 1 mark: mass of water = loss in mass."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-045",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Practical planning & evaluation",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A student collects hydrogen over water in a measuring cylinder by reacting zinc with dilute hydrochloric acid. The student expects 40.0 cm³ of gas but measures 35.0 cm³.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two reasons why the measured volume could be less than expected.",
+    "marks": 2,
+    "answer": "Any two: some gas escapes before the cylinder is full; a leak at the delivery tube connection; some hydrogen dissolves in the water; misreading of the scale.",
+    "working": "1 mark each for any two valid reasons."
+   },
+   {
+    "label": "b",
+    "text": "Explain how the student could make the volume measurement more accurate.",
+    "marks": 2,
+    "answer": "Use a gas syringe (or a measuring cylinder with finer scale); make sure the apparatus is airtight; read the scale at eye level.",
+    "working": "1 mark for a suitable change of apparatus or method. 1 mark for a correct explanation (less gas lost or misread)."
+   },
+   {
+    "label": "c",
+    "text": "State one way to make the results more reliable.",
+    "marks": 1,
+    "answer": "Repeat the experiment and calculate a mean volume.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-046",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Practical planning & evaluation",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "A student investigates the effect of temperature on the time taken for a cross to disappear when sodium thiosulfate solution reacts with dilute hydrochloric acid.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State one variable that must be kept the same in each run.",
+    "marks": 1,
+    "answer": "Any one: the volume and concentration of the sodium thiosulfate; the volume and concentration of the hydrochloric acid; the same flask and cross.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Describe how the temperature of the reaction mixture is controlled.",
+    "marks": 2,
+    "answer": "Warm the sodium thiosulfate solution in a water bath to the chosen temperature. Measure the temperature just before adding the acid and use a thermometer in the mixture.",
+    "working": "1 mark: water bath used to warm the thiosulfate. 1 mark: temperature checked just before adding the acid."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-047",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Results tables, graphs & data analysis",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The four titres are 24.10 cm³, 24.05 cm³, 24.00 cm³ and 24.45 cm³. What is the mean of the concordant titres?\nA 24.05 cm³\nB 24.15 cm³\nC 24.25 cm³\nD 24.45 cm³",
+    "marks": 1,
+    "answer": "A 24.05 cm³",
+    "working": "24.45 cm³ is anomalous (more than 0.1 cm³ away from the others) and is discarded. Mean of 24.10, 24.05 and 24.00 = 24.05 cm³. B is the mean of all four titres, which wrongly includes the anomalous value."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "round((24.10+24.05+24.00)/3,2)==24.05"
+ },
+ {
+  "id": "0620-h1-048",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Results tables, graphs & data analysis",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A graph of volume of gas (cm³) against time (s) is a straight line through the origin. The volume is 60 cm³ at 120 s. What is the mean rate of reaction?\nA 0.5 cm³/s\nB 2.0 cm³/s\nC 60 cm³/s\nD 120 cm³/s",
+    "marks": 1,
+    "answer": "A 0.5 cm³/s",
+    "working": "Rate = volume ÷ time = 60 ÷ 120 = 0.5 cm³/s. B divides the time by the volume (120 ÷ 60 = 2.0), which gives the time per cm³, not the rate."
+   }
+  ],
+  "check": "round(60/120,1)==0.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-049",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Results tables, graphs & data analysis",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student reacts different masses of magnesium with 50 cm³ of dilute hydrochloric acid in a polystyrene cup and records the temperature rise. Mass of magnesium (g): 0.10, 0.20, 0.30, 0.40. Temperature rise (°C): 6.0, 12.1, 17.9, 24.2.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the dependent variable.",
+    "marks": 1,
+    "answer": "Temperature rise (in °C).",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the temperature rise per gram of magnesium for the 0.20 g result. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "60.5 °C per gram",
+    "working": "1 mark: 12.1 ÷ 0.20. 1 mark: 60.5 °C/g."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why the acid should be in excess in this experiment.",
+    "marks": 1,
+    "answer": "So that all the magnesium reacts; the temperature rise then depends on the mass of magnesium used.",
+    "working": "1 mark: the magnesium is the limiting reagent and all of it reacts."
+   }
+  ],
+  "check": "round(12.1/0.20,1)==60.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-050",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Results tables, graphs & data analysis",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "Calcium carbonate reacts with excess dilute hydrochloric acid. The mass lost (carbon dioxide escaping) is measured every minute. Time (min): 0, 1, 2, 3, 4, 5. Mass lost (g): 0.00, 0.45, 0.80, 1.05, 1.10, 1.10.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the rate of mass loss changes over the 5 minutes.",
+    "marks": 2,
+    "answer": "The rate is fastest at the start and slows down. The mass stops changing after about 4 minutes, so the reaction has finished (one reactant used up).",
+    "working": "1 mark: rate decreases over time (steepest at the start). 1 mark: mass becomes constant at about 4 minutes, showing the reaction is complete."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mean rate of mass loss between 0 and 2 minutes, in g/min.",
+    "marks": 2,
+    "answer": "0.40 g/min",
+    "working": "1 mark: (0.80 − 0.00) ÷ 2. 1 mark: 0.40 g/min."
+   }
+  ],
+  "check": "round((0.80-0.00)/2,2)==0.4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-051",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Results tables, graphs & data analysis",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "The solubility of potassium nitrate in 100 g of water was measured at four temperatures: 20 °C: 32 g; 40 °C: 64 g; 60 °C: 110 g; 80 °C: 169 g.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the trend in solubility as the temperature increases.",
+    "marks": 2,
+    "answer": "The solubility increases as the temperature increases. The increase is larger at the higher temperatures (the curve gets steeper).",
+    "working": "1 mark: solubility increases with temperature. 1 mark: the increase per 20 °C is greater at higher temperatures."
+   },
+   {
+    "label": "b",
+    "text": "Estimate the solubility at 50 °C, assuming the graph between 40 °C and 60 °C is a straight line. Show your working.",
+    "marks": 2,
+    "answer": "87 g of potassium nitrate per 100 g of water",
+    "working": "1 mark: 64 + (110 − 64) × 10 ÷ 20. 1 mark: 87 g per 100 g of water."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the estimate in (b) may not be exact.",
+    "marks": 2,
+    "answer": "The graph is curved, not straight, so a straight-line estimate is only approximate. The estimate is also based on only four data points; more readings would improve it.",
+    "working": "1 mark: the curve is not a straight line. 1 mark: only a few readings, so the estimate is an approximation."
+   }
+  ],
+  "check": "round(64+(110-64)*10/20,0)==87",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-052",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Results tables, graphs & data analysis",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A student titrates 25.0 cm³ of dilute hydrochloric acid with aqueous sodium hydroxide. The titres (cm³) are: 24.30, 24.25, 25.90, 24.35.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the anomalous titre and explain why it is not used in the mean.",
+    "marks": 2,
+    "answer": "25.90 cm³. It differs by about 1.6 cm³ from the other titres (more than 0.1 cm³), so it is discarded; it was probably caused by a mistake such as overshooting the end point.",
+    "working": "1 mark: 25.90 identified. 1 mark: reason (too far from the other results, so a mistake)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mean of the concordant titres. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "24.30 cm³",
+    "working": "1 mark: (24.30 + 24.25 + 24.35) ÷ 3. 1 mark: 24.30 cm³."
+   },
+   {
+    "label": "c",
+    "text": "State one way to improve the accuracy of the titration results.",
+    "marks": 1,
+    "answer": "Add the alkali drop by drop near the end point, or repeat until titres agree within 0.10 cm³.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "round((24.30+24.25+24.35)/3,2)==24.3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-053",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Results tables, graphs & data analysis",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Magnesium reacts with dilute hydrochloric acid at 25 °C. The volume of hydrogen is measured at intervals. Time (s): 0, 20, 40, 60, 80. Volume of hydrogen (cm³): 0, 18, 34, 46, 54.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the average rate of reaction between 20 s and 40 s. Give the unit.",
+    "marks": 2,
+    "answer": "0.80 cm³/s",
+    "working": "1 mark: (34 − 18) ÷ (40 − 20) = 16 ÷ 20. 1 mark: 0.80 cm³/s."
+   },
+   {
+    "label": "b",
+    "text": "Using the data, estimate the time when 30 cm³ of hydrogen has been collected. Show your working.",
+    "marks": 2,
+    "answer": "About 35 s",
+    "working": "1 mark: straight-line estimate between 20 s (18 cm³) and 40 s (34 cm³): 20 + (30 − 18) ÷ (34 − 18) × 20. 1 mark: 35 s."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the rate decreases as time goes on.",
+    "marks": 2,
+    "answer": "The concentration of the acid falls as it is used up, so there are fewer particles per cm³ and fewer collisions per second.",
+    "working": "1 mark: acid concentration falls as it is used. 1 mark: fewer collisions per second so the rate slows."
+   }
+  ],
+  "check": "round((34-18)/(40-20),2)==0.8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-054",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Results tables, graphs & data analysis",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A student heats 2.50 g of hydrated copper(II) sulfate in a crucible until the blue colour has gone. The crucible and solid are weighed after each heating. The masses after successive heatings are 1.61 g, then 1.60 g, then 1.60 g.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage mass of water lost. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "36.0 %",
+    "working": "1 mark: (2.50 − 1.60) ÷ 2.50 × 100. 1 mark: 36.0 %."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the crucible is heated, cooled and weighed again until the mass is constant.",
+    "marks": 2,
+    "answer": "Repeated heating shows that all the water has been driven off. When the mass no longer changes, no more water is being lost, so the heating is complete.",
+    "working": "1 mark: to show all the water has been removed. 1 mark: a constant mass shows the reaction is complete."
+   },
+   {
+    "label": "c",
+    "text": "Identify the reading that is not yet a constant mass and suggest why.",
+    "marks": 1,
+    "answer": "1.61 g; some water was still present because heating was not complete.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "round((2.50-1.60)/2.50*100,1)==36.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-055",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Results tables, graphs & data analysis",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "A student measures the volume of hydrogen made by four different metals reacting with the same acid. The results are to be shown on a graph.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the type of graph that should be drawn.",
+    "marks": 1,
+    "answer": "A bar chart.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a line graph is not suitable.",
+    "marks": 1,
+    "answer": "The metals are separate categories rather than a continuous variable, so the points should not be joined by a line.",
+    "working": "1 mark: categoric data."
+   },
+   {
+    "label": "c",
+    "text": "State the variable that goes on the x-axis (horizontal axis).",
+    "marks": 1,
+    "answer": "The type of metal.",
+    "working": "1 mark."
+   },
+   {
+    "label": "d",
+    "text": "State how the y-axis should be labelled.",
+    "marks": 1,
+    "answer": "Volume of hydrogen / cm³ (name and unit).",
+    "working": "1 mark: name and unit given."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-056",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A 50 cm³ measuring cylinder is marked in 1 cm³ divisions. A reading of 20 cm³ has an uncertainty of ±0.5 cm³. What is the percentage uncertainty of the reading?\nA 0.25 %\nB 1.0 %\nC 2.5 %\nD 50 %",
+    "marks": 1,
+    "answer": "C 2.5 %",
+    "working": "0.5 ÷ 20 × 100 = 2.5 %. A divides by 200 instead of 20 (or halves the wrong value). D divides the uncertainty by the 1 cm³ division size instead of by the reading."
+   }
+  ],
+  "check": "round(0.5/20*100,1)==2.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-057",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student reads the level of water in a measuring cylinder. Which method gives the correct reading?\nA look down on the surface from above the cylinder\nB read the bottom of the curved surface with the eye level with it\nC read the top edge of the curved surface\nD read from the side of the cylinder at the top of the liquid",
+    "marks": 1,
+    "answer": "B read the bottom of the curved surface with the eye level with it",
+    "working": "For water the meniscus curves up at the edges, so the bottom of the curve is read with the eye level with it. Reading from above or from the side causes parallax error."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-058",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "A student weighs an empty evaporating basin, then the basin with dry salt in it. The balance reads to 0.01 g and each reading is taken to have an uncertainty of ±0.01 g. Mass of basin = 48.27 g; mass of basin and salt = 52.91 g.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of salt.",
+    "marks": 1,
+    "answer": "4.64 g",
+    "working": "1 mark: 52.91 − 48.27 = 4.64 g."
+   },
+   {
+    "label": "b",
+    "text": "State the uncertainty in the mass of salt.",
+    "marks": 2,
+    "answer": "±0.02 g",
+    "working": "1 mark: each reading has an uncertainty of ±0.01 g. 1 mark: the two uncertainties are added, giving ±0.02 g."
+   }
+  ],
+  "check": "round(52.91-48.27,2)==4.64",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-059",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A student times a reaction with a stopwatch. The reaction takes 40.0 s. The total uncertainty from reaction time is ±0.5 s.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why there is an uncertainty in the timing.",
+    "marks": 1,
+    "answer": "The student's reaction time when starting and stopping the stopwatch is not zero.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage uncertainty in the time. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "1.25 %",
+    "working": "1 mark: 0.5 ÷ 40.0 × 100. 1 mark: 1.25 %."
+   },
+   {
+    "label": "c",
+    "text": "State one way to improve the timing.",
+    "marks": 1,
+    "answer": "Use a light gate or data logger, or video recording with a timer, which removes the reaction-time error.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "round(0.5/40.0*100,2)==1.25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-060",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "A thermometer has 1 °C divisions. The temperature of a liquid rises from 21 °C to 37 °C.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give the temperature rise.",
+    "marks": 1,
+    "answer": "16 °C",
+    "working": "1 mark: 37 − 21 = 16 °C."
+   },
+   {
+    "label": "b",
+    "text": "State the uncertainty in each reading if each is read to the nearest 1 °C.",
+    "marks": 1,
+    "answer": "±0.5 °C",
+    "working": "1 mark."
+   },
+   {
+    "label": "c",
+    "text": "State the uncertainty in the temperature rise.",
+    "marks": 1,
+    "answer": "±1 °C",
+    "working": "1 mark: the two uncertainties (±0.5 °C each) are added."
+   }
+  ],
+  "check": "37-21==16",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-061",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "A student makes up 250 cm³ of a standard solution.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the advantage of using a volumetric flask rather than a beaker to make up a standard solution.",
+    "marks": 1,
+    "answer": "A volumetric flask has a single calibration mark, so it holds a fixed volume accurately (250 cm³); a beaker is only approximate.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "State how the solution is made up to the correct volume.",
+    "marks": 1,
+    "answer": "The solid is dissolved, the solution is transferred and then distilled water is added until the bottom of the meniscus reaches the mark.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-062",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A pipette is labelled 25.00 cm³ ± 0.03 cm³.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage uncertainty in the volume delivered. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "0.12 %",
+    "working": "1 mark: 0.03 ÷ 25.00 × 100. 1 mark: 0.12 %."
+   },
+   {
+    "label": "b",
+    "text": "Give one reason why the pipette is preferred to a measuring cylinder for measuring this volume.",
+    "marks": 1,
+    "answer": "A pipette delivers a fixed volume with a smaller uncertainty than a measuring cylinder.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "round(0.03/25.00*100,2)==0.12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-063",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A student weighs an empty crucible as 13.21 g and then the crucible with the solid as 15.87 g. Each balance reading is ±0.01 g.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of solid.",
+    "marks": 1,
+    "answer": "2.66 g",
+    "working": "1 mark: 15.87 − 13.21 = 2.66 g."
+   },
+   {
+    "label": "b",
+    "text": "State the uncertainty in the mass of solid.",
+    "marks": 1,
+    "answer": "±0.02 g",
+    "working": "1 mark: ±0.01 g from each reading, added."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the percentage uncertainty in the mass of solid. Give your answer to 2 decimal places.",
+    "marks": 1,
+    "answer": "0.75 %",
+    "working": "1 mark: 0.02 ÷ 2.66 × 100 = 0.75 %."
+   },
+   {
+    "label": "d",
+    "text": "Suggest and explain how the percentage uncertainty could be reduced.",
+    "marks": 2,
+    "answer": "Use a larger mass of solid. The same ±0.02 g uncertainty is then a smaller fraction of the mass.",
+    "working": "1 mark: use a larger mass of solid. 1 mark: the uncertainty is then a smaller percentage of the mass."
+   }
+  ],
+  "check": "round(0.02/2.66*100,2)==0.75",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-064",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A student has to heat 50 cm³ of ethanol to 60 °C in the laboratory.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State a safer way to heat the flammable liquid.",
+    "marks": 1,
+    "answer": "Use a water bath (no naked flame).",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a naked flame is unsafe for this liquid.",
+    "marks": 2,
+    "answer": "The vapour of the flammable liquid can catch fire from the naked flame; the liquid could then ignite.",
+    "working": "1 mark: flammable vapour. 1 mark: can ignite from the flame."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-065",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A student uses a gas syringe to collect carbon dioxide from the reaction of a carbonate with an acid.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State one problem with the gas syringe that would give a wrong reading.",
+    "marks": 1,
+    "answer": "The plunger sticks, so it does not move freely and the volume is not read correctly.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Suggest two other ways the reading could be wrong because of leakage.",
+    "marks": 2,
+    "answer": "Any two: a joint or bung is not airtight; the delivery tube is not sealed; gas escapes before the syringe is connected.",
+    "working": "1 mark each for any two."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the reaction flask must be sealed except for the syringe connection.",
+    "marks": 1,
+    "answer": "So that all the gas made goes into the syringe and none escapes.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-066",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Apparatus & measurement",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A thermometer reads to 0.1 °C, with an uncertainty of ±0.05 °C in each reading. The temperature rise measured is 2.4 °C.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the uncertainty in the temperature rise.",
+    "marks": 1,
+    "answer": "±0.1 °C",
+    "working": "1 mark: ±0.05 °C from each reading, added."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage uncertainty in the temperature rise. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "4.2 %",
+    "working": "1 mark: 0.1 ÷ 2.4 × 100. 1 mark: 4.2 %."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a thermometer reading to the nearest 1 °C would give a much larger percentage uncertainty for this rise.",
+    "marks": 1,
+    "answer": "The uncertainty (±1 °C) is then a much larger fraction of a small temperature rise of 2.4 °C.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "round(0.1/2.4*100,1)==4.2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-067",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "5",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the conical flask is rinsed with distilled water but not with the alkali solution before the titration.",
+    "marks": 2,
+    "answer": "Any water left in the flask does not change the number of moles of alkali present, so the titre is not affected. Rinsing with alkali would add extra alkali and change the amount present.",
+    "working": "1 mark: water does not change the moles of alkali. 1 mark: rinsing with the alkali would add extra alkali."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-068",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "6",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to find the end point of a titration in which sodium hydroxide solution is titrated with hydrochloric acid, using phenolphthalein indicator.",
+    "marks": 4,
+    "answer": "Pipette 25.0 cm³ of sodium hydroxide into a conical flask and add a few drops of phenolphthalein (the solution turns pink). Add the acid from a burette, swirling the flask. Near the end point add the acid drop by drop. Stop when the last drop makes the solution colourless.",
+    "working": "1 mark: 25.0 cm³ alkali and phenolphthalein (pink). 1 mark: acid from the burette, with swirling. 1 mark: drop by drop near the end point. 1 mark: stop at the first permanent colourless point."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-069",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a rough titration is done before the accurate titrations.",
+    "marks": 2,
+    "answer": "It gives the approximate end point, so the accurate titrations can add most of the acid quickly and then add the last few cm³ drop by drop.",
+    "working": "1 mark: finds the approximate volume at the end point. 1 mark: accurate titrations are then done more carefully near the end point."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-070",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "Hydrochloric acid of concentration 0.100 mol/dm³ is used to titrate 25.0 cm³ of sodium hydroxide. The mean titre is 24.50 cm³. HCl + NaOH → NaCl + H₂O",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the moles of HCl in the mean titre.",
+    "marks": 2,
+    "answer": "0.00245 mol",
+    "working": "1 mark: 0.100 × 24.50 ÷ 1000. 1 mark: 0.00245 mol."
+   },
+   {
+    "label": "b",
+    "text": "State the mole ratio of HCl to NaOH in the reaction, and the moles of NaOH in 25.0 cm³.",
+    "marks": 1,
+    "answer": "1:1; 0.00245 mol",
+    "working": "1 mark: 1:1 ratio, so the moles of NaOH are the same."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the concentration of the sodium hydroxide in mol/dm³. Give your answer to 3 significant figures.",
+    "marks": 2,
+    "answer": "0.0980 mol/dm³",
+    "working": "1 mark: concentration = moles ÷ (25.0 ÷ 1000). 1 mark: 0.0980 mol/dm³."
+   }
+  ],
+  "check": "round(0.100*24.50/1000,5)==0.00245",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-071",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "Ammonia solution is a weak base. It is titrated with hydrochloric acid.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name a suitable indicator for the titration of ammonia solution with hydrochloric acid, and state its colour change.",
+    "marks": 2,
+    "answer": "Methyl orange; it changes from yellow (alkaline) to red (acidic).",
+    "working": "1 mark: methyl orange. 1 mark: yellow to red. Phenolphthalein changes too far from the end point of this weak base and strong acid titration."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-072",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "25.0 cm³ of 0.0500 mol/dm³ sodium carbonate solution is titrated with hydrochloric acid. The mean titre is 22.40 cm³. Na₂CO₃ + 2HCl → 2NaCl + H₂O + CO₂",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the moles of sodium carbonate in 25.0 cm³ of the solution.",
+    "marks": 2,
+    "answer": "0.00125 mol",
+    "working": "1 mark: 0.0500 × 25.0 ÷ 1000. 1 mark: 0.00125 mol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the moles of HCl that reacted with this amount of sodium carbonate.",
+    "marks": 2,
+    "answer": "0.00250 mol",
+    "working": "1 mark: the ratio Na₂CO₃ : HCl is 1 : 2. 1 mark: 2 × 0.00125 = 0.00250 mol."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the concentration of the hydrochloric acid in mol/dm³. Give your answer to 3 significant figures.",
+    "marks": 2,
+    "answer": "0.112 mol/dm³",
+    "working": "1 mark: 0.00250 ÷ (22.40 ÷ 1000). 1 mark: 0.112 mol/dm³."
+   }
+  ],
+  "check": "round(0.0025/0.0224,3)==0.112",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-073",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A student titrates 25.0 cm³ of alkali with an acid.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State why a white tile is placed under the conical flask.",
+    "marks": 1,
+    "answer": "It makes the colour change easier to see.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Name the piece of apparatus used to measure the 25.0 cm³ of alkali.",
+    "marks": 1,
+    "answer": "A pipette.",
+    "working": "1 mark."
+   },
+   {
+    "label": "c",
+    "text": "State why the flask is swirled during the titration.",
+    "marks": 1,
+    "answer": "To mix the reactants so that the acid is evenly mixed with the alkali as it is added.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-074",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write the ionic equation for neutralisation.",
+    "marks": 1,
+    "answer": "H⁺(aq) + OH⁻(aq) → H₂O(l)",
+    "working": "1 mark: correct equation, balanced with state symbols."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the moles of H⁺ ions in 25.0 cm³ of 0.100 mol/dm³ hydrochloric acid.",
+    "marks": 2,
+    "answer": "0.00250 mol",
+    "working": "1 mark: 0.100 × 25.0 ÷ 1000. 1 mark: 0.00250 mol."
+   }
+  ],
+  "check": "round(0.100*25.0/1000,5)==0.0025",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-075",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "25.0 cm³ of ethanoic acid is titrated with 0.100 mol/dm³ sodium hydroxide. The mean titre is 20.00 cm³. CH₃COOH + NaOH → CH₃COONa + H₂O",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the concentration of the ethanoic acid in mol/dm³.",
+    "marks": 4,
+    "answer": "0.0800 mol/dm³",
+    "working": "1 mark: moles NaOH = 0.100 × 20.00 ÷ 1000 = 0.00200. 1 mark: 1:1 ratio, so moles of acid = 0.00200. 1 mark: 0.00200 ÷ 0.0250 dm³. 1 mark: 0.0800 mol/dm³."
+   }
+  ],
+  "check": "round(0.100*20.00/25.0,3)==0.08",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-076",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the moles of sodium hydroxide in 0.25 g of pure solid sodium hydroxide (Mr = 40).",
+    "marks": 2,
+    "answer": "0.00625 mol",
+    "working": "1 mark: 0.25 ÷ 40 = 0.00625 mol. 1 mark: 0.00625 mol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the moles of sodium hydroxide in 25.0 cm³ of the solution made by dissolving the solid in 250 cm³ of water.",
+    "marks": 1,
+    "answer": "0.000625 mol",
+    "working": "1 mark: 0.00625 × 25.0/250 = 0.000625 mol."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the volume of 0.100 mol/dm³ hydrochloric acid needed to neutralise this 25.0 cm³. Give your answer in cm³.",
+    "marks": 2,
+    "answer": "6.25 cm³",
+    "working": "1 mark: 0.000625 ÷ 0.100 = 0.00625 dm³. 1 mark: 6.25 cm³."
+   }
+  ],
+  "check": "round(0.25/40*(25.0/250)/0.100*1000,2)==6.25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-077",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A student's three concordant titres are 23.40 cm³, 23.35 cm³ and 23.30 cm³. In one of these titrations the burette readings were: start 0.50 cm³, end 23.85 cm³.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean titre from the three concordant titres.",
+    "marks": 1,
+    "answer": "23.35 cm³",
+    "working": "1 mark: (23.40 + 23.35 + 23.30) ÷ 3 = 23.35 cm³."
+   },
+   {
+    "label": "b",
+    "text": "The burette is read to 0.05 cm³ at each reading. Calculate the uncertainty in the titre.",
+    "marks": 1,
+    "answer": "±0.10 cm³",
+    "working": "1 mark: ±0.05 cm³ from each reading, added."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the percentage uncertainty in the titre. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "0.43 %",
+    "working": "1 mark: 0.10 ÷ 23.35 × 100. 1 mark: 0.43 %."
+   },
+   {
+    "label": "d",
+    "text": "State how the titre could be made more accurate.",
+    "marks": 1,
+    "answer": "Repeat the titration and use concordant results.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "round(0.10/23.35*100,2)==0.43",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-078",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A student reads the burette at the top of the meniscus, instead of the bottom, for both the initial and final readings of a titration.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the titre is still accurate.",
+    "marks": 3,
+    "answer": "The same error (reading the top of the meniscus) occurs in both readings. Subtracting the two readings cancels the constant error, so the volume added is still correct, but only if both readings are taken the same way.",
+    "working": "1 mark: the same error affects both readings. 1 mark: subtraction cancels it. 1 mark: only if read consistently."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-079",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Titration technique",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "A burette is filled with hydrochloric acid before a titration.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State why the funnel is removed from the top of the burette after it is filled.",
+    "marks": 1,
+    "answer": "So that no liquid from the funnel drips into the burette and changes the reading.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "State why the burette reading is taken from the bottom of the meniscus.",
+    "marks": 1,
+    "answer": "The meniscus of a colourless liquid curves, and the bottom of the curve is the standard place to read.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-080",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A mixture of two liquids with different boiling points is separated by heating. Which method is used?\nA filtration\nB fractional distillation\nC chromatography\nD sublimation",
+    "marks": 1,
+    "answer": "B fractional distillation",
+    "working": "Fractional distillation separates liquids by boiling point: the liquid with the lower boiling point vaporises and condenses first. Filtration separates insoluble solids from liquids, chromatography separates by how strongly substances stick to the paper, and sublimation applies to solids."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-081",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Pure water boils at 100 °C at normal pressure. A sample of salty water boils at 101.2 °C. What does this show?\nA the sample is pure water\nB the sample contains dissolved solid, which raises the boiling point\nC the thermometer is wrong\nD the sample has a lower boiling point than pure water",
+    "marks": 1,
+    "answer": "B the sample contains dissolved solid, which raises the boiling point",
+    "working": "A dissolved solid (solute) raises the boiling point of a solvent, so a salty sample boils above 100 °C. A is wrong because pure water boils at 100 °C. C is unlikely as a reason for the boiling point to be higher for a dissolved solid. D is the opposite of what the data show."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-082",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to separate sand from a mixture of sand and water. Give the name of the method, what stays on the filter paper and what passes through.",
+    "marks": 3,
+    "answer": "Filtration: pour the mixture through filter paper in a funnel. The sand is the residue left on the filter paper. The water passes through as the filtrate.",
+    "working": "1 mark: filtration. 1 mark: sand is the residue. 1 mark: water passes through as the filtrate."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-083",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student has a solution of copper(II) sulfate and wants to obtain dry blue crystals.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to obtain dry blue crystals of copper(II) sulfate from the solution. Give three steps.",
+    "marks": 3,
+    "answer": "Heat the solution to evaporate some water until it is saturated (hot and nearly full of crystals). Leave it to cool slowly so crystals form. Filter off the crystals and dry them between sheets of filter paper.",
+    "working": "1 mark each for three correct steps: saturate the solution by evaporating some water; cool slowly to form crystals; filter and dry the crystals."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the solution is not heated until it is completely dry.",
+    "marks": 1,
+    "answer": "Heating to dryness would drive off the water of crystallisation and could decompose the crystals, so the crystals would not be the correct hydrated salt.",
+    "working": "1 mark: water of crystallisation lost or crystals decomposed."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-084",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A mixture of ethanol (boiling point 78 °C) and water (boiling point 100 °C) is separated by fractional distillation.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the thermometer reading changes as the mixture is distilled.",
+    "marks": 2,
+    "answer": "The reading rises to about 78 °C and stays steady while the ethanol distils. Then it rises to 100 °C when the water starts to boil.",
+    "working": "1 mark: steady at about 78 °C while ethanol distils. 1 mark: rises to 100 °C after the ethanol has been collected."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the ethanol is collected first.",
+    "marks": 2,
+    "answer": "Ethanol has the lower boiling point, so it turns to vapour first, and the vapour condenses first.",
+    "working": "1 mark: lower boiling point. 1 mark: vaporises and condenses first."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-085",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Crude sodium chloride (25.0 g) contains insoluble sand. The salt is dissolved in water, the mixture is filtered and the filtrate is evaporated to dryness. The dry pure salt has a mass of 21.5 g.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the substance that remains on the filter paper.",
+    "marks": 1,
+    "answer": "Sand",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mass of sand in the crude salt.",
+    "marks": 1,
+    "answer": "3.5 g",
+    "working": "1 mark: 25.0 − 21.5 = 3.5 g."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the percentage by mass of sand in the crude salt. Give your answer to 1 decimal place.",
+    "marks": 2,
+    "answer": "14.0 %",
+    "working": "1 mark: 3.5 ÷ 25.0 × 100. 1 mark: 14.0 %."
+   },
+   {
+    "label": "d",
+    "text": "Suggest one reason why the calculated mass of sand (25.0 g − 21.5 g) might be too high.",
+    "marks": 1,
+    "answer": "Some salt was lost during transfer or by spitting during evaporation, so less pure salt was recovered than the crude salt contained, and the lost salt is wrongly counted as sand.",
+    "working": "1 mark: salt is lost (transfer, spitting or incomplete drying), so the mass of salt recovered is less than it should be and the sand mass is overestimated."
+   }
+  ],
+  "check": "round((25.0-21.5)/25.0*100,1)==14.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-086",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Pure water is obtained from sea water in the laboratory.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the separation method.",
+    "marks": 1,
+    "answer": "Distillation",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the water collected is pure.",
+    "marks": 2,
+    "answer": "The water is heated and turns into vapour, which condenses to pure liquid water. The dissolved salts are not volatile, so they stay in the flask.",
+    "working": "1 mark: water vapour condenses to pure liquid. 1 mark: the dissolved salts do not boil off and stay behind."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-087",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to separate a mixture of iron filings and sulfur powder.",
+    "marks": 2,
+    "answer": "Bring a magnet close to the mixture. The iron filings are attracted to the magnet and removed, and the sulfur is left behind.",
+    "working": "1 mark: use a magnet. 1 mark: iron attracted, sulfur left behind."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-088",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "5",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the crystals are dried between filter papers rather than heated strongly.",
+    "marks": 3,
+    "answer": "Filter paper absorbs the surface water, so the crystals dry faster. Strong heating could drive off water of crystallisation or decompose the crystals. Gentle drying keeps the crystals intact and pure.",
+    "working": "1 mark: filter paper absorbs surface water. 1 mark: strong heating could remove water of crystallisation or decompose. 1 mark: gentle drying keeps the crystals intact."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-089",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Potassium nitrate that is contaminated with a small amount of sand and a soluble impurity is purified by crystallisation.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the impure solid is dissolved in the minimum amount of hot water.",
+    "marks": 1,
+    "answer": "So the solution is saturated, and most of the salt crystallises when it cools.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the hot solution is filtered.",
+    "marks": 1,
+    "answer": "To remove insoluble impurities while the solution is hot, so the salt does not crystallise in the funnel.",
+    "working": "1 mark."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the solution is cooled slowly.",
+    "marks": 1,
+    "answer": "Slow cooling gives larger, purer crystals.",
+    "working": "1 mark."
+   },
+   {
+    "label": "d",
+    "text": "Explain why the crystals are washed with a little cold water.",
+    "marks": 2,
+    "answer": "To remove soluble impurities from the surfaces of the crystals. Cold water is used so that little of the salt dissolves and is lost.",
+    "working": "1 mark: removes soluble impurities. 1 mark: cold water minimises loss of product."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-090",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "A mixture of propanone (boiling point 56 °C) and water (boiling point 100 °C) is to be separated.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the separation method.",
+    "marks": 1,
+    "answer": "Distillation (fractional distillation is also acceptable).",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the bulb of the thermometer is placed level with the side arm of the distillation flask.",
+    "marks": 2,
+    "answer": "So that the thermometer measures the temperature of the vapour that is passing into the condenser. This gives the boiling point of the liquid being distilled (about 56 °C for propanone).",
+    "working": "1 mark: the bulb sits in the vapour at the side arm. 1 mark: so the reading shows the boiling point of the fraction being collected."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the vapour is passed through a condenser.",
+    "marks": 1,
+    "answer": "To cool the vapour and turn it back into a liquid, so it can be collected.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-091",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why filtration cannot separate salt from a solution of salt in water.",
+    "marks": 2,
+    "answer": "The salt is dissolved, so its particles are very small and pass through the filter paper with the water.",
+    "working": "1 mark: dissolved particles pass through the filter paper. 1 mark: the filtrate is still a solution (would need evaporation or distillation)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-092",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Separation & purity",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A mixture contains sand, iron filings and sodium chloride.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe a full method to obtain separate dry samples of the sand, the iron filings and the sodium chloride. Give the order of the steps and the reason for each step.",
+    "marks": 6,
+    "answer": "1. Use a magnet to remove the iron filings (the magnet attracts only iron). 2. Add water to dissolve the sodium chloride; the sand does not dissolve. 3. Filter to separate the sand as the residue. 4. Evaporate the filtrate to crystallise the sodium chloride, then dry the crystals.",
+    "working": "1 mark: magnet removes iron first. 1 mark: water dissolves salt. 1 mark: filtration removes sand. 1 mark: evaporation or crystallisation gives salt. 1 mark: sand and salt are dried. 1 mark: reason for the order given."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-093",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "5",
+  "difficulty": "core",
+  "stem": "A student sets up paper chromatography to separate the dyes in a food colouring.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what the baseline (pencil line) is drawn with, and explain why ink is not used.",
+    "marks": 2,
+    "answer": "Pencil. Ink contains dyes that would move up the paper and mix with the spots being tested.",
+    "working": "1 mark: pencil. 1 mark: ink dyes would move and confuse the results."
+   },
+   {
+    "label": "b",
+    "text": "State where the solvent level must be.",
+    "marks": 1,
+    "answer": "Below the baseline, so the spots do not dissolve into the solvent in the beaker.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-094",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give the formula for the Rf value.",
+    "marks": 1,
+    "answer": "Rf = distance moved by the spot ÷ distance moved by the solvent front",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the Rf value has no unit.",
+    "marks": 1,
+    "answer": "Both distances are measured in the same unit, so the unit cancels in the division and the Rf is a ratio.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-095",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the solvent level must be kept below the baseline.",
+    "marks": 2,
+    "answer": "If the baseline is under the solvent, the spots dissolve into the solvent in the beaker and are lost from the paper.",
+    "working": "1 mark: spots dissolve into the solvent. 1 mark: the mixture is lost, so no separation can be seen."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-096",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A chromatogram is run with a solvent front that moves 9.0 cm from the baseline. Spot X moves 6.3 cm and spot Y moves 3.6 cm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the Rf value for spot X. Give your answer to 2 decimal places.",
+    "marks": 1,
+    "answer": "0.70",
+    "working": "1 mark: 6.3 ÷ 9.0 = 0.70."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the Rf value for spot Y. Give your answer to 2 decimal places.",
+    "marks": 1,
+    "answer": "0.40",
+    "working": "1 mark: 3.6 ÷ 9.0 = 0.40."
+   },
+   {
+    "label": "c",
+    "text": "Which spot is more soluble in the solvent? Explain your answer.",
+    "marks": 2,
+    "answer": "Spot X. It moves further up the paper, so it is more soluble in the solvent (or less strongly attracted to the paper).",
+    "working": "1 mark: spot X. 1 mark: moves further, so more soluble in the solvent."
+   }
+  ],
+  "check": "round(6.3/9.0,2)==0.7 and round(3.6/9.0,2)==0.4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-097",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "Known dyes are run on the same paper in the same solvent. Dye P: Rf 0.32; Dye Q: Rf 0.55; Dye R: Rf 0.78. A colour from a sweet gives a spot with Rf 0.55.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the dye in the sweet.",
+    "marks": 1,
+    "answer": "Dye Q (its Rf value of 0.55 matches).",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "State two conditions that must be kept the same so that the Rf values can be compared.",
+    "marks": 2,
+    "answer": "Any two: the same solvent; the same type of paper; the same temperature.",
+    "working": "1 mark each."
+   },
+   {
+    "label": "c",
+    "text": "Explain why one matching Rf value is not enough to be sure of the dye.",
+    "marks": 1,
+    "answer": "A different dye could have the same Rf value, so the test should be repeated with a second solvent.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-098",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A food colouring is run in a solvent on paper. The baseline is 1.5 cm above the bottom edge of the paper and the solvent front reaches 10.5 cm from the bottom edge. Spot A is 6.0 cm and spot B is 4.1 cm from the bottom edge.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the distance moved by the solvent front from the baseline.",
+    "marks": 1,
+    "answer": "9.0 cm",
+    "working": "1 mark: 10.5 − 1.5 = 9.0 cm."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the Rf value of spot A. Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "0.50",
+    "working": "1 mark: distance moved = 6.0 − 1.5 = 4.5 cm. 1 mark: 4.5 ÷ 9.0 = 0.50."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the Rf value of spot B. Give your answer to 2 decimal places.",
+    "marks": 1,
+    "answer": "0.29",
+    "working": "1 mark: (4.1 − 1.5) ÷ 9.0 = 0.29."
+   },
+   {
+    "label": "d",
+    "text": "Name the spot that is more soluble in the solvent.",
+    "marks": 1,
+    "answer": "Spot A (higher Rf).",
+    "working": "1 mark."
+   }
+  ],
+  "check": "round((6.0-1.5)/9.0,2)==0.5 and round((4.1-1.5)/9.0,2)==0.29",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-099",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the Rf value of a dye would change if a different solvent is used.",
+    "marks": 3,
+    "answer": "The solubility of the dye in the new solvent is different. The dye's attraction to the paper compared with the solvent also changes. So the spot moves a different distance.",
+    "working": "1 mark: solubility in the solvent changes. 1 mark: attraction to the paper relative to the solvent changes. 1 mark: so the distance moved changes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-100",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the stationary phase and the mobile phase in paper chromatography.",
+    "marks": 2,
+    "answer": "Stationary phase: the water held in the paper (cellulose). Mobile phase: the solvent.",
+    "working": "1 mark: water in the paper. 1 mark: the solvent moving up the paper."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-101",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "6",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to show that a dye is pure using chromatography.",
+    "marks": 4,
+    "answer": "Run the dye, and the mixture for comparison, on a pencil baseline. Run the dye in at least two different solvents. A pure dye gives a single spot in each solvent; more than one spot in any solvent shows that the dye is a mixture.",
+    "working": "1 mark: spot the dye on the baseline (with a sample of the mixture for comparison). 1 mark: run it in one solvent and see a single spot. 1 mark: run it in a second, different solvent. 1 mark: a single spot in each solvent shows purity (the Rf values may differ between solvents)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-102",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "A student wants to find out which dyes are in a green food colouring.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the method the student should follow to find which dyes are in a green food colouring.",
+    "marks": 3,
+    "answer": "Draw a pencil baseline and put a small spot of the colouring on it. Place the paper in a solvent below the baseline and let the solvent rise. Remove it, mark the solvent front and let it dry. Locate the spots and calculate the Rf value for each.",
+    "working": "1 mark: spot on pencil baseline, solvent below. 1 mark: run and mark solvent front. 1 mark: calculate Rf for each spot."
+   },
+   {
+    "label": "b",
+    "text": "Explain how the dyes are identified.",
+    "marks": 2,
+    "answer": "The Rf values are compared with those of known dyes run on the same paper, in the same solvent and at the same temperature.",
+    "working": "1 mark: compare with known dyes. 1 mark: same conditions."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-103",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A student measures distances from the bottom edge of the paper, not from the baseline. Baseline: 1.8 cm. Solvent front: 14.2 cm. Spot centre: 9.3 cm (all from the bottom edge).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the distance moved by the spot from the baseline.",
+    "marks": 1,
+    "answer": "7.5 cm",
+    "working": "1 mark: 9.3 − 1.8 = 7.5 cm."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the distance moved by the solvent front from the baseline.",
+    "marks": 1,
+    "answer": "12.4 cm",
+    "working": "1 mark: 14.2 − 1.8 = 12.4 cm."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the Rf value. Give your answer to 2 decimal places.",
+    "marks": 1,
+    "answer": "0.60",
+    "working": "1 mark: 7.5 ÷ 12.4 = 0.60."
+   },
+   {
+    "label": "d",
+    "text": "Calculate the Rf value the student would wrongly get by measuring from the bottom edge of the paper. Give your answer to 2 decimal places.",
+    "marks": 1,
+    "answer": "0.65",
+    "working": "1 mark: 9.3 ÷ 14.2 = 0.65 (wrong, because the baseline was not used as the start)."
+   }
+  ],
+  "check": "round(7.5/12.4,2)==0.6 and round(9.3/14.2,2)==0.65",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-104",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "A student removes the paper from the solvent before the solvent reaches the top of the paper.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the paper is removed from the solvent before the solvent reaches the top.",
+    "marks": 2,
+    "answer": "So that the position of the solvent front can be marked clearly before it dries out.",
+    "working": "1 mark: the solvent front is marked before it evaporates. 1 mark: the distance moved by the solvent is needed for the Rf calculation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-105",
+  "topic": "Experimental techniques & chemical analysis",
+  "subtopic": "Chromatography",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A student puts a large drop of sample on the baseline. When the chromatogram is run, the spots run into each other and form a streak.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the spots run into one another and form a streak.",
+    "marks": 2,
+    "answer": "Too much sample was applied, which overloads the paper. The spots spread out and merge as the solvent carries them.",
+    "working": "1 mark: too much sample. 1 mark: spots spread and merge."
+   },
+   {
+    "label": "b",
+    "text": "State how the student can correct the chromatogram.",
+    "marks": 2,
+    "answer": "Apply a small, concentrated spot, let each spot dry before adding more, and keep the spots small and well spaced.",
+    "working": "1 mark: small concentrated spot. 1 mark: spots allowed to dry between applications."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-106",
+  "topic": "The Periodic Table",
+  "subtopic": "Transition elements",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which ion gives a blue aqueous solution?\nA Ca²⁺\nB Cu²⁺\nC Mg²⁺\nD Na⁺",
+    "marks": 1,
+    "answer": "B Cu²⁺",
+    "working": "Hydrated copper(II) ions are blue. Ca²⁺, Mg²⁺ and Na⁺ are colourless in aqueous solution."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-107",
+  "topic": "The Periodic Table",
+  "subtopic": "Transition elements",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which statement explains why transition elements can act as catalysts?\nA they are all gases at room temperature\nB they have variable oxidation states, so they can gain and lose electrons during a reaction\nC they have low melting points\nD they are all less dense than water",
+    "marks": 1,
+    "answer": "B they have variable oxidation states, so they can gain and lose electrons during a reaction",
+    "working": "Transition elements can change oxidation state during a reaction, which lets them pass electrons on and speed up the reaction. A, C and D are false for most transition metals (most are solids with high melting points and high densities)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-108",
+  "topic": "The Periodic Table",
+  "subtopic": "Transition elements",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name a transition element used for each purpose: (i) electrical cables; (ii) the catalyst in the Haber process; (iii) stainless steel.",
+    "marks": 3,
+    "answer": "(i) copper; (ii) iron; (iii) chromium (nickel is also acceptable).",
+    "working": "1 mark each for copper, iron and chromium (or nickel) in the correct order."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-109",
+  "topic": "The Periodic Table",
+  "subtopic": "Transition elements",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give the oxidation number of manganese in MnO₂.",
+    "marks": 1,
+    "answer": "+4",
+    "working": "1 mark: x + 2(−2) = 0, so x = +4."
+   },
+   {
+    "label": "b",
+    "text": "Give the oxidation number of manganese in MnO₄⁻.",
+    "marks": 1,
+    "answer": "+7",
+    "working": "1 mark: x + 4(−2) = −1, so x = +7."
+   },
+   {
+    "label": "c",
+    "text": "Give the oxidation number of iron in FeCl₃.",
+    "marks": 1,
+    "answer": "+3",
+    "working": "1 mark: x + 3(−1) = 0, so x = +3."
+   },
+   {
+    "label": "d",
+    "text": "Give the oxidation number of chromium in Cr₂O₇²⁻.",
+    "marks": 1,
+    "answer": "+6",
+    "working": "1 mark: 2x + 7(−2) = −2, so x = +6."
+   }
+  ],
+  "check": "(4 + 2*(-2) == 0) and (7 + 4*(-2) == -1) and (3 + 3*(-1) == 0) and (6*2 + 7*(-2) == -2)",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-110",
+  "topic": "The Periodic Table",
+  "subtopic": "Transition elements",
+  "paper": "6",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give the formula of: (i) iron(III) oxide; (ii) copper(II) carbonate; (iii) chromium(III) sulfate; (iv) zinc hydroxide.",
+    "marks": 4,
+    "answer": "(i) Fe₂O₃; (ii) CuCO₃; (iii) Cr₂(SO₄)₃; (iv) Zn(OH)₂",
+    "working": "1 mark each: Fe₂O₃ (Fe³⁺ with O²⁻); CuCO₃ (Cu²⁺ with CO₃²⁻); Cr₂(SO₄)₃ (Cr³⁺ with SO₄²⁻); Zn(OH)₂ (Zn²⁺ with OH⁻)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-111",
+  "topic": "The Periodic Table",
+  "subtopic": "Transition elements",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Chromium burns in excess oxygen to form chromium(III) oxide, Cr₂O₃: 4Cr + 3O₂ → 2Cr₂O₃",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the oxidation number of chromium in Cr₂O₃.",
+    "marks": 1,
+    "answer": "+3",
+    "working": "1 mark: 2x + 3(−2) = 0, so x = +3."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the moles of chromium in 1.52 g of chromium (Ar: Cr = 52).",
+    "marks": 1,
+    "answer": "0.0292 mol",
+    "working": "1 mark: 1.52 ÷ 52 = 0.0292 mol."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the mass of chromium(III) oxide formed when 1.52 g of chromium is burned completely in oxygen (Mr: Cr₂O₃ = 152). Give your answer to 3 significant figures.",
+    "marks": 2,
+    "answer": "2.22 g",
+    "working": "1 mark: moles Cr₂O₃ = 0.0292 ÷ 2 = 0.0146. 1 mark: 0.0146 × 152 = 2.22 g."
+   },
+   {
+    "label": "d",
+    "text": "Explain why transition elements can show more than one oxidation state.",
+    "marks": 1,
+    "answer": "They can lose different numbers of electrons from their outer s and d shells.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "round(1.52/52/2*152,2)==2.22",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-112",
+  "topic": "The Periodic Table",
+  "subtopic": "Transition elements",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why transition metals have higher melting points than Group I metals, in terms of metallic bonding.",
+    "marks": 3,
+    "answer": "Transition metals have more delocalised electrons per atom (outer s and d electrons). The metal ions are smaller and more closely packed. The electrostatic attraction between the positive ions and the delocalised electrons is stronger, so more energy is needed to melt them.",
+    "working": "1 mark: more delocalised electrons per atom. 1 mark: smaller, more closely packed ions. 1 mark: stronger attraction between ions and delocalised electrons."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-113",
+  "topic": "The Periodic Table",
+  "subtopic": "Group VII",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which halogen is a liquid at room temperature and pressure?\nA fluorine\nB chlorine\nC bromine\nD iodine",
+    "marks": 1,
+    "answer": "C bromine",
+    "working": "Bromine is a red-brown liquid. Fluorine and chlorine are gases, and iodine is a solid."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-114",
+  "topic": "The Periodic Table",
+  "subtopic": "Group VII",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the colour of the solution produced when chlorine is bubbled into aqueous potassium bromide.",
+    "marks": 1,
+    "answer": "Orange (bromine is formed).",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Write the ionic equation for the reaction.",
+    "marks": 2,
+    "answer": "Cl₂(aq) + 2Br⁻(aq) → 2Cl⁻(aq) + Br₂(aq)",
+    "working": "1 mark: correct ions and products. 1 mark: balanced."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-115",
+  "topic": "The Periodic Table",
+  "subtopic": "Group VII",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the reactivity of the halogens with hydrogen changes down Group VII.",
+    "marks": 2,
+    "answer": "Reactivity decreases down the group. Fluorine reacts explosively in the dark, chlorine reacts with hydrogen in light or heat, and iodine reacts only slowly and needs heating.",
+    "working": "1 mark: decreases down the group. 1 mark: correct examples (fluorine explosive, iodine slow)."
+   },
+   {
+    "label": "b",
+    "text": "Name the product formed when chlorine reacts with hydrogen.",
+    "marks": 1,
+    "answer": "Hydrogen chloride (HCl)",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-116",
+  "topic": "The Periodic Table",
+  "subtopic": "Group VII",
+  "paper": "5",
+  "difficulty": "standard",
+  "stem": "Results of mixing halogen solutions with halide solutions (in test tubes): chlorine water + potassium bromide: orange; chlorine water + potassium iodide: brown; bromine water + potassium iodide: brown; bromine water + sodium chloride: no change; iodine solution + potassium bromide: no change.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Place chlorine, bromine and iodine in order of reactivity, most reactive first.",
+    "marks": 1,
+    "answer": "Chlorine, bromine, iodine",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why bromine water and sodium chloride solution show no change.",
+    "marks": 2,
+    "answer": "Bromine is less reactive than chlorine, so it cannot displace chloride ions from solution.",
+    "working": "1 mark: bromine less reactive than chlorine. 1 mark: so it cannot displace chloride ions."
+   },
+   {
+    "label": "c",
+    "text": "Predict the result when chlorine water is added to sodium fluoride solution. Explain your answer.",
+    "marks": 2,
+    "answer": "No change. Fluorine is more reactive than chlorine, so chlorine cannot displace fluoride ions.",
+    "working": "1 mark: no change. 1 mark: chlorine less reactive than fluorine, so no displacement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-117",
+  "topic": "The Periodic Table",
+  "subtopic": "Group VII",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write the balanced equation for the reaction of iron with chlorine to form iron(III) chloride.",
+    "marks": 1,
+    "answer": "2Fe + 3Cl₂ → 2FeCl₃",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the moles of iron in 5.60 g of iron (Ar: Fe = 56).",
+    "marks": 1,
+    "answer": "0.100 mol",
+    "working": "1 mark: 5.60 ÷ 56 = 0.100 mol."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the mass of chlorine needed to react with 5.60 g of iron (Ar: Cl = 35.5). Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "10.65 g",
+    "working": "1 mark: moles Cl₂ = 0.100 × 3 ÷ 2 = 0.150. 1 mark: 0.150 × 71 = 10.65 g."
+   },
+   {
+    "label": "d",
+    "text": "Calculate the mass of iron(III) chloride formed (Mr: FeCl₃ = 162.5).",
+    "marks": 1,
+    "answer": "16.25 g",
+    "working": "1 mark: 0.100 × 162.5 = 16.25 g."
+   }
+  ],
+  "check": "round(5.60/56*1.5*71,2)==10.65 and round(5.60/56*162.5,2)==16.25",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-118",
+  "topic": "The Periodic Table",
+  "subtopic": "Group VII",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why small amounts of chlorine are added to drinking water.",
+    "marks": 3,
+    "answer": "Chlorine kills harmful bacteria and other microorganisms, so the water is safe to drink. Only a small amount is used so that it is not harmful to people.",
+    "working": "1 mark: kills bacteria/microorganisms. 1 mark: makes water safe to drink. 1 mark: small amount used so it is not harmful to people."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-119",
+  "topic": "The Periodic Table",
+  "subtopic": "Group VII",
+  "paper": "6",
+  "difficulty": "challenge",
+  "stem": "Explain why bromine is less reactive than chlorine.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State how the number of electron shells in a bromine atom differs from a chlorine atom.",
+    "marks": 1,
+    "answer": "Bromine has 4 shells; chlorine has 3 shells.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Describe how the atomic size compares, and its effect on the attraction for an extra electron.",
+    "marks": 2,
+    "answer": "Bromine atoms are larger. The outer shell is further from the nucleus, so the nucleus attracts an incoming electron less strongly.",
+    "working": "1 mark: bromine atom larger. 1 mark: weaker attraction for an extra electron."
+   },
+   {
+    "label": "c",
+    "text": "State the effect on the ease of gaining an electron.",
+    "marks": 1,
+    "answer": "Bromine is less likely to gain an electron, so it is less reactive than chlorine.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-120",
+  "topic": "The Periodic Table",
+  "subtopic": "Group VII",
+  "paper": "5",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State one safety precaution when working with chlorine water, and explain why it is needed.",
+    "marks": 2,
+    "answer": "Work in a fume cupboard (or with good ventilation). Chlorine is toxic and irritates the lungs and eyes.",
+    "working": "1 mark: precaution (fume cupboard, eye protection). 1 mark: chlorine is toxic or irritant."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-121",
+  "topic": "The Periodic Table",
+  "subtopic": "Group I",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A metal is put into a Bunsen flame and gives a lilac flame. Which metal is it?\nA lithium\nB sodium\nC potassium\nD calcium",
+    "marks": 1,
+    "answer": "C potassium",
+    "working": "Potassium gives a lilac flame. Lithium gives red, sodium gives yellow and calcium gives a brick-red flame."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-122",
+  "topic": "The Periodic Table",
+  "subtopic": "Group I",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Equal moles (1 mol) of lithium, sodium and potassium are each reacted with an excess of water. Which statement is correct?\nA lithium produces the most hydrogen\nB sodium produces the most hydrogen\nC potassium produces the most hydrogen\nD all three produce the same amount of hydrogen",
+    "marks": 1,
+    "answer": "D all three produce the same amount of hydrogen",
+    "working": "2M + 2H₂O → 2MOH + H₂, so 1 mol of any Group I metal gives 0.5 mol of hydrogen. The amount of hydrogen depends on the moles of metal, not on how vigorous the reaction is."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-123",
+  "topic": "The Periodic Table",
+  "subtopic": "Group I",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what is seen when a small piece of potassium is added to water.",
+    "marks": 3,
+    "answer": "The potassium moves about rapidly on the surface and may burst into a lilac flame. Hydrogen is given off. The solution becomes alkaline (for example, universal indicator turns purple or blue).",
+    "working": "1 mark: moves rapidly on the surface. 1 mark: lilac flame or burning/fizzing. 1 mark: solution becomes alkaline."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-124",
+  "topic": "The Periodic Table",
+  "subtopic": "Group I",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why Group I metals are stored under oil.",
+    "marks": 3,
+    "answer": "They react with oxygen in the air. They react with water vapour in the air. The oil keeps both air and water away from the metal.",
+    "working": "1 mark: react with oxygen. 1 mark: react with water (moisture). 1 mark: oil excludes air and water."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-125",
+  "topic": "The Periodic Table",
+  "subtopic": "Group I",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write a balanced equation for the reaction of potassium with water.",
+    "marks": 2,
+    "answer": "2K + 2H₂O → 2KOH + H₂",
+    "working": "1 mark: products KOH and H₂. 1 mark: balanced."
+   },
+   {
+    "label": "b",
+    "text": "State the colour that universal indicator or phenolphthalein would show in the solution formed.",
+    "marks": 1,
+    "answer": "Phenolphthalein turns pink (the solution is alkaline).",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-126",
+  "topic": "The Periodic Table",
+  "subtopic": "Group I",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "0.14 g of lithium reacts completely with excess water: 2Li + 2H₂O → 2LiOH + H₂",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the moles of lithium in 0.14 g (Ar: Li = 7).",
+    "marks": 1,
+    "answer": "0.0200 mol",
+    "working": "1 mark: 0.14 ÷ 7 = 0.0200 mol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the moles of hydrogen formed.",
+    "marks": 1,
+    "answer": "0.0100 mol",
+    "working": "1 mark: the ratio Li : H₂ is 2 : 1, so 0.0200 ÷ 2 = 0.0100 mol."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the volume of hydrogen formed at room temperature and pressure (1 mol occupies 24 dm³). Give your answer in cm³.",
+    "marks": 2,
+    "answer": "240 cm³",
+    "working": "1 mark: 0.0100 × 24 = 0.240 dm³. 1 mark: 240 cm³."
+   },
+   {
+    "label": "d",
+    "text": "Calculate the mass of lithium hydroxide formed (Mr: LiOH = 24).",
+    "marks": 1,
+    "answer": "0.48 g",
+    "working": "1 mark: 0.0200 × 24 = 0.48 g."
+   }
+  ],
+  "check": "round(0.14/7*24,3)==0.48 and round(0.14/7/2*24000,1)==240",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-127",
+  "topic": "The Periodic Table",
+  "subtopic": "Group I",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the trend in melting point down Group I from lithium to potassium.",
+    "marks": 1,
+    "answer": "The melting point decreases down the group.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain this trend in terms of metallic bonding.",
+    "marks": 2,
+    "answer": "The atoms become larger, so the attraction between the positive ions and the delocalised electrons is weaker. Less energy is needed to melt the metal.",
+    "working": "1 mark: weaker metallic bonding in larger atoms. 1 mark: less energy needed to melt."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-128",
+  "topic": "The Periodic Table",
+  "subtopic": "Group I",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the gas produced when sodium reacts with water, and describe the test for it.",
+    "marks": 2,
+    "answer": "Hydrogen. A lighted splint held at the mouth of the tube gives a squeaky pop.",
+    "working": "1 mark: hydrogen. 1 mark: squeaky pop with a lighted splint."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-129",
+  "topic": "The Periodic Table",
+  "subtopic": "Group I",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A potassium atom has the electronic configuration 2,8,8,1.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the ion formed by a potassium atom, with its charge.",
+    "marks": 1,
+    "answer": "K⁺ (a potassium ion with a 1+ charge)",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain how the ion is formed.",
+    "marks": 1,
+    "answer": "The potassium atom loses its one outer electron to achieve a full outer shell.",
+    "working": "1 mark."
+   },
+   {
+    "label": "c",
+    "text": "Give the formula of potassium chloride.",
+    "marks": 1,
+    "answer": "KCl",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-130",
+  "topic": "The Periodic Table",
+  "subtopic": "Trends & arrangement",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Chlorine is in Period 3 of the Periodic Table. Which statement explains this?\nA it has three electrons\nB it has three occupied electron shells\nC it has three protons in its nucleus\nD it has three outer electrons",
+    "marks": 1,
+    "answer": "B it has three occupied electron shells",
+    "working": "The period number equals the number of occupied electron shells. Chlorine (2,8,7) has three shells. Chlorine has 17 protons and 7 outer electrons, so A, C and D are wrong."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-131",
+  "topic": "The Periodic Table",
+  "subtopic": "Trends & arrangement",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Going across Period 2 from lithium to neon, which statement is correct?\nA the atomic radius increases\nB the number of outer electrons increases from 1 to 8\nC the number of electron shells increases\nD the metallic character increases",
+    "marks": 1,
+    "answer": "B the number of outer electrons increases from 1 to 8",
+    "working": "Lithium (2,1) has 1 outer electron and neon (2,8) has 8. Across a period the number of shells stays the same, the atomic radius decreases, and the metallic character decreases."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-132",
+  "topic": "The Periodic Table",
+  "subtopic": "Trends & arrangement",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "Magnesium has the electronic configuration 2,8,2. Chlorine has the electronic configuration 2,8,7.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the group that each element is in.",
+    "marks": 2,
+    "answer": "Magnesium: Group II; chlorine: Group VII.",
+    "working": "1 mark: Mg is in Group II (2 outer electrons). 1 mark: Cl is in Group VII (7 outer electrons)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why magnesium and chlorine form ions with different charges.",
+    "marks": 2,
+    "answer": "Magnesium loses its two outer electrons to form Mg²⁺. Chlorine gains one electron to form Cl⁻, which gives it a full outer shell.",
+    "working": "1 mark: Mg loses 2 electrons to form Mg²⁺. 1 mark: Cl gains 1 electron to form Cl⁻ (full outer shell)."
+   },
+   {
+    "label": "c",
+    "text": "Give the formula of the compound formed between magnesium and chlorine.",
+    "marks": 1,
+    "answer": "MgCl₂",
+    "working": "1 mark: Mg²⁺ and Cl⁻ combine in the ratio 1 : 2."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-133",
+  "topic": "The Periodic Table",
+  "subtopic": "Trends & arrangement",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the trend in atomic radius across Period 3 from sodium to chlorine.",
+    "marks": 2,
+    "answer": "The atomic radius decreases across the period.",
+    "working": "1 mark: decreases. 1 mark: the number of shells stays the same (3) while the nuclear charge increases."
+   },
+   {
+    "label": "b",
+    "text": "Explain the trend in terms of the nuclear charge and attraction for the outer electrons.",
+    "marks": 2,
+    "answer": "The number of protons increases, so the nucleus has a greater positive charge. The outer electrons are pulled in more strongly, so the atoms get smaller.",
+    "working": "1 mark: nuclear charge increases. 1 mark: stronger attraction pulls the outer electrons closer."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-134",
+  "topic": "The Periodic Table",
+  "subtopic": "Trends & arrangement",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Element W has atomic number 16.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give the electronic configuration of element W (atomic number 16).",
+    "marks": 1,
+    "answer": "2,8,6",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "State its group and period.",
+    "marks": 2,
+    "answer": "Group VI; Period 3",
+    "working": "1 mark each."
+   },
+   {
+    "label": "c",
+    "text": "Give the formula of the compound W forms with hydrogen.",
+    "marks": 1,
+    "answer": "H₂W (H₂S)",
+    "working": "1 mark: W is sulfur, so H₂S."
+   },
+   {
+    "label": "d",
+    "text": "Give the symbol and charge of the ion it forms.",
+    "marks": 1,
+    "answer": "S²⁻",
+    "working": "1 mark: gains two electrons."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-135",
+  "topic": "The Periodic Table",
+  "subtopic": "Trends & arrangement",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why argon (Ar, relative atomic mass 39.95) is placed before potassium (K, relative atomic mass 39.10) in the Periodic Table.",
+    "marks": 3,
+    "answer": "Elements are arranged by atomic number. Argon has atomic number 18 and potassium has 19, so argon comes first. This keeps elements with similar properties in the same groups: argon is a noble gas and potassium is a Group I metal.",
+    "working": "1 mark: arrangement by atomic number (Ar 18, K 19). 1 mark: relative atomic mass would put K first, which would break the grouping. 1 mark: keeps elements with similar properties in groups."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-136",
+  "topic": "The Periodic Table",
+  "subtopic": "Trends & arrangement",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Period 2 contains lithium, beryllium, boron, carbon, nitrogen, oxygen, fluorine and neon.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the element in Period 2 and Group IV.",
+    "marks": 1,
+    "answer": "Carbon",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Give the number of outer electrons in nitrogen.",
+    "marks": 1,
+    "answer": "5",
+    "working": "1 mark: nitrogen (2,5)."
+   },
+   {
+    "label": "c",
+    "text": "Give the group number of oxygen.",
+    "marks": 1,
+    "answer": "Group VI (6)",
+    "working": "1 mark."
+   },
+   {
+    "label": "d",
+    "text": "Explain why neon is placed in Group 0.",
+    "marks": 1,
+    "answer": "It has a full outer shell of 8 electrons, like the other noble gases.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-137",
+  "topic": "The Periodic Table",
+  "subtopic": "Trends & arrangement",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why elements in the same group have similar chemical properties.",
+    "marks": 2,
+    "answer": "They have the same number of outer electrons.",
+    "working": "1 mark: same number of outer electrons. 1 mark: chemical reactions involve the outer electrons."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-138",
+  "topic": "The Periodic Table",
+  "subtopic": "Trends & arrangement",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "An element has atomic number 35. State its group, its period and whether it is a metal or a non-metal.",
+    "marks": 3,
+    "answer": "Group VII; Period 4; non-metal (it is bromine).",
+    "working": "1 mark: Group VII (7 outer electrons). 1 mark: Period 4 (four shells). 1 mark: non-metal."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-139",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why neon exists as single atoms, whereas chlorine exists as Cl₂ molecules.",
+    "marks": 2,
+    "answer": "Neon has a full outer shell, so it does not need to gain, lose or share electrons. Chlorine atoms share a pair of electrons to fill their outer shells, forming a molecule.",
+    "working": "1 mark: neon has a full outer shell. 1 mark: chlorine atoms share electrons to form covalent bonds."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-140",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the number of outer electrons in a helium atom.",
+    "marks": 1,
+    "answer": "2",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why helium is placed in Group 0 even though it has only two outer electrons.",
+    "marks": 2,
+    "answer": "Its outer shell is full, as it is the first shell, so it behaves like the other noble gases.",
+    "working": "1 mark: outer shell full (first shell holds 2). 1 mark: unreactive, like the other noble gases."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-141",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "6",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State why neon is suitable for use in advertising signs.",
+    "marks": 1,
+    "answer": "It is unreactive and non-flammable, so it is safe.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "State what happens when electricity passes through neon gas.",
+    "marks": 1,
+    "answer": "It glows red-orange.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-142",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why argon is used to fill light bulbs with tungsten filaments.",
+    "marks": 3,
+    "answer": "Argon is unreactive, so it does not react with the hot filament. It does not burn, so the filament is not oxidised. This stops the filament from burning out at high temperature.",
+    "working": "1 mark: argon is unreactive. 1 mark: it does not burn or oxidise the filament. 1 mark: the filament lasts longer at high temperature."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-143",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "The density of helium at room temperature and pressure is 0.18 g/dm³.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of helium in a balloon of volume 2.0 dm³.",
+    "marks": 2,
+    "answer": "0.36 g",
+    "working": "1 mark: 0.18 × 2.0. 1 mark: 0.36 g."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the number of moles of helium in the 2.0 dm³ balloon (1 mol occupies 24 dm³ at room temperature and pressure). Give your answer to 3 significant figures.",
+    "marks": 2,
+    "answer": "0.0833 mol",
+    "working": "1 mark: 2.0 ÷ 24. 1 mark: 0.0833 mol."
+   }
+  ],
+  "check": "round(0.18*2.0,2)==0.36 and round(2.0/24,4)==0.0833",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-144",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Xenon is a noble gas in Period 5.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the number of electrons in an atom of xenon (atomic number 54).",
+    "marks": 1,
+    "answer": "54",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Give the electronic configuration of xenon.",
+    "marks": 1,
+    "answer": "2,8,18,18,8",
+    "working": "1 mark."
+   },
+   {
+    "label": "c",
+    "text": "State the number of outer electrons and explain why xenon is in Group 0.",
+    "marks": 2,
+    "answer": "8 outer electrons. Its outer shell is full, like the other noble gases.",
+    "working": "1 mark: 8 outer electrons. 1 mark: full outer shell."
+   },
+   {
+    "label": "d",
+    "text": "Explain why heavier noble gases are slightly more reactive than lighter ones.",
+    "marks": 1,
+    "answer": "The outer electrons of heavier atoms are further from the nucleus and are held less strongly, so they are slightly easier to share or lose.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-145",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Compare the electronic structures of helium and sodium.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the electron structure of helium and of sodium.",
+    "marks": 1,
+    "answer": "Helium has a full outer shell of 2 electrons. Sodium has 1 outer electron.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Explain why helium is unreactive and sodium is reactive.",
+    "marks": 2,
+    "answer": "Helium does not lose, gain or share electrons because its outer shell is full. Sodium loses its one outer electron easily to form Na⁺.",
+    "working": "1 mark: helium has no need to react. 1 mark: sodium loses its outer electron to form an ion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-146",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of moles of argon in 1.00 dm³ of argon at room temperature and pressure (1 mol occupies 24 dm³).",
+    "marks": 1,
+    "answer": "0.0417 mol",
+    "working": "1 mark: 1.00 ÷ 24 = 0.0417 mol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mass of 1.00 dm³ of argon (Ar = 40). Give your answer to 2 decimal places.",
+    "marks": 2,
+    "answer": "1.67 g",
+    "working": "1 mark: 0.0417 × 40. 1 mark: 1.67 g."
+   }
+  ],
+  "check": "round(1/24*40,2)==1.67",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-147",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State one use of argon in welding and explain why it is used.",
+    "marks": 2,
+    "answer": "It shields the hot metal from air, so the metal does not oxidise. Argon is unreactive, so it does not react with the hot metal.",
+    "working": "1 mark: shields hot metal from oxygen. 1 mark: argon is unreactive."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-148",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Krypton is a noble gas.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the electronic configuration of krypton (atomic number 36).",
+    "marks": 1,
+    "answer": "2,8,18,8",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "State the period and group of krypton.",
+    "marks": 2,
+    "answer": "Period 4; Group 0",
+    "working": "1 mark each."
+   },
+   {
+    "label": "c",
+    "text": "Name the noble gas with the lowest boiling point.",
+    "marks": 1,
+    "answer": "Helium",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-149",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Argon has the electronic configuration 2,8,8. State its group and period.",
+    "marks": 2,
+    "answer": "Group 0; Period 3",
+    "working": "1 mark: Group 0. 1 mark: Period 3."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h1-150",
+  "topic": "The Periodic Table",
+  "subtopic": "Noble gases",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why helium is used to fill balloons rather than hydrogen.",
+    "marks": 2,
+    "answer": "Helium is non-flammable, so it is safer. Helium is less dense than air, so the balloon rises.",
+    "working": "1 mark: helium is non-flammable. 1 mark: less dense than air so the balloon floats."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]

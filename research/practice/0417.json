@@ -24377,5 +24377,3332 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "0417-h5-001",
+  "topic": "Input and output devices",
+  "subtopic": "Direct data entry devices (bar codes, RFID, QR)",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A hotel in Murree gives each guest a plastic key card with a magnetic stripe. The guest swipes the card through a reader on the room door.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the data on the key card is read when it is swiped.",
+    "marks": 2,
+    "answer": "The stripe passes the read head of a magnetic stripe reader; the head detects the pattern of magnetised areas and converts it to digital data (the room code), which the door's microprocessor checks.",
+    "working": "1 mark: stripe swiped past read head / magnetic stripe reader detects magnetised data. 1 mark: data converted to digital and compared with the code stored for the door."
+   },
+   {
+    "label": "b",
+    "text": "Give two disadvantages of magnetic stripe key cards compared with key cards that contain a chip.",
+    "marks": 2,
+    "answer": "Any two, e.g. the stripe is easily damaged by magnets/phones/scratches; the data can be copied (cloned) easily; stripe wears out with repeated swiping; must be swiped in the correct direction.",
+    "working": "1 mark each for any two valid disadvantages."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-002",
+  "topic": "Input and output devices",
+  "subtopic": "Direct data entry devices (bar codes, RFID, QR)",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two differences between a QR code and a one-dimensional bar code.",
+    "marks": 2,
+    "answer": "Any two, e.g. a QR code is two-dimensional (squares in a grid) while a bar code is a row of lines; a QR code holds much more data (e.g. a whole web address); a QR code can be read from any angle; a QR code can be read by a smartphone camera without a dedicated scanner; a QR code still reads if partly damaged.",
+    "working": "1 mark per valid difference (must compare both)."
+   },
+   {
+    "label": "b",
+    "text": "A fruit stall in Quetta displays a QR code so that customers can pay with a mobile banking app. Describe how a customer pays using the QR code.",
+    "marks": 3,
+    "answer": "The customer opens the banking app and uses the phone camera to scan the QR code; the app reads the stall's account details from the code; the customer types the amount and confirms with a PIN/fingerprint; the money is transferred and both see a confirmation.",
+    "working": "1 mark each for any three: scan with phone camera/app; account details decoded from code; amount entered and authorised (PIN/biometric); payment transferred and confirmation shown."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-003",
+  "topic": "Input and output devices",
+  "subtopic": "Direct data entry devices (bar codes, RFID, QR)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Cars using a motorway have an RFID tag stuck on the inside of the windscreen. When a car passes through the toll plaza, the barrier lifts without the car stopping and the toll is taken from the driver's prepaid account.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the RFID system identifies the car and charges the toll.",
+    "marks": 3,
+    "answer": "A reader at the toll plaza sends out radio waves; the tag's antenna picks them up and the tag sends back its unique ID; the computer looks up the ID in the database of accounts, deducts the toll from that account and opens the barrier.",
+    "working": "1 mark each: reader sends radio waves / tag responds; unique tag ID transmitted; ID matched to account in database and toll deducted (and barrier raised)."
+   },
+   {
+    "label": "b",
+    "text": "Give one advantage of this system for drivers and one advantage for the motorway company.",
+    "marks": 2,
+    "answer": "Drivers: no need to stop/queue or carry cash, so journeys are faster. Company: fewer toll staff needed / fewer cash-handling errors / traffic flows faster with less congestion.",
+    "working": "1 mark for a driver advantage; 1 mark for a company advantage."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-004",
+  "topic": "Input and output devices",
+  "subtopic": "Direct data entry devices (bar codes, RFID, QR)",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "Many smartphones can make contactless payments using near field communication (NFC).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how a customer pays for groceries using NFC on a smartphone.",
+    "marks": 3,
+    "answer": "The cashier enters the total on the card reader; the customer unlocks the payment app with fingerprint/face/PIN; the phone is held close to (within a few cm of) the reader; the payment details are sent by NFC radio and the payment is authorised.",
+    "working": "1 mark each for any three: amount entered on reader; customer authenticates on phone; phone held very close to reader; data passed by short-range radio/NFC and payment approved."
+   },
+   {
+    "label": "b",
+    "text": "Explain why paying with a smartphone can be more secure than tapping a contactless bank card.",
+    "marks": 2,
+    "answer": "The phone must be unlocked with a fingerprint/face/PIN before paying, so a thief who steals it cannot easily use it; the phone sends a one-time code (token) instead of the real card number, so intercepted data is useless.",
+    "working": "1 mark each for two explained points (biometric/PIN check before every payment; real card number not transmitted / token used)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-005",
+  "topic": "Input and output devices",
+  "subtopic": "Direct data entry devices (bar codes, RFID, QR)",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A hospital in Karachi plans to give each patient a wristband with a bar code. Nurses will scan the wristband and the bar code on each medicine packet before giving a dose.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate the use of bar codes on patient wristbands and medicine packets in this hospital.",
+    "marks": 6,
+    "answer": "Benefits: correct patient is identified, reducing the risk of giving the wrong medicine; the system can check that the medicine and dose match the prescription and warn the nurse; doses are recorded automatically with the time, so records are accurate and complete; faster than writing notes. Drawbacks: cost of scanners, printers and software; bar codes can be damaged/wet/smudged and fail to scan, so manual entry may be needed; nurses need training; if the system fails, a backup paper method is needed; a scan must be in line of sight, which may disturb a sleeping patient. Conclusion: likely worthwhile because patient safety improves.",
+    "working": "Up to 4 marks for benefits/drawbacks explained in context (max 4 if only one side); 1 mark for balance of both sides; 1 mark for a reasoned conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-006",
+  "topic": "Input and output devices",
+  "subtopic": "Input devices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write down the most suitable input device for each task.\n(i) Moving the pointer on a laptop when there is no space for a mouse.\n(ii) Showing a student's face to her teacher during an online lesson.\n(iii) Selecting items directly on a screen by pointing at it with a pen-shaped device connected to the computer.\n(iv) Typing the text of a long letter.",
+    "marks": 4,
+    "answer": "(i) Touchpad (ii) Webcam (iii) Light pen (iv) Keyboard",
+    "working": "1 mark for each correct device."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-007",
+  "topic": "Input and output devices",
+  "subtopic": "Input devices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what a light pen is.",
+    "marks": 2,
+    "answer": "A pen-shaped pointing device connected to the computer that is used to select items or draw directly on the screen; it detects light from the screen to work out its position.",
+    "working": "1 mark: pen-shaped device used directly on the screen. 1 mark: used to select/draw; detects light/position on screen."
+   },
+   {
+    "label": "b",
+    "text": "Give one use of a light pen and one disadvantage of using it.",
+    "marks": 2,
+    "answer": "Use: e.g. selecting options or drawing on screen in CAD / point-of-sale or design work. Disadvantage: e.g. holding the arm up to the screen is tiring; it may not work with all types of monitor; it blocks part of the screen; it needs a cable.",
+    "working": "1 mark for a valid use; 1 mark for a valid disadvantage."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-008",
+  "topic": "Input and output devices",
+  "subtopic": "Input devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A burger shop in Hyderabad uses a till with a concept keyboard. Each key has a picture of a menu item, such as a burger, a drink or chips.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two reasons why a concept keyboard is suitable for this till.",
+    "marks": 4,
+    "answer": "Any two explained, e.g. staff press one key for a whole item, so orders are entered very quickly; pictures/words on keys mean little training is needed and fewer errors are made; keys are often sealed under a flat membrane so spilled drinks and grease do not damage it and it is easy to clean.",
+    "working": "For each of two reasons: 1 mark for the point, 1 mark for the explanation linked to the shop."
+   },
+   {
+    "label": "b",
+    "text": "Give one drawback of using a concept keyboard.",
+    "marks": 1,
+    "answer": "When the menu changes, the key overlay/pictures must be changed; it cannot be used for typing general text.",
+    "working": "1 mark for a valid drawback."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-009",
+  "topic": "Input and output devices",
+  "subtopic": "Input devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A taxi company in Islamabad fits each car with a microphone and voice-recognition software so that drivers can speak commands such as 'Accept next booking'.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why voice input is safer than a touch screen for the drivers.",
+    "marks": 2,
+    "answer": "The driver can keep both hands on the steering wheel and eyes on the road because nothing needs to be looked at or pressed.",
+    "working": "1 mark: hands stay on the wheel. 1 mark: eyes stay on the road / no distraction looking at a screen."
+   },
+   {
+    "label": "b",
+    "text": "Describe two problems the drivers might have with the voice-recognition system.",
+    "marks": 2,
+    "answer": "Any two, e.g. road/engine/passenger noise causes commands to be misheard; strong accents or mixing Urdu and English words may not be recognised; the driver may have to repeat commands, which is frustrating; the software may need training to each voice.",
+    "working": "1 mark each for any two valid problems."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-010",
+  "topic": "Input and output devices",
+  "subtopic": "Input devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A university in Lahore is buying laptops with a built-in webcam for online tutorials.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two advantages of a built-in webcam compared with a separate webcam.",
+    "marks": 2,
+    "answer": "Any two, e.g. nothing extra to carry or connect; no extra cost; always in the correct position at the top of the screen; no cable or USB port needed.",
+    "working": "1 mark each for any two."
+   },
+   {
+    "label": "b",
+    "text": "Give two disadvantages of built-in webcams.",
+    "marks": 2,
+    "answer": "Any two, e.g. image quality is often lower; the camera cannot be moved/angled separately from the screen; malware could switch it on to spy on the user; cannot be replaced easily if it breaks.",
+    "working": "1 mark each for any two."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-011",
+  "topic": "Input and output devices",
+  "subtopic": "Input devices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A photographer's digital camera takes photos that are 6000 pixels wide and 4000 pixels high. Each pixel uses 3 bytes. Use 1 MB = 1 048 576 bytes and 1 GB = 1024 MB.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the size of one uncompressed photo in MB. Give your answer correct to 2 decimal places.",
+    "marks": 2,
+    "answer": "68.66 MB",
+    "working": "M1: 6000 × 4000 × 3 = 72 000 000 bytes. A1: ÷ 1 048 576 = 68.66 MB."
+   },
+   {
+    "label": "b",
+    "text": "The camera saves each photo as a .jpg with an average size of 8 MB. Calculate how many photos fit on a 64 GB memory card.",
+    "marks": 2,
+    "answer": "8192 photos",
+    "working": "M1: 64 × 1024 = 65 536 MB. A1: 65 536 ÷ 8 = 8192."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a high number of pixels is useful when the photo will be printed as a large poster.",
+    "marks": 2,
+    "answer": "More pixels means more detail; the image can be enlarged to poster size without the pixels becoming visible (pixelation/blurring).",
+    "working": "1 mark: more detail/higher resolution. 1 mark: can be printed large without pixelation."
+   }
+  ],
+  "check": "round(6000*4000*3/1048576,2)==68.66 and 64*1024//8==8192",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-012",
+  "topic": "Input and output devices",
+  "subtopic": "Input devices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Zubair has a condition that makes it very difficult for him to control the fine movements of his hands. He wants to write essays and use the internet on his computer.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the suitability of a microphone with speech-recognition software, a trackerball and a large-key keyboard as input devices for Zubair.",
+    "marks": 6,
+    "answer": "Microphone with speech recognition: he can dictate essays and commands without using his hands, much faster than typing; but software must be trained to his voice, errors need correcting, background noise causes mistakes. Trackerball: the ball is moved with the thumb/palm while the device stays still, so less precise movement is needed than a mouse and it cannot be knocked off the desk; but still needs some hand control and clicking. Large-key keyboard: bigger keys are easier to hit, fewer typing errors; but typing remains slow and tiring. Conclusion: speech recognition for text with a trackerball for pointing is likely the best combination.",
+    "working": "Up to 2 marks per device for points about suitability (advantages and limitations) in context; maximum 5 if no conclusion; 1 mark for a reasoned conclusion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-013",
+  "topic": "Input and output devices",
+  "subtopic": "Sensors, actuators and ADC/DAC",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write down the most suitable sensor for each use.\n(i) Checking the acidity of the water in a fish farm.\n(ii) Detecting a leak of cooking gas in a kitchen.\n(iii) Detecting the sound of breaking glass in a shop at night.\n(iv) Checking how damp the air is in a museum store room.",
+    "marks": 4,
+    "answer": "(i) pH sensor (ii) Gas sensor (iii) Acoustic (sound) sensor (iv) Humidity sensor",
+    "working": "1 mark for each correct sensor."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-014",
+  "topic": "Input and output devices",
+  "subtopic": "Sensors, actuators and ADC/DAC",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a computer monitoring system and a computer control system.",
+    "marks": 2,
+    "answer": "In a monitoring system the computer reads sensor data and displays/records it or warns a person, but does not change the conditions; in a control system the computer uses the sensor data to make decisions and sends signals to actuators to change the conditions.",
+    "working": "1 mark: monitoring only records/displays/alerts. 1 mark: control uses actuators/outputs to change conditions."
+   },
+   {
+    "label": "b",
+    "text": "State whether each system is monitoring or control.\n(i) A weather station that records rainfall every hour.\n(ii) An oven that switches its heater on and off to stay at 180 °C.",
+    "marks": 2,
+    "answer": "(i) Monitoring (ii) Control",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-015",
+  "topic": "Input and output devices",
+  "subtopic": "Sensors, actuators and ADC/DAC",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A house in Lahore has a microprocessor-controlled burglar alarm with infrared sensors in each room and pressure sensors under the doormats. The owner sets the alarm with a code on a keypad.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the alarm system detects an intruder and responds.",
+    "marks": 4,
+    "answer": "The sensors send data continuously to the microprocessor (through an ADC for analogue readings); the microprocessor compares the readings with stored/preset values; if the infrared sensor detects movement/heat or the pressure is above the preset value, it sends a signal to the actuators to sound the siren/flash a light (and may send a message to the owner); if not, it keeps checking in a continuous loop.",
+    "working": "1 mark each for any four: sensors send readings to microprocessor; ADC converts analogue readings; compared with stored values; alarm/siren activated (signal sent) when value outside range; owner alerted; process repeats continuously while set."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-016",
+  "topic": "Input and output devices",
+  "subtopic": "Sensors, actuators and ADC/DAC",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A shopping mall in Karachi has automatic sliding doors at its entrance.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name a suitable sensor to detect a person approaching the doors.",
+    "marks": 1,
+    "answer": "Infrared (motion) sensor / proximity sensor.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Describe how the microprocessor uses the sensor to open and close the doors.",
+    "marks": 3,
+    "answer": "The microprocessor receives readings from the sensor and compares them with a stored value; if a person is detected it sends a signal to the actuator (motor) to open the doors; the doors stay open while someone is detected and close after a set time with no one detected.",
+    "working": "1 mark each: reading compared with stored value; signal sent to motor/actuator to open; doors closed after set time when no person detected / loop repeats."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-017",
+  "topic": "Input and output devices",
+  "subtopic": "Sensors, actuators and ADC/DAC",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A data logger monitors a river in Sindh using three sensors: temperature, pH and oxygen level. Each sensor takes one reading every 10 minutes and each reading uses 2 bytes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total number of bytes needed to store all the readings for 7 days.",
+    "marks": 2,
+    "answer": "6048 bytes",
+    "working": "M1: readings per sensor per day = 24 × 6 = 144; × 7 days × 3 sensors = 3024 readings. A1: × 2 bytes = 6048 bytes."
+   },
+   {
+    "label": "b",
+    "text": "The logger has 64 KB of memory (1 KB = 1024 bytes). Calculate the greatest number of whole days of readings it can store.",
+    "marks": 2,
+    "answer": "75 days",
+    "working": "M1: 64 × 1024 = 65 536 bytes; bytes per day = 144 × 3 × 2 = 864. A1: 65 536 ÷ 864 = 75.85 → 75 whole days."
+   }
+  ],
+  "check": "144*7*3*2==6048 and (64*1024)//(144*3*2)==75",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-018",
+  "topic": "Input and output devices",
+  "subtopic": "Sensors, actuators and ADC/DAC",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "In a chemical factory, a computer monitors the pressure inside a large storage tank.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two advantages of using a computer and pressure sensor rather than a worker reading a dial.",
+    "marks": 4,
+    "answer": "Any two explained, e.g. readings are taken continuously, day and night, so a sudden rise is not missed; the computer reacts faster than a person, so an alarm sounds immediately; workers are not exposed to a dangerous area; readings are more accurate/consistent and are stored automatically for later analysis.",
+    "working": "For each of two: 1 mark for the point, 1 mark for the explanation."
+   },
+   {
+    "label": "b",
+    "text": "Describe what the computer does when the pressure rises above the safe limit.",
+    "marks": 2,
+    "answer": "It compares each reading with the preset maximum; if it is higher, it sounds an alarm/warns the operator (and in a control system opens a release valve using an actuator).",
+    "working": "1 mark: compares with preset value. 1 mark: alarm/warning output (or valve opened)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-019",
+  "topic": "Input and output devices",
+  "subtopic": "Sensors, actuators and ADC/DAC",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A poultry farm near Rawalpindi uses a microprocessor to keep the temperature in a chicken shed between 26 °C and 30 °C. The shed has an electric heater and an extractor fan.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the microprocessor uses sensor data to keep the temperature within the range.",
+    "marks": 6,
+    "answer": "A temperature sensor measures the temperature continuously and sends analogue data; an ADC converts it to digital; the microprocessor compares the reading with the stored values 26 °C and 30 °C; if below 26 °C it sends a signal to switch the heater on (and fan off); if above 30 °C it switches the heater off and the fan on (via actuators/relays, with a DAC if the device needs an analogue signal); if within range no change is made; the process repeats in a continuous loop.",
+    "working": "1 mark each for any six: sensor reads temperature; ADC converts analogue to digital; compared with preset values; below 26 °C → heater on; above 30 °C → heater off / fan on; signals sent to actuators (DAC if needed); in range → no action; continuous loop."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-020",
+  "topic": "Input and output devices",
+  "subtopic": "Sensors, actuators and ADC/DAC",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Traffic lights at a busy junction in Peshawar are controlled by a microprocessor. Pressure sensors under the road count the cars waiting at each approach.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how the microprocessor uses the sensor data to decide how long each light stays green.",
+    "marks": 4,
+    "answer": "The sensors send data on cars passing/waiting to the microprocessor; it counts the cars/calculates the queue length for each road; it compares these values with stored values/the other roads; it keeps the green light on longer for the road with the longest queue (up to a maximum time) and sends signals to change the lights.",
+    "working": "1 mark each: data sent continuously; queue length/count calculated; compared with stored values / other approaches; timing changed and signal sent to the lights."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a sensor-controlled system is better than lights that change at fixed times.",
+    "marks": 2,
+    "answer": "It responds to the actual traffic, so cars do not wait at a red light when the other road is empty; queues are shorter and traffic flows better at different times of day.",
+    "working": "1 mark: adapts to real traffic. 1 mark: less waiting/congestion/pollution."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-021",
+  "topic": "Input and output devices",
+  "subtopic": "Sensors, actuators and ADC/DAC",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A hospital uses incubators for babies born early. The air temperature and humidity inside each incubator are controlled by a microprocessor.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a digital-to-analogue converter (DAC) may be needed between the microprocessor and the heater.",
+    "marks": 2,
+    "answer": "The microprocessor outputs digital signals, but the heater may need a varying analogue voltage to change its power, so the DAC converts the digital signal into an analogue one.",
+    "working": "1 mark: microprocessor output is digital. 1 mark: device needs analogue signal, so conversion is needed."
+   },
+   {
+    "label": "b",
+    "text": "Give two reasons why a microprocessor-controlled incubator is better than a nurse adjusting the heater by hand.",
+    "marks": 2,
+    "answer": "Any two, e.g. it checks conditions continuously, day and night; it responds immediately to small changes; it is more accurate; nurses are free to do other care; readings are recorded automatically.",
+    "working": "1 mark each for any two."
+   },
+   {
+    "label": "c",
+    "text": "Suggest what the system should do if a sensor stops sending readings.",
+    "marks": 2,
+    "answer": "Sound an alarm/alert staff immediately, and switch to a safe default setting (or a backup sensor) until the fault is fixed.",
+    "working": "1 mark: alarm/alert nurses. 1 mark: safe default / backup sensor."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-022",
+  "topic": "Input and output devices",
+  "subtopic": "Output devices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write down the most suitable output device for each task.\n(i) Printing multi-part invoices with carbon copies in a dusty workshop.\n(ii) Playing a recorded announcement in a railway station.\n(iii) Showing a presentation to 200 people in a hall.\n(iv) Opening a valve in a water-treatment plant under computer control.",
+    "marks": 4,
+    "answer": "(i) Dot matrix printer (ii) Speakers (iii) Multimedia projector (iv) Actuator (e.g. motor/solenoid)",
+    "working": "1 mark for each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-023",
+  "topic": "Input and output devices",
+  "subtopic": "Output devices",
+  "paper": "1",
+  "difficulty": "core",
+  "stem": "A car-parts warehouse in Gujranwala still uses dot matrix printers.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two reasons why the warehouse uses dot matrix printers.",
+    "marks": 2,
+    "answer": "Any two, e.g. they are impact printers so can print on multi-part/carbon stationery; they work in dusty, damp or dirty conditions; continuous (fan-fold) paper can be used for long reports; running costs are very low.",
+    "working": "1 mark each for any two."
+   },
+   {
+    "label": "b",
+    "text": "Give two drawbacks of dot matrix printers.",
+    "marks": 2,
+    "answer": "Any two, e.g. they are very noisy; print quality is poor; they are slow; colour printing is limited/expensive.",
+    "working": "1 mark each for any two."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-024",
+  "topic": "Input and output devices",
+  "subtopic": "Output devices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two uses of speakers connected to a computer.",
+    "marks": 2,
+    "answer": "Any two, e.g. playing music/videos; listening to a video call; hearing voice output from a screen reader for blind users; alarms/warning sounds; language-learning recordings.",
+    "working": "1 mark each for any two."
+   },
+   {
+    "label": "b",
+    "text": "A sound file is stored in digital form. Describe how it is turned into sound by the speaker.",
+    "marks": 2,
+    "answer": "A digital-to-analogue converter changes the digital data into an analogue electrical signal, which is amplified; the signal makes the speaker cone vibrate, producing sound waves.",
+    "working": "1 mark: DAC converts digital to analogue (amplified). 1 mark: signal makes the cone/diaphragm vibrate to produce sound."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-025",
+  "topic": "Input and output devices",
+  "subtopic": "Output devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "An office in Islamabad is replacing old LCD monitors that use fluorescent tubes behind the screen with LED-backlit monitors.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two advantages of the LED-backlit monitors.",
+    "marks": 4,
+    "answer": "Any two explained, e.g. LEDs reach full brightness immediately, so no warm-up time; they use less power, reducing electricity bills; they last longer, so fewer replacements; the monitors are thinner and lighter, saving desk space; they give brighter images with better contrast/colour.",
+    "working": "For each of two: 1 mark for the point, 1 mark for the explanation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-026",
+  "topic": "Input and output devices",
+  "subtopic": "Output devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how a thermal-bubble inkjet printer prints a page.",
+    "marks": 4,
+    "answer": "The data is sent to the printer (stored in a buffer); paper is fed in and the print head moves across the page; tiny resistors in the nozzles heat the ink, forming a bubble that pushes a droplet of ink onto the paper; as the bubble collapses, more ink is drawn in from the cartridge; the paper moves up a line at a time until the page is complete.",
+    "working": "1 mark each for any four of the steps."
+   },
+   {
+    "label": "b",
+    "text": "Give one advantage of an inkjet printer over a laser printer for a family printing a few photos each month.",
+    "marks": 1,
+    "answer": "Cheaper to buy / produces high-quality colour photos / smaller.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-027",
+  "topic": "Input and output devices",
+  "subtopic": "Output devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "stem": "A school compares two printers for its office.\nInkjet: an ink cartridge costs Rs 4500 and prints 300 pages.\nLaser: a toner cartridge costs Rs 18 000 and prints 2400 pages.\nThe office prints 1200 pages a month.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cost per page for each printer in rupees.",
+    "marks": 2,
+    "answer": "Inkjet Rs 15 per page; laser Rs 7.50 per page.",
+    "working": "B1: 4500 ÷ 300 = 15. B1: 18 000 ÷ 2400 = 7.5."
+   },
+   {
+    "label": "b",
+    "text": "Calculate how much the school saves each month on cartridges by using the laser printer.",
+    "marks": 2,
+    "answer": "Rs 9000",
+    "working": "M1: 1200 × (15 − 7.5). A1: Rs 9000."
+   },
+   {
+    "label": "c",
+    "text": "The laser printer costs Rs 45 000 more to buy. Calculate how many months it takes for the savings to cover this extra cost.",
+    "marks": 1,
+    "answer": "5 months",
+    "working": "45 000 ÷ 9000 = 5."
+   }
+  ],
+  "check": "4500/300==15 and 18000/2400==7.5 and 1200*(15-7.5)==9000 and 45000/9000==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-028",
+  "topic": "Input and output devices",
+  "subtopic": "Output devices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A tractor-repair workshop in Sahiwal often waits weeks for a small plastic bracket that costs Rs 650 to buy. It is thinking of printing the brackets on a 3D printer. The printer deposits 15 cm³ of material per hour. Each bracket has a volume of 22.5 cm³ and the material costs Rs 12 per cm³.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate how long it takes to print 8 brackets, in hours.",
+    "marks": 2,
+    "answer": "12 hours",
+    "working": "M1: 8 × 22.5 = 180 cm³. A1: 180 ÷ 15 = 12 hours."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the material cost of one printed bracket and the total saving for 8 brackets compared with buying them.",
+    "marks": 2,
+    "answer": "Rs 270 each; saving Rs 3040",
+    "working": "M1: 22.5 × 12 = 270. A1: 8 × (650 − 270) = 3040."
+   },
+   {
+    "label": "c",
+    "text": "Evaluate whether the workshop should buy the 3D printer.",
+    "marks": 3,
+    "answer": "For: parts are made on site in hours instead of weeks, so tractors are repaired faster; each part is cheaper; parts can be customised. Against: printer cost and training; printing is slow for large numbers; plastic may be weaker than the factory part; designs (CAD files) are needed. Conclusion: worthwhile if brackets are needed often.",
+    "working": "1 mark for an advantage, 1 mark for a disadvantage, 1 mark for a justified conclusion."
+   }
+  ],
+  "check": "8*22.5/15==12 and 22.5*12==270 and 8*(650-270)==3040",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-029",
+  "topic": "Input and output devices",
+  "subtopic": "Output devices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A lecture theatre in Faisalabad must choose between an LCD projector and a DLP (digital light processing) projector.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare LCD and DLP projectors.",
+    "marks": 6,
+    "answer": "Both project a large image from a computer and use a bright lamp. Most LCD projectors pass the light through three LCD panels (red, green, blue), whereas a DLP projector reflects light from a chip with millions of tiny mirrors and a colour wheel. LCD projectors often give brighter, more saturated colours, whereas DLP projectors often give higher contrast and deeper blacks. DLP projectors are usually smaller and lighter and give smoother video, whereas LCD images can show a visible grid of pixels ('screen door'). Some viewers see a 'rainbow' effect with DLP, and LCD panels can be affected by dust and can fade with age.",
+    "working": "1 mark per comparison point that refers to both types (max 6). Max 4 if points are not linked comparisons."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0417-h5-030",
+  "topic": "Input and output devices",
+  "subtopic": "Output devices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A monitor has a resolution of 1920 × 1080 pixels and uses 3 bytes for the colour of each pixel. Use 1 MB = 1 048 576 bytes and 1 GB = 1024 MB.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the memory needed to store one full screen image, in MB, correct to 2 decimal places.",
+    "marks": 2,
+    "answer": "5.93 MB",
+    "working": "M1: 1920 × 1080 × 3 = 6 220 800 bytes. A1: ÷ 1 048 576 = 5.93 MB."
+   },
+   {
+    "label": "b",
+    "text": "A 10-second uncompressed video clip is shown at 30 frames per second. Calculate its size in GB, correct to 2 decimal places.",
+    "marks": 2,
+    "answer": "1.74 GB",
+    "working": "M1: 6 220 800 × 30 × 10 = 1 866 240 000 bytes. A1: ÷ 1024³ = 1.74 GB."
+   },
+   {
+    "label": "c",
+    "text": "Explain why videos are compressed before being streamed to a monitor over the internet.",
+    "marks": 2,
+    "answer": "Uncompressed video is far too large; compression reduces the amount of data, so it can be sent quickly over the available bandwidth without buffering and uses less data/storage.",
+    "working": "1 mark: uncompressed files very large. 1 mark: compressed data streams faster / less bandwidth / no buffering."
+   }
+  ],
+  "check": "round(1920*1080*3/1048576,2)==5.93 and round(1920*1080*3*300/1024**3,2)==1.74",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A student's report ends with a reference list. Each reference is one paragraph and runs over two or more lines.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the paragraph setting needed so that the second and later lines of each reference in a list are indented.",
+    "marks": 1,
+    "answer": "Hanging indent",
+    "working": "1 mark: hanging indent (Paragraph dialog > Indentation > Special: Hanging)."
+   },
+   {
+    "label": "b",
+    "text": "Describe the steps to apply this setting to the selected reference paragraphs.",
+    "marks": 2,
+    "answer": "Select the reference paragraphs; open the Paragraph settings (Indentation); in the Special list choose Hanging and enter the indent amount (e.g. 1.25 cm); confirm.",
+    "working": "1 mark: select the paragraphs and open the Paragraph settings. 1 mark: choose Hanging in Special and set the amount."
+   }
+  ],
+  "id": "0417-h5-031",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "The text area of an A4 page is 23.5 cm high after the top and bottom margins are set. Each line of body text takes 18 pt of vertical space. Use 1 cm = 28.35 pt.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of complete lines of text that fit in the text area. Give your answer as a whole number.",
+    "marks": 2,
+    "answer": "37 lines",
+    "working": "M1: 23.5 cm × 28.35 pt/cm = 666.2 pt. M1: 666.2 ÷ 18 = 37.01. A1: 37 complete lines (the part line is not counted)."
+   },
+   {
+    "label": "b",
+    "text": "State one feature of a typical page, other than the body text, that means fewer lines of text fit on the page than this calculation suggests.",
+    "marks": 1,
+    "answer": "Headings, paragraph spacing, images or a footer take up part of the height.",
+    "working": "1 mark for any one valid feature that uses vertical space."
+   }
+  ],
+  "check": "math.floor(23.5*28.35/18)==37",
+  "id": "0417-h5-032",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A table in a planning report lists the floor area of each room in square metres. A student has typed 12 m2 and the 2 is at normal height.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the formatting that should be applied to the 2 so that it appears above the line.",
+    "marks": 1,
+    "answer": "Superscript (Home tab, Font group: superscript button)",
+    "working": "1 mark: superscript."
+   },
+   {
+    "label": "b",
+    "text": "Give one reason why typing a caret and a number, such as m^2, is not suitable in a formal document.",
+    "marks": 1,
+    "answer": "The caret and the 2 both show as text, so the document looks unprofessional; the proper formatting is not used.",
+    "working": "1 mark: any valid reason, e.g. it is not the correct formatting and the caret is shown literally."
+   }
+  ],
+  "id": "0417-h5-033",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the type of font in which every character has the same width.",
+    "marks": 1,
+    "answer": "Monospaced (fixed-width) font, for example Courier New",
+    "working": "1 mark: monospaced or fixed-width font."
+   },
+   {
+    "label": "b",
+    "text": "Give one type of document in which this font is suitable.",
+    "marks": 1,
+    "answer": "A code listing, a programming example, or printed computer output in aligned columns.",
+    "working": "1 mark: any valid example in which characters must line up."
+   }
+  ],
+  "id": "0417-h5-034",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A report contains 2130 lines of text. Each printed page holds 45 lines.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of pages needed for the report. Show your working.",
+    "marks": 2,
+    "answer": "48 pages",
+    "working": "M1: 2130 ÷ 45 = 47.33. A1: 48 pages (a partly used page still needs a whole sheet)."
+   },
+   {
+    "label": "b",
+    "text": "State why the answer must be rounded up, not to the nearest whole number.",
+    "marks": 1,
+    "answer": "The last 0.33 of a page still needs a whole page, so 47 pages would be too few.",
+    "working": "1 mark: any valid reason that the partly filled page is still a whole page."
+   }
+  ],
+  "check": "math.ceil(2130/45)==48",
+  "id": "0417-h5-035",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A student has changed the font and colour of one sentence by hand, and the sentence no longer matches the rest of the document.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two ways to remove direct formatting from a selected piece of text so that it takes on the formatting of its paragraph style.",
+    "marks": 2,
+    "answer": "Use the Clear All Formatting button (Home tab); press Ctrl+Spacebar; or reapply the paragraph style.",
+    "working": "1 mark for each valid method, up to 2."
+   }
+  ],
+  "id": "0417-h5-036",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the paragraph setting that stops a heading from being left at the bottom of a page when the paragraph it introduces starts on the next page.",
+    "marks": 1,
+    "answer": "Keep with next",
+    "working": "1 mark: Keep with next."
+   },
+   {
+    "label": "b",
+    "text": "State the name of the built-in style that has this setting switched on by default.",
+    "marks": 1,
+    "answer": "Heading 1 (or any Heading style)",
+    "working": "1 mark: a Heading style."
+   }
+  ],
+  "id": "0417-h5-037",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two reasons why body text of at least 11 pt is recommended for a printed leaflet for older readers.",
+    "marks": 2,
+    "answer": "Any two: larger text is easier to read; it reduces eye strain; it reduces the chance of misreading words.",
+    "working": "1 mark for each valid reason, up to 2."
+   }
+  ],
+  "id": "0417-h5-038",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "stem": "A student's introduction has three paragraphs. The paragraphs contain 84, 117 and 96 words.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the average number of words per paragraph.",
+    "marks": 2,
+    "answer": "99 words",
+    "working": "M1: 84 + 117 + 96 = 297. A1: 297 ÷ 3 = 99 words."
+   },
+   {
+    "label": "b",
+    "text": "State the feature on the Review tab that shows the number of words in a document.",
+    "marks": 1,
+    "answer": "Word Count",
+    "working": "1 mark: Word Count."
+   }
+  ],
+  "check": "(84+117+96)/3==99",
+  "id": "0417-h5-039",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what a soft return (Shift+Enter) does, compared with pressing Enter.",
+    "marks": 2,
+    "answer": "Shift+Enter starts a new line inside the same paragraph, so the paragraph formatting and spacing after it are not split; Enter starts a new paragraph.",
+    "working": "1 mark: Shift+Enter starts a new line within the same paragraph. 1 mark: Enter starts a new paragraph (with its own spacing)."
+   }
+  ],
+  "id": "0417-h5-040",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A 25-page project report has its section headings formatted with the Heading 1 and Heading 2 styles.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to insert an automatic table of contents that uses the Heading 1 and Heading 2 styles.",
+    "marks": 2,
+    "answer": "Go to References > Table of Contents and choose an automatic style; the contents list is built from paragraphs formatted with the heading styles.",
+    "working": "1 mark: References > Table of Contents. 1 mark: built from paragraphs in Heading 1 and Heading 2 styles (the headings must use the styles)."
+   },
+   {
+    "label": "b",
+    "text": "The author then changes the wording of a heading. State what must be done so the contents page is correct.",
+    "marks": 1,
+    "answer": "Right-click the table of contents and choose Update Field (or Update Table) so that the titles and page numbers are refreshed.",
+    "working": "1 mark: update the table (Update Field / Update Table)."
+   }
+  ],
+  "id": "0417-h5-041",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A guide has sections numbered 1, 2, 3 and so on. The numbers were typed by hand. The author inserts a new section between sections 2 and 3.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the numbers of the sections after the new section are now wrong and must all be retyped.",
+    "marks": 2,
+    "answer": "The section numbers were typed by hand, so Word does not change them when a section is added; each number after the new section has to be typed again.",
+    "working": "1 mark: numbers are typed manually / not automatic. 1 mark: adding a section does not update the later typed numbers."
+   },
+   {
+    "label": "b",
+    "text": "Describe how a multilevel list linked to the heading styles avoids this problem.",
+    "marks": 2,
+    "answer": "Apply the multilevel list to the headings so each heading's number is generated automatically; when a new heading is inserted, all later numbers update.",
+    "working": "1 mark: numbering is automatic / generated by the list. 1 mark: numbers renumber when a heading is added or removed."
+   }
+  ],
+  "id": "0417-h5-042",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A dissertation has 1840 words of body text. Each body page holds 320 words. The dissertation also has a separate cover page.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total number of pages, including the cover page. Show your working.",
+    "marks": 2,
+    "answer": "7 pages",
+    "working": "M1: 1840 ÷ 320 = 5.75, so 6 pages of body text (round up). A1: 6 + 1 cover page = 7 pages."
+   },
+   {
+    "label": "b",
+    "text": "State the header and footer option that stops the cover page showing a page number.",
+    "marks": 1,
+    "answer": "Different First Page (Header & Footer tab)",
+    "working": "1 mark: Different First Page."
+   }
+  ],
+  "check": "math.ceil(1840/320)+1==7",
+  "id": "0417-h5-043",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two problems with a student who presses the Enter key ten times to move the next chapter onto a new page.",
+    "marks": 2,
+    "answer": "Any two: the blank paragraphs move when text above is edited; the page may break in the wrong place if the text changes; the blank lines are hard to remove and can leave a blank page.",
+    "working": "1 mark for each valid problem, up to 2."
+   },
+   {
+    "label": "b",
+    "text": "Give the feature that should be used instead to start the new chapter on a new page.",
+    "marks": 1,
+    "answer": "Page break (Insert > Page Break, or Ctrl+Enter)",
+    "working": "1 mark: a page break."
+   }
+  ],
+  "id": "0417-h5-044",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the effect on the number of pages of changing the body text from 11 pt to 12 pt.",
+    "marks": 2,
+    "answer": "The text takes up more space, so the document usually becomes longer (more pages), and the line breaks change.",
+    "working": "1 mark: more pages. 1 mark: larger text takes more space or the line breaks change."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the student should check the page layout after making this change.",
+    "marks": 1,
+    "answer": "Headings, images and page breaks may move to a different place and the layout may need correcting.",
+    "working": "1 mark: any valid reason that the layout changes."
+   }
+  ],
+  "id": "0417-h5-045",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A business letter uses four different fonts, one for each paragraph.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two reasons why a document should use only one or two fonts consistently.",
+    "marks": 2,
+    "answer": "Any two: it looks more professional; it is easier to read; the reader can recognise the document's style; it is consistent with the house style.",
+    "working": "1 mark for each valid reason, up to 2."
+   }
+  ],
+  "id": "0417-h5-046",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "stem": "A student formats each heading in a 30-page company report by selecting it and changing the font and size by hand.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one disadvantage of formatting every heading by hand, rather than using a heading style.",
+    "marks": 2,
+    "answer": "Each heading must be changed separately, so the headings may not match and it takes time.",
+    "working": "1 mark: each heading has to be changed one at a time. 1 mark: headings can become inconsistent or it wastes time."
+   },
+   {
+    "label": "b",
+    "text": "Explain how a heading style would help when the company decides to change the heading font.",
+    "marks": 1,
+    "answer": "Changing the style once updates every heading that uses it.",
+    "working": "1 mark: all headings using the style update automatically."
+   }
+  ],
+  "id": "0417-h5-047",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why text copied from a web page may bring unwanted formatting into a report.",
+    "marks": 2,
+    "answer": "The text keeps the fonts, colours, spacing and links of the web page, which do not match the report.",
+    "working": "1 mark: copied text keeps its original formatting. 1 mark: this clashes with the report's house style."
+   },
+   {
+    "label": "b",
+    "text": "Describe one way to remove the unwanted formatting when the text is pasted.",
+    "marks": 1,
+    "answer": "Use Paste Special > Unformatted Text (or Keep Text Only), or select the text and use Clear All Formatting.",
+    "working": "1 mark: any valid method."
+   }
+  ],
+  "id": "0417-h5-048",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by a style in a word processor.",
+    "marks": 1,
+    "answer": "A saved set of formatting settings that can be applied to text or paragraphs in one step.",
+    "working": "1 mark: a saved group of formatting settings applied together."
+   },
+   {
+    "label": "b",
+    "text": "Give two elements of formatting that a paragraph style can control.",
+    "marks": 2,
+    "answer": "Any two: font, font size, font colour, alignment, line spacing, paragraph spacing, indentation.",
+    "working": "1 mark for each valid element, up to 2."
+   }
+  ],
+  "id": "0417-h5-049",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why setting the line spacing to 'Exactly 12 pt' can cut off the tops of large characters.",
+    "marks": 2,
+    "answer": "Exactly spacing fixes the height of each line, so a line containing larger characters has less room than it needs and the tops are clipped.",
+    "working": "1 mark: exact spacing fixes the line height. 1 mark: taller characters do not fit in that height and are cut off."
+   }
+  ],
+  "id": "0417-h5-050",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A notice is typed in Courier New 12 pt, a monospaced font. Each character has a width of 0.6 em, where 1 em equals the font size. 1 inch = 72 pt = 2.54 cm. The text area is 16.5 cm wide.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the width of one character in cm, correct to 2 decimal places.",
+    "marks": 2,
+    "answer": "0.25 cm",
+    "working": "M1: 0.6 × 12 pt = 7.2 pt. M1: 7.2 ÷ 72 × 2.54 = 0.254 cm. A1: 0.25 cm (2 d.p.)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the maximum number of characters that fit on one line. Give a whole number.",
+    "marks": 2,
+    "answer": "64 characters",
+    "working": "M1: 16.5 ÷ 0.254 = 64.96. A1: 64 characters (only whole characters fit)."
+   }
+  ],
+  "check": "round(0.6*12/72*2.54,2)==0.25 and math.floor(16.5/(0.6*12/72*2.54))==64",
+  "id": "0417-h5-051",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A line of justified text is 16 cm wide. The 9 words on the line, without spaces, have a total width of 422.4 pt. There are 8 gaps between the words. Use 1 cm = 28.35 pt.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total width of the line, in pt.",
+    "marks": 1,
+    "answer": "453.6 pt",
+    "working": "1 mark: 16 × 28.35 = 453.6 pt."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the extra space added to each of the 8 gaps between words, in pt.",
+    "marks": 2,
+    "answer": "3.9 pt",
+    "working": "M1: 453.6 − 422.4 = 31.2 pt of spare space. A1: 31.2 ÷ 8 = 3.9 pt per gap."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the spaces are wider on this line than on the lines above it, which are not justified.",
+    "marks": 1,
+    "answer": "The justified line is stretched to the full width, so the spaces between words are widened.",
+    "working": "1 mark: justified text stretches spaces to fill the full line width."
+   }
+  ],
+  "check": "abs((16*28.35-422.4)/8-3.9)<0.001",
+  "id": "0417-h5-052",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A school newsletter has a text area 17 cm wide. It is set in two newspaper-style columns with a 0.8 cm gutter between them.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the width of each of the two columns, in cm, when the gutter is 0.8 cm.",
+    "marks": 2,
+    "answer": "8.1 cm",
+    "working": "M1: 17 − 0.8 = 16.2 cm left for the columns. A1: 16.2 ÷ 2 = 8.1 cm per column."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a gutter is needed between the two columns of text.",
+    "marks": 1,
+    "answer": "It separates the columns so the reader can tell where one ends and the next begins.",
+    "working": "1 mark: keeps the columns visually separate for reading."
+   }
+  ],
+  "check": "round((17-0.8)/2,2)==8.1",
+  "id": "0417-h5-053",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A publisher is preparing a textbook. Ten authors each write chapters in the same word-processed file.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss two advantages and one disadvantage of using Heading styles for a 200-page textbook written by ten authors.",
+    "marks": 6,
+    "answer": "Advantages: the same heading style applies to every chapter so the book looks consistent; a contents page and cross-references can be generated automatically; the style can be changed once and all headings update. Disadvantage: authors who do not use the styles, or who apply direct formatting, create inconsistencies that have to be found and corrected.",
+    "working": "Mark bands: 5–6 marks for two clear advantages and one reasoned disadvantage that refers to the 10 authors and the 200 pages. 3–4 marks for two advantages or one advantage and one disadvantage, stated with little reason. 1–2 marks for a generic answer about formatting."
+   }
+  ],
+  "id": "0417-h5-054",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a font that is not installed on the printing computer can change the layout of a document.",
+    "marks": 3,
+    "answer": "Word replaces the missing font with a substitute font that may be wider or narrower, so the line breaks, page breaks and page count change.",
+    "working": "1 mark: a substitute font is used. 1 mark: the substitute has different character widths. 1 mark: line breaks, page breaks or page count change."
+   },
+   {
+    "label": "b",
+    "text": "Describe one way to stop this happening when the document is sent to another computer.",
+    "marks": 1,
+    "answer": "Embed the fonts in the file when saving, or send the file as a PDF.",
+    "working": "1 mark: embed fonts or save/send as PDF."
+   }
+  ],
+  "id": "0417-h5-055",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A report is set in 12 pt text with 1.5 line spacing. The text area is 25 cm high. Use 1 cm = 28.35 pt.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of complete lines that fit in the text area. Show your working.",
+    "marks": 3,
+    "answer": "32 lines",
+    "working": "M1: 25 cm × 28.35 = 708.75 pt. M1: one line = 1.5 × 1.2 × 12 = 21.6 pt. A1: 708.75 ÷ 21.6 = 32.8, so 32 complete lines."
+   },
+   {
+    "label": "b",
+    "text": "State one assumption you have made about the height of a line.",
+    "marks": 1,
+    "answer": "The single-spaced line height is 1.2 times the font size.",
+    "working": "1 mark: any valid assumption about line height (1.2 × font size)."
+   }
+  ],
+  "check": "math.floor(25*28.35/(1.5*1.2*12))==32",
+  "id": "0417-h5-056",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a hard page break and the 'Page break before' paragraph setting when a new paragraph is inserted in the middle of a chapter.",
+    "marks": 3,
+    "answer": "A hard page break stays at its fixed position, so the text after it may start on the wrong page when editing changes; 'Page break before' stays attached to the heading paragraph, so the heading always starts a new page.",
+    "working": "1 mark: a hard break is fixed in position. 1 mark: 'Page break before' is a paragraph setting that moves with its paragraph. 1 mark: the effect on the layout when text is edited."
+   }
+  ],
+  "id": "0417-h5-057",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "stem": "A school must print seven copies of a 300-page report. The printer uses double-sided printing. One ream contains 500 sheets of A4 paper.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of reams needed. Show your working.",
+    "marks": 3,
+    "answer": "3 reams",
+    "working": "M1: 300 ÷ 2 = 150 sheets per copy (two pages per sheet side). M1: 7 × 150 = 1050 sheets. A1: 1050 ÷ 500 = 2.1, so 3 reams."
+   },
+   {
+    "label": "b",
+    "text": "State why the printer should use double-sided printing for the copies.",
+    "marks": 1,
+    "answer": "It uses half as much paper, which reduces cost and waste.",
+    "working": "1 mark: any valid reason such as less paper, lower cost or less storage."
+   }
+  ],
+  "check": "math.ceil(7*300/2/500)==3",
+  "id": "0417-h5-058",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the layout problems that the printer would meet with a 40-page brochure that uses six fonts and different margins on each page. Suggest a correction for each problem.",
+    "marks": 6,
+    "answer": "Problems: six fonts make the brochure look unprofessional and harder to read; different margins make the pages misaligned when printed and folded; the layout may shift when printed on a different machine. Corrections: use two fonts at most, set one margin size in a master page or style, and embed the fonts or export as PDF.",
+    "working": "Mark bands: 5–6 marks for two or more layout problems each linked to the brochure, plus a suitable correction for each. 3–4 marks for problems with limited reasons or corrections. 1–2 marks for vague comments."
+   }
+  ],
+  "id": "0417-h5-059",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Document production",
+  "subtopic": "Page and text formatting",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the advantages of using the Navigation pane and heading styles to move around a 60-page manual that several people edit.",
+    "marks": 6,
+    "answer": "Advantages: the Navigation pane shows the structure of the manual, so a reader or editor can jump straight to any heading; headings are consistent across editors, so the Navigation pane lists the same structure for everyone; sections can be moved by dragging headings; the contents page can be generated automatically and updated after edits.",
+    "working": "Mark bands: 5–6 marks for two clear advantages linked to a 60-page manual edited by several people and a reasoned point. 3–4 marks for two advantages with little reasoning. 1–2 marks for general comments about the Navigation pane."
+   }
+  ],
+  "id": "0417-h5-060",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Security threats and prevention",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe what is meant by a brute force attack.",
+    "marks": 2,
+    "answer": "An automated program tries many possible passwords or combinations one after another until the correct one is found.",
+    "working": "1 mark: systematic/automated trial of many combinations. 1 mark: continues until the correct password is found."
+   },
+   {
+    "label": "b",
+    "text": "Give one way to make a system resistant to brute force attacks.",
+    "marks": 1,
+    "answer": "Lock the account after a set number of failed attempts, or use two-factor authentication, or a long password.",
+    "working": "1 mark: any valid prevention."
+   }
+  ],
+  "id": "0417-h5-061",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Security threats and prevention",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how a keylogger records what a user types.",
+    "marks": 2,
+    "answer": "It runs in the background and records each key that is pressed, then stores or sends the list of keystrokes to the attacker.",
+    "working": "1 mark: runs unseen and records each keystroke. 1 mark: the record is stored or sent to the attacker."
+   },
+   {
+    "label": "b",
+    "text": "Describe one way to protect against keyloggers when a password is entered.",
+    "marks": 1,
+    "answer": "Use a password manager with autofill, or click an on-screen keyboard, instead of typing the password.",
+    "working": "1 mark: any valid method (on-screen keyboard, password manager, anti-spyware)."
+   }
+  ],
+  "id": "0417-h5-062",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Security threats and prevention",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A company's online shop is taken offline by a DDoS attack that lasts for two hours.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a distributed denial of service (DDoS) attack stops a website from being available to its customers.",
+    "marks": 2,
+    "answer": "Many computers, often infected and controlled remotely, send so much traffic to the server that it cannot respond to genuine customers.",
+    "working": "1 mark: a very large amount of traffic from many computers (botnet). 1 mark: the server is overloaded and cannot serve real users."
+   },
+   {
+    "label": "b",
+    "text": "Describe one method that a company can use to reduce the effect of a DDoS attack.",
+    "marks": 2,
+    "answer": "Use a traffic filter or firewall that blocks traffic from suspicious sources; use a content delivery network or cloud service that spreads the load.",
+    "working": "1 mark: a valid method (filtering, rate limiting, load balancing, cloud DDoS protection). 1 mark: explained as a way the traffic is blocked or spread out."
+   }
+  ],
+  "id": "0417-h5-063",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "eSafety and data protection",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by a digital footprint.",
+    "marks": 2,
+    "answer": "The trail of data a person leaves online through their posts, searches, photos and activity, which can be found and may stay online for a long time.",
+    "working": "1 mark: the record of a person's online activity. 1 mark: it can be seen by others and is hard to remove."
+   }
+  ],
+  "id": "0417-h5-064",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "eSafety and data protection",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two reasons why a student should not post a photograph that shows the name of their school and their uniform.",
+    "marks": 2,
+    "answer": "Any two: it tells strangers where the student can be found; it can be used to target or bully the student; it reveals personal information about the student's routine.",
+    "working": "1 mark for each valid reason, up to 2."
+   }
+  ],
+  "id": "0417-h5-065",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "eSafety and data protection",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how geotagging a photograph can put a person at risk.",
+    "marks": 2,
+    "answer": "The photo stores GPS coordinates; anyone who sees the photo can find where it was taken, which may show a home address or a regular place such as a school.",
+    "working": "1 mark: the location (GPS) is stored in the photo's data. 1 mark: this reveals where the person is or lives."
+   }
+  ],
+  "id": "0417-h5-066",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "eSafety and data protection",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two ways a victim of cyberbullying can respond to protect themselves.",
+    "marks": 2,
+    "answer": "Any two: keep screenshots of the messages as evidence; block the bully; report the account to the website or app; tell a trusted adult.",
+    "working": "1 mark for each valid response, up to 2."
+   }
+  ],
+  "id": "0417-h5-067",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "eSafety and data protection",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what a cookie is.",
+    "marks": 1,
+    "answer": "A small file that a website stores on the user's computer or phone to remember information about the user or their visits.",
+    "working": "1 mark: a small file stored by the website on the user's device."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a user might refuse non-essential cookies when a website asks for permission.",
+    "marks": 2,
+    "answer": "Non-essential cookies may track the user's browsing across sites and build a profile of their interests, which is personal data the user may not want shared.",
+    "working": "1 mark: tracking or profiling. 1 mark: the user's personal data is collected and shared without them needing it."
+   }
+  ],
+  "id": "0417-h5-068",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "eSafety and data protection",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A parent is considering installing parental control software on the phone of their 14-year-old child.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the benefits and drawbacks of parental controls for a 14-year-old's privacy and safety.",
+    "marks": 6,
+    "answer": "Benefits: the parent can block harmful websites, limit screen time, and see who the teenager is contacting, which protects against grooming and inappropriate content. Drawbacks: the teenager's privacy is reduced; monitoring can damage trust; controls can be bypassed and do not teach the teenager to make safe decisions.",
+    "working": "Mark bands: 5–6 marks for a balanced discussion with at least two benefits and two drawbacks, each linked to privacy and safety. 3–4 marks for a list of points with some reasoning. 1–2 marks for a few general statements."
+   }
+  ],
+  "id": "0417-h5-069",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by encryption.",
+    "marks": 1,
+    "answer": "Scrambling data using a key so that it cannot be read without the matching key.",
+    "working": "1 mark: data is scrambled/converted with a key so only authorised users can read it."
+   },
+   {
+    "label": "b",
+    "text": "State the difference between plaintext and ciphertext.",
+    "marks": 2,
+    "answer": "Plaintext is data in a readable form; ciphertext is the scrambled form produced by encryption.",
+    "working": "1 mark: plaintext is readable. 1 mark: ciphertext is the encrypted (unreadable) form."
+   }
+  ],
+  "id": "0417-h5-070",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by a private key in asymmetric (public-key) encryption, and who keeps it secret.",
+    "marks": 2,
+    "answer": "A key that only the owner (for example the web server) holds and keeps secret; it decrypts data that was encrypted with the matching public key.",
+    "working": "1 mark: the key is known only to the owner and kept secret. 1 mark: it decrypts data encrypted with the matching public key (it is not shared like the public key)."
+   }
+  ],
+  "id": "0417-h5-071",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what the abbreviation HTTPS stands for.",
+    "marks": 1,
+    "answer": "Hypertext Transfer Protocol Secure.",
+    "working": "1 mark: Hypertext Transfer Protocol Secure."
+   },
+   {
+    "label": "b",
+    "text": "State what HTTPS tells the user when a website uses it.",
+    "marks": 1,
+    "answer": "That the connection between the browser and the website is encrypted.",
+    "working": "1 mark: the data sent between browser and website is encrypted."
+   }
+  ],
+  "id": "0417-h5-072",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between symmetric and asymmetric encryption.",
+    "marks": 2,
+    "answer": "Symmetric encryption uses the same key to encrypt and decrypt; asymmetric encryption uses a pair of keys, a public key for encrypting and a private key for decrypting.",
+    "working": "1 mark: symmetric uses one shared key. 1 mark: asymmetric uses a public and private key pair."
+   },
+   {
+    "label": "b",
+    "text": "Give one advantage of asymmetric encryption over symmetric encryption for sending data over the internet.",
+    "marks": 1,
+    "answer": "The public key can be shared openly without revealing the private key, so the two parties do not have to share a secret key in advance.",
+    "working": "1 mark: no secret key needs to be sent or shared beforehand."
+   }
+  ],
+  "id": "0417-h5-073",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A browser warns that the certificate for a page asking for a password was issued for a different website name from the one in the address bar. Explain why the user should not enter the password.",
+    "marks": 2,
+    "answer": "The certificate does not confirm that the page belongs to the site the user typed, so the page could be a fake site set up to steal the password; the browser cannot confirm the identity of the website.",
+    "working": "1 mark: the certificate does not match the website's name, so its identity cannot be confirmed. 1 mark: the page may be a fake site that collects the password."
+   },
+   {
+    "label": "b",
+    "text": "State one thing the user should do after seeing this warning.",
+    "marks": 1,
+    "answer": "Stop and do not enter any password, personal details or card details; close the page or go to the site by typing its genuine address.",
+    "working": "1 mark: any valid action, such as leaving the page or not entering details."
+   }
+  ],
+  "id": "0417-h5-074",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a home Wi-Fi network should use WPA2 or WPA3 encryption rather than no encryption.",
+    "marks": 2,
+    "answer": "Without encryption, anyone within range of the signal can capture and read the data sent over the network, including passwords; WPA2 or WPA3 encrypts the data so it cannot be read.",
+    "working": "1 mark: unencrypted data can be intercepted by anyone within range. 1 mark: WPA2/WPA3 encrypts the data so it cannot be read."
+   }
+  ],
+  "id": "0417-h5-075",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between encryption and hashing when a website stores passwords.",
+    "marks": 2,
+    "answer": "Encryption is reversible with the correct key so the original password can be recovered; hashing is one-way, so the original password cannot be recovered from the stored hash.",
+    "working": "1 mark: encryption can be reversed with a key. 1 mark: hashing is one-way; the website compares hashes instead of recovering the password."
+   }
+  ],
+  "id": "0417-h5-076",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A 40-bit encryption key is compared with a 128-bit key. Calculate how many times more possible keys the 128-bit key gives. Give your answer as a power of 2.",
+    "marks": 2,
+    "answer": "2⁸⁸ times more keys",
+    "working": "M1: 2¹²⁸ ÷ 2⁴⁰ = 2^(128−40). A1: 2⁸⁸ times more possible keys."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a longer key makes a brute force attack harder.",
+    "marks": 1,
+    "answer": "A brute force attack must try each possible key, and a longer key has far more possibilities, so it takes far longer.",
+    "working": "1 mark: more possible keys, so trying them all takes much longer."
+   }
+  ],
+  "check": "2**128//2**40==2**88",
+  "id": "0417-h5-077",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain what is meant by end-to-end encryption in a messaging app.",
+    "marks": 3,
+    "answer": "The message is encrypted on the sender's device and only decrypted on the recipient's device, so the company running the service cannot read the messages.",
+    "working": "1 mark: encrypted on the sender's device. 1 mark: decrypted only on the recipient's device. 1 mark: the service provider cannot read the content."
+   },
+   {
+    "label": "b",
+    "text": "State one reason why a law enforcement agency may not be able to read such messages.",
+    "marks": 1,
+    "answer": "Only the sender and recipient hold the keys needed to decrypt the messages.",
+    "working": "1 mark: keys held only by the sender and recipient."
+   }
+  ],
+  "id": "0417-h5-078",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "SSL, encryption and digital certificates",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A fake shopping website copies the padlock symbol from a real site. Describe how a customer can check the website's digital certificate before entering card details.",
+    "marks": 3,
+    "answer": "Click the padlock and view the certificate; check that the name on the certificate matches the website address and that the certificate is valid and issued by a trusted certificate authority.",
+    "working": "1 mark: view the certificate through the padlock. 1 mark: check the domain name matches the website address. 1 mark: check the expiry date and the issuing authority."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a padlock symbol alone is not enough to show that a website is genuine.",
+    "marks": 2,
+    "answer": "The padlock only shows the connection is encrypted; a fake site can have a valid certificate for a different domain or use one issued to a fraudster.",
+    "working": "1 mark: the padlock only confirms encryption. 1 mark: the site can still be fake and have its own certificate."
+   }
+  ],
+  "id": "0417-h5-079",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what a trailing cable hazard is.",
+    "marks": 1,
+    "answer": "A loose cable across a floor that people can trip over.",
+    "working": "1 mark: a loose cable on the floor that can cause someone to trip."
+   },
+   {
+    "label": "b",
+    "text": "Give one way to prevent trailing cable hazards in a computer room.",
+    "marks": 1,
+    "answer": "Tidy the cables with cable ties or trunking, or route them along the walls under the desks.",
+    "working": "1 mark: any valid prevention."
+   }
+  ],
+  "id": "0417-h5-080",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name one type of fire extinguisher suitable for an electrical fire.",
+    "marks": 1,
+    "answer": "Carbon dioxide (CO₂) extinguisher (or dry powder).",
+    "working": "1 mark: CO₂ or dry powder."
+   },
+   {
+    "label": "b",
+    "text": "State why a water extinguisher must not be used on electrical equipment.",
+    "marks": 1,
+    "answer": "Water conducts electricity, which could electrocute the user.",
+    "working": "1 mark: water conducts electricity."
+   }
+  ],
+  "id": "0417-h5-081",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two precautions to take when lifting a heavy printer or server.",
+    "marks": 2,
+    "answer": "Any two: keep the back straight and bend the knees; get help or use a trolley; switch off and unplug the equipment first.",
+    "working": "1 mark for each valid precaution, up to 2."
+   }
+  ],
+  "id": "0417-h5-082",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two features of a computer room that help people escape safely in a fire.",
+    "marks": 2,
+    "answer": "Any two: clearly marked exit signs; fire doors that open easily and are not locked; no furniture or boxes blocking the exit route.",
+    "working": "1 mark for each valid feature, up to 2."
+   }
+  ],
+  "id": "0417-h5-083",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why an overloaded socket with several adaptors can cause a fire.",
+    "marks": 3,
+    "answer": "Too many appliances draw more current than the cable or socket is rated for, so the wires overheat; the heat can melt the insulation and ignite nearby material.",
+    "working": "1 mark: total current exceeds the rating. 1 mark: the wires overheat. 1 mark: the insulation melts or nearby material catches fire."
+   }
+  ],
+  "id": "0417-h5-084",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe why drinks should be kept away from computer equipment.",
+    "marks": 2,
+    "answer": "A spill can short-circuit the electronics, which can cause electric shock or damage the equipment.",
+    "working": "1 mark: spill causes a short circuit. 1 mark: danger of electric shock or damage."
+   },
+   {
+    "label": "b",
+    "text": "Describe what should be done if a drink is spilled on a keyboard that is still plugged in.",
+    "marks": 1,
+    "answer": "Switch off and unplug the keyboard and computer before cleaning up, and do not touch the equipment with wet hands.",
+    "working": "1 mark: isolate the power before cleaning."
+   }
+  ],
+  "id": "0417-h5-085",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a server room needs air conditioning.",
+    "marks": 2,
+    "answer": "Servers give off a lot of heat; air conditioning keeps the room cool so the equipment does not overheat and fail.",
+    "working": "1 mark: servers produce heat. 1 mark: cooling prevents overheating and failure."
+   }
+  ],
+  "id": "0417-h5-086",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two features of a fire-resistant safe used to store backup disks.",
+    "marks": 2,
+    "answer": "Any two: it is made of thick metal that resists heat; it is insulated; it is sealed against smoke; it is rated to keep the contents below a set temperature for a time.",
+    "working": "1 mark for each valid feature, up to 2."
+   }
+  ],
+  "id": "0417-h5-087",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A teacher plugs a 1800 W heater, a 350 W computer, a 120 W monitor and a 600 W printer into one extension lead. The lead is rated at 13 A and is connected to a 230 V supply.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total power of the four appliances.",
+    "marks": 1,
+    "answer": "2870 W",
+    "working": "1 mark: 1800 + 350 + 120 + 600 = 2870 W."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the current drawn when the total power is supplied at 230 V. Give your answer correct to 2 decimal places.",
+    "marks": 2,
+    "answer": "12.48 A",
+    "working": "M1: I = P ÷ V = 2870 ÷ 230 = 12.478. A1: 12.48 A."
+   },
+   {
+    "label": "c",
+    "text": "State whether the extension lead is safe for these four appliances and suggest one change.",
+    "marks": 2,
+    "answer": "It is within the 13 A rating, but only just; a heater or other appliance should be moved to a separate socket to leave a margin.",
+    "working": "1 mark: the current (12.48 A) is less than 13 A so it is within the rating. 1 mark: a valid change, such as moving the heater to its own socket or leaving a safety margin."
+   }
+  ],
+  "check": "round(2870/230,2)==12.48 and 1800+350+120+600==2870",
+  "id": "0417-h5-088",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how a risk assessment identifies physical hazards in a computer room and ranks them in order of importance.",
+    "marks": 4,
+    "answer": "Walk through the room and list each hazard (for example cables, water, overheating, heavy equipment); for each one, decide how likely it is to happen and how serious the harm would be; then rank the hazards by the risk score and decide what controls are needed.",
+    "working": "1 mark each for any four: lists the physical hazards in the room (e.g. cables, water, overheating, heavy equipment); estimates how likely each hazard is to happen; estimates how serious the harm would be; combines likelihood and severity into a risk level or score; ranks the hazards by this score and decides which controls are needed."
+   }
+  ],
+  "id": "0417-h5-089",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "Safety and security",
+  "subtopic": "Physical safety",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the physical safety measures a bakery in Multan should take for a new office with 12 workstations, one fire exit and a server cabinet.",
+    "marks": 6,
+    "answer": "Measures: keep the exit and walkways clear and mark them; check cables and sockets so there are no overloaded sockets or trailing cables; keep food and drinks away from the equipment; provide CO₂ or dry-powder extinguishers suitable for electrical fires and train staff; secure the server cabinet, keep it cool and fix it so it cannot topple; test the fire alarm and carry out fire drills; provide an RCD and earthing.",
+    "working": "Mark bands: 5–6 marks for at least four measures each with a reason linked to the room. 3–4 marks for three or four measures with limited reasons. 1–2 marks for vague measures without reasons."
+   }
+  ],
+  "id": "0417-h5-090",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Health problems",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name two health problems that can result from sitting for long periods at a computer.",
+    "marks": 2,
+    "answer": "Any two: obesity; poor blood circulation (blood clots in the legs); back and neck pain; weakened muscles.",
+    "working": "1 mark for each valid health problem, up to 2."
+   }
+  ],
+  "id": "0417-h5-091",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Health problems",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how screen glare and screen brightness can cause headaches.",
+    "marks": 2,
+    "answer": "The eyes have to work harder to focus on the screen when light reflects off it or the screen is too bright, which strains the eye muscles and causes headaches.",
+    "working": "1 mark: glare or brightness makes the eyes strain. 1 mark: the strain causes headaches."
+   },
+   {
+    "label": "b",
+    "text": "Give one way to reduce glare from a screen.",
+    "marks": 1,
+    "answer": "Position the screen away from windows or lights, or use an anti-glare screen filter.",
+    "working": "1 mark: any valid method."
+   }
+  ],
+  "id": "0417-h5-092",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Health problems",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how using a phone screen in bed late at night can affect a person's sleep.",
+    "marks": 2,
+    "answer": "The light from the screen can stop the body producing the hormone that makes people sleepy, and the activity keeps the brain alert, so it takes longer to fall asleep.",
+    "working": "1 mark: screen light reduces the hormone that brings sleep. 1 mark: brain stays alert or stimulated so sleep is delayed."
+   }
+  ],
+  "id": "0417-h5-093",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Health problems",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a lack of physical activity linked to long hours at a computer can lead to health problems. Give two health problems.",
+    "marks": 3,
+    "answer": "Staying seated for long periods burns fewer calories, which can lead to weight gain and obesity; poor circulation can result, and the risk of heart disease and diabetes increases.",
+    "working": "1 mark: less physical activity means fewer calories burned. 1 mark: this leads to weight gain or obesity. 1 mark: any other linked health problem (poor circulation, heart disease, diabetes)."
+   }
+  ],
+  "id": "0417-h5-094",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Health problems",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A software company is considering software that records how long each developer works at a computer without a break.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss whether a company should monitor employees' computer use to protect their health and wellbeing. Refer to benefits and privacy.",
+    "marks": 6,
+    "answer": "Benefits: the company can spot long periods without breaks, encourage breaks and reduce RSI, eyestrain and stress; it can show a duty of care. Drawbacks: monitoring can invade privacy and damage trust; staff may feel pressured and more stressed by being watched; monitoring software may record personal data that must be protected under data protection law. A balanced answer reaches a reasoned conclusion, for example monitoring that is open, limited to health needs and agreed with staff.",
+    "working": "Mark bands: 5–6 marks for a balanced discussion of at least two benefits and two drawbacks, including privacy, with a reasoned conclusion. 3–4 marks for clear points with limited reasoning. 1–2 marks for one-sided or vague statements."
+   }
+  ],
+  "id": "0417-h5-095",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two microprocessor-controlled devices used in a hospital ward.",
+    "marks": 2,
+    "answer": "Any two: patient monitor; infusion pump; ventilator; adjustable hospital bed.",
+    "working": "1 mark for each valid device, up to 2."
+   }
+  ],
+  "id": "0417-h5-096",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the role of a light sensor in an automatic streetlight.",
+    "marks": 2,
+    "answer": "The light sensor detects the level of daylight and sends the reading to the microprocessor, which switches the light on when it gets dark.",
+    "working": "1 mark: sensor measures the level of light. 1 mark: microprocessor switches the light on or off based on the reading."
+   }
+  ],
+  "id": "0417-h5-097",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by a smart meter.",
+    "marks": 2,
+    "answer": "An electricity meter that records the amount of electricity used digitally and sends the readings to the supplier, often shown on a display in real time.",
+    "working": "1 mark: records electricity use digitally. 1 mark: sends readings automatically or displays usage in real time."
+   }
+  ],
+  "id": "0417-h5-098",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two ways that a microprocessor in a vending machine makes sure the customer gets the correct product and the right change.",
+    "marks": 3,
+    "answer": "The keypad or selection sends the product code to the microprocessor, which checks the stock and sends a signal to a motor (actuator) to release only the chosen item; coins are detected by sensors, the microprocessor works out the change and the change is returned, or the money is refunded if the product is out of stock.",
+    "working": "1 mark: selection is received and stock checked by the microprocessor. 1 mark: a signal to an actuator releases only the chosen item. 1 mark: coins are detected and the change is calculated and returned, or a refund is given."
+   }
+  ],
+  "id": "0417-h5-099",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one positive and one negative effect that a microprocessor in a smart watch can have on a user's health habits.",
+    "marks": 3,
+    "answer": "Positive: it counts steps and monitors heart rate, which encourages exercise. Negative: constant alerts and notifications can cause stress or make the user check the watch and sit still for longer.",
+    "working": "1 mark: positive effect explained. 1 mark: negative effect explained. 1 mark: link to health habits (activity, stress or sleep)."
+   }
+  ],
+  "id": "0417-h5-100",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two steps a microprocessor takes to decide which floor a lift should serve next.",
+    "marks": 2,
+    "answer": "The microprocessor reads the buttons pressed by passengers and the current floor from the sensors; it then chooses the next requested floor according to the direction of travel.",
+    "working": "1 mark: reads the calls (buttons) and the position of the lift. 1 mark: chooses the next floor in the direction of travel."
+   }
+  ],
+  "id": "0417-h5-101",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how automatic lighting in an office can reduce energy use.",
+    "marks": 2,
+    "answer": "Sensors switch the lights off when no one is in the room or when there is enough daylight, so the lights are on only when they are needed.",
+    "working": "1 mark: the lights are switched off when unused (occupancy sensor). 1 mark: or dimmed/off when there is enough daylight."
+   }
+  ],
+  "id": "0417-h5-102",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the effects of automatic lift control systems on people with disabilities.",
+    "marks": 6,
+    "answer": "Benefits: voice announcements and tactile buttons help people with sight loss; the lift can be called and held open for a longer time; the lift can be used without help. Drawbacks: if the system fails, people may be trapped or unable to use the lift without assistance; the controls may be unreachable or not clearly labelled; the system depends on power and maintenance.",
+    "working": "Mark bands: 5–6 marks for at least two benefits and two drawbacks linked to people with disabilities, with reasoning. 3–4 marks for points with limited reasoning. 1–2 marks for vague comments."
+   }
+  ],
+  "id": "0417-h5-103",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A smart meter reads 1245.6 kWh at the start of a month and 1389.2 kWh at the end. The electricity costs Rs 45 for each kWh.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the cost of the electricity used in the month. Show your working.",
+    "marks": 3,
+    "answer": "Rs 6462",
+    "working": "M1: units used = 1389.2 − 1245.6 = 143.6 kWh. M1: cost = 143.6 × 45 = 6462. A1: Rs 6462."
+   },
+   {
+    "label": "b",
+    "text": "State one reason why the smart meter reading gives a more accurate bill than an estimated reading.",
+    "marks": 1,
+    "answer": "The meter records the actual units used, so the bill is based on real consumption rather than an estimate.",
+    "working": "1 mark: the reading is of actual use, not an estimate."
+   }
+  ],
+  "check": "round((1389.2-1245.6)*45,2)==6462.0",
+  "id": "0417-h5-104",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Microprocessor-controlled devices",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate whether a school in Lahore should replace its garden timer with a microprocessor-controlled sprinkler system that uses soil moisture sensors. Refer to water use and cost.",
+    "marks": 6,
+    "answer": "Benefits: the sensors water only when the soil is dry, so less water is wasted and the water bill falls; the microprocessor can stop the sprinklers when the soil is already wet. Drawbacks: the sensors and controller cost more to buy and install; a faulty sensor can give wrong readings, so plants may be underwatered or flooded; the system needs maintenance and someone to set it up. Conclusion: likely worthwhile if water is expensive or scarce, but a timer may be enough for a small garden.",
+    "working": "Mark bands: 5–6 marks for a balanced evaluation that refers to water use and cost to the school, with a reasoned judgement. 3–4 marks for both sides with limited reasoning. 1–2 marks for an unsupported opinion."
+   }
+  ],
+  "id": "0417-h5-105",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two ways that the growth of IT has changed the working hours or work patterns of many employees.",
+    "marks": 2,
+    "answer": "Any two: shift or flexible working; some staff work outside normal hours to serve customers in other time zones; work can be done from home or remotely; online systems let work continue around the clock.",
+    "working": "1 mark for each valid way, up to 2."
+   }
+  ],
+  "id": "0417-h5-106",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by teleworking.",
+    "marks": 2,
+    "answer": "Working from home or from a remote location and communicating with the employer using a computer and the internet.",
+    "working": "1 mark: working from home or away from the office. 1 mark: using computers and the internet to communicate and do the work."
+   }
+  ],
+  "id": "0417-h5-107",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two advantages to an employer of allowing staff to telework.",
+    "marks": 2,
+    "answer": "Any two: lower costs for office space; access to a wider pool of workers; possible higher productivity; less sick leave.",
+    "working": "1 mark for each valid advantage, up to 2."
+   }
+  ],
+  "id": "0417-h5-108",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by outsourcing.",
+    "marks": 1,
+    "answer": "Paying an external company to do work that was previously done by the organisation's own staff.",
+    "working": "1 mark: work is contracted to an outside company."
+   }
+  ],
+  "id": "0417-h5-109",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name two tasks in a car factory that are now often carried out by robots.",
+    "marks": 2,
+    "answer": "Any two: welding; painting or spraying; moving heavy parts; assembling components.",
+    "working": "1 mark for each valid task, up to 2."
+   }
+  ],
+  "id": "0417-h5-110",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two ways that self-checkout machines change the role of a supermarket cashier.",
+    "marks": 3,
+    "answer": "Cashiers spend less time scanning items and more time supervising the machines and helping customers; fewer cashiers are needed so jobs may be lost; cashiers may be asked to deal with problems such as unexpected items or payment failures.",
+    "working": "1 mark: the cashier supervises machines rather than scanning. 1 mark: fewer cashiers are needed. 1 mark: the cashier takes on different tasks (help, problems, age checks)."
+   }
+  ],
+  "id": "0417-h5-111",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two effects of automation on the skills that factory workers need.",
+    "marks": 2,
+    "answer": "Workers need computer and maintenance skills to operate and repair the machines; manual skills are needed less, so workers may need retraining.",
+    "working": "1 mark for each valid effect, up to 2."
+   }
+  ],
+  "id": "0417-h5-112",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one effect of online shopping on small shops on a high street.",
+    "marks": 3,
+    "answer": "Customers buy from online shops and do not visit the high street, so takings fall; some shops close and the staff lose their jobs; shops have to make their own websites or compete on price.",
+    "working": "1 mark: fewer customers visit the shops. 1 mark: sales fall, shops close or staff lose jobs. 1 mark: a response, such as an online shop or a niche service."
+   }
+  ],
+  "id": "0417-h5-113",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain two effects of teleworking on a worker's family life or travel.",
+    "marks": 2,
+    "answer": "Any two: less time spent commuting so more time is available for family; flexible hours allow the worker to look after children; fewer travel costs; the boundary between home and work can blur.",
+    "working": "1 mark for each valid effect, up to 2."
+   }
+  ],
+  "id": "0417-h5-114",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one advantage and one disadvantage of online recruitment for a job applicant.",
+    "marks": 3,
+    "answer": "Advantage: the applicant can apply for jobs in many places quickly without travelling, and can apply for jobs advertised far away. Disadvantage: applicants without internet access or computer skills are at a disadvantage; the volume of applications makes it harder to be noticed.",
+    "working": "1 mark: a valid advantage. 1 mark: a valid disadvantage. 1 mark: developed with an explanation."
+   }
+  ],
+  "id": "0417-h5-115",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "Before a factory bought an automated line, 60 machine operators each worked an 8-hour day. After the automation, 12 operators work an 8-hour day and produce the same output.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage reduction in operators. Show your working.",
+    "marks": 2,
+    "answer": "80%",
+    "working": "M1: reduction = 60 − 12 = 48 operators. A1: 48 ÷ 60 × 100 = 80%."
+   },
+   {
+    "label": "b",
+    "text": "State one other effect the change may have on the remaining workers.",
+    "marks": 1,
+    "answer": "They may need training to operate or maintain the new machines, or they may be expected to supervise more machines.",
+    "working": "1 mark: any valid effect such as training, more responsibility or stress."
+   }
+  ],
+  "check": "round((60-12)/60*100)==80",
+  "id": "0417-h5-116",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the effects of a new computerised stock system on the warehouse staff of a retail company.",
+    "marks": 6,
+    "answer": "Effects include: fewer staff needed to count and check stock, so some jobs are lost; remaining staff need computer skills and training; the work may become more monitored and faster-paced; staff may be more productive and the work less physically demanding; some staff may be moved to new roles such as stock controllers or data entry.",
+    "working": "Mark bands: 5–6 marks for a discussion of at least two effects on different groups of staff with reasons, reaching a judgement. 3–4 marks for clear effects with limited reasons. 1–2 marks for vague comments."
+   }
+  ],
+  "id": "0417-h5-117",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate the argument that the growth of IT always increases unemployment.",
+    "marks": 6,
+    "answer": "Against: IT creates new jobs (web developers, support technicians, data analysts) and makes some businesses more competitive, so overall employment can grow; the effect depends on the skills of the workforce and on retraining. For: automation and self-service replace routine jobs; workers who lack digital skills may be left unemployed; the jobs created may be in different places or need different qualifications. A reasoned evaluation reaches a supported judgement.",
+    "working": "Mark bands: 5–6 marks for a balanced evaluation with reasons on both sides and a supported judgement. 3–4 marks for points on both sides with limited evaluation. 1–2 marks for a one-sided opinion."
+   }
+  ],
+  "id": "0417-h5-118",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss the impact of teleworking on employers, employees and the environment.",
+    "marks": 6,
+    "answer": "Employers: lower office costs, access to a wider pool of staff, but harder to supervise and to build team loyalty. Employees: no commuting, more flexible hours, but may feel isolated, have a blurred work-life balance and need a suitable home workspace. Environment: less commuting reduces fuel use and emissions, but home energy use may increase.",
+    "working": "Mark bands: 5–6 marks for points on all three groups, with reasons and a link between them. 3–4 marks for two groups discussed with reasons. 1–2 marks for vague points about one group."
+   }
+  ],
+  "id": "0417-h5-119",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "The effects of using IT",
+  "subtopic": "Effects on work and employment",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss how the digital divide affects employment opportunities for people in rural areas of Pakistan.",
+    "marks": 6,
+    "answer": "Rural people may have poor internet connections or no access to a computer, so they cannot apply for jobs online or take online training; employers may not advertise locally; jobs requiring digital skills go to people in cities; the gap widens as more services move online. Solutions include mobile internet, local training centres and offering applications by phone or in person.",
+    "working": "Mark bands: 5–6 marks for a discussion of at least two effects on employment with a link to rural areas and a suggested solution. 3–4 marks for clear effects with limited reasoning. 1–2 marks for vague generalisations."
+   }
+  ],
+  "id": "0417-h5-120",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what kind of image an .svg file stores.",
+    "marks": 1,
+    "answer": "A vector image, described by shapes and mathematical lines rather than a grid of pixels.",
+    "working": "1 mark: vector graphics / shapes described mathematically."
+   },
+   {
+    "label": "b",
+    "text": "Give one advantage of this for a school logo that is printed in many different sizes.",
+    "marks": 1,
+    "answer": "It can be enlarged or reduced without losing quality or becoming blocky.",
+    "working": "1 mark: no loss of quality when resized."
+   }
+  ],
+  "id": "0417-h5-121",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name a common image file format that stores pixel data without compression.",
+    "marks": 1,
+    "answer": "BMP (bitmap)",
+    "working": "1 mark: BMP."
+   }
+  ],
+  "id": "0417-h5-122",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what an .exe file is.",
+    "marks": 1,
+    "answer": "An executable file: a program that runs when it is opened.",
+    "working": "1 mark: an executable program."
+   },
+   {
+    "label": "b",
+    "text": "Give one reason why an .exe file attached to an unexpected email should not be opened.",
+    "marks": 1,
+    "answer": "It may be malware that is run as soon as the file is opened.",
+    "working": "1 mark: may contain malware that runs when opened."
+   }
+  ],
+  "id": "0417-h5-123",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State which software creates a .pptx file.",
+    "marks": 1,
+    "answer": "Microsoft PowerPoint",
+    "working": "1 mark: Microsoft PowerPoint."
+   },
+   {
+    "label": "b",
+    "text": "Name one other program that can open a .pptx file.",
+    "marks": 1,
+    "answer": "Any one: Google Slides; LibreOffice Impress; WPS Office; a PowerPoint viewer.",
+    "working": "1 mark: any valid program."
+   }
+  ],
+  "id": "0417-h5-124",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name a lossless audio format.",
+    "marks": 1,
+    "answer": "WAV or FLAC.",
+    "working": "1 mark: WAV or FLAC."
+   },
+   {
+    "label": "b",
+    "text": "Name a lossy audio format.",
+    "marks": 1,
+    "answer": "MP3 or AAC.",
+    "working": "1 mark: MP3 or AAC."
+   }
+  ],
+  "id": "0417-h5-125",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name two file formats that support transparent backgrounds for images on a web page.",
+    "marks": 2,
+    "answer": "PNG and GIF.",
+    "working": "1 mark for each, up to 2."
+   }
+  ],
+  "id": "0417-h5-126",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State whether .jpg and .jpeg are different file formats.",
+    "marks": 1,
+    "answer": "No, they are the same format with two different extensions.",
+    "working": "1 mark: same format."
+   },
+   {
+    "label": "b",
+    "text": "Give the reason that the .jpg extension is often used.",
+    "marks": 1,
+    "answer": "It is a shortened form of the extension, with three letters, which older systems required.",
+    "working": "1 mark: three-letter extension for older systems (any valid reason)."
+   }
+  ],
+  "id": "0417-h5-127",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write down the software that normally creates each spreadsheet file: (i) .xlsx (ii) .ods (iii) .xls",
+    "marks": 3,
+    "answer": "(i) Microsoft Excel (ii) LibreOffice Calc (OpenDocument spreadsheet) (iii) Microsoft Excel (older version, pre-2007 format)",
+    "working": "1 mark for each correct software; (iii) may also be described as the older Excel binary format."
+   }
+  ],
+  "id": "0417-h5-128",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what is meant by a compressed file.",
+    "marks": 2,
+    "answer": "A file whose data has been encoded so it takes less storage space and is quicker to send.",
+    "working": "1 mark: data encoded to take less space. 1 mark: smaller to store or transfer."
+   }
+  ],
+  "id": "0417-h5-129",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give one reason why a photographer might keep the master copy of a picture as a .tiff file.",
+    "marks": 1,
+    "answer": "It is a high-quality, lossless format that keeps all the image detail for later editing and printing.",
+    "working": "1 mark: lossless / high quality / suitable for editing and printing."
+   }
+  ],
+  "id": "0417-h5-130",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A teacher sends a spreadsheet to a colleague who has an older version of the spreadsheet software. Explain why the teacher might save it as an older format such as .xls or as .csv.",
+    "marks": 2,
+    "answer": "The older program may not be able to open a newer .xlsx file, so an older format that the colleague's software can read is used; .csv keeps the values but loses formulas and formatting.",
+    "working": "1 mark: the older software cannot open the newer format so an older format is used. 1 mark: .csv or .xls can be read by the colleague's software (with the loss of formatting or formulas noted)."
+   }
+  ],
+  "id": "0417-h5-131",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the difference between a raster image and a vector image. Give one file format for each.",
+    "marks": 3,
+    "answer": "A raster image is a grid of pixels, so it becomes blocky when enlarged (e.g. .jpg or .png); a vector image is made of shapes described by mathematics, so it can be scaled without loss of quality (e.g. .svg).",
+    "working": "1 mark: raster as a grid of pixels that loses quality when enlarged. 1 mark: vector as shapes described mathematically. 1 mark: a correct format for each."
+   }
+  ],
+  "id": "0417-h5-132",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a .bmp file of a photograph is much larger than a .jpg file of the same photograph.",
+    "marks": 2,
+    "answer": "The .bmp file stores the colour of every pixel without compression; the .jpg uses lossy compression that removes detail the eye is unlikely to notice.",
+    "working": "1 mark: bmp uncompressed, every pixel stored. 1 mark: jpg compresses by removing detail."
+   }
+  ],
+  "id": "0417-h5-133",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two ways to share a slideshow so that the viewer cannot change the slides.",
+    "marks": 2,
+    "answer": "Any two: save or export the presentation as a PDF; save it as a PowerPoint Show (.ppsx) that opens straight into slideshow mode; mark it as final or share it as read-only.",
+    "working": "1 mark for each valid method, up to 2."
+   }
+  ],
+  "id": "0417-h5-134",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why an .mp4 file can contain both sound and pictures.",
+    "marks": 2,
+    "answer": ".mp4 is a container format that stores a compressed video stream and an audio stream together in one file.",
+    "working": "1 mark: a container holding video and audio. 1 mark: each stream is compressed and stored together."
+   }
+  ],
+  "id": "0417-h5-135",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a password-protected zip file is useful when sending personal data by email.",
+    "marks": 2,
+    "answer": "The contents are encrypted, so anyone who intercepts the email cannot read the data without the password.",
+    "working": "1 mark: contents encrypted. 1 mark: data remains unreadable if the email is intercepted, unless the password is known."
+   }
+  ],
+  "id": "0417-h5-136",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "An email attachment is named invoice.pdf.exe. Explain why this file is dangerous.",
+    "marks": 2,
+    "answer": "Windows may hide the real .exe extension, so the file appears to be a PDF; .exe is an executable program, which may install malware when opened.",
+    "working": "1 mark: the extension is hidden or disguised as a pdf. 1 mark: an executable program that can install malware when opened."
+   },
+   {
+    "label": "b",
+    "text": "State what the recipient should do with this email.",
+    "marks": 1,
+    "answer": "Do not open the attachment; delete the email and report it to the sender's company or the IT department.",
+    "working": "1 mark: do not open; delete or report."
+   }
+  ],
+  "id": "0417-h5-137",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A photo editing app saves a photograph as a .gif with 256 colours. Explain the effect on the image.",
+    "marks": 2,
+    "answer": "The number of colours is reduced, so smooth gradients show visible bands or blocks of colour and the photograph looks less realistic.",
+    "working": "1 mark: fewer colours available. 1 mark: banding or loss of smooth colour transitions."
+   }
+  ],
+  "id": "0417-h5-138",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a web designer should not place a 4 MB photograph on a web page without reducing its size.",
+    "marks": 2,
+    "answer": "The page takes a long time to load on a slow connection, which uses more bandwidth and frustrates visitors.",
+    "working": "1 mark: slow loading or large download. 1 mark: uses bandwidth and annoys visitors; the file should be resized or compressed first."
+   }
+  ],
+  "id": "0417-h5-139",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the same .docx document may look different when opened in two different word-processing programs.",
+    "marks": 2,
+    "answer": "The program may not have the same fonts installed, and different programs can position text and images in slightly different ways.",
+    "working": "1 mark: fonts or features missing or substituted. 1 mark: different software displays the layout differently."
+   }
+  ],
+  "id": "0417-h5-140",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A 1920 × 1080 pixel image is saved as an uncompressed .bmp file. Each pixel uses 24 bits.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the size of the uncompressed image in bytes.",
+    "marks": 1,
+    "answer": "6 220 800 bytes",
+    "working": "1 mark: 1920 × 1080 × 3 = 6 220 800 bytes."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the size of the image in MB, correct to 2 decimal places. Use 1 MB = 1 000 000 bytes.",
+    "marks": 1,
+    "answer": "6.22 MB",
+    "working": "1 mark: 6 220 800 ÷ 1 000 000 = 6.22 MB."
+   }
+  ],
+  "check": "1920*1080*3==6220800 and round(1920*1080*3/10**6,2)==6.22",
+  "id": "0417-h5-141",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A 30-second stereo sound recording is saved as an uncompressed .wav file. It has a sampling rate of 44 100 samples per second and each sample uses 16 bits.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the size of the recording in MB, correct to 2 decimal places. Use 1 MB = 1 000 000 bytes. Show your working.",
+    "marks": 3,
+    "answer": "5.29 MB",
+    "working": "M1: 44 100 samples per second × 2 bytes (16 bits) = 88 200 bytes per second per channel. M1: × 2 channels × 30 seconds = 5 292 000 bytes. A1: 5.29 MB."
+   }
+  ],
+  "check": "round(44100*2*2*30/10**6,2)==5.29",
+  "id": "0417-h5-142",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A 16 GB USB stick is used to store photographs. Each .jpg photograph is 2.8 MB. Use 1 GB = 1000 MB.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate how many complete .jpg files of this size fit on the stick. Show your working.",
+    "marks": 3,
+    "answer": "5714 files",
+    "working": "M1: 16 GB = 16 000 MB. M1: 16 000 ÷ 2.8 = 5714.3. A1: 5714 complete files."
+   },
+   {
+    "label": "b",
+    "text": "State why the calculation gives a lower number than the stick can hold in practice.",
+    "marks": 1,
+    "answer": "The stick also stores the file system and other files, so less space is available.",
+    "working": "1 mark: any valid reason, e.g. file system overhead or other files on the stick."
+   }
+  ],
+  "check": "math.floor(16000/2.8)==5714",
+  "id": "0417-h5-143",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Discuss which file format is most suitable for a student's final project saved in .docx, .pdf or .rtf, considering compatibility, editing and size.",
+    "marks": 6,
+    "answer": "A reasoned answer should discuss: .pdf keeps the layout exactly and opens everywhere, but cannot be edited easily; .docx allows editing and keeps formatting, but needs compatible software; .rtf opens in many programs and keeps basic formatting but has no advanced features. The best choice is judged by the purpose, for example a .pdf for submission and the .docx kept for editing.",
+    "working": "Mark bands: 5–6 marks for a discussion of all three formats against compatibility, editing and size with a reasoned choice. 3–4 marks for two formats discussed with reasons. 1–2 marks for a general statement."
+   }
+  ],
+  "id": "0417-h5-144",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why lossy compression is unsuitable for a medical scan image but suitable for a streamed video.",
+    "marks": 3,
+    "answer": "A medical scan needs every detail to be accurate for diagnosis, and lossy compression permanently removes detail; a streamed video can lose some detail the viewer will not notice, which saves bandwidth.",
+    "working": "1 mark: lossy removes data permanently. 1 mark: scan detail matters for diagnosis. 1 mark: the viewer does not notice the lost detail in video and streaming saves bandwidth."
+   }
+  ],
+  "id": "0417-h5-145",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A 10-minute video clip is encoded at a steady 2.5 Mbit/s (megabits per second). 1 byte = 8 bits.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the total number of megabits needed to stream the clip. Show your working.",
+    "marks": 1,
+    "answer": "1500 Mbit",
+    "working": "1 mark: 2.5 × 600 = 1500 Mbit."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the size of the clip in MB.",
+    "marks": 1,
+    "answer": "187.5 MB",
+    "working": "1 mark: 1500 ÷ 8 = 187.5 MB."
+   }
+  ],
+  "check": "2.5*600/8==187.5",
+  "id": "0417-h5-146",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Evaluate the file formats (.png, .jpg and .svg) that are most suitable for a company logo used on a website, on a banner printed 3 metres wide and as a small favicon.",
+    "marks": 6,
+    "answer": "A reasoned evaluation should note that .svg is ideal for the logo because it can be scaled to any size without losing quality and is small; .png suits the favicon and the logo on a website if the vector file is not available, as it keeps sharp edges and transparency; .jpg is unsuitable for the logo because it has no transparency and blurs edges; the 3 m banner needs a vector format or a very high resolution image.",
+    "working": "Mark bands: 5–6 marks for a justified choice for all three uses, with at least two formats evaluated against scaling, transparency and file size. 3–4 marks for a choice for two uses with reasons. 1–2 marks for a generic list."
+   }
+  ],
+  "id": "0417-h5-147",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A student saves a list of student numbers such as 00123 and 00456 in a .csv file. When she opens the file in a spreadsheet, the first zeros have disappeared.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the leading zeros disappear when the file is opened in a spreadsheet.",
+    "marks": 2,
+    "answer": "The spreadsheet treats numbers such as 00123 as numeric values, so the leading zeros carry no value and are removed.",
+    "working": "1 mark: spreadsheet reads the entries as numbers. 1 mark: leading zeros are dropped because numbers do not store them."
+   },
+   {
+    "label": "b",
+    "text": "Describe how to keep the leading zeros when the file is opened.",
+    "marks": 1,
+    "answer": "Format the column as text before the data is entered, or import the file and choose the column type Text.",
+    "working": "1 mark: set column as Text on import or formatting."
+   }
+  ],
+  "id": "0417-h5-148",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how converting a .wav file to .mp3 reduces the file size and changes the quality.",
+    "marks": 2,
+    "answer": "MP3 uses lossy compression, which removes sound that the ear is less likely to notice, so the file is smaller but the quality is reduced.",
+    "working": "1 mark: lossy compression removes data to reduce size. 1 mark: quality is reduced."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the original .wav file should be kept.",
+    "marks": 1,
+    "answer": "Converting the file again would lose more quality, and the original is needed for further editing.",
+    "working": "1 mark: further conversions reduce quality, so the original is kept for editing."
+   }
+  ],
+  "id": "0417-h5-149",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "topic": "File management",
+  "subtopic": "Generic file formats",
+  "paper": "1",
+  "difficulty": "challenge",
+  "stem": "A folder of holiday photographs and documents is compressed into a single zip file. The four files total 18.6 MB before compression and 7.4 MB after compression.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the compression ratio of the zip file, correct to 2 decimal places, as a ratio of original size to compressed size.",
+    "marks": 2,
+    "answer": "2.51 : 1",
+    "working": "M1: 18.6 ÷ 7.4 = 2.5135. A1: 2.51 : 1."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a zip file containing already-compressed .jpg files would not shrink much.",
+    "marks": 1,
+    "answer": "The jpg data is already compressed, so zip cannot remove much more redundancy.",
+    "working": "1 mark: data already compressed."
+   }
+  ],
+  "check": "round(18.6/7.4,2)==2.51",
+  "id": "0417-h5-150",
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]

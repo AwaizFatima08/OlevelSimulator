@@ -22091,5 +22091,3377 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "0610-h1-001",
+  "topic": "Transport in plants",
+  "subtopic": "Transpiration",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a leaf, where does liquid water change into water vapour during transpiration?\nA on the surfaces of the mesophyll cells, into the air spaces\nB inside the xylem vessels of the leaf veins\nC in the guard cells, before it passes out of the stoma\nD on the outer surface of the waxy cuticle",
+    "marks": 1,
+    "answer": "A on the surfaces of the mesophyll cells, into the air spaces",
+    "working": "Water evaporates from the wet cell walls of mesophyll cells into the air spaces, then water vapour diffuses out through the stomata. Guard cells control the stoma but are not the main evaporating surface; the cuticle is waterproof."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-002",
+  "topic": "Transport in plants",
+  "subtopic": "Transpiration",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Water moves up the xylem of a tall eucalyptus tree in a continuous column. Which statement best explains this?\nA Loss of water vapour from the leaves pulls water up, and water molecules are attracted to each other.\nB Xylem vessels contract in waves, squeezing water upwards.\nC Root hair cells actively pump water molecules into the xylem using energy from respiration.\nD Sucrose in the xylem draws water upwards by osmosis from cell to cell.",
+    "marks": 1,
+    "answer": "A Loss of water vapour from the leaves pulls water up, and water molecules are attracted to each other.",
+    "working": "Transpiration pull: evaporation and diffusion of water vapour from leaves creates a pull on the water column; cohesion (attraction between water molecules) keeps the column continuous. Xylem cells are dead and cannot contract; water enters roots by osmosis, not active transport of water; xylem carries no sucrose."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-003",
+  "topic": "Transport in plants",
+  "subtopic": "Translocation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In which direction is sucrose translocated in a flowering plant?\nA only upwards, from roots to leaves\nB only downwards, from leaves to roots\nC from sources to sinks, which may be up or down the plant\nD from sinks to sources, against gravity",
+    "marks": 1,
+    "answer": "C from sources to sinks, which may be up or down the plant",
+    "working": "Translocation is movement of sucrose and amino acids in phloem from regions of production or release (sources) to regions of use or storage (sinks); sinks can be above or below the source. Water in xylem moves only upwards, which is the main distractor's idea."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-004",
+  "topic": "Transport in plants",
+  "subtopic": "Translocation",
+  "paper": "2",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A sugar beet plant stores sucrose in its swollen root in its first year. In its second year it uses this store to grow a tall flowering shoot. Which row is correct for the root in each year?\nA year 1: sink; year 2: source\nB year 1: source; year 2: sink\nC year 1: sink; year 2: sink\nD year 1: source; year 2: source",
+    "marks": 1,
+    "answer": "A year 1: sink; year 2: source",
+    "working": "In year 1 sucrose arrives and is stored, so the root is a sink; in year 2 stored sugar is released and moved to the shoot, so the root is a source. The same organ can be a source or a sink at different times."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-005",
+  "topic": "Transport in plants",
+  "subtopic": "Translocation",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two substances that are translocated in the phloem.",
+    "marks": 2,
+    "answer": "sucrose; amino acids",
+    "working": "1 mark each: sucrose; amino acids. Do not accept glucose, starch or water as the answer."
+   },
+   {
+    "label": "b",
+    "text": "A potato plant has green leaves and underground tubers that are growing. State which of these is the source and which is the sink, and give a reason for each.",
+    "marks": 3,
+    "answer": "Leaves are the source because they make sugar by photosynthesis; growing tubers are the sink because sugar is stored there (as starch).",
+    "working": "B1 leaves are the source and tubers the sink; B1 leaves make sugar (sucrose) by photosynthesis; B1 tubers store it (as starch) or use it for growth."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-006",
+  "topic": "Transport in plants",
+  "subtopic": "Translocation",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Mango trees in Multan flower in spring. Explain why the flower buds of a mango tree are sinks for sucrose.",
+    "marks": 2,
+    "answer": "Flower buds are growing and cannot photosynthesise enough, so they need sucrose for respiration and to make new cells/cell walls.",
+    "working": "1 mark each for any two: buds are growing; have little/no chlorophyll so make little sugar; sucrose used in respiration to release energy; sucrose used to build new cells / cellulose."
+   },
+   {
+    "label": "b",
+    "text": "A fungal disease damages the phloem in the stalks of young mango fruits. Predict and explain the effect on the fruits.",
+    "marks": 3,
+    "answer": "Fruits stay small / fall off because sucrose and amino acids cannot reach them, so they lack energy and materials for growth and storing sugar.",
+    "working": "B1 fruits smaller / do not ripen / drop; B1 phloem can no longer translocate sucrose (and amino acids) to fruit; B1 less respiration / growth / less sugar stored, so fruit is less sweet."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-007",
+  "topic": "Transport in plants",
+  "subtopic": "Translocation",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A scientist supplied carbon dioxide containing radioactive carbon to one leaf of a wheat plant whose grains were filling. After 6 hours she measured how much of the radioactivity had reached different parts.\npart of plant | percentage of radioactivity\nsupplied leaf | 34\ndeveloping grains (ear) | 48\nroots | 11\nother leaves | 7",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the compound, containing radioactive carbon, that moves out of the supplied leaf.",
+    "marks": 1,
+    "answer": "sucrose",
+    "working": "B1 sucrose. Glucose alone is not credited."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage of the radioactivity that left the supplied leaf.",
+    "marks": 1,
+    "answer": "66 %",
+    "working": "100 − 34 = 66 %"
+   },
+   {
+    "label": "c",
+    "text": "Explain why most of the radioactivity that left the leaf went to the developing grains.",
+    "marks": 2,
+    "answer": "Grains are the main sink at this stage: they are growing fast and converting sucrose to starch for storage.",
+    "working": "B1 grains are (the largest/main) sink; B1 sucrose converted to starch / stored / used for growth of grains."
+   }
+  ],
+  "check": "100 - 34 == 66 and 48 + 11 + 7 == 66",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-008",
+  "topic": "Transport in plants",
+  "subtopic": "Translocation",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "An aphid feeds on a stem of a cotton plant with its mouthpart (stylet) inside a phloem tube. The aphid is removed and its cut stylet is left in the stem. Sap flows out of the stylet at 2.0 mm³ per hour for 24 hours. The sap contains 150 g of sucrose per dm³. (1 dm³ = 1 000 000 mm³)",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of sucrose, in mg, that flows out of the stylet in 24 hours.",
+    "marks": 3,
+    "answer": "7.2 mg",
+    "working": "M1 volume = 2.0 × 24 = 48 mm³; M1 48 ÷ 1 000 000 × 150 = 0.0072 g; A1 7.2 mg."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the sap flows out of the cut stylet without the aphid sucking.",
+    "marks": 2,
+    "answer": "The phloem contents are under pressure, because sucrose is loaded at the source and moves by mass flow towards sinks.",
+    "working": "B1 phloem sap is under pressure; B1 sucrose is being translocated / pushed from source to sink."
+   },
+   {
+    "label": "c",
+    "text": "Suggest why aphids rarely feed by pushing their stylet into the xylem.",
+    "marks": 1,
+    "answer": "Xylem sap contains water and mineral ions but almost no sugar or amino acids (and is under tension, not pressure).",
+    "working": "B1 xylem has no sucrose/amino acids, so little food / sap is pulled up, not pushed out."
+   }
+  ],
+  "check": "abs(2.0*24/1_000_000*150*1000 - 7.2) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-009",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student cuts across a young sunflower root and looks at it under a microscope. Where is the xylem?\nA in a ring of bundles just under the epidermis\nB in the centre, in a star shape with phloem between its arms\nC scattered evenly through the cortex\nD in the outer layer, forming the root hairs",
+    "marks": 1,
+    "answer": "B in the centre, in a star shape with phloem between its arms",
+    "working": "In a dicotyledonous root the xylem is central (star/cross shape) with phloem between the arms. A ring of vascular bundles is the arrangement in a stem, which is the main distractor."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-010",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which feature of a xylem vessel helps water to flow up the stem in a continuous column?\nA many chloroplasts to provide energy\nB cross walls with holes between the cells\nC no cross walls, forming a long hollow tube\nD a thin, flexible cellulose wall",
+    "marks": 1,
+    "answer": "C no cross walls, forming a long hollow tube",
+    "working": "Xylem vessels are dead cells joined end to end with no cross walls and no contents, forming a continuous tube. Cross walls with holes (sieve plates) are a phloem feature; xylem walls are thickened with lignin, not thin."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-011",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two functions of xylem.",
+    "marks": 2,
+    "answer": "transport of water and mineral ions; support of the plant",
+    "working": "1 mark each: transport of water; transport of mineral ions; support / strength. Max 2."
+   },
+   {
+    "label": "b",
+    "text": "State the function of phloem.",
+    "marks": 1,
+    "answer": "transport of sucrose and amino acids",
+    "working": "B1 sucrose and amino acids (both needed)."
+   },
+   {
+    "label": "c",
+    "text": "Name the substance that thickens the walls of xylem vessels.",
+    "marks": 1,
+    "answer": "lignin",
+    "working": "B1 lignin."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-012",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "4",
+  "difficulty": "core",
+  "stem": "A transverse section of a young stem of a bean plant is described: it has an outer epidermis, then a cortex, then a ring of eight vascular bundles, with a large region of pith in the centre. In each vascular bundle there are two tissues, P and Q. P is on the side nearest the epidermis; Q is on the side nearest the pith and has cells with wide, empty spaces and thick walls.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify tissues P and Q.",
+    "marks": 2,
+    "answer": "P = phloem; Q = xylem",
+    "working": "B1 P phloem; B1 Q xylem."
+   },
+   {
+    "label": "b",
+    "text": "State one difference between the position of xylem in this stem and in a root of the same plant.",
+    "marks": 1,
+    "answer": "In the stem xylem is in a ring of bundles (towards the inside of each bundle); in the root it is in the centre.",
+    "working": "B1 stem: in bundles in a ring / root: central (star-shaped) core."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-013",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a leaf, the xylem in each vein is nearer the upper surface and the phloem nearer the lower surface. State why it is important that the veins branch into a dense network in the leaf blade.",
+    "marks": 2,
+    "answer": "So that every mesophyll cell is close to a vein: water reaches cells quickly for photosynthesis and keeping cells turgid, and sugars are carried away quickly.",
+    "working": "1 mark each for any two: short distance to each mesophyll cell; water supply for photosynthesis; water to replace that lost by transpiration / keep turgid; sucrose removed / loaded into phloem quickly; support of the leaf blade."
+   },
+   {
+    "label": "b",
+    "text": "Explain why xylem vessels having no cell contents is an advantage.",
+    "marks": 2,
+    "answer": "No cytoplasm or nucleus blocks the tube, so water and mineral ions can flow freely with little resistance.",
+    "working": "B1 nothing to block / hollow / empty lumen; B1 allows (mass) flow of water with little resistance / faster."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-014",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "A student stood a leafy stem of busy lizzie (balsam) in a beaker of water containing a blue dye. After 15 minutes, thin slices were cut across the stem at different heights and examined.\nheight above water / mm | blue dots seen?\n20 | yes\n40 | yes\n60 | yes\n80 | yes\n100 | no",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Estimate the minimum speed at which the dye travelled up the stem, in mm per minute.",
+    "marks": 2,
+    "answer": "5.3 mm per minute (80 mm in 15 min)",
+    "working": "M1 80 ÷ 15; A1 5.3 (accept 5.33)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why your answer is a minimum value.",
+    "marks": 1,
+    "answer": "The dye may have reached a height between 80 mm and 100 mm, which was not tested.",
+    "working": "B1 dye may have gone higher than 80 mm (but below 100 mm) / slices only every 20 mm."
+   },
+   {
+    "label": "c",
+    "text": "The blue dots were seen in a ring of small spots between the outer cortex and the centre of each slice. Name the tissue they show.",
+    "marks": 1,
+    "answer": "xylem",
+    "working": "B1 xylem (in the vascular bundles)."
+   },
+   {
+    "label": "d",
+    "text": "Suggest one improvement to measure the height reached by the dye more accurately.",
+    "marks": 1,
+    "answer": "Cut slices at smaller height intervals (e.g. every 5 mm) between 80 and 100 mm / split the stem lengthways and measure the stained length.",
+    "working": "B1 any valid improvement."
+   }
+  ],
+  "check": "round(80/15, 1) == 5.3",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-015",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "A student drew one xylem vessel seen in a longitudinal section of a pumpkin stem under a microscope. The microscope magnification was ×400. The width of the vessel on the student's drawing was 36 mm and the drawing was the same size as the image.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the actual width of the xylem vessel in µm.",
+    "marks": 2,
+    "answer": "90 µm",
+    "working": "M1 actual = image ÷ magnification = 36 ÷ 400 = 0.09 mm; A1 90 µm."
+   },
+   {
+    "label": "b",
+    "text": "The walls of the vessel had spiral and ring-shaped thickenings. Name the substance in these thickenings and give its function.",
+    "marks": 2,
+    "answer": "lignin; makes the wall strong / waterproof so the vessel does not collapse",
+    "working": "B1 lignin; B1 strengthens / supports / prevents collapse under tension / waterproof."
+   }
+  ],
+  "check": "36/400*1000 == 90",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-016",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare the structure of a xylem vessel with that of a phloem tube. Give three differences.",
+    "marks": 3,
+    "answer": "xylem: dead cells, no contents; phloem: living cells with cytoplasm. xylem: walls thickened with lignin; phloem: cellulose walls only. xylem: no cross walls; phloem: cross walls with pores (sieve plates).",
+    "working": "1 mark per comparative pair, max 3: dead vs living; lignin vs no lignin; no cross walls vs perforated cross walls; empty lumen vs cytoplasm present; water/ions vs sucrose/amino acids carried (accept as one difference)."
+   },
+   {
+    "label": "b",
+    "text": "Woody stems contain many layers of xylem. Explain why trees can grow much taller than plants with soft, non-woody stems.",
+    "marks": 2,
+    "answer": "Lignified xylem (wood) is strong and rigid, so it supports a tall heavy trunk, and its vessels do not collapse when water is pulled up a long distance.",
+    "working": "B1 lignin gives strength / support for weight; B1 vessels withstand tension / do not collapse / carry water to great height."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-017",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A gardener in Islamabad ties a wire tightly around the trunk of a young apple tree and forgets it. Over two years the trunk grows wider above the wire, but the wire cuts into the outer layers of the trunk. The xylem in the centre is not damaged.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the tissue in the outer layers of the trunk that is squeezed by the wire.",
+    "marks": 1,
+    "answer": "phloem",
+    "working": "B1 phloem."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the trunk swells just above the wire.",
+    "marks": 2,
+    "answer": "Sucrose moving down from the leaves in the phloem cannot pass the wire, so it builds up above it and is used for extra growth there.",
+    "working": "B1 translocation (downwards) blocked; B1 sucrose accumulates above the wire / used for growth / cell division there."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the roots of the tree may eventually die, even though the leaves stay green for a long time.",
+    "marks": 2,
+    "answer": "Roots receive no sucrose for respiration, so they cannot release energy, cannot absorb ions actively and die; the leaves stay green because xylem still carries water up.",
+    "working": "B1 no sucrose reaches roots / no energy from respiration; B1 xylem undamaged so water still reaches leaves (until roots die)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-018",
+  "topic": "Transport in plants",
+  "subtopic": "Xylem & phloem structure",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student says: 'Xylem carries substances up and down the plant, and phloem carries substances only upwards.' Correct both parts of this statement.",
+    "marks": 2,
+    "answer": "Xylem carries water and mineral ions only upwards (from roots to leaves); phloem carries sucrose and amino acids both up and down (source to sink).",
+    "working": "B1 xylem: upwards only; B1 phloem: in both directions / source to sink."
+   },
+   {
+    "label": "b",
+    "text": "A cut stem of a leafy plant is stood in red dye for several hours. Explain why the red dye is found in the xylem but not in the phloem.",
+    "marks": 2,
+    "answer": "Xylem vessels carry water up the stem in the transpiration stream, and the dye travels with this water; phloem carries sucrose and amino acids in living sieve tubes, not water, so the dye is not carried in it.",
+    "working": "B1 xylem carries water (and dissolved dye) up the stem by transpiration pull; B1 phloem transports sugars and amino acids, not water, so dye is not carried in it."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-019",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "What is the pathway taken by water from the soil to a mesophyll cell?\nA root hair cell → root cortex cells → xylem → mesophyll cell\nB root hair cell → phloem → xylem → mesophyll cell\nC root cortex cells → root hair cell → xylem → mesophyll cell\nD root hair cell → xylem → root cortex cells → mesophyll cell",
+    "marks": 1,
+    "answer": "A root hair cell → root cortex cells → xylem → mesophyll cell",
+    "working": "Water enters root hair cells, crosses the cortex to the xylem in the centre of the root, rises in the xylem and leaves it to reach mesophyll cells. Phloem does not carry water up from the roots."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-020",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Fertiliser is spilled around the roots of a tomato plant, so the soil water becomes very concentrated. Which statement describes what happens to the root hair cells?\nA They gain water by osmosis because the soil water has more water molecules.\nB They lose water by osmosis because the soil solution is more concentrated than the cell sap.\nC They gain water by active transport using energy from respiration.\nD They are not affected because the cell wall stops water leaving.",
+    "marks": 1,
+    "answer": "B They lose water by osmosis because the soil solution is more concentrated than the cell sap.",
+    "working": "Water moves by osmosis from a dilute solution (higher water potential) to a concentrated solution (lower water potential) across a partially permeable membrane; here that is out of the cells into the soil, so the plant wilts. The cell wall is fully permeable and does not stop water movement."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-021",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two features of a root hair cell that help it to absorb water.",
+    "marks": 2,
+    "answer": "long thin extension giving a large surface area; thin cell wall / no cuticle / cell sap more concentrated than soil water",
+    "working": "1 mark each, max 2: long extension / large surface area; thin wall; partially permeable membrane; concentrated cell sap / vacuole; no waxy cuticle."
+   },
+   {
+    "label": "b",
+    "text": "Name the process by which water enters a root hair cell.",
+    "marks": 1,
+    "answer": "osmosis",
+    "working": "B1 osmosis."
+   },
+   {
+    "label": "c",
+    "text": "Name the process by which mineral ions such as nitrate are often taken into a root hair cell.",
+    "marks": 1,
+    "answer": "active transport",
+    "working": "B1 active transport."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-022",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Root hair cells do not contain chloroplasts. Suggest why.",
+    "marks": 1,
+    "answer": "They are underground with no light, so they cannot photosynthesise.",
+    "working": "B1 no light (underground), so chloroplasts would be no use."
+   },
+   {
+    "label": "b",
+    "text": "A gardener in Peshawar transplants a guava sapling and tears off most of the fine roots. Explain why the sapling wilts.",
+    "marks": 3,
+    "answer": "Root hairs are lost, so the surface area for water uptake falls; water uptake is less than water lost by transpiration; cells lose turgor so the plant wilts.",
+    "working": "B1 root hairs removed / damaged; B1 smaller surface area for absorption (osmosis); B1 uptake less than transpiration loss / cells become flaccid."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-023",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "6",
+  "difficulty": "core",
+  "stem": "A student placed a young wheat seedling with its roots in a narrow measuring cylinder of water. A thin layer of oil was put on the water surface. The volume of water was read each day.\nday | 0 | 1 | 2 | 3\nvolume / cm³ | 250 | 238 | 226 | 214",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean volume of water taken up per day.",
+    "marks": 2,
+    "answer": "12 cm³ per day",
+    "working": "M1 (250 − 214) ÷ 3; A1 12."
+   },
+   {
+    "label": "b",
+    "text": "State why a layer of oil was added.",
+    "marks": 1,
+    "answer": "to stop water evaporating from the surface of the water in the cylinder",
+    "working": "B1 prevents evaporation, so loss is only due to uptake by the plant."
+   },
+   {
+    "label": "c",
+    "text": "Suggest how the student could show that the water lost from the cylinder was taken up by the plant and not lost in another way.",
+    "marks": 1,
+    "answer": "Set up a control cylinder with oil and water but no seedling.",
+    "working": "B1 identical cylinder with no plant (volume should stay the same)."
+   }
+  ],
+  "check": "(250-214)/3 == 12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-024",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "A student counted root hairs on the main root of a radish seedling using a hand lens. In a 1 mm section of root she counted 55 root hairs. The root-hair zone was 16 mm long. Each root hair has a mean surface area of 0.012 mm².",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Estimate the total number of root hairs on this root.",
+    "marks": 1,
+    "answer": "880",
+    "working": "B1 55 × 16 = 880."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the total surface area of the root hairs. Give your answer to 2 significant figures.",
+    "marks": 2,
+    "answer": "11 mm²",
+    "working": "M1 880 × 0.012 = 10.56; A1 11 mm² (2 s.f.)."
+   },
+   {
+    "label": "c",
+    "text": "Suggest one reason why this is an underestimate of the area through which the seedling absorbs water.",
+    "marks": 1,
+    "answer": "Side (lateral) roots and other parts of the root surface also absorb water / hairs may be missed when counting.",
+    "working": "B1 any valid reason."
+   }
+  ],
+  "check": "55*16 == 880 and round(880*0.012, 0) == 11",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-025",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how water moves from the root hair cell across the root to the xylem.",
+    "marks": 3,
+    "answer": "By osmosis from cell to cell across the cortex; each cell inwards has a more concentrated cell sap / lower water potential; water then enters the xylem (and is pulled up by transpiration).",
+    "working": "B1 osmosis; B1 through cortex cells (cell to cell); B1 down a concentration (water potential) gradient / towards xylem / pulled by transpiration."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a waterlogged soil, with no air in it, can reduce the uptake of mineral ions by roots.",
+    "marks": 2,
+    "answer": "No oxygen for aerobic respiration in root cells, so little energy is released for active transport of ions.",
+    "working": "B1 lack of oxygen / less aerobic respiration; B1 less energy (ATP) for active transport."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-026",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Rice seedlings were grown in solutions of different salt (sodium chloride) concentration. After 10 days the seedlings were weighed.\nsalt concentration / g per dm³ | 0 | 2 | 4 | 8 | 16\nmean mass of seedling / g | 4.0 | 3.8 | 3.2 | 2.0 | 0.9",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage decrease in mean mass between 0 and 8 g per dm³ of salt.",
+    "marks": 2,
+    "answer": "50 %",
+    "working": "M1 (4.0 − 2.0) ÷ 4.0 × 100; A1 50 %."
+   },
+   {
+    "label": "b",
+    "text": "Use your knowledge of osmosis to explain why seedlings in high salt concentrations grow less.",
+    "marks": 3,
+    "answer": "The soil solution is more concentrated than the cell sap, so less water (or no water) enters root hair cells by osmosis / water leaves; cells lose turgor, less water for photosynthesis and growth.",
+    "working": "B1 salt solution more concentrated / lower water potential than root cells; B1 less water absorbed / water lost by osmosis; B1 less turgor / less photosynthesis / less cell expansion so less growth."
+   },
+   {
+    "label": "c",
+    "text": "Farmers in parts of Sindh find salty soil after years of irrigation. Suggest one way to reduce this problem.",
+    "marks": 1,
+    "answer": "Flush salts out with good drainage / plant salt-tolerant varieties / reduce over-irrigation.",
+    "working": "B1 any sensible suggestion."
+   }
+  ],
+  "check": "(4.0-2.0)/4.0*100 == 50",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-027",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A student set up two similar bean seedlings with roots in nutrient solution. Air was bubbled through the solution of seedling A. Nitrogen gas (no oxygen) was bubbled through the solution of seedling B. After 6 hours the amount of potassium ions absorbed and the volume of water absorbed were measured.\nseedling | potassium ions absorbed / arbitrary units | water absorbed / cm³\nA (air) | 96 | 5.2\nB (nitrogen) | 12 | 4.9",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate how many times more potassium ions were absorbed by seedling A than by seedling B.",
+    "marks": 1,
+    "answer": "8 times",
+    "working": "B1 96 ÷ 12 = 8."
+   },
+   {
+    "label": "b",
+    "text": "Explain the difference in potassium uptake.",
+    "marks": 3,
+    "answer": "Potassium ions are absorbed by active transport, which needs energy from aerobic respiration; without oxygen root cells release little energy so uptake is low.",
+    "working": "B1 active transport; B1 needs energy / ATP from respiration; B1 no oxygen so (aerobic) respiration stops / much less energy."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the volume of water absorbed was similar in both seedlings.",
+    "marks": 2,
+    "answer": "Water enters by osmosis, a passive process that does not need energy from respiration, so lack of oxygen has little effect.",
+    "working": "B1 osmosis; B1 passive / no energy needed."
+   }
+  ],
+  "check": "96/12 == 8",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-028",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Gardeners in Gilgit cover newly transplanted seedlings with shade cloth for the first week. Explain how this helps the seedlings survive.",
+    "marks": 3,
+    "answer": "The shade cloth reduces light and heat on the leaves, so stomata partly close and transpiration falls; water loss is reduced while the damaged roots regrow root hairs, so the seedlings do not wilt.",
+    "working": "B1 less light and heat reach the leaves; B1 transpiration (water loss) is reduced / stomata partly close; B1 roots have time to regrow root hairs so uptake can catch up."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why the seedlings should be watered thoroughly immediately after they are transplanted.",
+    "marks": 2,
+    "answer": "The water replaces water lost during transplanting and fills the soil around the roots, so root hairs are in contact with water and can absorb it.",
+    "working": "B1 replaces water lost from the plant and raises soil water supply; B1 water in contact with the root hairs / soil around roots allows uptake by osmosis."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-029",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A potted spider plant has stopped growing and its soil is dry. After watering, its leaves become firm again within an hour. Explain how water absorbed by the roots makes the leaves firm.",
+    "marks": 3,
+    "answer": "Water enters root hairs by osmosis and moves up the xylem to the leaves; it enters leaf cells by osmosis; vacuoles swell and press the cytoplasm against the cell wall so cells become turgid.",
+    "working": "B1 osmosis into roots; B1 transported in xylem; B1 leaf cells become turgid / pressure against cell wall supports leaf."
+   },
+   {
+    "label": "b",
+    "text": "State one other use of the water absorbed by the roots, apart from support.",
+    "marks": 1,
+    "answer": "raw material for photosynthesis / cooling by evaporation / transport of mineral ions",
+    "working": "B1 any one."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-030",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "You are given germinating seeds of mustard, Petri dishes, filter paper, a hand lens, sodium chloride solutions of different concentrations and distilled water.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Plan an investigation to find out how the concentration of sodium chloride affects the number of root hairs that grow on mustard seedlings. Include the variables to control, how you would make your results reliable and what you would measure.",
+    "marks": 6,
+    "answer": "Grow seeds on filter paper soaked in a range of salt concentrations (0 = distilled water control) for a fixed time; count root hairs per mm of root with hand lens; keep constant temperature, light, volume of solution, number and type of seeds, time; repeat / use many seedlings per dish and calculate mean.",
+    "working": "1 mark each, max 6: independent variable range (at least 4 concentrations incl. distilled water); same volume of solution / same filter paper; same number of seeds of same age/size; same temperature / light / time; method of measuring (count root hairs in a fixed length, e.g. 2 mm, using hand lens) ; several seedlings per dish / repeats and mean; record in table / plot concentration against mean number; safety or prediction statement (more salt, fewer root hairs)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-031",
+  "topic": "Transport in plants",
+  "subtopic": "Water uptake & root hairs",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the name of the tissue that water enters after it has crossed the root cortex.",
+    "marks": 1,
+    "answer": "xylem",
+    "working": "B1 xylem."
+   },
+   {
+    "label": "b",
+    "text": "State the main force that pulls water up from the roots to the leaves.",
+    "marks": 1,
+    "answer": "transpiration pull (evaporation of water from leaves)",
+    "working": "B1 transpiration / transpiration pull."
+   },
+   {
+    "label": "c",
+    "text": "Explain why a plant growing in dry soil absorbs less water than one in moist soil.",
+    "marks": 2,
+    "answer": "In dry soil the soil water is scarce/more concentrated, so the concentration gradient into root hair cells is smaller and less water enters by osmosis.",
+    "working": "B1 less water / smaller gradient / soil solution more concentrated; B1 less osmosis into root hairs."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-032",
+  "topic": "Coordination & response",
+  "subtopic": "Sense organs: the eye",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "When the eye focuses on a close object, which structure contracts so that the lens becomes fatter?\nA ciliary muscle\nB suspensory ligament\nC iris\nD retina",
+    "marks": 1,
+    "answer": "A ciliary muscle",
+    "working": "Ciliary muscles contract, slackening the suspensory ligaments, so the lens becomes fatter and refracts light more strongly. Suspensory ligaments do not contract; they are pulled tight or slackened by the ciliary muscles."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-033",
+  "topic": "Coordination & response",
+  "subtopic": "Sense organs: the eye",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the layer at the back of the eye that contains light-sensitive cells.",
+    "marks": 1,
+    "answer": "retina",
+    "working": "retina"
+   },
+   {
+    "label": "b",
+    "text": "Name the two types of light-sensitive cell found in the retina.",
+    "marks": 2,
+    "answer": "rods and cones",
+    "working": "1 mark each: rods (work in dim light, no colour); cones (work in bright light, detect colour)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-034",
+  "topic": "Coordination & response",
+  "subtopic": "Sense organs: the eye",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A student walks from a dark cinema into bright sunlight.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State what happens to the radial muscles of the iris when the pupil constricts.",
+    "marks": 1,
+    "answer": "They relax.",
+    "working": "1 mark: radial muscles relax (circular muscles contract)."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the pupil constricts in bright light.",
+    "marks": 2,
+    "answer": "Less light enters the eye, which protects the retina from damage or overstimulation.",
+    "working": "1 mark: less light enters the eye; 1 mark: protects the retina from damage/overstimulation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-035",
+  "topic": "Coordination & response",
+  "subtopic": "Sense organs: the eye",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A bird-watcher looks at a bird on a distant tree, then at a page of a field guide held close to the eye.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how the ciliary muscles and suspensory ligaments change when the eye focuses on a distant tree.",
+    "marks": 3,
+    "answer": "The ciliary muscles relax; the suspensory ligaments are pulled tight; the lens becomes thinner and refracts less light.",
+    "working": "1 mark each: ciliary muscles relax; suspensory ligaments tighten and pull on the lens; lens becomes thinner (refracts less)."
+   },
+   {
+    "label": "b",
+    "text": "Name the process by which the eye changes its focus from near to far objects.",
+    "marks": 1,
+    "answer": "accommodation",
+    "working": "accommodation"
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-036",
+  "topic": "Coordination & response",
+  "subtopic": "Sense organs: the eye",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A person tries to see the colours of a painting in a dim room and can only see it poorly. Why?\nA the lens cannot focus light in dim conditions\nB only rods are stimulated in dim light, and rods do not detect colour\nC the iris is fully closed, so no light reaches the retina\nD the cones are damaged by low light levels",
+    "marks": 1,
+    "answer": "B only rods are stimulated in dim light, and rods do not detect colour",
+    "working": "Rods work in dim light but do not detect colour; cones, which detect colour, need brighter light. The iris opens (dilates) in dim light, so option C is wrong."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-037",
+  "topic": "Coordination & response",
+  "subtopic": "Sense organs: the eye",
+  "paper": "6",
+  "difficulty": "standard",
+  "stem": "A student shines a torch into one eye of a partner in a dim room and measures the pupil diameter with a ruler. Time 0 s is when the torch is switched on. Results: 0 s 4.0 mm; 5 s 3.2 mm; 10 s 2.7 mm; 15 s 2.6 mm; 20 s 2.6 mm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the independent variable and the dependent variable.",
+    "marks": 2,
+    "answer": "Independent: time after the torch is switched on (s). Dependent: pupil diameter (mm).",
+    "working": "1 mark each."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage decrease in pupil diameter between 0 s and 10 s.",
+    "marks": 2,
+    "answer": "32.5 %",
+    "working": "(4.0 − 2.7) ÷ 4.0 × 100 = 32.5 %. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "c",
+    "text": "Give one control variable the student should keep the same, and explain why.",
+    "marks": 2,
+    "answer": "Distance of the torch from the eye (or the same torch); this keeps the light intensity the same so that only time changes.",
+    "working": "1 mark for a valid control variable; 1 mark for a reason linked to a fair test."
+   }
+  ],
+  "check": "abs((4.0-2.7)/4.0*100-32.5)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-038",
+  "topic": "Coordination & response",
+  "subtopic": "Sense organs: the eye",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A bird flies across a field. Light from the bird enters one eye.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the pathway taken by information from light entering the eye to the brain.",
+    "marks": 4,
+    "answer": "Light is refracted by the cornea and lens onto the retina; rods and cones are stimulated; impulses pass along the optic nerve (sensory neurone) to the brain, which interprets the image.",
+    "working": "1 mark each: refraction by cornea and lens focuses the image on the retina; rods/cones stimulated (receptors); impulses along the optic nerve; brain interprets the image."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-039",
+  "topic": "Coordination & response",
+  "subtopic": "Sense organs: the eye",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A student measured one pupil in bright light (2.0 mm diameter) and in dim light (6.5 mm diameter).",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in pupil diameter from bright light to dim light.",
+    "marks": 2,
+    "answer": "225 %",
+    "working": "(6.5 − 2.0) ÷ 2.0 × 100 = 225 %. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "Explain the role of the radial muscles of the iris in dim light.",
+    "marks": 2,
+    "answer": "The radial muscles contract, pulling the iris open so the pupil dilates and more light enters the eye.",
+    "working": "1 mark: radial muscles contract; 1 mark: pupil dilates / more light enters."
+   },
+   {
+    "label": "c",
+    "text": "State why this change in pupil diameter is an example of a reflex action.",
+    "marks": 1,
+    "answer": "It is rapid, automatic and involuntary (no conscious decision).",
+    "working": "1 mark."
+   }
+  ],
+  "check": "abs((6.5-2.0)/2.0*100-225)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-040",
+  "topic": "Coordination & response",
+  "subtopic": "Sense organs: the eye",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student says: 'When focusing on a near object, the ciliary muscles relax and the lens becomes thinner.' Identify the error and write the correct statement.",
+    "marks": 2,
+    "answer": "Error: the ciliary muscles contract (not relax), so the lens becomes fatter (not thinner). Correct: for a near object the ciliary muscles contract, the suspensory ligaments slacken and the lens becomes fatter.",
+    "working": "1 mark: identifies the error; 1 mark: correct statement."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the lens must become fatter to see a near object clearly.",
+    "marks": 2,
+    "answer": "Light from a near object diverges more, so the lens must refract it more strongly to focus it on the retina.",
+    "working": "1 mark: rays from a near object diverge; 1 mark: more refraction is needed to focus them on the retina."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-041",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which hormone lowers the concentration of glucose in the blood?\nA adrenaline\nB glucagon\nC insulin\nD thyroxine",
+    "marks": 1,
+    "answer": "C insulin",
+    "working": "Insulin, made by the pancreas, makes cells take up glucose and convert it to glycogen. Glucagon raises blood glucose (option B); thyroxine controls metabolic rate."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-042",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "The pancreas contains groups of cells called the islets of Langerhans.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the organ that contains the islets of Langerhans.",
+    "marks": 1,
+    "answer": "pancreas",
+    "working": "pancreas"
+   },
+   {
+    "label": "b",
+    "text": "Name the type of cell in the islets that secretes insulin.",
+    "marks": 1,
+    "answer": "beta cells",
+    "working": "beta cells"
+   },
+   {
+    "label": "c",
+    "text": "Name the storage carbohydrate that the liver makes from excess glucose.",
+    "marks": 1,
+    "answer": "glycogen",
+    "working": "glycogen"
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-043",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the main cause of Type 1 diabetes.",
+    "marks": 1,
+    "answer": "The pancreas does not produce enough (or any) insulin.",
+    "working": "1 mark."
+   },
+   {
+    "label": "b",
+    "text": "Describe the main cause of Type 2 diabetes.",
+    "marks": 2,
+    "answer": "Body cells do not respond properly to insulin (insulin resistance); it is linked to diet, obesity and lack of exercise.",
+    "working": "1 mark: cells do not respond to insulin; 1 mark: linked to diet, obesity or inactivity."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-044",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A student's blood glucose was measured after a meal of rice. Time 0 min: 4.5 mmol/dm³; 30 min: 8.0 mmol/dm³; 90 min: 5.2 mmol/dm³.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the increase in blood glucose between 0 min and the peak value, in mmol/dm³.",
+    "marks": 1,
+    "answer": "3.5 mmol/dm³",
+    "working": "8.0 − 4.5 = 3.5 mmol/dm³."
+   },
+   {
+    "label": "b",
+    "text": "State the time at which blood glucose was highest.",
+    "marks": 1,
+    "answer": "30 min",
+    "working": "30 min"
+   },
+   {
+    "label": "c",
+    "text": "Explain why blood glucose fell between 30 and 90 minutes.",
+    "marks": 2,
+    "answer": "Insulin is released; glucose is taken up by cells and converted to glycogen (stored in liver and muscles) or used in respiration.",
+    "working": "1 mark: insulin released; 1 mark: glucose taken up and stored as glycogen or used in respiration."
+   }
+  ],
+  "check": "8.0-4.5==3.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-045",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "After a meal, a person's blood glucose falls from 9.0 mmol/dm³ to 5.4 mmol/dm³ as insulin is released.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage decrease in blood glucose.",
+    "marks": 2,
+    "answer": "40 %",
+    "working": "(9.0 − 5.4) ÷ 9.0 × 100 = 40 %."
+   },
+   {
+    "label": "b",
+    "text": "State where most glycogen is stored in the body.",
+    "marks": 1,
+    "answer": "liver and muscles",
+    "working": "liver and muscles"
+   }
+  ],
+  "check": "abs((9.0-5.4)/9.0*100-40)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-046",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why people with Type 1 diabetes must inject insulin rather than take it as tablets, and why their blood glucose must be monitored.",
+    "marks": 4,
+    "answer": "Insulin is a protein that would be digested in the gut, so it must be injected into the blood. Blood glucose must be monitored so the right amount of insulin is given to keep it within normal limits (preventing it becoming too high or too low).",
+    "working": "1 mark: insulin is a protein digested by enzymes; 1 mark: injection puts it into the blood; 1 mark: monitoring decides the amount needed; 1 mark: keeps glucose within normal limits."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-047",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which hormone is released when blood glucose concentration falls below normal?\nA insulin\nB glucagon\nC ADH\nD thyroxine",
+    "marks": 1,
+    "answer": "B glucagon",
+    "working": "Glucagon, from the alpha cells of the pancreas, causes the liver to convert glycogen to glucose, raising blood glucose. Insulin would lower it further (option A)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-048",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a person with Type 2 diabetes may produce insulin but still have high blood glucose.",
+    "marks": 3,
+    "answer": "Body cells (such as muscle and liver cells) respond poorly to insulin, so less glucose is taken up and stored; blood glucose stays high even though insulin is present.",
+    "working": "1 mark: cells do not respond to insulin properly; 1 mark: less glucose taken up by cells; 1 mark: glucose remains high despite insulin."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-049",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Three people had fasting blood tests.\nPerson X: glucose 5.0 mmol/dm³, insulin 60 units\nPerson Y: glucose 9.5 mmol/dm³, insulin 220 units\nPerson Z: glucose 9.8 mmol/dm³, insulin 4 units",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which person most likely has Type 1 diabetes? Give a reason from the data.",
+    "marks": 2,
+    "answer": "Person Z: very high blood glucose with very low insulin, so the pancreas is not producing enough insulin.",
+    "working": "1 mark: Z; 1 mark: very low insulin means no insulin produced."
+   },
+   {
+    "label": "b",
+    "text": "Explain the results for person Y.",
+    "marks": 2,
+    "answer": "Glucose and insulin are both high: the cells are not responding well to insulin (insulin resistance), typical of Type 2 diabetes.",
+    "working": "1 mark: insulin is high but glucose is high; 1 mark: cells respond poorly to insulin."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-050",
+  "topic": "Coordination & response",
+  "subtopic": "Blood glucose control & diabetes",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A person drinks a glucose drink. Blood glucose rises from 5.0 mmol/dm³ to 11.0 mmol/dm³ within 30 minutes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in blood glucose.",
+    "marks": 2,
+    "answer": "120 %",
+    "working": "(11.0 − 5.0) ÷ 5.0 × 100 = 120 %."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why blood glucose returns to normal within 2 hours in a healthy person.",
+    "marks": 2,
+    "answer": "Insulin is released in response to the high glucose; cells take up glucose and convert it to glycogen. This is negative feedback.",
+    "working": "1 mark: insulin released; 1 mark: glucose taken up and stored as glycogen (or used)."
+   }
+  ],
+  "check": "abs((11.0-5.0)/5.0*100-120)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-051",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the part of the brain that acts as the body's thermostat.",
+    "marks": 1,
+    "answer": "hypothalamus",
+    "working": "hypothalamus"
+   },
+   {
+    "label": "b",
+    "text": "State two responses of the body when body temperature rises above 37 °C.",
+    "marks": 2,
+    "answer": "Sweating; vasodilation (blood vessels near the skin widen).",
+    "working": "1 mark each (any two): sweating; vasodilation; hair erector muscles relax."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-052",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "On a cold morning a person's skin looks pale and the hairs on their arms stand up.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain the change in blood flow to the skin.",
+    "marks": 2,
+    "answer": "Arterioles supplying the skin constrict (vasoconstriction), so less blood flows near the surface and less heat is lost.",
+    "working": "1 mark: vasoconstriction; 1 mark: less heat lost through the skin."
+   },
+   {
+    "label": "b",
+    "text": "Explain how the standing hairs help to keep the body warm.",
+    "marks": 2,
+    "answer": "Hair erector muscles contract, raising the hairs and trapping a layer of warm air next to the skin, which acts as insulation.",
+    "working": "1 mark: muscles contract; 1 mark: trapped air acts as insulation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-053",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A child's body temperature rose from 37.0 °C to 38.5 °C during an illness.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the rise in temperature.",
+    "marks": 1,
+    "answer": "1.5 °C",
+    "working": "38.5 − 37.0 = 1.5 °C."
+   },
+   {
+    "label": "b",
+    "text": "Name the part of the brain that detects this change in body temperature.",
+    "marks": 1,
+    "answer": "hypothalamus",
+    "working": "hypothalamus"
+   }
+  ],
+  "check": "38.5-37.0==1.5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-054",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why sweating cools the body.",
+    "marks": 3,
+    "answer": "Sweat evaporates from the skin surface; evaporation needs energy (latent heat), which is taken from the skin, so the body cools.",
+    "working": "1 mark: sweat evaporates; 1 mark: evaporation needs energy (latent heat); 1 mark: energy is taken from the skin/body."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-055",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how shivering helps to raise body temperature.",
+    "marks": 3,
+    "answer": "Muscles contract rapidly and repeatedly (involuntarily); respiration in the muscle cells releases heat energy, which is carried around the body by the blood.",
+    "working": "1 mark: involuntary muscle contraction; 1 mark: respiration releases heat; 1 mark: heat distributed by the blood."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-056",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Sweat is 99.0 % water by mass. A person loses 600 g of sweat during exercise.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of water lost in the sweat.",
+    "marks": 1,
+    "answer": "594 g",
+    "working": "600 × 0.99 = 594 g."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a person who sweats a lot should drink water.",
+    "marks": 2,
+    "answer": "Water is lost in sweat; replacing it keeps the water content of the body and the blood volume at normal levels.",
+    "working": "1 mark: water lost must be replaced; 1 mark: keeps body water balance / blood volume normal."
+   }
+  ],
+  "check": "abs(600*0.99-594)<0.001",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-057",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how negative feedback keeps body temperature at about 37 °C when the outside temperature rises to 35 °C.",
+    "marks": 4,
+    "answer": "Temperature receptors in the skin and the hypothalamus detect the rise; the hypothalamus compares it with the set point of 37 °C and sends nerve impulses to skin arterioles (vasodilation) and sweat glands (sweating); heat is lost; temperature returns to 37 °C and the responses stop.",
+    "working": "1 mark: receptors detect the rise; 1 mark: hypothalamus compares with set point; 1 mark: vasodilation and sweating; 1 mark: heat lost, temperature returns and responses switch off."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-058",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a finger's skin temperature falls in a cold room but the core temperature stays near 37 °C.",
+    "marks": 3,
+    "answer": "Vasoconstriction reduces blood flow to the skin and extremities, so less heat is carried to the surface and lost; blood flow to the core organs is maintained, so the core stays near 37 °C.",
+    "working": "1 mark: vasoconstriction in the skin; 1 mark: less heat carried to the surface; 1 mark: core blood flow maintained so core temperature stays constant."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-059",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Skin temperatures of the same person, measured at four points on the body in a warm room: 34.2 °C, 33.8 °C, 35.0 °C and 34.6 °C.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean skin temperature.",
+    "marks": 2,
+    "answer": "34.4 °C",
+    "working": "(34.2 + 33.8 + 35.0 + 34.6) ÷ 4 = 34.4 °C."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the range of the skin temperatures.",
+    "marks": 1,
+    "answer": "1.2 °C",
+    "working": "35.0 − 33.8 = 1.2 °C."
+   }
+  ],
+  "check": "abs(sum([34.2,33.8,35.0,34.6])/4-34.4)<0.001 and abs(35.0-33.8-1.2)<0.001",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-060",
+  "topic": "Coordination & response",
+  "subtopic": "Temperature control",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student says: 'Shivering is a voluntary response to cold.' Evaluate this statement.",
+    "marks": 3,
+    "answer": "Incorrect: shivering is involuntary and automatic, controlled by the hypothalamus in response to cold receptors. The muscle contractions release heat from respiration.",
+    "working": "1 mark: incorrect (shivering is involuntary); 1 mark: controlled by the hypothalamus/automatic; 1 mark: muscle respiration releases heat."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-061",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A shoot bends towards a light source. Which statement explains this?\nA auxin accumulates on the shaded side and makes those cells elongate more\nB auxin accumulates on the lit side and makes those cells elongate more\nC light destroys auxin on the shaded side, so those cells shrink\nD auxin is made only in the roots and moves up the shoot",
+    "marks": 1,
+    "answer": "A auxin accumulates on the shaded side and makes those cells elongate more",
+    "working": "Auxin moves to the shaded side of the shoot tip; cells there elongate more, so the shoot bends towards the light. Option B reverses the effect; auxin is made in shoot tips, not roots."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-062",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the plant hormone involved in tropic responses.",
+    "marks": 1,
+    "answer": "auxin",
+    "working": "auxin"
+   },
+   {
+    "label": "b",
+    "text": "State where auxin is produced in a shoot.",
+    "marks": 1,
+    "answer": "shoot tip (apex)",
+    "working": "accept tip of the shoot / coleoptile tip"
+   },
+   {
+    "label": "c",
+    "text": "Name the tropic response of a root growing downwards.",
+    "marks": 1,
+    "answer": "positive gravitropism (geotropism)",
+    "working": "positive gravitropism / geotropism"
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-063",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A bean seedling's shoot was 4.0 cm long on day 1 and 5.2 cm long on day 4.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in shoot length.",
+    "marks": 2,
+    "answer": "30 %",
+    "working": "(5.2 − 4.0) ÷ 4.0 × 100 = 30 %. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "State one condition that should be kept constant in this investigation.",
+    "marks": 1,
+    "answer": "Temperature (or light, water or species of seedling); any one.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "abs((5.2-4.0)/4.0*100-30)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-064",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A student places a pot of seedlings in a box with a small hole on one side, so light enters only from that side. After 3 days the shoots bend towards the hole.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify the stimulus.",
+    "marks": 1,
+    "answer": "light (from the hole in the box)",
+    "working": "light"
+   },
+   {
+    "label": "b",
+    "text": "Explain why the shoots bend towards the light.",
+    "marks": 2,
+    "answer": "Auxin moves to the shaded side; cells on the shaded side elongate more, so the shoot bends towards the light.",
+    "working": "1 mark: auxin moves to the shaded side; 1 mark: greater elongation on the shaded side."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-065",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why roots and shoots respond differently to gravity.",
+    "marks": 4,
+    "answer": "Auxin moves to the lower side in both. In shoots, auxin stimulates elongation on the lower side, so the shoot grows upwards (negative gravitropism). In roots, auxin inhibits elongation on the lower side, so the root grows downwards (positive gravitropism).",
+    "working": "1 mark: auxin moves to the lower side in both; 1 mark: shoot: stimulates elongation, bends up; 1 mark: root: inhibits elongation, bends down; 1 mark: negative (shoot) and positive (root) named."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-066",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A student tests coleoptiles (shoot tips) for 24 hours.\nA: intact tip, light from one side: bends towards the light by 25°\nB: tip removed: no curvature (0°)\nC: tip removed, agar block containing auxin placed on one side: bends away from the block by 20°\nD: tip covered by an opaque cap, light from one side: no curvature (0°)",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the coleoptile in result D does not curve.",
+    "marks": 2,
+    "answer": "The tip is covered by an opaque cap, so it cannot detect the light; auxin is not redistributed, so the shoot grows straight.",
+    "working": "1 mark: tip is needed to detect light; 1 mark: auxin not redistributed / no unequal growth."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the shoot in result C curves away from the block.",
+    "marks": 1,
+    "answer": "Auxin on one side makes the cells on that side elongate more, so the shoot bends away from the block.",
+    "working": "1 mark."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-067",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A gardener pinches out the tip of a plant shoot to make the plant bushier. Which explanation is correct?\nA auxin from the tip inhibits side buds; removing the tip removes this inhibition, so side buds grow\nB auxin from the tip is needed by side buds to grow, so removing the tip slows them down\nC pinching out the tip stops auxin being made in the roots, so the shoot grows more\nD removing the tip increases the water supply to the side buds",
+    "marks": 1,
+    "answer": "A auxin from the tip inhibits side buds; removing the tip removes this inhibition, so side buds grow",
+    "working": "This is apical dominance: auxin from the tip inhibits lateral buds. Pinching out removes the source, so more side shoots develop. Option B reverses the effect."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-068",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "Cress seedlings were grown for 48 hours in a control solution and in a solution of auxin at the same concentration. Mean root length: control 40 mm; auxin 28 mm. Mean shoot length: control 12 mm; auxin 15 mm.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage decrease in root length caused by auxin.",
+    "marks": 2,
+    "answer": "30 %",
+    "working": "(40 − 28) ÷ 40 × 100 = 30 %."
+   },
+   {
+    "label": "b",
+    "text": "Suggest why auxin at this concentration reduces root length but increases shoot length.",
+    "marks": 2,
+    "answer": "Roots are more sensitive to auxin than shoots: at this concentration auxin inhibits elongation of root cells but stimulates elongation of shoot cells.",
+    "working": "1 mark: roots are more sensitive; 1 mark: inhibits roots but stimulates shoots."
+   }
+  ],
+  "check": "abs((40-28)/40*100-30)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-069",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe an experiment to show that light, not gravity, causes a shoot to bend towards light. Include the apparatus, the control and what you would measure.",
+    "marks": 6,
+    "answer": "Use seedlings in a box with a hole so light comes from one side. Control: seedlings with light from all sides (or the same plant orientation). Keep the species, age, water and temperature the same. Measure the angle of bending with a protractor after a set time. Repeat and calculate a mean. Show gravity is not the cause by placing a pot on its side on a rotating (horizontal) clinostat or a control with the box turned.",
+    "working": "1 mark: light from one side is the independent variable with a suitable control; 1 mark: variables kept the same (species, age, water, temperature); 1 mark: angle of bending measured with a protractor after a set time; 1 mark: repeats and mean; 1 mark: control shows gravity is not the cause (light from all sides / rotated pots); 1 mark: clear apparatus and method."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-070",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how the bending of shoots towards light benefits a plant growing in a shaded forest.",
+    "marks": 3,
+    "answer": "The shoot grows towards a gap in the canopy, so its leaves receive more light for photosynthesis, giving more energy for growth and survival.",
+    "working": "1 mark: shoot grows towards light/a gap; 1 mark: more light absorbed by leaves; 1 mark: more photosynthesis, growth and survival."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-071",
+  "topic": "Coordination & response",
+  "subtopic": "Tropic responses & auxin",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "In one hour, a coleoptile grew 8 mm on the shaded side and 3 mm on the lit side.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the ratio of growth on the shaded side to growth on the lit side, to 2 decimal places.",
+    "marks": 2,
+    "answer": "2.67 : 1",
+    "working": "8 ÷ 3 = 2.67 (2.67 : 1). 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "Use the answer to part (a) to explain the direction in which the shoot bends.",
+    "marks": 2,
+    "answer": "More growth on the shaded side causes the shoot to bend towards the light.",
+    "working": "1 mark: more elongation on the shaded side; 1 mark: shoot bends towards the lit side."
+   }
+  ],
+  "check": "round(8/3,2)==2.67",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-072",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "What is released from the presynaptic neurone into the synaptic cleft?\nA a neurotransmitter\nB a hormone carried in the blood\nC glucose\nD an enzyme that digests the cell membrane",
+    "marks": 1,
+    "answer": "A a neurotransmitter",
+    "working": "The neurotransmitter diffuses across the cleft and binds to receptors on the postsynaptic membrane. Hormones are carried in the blood, not across a synapse."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-073",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "Two neurones meet at a synapse.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the small gap between two neurones at a synapse.",
+    "marks": 1,
+    "answer": "synaptic cleft",
+    "working": "synaptic cleft"
+   },
+   {
+    "label": "b",
+    "text": "Name the chemical released across this gap.",
+    "marks": 1,
+    "answer": "neurotransmitter (for example acetylcholine)",
+    "working": "neurotransmitter"
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-074",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the direction in which an impulse travels across a synapse, and explain why.",
+    "marks": 2,
+    "answer": "One way only, from the presynaptic neurone to the postsynaptic neurone; neurotransmitter is released only from the presynaptic end and receptors are only on the postsynaptic membrane.",
+    "working": "1 mark: one-way direction; 1 mark: neurotransmitter released and receptors found on one side only."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-075",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State where neurotransmitter is stored before it is released.",
+    "marks": 1,
+    "answer": "in vesicles in the presynaptic knob (end)",
+    "working": "vesicles"
+   },
+   {
+    "label": "b",
+    "text": "Name the enzyme that breaks down acetylcholine in the synaptic cleft.",
+    "marks": 1,
+    "answer": "acetylcholinesterase",
+    "working": "acetylcholinesterase (accept cholinesterase)"
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-076",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how an impulse is transmitted across a synapse.",
+    "marks": 4,
+    "answer": "The impulse arrives at the presynaptic knob and causes vesicles to release neurotransmitter into the cleft; it diffuses across the cleft and binds to receptors on the postsynaptic membrane; a new impulse is generated in the postsynaptic neurone; the neurotransmitter is broken down by an enzyme.",
+    "working": "1 mark each: vesicles release neurotransmitter into the cleft; diffusion across the cleft; binding to receptors on the postsynaptic membrane; new impulse generated and neurotransmitter broken down (max 4)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-077",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "An impulse travels at 90 m/s along a sensory neurone from a receptor in a fingertip, 1.8 m, to the spinal cord.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the time taken for the impulse to travel along this neurone, in s.",
+    "marks": 2,
+    "answer": "0.02 s",
+    "working": "time = distance ÷ speed = 1.8 ÷ 90 = 0.02 s."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the time taken to cross a synapse is longer than the time taken to travel along a neurone of the same length.",
+    "marks": 2,
+    "answer": "Crossing a synapse is chemical: neurotransmitter must diffuse across the cleft, which takes longer than the electrical impulse travelling along an axon.",
+    "working": "1 mark: chemical transmission by diffusion; 1 mark: slower than electrical transmission along the neurone."
+   }
+  ],
+  "check": "abs(1.8/90-0.02)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-078",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A drug blocks the receptors on the postsynaptic membrane of a synapse. What is the most likely result?\nA more neurotransmitter is released from the presynaptic knob\nB the impulse cannot be passed on to the postsynaptic neurone\nC the impulse travels back along the presynaptic neurone\nD the impulse crosses the synapse faster",
+    "marks": 1,
+    "answer": "B the impulse cannot be passed on to the postsynaptic neurone",
+    "working": "Without receptors, neurotransmitter cannot bind, so no new impulse is generated in the postsynaptic neurone. The drug does not change the release of neurotransmitter (A) or the direction of transmission (C)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-079",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Acetylcholinesterase breaks down acetylcholine in the synapse. Explain why this is important.",
+    "marks": 3,
+    "answer": "It stops the continued stimulation of the postsynaptic neurone or muscle, so the synapse can reset and transmit new impulses; it prevents overstimulation.",
+    "working": "1 mark: stops continued stimulation; 1 mark: synapse resets; 1 mark: allows the next impulse to be transmitted correctly / prevents overstimulation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-080",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "An impulse travels 2.0 m along a motor neurone at 100 m/s, then crosses three synapses, each taking 0.5 ms. Calculate the total time, in ms.",
+    "marks": 3,
+    "answer": "21.5 ms",
+    "working": "Neurone: 2.0 ÷ 100 = 0.020 s = 20 ms. Synapses: 3 × 0.5 = 1.5 ms. Total 20 + 1.5 = 21.5 ms. Give 1 mark for each correct stage and 1 mark for the total."
+   }
+  ],
+  "check": "abs(2.0/100*1000+3*0.5-21.5)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-081",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student claims that impulses travel faster across synapses than along neurones. Evaluate this claim.",
+    "marks": 3,
+    "answer": "Incorrect: synaptic transmission is slower because it involves diffusion of neurotransmitter across the cleft; the electrical impulse travels much faster along the neurone.",
+    "working": "1 mark: incorrect; 1 mark: chemical transmission by diffusion is slow; 1 mark: impulses travel faster along neurones."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-082",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A drug increases the amount of neurotransmitter released from the presynaptic neurone and slows the enzyme that breaks it down. Predict and explain the effect on the postsynaptic neurone.",
+    "marks": 3,
+    "answer": "The postsynaptic neurone is stimulated more strongly and for longer: neurotransmitter stays in the cleft and binds to more receptors, producing more impulses (possible overstimulation).",
+    "working": "1 mark: more neurotransmitter binds receptors; 1 mark: neurotransmitter stays longer in the cleft; 1 mark: more/prolonged impulses (overstimulation)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-083",
+  "topic": "Coordination & response",
+  "subtopic": "Synapses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a synapse can become fatigued after many impulses in quick succession.",
+    "marks": 3,
+    "answer": "The stored neurotransmitter in the vesicles is used up faster than it can be replaced, so less neurotransmitter is released and fewer impulses cross the synapse.",
+    "working": "1 mark: stores of neurotransmitter run down; 1 mark: less neurotransmitter released; 1 mark: fewer impulses transmitted."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-084",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the three types of neurone and state the job of each.",
+    "marks": 3,
+    "answer": "Sensory neurone: carries impulses from a receptor to the CNS. Relay (intermediate) neurone: within the CNS, links sensory and motor neurones. Motor neurone: carries impulses from the CNS to an effector.",
+    "working": "1 mark each for the name and function of each neurone type."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-085",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two differences between a reflex action and a voluntary action.",
+    "marks": 2,
+    "answer": "Reflex: rapid and automatic, with no conscious decision, and the pathway goes through the spinal cord; voluntary: slower, involves a conscious decision and the brain. (Any two.)",
+    "working": "1 mark each for any two valid differences: reflex is faster / automatic; voluntary needs a conscious decision; reflex passes through the spinal cord rather than the brain; voluntary action involves the brain."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-086",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define a reflex action.",
+    "marks": 2,
+    "answer": "A rapid, automatic response to a stimulus that does not need conscious thought.",
+    "working": "1 mark: rapid/automatic; 1 mark: response to a stimulus without conscious control."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-087",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the name of the part of a neurone that carries impulses away from the cell body.",
+    "marks": 1,
+    "answer": "axon",
+    "working": "axon"
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-088",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student touches a hot pan and quickly pulls the hand away. Describe the pathway of the impulses in this reflex action.",
+    "marks": 4,
+    "answer": "Heat receptors in the skin are stimulated; the sensory neurone carries the impulse to the spinal cord; a relay neurone in the spinal cord passes it to a motor neurone; the motor neurone carries the impulse to the arm muscle (effector), which contracts and pulls the hand away.",
+    "working": "1 mark: receptor stimulated and sensory neurone impulse; 1 mark: relay neurone in spinal cord; 1 mark: motor neurone to muscle effector; 1 mark: muscle contracts, hand pulled away."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-089",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a reflex response is much faster than a conscious response.",
+    "marks": 3,
+    "answer": "Fewer neurones and synapses are involved, and the pathway passes through the spinal cord rather than the brain; no conscious decision is needed.",
+    "working": "1 mark: fewer neurones/synapses; 1 mark: spinal cord used, not the brain; 1 mark: no conscious decision needed."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-090",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "In a ruler drop test, the ruler falls 0.20 m before the student catches it.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the reaction time, using t = √(2d ÷ g) with g = 9.8 m/s², to 2 decimal places.",
+    "marks": 2,
+    "answer": "0.20 s",
+    "working": "√(2 × 0.20 ÷ 9.8) = √0.0408 = 0.202 s, so 0.20 s to 2 decimal places. 1 mark for method, 1 mark for answer."
+   },
+   {
+    "label": "b",
+    "text": "Suggest one way to make this reaction time measurement more reliable.",
+    "marks": 1,
+    "answer": "Repeat the test several times and calculate the mean (or use the same person and the same ruler).",
+    "working": "1 mark: repeats and mean / controls."
+   }
+  ],
+  "check": "round(math.sqrt(2*0.20/9.8),2)==0.20",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-091",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe where the cell bodies of sensory and motor neurones are found.",
+    "marks": 2,
+    "answer": "The cell body of a sensory neurone lies outside the CNS (in a ganglion beside the spinal cord); the cell body of a motor neurone lies within the CNS (spinal cord or brain).",
+    "working": "1 mark: sensory cell body outside the CNS; 1 mark: motor cell body within the CNS."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-092",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a person may pull their hand away from a hot object before they feel the pain.",
+    "marks": 3,
+    "answer": "The reflex arc passes through the spinal cord, so the muscle responds before the impulse reaches the brain; pain is perceived only after the brain receives impulses along a longer pathway.",
+    "working": "1 mark: reflex pathway through spinal cord; 1 mark: response starts before the brain receives impulses; 1 mark: pain is felt after the brain processes the impulses."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-093",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "5",
+  "difficulty": "challenge",
+  "stem": "Students measured reaction times with the ruler drop test. Five distances (cm) were recorded: 18.0, 21.5, 19.0, 22.5 and 20.0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean distance of the ruler drop, in cm.",
+    "marks": 1,
+    "answer": "20.2 cm",
+    "working": "(18.0 + 21.5 + 19.0 + 22.5 + 20.0) ÷ 5 = 20.2 cm."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the reaction time using the mean distance from part (a), using t = √(2d ÷ g) with g = 9.8 m/s², to 3 decimal places.",
+    "marks": 2,
+    "answer": "0.203 s",
+    "working": "d = 0.202 m; t = √(2 × 0.202 ÷ 9.8) = 0.203 s. 1 mark for converting to metres and using the formula; 1 mark for the answer."
+   },
+   {
+    "label": "c",
+    "text": "Identify one source of error in this method.",
+    "marks": 1,
+    "answer": "The ruler is not always released from the same height, and the student's reaction time varies from trial to trial (for example by anticipating the drop).",
+    "working": "1 mark: any valid source of error."
+   },
+   {
+    "label": "d",
+    "text": "Suggest one improvement.",
+    "marks": 1,
+    "answer": "Repeat with more trials and a mean; release the ruler from the same starting position each time; use an electronic timer.",
+    "working": "1 mark: any valid improvement."
+   }
+  ],
+  "check": "round(math.sqrt(2*(sum([18.0,21.5,19.0,22.5,20.0])/5/100)/9.8),3)==0.203",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-094",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "An impulse takes 15 ms to travel 1.5 m along a neurone.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the speed of the impulse in m/s.",
+    "marks": 2,
+    "answer": "100 m/s",
+    "working": "1.5 ÷ 0.015 = 100 m/s. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "Give the time, in ms, for the impulse to travel 4.5 m at this speed.",
+    "marks": 2,
+    "answer": "45 ms",
+    "working": "4.5 ÷ 100 = 0.045 s = 45 ms."
+   }
+  ],
+  "check": "abs(1.5/0.015-100)<1e-9 and abs(4.5/100*1000-45)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-095",
+  "topic": "Coordination & response",
+  "subtopic": "Nervous system & reflex arc",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A relay neurone in the spinal cord is damaged so that no impulses pass from sensory neurones to motor neurones. Explain what happens when a person touches a hot object.",
+    "marks": 3,
+    "answer": "No impulse reaches the motor neurone, so the muscle does not contract and the hand is not pulled away; the reflex fails. The impulse may still reach the brain, so the heat or pain can still be felt.",
+    "working": "1 mark: no impulse reaches the motor neurone/effector; 1 mark: the hand is not pulled away; 1 mark: the impulse may still reach the brain."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-096",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the gland that secretes adrenaline and the gland that secretes insulin.",
+    "marks": 2,
+    "answer": "adrenal gland; pancreas",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-097",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe two differences between hormonal and nervous control.",
+    "marks": 2,
+    "answer": "Hormones travel in the blood and are slower to act, but their effects last longer; nervous impulses travel along neurones and act quickly over a short time.",
+    "working": "1 mark each for any two valid differences."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-098",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State three effects of adrenaline on the body during fight or flight.",
+    "marks": 3,
+    "answer": "Heart rate increases; breathing rate increases; glycogen is converted to glucose; blood is diverted to the muscles; pupils dilate.",
+    "working": "1 mark each for any three."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-099",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "3",
+  "difficulty": "core",
+  "stem": "A person's resting heart rate is 72 beats per minute. After adrenaline is released, the heart rate rises to 108 beats per minute.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in heart rate.",
+    "marks": 2,
+    "answer": "50 %",
+    "working": "(108 − 72) ÷ 72 × 100 = 50 %. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "State the name of the organ that is the target of adrenaline's effect on heart rate.",
+    "marks": 1,
+    "answer": "heart",
+    "working": "heart"
+   }
+  ],
+  "check": "abs((108-72)/72*100-50)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-100",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how adrenaline increases the blood glucose concentration.",
+    "marks": 3,
+    "answer": "Adrenaline acts on the liver; the liver converts glycogen to glucose; the glucose is released into the blood, raising the blood glucose concentration and providing energy for respiration in the muscles.",
+    "working": "1 mark: adrenaline acts on the liver; 1 mark: glycogen converted to glucose; 1 mark: glucose released into the blood for respiration."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-101",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare the speed and duration of hormonal responses with nervous responses.",
+    "marks": 4,
+    "answer": "A nervous response is very fast and short-lived; a hormonal response starts more slowly because the hormone must travel in the blood, but it lasts much longer; hormones reach all cells but act only on target cells with specific receptors.",
+    "working": "1 mark: nervous response is fast; 1 mark: hormonal response is slower to start; 1 mark: nervous response is short-lived and hormonal response lasts longer; 1 mark: hormones act only on target cells with receptors."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-102",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "After a danger has passed, the effects of adrenaline wear off. Describe how the body returns to normal.",
+    "marks": 3,
+    "answer": "Adrenaline is broken down (mainly in the liver) and removed from the blood; release from the adrenal glands stops; heart rate, breathing rate and blood glucose return to normal.",
+    "working": "1 mark: adrenaline broken down/removed; 1 mark: release stops; 1 mark: heart rate, breathing and blood glucose return to normal."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-103",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A student counts a pulse of 25 beats in 15 seconds.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the heart rate in beats per minute.",
+    "marks": 1,
+    "answer": "100 beats per minute",
+    "working": "25 ÷ 15 × 60 = 100 beats per minute."
+   },
+   {
+    "label": "b",
+    "text": "State one factor that would make this measurement less accurate.",
+    "marks": 1,
+    "answer": "Errors in timing or counting the pulse; movement or exercise before measuring; any valid factor.",
+    "working": "1 mark."
+   }
+  ],
+  "check": "25/15*60==100",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-104",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how adrenaline prepares the body for fight or flight. Include four effects.",
+    "marks": 4,
+    "answer": "Faster heart rate sends more blood (oxygen and glucose) to the muscles; faster breathing brings in more oxygen; glycogen is converted to glucose to provide energy for respiration; blood is diverted from the digestive system; pupils dilate to let in more light.",
+    "working": "1 mark for each of four effects, each with a link to supplying oxygen or glucose, or to a faster response."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-105",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Hormones act only on target cells that have specific receptors. Explain why a hormone circulating in the blood affects only certain cells.",
+    "marks": 3,
+    "answer": "Hormones are carried to all cells in the blood, but only cells with complementary receptor proteins bind the hormone and respond; other cells have no receptor, so they do not respond.",
+    "working": "1 mark: hormone carried to all cells; 1 mark: specific receptors bind the hormone; 1 mark: only target cells with the receptor respond."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-106",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "After a person is frightened by a loud noise, their breathing rate is recorded: 16 breaths per minute at 0 min, 24 at 2 min and 30 at 4 min.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in breathing rate from 0 min to 4 min.",
+    "marks": 2,
+    "answer": "87.5 %",
+    "working": "(30 − 16) ÷ 16 × 100 = 87.5 %. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "Explain why breathing rate increases after adrenaline is released.",
+    "marks": 2,
+    "answer": "Adrenaline increases breathing rate, providing more oxygen for respiration in the muscles, which releases energy for fight or flight.",
+    "working": "1 mark: adrenaline increases breathing rate; 1 mark: more oxygen for respiration/energy release."
+   }
+  ],
+  "check": "abs((30-16)/16*100-87.5)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-107",
+  "topic": "Coordination & response",
+  "subtopic": "Hormones & adrenaline",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how the nervous system and the endocrine system work together in a fright response.",
+    "marks": 4,
+    "answer": "Receptors detect the threat and send impulses to the brain; the brain sends nerve impulses to the adrenal glands; the adrenal glands release adrenaline into the blood; adrenaline acts on target organs such as the heart, liver and muscles.",
+    "working": "1 mark: receptors and nerve impulses to the brain; 1 mark: brain signals the adrenal glands; 1 mark: adrenaline released into the blood; 1 mark: target organs respond."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-108",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define homeostasis.",
+    "marks": 2,
+    "answer": "The maintenance of a constant internal environment (for example temperature, water and glucose levels) despite changes in external conditions.",
+    "working": "1 mark: constant internal conditions; 1 mark: despite external changes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-109",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name three conditions controlled by homeostasis in humans.",
+    "marks": 3,
+    "answer": "Blood glucose concentration; body temperature; water content of the body; ion (salt) concentration of the blood (also accept blood pH or carbon dioxide level).",
+    "working": "1 mark each for any three."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-110",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Define negative feedback.",
+    "marks": 2,
+    "answer": "A control mechanism in which a change in a factor triggers a response that reverses the change and returns the factor to its normal level.",
+    "working": "1 mark: triggers a response to a change; 1 mark: reverses the change back to normal."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-111",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State two factors that the kidney helps to keep constant in the blood.",
+    "marks": 2,
+    "answer": "Water content; ion (salt) concentration; removal of urea; pH (any two).",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-112",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give the normal set point for human core body temperature, and explain why a set point is needed for homeostasis.",
+    "marks": 2,
+    "answer": "37 °C; the body compares the actual value with the set point so it can detect a deviation and respond.",
+    "working": "1 mark: 37 °C; 1 mark: comparison with the set point detects deviations."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-113",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the negative feedback loop that controls blood glucose after a meal.",
+    "marks": 4,
+    "answer": "Blood glucose rises above normal; the pancreas (beta cells) detects this and releases insulin into the blood; insulin makes cells take up glucose and convert it to glycogen, lowering blood glucose; when glucose is back to normal the release of insulin stops.",
+    "working": "1 mark: rise detected by the pancreas; 1 mark: insulin released; 1 mark: glucose lowered by uptake and conversion to glycogen; 1 mark: returns to normal and insulin release stops."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-114",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "The set point for human body temperature is 37.0 °C. A person's temperature is 38.4 °C.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the deviation of the person's temperature from the set point, in °C.",
+    "marks": 1,
+    "answer": "1.4 °C above the set point",
+    "working": "38.4 − 37.0 = 1.4 °C."
+   },
+   {
+    "label": "b",
+    "text": "Explain how the body corrects this deviation.",
+    "marks": 2,
+    "answer": "The hypothalamus detects the rise and triggers sweating and vasodilation; heat is lost and the temperature falls back towards 37 °C.",
+    "working": "1 mark: hypothalamus detects the rise and triggers responses; 1 mark: heat loss returns temperature to 37 °C."
+   }
+  ],
+  "check": "abs(38.4-37.0-1.4)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-115",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why negative feedback is important for homeostasis.",
+    "marks": 3,
+    "answer": "It corrects deviations from the set point automatically, keeping conditions within a narrow range; this allows enzymes and cells to work efficiently.",
+    "working": "1 mark: corrects deviations automatically; 1 mark: keeps conditions within a narrow range; 1 mark: enzymes and cells work efficiently."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-116",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a negative feedback loop stops once the factor has returned to its normal level.",
+    "marks": 2,
+    "answer": "No deviation is detected, so the receptors do not send signals to the control centre and the corrective response is switched off.",
+    "working": "1 mark: no deviation detected; 1 mark: corrective response switched off."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-117",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "After heavy sweating, the blood becomes more concentrated. Explain the role of the kidney in restoring the water balance.",
+    "marks": 3,
+    "answer": "More water is reabsorbed from the kidney tubules into the blood, so less water is lost in the urine and the urine becomes more concentrated; the water content and concentration of the blood return to normal.",
+    "working": "1 mark: water reabsorbed into the blood; 1 mark: less urine, more concentrated urine; 1 mark: blood water and concentration return to normal."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-118",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Overheating can occur when the body cannot lose heat effectively in very hot, humid conditions. Explain why this happens and what the consequence is.",
+    "marks": 4,
+    "answer": "Sweat evaporates slowly in humid air, so less energy is lost as heat; body temperature rises above the set point; enzymes may denature and metabolism fails.",
+    "working": "1 mark: sweat evaporates less well in humid air; 1 mark: less heat is transferred away; 1 mark: temperature rises above the set point; 1 mark: enzyme denaturation / failure of cell processes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-119",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "Blood glucose readings (mmol/dm³) taken on four occasions in one day: 4.8, 5.2, 6.0 and 5.0.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean blood glucose concentration from the four readings.",
+    "marks": 2,
+    "answer": "5.25 mmol/dm³",
+    "working": "(4.8 + 5.2 + 6.0 + 5.0) ÷ 4 = 5.25 mmol/dm³. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the mean is a better measure of normal blood glucose than a single reading.",
+    "marks": 2,
+    "answer": "Blood glucose fluctuates after meals and activity; averaging several readings reduces the effect of individual unusual values, giving a more representative value.",
+    "working": "1 mark: glucose fluctuates; 1 mark: averaging reduces the effect of anomalous readings."
+   }
+  ],
+  "check": "abs(sum([4.8,5.2,6.0,5.0])/4-5.25)<1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-120",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a homeostatic control system needs a receptor, a control centre and an effector.",
+    "marks": 3,
+    "answer": "The receptor detects a change from the set point; the control centre (such as the brain or pancreas) compares the value with the set point and sends a signal; the effector (such as a muscle or gland) carries out the corrective response.",
+    "working": "1 mark each for the role of the receptor, the control centre and the effector."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-121",
+  "topic": "Coordination & response",
+  "subtopic": "Homeostasis & negative feedback (general)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student claims: 'Homeostasis means the body's internal conditions never change.' Evaluate this statement.",
+    "marks": 3,
+    "answer": "Incorrect: conditions fluctuate within a narrow range around the set point; feedback mechanisms correct changes so that conditions stay within limits.",
+    "working": "1 mark: incorrect; 1 mark: conditions fluctuate around a set point; 1 mark: feedback corrects changes to keep them within limits."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-122",
+  "topic": "Variation & selection",
+  "subtopic": "Adaptive features (xerophytes, hydrophytes)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which feature of a xerophyte reduces water loss by trapping a layer of humid air next to the leaf surface?\nA large numbers of stomata on the upper surface of the leaf\nB a dense covering of hairs on the leaf surface\nC large air spaces in the stem\nD broad, flat leaves",
+    "marks": 1,
+    "answer": "B a dense covering of hairs on the leaf surface",
+    "working": "Hairs trap a layer of humid air, which lowers the water potential gradient out of the leaf, so less transpiration occurs. Many stomata and broad leaves increase water loss, and large air spaces are a hydrophyte (water plant) adaptation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-123",
+  "topic": "Variation & selection",
+  "subtopic": "Adaptive features (xerophytes, hydrophytes)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which feature is an adaptation of a hydrophyte (water plant)?\nA a thick, waxy cuticle\nB stomata sunk in pits in the leaf surface\nC large air spaces in the leaves and stems that help the plant float\nD a deep, extensive root system",
+    "marks": 1,
+    "answer": "C large air spaces in the leaves and stems that help the plant float",
+    "working": "Air spaces give buoyancy so the leaves float at the surface to receive light. Thick cuticles, sunken stomata and deep roots are xerophyte adaptations."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-124",
+  "topic": "Variation & selection",
+  "subtopic": "Adaptive features (xerophytes, hydrophytes)",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe three adaptations of a xerophyte that help it survive in a dry habitat, and explain how each reduces water loss.",
+    "marks": 3,
+    "answer": "Thick waxy cuticle: reduces evaporation from the leaf surface. Rolled leaves or hairs: trap a layer of humid air, reducing the water potential gradient. Sunken stomata or spines: reduce the air movement and leaf surface area for transpiration. (Accept any three with a correct explanation.)",
+    "working": "1 mark for each adaptation, plus 1 mark for each correct explanation of how it reduces water loss (max 3 marks)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-125",
+  "topic": "Variation & selection",
+  "subtopic": "Adaptive features (xerophytes, hydrophytes)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student compares a cactus with a water lily. Explain why the cactus has spines instead of broad leaves, and why the water lily has large air spaces in its leaves.",
+    "marks": 4,
+    "answer": "Cactus: spines have a small surface area, so less water is lost by transpiration, and they protect the stem, which does the photosynthesis. Water lily: air spaces give buoyancy, so the leaves float flat on the water surface to receive light.",
+    "working": "1 mark: spines reduce surface area and water loss; 1 mark: stem carries out photosynthesis / spines protect; 1 mark: air spaces provide buoyancy; 1 mark: leaves float at the surface to receive light."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-126",
+  "topic": "Variation & selection",
+  "subtopic": "Variation & mutation",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which is an example of continuous variation?\nA the ABO blood group in humans\nB the height of adults in a population\nC the presence or absence of earlobes\nD the colour of flowers in a pea plant",
+    "marks": 1,
+    "answer": "B the height of adults in a population",
+    "working": "Height varies across a range of values with no sharp categories, so it is continuous. Blood group, earlobe presence and flower colour are discrete (distinct categories)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-127",
+  "topic": "Variation & selection",
+  "subtopic": "Variation & mutation",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which statement about mutations is correct?\nA a mutation is a deliberate change made by humans to the genes of an organism\nB a mutation is a random change in the base sequence of DNA that can produce a new allele\nC all mutations are harmful to the organism\nD mutations occur only in body cells, not in gametes",
+    "marks": 1,
+    "answer": "B a mutation is a random change in the base sequence of DNA that can produce a new allele",
+    "working": "Mutations are random changes in DNA and can create new alleles. Many are harmful or neutral (so C is wrong), and mutations can occur in gametes (so D is wrong)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-128",
+  "topic": "Variation & selection",
+  "subtopic": "Variation & mutation",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give two causes of variation between individuals of the same species.",
+    "marks": 2,
+    "answer": "Genetic differences (different alleles); environmental factors such as diet or climate.",
+    "working": "1 mark each for any two valid causes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-129",
+  "topic": "Variation & selection",
+  "subtopic": "Variation & mutation",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Identify which trait is discontinuous and which is continuous.",
+    "marks": 2,
+    "answer": "Petal number is discontinuous; leaf length is continuous.",
+    "working": "1 mark for each correct classification."
+   },
+   {
+    "label": "b",
+    "text": "Explain how you decided which trait is discontinuous.",
+    "marks": 2,
+    "answer": "Petal number falls into distinct categories (5 or 6) with no intermediate values; leaf length shows a range of values with intermediates.",
+    "working": "1 mark: petal number has distinct categories with no intermediate values; 1 mark: leaf length shows a range of values with intermediates."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "stem": "A student counted the petals on 30 flowers of one plant species and measured the leaf length of the same plants. Every flower had either 5 or 6 petals. Leaf lengths ranged from 4 cm to 12 cm, with many different values."
+ },
+ {
+  "id": "0610-h1-130",
+  "topic": "Variation & selection",
+  "subtopic": "Variation & mutation",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain how a mutation can produce a new allele, and why most mutations are harmful or have no effect.",
+    "marks": 4,
+    "answer": "A change in the base sequence of a gene produces a different version of the gene, a new allele. Mutations are random, and a change to a protein that has been well adapted by natural selection is usually harmful or neutral; beneficial mutations are rare.",
+    "working": "1 mark: base sequence of a gene changes; 1 mark: new allele produced; 1 mark: mutations are random; 1 mark: most changes disrupt a well-adapted protein or have no effect, beneficial ones are rare."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-131",
+  "topic": "Variation & selection",
+  "subtopic": "Variation & mutation",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "The rate of a particular gene mutation is 1 in 100 000 gametes.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the expected number of gametes with this mutation out of 500 000 gametes.",
+    "marks": 2,
+    "answer": "5",
+    "working": "500 000 ÷ 100 000 = 5. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "Explain why a mutation in a gamete is more likely to be inherited than a mutation in a body cell.",
+    "marks": 2,
+    "answer": "Gametes take part in sexual reproduction, so the mutated allele can be passed to offspring; mutations in body cells are not passed on to offspring.",
+    "working": "1 mark: gamete allele passed to offspring; 1 mark: body cell mutation is not inherited."
+   }
+  ],
+  "check": "500000/100000==5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-132",
+  "topic": "Variation & selection",
+  "subtopic": "Variation & mutation",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "A student measured the leaf lengths (mm) of identical plant clones grown in two places. Shade: 52, 48, 50, 46, 54. Sun: 62, 58, 60, 64, 56.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mean leaf length in the shade and in the sun.",
+    "marks": 2,
+    "answer": "Shade: 50.0 mm; sun: 60.0 mm",
+    "working": "Shade: (52 + 48 + 50 + 46 + 54) ÷ 5 = 50.0 mm. Sun: (62 + 58 + 60 + 64 + 56) ÷ 5 = 60.0 mm. 1 mark for each correct mean."
+   },
+   {
+    "label": "b",
+    "text": "Explain whether the difference between the means is caused by genetic or environmental variation.",
+    "marks": 3,
+    "answer": "Environmental: the plants are genetically identical clones, so the difference in mean leaf length is caused by the environment (the light intensity), not by genes.",
+    "working": "1 mark: clones have identical genes; 1 mark: difference due to environment (light); 1 mark: small differences within each group are environmental too."
+   }
+  ],
+  "check": "sum([52,48,50,46,54])/5==50.0 and sum([62,58,60,64,56])/5==60.0",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-133",
+  "topic": "Variation & selection",
+  "subtopic": "Variation & mutation",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why mutations are the ultimate source of new alleles, but why sexual reproduction is responsible for much of the variation seen in a population.",
+    "marks": 4,
+    "answer": "Mutations create new alleles (new versions of genes). Sexual reproduction shuffles existing alleles into new combinations through independent assortment and crossing over in meiosis, and random fertilisation, so offspring differ from each other.",
+    "working": "1 mark: mutations create new alleles; 1 mark: sexual reproduction makes new combinations of existing alleles; 1 mark: independent assortment / crossing over in meiosis; 1 mark: random fertilisation gives different offspring."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-134",
+  "topic": "Variation & selection",
+  "subtopic": "Natural selection, evolution & antibiotic resistance",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which is the first condition needed for natural selection to occur in a population?\nA organisms with useful adaptations survive to reproduce\nB there is variation between the individuals in the population\nC the environment changes\nD organisms pass on characteristics they acquired during their lifetime",
+    "marks": 1,
+    "answer": "B there is variation between the individuals in the population",
+    "working": "Natural selection needs variation to act on: the environment selects among the variants, and survivors reproduce. Characteristics acquired in life are not inherited (option D)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-135",
+  "topic": "Variation & selection",
+  "subtopic": "Natural selection, evolution & antibiotic resistance",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Why do antibiotic-resistant bacteria become more common in a hospital where an antibiotic is used often?\nA the antibiotic causes every bacterium to mutate into a resistant form\nB resistant bacteria survive treatment and reproduce, so their alleles increase in the population\nC bacteria learn to resist the antibiotic during their lifetime\nD the antibiotic makes resistant bacteria leave the hospital",
+    "marks": 1,
+    "answer": "B resistant bacteria survive treatment and reproduce, so their alleles increase in the population",
+    "working": "The antibiotic is a selection pressure: susceptible bacteria are killed, while resistant ones survive and reproduce. Mutations are random and not caused by the antibiotic (option A); bacteria do not learn in life (option C)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-136",
+  "topic": "Variation & selection",
+  "subtopic": "Natural selection, evolution & antibiotic resistance",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the main stages of natural selection.",
+    "marks": 4,
+    "answer": "There is variation in the population; some individuals have traits that make them better adapted; these individuals are more likely to survive and reproduce; they pass the advantageous alleles to their offspring; over many generations the allele becomes more common.",
+    "working": "1 mark each for: variation; better-adapted individuals survive and reproduce; advantageous alleles inherited; allele frequency increases over generations."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-137",
+  "topic": "Variation & selection",
+  "subtopic": "Natural selection, evolution & antibiotic resistance",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the process by which organisms best adapted to their environment survive and reproduce.",
+    "marks": 1,
+    "answer": "natural selection",
+    "working": "natural selection"
+   },
+   {
+    "label": "b",
+    "text": "Give two ways in which doctors can reduce the spread of antibiotic-resistant bacteria.",
+    "marks": 2,
+    "answer": "Prescribing antibiotics only when necessary; isolating infected patients; good hand washing and hygiene (any two).",
+    "working": "1 mark each for any two valid methods."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-138",
+  "topic": "Variation & selection",
+  "subtopic": "Natural selection, evolution & antibiotic resistance",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A population of 10 000 bacteria contains 0.1 % with resistance to an antibiotic. The antibiotic kills 99 % of the non-resistant bacteria and none of the resistant bacteria.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of resistant bacteria in the original population.",
+    "marks": 1,
+    "answer": "10",
+    "working": "0.1 % of 10 000 = 10 bacteria."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage of the surviving bacteria that are resistant after treatment, to 1 decimal place.",
+    "marks": 3,
+    "answer": "9.1 %",
+    "working": "Non-resistant: 9 990; 99 % killed leaves 99.9 survivors (9 890.1 killed). Total survivors = 10 + 99.9 = 109.9. Percentage = 10 ÷ 109.9 × 100 = 9.1 %. 1 mark each for the non-resistant survivors, total survivors, and the final percentage."
+   }
+  ],
+  "check": "round(10/109.9*100,1)==9.1 and 10000*0.001==10",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-139",
+  "topic": "Variation & selection",
+  "subtopic": "Natural selection, evolution & antibiotic resistance",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A population of beetles on an island is often blown by strong winds. Wingless beetles survive better than winged beetles. Explain how natural selection changes the frequency of the wingless allele over the generations.",
+    "marks": 4,
+    "answer": "There is variation in wing presence due to alleles. Strong winds are a selection pressure: winged beetles are blown out to sea and die. Wingless beetles survive, reproduce and pass on the wingless allele, so its frequency increases over generations.",
+    "working": "1 mark: variation in wing alleles; 1 mark: wind is a selection pressure; 1 mark: winged beetles die, wingless survive and reproduce; 1 mark: wingless allele increases in frequency over generations."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-140",
+  "topic": "Variation & selection",
+  "subtopic": "Natural selection, evolution & antibiotic resistance",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student says: 'Antibiotic resistance evolves because the antibiotic causes bacteria to mutate to become resistant.' Evaluate this statement.",
+    "marks": 3,
+    "answer": "Incorrect: mutations occur randomly, before and independently of the antibiotic; the antibiotic does not cause the mutation but acts as a selection pressure that kills susceptible bacteria, so resistant bacteria survive and reproduce.",
+    "working": "1 mark: incorrect; 1 mark: mutations are random and occur before exposure; 1 mark: antibiotic is a selection pressure that favours survivors."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-141",
+  "topic": "Variation & selection",
+  "subtopic": "Natural selection, evolution & antibiotic resistance",
+  "paper": "4",
+  "difficulty": "challenge",
+  "stem": "The frequency of an allele for longer beaks in a finch population was 0.20 in generation 1, 0.35 in generation 2 and 0.60 in generation 3.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in the allele frequency from generation 1 to generation 3.",
+    "marks": 2,
+    "answer": "200 %",
+    "working": "(0.60 − 0.20) ÷ 0.20 × 100 = 200 %. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "Explain how natural selection could produce this change.",
+    "marks": 2,
+    "answer": "Birds with the longer-beak allele could reach more food and survive better, so they reproduced more and passed on the allele to more offspring.",
+    "working": "1 mark: longer beaks give survival advantage; 1 mark: birds with the allele reproduce more, so the allele becomes more common."
+   }
+  ],
+  "check": "abs((0.60-0.20)/0.20*100-200)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-142",
+  "topic": "Variation & selection",
+  "subtopic": "Natural selection, evolution & antibiotic resistance",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a population with little genetic variation is more likely to become extinct when the environment changes suddenly.",
+    "marks": 3,
+    "answer": "Few alleles are present, so few individuals may have an allele that helps them survive the new conditions; most of the population may die before breeding, so the population could be lost.",
+    "working": "1 mark: little variation means few useful alleles; 1 mark: few individuals can survive the change; 1 mark: population may not reproduce and be lost."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-143",
+  "topic": "Variation & selection",
+  "subtopic": "Selective breeding",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which of these is an example of selective breeding?\nA dogs bred over many generations for their herding ability\nB bacteria becoming resistant to an antibiotic\nC a random mutation producing white fur in a mouse\nD seeds dispersed by wind to a new habitat",
+    "marks": 1,
+    "answer": "A dogs bred over many generations for their herding ability",
+    "working": "Selective breeding is humans choosing parents with a desired trait and breeding them over generations. The other options are natural processes without human choice."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-144",
+  "topic": "Variation & selection",
+  "subtopic": "Selective breeding",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A farmer wants to increase the milk yield of a herd of cows. Which breeding method is correct?\nA cross the lowest-yielding cow with the highest-yielding bull\nB choose the highest-yielding cows and bulls as parents, and repeat for many generations\nC allow the cows to breed at random with each other\nD feed all the cows the same diet",
+    "marks": 1,
+    "answer": "B choose the highest-yielding cows and bulls as parents, and repeat for many generations",
+    "working": "Selective breeding chooses the parents with the desired inherited trait and repeats the process. Option D changes the environment, not the genes, so it does not select inherited yield."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-145",
+  "topic": "Variation & selection",
+  "subtopic": "Selective breeding",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the stages in selective breeding of a crop plant for higher yield.",
+    "marks": 3,
+    "answer": "Select the plants with the highest yield; cross (breed) them with each other; select the best offspring; repeat over several generations.",
+    "working": "1 mark each for: select high-yield parents; breed them; select best offspring; repeat over generations."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-146",
+  "topic": "Variation & selection",
+  "subtopic": "Selective breeding",
+  "paper": "3",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give one advantage and one disadvantage of selective breeding in crop plants.",
+    "marks": 2,
+    "answer": "Advantage: higher yield or disease resistance. Disadvantage: reduced genetic variation, so the crop is vulnerable to new diseases.",
+    "working": "1 mark each."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-147",
+  "topic": "Variation & selection",
+  "subtopic": "Selective breeding",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why selective breeding of dogs for extreme physical features can cause health problems.",
+    "marks": 3,
+    "answer": "Breeding for extreme features can bring together harmful recessive alleles; inbreeding between closely related dogs increases the chance of inherited disorders; the gene pool has less variation.",
+    "working": "1 mark: harmful recessive alleles brought together; 1 mark: inbreeding increases inherited disorders; 1 mark: loss of genetic variation."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-148",
+  "topic": "Variation & selection",
+  "subtopic": "Selective breeding",
+  "paper": "4",
+  "difficulty": "standard",
+  "stem": "A herd of cows had a mean milk yield of 20 litres per day. The offspring of the highest-yielding cows and bulls had a mean yield of 26 litres per day.",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage increase in mean milk yield.",
+    "marks": 2,
+    "answer": "30 %",
+    "working": "(26 − 20) ÷ 20 × 100 = 30 %. 1 mark method, 1 mark answer."
+   },
+   {
+    "label": "b",
+    "text": "Explain why the offspring should be used as parents in later generations.",
+    "marks": 2,
+    "answer": "Their high yield is an inherited trait, so breeding from them again should increase the average yield in later generations.",
+    "working": "1 mark: high yield is inherited; 1 mark: selecting them again increases the average over generations."
+   }
+  ],
+  "check": "abs((26-20)/20*100-30)<0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-149",
+  "topic": "Variation & selection",
+  "subtopic": "Selective breeding",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why selective breeding of wheat for high yield can make the crop more vulnerable to a new disease.",
+    "marks": 3,
+    "answer": "Selective breeding reduces genetic variation; if the plants share the same alleles, none may be resistant to the new disease, so a whole crop could be lost.",
+    "working": "1 mark: reduced genetic variation; 1 mark: no alleles for resistance; 1 mark: whole crop could be lost."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-150",
+  "topic": "Variation & selection",
+  "subtopic": "Selective breeding",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Compare selective breeding with natural selection. Give two similarities and two differences.",
+    "marks": 4,
+    "answer": "Similarities: both need variation in the population, both change allele frequencies over generations, and both involve individuals with the desired/advantageous traits reproducing. Differences: selective breeding is directed by humans, natural selection is driven by the environment; selective breeding is usually faster.",
+    "working": "1 mark for each of four valid points (two similarities, two differences)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0610-h1-151",
+  "topic": "Variation & selection",
+  "subtopic": "Selective breeding",
+  "paper": "6",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe an investigation to show that selective breeding can increase the mean length of runner bean pods.",
+    "marks": 6,
+    "answer": "Measure the pods of the starting plants and calculate the mean length; select the plants with the longest pods as parents and cross them; grow the offspring under the same conditions and select the longest pods to breed the next generation; repeat for several generations and compare the mean pod length each time; keep water, light and temperature constant and use a large sample.",
+    "working": "1 mark each for: measuring and calculating the mean for the starting plants; selecting the longest-podded parents; breeding from them; selecting the best offspring; repeating over generations and comparing means; controlling variables and using a large sample."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]
