@@ -24546,5 +24546,3068 @@
   ],
   "author": "HomiLabs",
   "reviewed": false
+ },
+ {
+  "id": "0620-h4-001",
+  "topic": "Stoichiometry",
+  "subtopic": "Formulae & equations (incl. ionic)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which formula is correct for sodium phosphate?\nA NaPO₄\nB Na₂PO₄\nC Na₃PO₄\nD Na₃(PO₄)₂",
+    "marks": 1,
+    "answer": "C Na₃PO₄",
+    "working": "Phosphate is PO₄³⁻, so three Na⁺ ions (charge +1 each) are needed to balance it: Na₃PO₄. A and B do not balance the charges; D has three Na⁺ for two phosphate ions, which is too many negative charges."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-002",
+  "topic": "Stoichiometry",
+  "subtopic": "Formulae & equations (incl. ionic)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Dilute nitric acid is added to potassium carbonate solution and bubbles of a gas form. Which is the correct ionic equation for this reaction?\nA CO₃²⁻(aq) + 2H⁺(aq) → H₂O(l) + CO₂(g)\nB K⁺(aq) + NO₃⁻(aq) → KNO₃(aq)\nC 2K⁺(aq) + CO₃²⁻(aq) → K₂CO₃(s)\nD CO₃²⁻(aq) + H⁺(aq) → HCO₃⁻(aq)",
+    "marks": 1,
+    "answer": "A CO₃²⁻(aq) + 2H⁺(aq) → H₂O(l) + CO₂(g)",
+    "working": "Only the carbonate and hydrogen ions take part; K⁺ and NO₃⁻ are spectators, so B is not an ionic equation for the reaction. C describes a solid that does not form. D shows only the first step and gives no gas."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-003",
+  "topic": "Stoichiometry",
+  "subtopic": "Formulae & equations (incl. ionic)",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Balance the equation for the complete combustion of propane:\nC₃H₈ + O₂ → CO₂ + H₂O",
+    "marks": 1,
+    "answer": "C₃H₈ + 5O₂ → 3CO₂ + 4H₂O",
+    "working": "3 C on the left gives 3CO₂; 8 H gives 4H₂O; the 10 oxygen atoms on the right (6 + 4) need 5O₂ on the left."
+   },
+   {
+    "label": "b",
+    "text": "Balance the equation for the reaction of aluminium with hydrochloric acid:\nAl + HCl → AlCl₃ + H₂",
+    "marks": 1,
+    "answer": "2Al + 6HCl → 2AlCl₃ + 3H₂",
+    "working": "2 Al gives 2AlCl₃, which needs 6 Cl, so 6HCl; 6 H gives 3H₂."
+   }
+  ],
+  "check": "3*1 == 3 and 8 == 4*2 and 5*2 == 3*2 + 4*1 and 2 == 2 and 6 == 2*3 and 6 == 3*2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-004",
+  "topic": "Stoichiometry",
+  "subtopic": "Formulae & equations (incl. ionic)",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student mixes aqueous barium chloride with aqueous sodium sulfate and a white precipitate forms. Write the balanced symbol equation, including state symbols.",
+    "marks": 2,
+    "answer": "BaCl₂(aq) + Na₂SO₄(aq) → BaSO₄(s) + 2NaCl(aq)",
+    "working": "1 mark for all formulae correct; 1 mark for balancing and the state symbols (BaSO₄ is the solid precipitate; NaCl stays dissolved)."
+   },
+   {
+    "label": "b",
+    "text": "Write the ionic equation for the formation of the precipitate.",
+    "marks": 2,
+    "answer": "Ba²⁺(aq) + SO₄²⁻(aq) → BaSO₄(s)",
+    "working": "1 mark for the two correct ions with charges; 1 mark for BaSO₄(s) with state symbols and no spectator ions."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-005",
+  "topic": "Stoichiometry",
+  "subtopic": "Formulae & equations (incl. ionic)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Write the formula of potassium dichromate(VI).",
+    "marks": 1,
+    "answer": "K₂Cr₂O₇",
+    "working": "Potassium is K⁺; dichromate(VI) is Cr₂O₇²⁻; two K⁺ ions balance the 2− charge."
+   },
+   {
+    "label": "b",
+    "text": "Write the balanced symbol equation, with state symbols, for sodium hydroxide reacting with dilute sulfuric acid.",
+    "marks": 2,
+    "answer": "2NaOH(aq) + H₂SO₄(aq) → Na₂SO₄(aq) + 2H₂O(l)",
+    "working": "1 mark for correct formulae; 1 mark for balancing (2NaOH) and state symbols (water is a liquid)."
+   },
+   {
+    "label": "c",
+    "text": "Write the formulae of the two spectator ions in the reaction in (b).",
+    "marks": 1,
+    "answer": "Na⁺ and SO₄²⁻",
+    "working": "Na⁺ and SO₄²⁻ appear unchanged on both sides, so they are spectators; H⁺ and OH⁻ are the ions that react."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-006",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "How many moles are in 18 g of water, H₂O? [Ar: H = 1, O = 16]\nA 0.5 mol\nB 1.0 mol\nC 2.0 mol\nD 18 mol",
+    "marks": 1,
+    "answer": "B 1.0 mol",
+    "working": "Mr = 2(1) + 16 = 18, so moles = mass ÷ Mr = 18 ÷ 18 = 1.0 mol. A uses Mr = 36; C is not a valid Mr; D gives the mass, not the number of moles."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "abs(18/(2*1+16) - 1.0) < 1e-9"
+ },
+ {
+  "id": "0620-h4-007",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "What mass of calcium carbonate contains 0.50 mol of CaCO₃? [Ar: C = 12, O = 16, Ca = 40]\nA 25 g\nB 50 g\nC 100 g\nD 200 g",
+    "marks": 1,
+    "answer": "B 50 g",
+    "working": "Mr = 40 + 12 + (3 × 16) = 100; mass = 0.50 × 100 = 50 g. A halves the answer; C is the mass of 1 mol; D doubles the answer."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "abs(0.50*(40+12+3*16) - 50) < 1e-9"
+ },
+ {
+  "id": "0620-h4-008",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of moles of zinc in 13.0 g of zinc. [Ar: Zn = 65]",
+    "marks": 2,
+    "answer": "0.200 mol",
+    "working": "moles = mass ÷ Ar = 13.0 ÷ 65 = 0.200 mol. 1 mark for the method, 1 mark for the answer."
+   }
+  ],
+  "check": "abs(13.0/65 - 0.2) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-009",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of 0.40 mol of sodium chloride, NaCl. [Ar: Na = 23, Cl = 35.5]",
+    "marks": 2,
+    "answer": "23.4 g",
+    "working": "Mr = 23 + 35.5 = 58.5; mass = 0.40 × 58.5 = 23.4 g."
+   }
+  ],
+  "check": "abs(0.40*(23+35.5) - 23.4) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-010",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Magnesium burns in oxygen: 2Mg + O₂ → 2MgO. Calculate the mass of magnesium oxide formed when 4.8 g of magnesium burns completely. [Ar: Mg = 24, O = 16]",
+    "marks": 3,
+    "answer": "8.0 g",
+    "working": "moles Mg = 4.8 ÷ 24 = 0.20 (1 mark); 2Mg gives 2MgO, so 0.20 mol MgO (1 mark); Mr MgO = 40, mass = 0.20 × 40 = 8.0 g (1 mark)."
+   }
+  ],
+  "check": "abs(4.8/24*40 - 8.0) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-011",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A sample of 10.0 g of calcium carbonate is heated strongly: CaCO₃ → CaO + CO₂. Calculate the mass of carbon dioxide produced. [Ar: C = 12, O = 16, Ca = 40]",
+    "marks": 2,
+    "answer": "4.4 g",
+    "working": "moles CaCO₃ = 10.0 ÷ 100 = 0.100; 1 mol CO₂ per mol CaCO₃, so 0.100 mol CO₂; mass = 0.100 × 44 = 4.4 g."
+   }
+  ],
+  "check": "abs(10.0/100*44 - 4.4) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-012",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Iron reacts with sulfur: Fe + S → FeS. Calculate the mass of sulfur needed to react exactly with 2.80 g of iron. [Ar: Fe = 56, S = 32]",
+    "marks": 2,
+    "answer": "1.60 g",
+    "working": "moles Fe = 2.80 ÷ 56 = 0.0500; 1 mol S per mol Fe, so 0.0500 mol S; mass = 0.0500 × 32 = 1.60 g."
+   }
+  ],
+  "check": "abs(2.80/56*32 - 1.60) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-013",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Aluminium reacts with chlorine: 2Al + 3Cl₂ → 2AlCl₃. A reaction vessel contains 2.70 g of aluminium and 7.10 g of chlorine. Show by calculation which reactant is in excess. [Ar: Al = 27, Cl = 35.5]",
+    "marks": 3,
+    "answer": "Aluminium is in excess; chlorine is the limiting reactant.",
+    "working": "moles Al = 2.70 ÷ 27 = 0.100; moles Cl₂ = 7.10 ÷ 71 = 0.100 (1 mark). 2 mol Al need 3 mol Cl₂, so 0.100 mol Al needs 0.150 mol Cl₂ (1 mark). Only 0.100 mol Cl₂ is present, so chlorine is limiting and aluminium is in excess (1 mark)."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mass of aluminium chloride formed.",
+    "marks": 3,
+    "answer": "8.90 g",
+    "working": "Chlorine is limiting: moles AlCl₃ = 0.100 × 2/3 = 0.0667 (1 mark); Mr AlCl₃ = 27 + 3(35.5) = 133.5 (1 mark); mass = 0.0667 × 133.5 = 8.90 g (1 mark)."
+   }
+  ],
+  "check": "abs(7.10/71*2/3*(27+3*35.5) - 8.90) < 0.01",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-014",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Ammonium chloride reacts with calcium hydroxide: 2NH₄Cl + Ca(OH)₂ → CaCl₂ + 2NH₃ + 2H₂O. A student uses 5.35 g of NH₄Cl. Calculate the theoretical mass of ammonia. [Ar: N = 14, H = 1, Cl = 35.5]",
+    "marks": 2,
+    "answer": "1.70 g",
+    "working": "Mr NH₄Cl = 53.5, so moles = 5.35 ÷ 53.5 = 0.100; 2 NH₄Cl give 2 NH₃, so 0.100 mol NH₃; mass = 0.100 × 17 = 1.70 g."
+   },
+   {
+    "label": "b",
+    "text": "The student collects 1.20 g of ammonia. Calculate the percentage yield.",
+    "marks": 2,
+    "answer": "70.6%",
+    "working": "percentage yield = actual ÷ theoretical × 100 = 1.20 ÷ 1.70 × 100 = 70.6%."
+   }
+  ],
+  "check": "abs(5.35/53.5*17 - 1.70) < 1e-9 and abs(1.20/1.70*100 - 70.6) < 0.05",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-015",
+  "topic": "Stoichiometry",
+  "subtopic": "Moles & reacting masses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Hydrogen burns in oxygen: 2H₂ + O₂ → 2H₂O. A mixture of 4.0 g of hydrogen and 20.0 g of oxygen is ignited. Show by calculation which gas is the limiting reactant. [Ar: H = 1, O = 16]",
+    "marks": 2,
+    "answer": "Oxygen is limiting.",
+    "working": "moles H₂ = 4.0 ÷ 2 = 2.0; moles O₂ = 20.0 ÷ 32 = 0.625. 2.0 mol H₂ would need 1.0 mol O₂, but only 0.625 mol is present, so oxygen is limiting."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mass of water formed.",
+    "marks": 2,
+    "answer": "22.5 g",
+    "working": "0.625 mol O₂ gives 2 × 0.625 = 1.25 mol H₂O; mass = 1.25 × 18 = 22.5 g."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the mass of hydrogen left over.",
+    "marks": 2,
+    "answer": "1.5 g",
+    "working": "H₂ used = 2 × 0.625 = 1.25 mol; H₂ left = 2.0 − 1.25 = 0.75 mol; mass = 0.75 × 2 = 1.5 g."
+   }
+  ],
+  "check": "abs(20/32*2*18 - 22.5) < 1e-9 and abs((4/2 - 20/32*2)*2 - 1.5) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-016",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A compound contains 52.2% carbon, 13.0% hydrogen and 34.8% oxygen by mass. What is its empirical formula? [Ar: C = 12, H = 1, O = 16]\nA C₂H₆O\nB CH₃O\nC C₂H₃O\nD C₂H₅O",
+    "marks": 1,
+    "answer": "A C₂H₆O",
+    "working": "C : H : O = 52.2/12 : 13.0/1 : 34.8/16 = 4.35 : 13.0 : 2.175; dividing by 2.175 gives 2 : 6 : 1. B has C : O = 1 : 1, which is wrong; C₂H₃O has H : C = 1.5 : 1, which is wrong; C₂H₅O has H : C = 2.5 : 1, which is wrong."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-017",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hydrocarbon has the empirical formula CH₂ and a relative molecular mass of 56. What is its molecular formula? [Ar: C = 12, H = 1]\nA C₂H₄\nB C₄H₈\nC C₃H₆\nD C₄H₁₂",
+    "marks": 1,
+    "answer": "B C₄H₈",
+    "working": "Mr of CH₂ = 14; 56 ÷ 14 = 4, so the molecular formula is C₄H₈. C₃H₆ has Mr 42; D is not a CH₂ multiple (its H:C ratio is not 2:1)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "56/(12+2) == 4"
+ },
+ {
+  "id": "0620-h4-018",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A compound contains 11.2 g of iron and 4.8 g of oxygen. Calculate its empirical formula. [Ar: Fe = 56, O = 16]",
+    "marks": 3,
+    "answer": "Fe₂O₃",
+    "working": "moles Fe = 11.2 ÷ 56 = 0.200; moles O = 4.8 ÷ 16 = 0.300 (1 mark); ratio Fe : O = 0.200 : 0.300 = 2 : 3 (1 mark); empirical formula Fe₂O₃ (1 mark)."
+   }
+  ],
+  "check": "abs((11.2/56)/(4.8/16) - 2/3) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-019",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The empirical formula of a compound is CH₂O and its relative molecular mass is 180. Calculate its molecular formula. [Ar: C = 12, H = 1, O = 16]",
+    "marks": 2,
+    "answer": "C₆H₁₂O₆",
+    "working": "Mr of CH₂O = 30; 180 ÷ 30 = 6, so the molecular formula is C₆H₁₂O₆."
+   }
+  ],
+  "check": "180/(12+2+16) == 6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-020",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hydrocarbon contains 80.0% carbon and 20.0% hydrogen by mass. Determine its empirical formula. [Ar: C = 12, H = 1]",
+    "marks": 2,
+    "answer": "CH₃",
+    "working": "C : H = 80.0/12 : 20.0/1 = 6.67 : 20.0 = 1 : 3, so the empirical formula is CH₃ (1 mark for the mole ratio, 1 mark for the formula)."
+   },
+   {
+    "label": "b",
+    "text": "Its relative molecular mass is 30. Determine its molecular formula.",
+    "marks": 2,
+    "answer": "C₂H₆",
+    "working": "Mr of CH₃ = 15; 30 ÷ 15 = 2, so the molecular formula is C₂H₆ (ethane)."
+   }
+  ],
+  "check": "abs((80.0/12)/(20.0/1) - 1/3) < 1e-9 and 30/15 == 2",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-021",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hydrated salt, CuSO₄·xH₂O, has a mass of 2.50 g. After heating, 1.60 g of anhydrous copper(II) sulfate remains. Calculate x. [Ar: Cu = 63.5, S = 32, O = 16, H = 1]",
+    "marks": 3,
+    "answer": "x = 5",
+    "working": "mass of water lost = 2.50 − 1.60 = 0.90 g; moles H₂O = 0.90 ÷ 18 = 0.0500 (1 mark); moles CuSO₄ = 1.60 ÷ 159.5 = 0.0100 (1 mark); ratio 0.0500 : 0.0100 = 5 : 1, so x = 5 (1 mark)."
+   }
+  ],
+  "check": "round(((2.50-1.60)/18)/(1.60/159.5)) == 5",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-022",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A 0.460 g sample of a compound containing only C, H and O is burned completely. It forms 0.880 g of carbon dioxide and 0.540 g of water. Calculate the empirical formula. [Ar: C = 12, H = 1, O = 16]",
+    "marks": 4,
+    "answer": "C₂H₆O",
+    "working": "mass C = 0.880 × 12/44 = 0.240 g → 0.0200 mol; mass H = 0.540 × 2/18 = 0.0600 g → 0.0600 mol (1 mark each); mass O = 0.460 − 0.240 − 0.060 = 0.160 g → 0.0100 mol (1 mark); ratio C : H : O = 2 : 6 : 1 (1 mark)."
+   }
+  ],
+  "check": "round(0.24/12/0.01) == 2 and round(0.06/0.01) == 6 and round(0.16/16/0.01) == 1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-023",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A chromium oxide contains 68.4% chromium by mass. Calculate its empirical formula. [Ar: Cr = 52, O = 16]",
+    "marks": 3,
+    "answer": "Cr₂O₃",
+    "working": "Cr : O = 68.4/52 : 31.6/16 = 1.315 : 1.975 = 2 : 3 (1 mark for each mole value, 1 mark for the ratio); empirical formula Cr₂O₃."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mass of chromium in 76.0 g of this oxide.",
+    "marks": 2,
+    "answer": "52.0 g",
+    "working": "Mr Cr₂O₃ = 152; chromium is 104/152 = 68.4% of the mass; 76.0 × 0.684 = 52.0 g."
+   }
+  ],
+  "check": "abs((68.4/52)/(31.6/16) - 2/3) < 0.005 and abs(76.0*68.4/100 - 52.0) < 0.1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-024",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A 13.9 g sample of hydrated iron(II) sulfate, FeSO₄·xH₂O, is heated until its mass stops falling. The anhydrous solid has a mass of 7.60 g. Calculate x. [Ar: Fe = 56, S = 32, O = 16, H = 1]",
+    "marks": 3,
+    "answer": "x = 7",
+    "working": "anhydrous FeSO₄ Mr = 152, so moles = 7.60 ÷ 152 = 0.0500; water lost = 13.9 − 7.6 = 6.30 g, so moles H₂O = 6.30 ÷ 18 = 0.350 (1 mark each for the two moles values); ratio 0.350 : 0.0500 = 7 : 1, so x = 7 (1 mark)."
+   }
+  ],
+  "check": "round(((13.9-7.6)/18)/(7.6/152)) == 7",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-025",
+  "topic": "Stoichiometry",
+  "subtopic": "Empirical & molecular formulae",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hydrocarbon contains 92.3% carbon and 7.7% hydrogen by mass. Its relative molecular mass is 78. Determine its molecular formula. [Ar: C = 12, H = 1]",
+    "marks": 3,
+    "answer": "C₆H₆",
+    "working": "C : H = 92.3/12 : 7.7/1 = 7.69 : 7.7 = 1 : 1, so the empirical formula is CH (Mr 13); 78 ÷ 13 = 6, so the molecular formula is C₆H₆."
+   }
+  ],
+  "check": "round((92.3/12)/(7.7/1)) == 1 and 78/13 == 6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-026",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A solution contains 0.50 mol of solute in 250 cm³ of solution. What is its concentration in mol/dm³?\nA 0.50\nB 2.0\nC 0.125\nD 125",
+    "marks": 1,
+    "answer": "B 2.0",
+    "working": "250 cm³ = 0.250 dm³; concentration = 0.50 ÷ 0.250 = 2.0 mol/dm³. A forgets to convert the volume; C multiplies by 0.25; D multiplies by the volume in cm³."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "abs(0.50/(250/1000) - 2.0) < 1e-9"
+ },
+ {
+  "id": "0620-h4-027",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "25.0 cm³ of 0.100 mol/dm³ sodium hydroxide exactly neutralises 20.0 cm³ of hydrochloric acid. What is the concentration of the hydrochloric acid? (NaOH + HCl → NaCl + H₂O)\nA 0.0500 mol/dm³\nB 0.125 mol/dm³\nC 0.200 mol/dm³\nD 0.0800 mol/dm³",
+    "marks": 1,
+    "answer": "B 0.125 mol/dm³",
+    "working": "moles NaOH = 0.100 × 0.0250 = 0.00250; the reaction is 1 : 1, so moles HCl = 0.00250; concentration = 0.00250 ÷ 0.0200 = 0.125 mol/dm³. A, C and D do not come from the correct mole and volume values."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "abs(0.100*0.0250/0.0200 - 0.125) < 1e-9"
+ },
+ {
+  "id": "0620-h4-028",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of sodium hydroxide, NaOH, needed to make 500 cm³ of 0.200 mol/dm³ solution. [Ar: Na = 23, O = 16, H = 1]",
+    "marks": 2,
+    "answer": "4.0 g",
+    "working": "moles = 0.200 × 0.500 = 0.100 mol; Mr NaOH = 40; mass = 0.100 × 40 = 4.0 g."
+   }
+  ],
+  "check": "abs(0.2*0.5*40 - 4.0) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-029",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A solution is made by dissolving 3.42 g of sucrose in water and making the volume up to 250 cm³. Calculate its concentration in g/dm³. Give your answer to 3 significant figures.",
+    "marks": 2,
+    "answer": "13.7 g/dm³",
+    "working": "250 cm³ = 0.250 dm³; concentration = 3.42 ÷ 0.250 = 13.68, which is 13.7 g/dm³ to 3 significant figures."
+   }
+  ],
+  "check": "abs(3.42/0.25 - 13.7) < 0.05",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-030",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "25.0 cm³ of sodium carbonate solution reacts exactly with 22.50 cm³ of 0.100 mol/dm³ hydrochloric acid. Calculate the moles of HCl used.",
+    "marks": 1,
+    "answer": "0.00225 mol",
+    "working": "moles = 0.100 × 0.02250 = 0.00225 mol."
+   },
+   {
+    "label": "b",
+    "text": "Na₂CO₃(aq) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g). Calculate the moles of sodium carbonate in the 25.0 cm³ sample.",
+    "marks": 1,
+    "answer": "0.001125 mol",
+    "working": "2 mol HCl react with 1 mol Na₂CO₃, so moles Na₂CO₃ = 0.00225 ÷ 2 = 0.001125 mol."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the concentration of the sodium carbonate solution in mol/dm³.",
+    "marks": 2,
+    "answer": "0.0450 mol/dm³",
+    "working": "concentration = 0.001125 ÷ 0.0250 = 0.0450 mol/dm³ (1 mark for the volume in dm³, 1 mark for the answer)."
+   }
+  ],
+  "check": "abs(0.100*22.50/1000 - 0.00225) < 1e-9 and abs(0.00225/2 - 0.001125) < 1e-9 and abs(0.001125/0.0250 - 0.0450) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-031",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the volume, in cm³, of 0.250 mol/dm³ sulfuric acid needed to neutralise exactly 0.80 g of sodium hydroxide. (H₂SO₄ + 2NaOH → Na₂SO₄ + 2H₂O) [Ar: Na = 23, O = 16, H = 1]",
+    "marks": 3,
+    "answer": "40 cm³",
+    "working": "moles NaOH = 0.80 ÷ 40 = 0.0200 (1 mark); moles H₂SO₄ = 0.0200 ÷ 2 = 0.0100 (1 mark); volume = 0.0100 ÷ 0.250 = 0.0400 dm³ = 40 cm³ (1 mark)."
+   }
+  ],
+  "check": "abs((0.8/40/2)/0.25*1000 - 40) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-032",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A 10.0 cm³ sample of vinegar (ethanoic acid, CH₃COOH) is titrated with 0.100 mol/dm³ sodium hydroxide. The titre is 24.0 cm³. CH₃COOH + NaOH → CH₃COONa + H₂O. Calculate the moles of NaOH used.",
+    "marks": 1,
+    "answer": "0.00240 mol",
+    "working": "moles = 0.100 × 0.0240 = 0.00240 mol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the moles of ethanoic acid in the 10.0 cm³ sample.",
+    "marks": 1,
+    "answer": "0.00240 mol",
+    "working": "the reaction is 1 : 1, so moles CH₃COOH = 0.00240 mol."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the concentration of the ethanoic acid in mol/dm³.",
+    "marks": 1,
+    "answer": "0.240 mol/dm³",
+    "working": "concentration = 0.00240 ÷ 0.0100 = 0.240 mol/dm³."
+   },
+   {
+    "label": "d",
+    "text": "Calculate the concentration in g/dm³. [Mr CH₃COOH = 60]",
+    "marks": 1,
+    "answer": "14.4 g/dm³",
+    "working": "mass per dm³ = 0.240 × 60 = 14.4 g/dm³."
+   }
+  ],
+  "check": "abs(0.1*24/1000 - 0.0024) < 1e-9 and abs(0.0024/0.010 - 0.240) < 1e-9 and abs(0.240*60 - 14.4) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-033",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student titrates 25.0 cm³ of barium hydroxide solution with 0.100 mol/dm³ hydrochloric acid. Titres (cm³): 22.40, 22.10, 22.20. Concordant results are those within 0.15 cm³ of each other. Calculate the mean titre using only concordant results.",
+    "marks": 2,
+    "answer": "22.15 cm³",
+    "working": "22.40 differs from 22.20 by 0.20 cm³, so it is not concordant and is rejected (1 mark); mean of 22.10 and 22.20 = 22.15 cm³ (1 mark)."
+   },
+   {
+    "label": "b",
+    "text": "Ba(OH)₂(aq) + 2HCl(aq) → BaCl₂(aq) + 2H₂O(l). Calculate the concentration of the barium hydroxide solution in mol/dm³.",
+    "marks": 3,
+    "answer": "0.0443 mol/dm³",
+    "working": "moles HCl = 0.100 × 0.02215 = 0.002215 (1 mark); moles Ba(OH)₂ = 0.002215 ÷ 2 = 0.0011075 (1 mark); concentration = 0.0011075 ÷ 0.0250 = 0.0443 mol/dm³ (1 mark)."
+   }
+  ],
+  "check": "abs((22.10+22.20)/2 - 22.15) < 1e-9 and abs(0.100*0.02215/2/0.0250 - 0.0443) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-034",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "2.00 g of anhydrous sodium carbonate, Na₂CO₃, is dissolved and made up to 250 cm³ in a volumetric flask. Calculate the concentration in mol/dm³. [Ar: Na = 23, C = 12, O = 16]",
+    "marks": 2,
+    "answer": "0.0755 mol/dm³",
+    "working": "Mr Na₂CO₃ = 106; moles = 2.00 ÷ 106 = 0.01887; concentration = 0.01887 ÷ 0.250 = 0.0755 mol/dm³."
+   }
+  ],
+  "check": "abs(2.00/106/0.250 - 0.0755) < 0.00005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-035",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student needs 250 cm³ of sodium carbonate solution of concentration 0.100 mol/dm³ made from solid anhydrous sodium carbonate. (i) Calculate the mass of solid needed. [Ar: Na = 23, C = 12, O = 16]",
+    "marks": 2,
+    "answer": "2.65 g",
+    "working": "moles = 0.100 × 0.250 = 0.0250 mol; mass = 0.0250 × 106 = 2.65 g."
+   },
+   {
+    "label": "b",
+    "text": "Describe the method, including how the solution is made up accurately to the required volume.",
+    "marks": 4,
+    "answer": "Weigh 2.65 g accurately; dissolve it in a beaker with a little distilled water; pour into a 250 cm³ volumetric flask through a funnel and rinse the beaker and funnel into the flask; add distilled water to the graduation mark (bottom of the meniscus), using a dropper near the mark; stopper and invert to mix.",
+    "working": "1 mark each for: weighing the solid accurately; dissolving it in part of the water and transferring the whole amount (rinsing); making up to the graduation mark with a dropper so the bottom of the meniscus sits on the line; stoppering and inverting to mix."
+   }
+  ],
+  "check": "abs(0.1*0.25*106 - 2.65) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-036",
+  "topic": "Stoichiometry",
+  "subtopic": "Concentration & titration calculations",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "How many moles of potassium iodide are in 35.0 cm³ of 0.400 mol/dm³ solution?",
+    "marks": 2,
+    "answer": "0.0140 mol",
+    "working": "moles = concentration × volume in dm³ = 0.400 × 0.0350 = 0.0140 mol."
+   }
+  ],
+  "check": "abs(0.4*35/1000 - 0.014) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-037",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "What is the relative formula mass of calcium hydroxide, Ca(OH)₂? [Ar: H = 1, O = 16, Ca = 40]\nA 42\nB 56\nC 74\nD 57",
+    "marks": 1,
+    "answer": "C 74",
+    "working": "Mr = 40 + 2 × (16 + 1) = 74. A counts only the two hydrogen atoms (40 + 2 = 42); B counts only one oxygen atom (40 + 16 = 56); D counts only one OH group (40 + 17 = 57)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "check": "40+2*(16+1) == 74"
+ },
+ {
+  "id": "0620-h4-038",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which compound has the highest percentage by mass of nitrogen? [Ar: H = 1, N = 14, O = 16]\nA ammonia, NH₃\nB nitrogen dioxide, NO₂\nC dinitrogen oxide, N₂O\nD ammonium nitrate, NH₄NO₃",
+    "marks": 1,
+    "answer": "A ammonia, NH₃",
+    "working": "NH₃: 14/17 = 82.4%; NO₂: 14/46 = 30.4%; N₂O: 28/44 = 63.6%; NH₄NO₃: 28/80 = 35.0%. Ammonia has the highest percentage."
+   }
+  ],
+  "check": "round(14/17*100, 1) == 82.4 and round(28/80*100, 1) == 35.0 and round(14/46*100, 1) == 30.4",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-039",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the relative formula mass of sodium carbonate, Na₂CO₃. [Ar: Na = 23, C = 12, O = 16]",
+    "marks": 1,
+    "answer": "106",
+    "working": "2(23) + 12 + 3(16) = 46 + 12 + 48 = 106."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the relative formula mass of potassium dichromate(VI), K₂Cr₂O₇. [Ar: K = 39, Cr = 52, O = 16]",
+    "marks": 1,
+    "answer": "294",
+    "working": "2(39) + 2(52) + 7(16) = 78 + 104 + 112 = 294."
+   }
+  ],
+  "check": "2*23 + 12 + 3*16 == 106 and 2*39 + 2*52 + 7*16 == 294",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-040",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage by mass of nitrogen in ammonium nitrate, NH₄NO₃. [Ar: H = 1, N = 14, O = 16]",
+    "marks": 2,
+    "answer": "35.0%",
+    "working": "Mr NH₄NO₃ = 80; mass of N = 2 × 14 = 28; percentage = 28 ÷ 80 × 100 = 35.0%."
+   }
+  ],
+  "check": "abs(28/80*100 - 35.0) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-041",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage by mass of water in hydrated copper(II) sulfate, CuSO₄·5H₂O. [Ar: Cu = 63.5, S = 32, O = 16, H = 1]",
+    "marks": 2,
+    "answer": "36.1%",
+    "working": "Mr CuSO₄·5H₂O = 159.5 + 90 = 249.5; mass of water = 5 × 18 = 90; percentage = 90 ÷ 249.5 × 100 = 36.1%."
+   }
+  ],
+  "check": "abs(90/249.5*100 - 36.1) < 0.05",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-042",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage by mass of aluminium in aluminium oxide, Al₂O₃. [Ar: Al = 27, O = 16]",
+    "marks": 2,
+    "answer": "52.9%",
+    "working": "Mr Al₂O₃ = 102; mass of Al = 54; percentage = 54 ÷ 102 × 100 = 52.9%."
+   }
+  ],
+  "check": "abs(54/102*100 - 52.9) < 0.05",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-043",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the percentage by mass of nitrogen in ammonium sulfate, (NH₄)₂SO₄. [Ar: H = 1, N = 14, O = 16, S = 32]",
+    "marks": 2,
+    "answer": "21.2%",
+    "working": "Mr (NH₄)₂SO₄ = 2(14 + 4) + 32 + 4(16) = 132; mass of N = 28; percentage = 28 ÷ 132 × 100 = 21.2%."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the percentage by mass of nitrogen in calcium nitrate, Ca(NO₃)₂. [Ar: Ca = 40, N = 14, O = 16]",
+    "marks": 2,
+    "answer": "17.1%",
+    "working": "Mr Ca(NO₃)₂ = 40 + 2(14 + 48) = 164; mass of N = 28; percentage = 28 ÷ 164 × 100 = 17.1%."
+   },
+   {
+    "label": "c",
+    "text": "State which fertiliser supplies more nitrogen per kilogram of compound.",
+    "marks": 1,
+    "answer": "Ammonium sulfate",
+    "working": "21.2% is greater than 17.1%, so ammonium sulfate gives more nitrogen per kilogram."
+   }
+  ],
+  "check": "abs(28/132*100 - 21.2) < 0.05 and abs(28/164*100 - 17.1) < 0.05",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-044",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of sulfur in 10.0 g of sodium sulfate, Na₂SO₄. [Ar: Na = 23, S = 32, O = 16]",
+    "marks": 2,
+    "answer": "2.25 g",
+    "working": "Mr Na₂SO₄ = 142; mass of S = 10.0 × 32/142 = 2.25 g."
+   }
+  ],
+  "check": "abs(10*32/142 - 2.25) < 0.005",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-045",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Boron has two isotopes: boron-10 (20% abundance) and boron-11 (80% abundance). Calculate the relative atomic mass of boron to 1 decimal place.",
+    "marks": 2,
+    "answer": "10.8",
+    "working": "Ar = (20 × 10 + 80 × 11) ÷ 100 = (200 + 880) ÷ 100 = 10.8."
+   }
+  ],
+  "check": "abs(0.2*10 + 0.8*11 - 10.8) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-046",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A gas has a mass of 2.20 g and occupies 0.600 dm³ at room temperature and pressure (molar volume 24.0 dm³/mol). Calculate its relative molecular mass.",
+    "marks": 3,
+    "answer": "88",
+    "working": "moles = 0.600 ÷ 24.0 = 0.0250 (1 mark); Mr = mass ÷ moles = 2.20 ÷ 0.0250 (1 mark); Mr = 88 (1 mark)."
+   }
+  ],
+  "check": "abs(2.2/(0.6/24.0) - 88) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-047",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A metal M forms an oxide with the formula MO. 2.00 g of M reacts completely with oxygen to form 2.50 g of MO. Calculate the relative atomic mass of M. [Ar: O = 16]",
+    "marks": 3,
+    "answer": "Ar = 64",
+    "working": "mass of O = 2.50 − 2.00 = 0.50 g, so moles O = 0.50 ÷ 16 = 0.03125 (1 mark); M : O = 1 : 1, so moles M = 0.03125 (1 mark); Ar = 2.00 ÷ 0.03125 = 64 (1 mark)."
+   }
+  ],
+  "check": "abs(2.00/(0.50/16) - 64) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-048",
+  "topic": "Stoichiometry",
+  "subtopic": "Relative masses",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the relative formula mass of hydrated magnesium nitrate, Mg(NO₃)₂·6H₂O. [Ar: Mg = 24, N = 14, O = 16, H = 1]",
+    "marks": 2,
+    "answer": "256",
+    "working": "Mr Mg(NO₃)₂ = 24 + 2(14 + 48) = 148; 6H₂O = 6 × 18 = 108; total = 148 + 108 = 256."
+   }
+  ],
+  "check": "24 + 2*(14+3*16) + 6*(2+16) == 256",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-049",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the volume, in dm³, occupied by 3.0 g of hydrogen gas at room temperature and pressure (r.t.p.). [Ar: H = 1; molar volume 24.0 dm³/mol at r.t.p.]",
+    "marks": 2,
+    "answer": "36.0 dm³",
+    "working": "Mr H₂ = 2; moles = 3.0 ÷ 2 = 1.5 mol; volume = 1.5 × 24.0 = 36.0 dm³."
+   }
+  ],
+  "check": "abs(3.0/2*24.0 - 36.0) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-050",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the volume, in cm³, occupied by 0.0500 mol of oxygen gas at r.t.p.",
+    "marks": 2,
+    "answer": "1200 cm³",
+    "working": "volume = 0.0500 × 24 000 cm³/mol = 1200 cm³."
+   }
+  ],
+  "check": "abs(0.05*24000 - 1200) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-051",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of oxygen in 480 cm³ of oxygen gas at r.t.p. [Ar: O = 16]",
+    "marks": 2,
+    "answer": "0.64 g",
+    "working": "moles = 480 ÷ 24 000 = 0.0200 mol; Mr O₂ = 32; mass = 0.0200 × 32 = 0.64 g."
+   }
+  ],
+  "check": "abs(0.480/24.0*32 - 0.64) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-052",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "0.54 g of aluminium reacts with excess dilute hydrochloric acid: 2Al + 6HCl → 2AlCl₃ + 3H₂. Calculate the volume of hydrogen formed at r.t.p., in cm³. [Ar: Al = 27]",
+    "marks": 3,
+    "answer": "720 cm³",
+    "working": "moles Al = 0.54 ÷ 27 = 0.0200 (1 mark); moles H₂ = 0.0200 × 3/2 = 0.0300 (1 mark); volume = 0.0300 × 24 000 = 720 cm³ (1 mark)."
+   }
+  ],
+  "check": "abs(0.54/27*1.5*24000 - 720) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-053",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Methane burns: CH₄ + 2O₂ → CO₂ + 2H₂O. Calculate the volume of air, in dm³ at r.t.p., needed to burn completely 0.50 dm³ of methane. Air contains 20% oxygen by volume.",
+    "marks": 2,
+    "answer": "5.0 dm³",
+    "working": "the mole ratio CH₄ : O₂ is 1 : 2, and equal volumes at r.t.p. have equal moles, so 0.50 dm³ CH₄ needs 1.00 dm³ O₂; volume of air = 1.00 ÷ 0.20 = 5.0 dm³."
+   }
+  ],
+  "check": "abs(0.5*2/0.2 - 5.0) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-054",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "6",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how a gas syringe can be used to measure the volume of hydrogen produced when magnesium ribbon reacts with dilute acid. Include: (i) how the apparatus is set up; (ii) how and when readings are taken; (iii) one precaution to make the results reliable.",
+    "marks": 3,
+    "answer": "Magnesium and dilute acid in a conical flask closed with a bung and delivery tube connected to the gas syringe; read the syringe volume at regular intervals (e.g. every 30 s) until it stops changing; keep the apparatus airtight and check the plunger moves freely.",
+    "working": "1 mark: flask with Mg and acid, bung and delivery tube to the syringe; 1 mark: readings at regular time intervals until the volume is constant; 1 mark: a precaution, e.g. airtight apparatus, plunger moves freely, or repeat the experiment."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-055",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of hydrogen gas in 4.00 dm³ of hydrogen at r.t.p. [Ar: H = 1]",
+    "marks": 2,
+    "answer": "0.333 g",
+    "working": "moles = 4.00 ÷ 24.0 = 0.1667; mass = 0.1667 × 2 = 0.333 g."
+   }
+  ],
+  "check": "abs(4.0/24.0*2 - 0.333) < 0.001",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-056",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the number of moles of nitrogen in 1.20 dm³ of nitrogen gas at r.t.p.",
+    "marks": 1,
+    "answer": "0.0500 mol",
+    "working": "moles = 1.20 ÷ 24.0 = 0.0500 mol."
+   }
+  ],
+  "check": "abs(1.2/24 - 0.05) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-057",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Sodium hydrogencarbonate is heated: 2NaHCO₃(s) → Na₂CO₃(s) + H₂O(l) + CO₂(g). 0.800 g of NaHCO₃ is heated until no more gas is given off. Calculate the volume of CO₂ at r.t.p., in cm³. [Ar: H = 1, C = 12, O = 16, Na = 23]",
+    "marks": 3,
+    "answer": "114 cm³",
+    "working": "Mr NaHCO₃ = 84; moles NaHCO₃ = 0.800 ÷ 84 = 0.00952 (1 mark); moles CO₂ = half of this = 0.00476 (1 mark); volume = 0.00476 × 24 000 = 114 cm³ (1 mark)."
+   }
+  ],
+  "check": "abs(0.8/84/2*24000 - 114.3) < 0.1",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-058",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "30 cm³ of methane is burned in 100 cm³ of oxygen (excess) at r.t.p.: CH₄ + 2O₂ → CO₂ + 2H₂O. Calculate the volume of oxygen used.",
+    "marks": 1,
+    "answer": "60 cm³",
+    "working": "methane : oxygen = 1 : 2, so 2 × 30 = 60 cm³ of oxygen is used."
+   },
+   {
+    "label": "b",
+    "text": "The products are cooled to r.t.p. (the water is a liquid). Calculate the total volume of gas remaining.",
+    "marks": 2,
+    "answer": "70 cm³",
+    "working": "oxygen left = 100 − 60 = 40 cm³; carbon dioxide formed = 30 cm³; total gas = 40 + 30 = 70 cm³ (1 mark for each of the two gases)."
+   }
+  ],
+  "check": "2*30 == 60 and (100 - 2*30) + 30 == 70",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-059",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "25.0 cm³ of 0.200 mol/dm³ hydrochloric acid is added to excess solid sodium carbonate: Na₂CO₃(s) + 2HCl(aq) → 2NaCl(aq) + H₂O(l) + CO₂(g). Calculate the volume of CO₂ formed at r.t.p., in cm³.",
+    "marks": 3,
+    "answer": "60.0 cm³",
+    "working": "moles HCl = 0.200 × 0.0250 = 0.00500 (1 mark); moles CO₂ = 0.00500 ÷ 2 = 0.00250 (1 mark); volume = 0.00250 × 24 000 = 60.0 cm³ (1 mark)."
+   }
+  ],
+  "check": "abs(0.200*0.025/2*24000 - 60.0) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-060",
+  "topic": "Stoichiometry",
+  "subtopic": "Gas volumes",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the volume, in cm³ at r.t.p., occupied by 0.80 g of a gas with relative molecular mass 32. [Molar volume 24.0 dm³/mol at r.t.p.]",
+    "marks": 2,
+    "answer": "600 cm³",
+    "working": "moles = 0.80 ÷ 32 = 0.0250 mol (1 mark); volume = 0.0250 × 24 000 = 600 cm³ (1 mark)."
+   }
+  ],
+  "check": "abs(0.80/32*24000 - 600) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-061",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A simple cell is made with zinc and copper electrodes in dilute acid. Which statement is correct?\nA Zinc is the positive electrode.\nB Electrons flow from copper to zinc in the wire.\nC Zinc atoms are oxidised.\nD Copper dissolves to form ions.",
+    "marks": 1,
+    "answer": "C Zinc atoms are oxidised",
+    "working": "Zn → Zn²⁺ + 2e⁻ is oxidation at the more reactive metal, which is the negative electrode. Electrons flow from zinc to copper. Copper does not dissolve."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-062",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a hydrogen–oxygen fuel cell with an alkaline electrolyte, which equation describes the reaction at the negative electrode?\nA H₂ + 2OH⁻ → 2H₂O + 2e⁻\nB O₂ + 2H₂O + 4e⁻ → 4OH⁻\nC 2H₂O → O₂ + 4H⁺ + 4e⁻\nD 2H⁺ + 2e⁻ → H₂",
+    "marks": 1,
+    "answer": "A H₂ + 2OH⁻ → 2H₂O + 2e⁻",
+    "working": "Hydrogen is oxidised at the negative electrode (electrons are released). B is the reaction at the positive electrode; C is an oxidation of water to oxygen, not the fuel cell reaction; D is a reduction that produces hydrogen."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-063",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the only product of the reaction in a hydrogen–oxygen fuel cell.",
+    "marks": 1,
+    "answer": "Water (H₂O)",
+    "working": "2H₂ + O₂ → 2H₂O is the overall reaction."
+   },
+   {
+    "label": "b",
+    "text": "State one advantage of a hydrogen fuel cell in a vehicle compared with a petrol engine.",
+    "marks": 1,
+    "answer": "No carbon dioxide or other polluting exhaust gases are produced (only water).",
+    "working": "Accept any one clear environmental benefit, such as no carbon dioxide, no carbon monoxide or no nitrogen oxides in use."
+   },
+   {
+    "label": "c",
+    "text": "State one reason why hydrogen is not yet widely used as a fuel.",
+    "marks": 1,
+    "answer": "Hydrogen is difficult and costly to store and transport safely.",
+    "working": "Accept: most hydrogen is made from fossil fuels; hydrogen needs a large amount of energy to produce; or it is hard to store."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-064",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hydrogen fuel cell produces 5.40 g of water. Calculate the moles of water formed. [Ar: H = 1, O = 16]",
+    "marks": 1,
+    "answer": "0.300 mol",
+    "working": "Mr H₂O = 18; moles = 5.40 ÷ 18 = 0.300 mol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mass of hydrogen used to form this water.",
+    "marks": 2,
+    "answer": "0.600 g",
+    "working": "2H₂ + O₂ → 2H₂O, so moles H₂ = 0.300; mass = 0.300 × 2 = 0.600 g."
+   }
+  ],
+  "check": "abs(5.4/18 - 0.3) < 1e-9 and abs(5.4/18*2 - 0.6) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-065",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hydrogen–oxygen fuel cell has an acidic electrolyte. Write the half-equation for the reaction at the negative electrode.",
+    "marks": 1,
+    "answer": "H₂ → 2H⁺ + 2e⁻",
+    "working": "hydrogen loses electrons (oxidation); the 2 H⁺ ions are released into the electrolyte."
+   },
+   {
+    "label": "b",
+    "text": "Write the half-equation for the reaction at the positive electrode.",
+    "marks": 1,
+    "answer": "O₂ + 4H⁺ + 4e⁻ → 2H₂O",
+    "working": "oxygen gains electrons (reduction) and combines with H⁺ ions to form water."
+   },
+   {
+    "label": "c",
+    "text": "Combine the two half-equations to give the overall equation.",
+    "marks": 1,
+    "answer": "2H₂ + O₂ → 2H₂O",
+    "working": "multiply the first half-equation by 2 so the electrons cancel, then add the two."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-066",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Burning 1 mol of hydrogen releases 286 kJ of energy (H₂ + ½O₂ → H₂O(l); ΔH = −286 kJ/mol). Calculate the moles of hydrogen in 0.80 g of hydrogen. [Ar: H = 1]",
+    "marks": 1,
+    "answer": "0.40 mol",
+    "working": "moles = 0.80 ÷ 2 = 0.40 mol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the energy released when 0.80 g of hydrogen is burned in air.",
+    "marks": 2,
+    "answer": "114 kJ (114.4 kJ)",
+    "working": "energy = 0.40 × 286 = 114.4 kJ."
+   },
+   {
+    "label": "c",
+    "text": "The fuel cell converts 60% of this energy into electrical energy. Calculate the electrical energy produced.",
+    "marks": 2,
+    "answer": "68.6 kJ",
+    "working": "electrical energy = 0.60 × 114.4 = 68.6 kJ."
+   }
+  ],
+  "check": "abs(0.8/2 - 0.4) < 1e-9 and abs(0.4*286 - 114.4) < 1e-6 and abs(0.6*114.4 - 68.64) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-067",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A simple cell is made with magnesium and iron electrodes in salt solution. Explain which metal is the negative electrode, which way the electrons flow, and which metal is oxidised.",
+    "marks": 3,
+    "answer": "Magnesium is the negative electrode because it is more reactive; electrons flow from magnesium through the wire to iron; magnesium is oxidised (Mg → Mg²⁺ + 2e⁻).",
+    "working": "1 mark: magnesium is more reactive than iron so it is the negative electrode; 1 mark: electrons flow from Mg to Fe through the wire; 1 mark: Mg is oxidised, losing electrons."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-068",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a hydrogen fuel cell, state the type of energy conversion that takes place.",
+    "marks": 1,
+    "answer": "Chemical energy is converted into electrical energy (with some heat).",
+    "working": "accept chemical → electrical; the electrical output is the useful energy."
+   },
+   {
+    "label": "b",
+    "text": "Name the substance that is oxidised in the hydrogen fuel cell.",
+    "marks": 1,
+    "answer": "Hydrogen",
+    "working": "hydrogen loses electrons at the negative electrode."
+   },
+   {
+    "label": "c",
+    "text": "State the function of the electrolyte in a cell.",
+    "marks": 1,
+    "answer": "It allows ions to move between the electrodes, completing the circuit inside the cell.",
+    "working": "accept: it carries charge (ions) between the electrodes."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-069",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student makes three simple cells in salt solution: zinc and copper; magnesium and copper; magnesium and zinc. Predict which cell gives the greatest voltage, and explain why. (Reactivity: Mg > Zn > Cu.)",
+    "marks": 3,
+    "answer": "Magnesium and copper gives the greatest voltage.",
+    "working": "1 mark: magnesium is the most reactive metal, so the cell with Mg and Cu has the largest difference in reactivity; 1 mark: greater difference in reactivity gives a greater voltage; 1 mark: the answer Mg and Cu."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-070",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A magnesium and copper cell operates in dilute acid. Write the half-equation for the reaction at the magnesium electrode.",
+    "marks": 1,
+    "answer": "Mg → Mg²⁺ + 2e⁻",
+    "working": "magnesium is oxidised at the negative electrode."
+   },
+   {
+    "label": "b",
+    "text": "Write the half-equation for the reaction at the copper electrode.",
+    "marks": 1,
+    "answer": "2H⁺ + 2e⁻ → H₂",
+    "working": "hydrogen ions gain electrons at the copper (bubbles of hydrogen are seen)."
+   },
+   {
+    "label": "c",
+    "text": "Write the overall ionic equation for the cell reaction.",
+    "marks": 1,
+    "answer": "Mg + 2H⁺ → Mg²⁺ + H₂",
+    "working": "add the two half-equations; the electrons cancel."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-071",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a simple cell stops producing electricity if the electrolyte is removed.",
+    "marks": 2,
+    "answer": "There is no path for ions to move between the electrodes, so the circuit is incomplete and the reactions stop.",
+    "working": "1 mark: the circuit is not completed through the electrolyte; 1 mark: ions cannot carry charge, so no current flows."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-072",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A simple cell has zinc and copper electrodes in lemon juice. Describe the observation at the zinc electrode.",
+    "marks": 1,
+    "answer": "The zinc dissolves (gets smaller).",
+    "working": "zinc is oxidised: Zn → Zn²⁺ + 2e⁻."
+   },
+   {
+    "label": "b",
+    "text": "Describe the observation at the copper electrode.",
+    "marks": 1,
+    "answer": "Bubbles of gas (hydrogen) form on the copper.",
+    "working": "H⁺ ions from the acid gain electrons at the copper."
+   },
+   {
+    "label": "c",
+    "text": "State the direction of electron flow in the external wire.",
+    "marks": 1,
+    "answer": "From zinc to copper",
+    "working": "electrons leave the negative electrode (zinc) and travel to the positive electrode (copper)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-073",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the mass of oxygen needed to form 36 g of water in a hydrogen fuel cell. [Ar: H = 1, O = 16]",
+    "marks": 3,
+    "answer": "32 g",
+    "working": "moles H₂O = 36 ÷ 18 = 2.0 (1 mark); moles O₂ = 2.0 ÷ 2 = 1.0 (1 mark); mass O₂ = 1.0 × 32 = 32 g (1 mark)."
+   }
+  ],
+  "check": "abs(36/18 - 2) < 1e-9 and abs(36/18/2*32 - 32) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-074",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calculate the moles of hydrogen in 1.00 kg of hydrogen gas. [Ar: H = 1]",
+    "marks": 1,
+    "answer": "500 mol",
+    "working": "1000 g ÷ 2 g/mol = 500 mol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the energy released when 1.00 kg of hydrogen is burned, using ΔH = −286 kJ/mol. Give your answer in kJ.",
+    "marks": 2,
+    "answer": "1.43 × 10⁵ kJ (143 000 kJ)",
+    "working": "energy = 500 × 286 = 143 000 kJ = 1.43 × 10⁵ kJ."
+   }
+  ],
+  "check": "abs(1000/2 - 500) < 1e-9 and abs(1000/2*286 - 143000) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-075",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "An iron bolt is to be electroplated with zinc using zinc sulfate solution. Which row is correct?\nA cathode: zinc; anode: bolt; electrolyte: zinc sulfate solution\nB cathode: bolt; anode: zinc; electrolyte: zinc sulfate solution\nC cathode: bolt; anode: iron; electrolyte: dilute sulfuric acid\nD cathode: zinc; anode: iron; electrolyte: iron(II) sulfate solution",
+    "marks": 1,
+    "answer": "B cathode: bolt; anode: zinc; electrolyte: zinc sulfate solution",
+    "working": "The object to be plated is the cathode, where Zn²⁺ ions are reduced to zinc. The anode is the plating metal, which dissolves to replace the ions. A and D swap the cathode and anode; C uses the wrong electrolyte and anode."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-076",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Molten aluminium oxide dissolved in molten cryolite is electrolysed with carbon electrodes. Which statement is correct?\nA aluminium forms at the anode and oxygen at the cathode\nB aluminium forms at the cathode and oxygen at the anode\nC both aluminium and oxygen form at the cathode\nD both aluminium and oxygen form at the anode",
+    "marks": 1,
+    "answer": "B aluminium forms at the cathode and oxygen at the anode",
+    "working": "Al³⁺ ions gain electrons at the negative cathode (Al³⁺ + 3e⁻ → Al); O²⁻ ions lose electrons at the positive anode (2O²⁻ → O₂ + 4e⁻)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-077",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A copper key is electroplated with copper using copper(II) sulfate solution, a copper anode and the key as the cathode. State what happens to: (i) the mass of the copper anode; (ii) the mass of the key; (iii) the colour of the solution.",
+    "marks": 3,
+    "answer": "(i) decreases; (ii) increases; (iii) stays blue (the same).",
+    "working": "1 mark each: copper dissolves from the anode to replace the Cu²⁺ ions used at the cathode; copper deposits on the key, increasing its mass; the concentration stays constant, so the colour stays blue."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-078",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Impure copper is purified by electrolysis. State which electrode is made of impure copper.",
+    "marks": 1,
+    "answer": "The anode",
+    "working": "the impure copper is the anode, so copper atoms are oxidised and dissolve."
+   },
+   {
+    "label": "b",
+    "text": "Write the equation for the reaction at the cathode.",
+    "marks": 2,
+    "answer": "Cu²⁺ + 2e⁻ → Cu",
+    "working": "1 mark for the Cu²⁺ and electrons on the left; 1 mark for Cu on the right and the balanced electrons."
+   },
+   {
+    "label": "c",
+    "text": "State what happens to the silver and gold impurities.",
+    "marks": 1,
+    "answer": "They do not dissolve and fall to the bottom of the cell as anode sludge.",
+    "working": "the less reactive impurities are not oxidised, so they collect below the anode."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-079",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A factory uses 1.02 tonnes of pure aluminium oxide, Al₂O₃, to extract aluminium by electrolysis. Calculate the maximum mass of aluminium, in tonnes. [Ar: Al = 27, O = 16]",
+    "marks": 2,
+    "answer": "0.540 tonnes",
+    "working": "Mr Al₂O₃ = 102; Al in Al₂O₃ = 54; mass = 1.02 × 54 ÷ 102 = 0.540 tonnes."
+   }
+  ],
+  "check": "abs(1.02*54/102 - 0.54) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-080",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In a chemical works, 585 kg of sodium chloride is electrolysed as concentrated brine: 2NaCl(aq) + 2H₂O(l) → 2NaOH(aq) + H₂(g) + Cl₂(g). Calculate the number of kmol of NaCl used. [Ar: Na = 23, Cl = 35.5]",
+    "marks": 1,
+    "answer": "10.0 kmol",
+    "working": "Mr NaCl = 58.5; 585 ÷ 58.5 = 10.0 kmol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mass of sodium hydroxide formed. [Ar: Na = 23, O = 16, H = 1]",
+    "marks": 2,
+    "answer": "400 kg",
+    "working": "2NaCl gives 2NaOH, so 10.0 kmol NaOH; Mr NaOH = 40; mass = 10.0 × 40 = 400 kg."
+   },
+   {
+    "label": "c",
+    "text": "Calculate the mass of chlorine formed. [Cl₂ Mr = 71]",
+    "marks": 2,
+    "answer": "355 kg",
+    "working": "1 mol Cl₂ per 2 mol NaCl, so 5.0 kmol Cl₂; mass = 5.0 × 71 = 355 kg."
+   }
+  ],
+  "check": "abs(585/58.5 - 10) < 1e-9 and abs(10*40 - 400) < 1e-9 and abs(5*71 - 355) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-081",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Sodium is extracted by electrolysis of molten sodium chloride rather than by heating with carbon. Explain why.",
+    "marks": 3,
+    "answer": "Sodium is more reactive than carbon, so carbon cannot displace it from sodium chloride; electrolysis uses the electrical energy to remove electrons from Cl⁻ and add electrons to Na⁺ ions, so the sodium is produced directly.",
+    "working": "1 mark: sodium is more reactive than carbon, so carbon cannot reduce its compound; 1 mark: electrolysis of molten NaCl (ions free to move) releases sodium at the cathode; 1 mark: electrical energy drives the reaction (or sodium would react again)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-082",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In the anodising of aluminium, the aluminium is connected as which electrode? The electrolyte is dilute sulfuric acid.",
+    "marks": 1,
+    "answer": "The anode",
+    "working": "aluminium is oxidised to form an oxide layer on its surface, so it is the anode."
+   },
+   {
+    "label": "b",
+    "text": "State the gas formed at the cathode.",
+    "marks": 1,
+    "answer": "Hydrogen",
+    "working": "H⁺ ions are reduced at the cathode to hydrogen gas."
+   },
+   {
+    "label": "c",
+    "text": "Name the layer that forms on the aluminium.",
+    "marks": 1,
+    "answer": "Aluminium oxide (Al₂O₃)",
+    "working": "the oxide layer is thicker and protects the metal from corrosion."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-083",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State why the carbon anodes in the extraction of aluminium must be replaced regularly.",
+    "marks": 2,
+    "answer": "The oxygen released at the carbon anodes reacts with the carbon to form carbon dioxide, so the anodes are used up.",
+    "working": "1 mark: oxygen is produced at the anode; 1 mark: it reacts with the carbon to form CO₂ (carbon is used up)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-084",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A copper anode loses 1.27 g of copper during electrolysis of copper(II) sulfate solution using copper electrodes. Calculate the moles of copper dissolved from the anode. [Ar: Cu = 63.5]",
+    "marks": 1,
+    "answer": "0.0200 mol",
+    "working": "1.27 ÷ 63.5 = 0.0200 mol."
+   },
+   {
+    "label": "b",
+    "text": "State the mass of copper deposited on the cathode, and explain why the copper sulfate solution keeps its blue colour.",
+    "marks": 2,
+    "answer": "1.27 g; the same number of Cu²⁺ ions is removed at the cathode as is added at the anode, so the concentration stays the same.",
+    "working": "1 mark: the mass deposited equals the mass lost from the anode; 1 mark: Cu²⁺ ions are replaced at the same rate as they are removed."
+   }
+  ],
+  "check": "abs(1.27/63.5 - 0.0200) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-085",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why a copper anode is used, rather than a carbon anode, when electroplating an object with copper.",
+    "marks": 2,
+    "answer": "The copper anode dissolves to replace the Cu²⁺ ions removed from the solution at the cathode, so the concentration stays constant; a carbon anode would release oxygen instead.",
+    "working": "1 mark: copper dissolves to replace the Cu²⁺ ions; 1 mark: carbon would produce oxygen, so the copper ion concentration would fall."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-086",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Concentrated sodium chloride solution is electrolysed. Name the product formed at the anode.",
+    "marks": 1,
+    "answer": "Chlorine",
+    "working": "chloride ions are oxidised at the positive anode: 2Cl⁻ → Cl₂ + 2e⁻."
+   },
+   {
+    "label": "b",
+    "text": "Describe the test for this gas.",
+    "marks": 1,
+    "answer": "It bleaches damp litmus paper (turns it white).",
+    "working": "accept: turns damp blue litmus paper red and then white; chlorine is a bleach."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-087",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Aluminium is extracted by electrolysis, which uses a large amount of electricity. Explain why recycling aluminium saves energy compared with extracting it from aluminium oxide.",
+    "marks": 3,
+    "answer": "Extracting aluminium from its oxide needs a large amount of electrical energy to decompose the strong Al–O bonds and keep the ore molten; recycling only needs melting the metal, which uses much less energy.",
+    "working": "1 mark: electrolysis of aluminium oxide needs large amounts of electrical energy; 1 mark: the oxide must be molten (kept in cryolite); 1 mark: recycling needs only melting, so much less energy is used."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-088",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "6",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how to electroplate a metal key with nickel. Include: the electrodes and electrolyte, the source of current, and what happens to the masses of the electrodes.",
+    "marks": 4,
+    "answer": "The key is the cathode and a nickel rod is the anode, both connected to a d.c. power supply; the electrolyte is nickel(II) sulfate solution; nickel dissolves from the anode and deposits on the key, so the anode gets smaller and the key gets heavier.",
+    "working": "1 mark: key as cathode and nickel as anode; 1 mark: d.c. power supply and nickel(II) sulfate electrolyte; 1 mark: nickel dissolves at the anode; 1 mark: nickel deposits on the key (key mass increases, anode mass decreases)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-089",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A 2.70 g piece of aluminium is fully converted to aluminium oxide during anodising. Calculate the moles of aluminium. [Ar: Al = 27]",
+    "marks": 1,
+    "answer": "0.100 mol",
+    "working": "2.70 ÷ 27 = 0.100 mol."
+   },
+   {
+    "label": "b",
+    "text": "Assuming all the aluminium forms Al₂O₃, calculate the mass of aluminium oxide formed. [Ar: O = 16]",
+    "marks": 2,
+    "answer": "5.10 g",
+    "working": "2 mol Al form 1 mol Al₂O₃; moles Al₂O₃ = 0.0500; Mr = 102; mass = 0.0500 × 102 = 5.10 g."
+   }
+  ],
+  "check": "abs(2.7/27 - 0.1) < 1e-9 and abs(0.1/2*102 - 5.1) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-090",
+  "topic": "Electrochemistry",
+  "subtopic": "Electroplating & industrial electrolysis",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student says: 'In electroplating, the object being plated is the anode.' Explain whether the student is correct.",
+    "marks": 2,
+    "answer": "The student is wrong: the object being plated is the cathode, where the metal ions are reduced and deposited.",
+    "working": "1 mark: the statement is incorrect; 1 mark: the object is the cathode (negative electrode), where the metal ions gain electrons."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-091",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A hydrogen fuel cell uses 4.0 g of hydrogen. Each H₂ molecule releases 2 electrons at the negative electrode (H₂ → 2H⁺ + 2e⁻). Calculate the moles of electrons transferred. [Ar: H = 1]",
+    "marks": 1,
+    "answer": "4.0 mol",
+    "working": "moles H₂ = 4.0 ÷ 2 = 2.0; electrons = 2.0 × 2 = 4.0 mol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the volume of oxygen, in dm³ at r.t.p., consumed by this mass of hydrogen.",
+    "marks": 2,
+    "answer": "24.0 dm³",
+    "working": "2H₂ + O₂ → 2H₂O, so moles O₂ = 2.0 ÷ 2 = 1.0; volume = 1.0 × 24.0 = 24.0 dm³."
+   }
+  ],
+  "check": "abs(4.0/2*2 - 4.0) < 1e-9 and abs(4.0/2/2*24.0 - 24.0) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-092",
+  "topic": "Electrochemistry",
+  "subtopic": "Cells & hydrogen fuel cells",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain one difference between a hydrogen fuel cell and a rechargeable battery.",
+    "marks": 2,
+    "answer": "A fuel cell keeps producing electricity as long as fuel and oxygen are supplied, whereas a battery runs down as its chemicals are used up.",
+    "working": "1 mark: fuel cell needs a continuous supply of reactants (fuel and oxygen) rather than storing them; 1 mark: a battery runs down when its reactants are used up, while a fuel cell does not."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-093",
+  "topic": "Chemical reactions",
+  "subtopic": "Reversible reactions & equilibrium",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which of these is a reversible reaction?\nA combustion of magnesium in air\nB thermal decomposition of limestone in an open furnace\nC hydrated cobalt(II) chloride changing colour on heating and turning back when water is added\nD the reaction of sodium with water",
+    "marks": 1,
+    "answer": "C hydrated cobalt(II) chloride changing colour on heating and turning back when water is added",
+    "working": "Only C can be reversed by adding water and gives back the original product. A and B are not reversed in an open system; D (sodium with water) gives sodium hydroxide and hydrogen, which do not recombine."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-094",
+  "topic": "Chemical reactions",
+  "subtopic": "Reversible reactions & equilibrium",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The reaction N₂(g) + 3H₂(g) ⇌ 2NH₃(g) is exothermic in the forward direction. Which change increases the yield of ammonia at equilibrium?\nA raising the temperature\nB adding an iron catalyst\nC increasing the pressure\nD decreasing the pressure",
+    "marks": 1,
+    "answer": "C increasing the pressure",
+    "working": "There are 4 mol of gas on the left and 2 mol on the right, so higher pressure moves the position to the right. Higher temperature moves it left (exothermic forward); a catalyst speeds up both directions equally; lower pressure moves it left."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-095",
+  "topic": "Chemical reactions",
+  "subtopic": "Reversible reactions & equilibrium",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Hydrated cobalt(II) chloride, CoCl₂·6H₂O, is heated. State its colour before heating.",
+    "marks": 1,
+    "answer": "Pink",
+    "working": "the hydrated salt is pink; the anhydrous salt is blue."
+   },
+   {
+    "label": "b",
+    "text": "State what happens when water is added to the blue anhydrous solid.",
+    "marks": 1,
+    "answer": "It turns pink (the hydrated salt forms again).",
+    "working": "the reverse reaction takes place when water is added."
+   },
+   {
+    "label": "c",
+    "text": "State whether the forward reaction (hydrated salt → anhydrous salt + water) is endothermic or exothermic.",
+    "marks": 1,
+    "answer": "Endothermic",
+    "working": "heat is absorbed when the water is driven off, so the forward reaction takes in heat."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-096",
+  "topic": "Chemical reactions",
+  "subtopic": "Reversible reactions & equilibrium",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calcium carbonate decomposes reversibly in a closed container: CaCO₃(s) ⇌ CaO(s) + CO₂(g). Explain what happens to the position of equilibrium if carbon dioxide is removed from the container.",
+    "marks": 2,
+    "answer": "The equilibrium moves to the right, so more CaCO₃ decomposes and more CaO and CO₂ are formed.",
+    "working": "1 mark: position moves to the right (forward reaction favoured); 1 mark: the reaction replaces the CO₂ removed, so more products form."
+   },
+   {
+    "label": "b",
+    "text": "The forward reaction is endothermic. State and explain the effect of increasing the temperature on the position of equilibrium.",
+    "marks": 2,
+    "answer": "The position moves to the right, because the forward reaction absorbs heat and the system counteracts the increase in temperature.",
+    "working": "1 mark: right; 1 mark: the endothermic forward reaction absorbs the extra heat."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-097",
+  "topic": "Chemical reactions",
+  "subtopic": "Reversible reactions & equilibrium",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The reaction X(g) ⇌ Y(g) has ΔH = +40 kJ/mol for the forward reaction. Predict and explain the effect of lowering the temperature on the position of equilibrium and on the yield of Y.",
+    "marks": 2,
+    "answer": "The position moves to the left, so the yield of Y decreases.",
+    "working": "1 mark: position moves to the left (the exothermic reverse reaction is favoured); 1 mark: the yield of Y falls."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-098",
+  "topic": "Chemical reactions",
+  "subtopic": "Reversible reactions & equilibrium",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe the trend in the yield of Z.",
+    "marks": 1,
+    "answer": "The yield of Z increases as the pressure increases.",
+    "working": "The yield rises at each increase in pressure, but by less on the second increase (+17 percentage points, then +10)."
+   },
+   {
+    "label": "b",
+    "text": "Explain this trend in terms of the number of gas molecules on each side of the equation.",
+    "marks": 2,
+    "answer": "The product side has fewer gas molecules (1 mol) than the reactant side (2 mol), so higher pressure favours the forward reaction.",
+    "working": "1 mark: fewer gas molecules on the product side; 1 mark: an increase in pressure moves the position of equilibrium towards the side with fewer molecules."
+   },
+   {
+    "label": "c",
+    "text": "State the effect of adding a catalyst to this equilibrium on the position of equilibrium and on the yield of Z.",
+    "marks": 1,
+    "answer": "No effect: the position of equilibrium and the yield of Z stay the same; the catalyst only makes equilibrium reached more quickly.",
+    "working": "A catalyst speeds up the forward and reverse reactions equally, so it does not change the position of equilibrium."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false,
+  "stem": "The reaction 2A(g) ⇌ Z(g) takes place in a closed container at constant temperature. The equilibrium yield of Z was measured at three pressures: 100 kPa gives 35%; 200 kPa gives 52%; 400 kPa gives 62%."
+ },
+ {
+  "id": "0620-h4-099",
+  "topic": "Chemical reactions",
+  "subtopic": "Reversible reactions & equilibrium",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The equilibrium 2HI(g) ⇌ H₂(g) + I₂(g) is set up in a closed container. Explain why an increase in pressure has no effect on the position of equilibrium.",
+    "marks": 2,
+    "answer": "There are 2 mol of gas on each side, so the pressure change affects the forward and reverse reactions equally and the position does not change.",
+    "working": "1 mark: the same number of gas molecules on each side; 1 mark: increasing pressure affects both directions equally, so no shift occurs."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-100",
+  "topic": "Chemical reactions",
+  "subtopic": "Rate of reaction",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Zinc reacts with dilute sulfuric acid. Which change decreases the rate of reaction?\nA using zinc powder instead of zinc granules\nB increasing the temperature of the acid\nC diluting the acid with water\nD adding a catalyst",
+    "marks": 1,
+    "answer": "C diluting the acid with water",
+    "working": "Dilution reduces the concentration of acid, so there are fewer particles per unit volume and collisions are less frequent. A, B and D all increase the rate."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-101",
+  "topic": "Chemical reactions",
+  "subtopic": "Rate of reaction",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The graph of volume of gas against time for a reaction is steep at the start and then levels off. Which explains the levelling off?\nA the reactant is used up, so its concentration falls\nB the reaction becomes exothermic\nC the catalyst is used up\nD the particles become larger",
+    "marks": 1,
+    "answer": "A the reactant is used up, so its concentration falls",
+    "working": "As reactant is used up its concentration falls, so collisions become less frequent and the rate decreases to zero. B does not explain the slowing; a catalyst is not used up; particles do not grow."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-102",
+  "topic": "Chemical reactions",
+  "subtopic": "Rate of reaction",
+  "paper": "6",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Describe how a student can measure the rate of the reaction between sodium thiosulfate solution and dilute hydrochloric acid by observing a cross marked on paper under the flask.",
+    "marks": 3,
+    "answer": "Add the acid to the thiosulfate in a flask standing on a marked cross; start the timer and swirl; stop the timer when the cross can no longer be seen; the rate is 1 ÷ time.",
+    "working": "1 mark: acid added to thiosulfate on a cross, timing starts; 1 mark: time stops when the cross disappears (precipitate of sulfur makes the solution cloudy); 1 mark: rate taken as 1 ÷ time and the experiment repeated with a different concentration (the total volume kept constant with water)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-103",
+  "topic": "Chemical reactions",
+  "subtopic": "Rate of reaction",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the total mass of carbon dioxide lost.",
+    "marks": 1,
+    "answer": "0.88 g",
+    "working": "The mass stops changing at 0.88 g, so this is the total mass of carbon dioxide released."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mean rate of reaction over the first 60 s, in g/s.",
+    "marks": 2,
+    "answer": "0.0110 g/s",
+    "working": "rate = mass lost ÷ time = 0.66 ÷ 60 = 0.0110 g/s (1 mark for the method, 1 mark for the answer)."
+   },
+   {
+    "label": "c",
+    "text": "Explain why the mass stops changing after 120 s.",
+    "marks": 1,
+    "answer": "One reactant has been used up, so no more carbon dioxide is produced.",
+    "working": "accept: the limiting reactant is used up."
+   }
+  ],
+  "check": "abs(0.66/60 - 0.0110) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false,
+  "stem": "Magnesium carbonate reacts with dilute hydrochloric acid in an open flask standing on a balance. Carbon dioxide escapes and the mass falls: MgCO₃(s) + 2HCl(aq) → MgCl₂(aq) + H₂O(l) + CO₂(g).\nTime / s: 0, 30, 60, 90, 120, 150\nMass lost / g: 0.00, 0.40, 0.66, 0.80, 0.88, 0.88"
+ },
+ {
+  "id": "0620-h4-104",
+  "topic": "Chemical reactions",
+  "subtopic": "Rate of reaction",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain, in terms of particles, why increasing the pressure of a gas increases the rate of a reaction involving that gas.",
+    "marks": 2,
+    "answer": "There are more gas particles in the same volume, so collisions between particles are more frequent and the rate increases.",
+    "working": "1 mark: more particles per unit volume; 1 mark: more frequent successful collisions."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-105",
+  "topic": "Chemical reactions",
+  "subtopic": "Rate of reaction",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A reaction produces 0.0600 mol of gas in 2.5 minutes. Convert the time into seconds.",
+    "marks": 1,
+    "answer": "150 s",
+    "working": "2.5 × 60 = 150 s."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mean rate of reaction in mol/s.",
+    "marks": 2,
+    "answer": "4.00 × 10⁻⁴ mol/s",
+    "working": "rate = 0.0600 ÷ 150 = 4.00 × 10⁻⁴ mol/s (1 mark for the method, 1 mark for the answer and unit)."
+   }
+  ],
+  "check": "abs(0.06/150 - 4e-4) < 1e-12",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-106",
+  "topic": "Chemical reactions",
+  "subtopic": "Rate of reaction",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Hydrogen peroxide decomposes: 2H₂O₂(aq) → 2H₂O(l) + O₂(g). Manganese(IV) oxide is added as a catalyst. Explain how the catalyst increases the rate of reaction.",
+    "marks": 2,
+    "answer": "The catalyst provides an alternative pathway with a lower activation energy, so more particles have enough energy to react when they collide.",
+    "working": "1 mark: alternative pathway with lower activation energy; 1 mark: more collisions have energy equal to or greater than the activation energy."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the mass of hydrogen peroxide needed to produce 240 cm³ of oxygen at r.t.p. [Ar: H = 1, O = 16]",
+    "marks": 2,
+    "answer": "0.68 g",
+    "working": "moles O₂ = 240 ÷ 24 000 = 0.0100; moles H₂O₂ = 2 × 0.0100 = 0.0200; Mr H₂O₂ = 34; mass = 0.0200 × 34 = 0.68 g."
+   }
+  ],
+  "check": "abs(240/24000*2*34 - 0.68) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-107",
+  "topic": "Chemical reactions",
+  "subtopic": "Industrial processes (Haber, Contact)",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which raw material is the source of nitrogen in the Haber process?\nA air\nB natural gas\nC limestone\nD sulfur",
+    "marks": 1,
+    "answer": "A air",
+    "working": "Nitrogen is obtained from air by fractional distillation of liquid air. Natural gas supplies hydrogen; limestone and sulfur are not sources of nitrogen in this process."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-108",
+  "topic": "Chemical reactions",
+  "subtopic": "Industrial processes (Haber, Contact)",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which substance is the catalyst in the Contact process?\nA iron\nB vanadium(V) oxide\nC platinum\nD nickel",
+    "marks": 1,
+    "answer": "B vanadium(V) oxide",
+    "working": "The Contact process uses vanadium(V) oxide at about 450 °C. Iron is the catalyst in the Haber process; platinum and nickel are not the catalyst of the modern Contact process."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-109",
+  "topic": "Chemical reactions",
+  "subtopic": "Industrial processes (Haber, Contact)",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the substance burned to form sulfur dioxide in the Contact process.",
+    "marks": 1,
+    "answer": "Sulfur",
+    "working": "sulfur burns in air (or oxygen) to give sulfur dioxide."
+   },
+   {
+    "label": "b",
+    "text": "Name the substance that absorbs sulfur trioxide to form the acid.",
+    "marks": 1,
+    "answer": "Concentrated sulfuric acid",
+    "working": "SO₃ is absorbed into concentrated sulfuric acid to form oleum, which is then diluted."
+   },
+   {
+    "label": "c",
+    "text": "Explain why sulfur trioxide is not dissolved directly in water.",
+    "marks": 1,
+    "answer": "Reacting SO₃ with water forms a fine mist (acid droplets) that is difficult to condense and collect, and the reaction is slow and dangerous.",
+    "working": "accept: a mist forms; it is inefficient and difficult to control."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-110",
+  "topic": "Chemical reactions",
+  "subtopic": "Industrial processes (Haber, Contact)",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Ammonia is made by the Haber process: N₂ + 3H₂ ⇌ 2NH₃. Calculate the mass of hydrogen needed to make 680 kg of ammonia. [Ar: N = 14, H = 1]",
+    "marks": 3,
+    "answer": "120 kg",
+    "working": "Mr NH₃ = 17; moles NH₃ = 680 ÷ 17 = 40 kmol (1 mark); H₂ needed = 1.5 × 40 = 60 kmol (1 mark); mass H₂ = 60 × 2 = 120 kg (1 mark)."
+   }
+  ],
+  "check": "abs(680/17*1.5*2 - 120) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-111",
+  "topic": "Chemical reactions",
+  "subtopic": "Industrial processes (Haber, Contact)",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The Haber process is operated at 200 atm rather than at a higher pressure. Explain why a much higher pressure is not used.",
+    "marks": 2,
+    "answer": "Higher pressure would need stronger, more expensive equipment and more energy to compress the gases, which increases cost and the risk of accidents.",
+    "working": "1 mark: equipment must be stronger and more expensive; 1 mark: more energy is needed to compress the gases (cost and safety)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-112",
+  "topic": "Chemical reactions",
+  "subtopic": "Industrial processes (Haber, Contact)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A plant uses 1.60 tonnes of sulfur to make sulfuric acid. Calculate the number of kmol of sulfur used. [Ar: S = 32]",
+    "marks": 1,
+    "answer": "50.0 kmol",
+    "working": "1.60 × 10⁶ g ÷ 32 = 50 000 mol = 50.0 kmol."
+   },
+   {
+    "label": "b",
+    "text": "Assuming all the sulfur converts to sulfuric acid (1 S → 1 H₂SO₄), calculate the theoretical mass of sulfuric acid in tonnes. [Mr H₂SO₄ = 98]",
+    "marks": 2,
+    "answer": "4.90 tonnes",
+    "working": "moles H₂SO₄ = 50.0 kmol; mass = 50.0 × 98 = 4900 kg = 4.90 tonnes."
+   },
+   {
+    "label": "c",
+    "text": "The actual yield is 95%. Calculate the actual mass of sulfuric acid formed, in tonnes.",
+    "marks": 2,
+    "answer": "4.66 tonnes (4.655 tonnes)",
+    "working": "actual mass = 4.90 × 0.95 = 4.655 tonnes, which is 4.66 tonnes to 3 significant figures."
+   }
+  ],
+  "check": "abs(1.6e6/32 - 50000) < 1e-6 and abs(50*98*0.95 - 4655) < 1e-6",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-113",
+  "topic": "Chemical reactions",
+  "subtopic": "Industrial processes (Haber, Contact)",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A plant uses 4.20 tonnes of hydrogen in the Haber process: N₂ + 3H₂ ⇌ 2NH₃. Calculate the number of kmol of hydrogen used. [Ar: H = 1]",
+    "marks": 1,
+    "answer": "2100 kmol",
+    "working": "4.20 × 10⁶ g ÷ 2 g/mol = 2.10 × 10⁶ mol = 2100 kmol."
+   },
+   {
+    "label": "b",
+    "text": "Calculate the theoretical mass of ammonia, in tonnes. [Mr NH₃ = 17]",
+    "marks": 2,
+    "answer": "23.8 tonnes",
+    "working": "3 mol H₂ give 2 mol NH₃, so NH₃ = 2/3 × 2100 = 1400 kmol (1 mark); mass = 1400 × 17 = 23 800 kg = 23.8 tonnes (1 mark)."
+   },
+   {
+    "label": "c",
+    "text": "The actual mass of ammonia is 19.0 tonnes. Calculate the percentage yield to 3 significant figures.",
+    "marks": 2,
+    "answer": "79.8%",
+    "working": "percentage yield = 19.0 ÷ 23.8 × 100 = 79.8% (1 mark for the method, 1 mark for the answer)."
+   }
+  ],
+  "check": "abs(4.2e6/2/1000 - 2100) < 1e-6 and abs(2100*2/3*17/1000 - 23.8) < 1e-9 and abs(19.0/23.8*100 - 79.8) < 0.05",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-114",
+  "topic": "Chemical reactions",
+  "subtopic": "Industrial processes (Haber, Contact)",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Ammonia reacts with nitric acid: NH₃ + HNO₃ → NH₄NO₃. Calculate the mass of ammonium nitrate that can be made from 1.7 tonnes of ammonia. [Ar: H = 1, N = 14, O = 16]",
+    "marks": 2,
+    "answer": "8.0 tonnes",
+    "working": "moles NH₃ = 1.7 × 10⁶ ÷ 17 = 100 000 mol; NH₄NO₃ = 100 000 mol; Mr = 80; mass = 8.0 × 10⁶ g = 8.0 tonnes."
+   }
+  ],
+  "check": "abs(1.7e6/17*80/1e6 - 8.0) < 1e-9",
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-115",
+  "topic": "Chemical reactions",
+  "subtopic": "Industrial processes (Haber, Contact)",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State why unreacted nitrogen and hydrogen are recycled in the Haber process.",
+    "marks": 1,
+    "answer": "To save raw materials and make the process more economical (more of the reactants are used).",
+    "working": "accept: reduces waste and cost."
+   },
+   {
+    "label": "b",
+    "text": "State how ammonia is separated from the unreacted gases.",
+    "marks": 1,
+    "answer": "The gas mixture is cooled, so the ammonia turns into a liquid and is removed.",
+    "working": "ammonia has a higher boiling point and liquefies when cooled, while N₂ and H₂ remain gases."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-116",
+  "topic": "Chemical reactions",
+  "subtopic": "Redox & oxidation number",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "What is the oxidation number of sulfur in H₂SO₄?\nA +2\nB +4\nC +6\nD −2",
+    "marks": 1,
+    "answer": "C +6",
+    "working": "H = +1 (×2) and O = −2 (×4), so 2(+1) + S + 4(−2) = 0; S = +6. A, B and D do not satisfy the sum to zero."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-117",
+  "topic": "Chemical reactions",
+  "subtopic": "Redox & oxidation number",
+  "paper": "2",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In the reaction Cu(s) + 2Ag⁺(aq) → Cu²⁺(aq) + 2Ag(s), which statement is correct?\nA copper is reduced\nB silver ions are oxidised\nC copper atoms lose electrons\nD silver atoms lose electrons",
+    "marks": 1,
+    "answer": "C copper atoms lose electrons",
+    "working": "Copper goes from 0 to +2 (oxidised, loses electrons). Silver ions go from +1 to 0 (reduced, gain electrons). A and B reverse these, and D describes silver atoms being formed, not losing electrons."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-118",
+  "topic": "Chemical reactions",
+  "subtopic": "Redox & oxidation number",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State the oxidation number of oxygen in hydrogen peroxide, H₂O₂.",
+    "marks": 1,
+    "answer": "−1",
+    "working": "H₂O₂ has H = +1 each, so 2(+1) + 2(O) = 0 gives O = −1."
+   },
+   {
+    "label": "b",
+    "text": "State the oxidation number of carbon in carbon dioxide, CO₂.",
+    "marks": 1,
+    "answer": "+4",
+    "working": "C + 2(−2) = 0, so C = +4."
+   },
+   {
+    "label": "c",
+    "text": "State the oxidation number of nitrogen in the nitrate ion, NO₃⁻.",
+    "marks": 1,
+    "answer": "+5",
+    "working": "N + 3(−2) = −1, so N = +5."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-119",
+  "topic": "Chemical reactions",
+  "subtopic": "Redox & oxidation number",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In the reaction Mg(s) + CuSO₄(aq) → MgSO₄(aq) + Cu(s), identify the oxidising agent.",
+    "marks": 1,
+    "answer": "Cu²⁺ ions (copper(II) sulfate)",
+    "working": "the oxidising agent is the species that is reduced, Cu²⁺ → Cu."
+   },
+   {
+    "label": "b",
+    "text": "Write the half-equation for the oxidation of magnesium.",
+    "marks": 1,
+    "answer": "Mg → Mg²⁺ + 2e⁻",
+    "working": "magnesium loses two electrons."
+   },
+   {
+    "label": "c",
+    "text": "Write the half-equation for the reduction of copper(II) ions.",
+    "marks": 1,
+    "answer": "Cu²⁺ + 2e⁻ → Cu",
+    "working": "copper(II) ions gain two electrons."
+   },
+   {
+    "label": "d",
+    "text": "State the colour change of the solution.",
+    "marks": 1,
+    "answer": "From blue to colourless",
+    "working": "Cu²⁺ ions are blue; Mg²⁺ ions are colourless, so the blue colour fades."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-120",
+  "topic": "Chemical reactions",
+  "subtopic": "Redox & oxidation number",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "In the reaction Cl₂(g) + 2I⁻(aq) → 2Cl⁻(aq) + I₂(aq), give the oxidation number of iodine in I⁻ and in I₂.",
+    "marks": 2,
+    "answer": "I⁻ is −1; I₂ is 0",
+    "working": "1 mark for each: I⁻ is −1; an element has oxidation number 0."
+   },
+   {
+    "label": "b",
+    "text": "State which species is oxidised and which is reduced.",
+    "marks": 2,
+    "answer": "Iodide ions (I⁻) are oxidised; chlorine (Cl₂) is reduced.",
+    "working": "1 mark each: I⁻ goes from −1 to 0 (loses electrons); Cl₂ goes from 0 to −1 (gains electrons)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-121",
+  "topic": "Chemical reactions",
+  "subtopic": "Redox & oxidation number",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Acidified dichromate(VI) ions (Cr₂O₇²⁻) are orange. In a reaction they become Cr³⁺ ions (green). Give the oxidation number of chromium in Cr₂O₇²⁻.",
+    "marks": 1,
+    "answer": "+6",
+    "working": "2 Cr + 7(−2) = −2, so 2 Cr = +12 and each Cr = +6."
+   },
+   {
+    "label": "b",
+    "text": "Write the ionic half-equation for the reduction of Cr₂O₇²⁻ to Cr³⁺ in acid.",
+    "marks": 2,
+    "answer": "Cr₂O₇²⁻ + 14H⁺ + 6e⁻ → 2Cr³⁺ + 7H₂O",
+    "working": "1 mark for the correct species (Cr³⁺ and H₂O with H⁺ and electrons); 1 mark for balancing atoms and charge (14H⁺ and 6e⁻)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-122",
+  "topic": "Chemical reactions",
+  "subtopic": "Redox & oxidation number",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give the oxidation number of nitrogen in each of: NH₃, NO, NO₂ and HNO₃.",
+    "marks": 4,
+    "answer": "NH₃ = −3; NO = +2; NO₂ = +4; HNO₃ = +5",
+    "working": "1 mark each: NH₃: N + 3(+1) = 0 gives −3; NO: N + (−2) = 0 gives +2; NO₂: N + 2(−2) = 0 gives +4; HNO₃: 1 + N + 3(−2) = 0 gives +5."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-123",
+  "topic": "Chemical reactions",
+  "subtopic": "Redox & oxidation number",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "The change Fe²⁺(aq) → Fe³⁺(aq) takes place. State whether this is oxidation or reduction, and give the change in oxidation number.",
+    "marks": 2,
+    "answer": "Oxidation; the oxidation number increases from +2 to +3 (by +1).",
+    "working": "1 mark: oxidation (electron loss, Fe²⁺ → Fe³⁺ + e⁻); 1 mark: oxidation number rises from +2 to +3."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-124",
+  "topic": "Chemical reactions",
+  "subtopic": "Redox & oxidation number",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "State whether Fe → Fe²⁺ is oxidation or reduction.",
+    "marks": 1,
+    "answer": "Oxidation",
+    "working": "iron loses electrons."
+   },
+   {
+    "label": "b",
+    "text": "State whether Cl₂ → 2Cl⁻ is oxidation or reduction.",
+    "marks": 1,
+    "answer": "Reduction",
+    "working": "chlorine gains electrons."
+   },
+   {
+    "label": "c",
+    "text": "State whether Mg²⁺ → Mg is oxidation or reduction.",
+    "marks": 1,
+    "answer": "Reduction",
+    "working": "magnesium ions gain electrons."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-125",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "2",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Which of these is a physical change?\nA souring of milk\nB melting of wax\nC toasting of bread\nD tarnishing of silver",
+    "marks": 1,
+    "answer": "B melting of wax",
+    "working": "Melting changes only the state of the wax; no new substance is formed and it can be reversed by cooling. A, C and D each form new substances (lactic acid, a toasted product and silver sulfide)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-126",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Dissolving sugar in water. Classify the change as physical or chemical.",
+    "marks": 1,
+    "answer": "Physical",
+    "working": "no new substance is formed; the sugar can be recovered by evaporation."
+   },
+   {
+    "label": "b",
+    "text": "Milk going sour. Classify the change as physical or chemical.",
+    "marks": 1,
+    "answer": "Chemical",
+    "working": "bacteria produce acid, a new substance."
+   },
+   {
+    "label": "c",
+    "text": "Crushing an aluminium can. Classify the change as physical or chemical.",
+    "marks": 1,
+    "answer": "Physical",
+    "working": "only the shape changes."
+   },
+   {
+    "label": "d",
+    "text": "Burning paper. Classify the change as physical or chemical.",
+    "marks": 1,
+    "answer": "Chemical",
+    "working": "new substances (ash, carbon dioxide, water vapour) are formed."
+   },
+   {
+    "label": "e",
+    "text": "Steam condensing to water. Classify the change as physical or chemical.",
+    "marks": 1,
+    "answer": "Physical",
+    "working": "only the state changes; it can be reversed by heating."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-127",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student heats a spoonful of sugar strongly until it turns black. Give two observations that show a new substance has been formed.",
+    "marks": 2,
+    "answer": "The sugar turns black (carbon is formed); steam or water vapour forms and a burnt smell is produced.",
+    "working": "1 mark for each: colour change to black; steam or water droplets or a burnt smell (any two)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-128",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why melting ice is a physical change.",
+    "marks": 2,
+    "answer": "No new substance is formed, since the water molecules are the same before and after; the change can be reversed by freezing.",
+    "working": "1 mark: no new substance; 1 mark: the change is reversible (freezing gives back ice)."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-129",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Calcium carbonate reacts with dilute hydrochloric acid. Give evidence that this is a chemical change.",
+    "marks": 2,
+    "answer": "Bubbles of carbon dioxide gas are produced, and the calcium carbonate disappears to form a new solution of calcium chloride.",
+    "working": "1 mark: a gas (carbon dioxide) is given off; 1 mark: new substances form (calcium chloride solution) and the change is not simply reversed."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-130",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Classify each change as physical (P) or chemical (C): (i) stretching a rubber band; (ii) burning magnesium ribbon; (iii) grinding a solid into a powder; (iv) photosynthesis in a green leaf.",
+    "marks": 4,
+    "answer": "(i) P; (ii) C; (iii) P; (iv) C",
+    "working": "1 mark for each correct classification: stretching and grinding change only the shape; burning and photosynthesis form new substances."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-131",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Explain why the total mass of a closed flask and its contents stays the same during both a physical change and a chemical change.",
+    "marks": 3,
+    "answer": "The atoms are rearranged but not created or destroyed, so the total mass is conserved; in a closed flask no gas can escape, so no mass is lost.",
+    "working": "1 mark: atoms are conserved; 1 mark: in both types of change, the atoms are rearranged rather than created or destroyed; 1 mark: no mass escapes from a closed flask."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-132",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Give one energy change that happens in a chemical reaction and one that happens when a solid melts.",
+    "marks": 2,
+    "answer": "Chemical reaction: heat or light is released (exothermic) or absorbed (endothermic); melting: heat is absorbed from the surroundings.",
+    "working": "1 mark for an energy change in a chemical reaction (e.g. heat released when fuel burns); 1 mark for melting absorbing heat."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-133",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Heating copper(II) carbonate forms black copper(II) oxide. Give two observations for this reaction.",
+    "marks": 2,
+    "answer": "The green powder turns black; a gas is given off that turns limewater milky.",
+    "working": "1 mark for each of: green solid turns black; gas evolved that turns limewater milky (accept any two clear observations)."
+   },
+   {
+    "label": "b",
+    "text": "Is this a physical or a chemical change? Give a reason.",
+    "marks": 1,
+    "answer": "Chemical; new substances (copper(II) oxide and carbon dioxide) are formed.",
+    "working": "a new substance with a different colour is formed, which is a chemical change."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-134",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "A student says: 'Dissolving a solid in water is a chemical change because a new solution is formed.' Evaluate this statement.",
+    "marks": 3,
+    "answer": "The statement is wrong: dissolving is a physical change, since the solute particles spread out but are unchanged; the solid can be recovered by evaporating the water.",
+    "working": "1 mark: statement is incorrect; 1 mark: no new substance is formed (the particles are unchanged); 1 mark: the solid can be recovered, which shows a physical change."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-135",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "standard",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Iodine crystals are heated and form a purple vapour. When the vapour cools, a solid forms again. Name this change of state and classify it.",
+    "marks": 2,
+    "answer": "Sublimation (solid to gas and back again); it is a physical change because no new substance is formed.",
+    "working": "1 mark: sublimation; 1 mark: physical, no new substance formed."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-136",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "challenge",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Blue hydrated copper(II) sulfate, CuSO₄·5H₂O, is heated to a white powder, and water is driven off. Adding water to the white powder turns it blue again. Explain whether heating is a physical or chemical change, even though it can be reversed.",
+    "marks": 3,
+    "answer": "It is a chemical change: the white anhydrous salt is a different substance from the hydrated salt, and reversibility does not decide the type of change.",
+    "working": "1 mark: a new substance (white anhydrous CuSO₄) is formed; 1 mark: the blue colour returns only through a chemical reaction with water; 1 mark: reversibility does not by itself make a change physical."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
+ },
+ {
+  "id": "0620-h4-137",
+  "topic": "Chemical reactions",
+  "subtopic": "Physical vs chemical change",
+  "paper": "4",
+  "difficulty": "core",
+  "parts": [
+   {
+    "label": "a",
+    "text": "Name the change of state when: (i) steam turns into water; (ii) water turns into ice; (iii) solid wax turns into liquid.",
+    "marks": 3,
+    "answer": "(i) condensation; (ii) freezing (solidification); (iii) melting.",
+    "working": "1 mark each: condensation; freezing; melting."
+   }
+  ],
+  "author": "HomiLabs",
+  "reviewed": false
  }
 ]
