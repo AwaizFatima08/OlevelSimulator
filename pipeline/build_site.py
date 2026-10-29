@@ -583,7 +583,8 @@ questions year by year and groups similar questions, so students can see what is
 <p>New questions are added twice a year, after the May/June and Oct/Nov exam series. Current release: <strong>{esc(RELEASE['version'])}</strong>
 ({esc(RELEASE['label'])}).</p>
 <h2 id="privacy">Privacy</h2>
-<p>No accounts, no ads, no analytics and no cookies. The site stores nothing about you. Filters you choose stay in your own browser.</p>
+<p>The website has no accounts, no ads, no analytics and no cookies. The site stores nothing about you. Filters you choose stay in your own browser.</p>
+<p>The Question Simulator Android app shows ads from Google AdMob. AdMob may use a device advertising ID and app-use data to choose ads. In the UK, the EEA and Switzerland you are asked for consent before personalised ads, and the app's About screen has an Ad privacy options button to change your choice. Saved questions and done marks stay on your phone. The app only contacts this website to check for new questions.</p>
 <h2 id="contact">Contact</h2>
 <p>Found a wrong tag or a missing question? Email <a href="mailto:{esc(RELEASE['contact_email'])}">{esc(RELEASE['contact_email'])}</a>.
 Rights holders can use the same address to ask for any content to be removed; we act within one working day.</p>

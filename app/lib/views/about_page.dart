@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../ads.dart';
 import '../app.dart';
 import '../widgets/common.dart';
 
@@ -12,6 +13,15 @@ class AboutPage extends StatefulWidget {
 
 class _AboutPageState extends State<AboutPage> {
   bool _checking = false;
+  bool _adChoices = false;
+
+  @override
+  void initState() {
+    super.initState();
+    Ads.privacyOptionsRequired().then((required) {
+      if (mounted && required) setState(() => _adChoices = true);
+    });
+  }
 
   Future<void> _check() async {
     setState(() => _checking = true);
@@ -81,13 +91,19 @@ class _AboutPageState extends State<AboutPage> {
           Text('Privacy', style: text.titleMedium),
           const SizedBox(height: 4),
           const Text(
-            'No account, no ads, no analytics. Saved questions and done marks stay on this device. '
-            'The app only contacts the website to check for new questions.',
+            'No account and no analytics. Saved questions and done marks stay on this device. '
+            'The app only contacts the website to check for new questions. '
+            'The app shows ads from Google AdMob, which may use an advertising ID and app-use data to choose ads. '
+            'In the UK, the EEA and Switzerland you are asked for consent before personalised ads.',
           ),
           const SizedBox(height: 8),
           Align(
             alignment: Alignment.centerLeft,
-            child: TextButton(onPressed: _clear, child: const Text('Clear saved and done marks')),
+            child: Wrap(spacing: 8, children: [
+              TextButton(onPressed: _clear, child: const Text('Clear saved and done marks')),
+              if (_adChoices)
+                TextButton(onPressed: Ads.showPrivacyOptions, child: const Text('Ad privacy options')),
+            ]),
           ),
           const SizedBox(height: 16),
           Text('Contact', style: text.titleMedium),

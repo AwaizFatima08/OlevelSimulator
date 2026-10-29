@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../ads.dart';
 import '../data/models.dart';
 import '../widgets/common.dart';
 import '../widgets/question_tile.dart';
@@ -54,6 +55,7 @@ class TopicPage extends StatelessWidget {
             ),
           ],
         ),
+        bottomNavigationBar: const AdBanner(),
       ),
     );
   }

@@ -22,7 +22,7 @@ Pick your subject, open a topic, and see every time it was examined from May/Jun
 • Tick questions as done and save the ones you want to revisit — kept only on your phone
 • Works offline; new questions are added after each May/June and Oct/Nov exam series
 
-No account, no ads, no tracking. The app does not contain question papers, mark schemes or examiner reports — get the papers from the official Cambridge website or your school.
+No account. Shows ads from Google AdMob. Saved questions stay on your phone. The app does not contain question papers, mark schemes or examiner reports — get the papers from the official Cambridge website or your school.
 
 Independent project by HomiLabs. Not affiliated with, endorsed by or connected to Cambridge University Press & Assessment. "Cambridge", "IGCSE" and "O Level" are trademarks of Cambridge University Press & Assessment, used here only to describe which exams the questions come from.
 
@@ -33,10 +33,10 @@ Independent project by HomiLabs. Not affiliated with, endorsed by or connected t
 ## App content answers
 - **Privacy policy:** URL above.
 - **App access:** all functionality available without special access.
-- **Ads:** No ads.
+- **Ads:** Contains ads (Google AdMob). Declare this in the Play Console ads question; set the Data safety form to show the advertising ID as collected for advertising, not shared otherwise.
 - **Content rating (IARC):** category Reference/Education; no violence, sexuality, language, drugs, gambling, user interaction or sharing of location. Expected: Everyone / PEGI 3.
 - **Target audience:** 13–15, 16–17, 18+ (O Level, IGCSE and A Level students). Not designed for children under 13.
-- **Data safety:** no data collected, no data shared. The app downloads content packs from the website; it sends no user data. Data encrypted in transit (HTTPS). No account, so no deletion request needed.
+- **Data safety:** no account and no personal data collected by HomiLabs. Google AdMob collects a device advertising ID and app-use data to show ads, shared with Google for advertising. Saved questions and done marks stay on the device. The app downloads content packs from the website. Data encrypted in transit (HTTPS). No account, so no deletion request needed.
 - **Government app:** No · **Financial features:** None · **Health:** No · **News app:** No.
 
 ## Release

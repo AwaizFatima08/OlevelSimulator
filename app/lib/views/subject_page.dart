@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import '../ads.dart';
 import '../app.dart';
 import '../data/models.dart';
 import '../widgets/common.dart';
@@ -81,8 +82,12 @@ class _SubjectPageState extends State<SubjectPage> {
           Card(
             clipBehavior: Clip.antiAlias,
             child: InkWell(
-              onTap: () => Navigator.of(context)
-                  .push(MaterialPageRoute(builder: (_) => TopicPage(subject: s, topic: t))),
+              onTap: () async {
+                await Ads.onTopicOpened();
+                if (!context.mounted) return;
+                Navigator.of(context)
+                    .push(MaterialPageRoute(builder: (_) => TopicPage(subject: s, topic: t)));
+              },
               child: Padding(
                 padding: const EdgeInsets.all(14),
                 child: Column(
